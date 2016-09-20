@@ -4,6 +4,11 @@
 
 웹서비스 중단을 대비하여 데이터 필요로 하는 분들과 차후 새로운 웹사이트에 사용될것을 대비하기 위해 github 에 공개합니다.
 
+## 사용된 소프트웨어 버전
+
+- dokuwiki 2013-12-08 "Binky"
+  - https://github.com/splitbrain/dokuwiki/releases/tag/release_stable_2013-12-08 
+
 ## 라이센스 
 
 ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
