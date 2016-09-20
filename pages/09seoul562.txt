@@ -1,0 +1,196 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL562  |  2009-04-08 03:47  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KS KN PGOV PREL }}  |
+====== 제 목: 재외국민 투표권 부여로 인해 부패와 내분 우려 ======
+기 밀 SEOUL 000562 
+국방부망 배포((SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 03/31/2019 
+태그: KS(([Korea (South)])), KN(([Korea (North)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations] ))
+제 목: 재외국민 투표권 부여로 인해 부패와 내분 우려
+참조: [[09seoul498|SEOUL 000498]] 
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/03/07 13:48//
+===== 요점 =====
+1. (기밀) 요점: 2월 5일 국회는 재외 국민 투표권을 허용하는 법안을 통과시켰다. 2012년 국회의원 선거를 시점으로, 재외 한국민이 한국 대사관이나 영사관에서 몸소 투표할 수 있게 될 예정이다. 어떻게 이들 유권자에게 투표권을 줄지는 다소 논란의 소지가 있어 왔고, 여야 어느 쪽에 속해 있는 국회 접선책이던 간에 재외 지역사회에 더 많은 권한을 부여해 나타날 파장에 대해 걱정하고 있다. 정치 접선책들은 첫 선거나 두 번째 선거에서 문제점들이 나올 것으로 보는데, 해당 문제들은 선거권 제약의 확대로 이어질 공산이 크다. 얄궃게도 한국 민주주의의 승리라고 할만한 재외 국민투표가 부패라고 하는 한국 정치 최악의 특성을 악화하고, 수출할 수도 있다. 요약 끝.
+===== 투표할 권리: 법제화 =====
+2. (민감하지만 미분류) 2월 5일에 국회는 앞으로 재외(在外) 한국민에게 대선과 총선에서 투표할 권리를 허용하는 법안을 통과시켰다. 2012년 선거는 박정희 대통령이 재외(在外) 한국민의 투표권을 거부한 1972년 이래로 재외 한국민이 투표할 수 있게 되는 첫해가 될 것이다. 2007년 6월 헌법재판소는 투표권 제한이 위헌이라고 결정한 이후에 해당 법률의 수정을 명령했다. 재외 한국민은 여전히 지방선거에는 참여할 수 없으며, 재외 국민투표는 국회 비례대표 의석에만 가산된다. (총 299석에서 54석은 정당 투표에 근거에 결정된다). 언론은 재외 한국민 참정권에 대한 환영의 뜻을 나타냈으며, 한국 민주주의에 유의미한 발전으로 여기고 있다. 투표를 행사하려면 재외 한국민은 한국 대사관이나 영사관에 방문해야 하며, 해당 선거 150~160일 이전에 선거인 등록을 해야 한다; 우편 투표는 안전 문제로 허용되지 않을 예정이다. 재외 한국민 대상 참정권은 2012년 총선에 상당한 충격을 미칠 수 있는데, 그 이유는 투표할 자격을 갖춘 270만 재외 한국민이 대개 보수층이기 때문이다.
+===== 자격요건 =====
+3. (민감하지만 미분류) 19세 이상 한국 국적의 사람은 선거권을 갖게 되고, 재외 지역사회에도 똑같이 적용된다. 한국은 이중 국적을 인정하지 않으며; 남성들은 18세가 되는 당년(當年) 3월 31일까지 하나의 국적을 선택해야만 하고, 여성은 21세까지 선택해야만 한다. 한국 국적 유권자들은 가까운 대사관이나 영사관에서 유권자로 등록할 때, 자신의 한국 여권과 해외 비자 혹은 장기 체류 증명서 등을 제시해야만 한다. 이 과정에서 아직도 유효한 한국 여권을 지니고 있는 미국 시민들이 한국 선거에 투표하지 못하게 방지할 것이다.
+===== 잠재적인 문제들: 권력과 돈 =====
+4. (기밀) 재외 한국민에 대한 투표권 허용에 반대하는 기류는 주로 야당인 민주당에서 비롯되지만, 집권당 한나라당 의원들도 경계하는 이유를 언급하고 있다. 최근 이 문제를 논의하기 위해 미국을 방문한 국회의원 홍정욱에 의하면 우려할 만한 세 가지 대표적인 이유가 있다. 첫째는 공정성. 한국인은 한국 대사관이나 영사관에서 본인이 투표해야 하는 관계로 투표참여가 상당히 줄어들 것이다. 홍 의원은 270만 재외 한국민 중에 약 50만 명 정도만 투표할 것으로 예상하였다. 한국민은 우편 투표나 전자 투표 허용에 대해선 부정 투표 가능성을 의심하고 있다고 홍 의원은 말했다.
+
+5. (기밀) 홍정욱은 두 번째 대표적인 우려 사항으로 국외 한국인 지역사회를 갈라놓을 잠재성을 언급하였다. 홍 의원은 로스앤젤레스와 뉴욕 한국인 공동체는 이미 극명하게 갈라섰으며, 정치 단체들은 지역사회 안에서 권력을 다투고 있다고 말했다. 뉴욕 지역에서만 1,000개 이상의 한국인 협회가 있다. 홍 의원은 한나라당이 어떤 재외 한국민 단체와 어떻게 연계할 것인지 확신하지 못했다. 홍 의원은 사회적 지위를 바라보고 정치 단체를 맡고 싶어하는 “전형적인 노친내”가 흔해 빠진 이유는 단체장이 되면 한국 여행 기회와 대통령도 만날 기회를 가져다주기 때문이라고 말했다. 이들 지역사회 지도자들은 특히 미국, 일본, 호주에서 강세를 보이고 있다고 홍 의원은 말했다. 벌써 한나라당에 재외 한국민 지도자들의 요구가 빗발치고 있으며, 이들 중 대다수는 국외 지역사회가 고유의 대표자를 보유해야 한다고 주장하고 있다. 홍 의원은 그런 구상을 불가능하다고 일축했다.
+
+6. (기밀) 홍 의원이 언급한 세 번째 우려 사안은 재외 한국민들이 국내 정치에 도가 지나친 과도한 목소리를 내게 될 가능성을 언급하였다. 자격을 갖춘 국외 유권자 수가 대략 1997년 대선 당선인의 당락을 결정한 표차보다 대략 6배가 많고, 2002년 대선의 당선인의 당락을 결정할 표차보다는 4배가 넘는다. 대부분의 재외 한국민은 세금을 내지 않지만, 선거의 당락을 판가름할 능력으로 말미암아 그들이 몸담고 있는 국가가 책임져야 할 혜택을 한국이 해주리라 기대하도록 만들 수 있다.
+===== 새 투표의 소개 =====
+7. (기밀) 이 법이 적용될 첫 선거는 2012년 이전에는 벌어지지 않을 예정이다. 해서 국회는 까다로운 문제를 손볼 얼마간의 시간을 벌었다. 국회의 한 관계자는 대책위가 곧 설립되어서 재외 국민투표 제도를 시행할 예정이라고 대사관 정무 직원에게 말했다. 그녀가 추정하길 2012년에는 미국과 일본에서만 동 제도 이용이 가능할 거라고 했다. 홍정욱은 처음 한 두 번 선거에서 예상치 못한 문제들이 부각될 것으로 예상하였다. 예를 들면 7년 이상 국외에서 생활한 선거인의 투표가 불허되고, 2중 국적자의 투표를 금지하는 등 거주 기간과 같은 투표 자격요건을 제한하는 결과를 낳을 수 있다. 홍정욱은 자신은 재외 한국민에게 투표할 기회를 주는 건 실수라고 생각하지만, 투표권 부정은 위헌이기 때문에, 선택의 여지가 없다고 말했다.
+===== 논평 =====
+8. (기밀) 외관상으로는 재외 국민이 투표를 허용하도록 하는 일은 민주주의의 승리이지만, 대사관 접선책들은 이러한 노력이 부패, 내분, 부정이라고 하는 한국 정치 최악의 특성을 수출할까 봐 걱정하고 있다. 이미 태광 실업 스캔들은 여전히 국회에서 전개되고 있고, 국회의원들이 뉴욕의 한국인 사업가의 부적절한 정치자금과 관련해 심문을 받고 있는 상황이며([[09seoul1001|참조전문]]), 여타 정치권 대사관 접선책들도 재외 국민으로부터 자금을 받는 관행을 실토한 바 있다. 정치 참여를 합법화하게 되면 한국 지역사회가 그들이 몸담은 나라에 정착하는 일을 어렵게 만들 거라는 재외 한국민 사이에 일부 우려도 있다. 일본 내 한국민들은 주류 일본사회에 합류하기가 특히 어렵다고들 한다. 비슷하게 일부 미국 사는 한국민들도 덤으로 옛 모국과의 유대관계를 모색하기보다는 미국 사회에 적극적으로 융화되어야 한다고 믿고 있다. 한국 국회의원들은 이러한 우려 사안들을 인정하고 있지만, 나라 안팎의 모든 한국이 투표권이 있다는 헌법의 요건으로 말미암아 빠져나올 구멍이 없다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul562|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL562.rtf>
+C O N F I D E N T I A L SEOUL 000562 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/31/2019 
+TAGS: KS [Korea (South)], KN [Korea (North)], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations] 
+SUBJECT: GRANTING OVERSEAS KOREANS VOTING RIGHTS RAISES 
+RISK OF CORRUPTION, IN-FIGHTING 
+ 
+REF: SEOUL 000498 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY:  On February 5, the National Assembly passed 
+legislation granting voting rights to Koreans residing 
+overseas.  Starting with the 2012 National Assembly 
+elections, overseas Koreans will be able to vote in person at 
+Korean Embassies and Consulates.  How to enfranchise these 
+voters has been the source of some debate, and National 
+Assembly contacts on both sides of the aisle worry about the 
+impact of giving overseas communities more power.  Political 
+contacts foresee problems with the first election or two, 
+which will likely be followed by increased eligibility 
+restrictions.  Ironically, this victory for Korean democracy 
+may also exacerbate and export the worst trait of Korean 
+politics -- corruption.  END SUMMARY. 
+ 
+------------------------------ 
+Right to Vote: The Legislation 
+------------------------------ 
+ 
+¶2.  (SBU) On February 5, the National Assembly passed 
+legislation allowing Koreans who reside overseas the right to 
+vote in future presidential and National Assembly elections. 
+The 2012 elections will be the first time that Koreans 
+residing overseas will be able to vote since 1972 when 
+President Park Chung-hee denied this right to Koreans 
+residing abroad.  The Constitutional Court ruled the 
+restriction unconstitutional in June 2007 and ordered the 
+law's revision.  Overseas Koreans will still be unable to 
+participate in local elections and their votes will only 
+count towards proportional seats in the National Assembly (54 
+seats out of a total 299 are determined based on party 
+support).  Press reports indicate that overseas Koreans 
+welcome suffrage and see it as a significant development in 
+Korean democracy.  To cast ballots, Koreans will have to go 
+to ROK embassies and consulates and register to vote 150-60 
+days before the election; mail-in voting will not be allowed 
+due to security concerns.  Suffrage for overseas Koreans 
+could have a significant impact on the 2012 elections because 
+the 2.7 million overseas Koreans eligible to vote are largely 
+conservative. 
+ 
+----------- 
+Eligibility 
+----------- 
+ 
+¶3.  (SBU) Korean nationals over the age of 19 have the right 
+to vote, and the same will hold true for the overseas 
+community.  Korea does not recognize dual citizenship; men 
+must choose a single nationality by March 31 of the year they 
+turn 18, and women by the age of 21.  When Korean nationals 
+register at their nearest Embassies or Consulates, voters 
+will have to show their Korean passport and their foreign 
+country visa or long-term residency certification.  This 
+process will prevent U.S. citizens who may still retain valid 
+Korean passports from voting in Korean elections. 
+ 
+----------------------------------- 
+Potential Problems: Power and Money 
+----------------------------------- 
+ 
+¶4.  (C) Political resistance to allowing overseas Koreans the 
+right to vote came primarily from the opposition Democratic 
+Party, but even ruling Grand National Party (GNP) lawmakers 
+cite reason for caution.  According to National Assembly 
+Representative Hong Jung-wook, who recently discussed this 
+issue during a trip to the U.S., there are three primary 
+reasons for concern.  The first is fairness.  Koreans will 
+have to vote in person in Korean Embassies or Consulates, 
+significantly reducing participation.  Hong estimated that 
+only about 500,000 out of about 2.7 million overseas Koreans 
+will vote.  Hong said that Koreans were suspicious that 
+allowing mail-in or electronic voting would provide 
+opportunity for vote rigging. 
+ 
+¶5.  (C) The second major concern that Hong mentioned was the 
+potential to divide Korean communities abroad.  Hong said 
+Korean communities in Los Angeles and New York were already 
+sharply divided and characterized by political groups vying 
+ 
+for power within the community -- in the New York region 
+there are more than 1,000 Korean associations.  Hong was 
+unsure how the GNP would decide which overseas Korean groups 
+the party would affiliate itself with.  Hong said there is a 
+prevalence of "good ol' boys," who want to be in charge of 
+political organizations for the status and because it affords 
+them an opportunity to travel to Korea and meet with the 
+President.  These community leaders are particularly strong 
+in the U.S., Japan, and Australia, Hong said.  Already the 
+GNP has been flooded with demands from these overseas Korean 
+leaders, and many of them are arguing that the overseas 
+communities should have their own representatives -- an idea 
+Hong dismissed as impossible. 
+ 
+¶6.  (C) The third concern Hong cited was the potential that 
+the overseas Koreans would have a disproportionately big 
+voice in domestic politics.  The number of eligible overseas 
+votes is approximately six times more than the margin of 
+voters that determined the winner of the 1997 presidential 
+election and four times more than the number that determined 
+the winning candidate in the 2002 election.  Most overseas 
+Koreans do not pay taxes, but there is some concern that 
+their ability to sway elections might lead them to look to 
+Korea for benefits for which their countries of residence 
+should be responsible. 
+ 
+-------------------- 
+Rolling Out the Vote 
+-------------------- 
+ 
+¶7.  (C) The first election for which this law will apply will 
+not occur until 2012, buying the National Assembly some time 
+to work out the kinks.  One National Assembly staffer told 
+poloff that a task force would probably be set up soon to 
+implement the daunting job of starting an overseas voting 
+system.  Still, she speculated that in 2012, overseas voting 
+would probably only be available in the U.S. and Japan.  Hong 
+predicted that the first couple of elections would highlight 
+unforeseen issues, resulting in eligibility restrictions like 
+time limits -- for example, voters who had lived overseas for 
+more than seven years would not be allowed to vote -- and 
+enforcing prohibitions against dual citizenship.  Hong said 
+he thought giving overseas Koreans the chance to vote was a 
+mistake, but, because denying the right was found to be 
+unconstitutional, there was little choice. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8.  (C) On the face of it, enabling overseas Koreans to vote 
+is a victory for democracy, but contacts worry that the 
+effort will export the worst traits of Korean politics -- 
+corruption, infighting, and fraud.  Already in the Taekwang 
+Industrial scandal still unfolding in the National Assembly, 
+lawmakers are being questioned about inappropriate 
+contributions from a Korean businessman in New York (reftel), 
+and other political contacts have confessed the common 
+practice of accepting money from Koreans living abroad. 
+There is also some concern among overseas Koreans that 
+legitimizing their political participation will make it 
+harder to integrate the Korean community into their countries 
+of residence.  Koreans in Japan have found it especially 
+difficult to join mainstream Japan.  Similarly, some Koreans 
+in the U.S. believe that they should actively integrated into 
+American society rather than seeking additional ties to the 
+old country.  Korean legislators acknowledge these concerns, 
+but note that they are all trapped by the Constitutional 
+requirement that all South Koreans -- in or out of the 
+country -- have the right to vote. 
+STEPHENS
+</file>

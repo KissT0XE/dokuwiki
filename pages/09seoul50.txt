@@ -1,0 +1,298 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL50  |  2009-01-09 07:34  |  기밀  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS}}  |
+====== 제 목 : 국회 충돌 계속될 듯 ======
+기 밀 SEOUL 000050 
+국방부망 배포 
+행정명령 12958: 비밀해제: 01/09/2019 
+태그: PGOV (([Internal Governmental Affairs])), PREL(( [External Political Relations])),  PINR (([Intelligence])), KN (([Korea (North)])), KS (([Korea (South)])) 
+제 목 : 국회 충돌 계속될 듯
+분류자: 정치 참사관 대리 대사 브라이언 맥피터스((번역 주: A/POL Brian McFeeters.)) 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/23 13:33//
+===== 요점 =====
+1. (기밀) 요점. 1월 8일에 마감된 12월 특별 회기는 난투로 얼룩졌다. 이번 회기는 12월 10일에 개원했고, 다음날 야당인 민주당은 부동산 세제 개혁 법안을 심의하던 법제사법위원회 밖에서 국회 경위들과 언쟁을 벌였다. 그 시점부터, 상황이 악화하기 시작했다. 299석 중 172석을 보유한 집권당 한나라당이 야당 민주당의 동의 없이 2009년 예산안을 전격 통과시켰다. 소속당의 성공에 고무된 한나라당 의원들과 박진 외교통상통일위원회 의장, 그 밖의 한나라당 상임위 소속의원들은 12월 18일에 상임위장을 스스로 봉쇄하고, 한미 FTA를 본회의에 상정하기 위한 표결을 했다. 이 과정에서 배제된 민주당은 상임위장을 부수고 들어가려고 했지만, 그들의 대형해머는 국회 경위들의 소화기 분사에 의해 저지됐다. 한나라당이 외통위의 심사를 건너뛰고 계류 중인 85개의 모든 법안을 본회의에 상정해서 표결에 부치는 것을 막기 위해 민주당 의원들은 본회의장과 몇몇 위원회실을 점거했다. 결국에 수차례 협상에 실패한 이후에, 한나라당과 민주당은 일부 법안을 가까운 시일 내에 처리하기로 하고, 다른 논란을 사는 법안들은 2월 정기 회기에서 논의하기로 합의했다. 합의상의 모호한 용어사용으로 인해 이미 당내 다툼이 벌어졌고, 당사자들 간의 이견을 해소하기보다는 한나라당과 민주당이 차후 일정까지 갈등을 미루게 될 듯하다. 요약 끝.
+===== 특별회기 개회 =====
+2. (민감하지만 미분류) 법정 통과 마감일이 12월 2일인 2009년 예산안을 비롯해 올해가 끝나기 전에 정부가 통과시키길 바라는 다수의 법안을 처리하기 위해 12월 10일 특별 회기가 시작되었다. 예산과 관련해 다른 논란거리 중에서 야당은 특히 회의적 시각으로 보는 문제는 정부의 4대강을 개선 사업이다.―4대강 사업은 많은 이들이 대개 경시하는 이명박의 대선 공약인 한반도 대운하 건설의 전초전으로 보고 있다.
+
+3. (민감하지만 미분류) 한나라당과 민주당은 예산안을 두고 전투를 벌이는 가운데, 민주노동당은 그들이 주장하기에 부자들에게 혜택이 돌아가는 정부 발의 감세안에 대한 반대 시위를 위해 특별회기 시작을 활용하였다. 단 5석을 보유한 소수 민주노동당 의원들과 직원들은 감세 법안의 상임위 통과를 막기 위해 11월 11일에 국회 상임위 한 곳을 물리적으로 차단하였다. 김형오 국회의장은 민주노동당의 행위를 비난했으며, 12월 11일 자정 전까지 감세 및 예산 법안 모두를 “직권 상정”해 표결에 부치겠다고 공언하였다.
+===== 한나라당이 예산안을 무리하게 가결 =====
+4. (민감하지만 미분류) 여야는 김형오 의장이 제시한 12월 11일 협상 마감일을 지키지 못했다. 예산 관련 주요 논쟁의 요지는 집권 여당이 일자리 창출과 경제 활성화에 결정적이라고 주장하는 여러 사업에 책정된 예산 감축의 범위에 있다. 해당 사업들은 4대강 개선 사업, 대통령의 고향인 포항과 안동을 연결하는 고속도로 건설을 포함한다. 민주당은 동 사업은 대통령의 손위 형인 이상득의 선거구에 부당한 특혜를 베푸는 일이라고 반박한다. 민주당의 비타협적인 태도와 민주노동당의 계속되는 법제사법위원회 점거로 좌절감을 맛본 이후 12월 13일 한나라당 소속 184명과 자유선진당, 친박연대는 예산안을 가결했다. 반면 민주당의원들은 표결에 참여하지 않았다.
+===== 외통위에서 민주당이 배제된 것을 놓고 충돌 =====
+5. (기밀) 12월 18일 박진 외통위 위원장은 한미 FTA를 토론 안건에 상정해 외통위 표결에 부치기로 했고, 그렇게 해서 한미 FTA 비준 절차가 시작되었다. 민주당은 예산법안의 일방적으로 통과시킨 한나라당에 대한 항의로 12월 15일 이후 모든 국회 상임위에 참여하지 않기로 했다. <wrap hi>박진 위원장 “질서 유지권” 발동을 이용하여 국회 경위들을 위원회실 출입문 밖에 포진시키고, 그와 여타 한나라당 소속 의원 9명은 안에서 바깥을 봉쇄하였다. (주석: 국회법에 의하면, 법안을 본회의에 상정시키는데 총 29명의 상임위 제적 의원 중의 4분의 1이 요구된다.) 해당 국회의원들은 정몽준, 남경필, 정진석, 황진하, 김충환, 이춘식, 구상찬, 정옥임, 홍정욱이다. 외통위실에 자리 잡고 있었던 국회의원 중 한 명은 한나라당 의원들이 사실상 외통위를 그 전날 밤부터 점거해서, 야당 의원들의 상임위장 출입을 봉쇄해서 표결을 저지했다고 정치 참사관에게 말했다. 박진 위원장은 12월 18일 14시에 외통위를 공식적으로 소집했고, 2분 만에 외통위는 한미 FTA 법안을 승인하는 표결을 했다.</wrap>
+==== 박진의 "질서 유지권" 발동과 상임위실 봉쇄의 결과! 이러고도 최경환 선진화법 폐기하자고? ====
+{{youtube>pIxzeMyUUqo?large&rel=0}}
+
+6. (기밀) <wrap hi>이런 일방적인 행보를 저지하려는 시도로, 일부 민주당 의원들과 소속 보좌관들은 대형 해머와 전기톱을 사용해서 외통위실을 부시고 들어가려고 했지만, 한나라당의 방어벽을 뚫는데 결국 실패했다.</wrap> 박진은 외통위실을 점거하기 위해 선제적인 조치를 단행했지만, 그는 야당 의원들을 토론에 참석시킬 계획이었다고 대사관 정무 직원에게 말했다. 그는 많은 인파와 방어벽, 싸움으로 말미암아 결국 논의를 위해 다른 위원들을 회의에 불러들이기엔 너무 위험하다고 생각했고, 그래서 외통위 회의 소집을 명했다고 했다. 박진은 자유선진당 의원들이 표결에 참가하겠다고 말했지만, 막판에 빠져나간 것에 가장 화가 났다. 그들이 참가했다면, 그의(박진) 조치에 정당성이 더했을 것이라고 했다.
+
+7. (기밀) 홍준표 한나라당 원내 총무는 궁극적으로 박진의 결정을 지원했지만, 한나라당 소식통은 홍준표가 한나라당의 전략은 논란이 적은 법안을 먼저 처리하는 거라고 박진에게 말했으나, 박진이 알려진 바 이런 지침을 무시했다고 지적하였다. 일부 외통위 소속 한나라당 의원들도 표결에서 제외된 점에 불쾌감을 표시했는데, FTA 법안이 한나라당 안에서도 완전한 합의가 이뤄지지 않았기 때문이다. 관측통은 박진의 동기가 FTA 찬성에만 있는 게 아니며, 이 대통령의 신임을 얻어서, 올 초에 예상되는 내각 개편에서 유명환 장관을 대체할 차기 외교통상부장관에 내정되길 희망했다고 지적하였다. 민주당은 동 외통위의 결정 이후에, 이번 조치가 반 민주적이라고 선언하고, 민주당 의원 수십명은 추가적인 한나라당의 일방적인 조치를 막기 위해 김형오 국회의장실을 점거하였다.
+===== 민주당의 계속되는 연좌농성 =====
+8. (민감하지만 미분류) 올해가 가기 전에―한미 FTA를 비롯한 85개의 법안을 통과시키겠다는 한나라당의 공언에 직면한 민주당과 민주노동당은 이러한 일방적인 예산안 통과와 외통위의 조치에 신물이 난 상태에서 의장실과 상임위장을 계속 점거했고, 12월 26일에는 국회 본회의장에 입장하더니 그들 스스로 의장석에 사슬로 묶었다. 국회법에 따르면, “표결할 때에는 의장이 표결할 안건의 제목을 의장석에서 선포하여야 한다”고((번역 주: 국회법 110조(표결의 선포)를 그대로 원용했다.)) 되어 있으며, 국회의장이 의장석을 점유할 수 없다면, 어떤 법안도 본회의 표결 직전에 상정될 수 없다.
+
+9. (민감하지만 미분류) 이번 연도는 여야 간에 절충안을 찾기 위한 시도가 시작됐지만, 꽉 막힌 채로 마감됐다. 12월 29일 김형오 의장은 85개의 법안을 올해 말까지 강행 통과시키겠다는 공언으로부터 한 걸음 물러섰지만, 논쟁이 덜한 경제 활성화 법안을 표결에 부치겠다고 공언하였다. 그는 민주당이 계속되는 국회 본회의장 연좌 농성을 끝내라고 주문했고, 자신이 입법부의 질서를 회복하기 위해 “극약 처방”을 할 거라고 경고했다. 민주당이 이에 물러설 용의가 없자, 김형오는 경호권을 발동해서 연좌 농성을 해산하고, 본회의장을 정리했다. 그러나 김 의장은 경위들이 국회 바깥에 진을 친 상황에서 어떻게든 타협을 중재하기 위해 정당 지도자들의 협상을 계속 독려하였다. 한나라당은 2월 중순 전까지 가장 논란을 사는 법안 통과를 연기할 것을 제안했지만, 민주당은 먼저 합의하자고 계속 주장했다.
+
+10. (민감하지만 미분류) 결국에 본회의장 바깥 로텐더홀을 점유한 민주당 국회의원과 소속 직원들을 국회 경위들이 강제로 끌어내려고 시도하면서, 경위들과 야당 의원 간 싸움이 벌어졌다. 150명 이상의 경위들이 민주당 의원들을 본회의장에서 끌어내기 위해 개별적으로 세 차례에 걸쳐 본회의장을 급습하면서, 의원 한 명과 대략 20명의 보좌진과 경위들이 다쳤다. 민주당 정책위 의장인 박병석 의원이 경미한 부상으로 가까운 병원에 보내졌고, 민주당 원내 총무인 원혜영 의원의 안경이 깨졌다. 김형오는 성명에서 경위들이 월요일 전까지 본회의장 바깥 로텐더홀을 계속 정리하겠다고 말했다. 국회 밖에는 로텐더홀에서 끌려 나오는 사람들이 다시 창문을 통해 로텐도홀로 들어가 싸움에 가담하는 걸 막기 위해 대략 900명의 전투경찰이 국회 밖에서 대기하였다. 법적으로 경찰의 국회건물 집입이 봉쇄되어 있다.
+===== 일단 타협 =====
+11. (민감하지만 미분류) 1월 4일 민주당 의원들은 여전히 국회의장석에 사슬로 결박되어 있었고, 타협을 향한 어떤 유의미한 움직임이 없는 상태에서 김형오는 만일 1월 8일에―회기의 마지막 날―논란을 사는 법안에 합의하지 못한다면, 직권을 발동하지 않는 대신에 다음 회기로 해당 법안들을 이월하겠다고 말했다. 다음날 김 의장의 강화 제의에 대한 응답으로 민주당은 본회의장 바깥 로텐더홀 점거를 끝냈다. 그러나 민주노동당은 조용히 물러날 용의가 없었고 경위들과 충돌하였다. 당 대표인 강기갑은 국회의장실에서 경위들과 실랑이 끝에 자신의 손이 골절되었고, 현재 여타 의원들과 함께 과도한 폭력 및 기물 파괴 협의에 직면해 있다. (주석: 강 의원은 의장실 문짝에 주먹을 날려서 자신의 손이 부러진 듯하다.)
+
+12. (기밀) 비록 청와대와 많은 한나라당 의원들에게는 김 의장의 결정이 달갑지는 않았지만, 그의 결정은―비록 임시방편으로 판명 났지만―한나라당과 민주당 사이에 타협의 길을 트도록 도움이 되었다. 민주당은 합의에 대한 기대감으로 1월 6일에 국회 본회의장 점거를 끝냈다. 같은 날 한나라당, 민주당, 선진과창조의모임은 1월 8일 국회회기 종료에 앞서 정부가 희망했던 85개 법안의 통과 시기에 대해 합의에 이르렀다. 본회의장과 상임위원회실에서의 연좌 농성을 끝내는 대가로 한나라당은 미결 법안에 대한 본회의 표결을 연기하기로 합의했다. 대신에, 고승덕 의원에 의하면, 1월 7일에 대략 60개 법안이 상임위 논의를 위해 상정되었다. 한미 FTA나 미디어 법안을 비롯한 그 밖의 법안들은 1월 중이나 2월 회기 중에 처리될 것이다. 그 밖의 특별회기는 가장 급한 경제 활성화 법안을 처리하기 위해 1월 9일 시작되었다.
+===== 논평 =====
+13. (기밀) 해당 법안들을 강제로 국회를 통과시키지 않고 동 법안들의 심의를 연기하는 결정은 아마도 필요한 타협이긴 하지만, 민주당이 법안 심의 과정을 늦추거나 지연하는 게 가능할 수 있다. 한나라당이 논란을 사는 “사회개혁” 법안을 상정할 2월에 추가로 충돌이 발생할 공산이 크다. 지난달에 발생했던 그러한 충돌을 방지하기 위해 국회 개혁 논의가 진행 중이다. 불행히도, 이런 종류의 싸움이 새로운 것이 아니며, 야당이―보수가 됐던 진보가 됐건―법안을 반대하는 합법적인 수단을 갖추기 까지는(일부는 미국식 의사진행방해 제도를 제안한 바 있다) 계속될 듯하다.
+[[https://sites.google.com/site/poirotkr/13/09seoul50|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://blog.ohmynews.com/gkfnzl/156116|국회에서 소화분말 마실 줄 몰랐습니다 "박진 외통위원장 질서유지권 발동"]] //박정호 기자의 블로그//
+  - [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001042376|쟁점법안 이번 달 처리 사실상 무산;민주, 농성 해제... 민노 당직자 연행]] //오마이뉴스//
+===== 원본 내려받기 =====
+<file ftf 09SEOUL50.rtf>
+C O N F I D E N T I A L SEOUL 000050 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/09/2019 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: NATIONAL ASSEMBLY CONFLICT LIKELY TO CONTINUE 
+ 
+Classified By: A/POL Brian McFeeters.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY.  The National Assembly's December 
+extraordinary session, which ended on January 8, was fraught 
+with strife.  The session opened on December 10 and the next 
+day the minor opposition Democratic Labor Party (DLP) 
+quarreled with National Assembly security guards outside the 
+Judiciary Committee, which was deliberating the real estate 
+tax reform bill.  From there, the situation went rapidly 
+downhill.  The ruling Grand National Party (GNP), with 172 of 
+the 299 National Assembly seats, on December 13 rammed 
+through the 2009 budget bill without consent from the main 
+opposition party, the Democratic Party (DP).  Buoyed by their 
+party's success, GNP lawmaker and chair of the Foreign 
+Affairs, Trade and Unification (FATU) Committee Park Jin and 
+other GNP committee members barricaded themselves in the 
+committee room on December 18 and voted to send the 
+Korea-U.S. FTA (KORUS FTA) to the plenary session for a vote. 
+ The DP, excluded from the proceedings, tried to break the 
+committee room door down, but their sledgehammers were foiled 
+by the spray from the security officials' fire extinguishers. 
+ To prevent the GNP from skipping deliberation in the 
+committees and sending all 85 pending bills straight to the 
+plenary for a vote, DP members occupied the main chamber and 
+several committee rooms.  Finally, after many failed 
+negotiations, the GNP and the DP agreed on a deal that would 
+address some of the legislation in the near term and put off 
+the more controversial bills for discussion in February's 
+regular session.  The vague terms of the agreement already 
+have the parties squabbling, making it likely that, instead 
+of resolving their differences, the GNP and DP have merely 
+postponed conflict until a later date.  END SUMMARY. 
+ 
+---------------------- 
+An Extraordinary Start 
+---------------------- 
+ 
+¶2.  (SBU) The extraordinary session began on December 10 
+primarily to address a host of bills the government hoped to 
+pass before the end of the year, including the 2009 budget -- 
+the legal deadline for passage was December 2.  Among other 
+controversial aspects to the budget, opposition lawmakers 
+were particularly skeptical about the administration's plan 
+to improve the nation's four major rivers -- a project many 
+saw as a precursor to Lee Myung-bak's widely disdained 
+campaign pledge to build a canal across the Korean Peninsula. 
+ 
+ 
+¶3.  (SBU) While the GNP and DP battled over the budget bill, 
+the DLP used the start of the extraordinary session to 
+protest against government-proposed tax cut plans that, they 
+claimed, favored the wealthy.  A handful of labor party 
+lawmakers -- they only control five seats -- and officials 
+physically blocked a parliamentary committee on December 11 
+to prevent the committee's passage of the bill.  National 
+Assembly Speaker Kim Hyung-o condemned the DLP's actions and 
+vowed to use "all (his) power" to ensure that both the tax 
+cut and budget bills were put to a vote before midnight on 
+December 11. 
+ 
+----------------------------- 
+GNP Rammed the Budget Through 
+----------------------------- 
+ 
+¶4.  (SBU) The parties failed to meet Kim Hyung-o's December 
+11 deadline.  The primary point of contention over the budget 
+was the scope of the reduction of funds allocated for 
+projects that the ruling party claimed to be crucial for job 
+creation and economic revitalization.  These projects 
+included the river improvement project and the construction 
+of a national highway linking Pohang, the President's 
+hometown, and Andong, a project the DP contended would 
+unfairly benefit the constituency of Lee Sang-deuk, the 
+President's elder brother.  Frustrated with the DP's 
+intransigence and with the DLP's continued occupation of the 
+legislation committee room, on December 13, 184 lawmakers 
+from the GNP, the Liberty Forward Party (LFP) and the 
+Pro-Park Alliance voted for the budget, while DP legislators 
+boycotted the vote. 
+ 
+----------------------------------- 
+Clash Over DP's Exclusion from FATU 
+----------------------------------- 
+ 
+¶5.  (C) On December 18, FATU Chair Park Jin decided to call 
+for a committee vote to put the KORUS FTA on the agenda for 
+discussion, thereby starting the ratification process.  The 
+DP, in protest to the GNP's unilateral passage of the budget 
+bill, had boycotted all National Assembly committees since 
+December 15.  Using his committee chair authority to 
+"maintain order," Park posted National Assembly security 
+forces outside the committee room doors while he and nine 
+other GNP lawmakers barricaded themselves inside.  (NOTE: By 
+law, a quarter of the total 29 committee members are 
+necessary to send a bill forward.)  The lawmakers included 
+Chung Mong-joon, Nam Kyung-pil, Chung Jin-suk, Hwang Jin-ha, 
+Kim Choong-whan, Lee Choon-sik, Gu Sang-chan, Chung Ok-nim 
+and Hong Jung-wook.  One of the lawmakers present told poloff 
+that the GNP lawmakers had actually occupied the committee 
+room since the night before in order to prevent the 
+opposition parties from entering the room and preventing a 
+vote.  Park officially convened the committee at 14:00 on 
+December 18, and within two minutes the committee had voted 
+to approve the FTA. 
+ 
+¶6.  (C)  In an attempt to stop the unilateral move, some DP 
+lawmakers along with their aides used sledgehammers and 
+electric saws to attempt to break into the committee room but 
+ultimately failed to break through the GNP's barricade.  Park 
+Jin told poloff that even though he took the preemptive step 
+to occupy the room, his plan was to invite opposition members 
+in for discussion.  He said that due to the mass of people, 
+the barricade and the fighting, he finally deemed it too 
+dangerous to bring anyone else in for discussion and so 
+called the meeting to order.  Park was most upset with LFP 
+lawmakers who said they would join the vote but pulled out at 
+the last minute.  Had they joined, it would have added more 
+justification to his actions. 
+ 
+¶7.  (C)  Although GNP floor leader Hong Joon-pyo ultimately 
+supported Park Jin's decision, GNP sources note that Hong 
+initially told Park that the GNP strategy called for less 
+controversial bills to be dealt with first, but Park 
+reportedly ignored this guidance.  Some FATU Committee GNP 
+members also expressed their displeasure at being excluded 
+from the vote, as the bill had not been completely agreed to 
+within the GNP.  Observers note that Park's motives were not 
+solely pro-FTA, but that he also hoped to gain favor with 
+President Lee and be selected to replace Yu Myung-hwan as 
+Foreign Minister in a cabinet shuffle expected early this 
+year.  The DP called the move anti-democratic, and, after the 
+committee's decision, dozens of DP lawmakers occupied the 
+office of National Assembly Speaker Kim Hyung-o to prevent 
+further unilateral GNP action. 
+ 
+------------------ 
+DP Sit-in Drags On 
+------------------ 
+ 
+¶8.  (SBU) In the face of the GNP's vow to get 85 bills -- 
+including the KORUS FTA -- passed before the end of the year, 
+the DP and DLP, fed up with both the unilateral passage of 
+the budget and the actions of the FATU committee, continued 
+their occupation of the Speaker's office and committee rooms 
+and, on December 26, moved into the National Assembly's main 
+chamber where they eventually chained themselves to the 
+Speaker's chair.  According to Korean law, "In taking a vote, 
+the Speaker shall proclaim at his seat the title of the 
+matter to be voted on."  With the Speaker unable to occupy 
+his seat, no legislation could be put before the plenary for 
+a vote. 
+ 
+¶9.  (SBU) The year ended with started and stalled efforts to 
+find some middle ground between the ruling and opposition 
+parties.  On December 29 Speaker Kim Hyung-o backed away from 
+pushing all 85 bills through by the end of the year but vowed 
+to put to a vote less controversial economic stimulus bills. 
+He also ordered the DP to end its ongoing sit-in of the 
+National Assembly's main chamber and warned he would "stretch 
+his authority to the extreme" to restore order in the 
+legislature.  With the DP unwilling to back down, Kim ordered 
+the National Assembly's security force to break up the sit-in 
+and ordered the plenary chamber be cleared.  Kim, however, 
+desperate to broker a compromise, kept the guards stationed 
+outside the Assembly as he continued to encourage the party 
+leaders to negotiate.  The GNP offered to delay passage of 
+the most contentious bills until mid-February, but the DP 
+continued to insist that a consensus first be reached. 
+ 
+¶10.  (SBU) Finally, on January 3, opposition lawmakers fought 
+with security guards as the latter tried to forcibly remove 
+the DP lawmakers and staff who had occupied the entry hall 
+outside the chamber.  More than 150 guards stormed the 
+building in three separate attempts to remove the DP 
+lawmakers from the main hall, injuring one representative and 
+about 20 aides and guards.  Representative Park Byeong-seog, 
+the DP's chief policy coordinator, was sent to a nearby 
+hospital for a minor injury and the DP floor leader Won 
+Hye-young's glasses were broken.  In a statement, Kim Hyung-o 
+said the guards would continue trying to clear the hall 
+outside the main chamber before Monday.  About 900 riot 
+police stood guard outside the National Assembly to prevent 
+those who were removed from the entry hall from climbing back 
+in through windows to rejoin the fray.  Police are legally 
+barred from entering the building. 
+ 
+------------ 
+A Compromise 
+------------ 
+ 
+¶11.  (SBU) On January 4, with the DP lawmakers still chained 
+to the Speaker's chair and no significant movement toward a 
+compromise, Kim Hyung-o said that if rival parties failed to 
+agree on contentious bills by January 8 -- the last day of 
+the session -- he would carry them over into the next session 
+instead of invoking his right to deliberate.  The next day, 
+in response to Kim's overtures, the DP ended their occupation 
+of the rotunda outside the main chamber.  The DLP, however, 
+was not willing to go quietly and clashed with security 
+guards.  Kang Ki-gap, the party's leader, broke his hand 
+during his scuffle with guards in the Speaker's office and is 
+now facing charges -- along with several other lawmakers -- 
+for excessive violence and destruction of property.  (NOTE: 
+It is likely Kang broke his hand when he punched the 
+Speaker's door.) 
+ 
+¶12.  (C) Although unpopular with the Blue House and many GNP 
+lawmakers, Kim's decision helped pave the way for the 
+eventual comprise -- however temporary it may prove -- 
+between the GNP and the DP.  In anticipation of an agreement, 
+the DP ended its occupation of the legislative chamber on 
+January 6.  Later that day, the GNP, the DP, and the Liberty 
+Forward-Create Korea coalition came to an agreement on the 
+timing of 85 bills the government had hoped to pass before 
+the National Assembly session ended on January 8.   In 
+exchange for ending the sit-in of the main chamber and 
+committee rooms, the GNP agreed to delay a plenary vote on 
+outstanding legislation.   Instead, according to 
+Representative Koh Seung-duk, about 60 of the bills went to 
+the committees for discussion on January 7.  The others -- 
+including the KORUS FTA and the media reform bill -- will be 
+addressed later in January or during the February session. 
+Another extraordinary session started on January 9 to address 
+the most pressing economic stimulus bills. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶13.  (C) The decision to postpone discussion of the bills 
+rather than forcing them through the National Assembly was, 
+perhaps, a necessary compromise, but it enables the DP to 
+drag the process out and slows progress on legislation.  More 
+clashes are likely in February when the GNP will table the 
+controversial "social reform" bills.  Discussions of 
+reforming the Assembly to prevent clashes like those that 
+have taken place in the last month are underway. 
+Unfortunately, these kind of fights are nothing new, and, 
+until the opposition -- be it conservative or progressive -- 
+has a legitimate means of objecting to legislation (some have 
+proposed introducing a U.S.-style filibuster system), they 
+are likely to continue. 
+STEPHENS
+</file>

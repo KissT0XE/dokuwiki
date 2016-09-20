@@ -1,0 +1,80 @@
+<code>
+VZCZCXYZ0000
+OO RUEHWEB
+
+DE RUEHUL #1622 1350759
+ZNY SSSSS ZZH
+O 150759Z MAY 06
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 7887
+INFO RUEHBK/AMEMBASSY BANGKOK 6033
+RUEHBJ/AMEMBASSY BEIJING 0638
+RUEHMO/AMEMBASSY MOSCOW 7306
+RUEHKO/AMEMBASSY TOKYO 0718
+RUEHUM/AMEMBASSY ULAANBAATAR 1220
+RUEHGV/USMISSION GENEVA 1782
+RHMFISS/COMUSKOREA J5 SEOUL KOR
+RHHMUNA/CDR USPACOM HONOLULU HI
+RHMFISS/COMUSKOREA J2 SEOUL KOR
+RHMFISS/COMUSKOREA SCJS SEOUL KOR
+</code>
+
+
+======  인권위원회 한국 지부, 북한 망명 신청자 문제 이관 중단 요청 ======
+
+1. (U) 작전 요청- 3 단락을 볼 것.
+
+2. (SBU) 유엔난민기구 서울사무소의 ‘미켈라 만카 디 니사’ 대표가 탈북해서 정착한 한국인 3-5명이 지난 주 유엔난민기구에 접촉해 한국(South Korea)의 억압에 시달린다며 미국 망명을 요청했다고, 5월 12일 미국 대사관(poloff)에 전달했다. 그들은 또한 대사관이 자신들을 유엔난민기구에 이관했다고도 주장했다. ‘만카 디 니사’ 대표는 유엔난민기구 한국 지부의 권한구역이 대한민국을 포괄하지 않는다면서, 한국 국민을 유엔난민기구에 보내지 말 것을 주한 캐나다, 미국 및 뉴질랜드 대사관에 요청했다고 말했다. 그는 대한민국에 사는 한국 국민이 다른 곳에 망명을 구하는 것에 대해 “유엔난민기구가 할 수 있는 일이 없다”고 덧붙였다. 미국 정부가 동남아시아를 통해 북한주민을 수용한 것에 대한 언론보도와 LA법원이 대한민국 국적을 얻은 전(前) 북한주민 1명에 대한 보호를 승인한 점 등으로 볼 때, 그는 한국에 살면서 다른 나라에 망명을 요청하는 탈북자 수가 늘어날 것으로 보고 있다.
+
+3. (S) 유엔난민기구가 언급한 최근의 사안에 관한 서면정보에 대해서는 아는 바가 없으며, 망명이나 난민 지위를 원해서 대사관에 오는 사람에 대해 유엔난민기구에 이관하는 것이 대사관의 절차다. 대사관은 그 같은 사안을 계속 유엔난민기구에 이관해야 하는지에 대한 명확한 설명을 요청한다.
+
+MINTON
+
+====== 원문 ======
+
+<code>
+S E C R E T SEOUL 001622 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO RMA 
+ 
+E.O. 12958: DECL: 08/18/2015 
+TAGS: PREF PREL PHUM AMGT KS
+SUBJECT: LOCAL UNHCR REQUESTS STOP TO NORTH KOREAN ASYLUM 
+SEEKERS REFERRALS 
+ 
+REF: A. STATE 25824 
+     ¶B. 05 STATE 174716 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b), (d). 
+ 
+¶1.  (U) Action Request: See paragraph 3. 
+ 
+¶2.  (SBU) On May 12, the Acting Representative of UNHCR in 
+the Republic of Korea, Michele Manca di Nissa, informed 
+poloff that over the past week 3-5 ROK citizens, apparently 
+resettled from North Korea, had approached UNHCR requesting 
+asylum in the United States claiming that they suffered from 
+oppression in South Korea.  They also claimed that they were 
+referred to UNHCR by the Embassy.  Manca di Nissa said he was 
+calling Canadian, U.S., and New Zealand Embassies to request 
+that they desist from referring South Korean citizens to 
+UNHCR because its mandate did not extend to the ROK, adding 
+that "there was nothing UNHCR could do" for South Korean 
+citizens in the ROK seeking asylum elsewhere.  In light of 
+media accounts of the USG having accepted North Koreans via 
+Southeast Asia and a Los Angeles court granting protection to 
+a former North Korean who had obtained ROK citizenship, he 
+was concerned the number of North Koreans living in South 
+Korea but seeking asylum elsewhere would increase. 
+ 
+¶3.  (S) While we do not know the particulars of the recent 
+incidents mentioned by UNHCR, Embassy procedure, per reftels, 
+has been to refer walk-ins seeking asylum or refugee status 
+to UNHCR.  Embassy requests clarification whether we should 
+continue to refer such cases to UNHCR. 
+MINTON
+</code>

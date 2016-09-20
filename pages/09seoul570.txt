@@ -1,0 +1,61 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL570  |  2009-04-08 07:57  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL EAID ECON EFIN KS PK }}  |
+====== 제 목: 한국 정부, 파키스탄 원조국 회의에서 차관 제공할 듯 ======
+기 밀 SEOUL 000570 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution)) 
+ 
+행정명령 12958: 비밀해제: 04/08/2019 
+태그: PREL(([External Political Relations])), EAID(([Foreign Economic Assistance])), ECON(([Economic Conditions])), EFIN(([Financial and Monetary Affairs])), KS(([Korea (South)])), PK(([Pakistan]))
+제 목: 한국 정부, 파키스탄 원조국 회의에서 차관 제공할 듯
+참조: [[09state32712|STATE 32712]]
+참조하는 전문: [[09seoul642|09SEOUL642]]
+분류자: 정치 공사 참사관 조셉 윤((POLMC Joseph Yun)).  근거 1.4 (b,d).
+번역자 제공 참조: [[09seoul1735|09SEOUL1735]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/04 12:00//
+
+1. (기밀) 정치 공사 참사관은 4월 8일 참조 전문의 외교 문서를 최종문 외교통상부 남아시아태평양 국장에게 전달하였다. 최종문은 한국 정부가 파키스탄 원조국 회의에서 공여 약속을 할 것으로 기대한다고 말했다. 파키스탄은 한국과 같은 아시아 국가이므로 한국 정부가 무언가 도와줘야 하며 파키스탄이 미국 정부의 중요한 우방국이란 점을 한국 정부가 이해하기 때문에 지원한다. 그는 한국 정부는 최종 지원액을 마지막 순간에 결정할 것으로 예상된다고 말했다. 그는 계속해서 한국 정부가 파키스탄 원조국 회의에서 약속할 지원액은 아마도 사회기반 시설에 미화 1억 6천만 달러를 약속할 거라고 말하였다.((번역 주: 차관 형식을 말하며 [[09seoul1735|09SEOUL1735]]전문을 보면 1억 8천만 달러로 다소 변경되었음을 알 수 있다.)). 해당 지원액은 파키스탄 정부와의 포괄 합의에 따른 내용이며 거기에 추가되는 “그 밖의 별도” 지원은 아직 결정되지 않았다. 한국 정부는 아직 차관 형식의 지원과 관련해 자세한 내용을 마련하지 못했다고 말하였다. 최종문은 유명환 외교부 장관과 함께 파키스탄 원조국 회의에 참석할 예정이다.
+
+2. (기밀) 이와는 별개로 주한 일본대사관 소속 한 직원은 같은 날 한국 정부로부터 동일한 답변을 받았다고 대사관 정무 직원에게 밝혔다. 그는 또 한국 정부가 특정하지 않은 소규모 무상 원조가 포함될 예정이라고 말했는데 아마도 그것이 최 과장이 우리와의 회동에서 말한 “그 밖의 별도” 지원((번역 주: 2천만 달러의 무상원조와 이명박과 하토야마 일본 수상의 미화 20만 달러 합작사업을 말한다. 자세한 내용은 [[09seoul1735|09SEOUL1735]]를 보라.))인 걸로 보인다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul570|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://m.icak.or.kr/html/board/press_view.php?page=5&seq=195|수출입銀, 파키스탄 터널 공사에 7800만달러 차관 제공 해외건설협회]]  //해외건설협회//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL570.rtf>
+C O N F I D E N T I A L SEOUL 000570 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/08/2019 
+TAGS: PREL [External Political Relations], EAID [Foreign Economic Assistance], ECON [Economic Conditions], EFIN [Financial and Monetary Affairs], KS [Korea (South)], PK [Pakistan] 
+SUBJECT: ROKG LIKELY TO OFFER SOFT LOAN AT PAKISTAN DONORS 
+CONFERENCE 
+ 
+REF: STATE 32712 
+ 
+Classified By: POLMC Joseph Yun for reasons 1.4 (b,d). 
+ 
+¶1.  (C)  POLMC on April 8 delivered reftel demarche to Choi 
+Jongmoon, Director-General for South Asian and Pacific 
+Affairs at the Ministry of Foreign Affairs and Trade.  Choi 
+said that he expected the ROKG to make a pledge at the 
+conference because Pakistan, like the ROK, is an Asian 
+country so the ROKG must do something to help, and that the 
+ROKG, as an USG ally, understood the importance of Pakistan 
+to the USG.  After saying he expected the ROKG to determine a 
+final monetary figure at the last moment, Choi said that the 
+ROKG's pledge at the conference would probably be a USD 160 
+million soft loan package for infrastructure projects, for 
+which the ROKG already had an umbrella agreement with 
+Pakistan, plus "something else" not yet determined.  Choi 
+said that the ROKG had not yet worked out the details of the 
+soft loan package.  Choi will attend the donors' conference 
+with Foreign Minister Yu Myung-hwan. 
+ 
+¶2.  (C)  Separately, an officer from the Japanese Embassy in 
+Seoul told poloff the same day that it received the same 
+response from the ROKG, and that the ROKG would also include 
+a small unspecified amount of grant aid, which presumably is 
+what DG Choi referred to as "something else" in our meeting. 
+STEPHENS
+</file>

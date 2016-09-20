@@ -1,0 +1,65 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1819  |  2009-11-18 01:29  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>PREL PGOV PARM PINR KS }}  |
+====== 제 목: 한국 11월 20일 예정된 해성-2 순항미사일 시험 비행 ======
+
+비 밀 서울 001819
+
+국방부망 배포
+국무부 동아시아태평양/한국과
+
+행정명령12958: 비밀해제: 11/18/2019
+태그: PREL, PGOV, PARM, PINR, KS
+제 목: 한국 11월 20일 예정된 해성-2 순항미사일 시험 비행
+
+분류자: 정치 공사 참사관 제임스 엘 웨이만근거 1.4 (b/d)
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/19 00:37//
+
+1. (비밀) 11월 16일 대사관은 외교통상부로부터 한국이 2009년 11월 19일 해성-2 순항미사일 시험을 할 계획이라는 통보를 접수했다. 통지 내용의 전문은 아래와 같다:
+
+2. 2001년 1월 17일 채택된 한국의 새 미사일 지침에 따라 한국정부는 아래와 같은 순항미사일 시스템의 계획된 비행 시험에 관한 관련 정보를 미국 정부에 제공하고자 합니다: 
+
+(가) 순항미사일의 명칭: 해성-2
+(나) 통보 목록: 미사일 지침 3부
+(나) 10차 시험 비행의 일자 및 장소: 2009년 11월 19일 안흥종합시험장 
+
+3. (비밀) 미국 대통령이 11월 19일 방한할 예정임을 고려할 때, 비행 시험을 하루 늦출 것을 요청하였다. 외교통상부 한미 안보협력과 박소연은 국방부와 협의 이후에 새 비행 일자는 2009년 11월 20일 토요일이 될 거라고 확인해 주었다.
+스티븐스
+포와로 탐정의 번역 © 무단 복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1819.rtf>
+S E C R E T SEOUL 001819 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/K 
+ 
+E.O. 12958: DECL: 11/18/2019 
+TAGS: PREL PGOV PARM PINR KS
+SUBJECT: ROK TEST FLIGHT OF UAV HAESONG-II SCHEDULE FOR 
+NOVEMBER 20 
+ 
+Classified By: POL M/C James L. Wayman.  Reasons 1.4 (b/d) 
+ 
+¶1. (S) On November 16, Post received notification from the 
+Ministry of Foreign Affairs and Trade (MOFAT) that the ROK 
+planned to test the Haesong-II UAV on November 19, 2009.  The 
+text of the notification is below: 
+ 
+¶2. (S) "In accordance with the ROK's New Missile Guidelines 
+adopted on January 17, 2001, the ROKG would like to provide 
+the USG with the relevant information on the planned test 
+flight of a UAV as follows: 
+ 
+      (a) Name of the UAV: Haesong-II 
+      (b) Notification category: Part 3 of the Guidelines 
+      (c) The 10th flight-test date/place: November 19, 
+2009/Anheung Proving Ground" 
+ 
+¶3. (S) In light of the POTUS visit scheduled for November 19, 
+Post requested that the flight test be delayed by one day. 
+After consulting with the Ministry of Defense (MND), Park 
+So-yeon, MOFAT ROK-U.S. Security Cooperation Division, 
+confirmed that the new date of the flight test will be 
+Friday, November 20, 2009. 
+STEPHENS
+</file>

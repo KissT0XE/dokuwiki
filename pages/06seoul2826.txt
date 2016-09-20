@@ -1,0 +1,58 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL2826  |  2006-08-18 10:00  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>ETTC KSCA MTCRE PARM PREL }}  |
+====== 제 목: 미사일기술통제체제: 무인항공기/순항 미사일 통제 기준에 관한 미국의 제안 ======
+
+기 밀 서울 002826
+
+국방부망 배포
+
+국방부망 배포
+
+국무부는 국제안보·비확산국 미사일위협제거청에 전달 바람
+
+행정명령12958: 비밀해제: 08/17/2016
+태그: ETTC KSCA MTCRE PARM PREL
+제 목: 미사일기술통제체제: 무인항공기/순항 미사일 통제 기준에 관한 미국의 제안
+
+참조: SECSTATE 134060
+
+분류자: 정치 참사관 대리 대사 브라이언 맥피터스, 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/20 03:59//
+
+(기밀) 참조 전문에 대한 응답으로 공관차석 대리 대사와 정치군사 팀장은 무인항공기 및 순항 미사일에 관한 미사일기술통제체제 기준 관련 미국의 제안에 대한 보충 정보를 전달하기 위해 8월 16일 조태용 북미 국장과 회동하였다. 조 국장은 자신의 직무 대행과 간단히 논의하고 몇 가지 논지에 대한 선명성을 확보한 후에 한국정부가 미국의 제안에 대한 지지를 도출할 수 있을 거로 생각하지만, 적절한 관계관이 외교 문서에 포함된 특정 논지를 신중하게 검토하도록 시간을 요청하였다. 대사관은 이러한 한국 정부의 숙의 내용을 추적할 예정이며, 그들의 최종 입장에 관해 보고할 예정이다.
+스탠튼
+
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 06SEOUL2826.rtf>
+C O N F I D E N T I A L SEOUL 002826 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT PLEASE PASS TO ISN/MTR 
+ 
+E.O. 12958: DECL: 08/17/2016 
+TAGS: ETTC KSCA MTCRE PARM PREL
+SUBJECT: MTCR: U.S. PROPOSAL CONCERNING CRITERIA FOR 
+CONTROL OF UAVS/CRUISE MISSILES 
+ 
+REF: SECSTATE 134060 
+ 
+Classified By: ACTING POLITICAL MINISTER-COUNSELOR BRIAN D. MCFEETERS. 
+ REASON: 1.4 (b),(d). 
+ 
+(C)  In response to reftel, A/DCM and POL-MIL Chief met with 
+North American Affairs Bureau Director General Cho Taeyong on 
+August 16 to convey supplemental information on the U.S. 
+proposal concerning MTCR criteria for controlling UAVs and 
+cruise missiles.  After obtaining clarification on several 
+points and conferring briefly with his deputy, DG Cho 
+indicated he thought the ROKG would be able to come out in 
+support of the proposal, but requested time for appropriate 
+officials to carefully review the specific points contained 
+in the demarche.  Embassy will follow up on these ROKG 
+deliberations and report on their final position. 
+STANTON
+</file>

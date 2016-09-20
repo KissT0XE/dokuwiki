@@ -1,0 +1,367 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL447  |  2009-03-20 09:08  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL MARR ECON KS KN }}  |
+====== 제 목: 개성공단 통행 제한: 북한의 이해할 수 없는 행동과 한국의 제한적인 대응 방안 ======
+기 밀 SEOUL 000447 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+행정명령 12958: 비밀해제: 02/24/2019 
+태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), ECON(([Economic Conditions])), KS(([Korea (South)])), KN(([Korea (North)]))
+제목: 개성공단 통행 제한: 북한의 이해할 수 없는 행동과 한국의 제한적인 대응 방안
+참조: [[09SEOUL381|SEOUL 00381]] 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun.)).  근거 1.4(b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/07/08 04:42//
+===== 요약 =====
+1. (기밀) 요약: 한국의 관측통들은 3월 13일이 낀 주만 두 차례 개성공업지구의 통행을 제한한 것은 북한의 고의적인 도발이라고 믿고 있지만, 남한 정부와 공단 입주 업체들은 유일한 남북경제협력사업인 6년 된 개성공단 사업을 아직은 포기할 태세가 아니다. 한국 정부와 남한 업체들은 예측 불허에 해명도 없는 북한의 행동에 맞서 잘 버티고 있다. 그들은 가까운 미래에 추가로 국경 통행 제한이 있을지 모르는 상황에서 그날그날 대처를 하고 있다. 그러나 정부와 업체 연락선(정보원) 모두는 북한이 만일 3월 20일 한미합동군사훈련이 끝난 이후에도 개성공단 통행을 또다시 차단한다면 영구적인 폐쇄 위험에 처할 것이라고 우리에게 말했다. 요약 끝.
+===== 사건의 순서 =====
+2. (민감하지만 미분류) 3월 9일 첫 개성공단 통행 차단은 당일 아침 북한의 발표에 따른 결과였다. 북한은 키 리졸브/독수리 한미 합동 군사연습 기간(3월 9~20일)에 군 통신을 차단하겠다고 발표했다: “당면하여 북침전쟁연습이 진행되는 기간 개방되어 있는 동, 서해지구 북남관리구역의 안전을 담보하기 위하여 보다 엄격한 군사적 통제를 실시하게 될 것이며, 북남 군 통신도 차단할 것이다.” 정부와 입주 업체 연락선(정보원)은 개성공단에 배정된 북한의 민간 관리들도 서해 지구 북남관리구역이 당일 차단될 거라고는(참조 전문) 예상하지 못했을 거로 판단한다고 우리에게 말했다; 한국 정부 관리들은 당일 북한 측이 보여준 내부 양상에 대해 흥미롭게 여겼다.
+
+3. (민감하지만 미분류) 북한은 다음날인 3월 10일에 국경 통행을 재개했다. 3일 후인 3월 13일 그 주에 두 번째로 북한은 남북 통행을 차단하면서 남한 시민 655명이 주말에 걸쳐 남한으로 귀환하지 못했었다. 언론인들은 한국 정부가 분위기를 차분하게 유지하기 위해 주말 동안 개성공단에 고립된 남한 시민에 대해 “억류되었다”가 아닌 귀환이 “늦춰졌다”로 표현해 달라고 자신들을 압박했다고 우리에게 말했다. 그러나 YTN은(한국의 CNN 역) 3월 16일 아침 뉴스에서 개성공단 문제가 당일 “최고조”에 달할 수밖에 없다고 전했다. 예견된 위기는 북한 당국이 3월 16일에 출경을 허용하면서 해소되었고, 또한 3월 17일에는 개성공단 입경도 허용하였다. 3월 18~19일 국경 통행이 큰 문제 없이 진행되었다. 다만 남북 군 통신 단절 상태가 계속되면서 임시변통으로 민간 전화나 팩스를 이용해야 했다. 3월 20일 국경 통행이 다시 한 번 제한되었다. 북한 당국은 3월 20일 업무 종료 시각에 군 통신과 쌍방향 국경 통행이 3월 21일까지는 재개될 거라고 개성에 있는 민간 채널을 통한 팩스 메시지를 보내왔다. 3월 20일 돌연 국경을 차단한 결과, 1,128명의 발이 묶였다(667명은 개성공업지구로 입경할 예정이었고, 520명은 남한으로 귀환할 계획이었다). 한국 정부 관리와 개성공업지구 사업가들은 기본적으로 숨을 죽이면서 개성공업지구 차단 사건이 한미 군사 연습 종료와 함께 끝나길 바라고 있었다. 그들은 한국 정부의 선택 옵션도 검토하고 북한의 행위에 대한 분석도 해보았다.
+===== 한국정부의 반응 =====
+==== 청와대 ====
+4. (기밀) 나원창 청와대 기획조정 비서관은 3월 17일 우리와 회동한 자리에서 북한의 개성공업지구 통행 제한과 남한 사람들이 개성공단에 고립되었던 3월 13~16일에 대해 소감을 들려줬다. 그는 남북 분위기가 "극도로 예민하다"고 설명하며 한국 정부는 북한을 "자극하지 않는 것"이 중요하다는 판단이라고 말했다. 그는 한국 정부로서 문제의 주말 동안 최상의 선택은 “지켜보는 일”이었다고 말했다. 다른 선택의 예로 개성공업지구를 폐쇄하거나 한국 기업에 대해 철수 지시를 내리는 것은 한국 시민이 북쪽에 여전히 머물고 있으므로 너무 도발적인 선택이다.
+==== 외교통상부 ====
+5. (기밀) 외교통상부 대북정책협력과장 진기훈은 북한이 무슨 의도로 개성공단 통행을 차단했다 풀었다 하는 것인지 아직 결론을 내릴 수 없다고 말했다. 그는 또 추가 차단 여부도 예측할 수 없다고 3월 18일에 우리에게 말했다. 그는 앞으로 최대 관심사는 어떻게 개성공업지구에 있는 남한 시민의 안전을 담보할지 여부이며 이와 아울러 개성공업지구와 금강산관광지구 출입 및 체류에 관한 합의서의 일부인 통행 자유와 안전을 확보하는 일이라고 덧붙였다(10.1 항: “북측은 인원의 신체, 주거, 개인재산의 불가침권을 보장한다”). 한국 정부 관리들이 이 문제를 계속 논의하고 있지만, 남북 대화가 전혀 없는 상황에서 안전이 강화된 합의에 북한이 서명할 가능성이 적다고 이해하고 있다.
+
+6. (기밀) 진 과장은 애초 외교통상부는 북한이 1년 동안 한국의 대북 정책을 변경하려고 계속 시도해왔고 아울러 남한 사람들 사이에 불안을 조장하려는 시도 역시 계속하려는 것으로 생각했다. 둘 다 성공하지 못했다. 왜냐면 한국 정부가 북한 접근 방식에 대해 냉정함을 유지하기로 마음을 굳게 먹었기 때문이다. 최근 여론조사에서 남한 국민 73%는 개성공단 통행 차단에 대한 책임을 전적으로 북한에 묻고 있으며 단 15%만이 합동군사훈련 참가가 북한의 통행 차단을 유발했다고 생각하였다.
+
+7. (기밀) 시중에 나돌고 있는 그 밖의 이론에 관해 묻자―예로 공단 폐쇄가 조선인민군이 민간 지도자보다 우위를 점하려는 징후로 보거나, 또는 통행 차단 조치가 남한이 개성공업지구를 폐쇄하길 바란다는 북한의 의사를 보여준 것이라는 등―진 과장은 그러한 결론을 내기에는 가용 정보가 충분하지 않다고 말했다. 그는 3월 18일 현인택 통일부 장관이 기자들에게 했던―정부는 개성공단을 안정적으로 잘 관리해서 발전시킨다는 생각이란―말을 되풀이했다. 그러나 개성공단 통행의 불확실성과 제품 주문에 미칠 파급 효과를 고려할 때 개성공단 공장 운영에 대해 갈수록 유보적인 표명이 늘고 있음을 진 과장은 인정하였다. 다만 3월 9일 첫 국경 차단 이후에 어떤 공장도 공장 폐쇄를 발표하지는 않았다.
+
+8. (기밀) 진 과장은 3월 9일 첫 통행 중단은 키 리졸브 및 독수리 연습 기간에 모든 남북 군사 통신을 차단할 거라는 북한의 발표로 말미암은 예기치 않은 결과로 그가 속한 대북정책협력과에서는 해석했다고 말했다. 그러나 외교통상부는 주말에 걸쳐 개성공업지구에 있던 남한 사람들의 발을 묶어 놓은 3월 13일 두 번째 통행 차단 조치는 고의적인 행위로 판단한다. 그렇긴 하지만, 북한이 전달하려는 메시지가 무엇인지는 불분명하다: 북한의 미사일 발사에 대응하기 위한 한국 정부의 성명에 대한 항의, 혹은 북한이 단지 미화 180만 달러의 급료를 받기 위해 금주에 통행을 재개했다는 한국 언론 보도에 대한 반응인지, 아니면 전혀 다른 이유인지 불분명하다.
+==== 통일부 ====
+9. (기밀) 예전에 미 대사관 및 여러 대사관에서 통일부 주요 연락 담당관을 지낸 이종주 통일부 부대변인은 통일부가 북한의 남북관리구역 통행 차단과 통행 재계와 관련해 어떤 결론을 내릴 준비가 되지 않았다고 3월 18일 우리에게 말하였다. 남북 군사 통신을 한미 군사 연습 기간에 단절할 거라는 북한의 3월 9일 발표 말고는 한국 정부가 어떤 해명도 (북한으로부터) 듣지 못하였다. 통일부는 매일 개성공단에 입주한 민간 업체의 협조를 구해 개성공단에 배정된 북한 당국자에게(중앙특구개발지도총국) 통행 차단의 이유 및 향후 계획에 대한 추가적인 정보를 물어보라고 했지만, 그런 해당 질의에도 북한은 묵묵부답이었다. 북측에서 나오는 유일한 통신은 남북 출입경자 및 개성공단 반·출입 물자의 승인을 알리는 일일 전통문뿐이다; 오전 해당 전통문 메시지의 존재 여부가 당일 통행 차단이 이뤄졌음을 알려주는 유일한 수단이다. 이종주는 북한이 내부 이견이 있는 것인지, 군이 득세한 것인지 혹은 남한이 개성공업지구를 폐쇄하도록 일부러 그러는 것인지 결정하기에는 단순히 정보가 충분하지 않다는 외교통상부 관리의 견해에 동의하였다. 그러나 개성공단 통행이 오락가락하는 점을 볼 때 적어도 북측에 일부 혼선이 있음을 보여준다. 통일부의 입장은 앞으로 며칠에 걸쳐 개성공업지구의 상황을 예의 주시하는 것이다. 한미 합동 군사연습이 끝나는 3월 30일 이후 통행이 차단된다면 북한이 진정 개성공단을 사지로 내몰겠다는 의지를 나타내는 것으로 매우 심각하게 받아들이게 될 것이다.
+
+10. (기밀) 이종주 대변인은 개성 공단이 계속 가동될 거라는 통일부 장관의 발언을 재차 언급했다. 그는 또 개성공단 입주 업체 사람들의 서울 귀환이 막혔을 당시 주말에 현인택 장관과 회의를 했다며 그 자리에서 개성공단 입주 업체 대표들이 개성공단을 폐쇄하지 말 것을 현 장관을 상대로 사적으로 강하게 압박했다고 덧붙였다. 개성공단 통행이 불확실해진 상황에 직면한 한국 업체들이 잘 견디고 있는지 묻자, 이 대변인은 개성공단 입주 중소기업이 소자본 경영에 익숙하고 될 수 있으면 (인건비가 매우 저렴한) 개성공단에서 계속 돈을 벌 작정이라고 전했다.
+==== 전 통일부 장관 ====
+11. (기밀) 남북회담 수석 대표(1998년, 2002년)를 지내기도 한 정세현 전 통일부 장관은 북한이 남북 관계의 주도권을 갖고 있다는 점을 이명박 정부에게 "가르치려는" 목적으로 두 차례나 개성공단 통행을 고의적으로 차단한 것이라고 3월 18일 대사관 정무 직원에게 말했다. 정세현은 30년 관록의 통일부 베테랑이다. 그는 북한이 개성공단을 폐쇄하지 않을 것으로 전망했다. 왜냐면 개성공단이 김정일의 직접적인 지시에 따라 만들었기 때문이다. 정세현은 최근의 개성공단 통행 문제는 “애들 노름”과 같다며, 북한의 실제 의도는 개성공단을 폐쇄하려는 것이 아니라 긴장을 조성하려는 것이라고 말하였다. 정세현에 의하면, 북한의 궁극적인 목적은 개성공단을 압박하거나 미사일 발사, 대북 식량 감시단의 추방 등을 통해 미합중국과의 다음 협상에서 더 많은 주도권을 확보하려는 목적이다.
+==== 국회 ====
+12. (기밀) 여당 한나라당과 민주당 소속 국회의원 2인은 북한의 오락가락하는 개성공단 통행 제한 조치는 경협 실험의 장기적 생존 가능성에 대해 의구심을 갖게 한다고 3월 17일 우리에게 말하였다. 그러나 두 의원 중 누구도 우리가 질문을 재촉하기 전까지 현재의 여러 정치 현안 관련 대화를 이어가지 않았다. 두 의원 누구도 3월 13~16일 사이에 개성공단에 억류된 남한 시민의 운명에 대해 우려를 표명하지는 않았다. 그중 한 의원은 북한이 대략 4만 명의 북한 근로자들의 고용을 대체할 곳을 찾아낼 수 있다면, 바로 개성공단을 폐쇄할 것으로 추정했다. 예로 북중 신의주 경제특구가 가능하다. 다른 의원은 신의주 경제 특구 사업은 아직 개발되지 않았기 때문에 북한이 그렇게 움직일 가능성을 낮게 보고 있다.
+==== 기업체의 여러 반응 ====
+13. (기밀) 2005년 이래로 개성공단에서 플라스틱 밸브를 제작하고 있는 중견기업 에스제이태크의 임황영 과장은 현 상황을 “기업의 창설 이후 최악”의 상황이라고 설명하였다. 임 과장에 의하면, 현재 상황이 2006년 핵실험 직후 시기보다도 훨씬 나쁘다. 당시에는 사실상 개성공단 입주 업체에는 영향이 없었다. 임 과장은 개성공단 통행이 또다시 차단될 수 있는 관계로 고객의 주문을 제때에 맞출 수 없으며, 개성공단이 북한에 의해 완전히 폐쇄하지 않는 한 보험회사로부터 보상도 못 받기 때문에 완전히 철수할 수도 없어 “꼼짝 못 하게 되었다”고 말하였다.
+
+14. (기밀) 임황영은 3월 9일 국경 폐쇄가 북한 측의 “실수였을 가능성”에 대해 일축했지만, 3월 13일 통행 차단은 강도가 높았으며 걱정스러운 메시지라고 생각하였다. 임황영은 개성공단 입주 업체 입장에선 3월 13일 사건은 북한의 분위기가 개성공단에 영향을 미쳐 폐쇄로 이어질 수 있음을 증명하는 첫 신호라고 말했다.
+
+15. (기밀) 한편 개성공단을 개발한 대표적인 기업인 현대 아산의 장황빈 상무는 통행 제한 이후에 개성공단 투자가 잠시 망설여지겠지만, 남북 관계가 회복되고 이윤이 늘어나는 즉시 힘겨웠던 세월을 “잊게” 될 거라고 3월 17일 대사관 정무 직원에게 말했다. 장황빈은 남한 기업체들은 중국보다는 개성공단을 선호하는 관계로 입주 업체들이 북한의 값싼 노동력을 뒤로하고 개성공단에서 쉽게 철수할지 못 할 거라고 말했다.
+
+16. (기밀) 장황빈은 3월 21일 한미 합동 군사 연습이 끝난 이후 북한의 행동이 개성공단에 대한 북한 정부의 “진정한 의도”를 가늠하는 열쇠가 될 거라고 말하였다. 장황빈은 개성공단 통행 문제가 한미 합동 군사연습 이후에도 계속된다면 남북 관계 악화를 예고하는 것으로 전망했다. 그럴 경우 문제는 개성공단 문제를 훨씬 넘어서는 거라고 장황빈은 말했다. 그는 현재로썬 그날그날 신중하게 접근하는 한국 정부의 방식에 대해 견해를 같이하였다.
+
+17. (기밀) 장황빈은 대북 관계를 개선할 기회가 날아갔다며 한탄했다. 그는 현 정부가 북한군이 2008년 6월과 이어 2008년 10월에도 요구한 광케이블을 신속히 전달했다면 북한과의 관계가 더 유리한 입장이었을 거라고 지적하였다. (주석: 한국 정부 당국자는 2008년 10월 남북 군사 회담 중에 통신 물자를 조달하기 위한 날짜를 잡으려 했지만, 북한으로부터 아무 응답이 없었다고 우리에게 말한 바 있다. 주석 끝.) 장황빈은 2009년 2월을 또 한 번의 기회를 놓친 날로 지적했다. 그는 당시 새로 임명된 통일부 장관이 개성공단 방문에 전혀 관심도 보이지 않았고 공단 확장에 대해 긍정적인 언급도 없었다고 지적하였다.
+===== 논평 =====
+18. (기밀) 북한이 만일 3월 9일, 13일, 20일 개성공단 통행 차단해 그 결과로 655명의 남한 시민을 주말 동안 억류해서 긴장을 조성할 작정이었다면 한국 정부도 마찬가지로 개성공단 입주 업체의 지지와 함께 이 사태가 위기가 되지 않도록 했을 것이다. 동시에 한국 정부 관리들은 개성공단 억류가 3월 16일이나 이후까지 계속되었다면 중대 국면으로 접어들었을 거라고 사적으로 인정하였다. 인터내셔널 헤럴드 트리뷴의 주상헌 기자는 3월 13~16일 기간에 걸쳐 한국 정부가 얻은 주요한 교훈은 자국 시민을 개성공단에서 탈출시킬 방법이 전혀 없다는 점이라고 우리에게 3월 19일 말했다. 한국 정부 관리는 입주 업체들이 개성공단 폐쇄를 원하지 않는다고 입을 모은다. 또한, 북한도 개성공단 계속 유지하길 원하지만 만일 한국 시민이 또다시 억류된다면 개성공단은 무너질 것이다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul447|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.tongilnews.com/news/articleView.html?idxno=83222|북 군부, "만단의 전투준비 하달".. "남북간 군통신 차단"]] //통일뉴스//
+  - [[http://prologue.blog.naver.com/PostView.nhn?blogId=srchcu&logNo=30097352014|민간인 불법사찰 관련 이석현 의원 예결위에서 2차 폭로]]  //블로그//
+  - [[http://www.yjinews.com/news/articleView.html?idxno=10976|[이은화의 내 고향 영주] 진기훈 외교통상부 대북정책협력과장]]  //영주시민신문//
+  - [[http://dialogue.unikorea.go.kr/agreement/southnorth/110|개성공업지구와 금강산관광지구 출입 및 체류에 관한 합의서]]  //남북회담//
+  - [[http://www.nocutnews.co.kr/show.asp?idx=1487586|北 중앙특구개발지도총국 "개성공단 설비 반출 금지"]]  //노컷뉴스//
+  - [[http://www.hani.co.kr/arti/politics/defense/344854.html|현인택 “개성공단 폐쇄 검토 안해”]]  //한겨레//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL447.rtf>
+C O N F I D E N T I A L SEOUL 000447 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/24/2019 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], ECON [Economic Conditions], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: KIC ACCESS RESTRICTIONS: DPRK'S INEXPLICABLE 
+BEHAVIOR AND ROKG'S LIMITED OPTIONS 
+ 
+REF: SEOUL 00381 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) SUMMARY:  Despite what ROK observers believed was the 
+DPRK's deliberately provocative decision to restrict Kaesong 
+Industrial Complex (KIC) access for the second time in a week 
+on March 13, the South Korean government and businesses 
+communities are not yet ready to give up on the six-year-old 
+project, the sole operational example of inter-Korean 
+economic cooperation project.  The ROKG and South Korean 
+companies, showing resilience in the face of the DPRK's 
+unpredictable and unexplained behavior, are taking a 
+day-by-day approach, not knowing whether additional border 
+restrictions will be imposed in the near future.  However, 
+both government and business contacts told us that the KIC 
+would be in danger of permanent closure if the North again 
+cuts off access to the KIC after the March 20 completion of 
+U.S.-ROK joint military exercises.  END SUMMARY. 
+ 
+------------------ 
+Sequence of Events 
+------------------ 
+ 
+¶2. (SBU) The initial March 9 cutoff of access to the KIC 
+resulted from the DPRK's announcement that morning that the 
+North would cut off military-to-military communications 
+during the Key Resolve/Foal Eagle joint U.S.-ROK military 
+exercises (March 9-20):  "As an immediate measure, during the 
+period when the war exercises for northward aggression are 
+ongoing we will carry out stricter military control ...and we 
+will also cut off North-South military communications." 
+Officials and business contacts told us that they believe 
+civilian DPRK officials at the KIC did not expect the western 
+transportation corridor to be closed that day (reftel); ROKG 
+officials were intrigued by the hint of internal confusion on 
+the DPRK's part that day. 
+ 
+¶3. (SBU) The DPRK resumed border crossings the next day on 
+March 10.  Three days later on March 13, for the second time 
+in a week, North Korea closed the inter-Korean border, 
+preventing about 655 South Korean citizens from returning to 
+South Korea over the weekend.  Journalists told us that the 
+ROKG pressed them not to refer to South Koreans stuck at the 
+KIC over the weekend as "detained" but instead as "delayed," 
+to preserve a calm atmosphere.  Nevertheless, YTN's (CNN 
+equivalent) March 16 morning news said that the KIC issue 
+would have to reach a "climax" that day.  The prospective 
+crisis was defused because the DPRK authorities granted exit 
+permission on March 16, also allowing entry into the KIC on 
+March 17.  Crossings proceeded without major problems on 
+March 18-19, though the continued cutoff of 
+military-to-military communications required work-around 
+communications by civilian telephone and fax.  On March 20, 
+border crossings were restricted once again.  At close of 
+business on March 20, the DPRK authorities sent a fax message 
+through a civilian channel in the KIC stating that 
+communications -- and consequently, two-way border crossing 
+-- would resume by March 21.  As a result of this abrupt 
+border closure on March 20, 1,182 people were stranded (667 
+people scheduled to enter the KIC and 520 people who planned 
+to return to the South).  ROKG officials and KIC businessmen 
+were essentially holding their breath, hoping that the 
+episodic KIC access closures will be over as of the end of 
+the military exercises.  They were also reviewing ROKG 
+options and trying to analyze DPRK behavior. 
+ 
+-------------- 
+ROKG Reactions 
+-------------- 
+ 
+-- Blue House 
+ 
+¶4. (C) In a March 17 meeting with us, commenting on the 
+North's KIC access restrictions and the March 13-16 period 
+when South Koreans were stuck at the KIC, La Won-Chang, 
+Assistant to the President for Planning and Coordination at 
+the Blue House, described the inter-Korean atmosphere as 
+"very sensitive" and said the ROKG believed it was important 
+to "not provoke" North Korea.  He said that the best option 
+for the ROKG over that weekend was to "wait and see."  Other 
+ 
+options, such as closing the KIC or ordering ROK firms to 
+withdraw, would have been too provocative, since ROK citizens 
+were still on the North Korean side. 
+ 
+-- MOFAT 
+ 
+¶5. (C) MOFAT Director for Inter-Korean Affairs Chin Ki-hoon 
+told us on March 18 that he could not yet draw conclusions 
+about the North's intentions in connection with the on-again, 
+off-again access to the KIC and could not predict whether 
+there would be additional closures.  He added that the chief 
+concern going forward was how to ensure the safety of South 
+Korean citizens at the KIC, on top of the safety and free 
+passage guarantee that is already part of the South-North 
+agreement on KIC (Article 10.1: "The North guarantees 
+non-aggression to the body, residence, and property of 
+personnel."). ROKG officials were discussing the issue, but 
+understood that it was unlikely that the DPRK would sign a 
+reinforced safety agreement in the context of no inter-Korean 
+dialogue. 
+ 
+¶6. (C) Chin said MOFAT's initial take was that the North was 
+continuing its year-long efforts to pressure the ROKG to 
+change its DPRK policy, as well as trying to foment unrest 
+among South Koreans.  Neither effort had succeeded, because 
+the ROKG was determined to maintain its calm approach to the 
+DPRK.  A recent poll showed that 73 percent of South Koreans 
+held the North fully responsible for the closures, whereas 
+only 15 percent thought the ROKG provoked the closure by 
+participating in joint military exercises. 
+ 
+¶7. (C) Asked about other theories making the rounds -- such 
+as the closures being a sign of the North Korean People's 
+Army asserting itself over civilian counterparts, or that the 
+closures were meant to signal the North's desire to have the 
+South close the KIC -- Chin said that not enough information 
+was available to be able to draw such conclusions.  He 
+reiterated what Minister of Unification Hyun In-taek told 
+journalists on March 18: that the ROKG's intention remained 
+to keep the KIC open.  However, Chin acknowledged that 
+businesspeople were expressing growing reservations about 
+operating at KIC, given the uncertainties about access and 
+the knock-on effect on orders, though none had announced a 
+closure since the first border interruption on March 9. 
+ 
+¶8. (C) Chin said that his office interpreted the initial 
+March 9 KIC access cutoff as an inadvertent result of the 
+North's announcement that all military-to-military 
+communications would be severed during the Key Resolve/Foal 
+Eagle exercises.  However, MOFAT saw the second access cutoff 
+on March 13, which stranded South Koreans at the KIC over the 
+weekend, as a deliberate act.  Even so, the message the North 
+was trying to send was unclear:  a protest against ROKG 
+statements about the DPRK's missile launch, a reaction to ROK 
+media stories saying that the North reopened access during 
+that week just to get its USD 1.8 million payroll, or 
+something else entirely. 
+ 
+-- MOU 
+ 
+¶9. (C) Ministry of Unification Deputy Spokesperson Lee 
+Jong-joo, previously MOU's main liaison officer with the U.S. 
+and other embassies, told us on March 18 that the MOU was not 
+ready to draw conclusions about the North's cut off of and 
+reopening of the transportation corridors.  Other than the 
+March 9 DPRK statement announcing that military-to-military 
+communications would be cut off during the military 
+exercises, the ROKG had received no explanation.  Each day, 
+MOU had enlisted private businesses in the KIC to ask the 
+North Korean authorities at the KIC (the Central Special 
+Direct General Bureau) for further information about its 
+reasons for the access cutoffs and its future plans, but 
+those inquiries had gone unanswered.  The only communications 
+coming from the North were the daily letters approving travel 
+of persons and shipment of materials to and from the KIC; 
+absence of such a message in the morning was the only way to 
+know that access was being cut off for the day.  Lee agreed 
+with MOFAT officials that there was simply not enough 
+information to determine whether the North faced internal 
+disagreements, a resurgent military, or was trying to 
+maneuver the South into closing the KIC.  However, the 
+ 
+on-again off-again nature of access to KIC pointed at least 
+to some confusion on the North's part.  MOU's stance was to 
+closely observe the KIC situation over the coming days.  A 
+cut off of access after the March 20 end of the joint 
+military exercises would be viewed as very serious, 
+indicating that the North was willing to truly jeopardize the 
+KIC. 
+ 
+¶10. (C) Again citing MOU Minister Hyun In-taek's statement 
+that the KIC would remain open, Lee added that at a March 15 
+meeting with Minister Hyun, held during the weekend that KIC 
+businesspeople were prevented from returning to Seoul, CEOs 
+of KIC companies had pressed Hyun hard in private to not let 
+the KIC close.  Asked about the resiliency of ROK businesses 
+in the face of uncertainty about KIC access, Lee said that 
+many of the small companies operating there are used to 
+running on a shoestring, determined to keep making money at 
+KIC (where labor costs are extremely low) as long as they 
+can. 
+ 
+ 
+-- Former MOU Minister 
+ 
+¶11. (C) Former Unification Minister and Chief Delegate to 
+Inter-Korean Talks (1998, 2002) Jeong Se-hyun told poloff on 
+March 18 that both KIC border closure decisions were 
+intentional, aimed to make the "train" the Lee Myung-bak 
+administration understand that the North was in control of 
+inter-Korean relations.  Jeong, an MOU veteran of 30 years, 
+predicted that the DPRK would not shut down the KIC because 
+the Complex was created under direct orders from Kim Jong-il. 
+ Jeong characterized the recent KIC border problems as a 
+"child's play," saying that the North's real intention was 
+not to close the KIC, but to raise tensions.  Ultimately, 
+according to Jeong, North Korea aimed to obtain greater 
+leverage in the next round of negotiations with the United 
+States -- through pressure on the KIC, its missile launch and 
+expulsion of food monitors. 
+ 
+-- National Assembly 
+ 
+¶12. (C) Two National Assembly members, from the ruling Grand 
+National Party and the Democratic Party, told us March 17 
+that the North's on-again, off-again restrictions on travel 
+to and from the KIC cast the long-term viability of the 
+experiment in economic cooperation in serious doubt.  Neither 
+lawmaker, however, in extended conversations about current 
+political issues mentioned Kaesong until prompted by our 
+questions.  Neither lawmaker expressed any concern about the 
+face that South Korean citizens were detained in the KIC 
+during March 13-16.  One lawmaker speculated that the North 
+would close the KIC as soon as it could find alternative 
+employment for the some 40,000 North Korean workers currently 
+employed by South Korean firms, possibly at the joint 
+Korea-China economic project in Sinuiju, but others see such 
+a move as unlikely because the Sinuiju project has not 
+developed. 
+ 
+------------------ 
+Business Reactions 
+------------------ 
+ 
+¶13. (C) Director Yim Hwang-yong of S.J. Tech, a mid-sized 
+company producing plastic valves in the KIC since 2005, 
+described the current situation as the "worst since the 
+company's inception."  According to Yim, the present 
+situation is far worse than the period after the 2006 nuclear 
+test when the KIC companies were virtually unaffected.  Yim 
+said he felt "stuck;" unable to fill the customers' orders in 
+confidence since border crossings could be interrupted again, 
+and unable to pull out completely because his company would 
+not receive insurance compensation unless the KIC were 
+completely shut down by the DPRK. 
+ 
+¶14. (C) Yim dismissed the March 9 border closure as a 
+"possible mistake" on the DPRK's part, but thought the March 
+13 closure sent a much stronger and worrisome message.  Yim 
+said the March 13 incident was a proof, and the first signal 
+to the KIC companies, that the North Korean mood does affect 
+the KIC and could lead to closure. 
+ 
+¶15. (C) On the other hand, Hyundai Asan Executive Vice 
+President Jang Hwan-bin, representing the firm that developed 
+the KIC, told poloffs on March 17 that despite temporary 
+hesitation to invest in the KIC after the access 
+restrictions, businesses would "forget" these troublesome 
+times as soon as the North-South relations were restored and 
+profits increased.  Jang believed that South Korean 
+businesses preferred the KIC over China, so the firms would 
+not easily pull out from the KIC and leave behind affordable 
+North Korean labor. 
+ 
+¶16. (C) Jang said that North Korean behavior after the 
+completion of the joint U.S.-ROK military exercise on March 
+21 would be the key indication of Pyonyang's "true 
+intentions" toward the KIC.  Jang predicted that if border 
+troubles at the KIC continued after the joint military 
+exercise, this would indicate further deterioration of 
+North-South relations.  The trouble then, Jang commented, 
+would be far beyond the KIC.  For now, he agreed with the 
+ROKG's cautious, day-by-day approach. 
+ 
+¶17. (C) Lamenting a lost opportunity to improve relations 
+with the North, Jang pointed out that the current 
+administration would have found itself in a better position 
+with the North if it had promptly delivered the fiber optic 
+cables requested by the North Korean military in June 2008 
+and again in October 2008.  (NOTE: ROKG officials have told 
+us they tried to set a date for delivering communications 
+materials in October 2008 during military-to-military talks, 
+but got no DPRK response.  END NOTE.)  Jang pointed to 
+February 2009 as another missed opportunity, when the newly 
+appointed Unification Minister did not show any interest in 
+visiting the KIC or speaking positively about its expansion. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶18. (C) If the DPRK was determined to raise tensions with its 
+March 9, 13 and 20 KIC access closures, and the resulting 
+weekend detention of 655 South Koreans, the ROKG, with 
+support from the KIC business community, was equally 
+determined not to let the episode become a crisis.  At the 
+same time, ROKG officials acknowledge privately that the KIC 
+detentions would have become a crisis had they continued 
+through March 16 or later.  As IHT journalist Choe Sang-hun 
+told us on March 19, the ROKG's main lesson over the March 
+13-16 period was that they had no way to get their citizens 
+out of the KIC.  ROKG officials are united in saying that 
+they don't want the KIC to close, and believe that the DPRK 
+wants it to remain open as well, but if ROK citizens are 
+detained again, KIC will unravel. 
+STEPHENS
+</file>

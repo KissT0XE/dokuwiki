@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 1 | [[https://www.wikileaks.org/plusd/cables/88SEOUL3039_a.html| 88SEOUL3039 ]]| [[/88SEOUL3039]] | 한국: 1987년 연례 테러 보고서 | 1988-03-16 | 비밀 | 완료 |
+| 2 | [[https://www.wikileaks.org/plusd/cables/88SEOUL3040_a.html| 88SEOUL3040 ]]| [[/88SEOUL3040]] | 한국: 1987년 연례 테러 보고서 | 1988-03-16 | 미분류 | 완료 |
+| 3 | [[https://www.wikileaks.org/plusd/cables/88SEOUL4375_a.html| 92SEOUL4375 ]]| [[/92SEOUL4375]] | 김일성 생일 및 김일성 부자의 새로운 칭호: 한국의 생각 | 1992-04-23 | 기밀 | 완료 |
+| 4 | [[https://www.wikileaks.org/plusd/cables/92SEOUL12111_a.html| 92SEOUL12111 ]]| [[/92SEOUL12111]] | 한국: 1992년 연례 테러 보고서 | 1992-11-17 | 미분류 | 완료 |
+| 5 | [[https://www.wikileaks.org/plusd/cables/92SEOUL12720_a.html| 92SEOUL12720 ]]| [[/92SEOUL12720]] | 한국: 1992년 연례 테러 보고서 | 1992-12-04 | 미분류 | |
+| 6 | [[https://www.wikileaks.org/plusd/cables/93SEOUL2885_a.html| 93SEOUL2885 ]]| [[/93SEOUL2885]] | 북한, 준전시 상태 해제 선언 | 1993-03-25 | 기밀 | |
+| 7 | [[https://www.wikileaks.org/plusd/cables/94SEOUL8139_a.html| 94SEOUL8139 ]]| [[/94SEOUL8139]] | 북한 권력 상황 — 조총련 보고서 | 1994-09-28 | 기밀 | |
+| 8 | [[https://www.wikileaks.org/plusd/cables/94SEOUL9874_a.html| 94SEOUL9874 ]]| [[/94SEOUL9874]] | 한국: 1994년 연례 테러 보고서 | 1994-12-02 | 기밀 | 보완 |
+| 9 | [[https://www.wikileaks.org/plusd/cables/98SEOUL7019_a.html| 98SEOUL7019 ]]| [[/98SEOUL7019]] | 한국: 1998년 연례 테러 보고서 | 1998-12-11 | 미분류 | 완료 |
+| 10 | [[https://www.wikileaks.org/plusd/cables/03SEOUL5653_a.html| 03SEOUL5653 ]]| [[/03SEOUL5653]] | 한국 연례 테러 보고서 | 2003-11-28 | 미분류 | 완료 |
+| 11 | [[https://www.wikileaks.org/plusd/cables/06SEOUL76_a.html| 06SEOUL76 ]]| [[/06SEOUL76]] | 한국 학계, 북한이 2006년에 미국이 더 강력한 조치를 취하리라 예상하여 내부를 엄중 단속할 것이라 생각 | 2006-01-06 | 대외비 | 할당 |
+| 12 | [[https://www.wikileaks.org/plusd/cables/06SEOUL102_a.html| 06SEOUL102 ]]| [[/06SEOUL102]] | 신임 통일부 장관: 이종석이 중앙 무대에 올라서다 | 2006-01-09 | 비밀 | 완료|
+| 13 | [[https://www.wikileaks.org/plusd/cables/06SEOUL117_a.html| 06SEOUL117 ]]| [[/06SEOUL117]] | 머카우스키 상원의원, 이봉조 통일부 차관과 회담 | 2006-01-10 | 기밀 | 완료 |
+| 14 | [[https://www.wikileaks.org/plusd/cables/06SEOUL155_a.html| 06SEOUL155 ]]| [[/06SEOUL155]] | 한국, 미국 정부의 북한 난민 전략 연구 | 2006-01-12 | 기밀 | 할당|
+| 15 | [[https://www.wikileaks.org/plusd/cables/06SEOUL182_a.html| 06SEOUL182 ]]| [[/06SEOUL182]] | 한국, 이란 핵 프로그램에 대한 미국의 입장을 적극 지지 | 2006-01-13 | 기밀 | 할당 |
+| 16 | [[https://www.wikileaks.org/plusd/cables/06SEOUL183_a.html| 06SEOUL183 ]]| [[/06SEOUL183]] | 한국, 유엔 개혁 지지 | 2006-01-13 | 기밀 | 할당|
+| 17 | [[https://www.wikileaks.org/plusd/cables/06SEOUL272_a.html| 06SEOUL272 ]]| [[/06SEOUL272]] | 외교통상부 관료들, 현재의 한중 관계에 대해 낙관적 | 2006-01-23 | 기밀 | 할당 |
+| 18 | [[https://www.wikileaks.org/plusd/cables/06SEOUL327_a.html| 06SEOUL327 ]]| [[/06SEOUL327]] | 한국 정부, 대외 무기 판매 지위 개선 요구 | 2006-01-27 | 기밀 | 할당 |
+| 19 | [[https://www.wikileaks.org/plusd/cables/06SEOUL368_a.html| 06SEOUL368 ]]| [[/06SEOUL368]] | 1월 30일, P5(유엔 상임이사국 5개국)+2의 입장 전달 | 2006-02-01 | 기밀 | |
+| 20 | [[https://www.wikileaks.org/plusd/cables/06SEOUL393_a.html| 06SEOUL393 ]]| [[/06SEOUL393]] | 송민순 외교통상부 장관, 이란 문제에 대한 지지를 다시 표명 | 2006-02-03 | 기밀 | |
+| 21 | [[https://www.wikileaks.org/plusd/cables/06SEOUL394_a.html| 06SEOUL394 ]]| [[/06SEOUL394]] | 워싱턴 방문 한나라당 국회의원, 미국과의 유대를 재확인하고자 함 | 2006-02-03 | 기밀 | 완료 |
+| 22 | [[https://www.wikileaks.org/plusd/cables/06SEOUL398_a.html| 06SEOUL398 ]]| [[/06SEOUL398]] | 한국의 환경 관련 주요 법률, 정책, 규제 시스템 | 2006-02-05 | 미분류 | |
+| 23 | [[https://www.wikileaks.org/plusd/cables/06SEOUL410_a.html| 06SEOUL410 ]]| [[/06SEOUL410]] | 2005/2006년 한국의 상호 방위 분담에 대한 의회 보고서 | 2006-02-06 | 미분류 | |
+| 24 | [[https://www.wikileaks.org/plusd/cables/06SEOUL423_a.html| 06SEOUL423 ]]| [[/06SEOUL423]] | 북한 경제: 중국 전문가는 경제 개혁을 예상하나 군부의 역할 변화에 대해서는 회의적 | 2006-02-07 | 기밀 | |
+| 25 | [[https://www.wikileaks.org/plusd/cables/06SEOUL425_a.html| 06SEOUL425 ]]| [[/06SEOUL425]] | 북한 경제 정책에 어떤 변화가 일어나고 있나? 한국의 통념도 변화. | 2006-02-07 | 기밀 | |
+| 26 | [[https://www.wikileaks.org/plusd/cables/06SEOUL432_a.html| 06SEOUL432 ]]| [[/06SEOUL432]] | 베네수엘라에 대한 무기 판매 제한을 요청하는 외교문서 한국 정부에 전달 | 2006-02-07 | 비밀 | 완료 |
+| 27 | [[https://www.wikileaks.org/plusd/cables/06SEOUL434_a.html| 06SEOUL434 ]]| [[/06SEOUL434]] | 이종석 청문회 "전략적 유연성" 논란 재현 | 2006-02-07 | 기밀 | 완료 |
+| 28 | [[https://www.wikileaks.org/plusd/cables/06SEOUL445_a.html| 06SEOUL445 ]]| [[/06SEOUL445]] | 한국 정부, 2006년 유엔 안전보장이사회 선거에서 베네수엘라의 패배 예측 | 2006-02-08 | 기밀 | |
+| 29 | [[https://www.wikileaks.org/plusd/cables/06SEOUL448_a.html| 06SEOUL448 ]]| [[/06SEOUL448]] | 이란에 대한 국제원자력기구(이하 IAEA) 결정과 관련하여 한국에 전달한 요점 | 2006-02-08 | 미분류 | |
+| 30 | [[https://www.wikileaks.org/plusd/cables/06SEOUL449_a.html| 06SEOUL449 ]]| [[/06SEOUL449]] | 한–아세안 자유무역협정(이하 FTA) | 2006-02-08 | 대외비 | |
+| 31 | [[https://www.wikileaks.org/plusd/cables/06SEOUL450_a.html| 06SEOUL450 ]]| [[/06SEOUL450]] | 에이펙 2006에 대한 한국의 목표 | 2006-02-08 | 기밀 | |
+| 32 | [[https://www.wikileaks.org/plusd/cables/06SEOUL471_a.html| 06SEOUL471 ]]| [[/06SEOUL471]] | 한국, 미국 정부의 난민 전략에 대해 우려 표명 | 2006-02-10 | 기밀 | |
+| 33 | [[https://www.wikileaks.org/plusd/cables/06SEOUL474_a.html| 06SEOUL474 ]]| [[/06SEOUL474]] | 한국의 베네수엘라 무기 판매 제한에 대한 추가 사항 | 2006-02-10 | 비밀 | 완료 |
+| 34 | [[https://www.wikileaks.org/plusd/cables/06SEOUL491_a.html| 06SEOUL491 ]]| [[/06SEOUL491]] | 한국, 인도 및 멕시코와 특별무역협정 논의 시작 | 2006-02-13 | 대외비 | |
+| 35 | [[https://www.wikileaks.org/plusd/cables/06SEOUL498_a.html| 06SEOUL498 ]]| [[/06SEOUL498]] | 전前 김일성 대학 교수, 북한 국민 사이에 불만이 팽배하다고 밝혀 | 2006-02-14 | 대외비 | 할당 |
+| 36 | [[https://www.wikileaks.org/plusd/cables/06SEOUL502_a.html| 06SEOUL502 ]]| [[/06SEOUL502]] | 한국, 유네스코 문화다양성협약 비준을 서서히 추진: 일부 부처는 협약에 반대 | 2006-02-14 | 대외비 | |
+| 37 | [[https://www.wikileaks.org/plusd/cables/06SEOUL504_a.html| 06SEOUL504 ]]| [[/06SEOUL504]] | 인사청문회 용두사미로 끝나 | 2006-02-14 | 기밀 | 완료 |
+| 38 | [[https://www.wikileaks.org/plusd/cables/06SEOUL507_a.html| 06SEOUL507 ]]| [[/06SEOUL507]] | 노동 분야 개요: 각 당사자 소개 | 2006-02-14 | 대외비 | |
+| 39 | [[https://www.wikileaks.org/plusd/cables/06SEOUL509_a.html| 06SEOUL509 ]]| [[/06SEOUL509]] | 반기문 외무장관, 유엔 사무총장 선거에 출사표 | 2006-02-14 | 기밀 | |
+| 40 | [[https://www.wikileaks.org/plusd/cables/06SEOUL510_a.html| 06SEOUL510 ]]| [[/06SEOUL510]] | 인도 대통령, 경제 위주 방한 | 2006-02-14 | 대외비 | |
+| 41 | [[https://www.wikileaks.org/plusd/cables/06SEOUL548_a.html| 06SEOUL548 ]]| [[/06SEOUL548]] | 노동 분야 개요: 이슈 | 2006-02-17 | 대외비 | |
+| 42 | [[https://www.wikileaks.org/plusd/cables/06SEOUL549_a.html| 06SEOUL549 ]]| [[/06SEOUL549]] | 노동 분야 개요: 국제 기준 준수에 대하여 | 2006-02-17 | 대외비 | |
+| 43 | [[https://www.wikileaks.org/plusd/cables/06SEOUL551_a.html| 06SEOUL551 ]]| [[/06SEOUL551]] | 미국 국제개발국 관료, 한국 정부 및 비정부 기구와 북한 식량 상황 논의 | 2006-02-17 | 대외비 | |
+| 44 | [[https://www.wikileaks.org/plusd/cables/06SEOUL558_a.html| 06SEOUL558 ]]| [[/06SEOUL558]] | 한국, 국제원자력기구 안전조치 위원회에 대한 미국의 노력을 환영 | 2006-02-17 | 미분류 | |
+| 45 | [[https://www.wikileaks.org/plusd/cables/06SEOUL559_a.html| 06SEOUL559 ]]| [[/06SEOUL559]] | 북한 경제: 개성 산업단지, 대박인가 쪽박인가? | 2006-02-17 | 기밀 | 할당 |
+| 46 | [[https://www.wikileaks.org/plusd/cables/06SEOUL574_a.html| 06SEOUL574 ]]| [[/06SEOUL574]] | 김대중 방북 6월로 연기 | 2006-02-21 | 기밀 | |
+| 47 | [[https://www.wikileaks.org/plusd/cables/06SEOUL585_a.html| 06SEOUL585 ]]| [[/06SEOUL585]] | 하마스에 대한 메시지, 한국에 전달 | 2006-02-22 | 기밀 | |
+| 48 | [[https://www.wikileaks.org/plusd/cables/06SEOUL590_a.html| 06SEOUL590 ]]| [[/06SEOUL590]] | 정동영, 여당 열린우리당의 당권 재획득 | 2006-02-23 | 기밀 | |
+| 49 | [[https://www.wikileaks.org/plusd/cables/06SEOUL592_a.html| 06SEOUL592 ]]| [[/06SEOUL592]] | 송민순 통일외교안보정책 실장을 염두에 둔 이슈―주한미군 기지 환경 치유 | 2006-02-23 | 기밀 | 완료 |
+| 50 | [[https://www.wikileaks.org/plusd/cables/06SEOUL595_a.html| 06SEOUL595 ]]| [[/06SEOUL595]] | 북한 권력 승계: 김정일 후계자가 누구인지, 언제 승계할지를 놓고 한국 관측통 의견 엇갈려 | 2006-02-23 | 대외비 | |
+| 51 | [[https://www.wikileaks.org/plusd/cables/06SEOUL598_a.html| 06SEOUL598 ]]| [[/06SEOUL598]] | 주한미군 사령관, 반기문 외무장관과 송민순 통일외교안보정책실장 상견례—환경 복원과 북한 문제 | 2006-02-23 | 기밀 | |
+| 52 | [[https://www.wikileaks.org/plusd/cables/06SEOUL600_a.html| 06SEOUL600 ]]| [[/06SEOUL600]] | 한국, 항공개방협정에 따른 항공로 지정 수용 | 2006-02-23 | 미분류 | |
+| 53 | [[https://www.wikileaks.org/plusd/cables/06SEOUL601_a.html| 06SEOUL601 ]]| [[/06SEOUL601]] | 한국 스페셜 301조 지재권 점검: 대사관은 한국에 대한 “감시 대상국” 지위 유지 권고 | 2006-02-23 | 대외비 | 완료 |
+| 54 | [[https://www.wikileaks.org/plusd/cables/06SEOUL609_a.html| 06SEOUL609 ]]| [[/06SEOUL609]] | 비정부 기구 사업, 북한에 친지가 있는 재미 동포의 이산가족 상봉 추진 | 2006-02-24 | 대외비 | |
+| 55 | [[https://www.wikileaks.org/plusd/cables/06SEOUL615_a.html| 06SEOUL615 ]]| [[/06SEOUL615]] | 한국 정부, 3월 8일에 기구 간 대량살상무기 확산방지구상(이하 PSI) 운영 전문가 방문을 주관하는 데 동의 | 2006-02-24 | 기밀 | |
+| 56 | [[https://www.wikileaks.org/plusd/cables/06SEOUL631_a.html| 06SEOUL631 ]]| [[/06SEOUL631]] | SOFA 합동위원회 한국 측 신임 대표 | 2006-02-27 | 미분류 | |
+| 57 | [[https://www.wikileaks.org/plusd/cables/06SEOUL632_a.html| 06SEOUL632 ]]| [[/06SEOUL632]] | 노무현 대통령, 다음 주에 내각 개편 | 2006-02-27 | 대외비 | |
+| 58 | [[https://www.wikileaks.org/plusd/cables/06SEOUL640_a.html| 06SEOUL640 ]]| [[/06SEOUL640]] | 한국: 현무-III/B 순항 미사일 2차 시험 비행 | 2006-02-28 | 비밀 | 완료 |
+| 59 | [[https://www.wikileaks.org/plusd/cables/06SEOUL646_a.html| 06SEOUL646 ]]| [[/06SEOUL646]] | 노근리 추모 기금, 2006년 9월 30일에 만료 | 2006-03-02 | 기밀 | |
+| 60 | [[https://www.wikileaks.org/plusd/cables/06SEOUL657_a.html| 06SEOUL657 ]]| [[/06SEOUL657]] | 저명 학자, 미국이 조용한(low-key) 접근을 통해 북한을 약화시켜야 한다며 한국의 정책을 비판 | 2006-03-02 | 대외비 | |
+| 61 | [[https://www.wikileaks.org/plusd/cables/06SEOUL658_a.html| 06SEOUL658 ]]| [[/06SEOUL658]] | 외교통상부, 노무현 대통령의 3월 3일 육군사관학교 졸업식 연설 검토 | 2006-03-02 | 기밀 | |
+| 62 | [[https://www.wikileaks.org/plusd/cables/06SEOUL659_a.html| 06SEOUL659 ]]| [[/06SEOUL659]] | 노무현 대통령, 3월 1일 연설에서 일본 비판 | 2006-03-02 | 기밀 | 완료 |
+| 63 | [[https://www.wikileaks.org/plusd/cables/06SEOUL663_a.html| 06SEOUL663 ]]| [[/06SEOUL663]] | 노무현 대통령, 내각 개편 발표 | 2006-03-02 | 미분류 | |
+| 64 | [[https://www.wikileaks.org/plusd/cables/06SEOUL687_a.html| 06SEOUL687 ]]| [[/06SEOUL687]] | 한국, IAEA 이사회에서 대이란 국가 성명에 대해 제시된 항목 고려 예정 | 2006-03-03 | 기밀 | |
+| 65 | [[https://www.wikileaks.org/plusd/cables/06SEOUL688_a.html| 06SEOUL688 ]]| [[/06SEOUL688]] | 한국 재경부, 작은 ‘빅뱅’을 시작 | 2006-03-03 | 미분류 | |
+| 66 | [[https://www.wikileaks.org/plusd/cables/06SEOUL728_a.html| 06SEOUL728 ]]| [[/06SEOUL728]] | 국방부 장관실 비핵화정책실장(OSD/NP) 쿠퍼, 화학무기금지조약 주관국 협약(CWC/HCA)에 대해 한국 정부와 회담 | 2006-03-07 | 기밀 | |
+| 67 | [[https://www.wikileaks.org/plusd/cables/06SEOUL731_a.html| 06SEOUL731 ]]| [[/06SEOUL731]] | 남북군사회담, 아무 진전 없이 종료 | 2006-03-07 | 기밀 | |
+| 68 | [[https://www.wikileaks.org/plusd/cables/06SEOUL740_a.html| 06SEOUL740 ]]| [[/06SEOUL740]] | 미 대사, 이명박 서울시장과 회담 | 2006-03-08 | 기밀 | 완료 |
+| 69 | [[https://www.wikileaks.org/plusd/cables/06SEOUL742_a.html| 06SEOUL742 ]]| [[/06SEOUL742]] | 한국의 대베네수엘라 무기 수출 제한에 대한 추가 정보 | 2006-03-08 | 비밀 | |
+| 70 | [[https://www.wikileaks.org/plusd/cables/06SEOUL749_a.html| 06SEOUL749 ]]| [[/06SEOUL749]] | 북한 주재 영국 부대사, 북한 상황 언급 | 2006-03-09 | 기밀 | |
+| 71 | [[https://www.wikileaks.org/plusd/cables/06SEOUL758_a.html| 06SEOUL758 ]]| [[/06SEOUL758]] | 하마스에 대한 사항, 한국에 전달 | 2006-03-09 | 기밀 | |
+| 72 | [[https://www.wikileaks.org/plusd/cables/06SEOUL769_a.html| 06SEOUL769 ]]| [[/06SEOUL769]] | 한국과 일본, 한반도 에너지 개발기구(이하 KEDO) 종료 계획에 동의 | 2006-03-10 | 대외비 | 할당 |
+| 73 | [[https://www.wikileaks.org/plusd/cables/06SEOUL772_a.html| 06SEOUL772 ]]| [[/06SEOUL772]] | 한국, 북한 난민 처리의 후속 단계에 대해 미국 정부에 브리핑 | 2006-03-10 | 기밀 | |
+| 74 | [[https://www.wikileaks.org/plusd/cables/06SEOUL777_a.html| 06SEOUL777 ]]| [[/06SEOUL777]] | 6차 연례 인신매매 근절(이하 anti-TIP) 보고서 | 2006-03-10 | 대외비 | 할당 |
+| 75 | [[https://www.wikileaks.org/plusd/cables/06SEOUL802_a.html| 06SEOUL802 ]]| [[/06SEOUL802]] | 이해찬 총리, 사임 압력에 시달려 | 2006-03-13 | 기밀 | |
+| 76 | [[https://www.wikileaks.org/plusd/cables/06SEOUL809_a.html| 06SEOUL809 ]]| [[/06SEOUL809]] | 한국 FTA: 처리 방법에 대한 예비 논의 | 2006-03-14 | 대외비 | 완료 |
+| 77 | [[https://www.wikileaks.org/plusd/cables/06SEOUL821_a.html| 06SEOUL821 ]]| [[/06SEOUL821]] | 북한, 남북 대화 연기. 한국 정부 관료는 4월 재개 낙관 | 2006-03-14 | 기밀 | |
+| 78 | [[https://www.wikileaks.org/plusd/cables/06SEOUL822_a.html| 06SEOUL822 ]]| [[/06SEOUL822]] | 이해찬 총리, 사의 표명 | 2006-03-14 | 기밀 | 완료 |
+| 79 | [[https://www.wikileaks.org/plusd/cables/06SEOUL827_a.html| 06SEOUL827 ]]| [[/06SEOUL827]] | 한국, 개성 공단에 대한 미국의 적극적이고 지속적인 지원 촉구 | 2006-03-15 | 기밀 | 할당 |
+| 80 | [[https://www.wikileaks.org/plusd/cables/06SEOUL837_a.html| 06SEOUL837 ]]| [[/06SEOUL837]] | 한국, 이라크와 아프가니스탄 보안군 원조 | 2006-03-15 | 비밀 | 완료 |
+| 81 | [[https://www.wikileaks.org/plusd/cables/06SEOUL859_a.html| 06SEOUL859 ]]| [[/06SEOUL859]] | 이라크 지역재건단(PRT) 파견에 한국이 참여할 것을 제안 | 2006-03-16 | 기밀 | |
+| 82 | [[https://www.wikileaks.org/plusd/cables/06SEOUL861_a.html| 06SEOUL861 ]]| [[/06SEOUL861]] | 한국, 환경부 장관과 공정거래위원장 새로 임명 | 2006-03-16 | 대외비 | |
+| 83 | [[https://www.wikileaks.org/plusd/cables/06SEOUL862_a.html| 06SEOUL862 ]]| [[/06SEOUL862]] | 3월 7일 도쿄 한일 전략대화: 장시간 회의 성과없이 끝나 | 2006-03-16 | 기밀 | 완료 |
+| 84 | [[https://www.wikileaks.org/plusd/cables/06SEOUL863_a.html| 06SEOUL863 ]]| [[/06SEOUL863]] | 한국, 아세안지역포럼(이하 ARF) 핵확산 방지 세미나 참가 예정 | 2006-03-16 | 대외비 | |
+| 85 | [[https://www.wikileaks.org/plusd/cables/06SEOUL864_a.html| 06SEOUL864 ]]| [[/06SEOUL864]] | 2006년 3월 한·미 통상현안 분기별 점검회의: 의제 설정 | 2006-03-16 | 대외비 | 완료 |
+| 86 | [[https://www.wikileaks.org/plusd/cables/06SEOUL865_a.html| 06SEOUL865 ]]| [[/06SEOUL865]] | 보잉의 공중조기경보통제기(이하 EX) 입찰 지원 | 2006-03-16 | 미분류 | |
+| 87 | [[https://www.wikileaks.org/plusd/cables/06SEOUL866_a.html| 06SEOUL866 ]]| [[/06SEOUL866]] | 한국, 유엔 안전보장이사회 선거에서 과테말라 지지 | 2006-03-16 | 기밀 | |
+| 88 | [[https://www.wikileaks.org/plusd/cables/06SEOUL875_a.html| 06SEOUL875 ]]| [[/06SEOUL875]] | 대사 3월 14일 김근태와의 오찬 | 2006-03-17 | 기밀 | 완료 |
+| 89 | [[https://www.wikileaks.org/plusd/cables/06SEOUL876_a.html| 06SEOUL876 ]]| [[/06SEOUL876]] | 미–인도 민간핵협력협정에 대한 후속 외교문서(demarche) 전달 | 2006-03-17 | 대외비 | |
+| 90 | [[https://www.wikileaks.org/plusd/cables/06SEOUL877_a.html| 06SEOUL877 ]]| [[/06SEOUL877]] | 북한: 뮤지컬 | 2006-03-17 | 미분류 | |
+| 91 | [[https://www.wikileaks.org/plusd/cables/06SEOUL888_a.html| 06SEOUL888 ]]| [[/06SEOUL888]] | 한국의 환경 문제: 새만금 사업에 대한 대법원 판결. 비정부 기구 패배 | 2006-03-20 | 미분류 | |
+| 92 | [[https://www.wikileaks.org/plusd/cables/06SEOUL889_a.html| 06SEOUL889 ]]| [[/06SEOUL889]] | 한국의 조세 개혁 비난에 봉착, 통과 불투명 | 2006-03-20 | 대외비 | |
+| 93 | [[https://www.wikileaks.org/plusd/cables/06SEOUL900_a.html| 06SEOUL900 ]]| [[/06SEOUL900]] | 미 대사, 동맹 및 대북한 전략에 대해 보수적 국회의원들에게 브리핑 | 2006-03-21 | 기밀 | |
+| 94 | [[https://www.wikileaks.org/plusd/cables/06SEOUL901_a.html| 06SEOUL901 ]]| [[/06SEOUL901]] | 미 대사, 3월 17일에 정동영 열린우리당 의장과 회담 | 2006-03-21 | 기밀 | |
+| 95 | [[https://www.wikileaks.org/plusd/cables/06SEOUL902_a.html| 06SEOUL902 ]]| [[/06SEOUL902]] | 미 대사, 3월 17일에 고건 전 총리와 오찬 회동 | 2006-03-21 | 기밀 | |
+| 96 | [[https://www.wikileaks.org/plusd/cables/06SEOUL905_a.html| 06SEOUL905 ]]| [[/06SEOUL905]] | 한나라당 중진 의원들, 동맹에 대한 지지 재확인 및 선거 승리 예측 | 2006-03-21 | 기밀 | 완료 |
+| 97 | [[https://www.wikileaks.org/plusd/cables/06SEOUL911_a.html| 06SEOUL911 ]]| [[/06SEOUL911]] | 한국, 중국이 북한 여인 최은선을 추방했다고 밝혀 | 2006-03-21 | 비밀 | 완료 |
+| 98 | [[https://www.wikileaks.org/plusd/cables/06SEOUL914_a.html| 06SEOUL914 ]]| [[/06SEOUL914]] | SOFA 합동위원회 한국 측 신임 부대표 | 2006-03-22 | 미분류 | |
+| 99 | [[https://www.wikileaks.org/plusd/cables/06SEOUL918_a.html| 06SEOUL918 ]]| [[/06SEOUL918]] | 2006년 대통령 국가안보전략(이하 NSS) 요점, 외교통상부에 전달 | 2006-03-22 | 기밀 | |
+| 100 | [[https://www.wikileaks.org/plusd/cables/06SEOUL919_a.html| 06SEOUL919 ]]| [[/06SEOUL919]] | 미사일 기술 통제 체제(이하 MTCR) TPEG 문서, 한국 정부에 전달 | 2006-03-22 | 미분류 | |
+</sortable>

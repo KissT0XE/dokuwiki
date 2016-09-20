@@ -1,0 +1,156 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08STATE18255  |  2008-02-23 00:29  |  비밀/외국전파금지  |  국무부장관  |  {{tag>EAIR ETRD ETTC IR KS PARM PREL UK }}  |
+====== 제 목: 한국정부에 이란행 미국산 사업용 항공기 억류 요청 ======
+비 밀 STATE 018255 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+외국전파금지((NOFORN ))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 02/22/2018 
+태그: EAIR(([Civil Aviation])), ETRD(([Foreign Trade])), ETTC(([Trade and Technology Controls])), IR(([Iran])), KS(([Korea (South)])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), UK(([United Kingdom]))
+제 목: 한국정부에 이란행 미국산 사업용 항공기 억류 요청
+참조하는 전문: [[08seoul362|08SEOUL362]], [[08seoul422|08SEOUL422]], [[08seoul573|08SEOUL573]], [[08seoul576|08SEOUL576]], [[08seoul796|08SEOUL796]]
+분류자: 국제에너지사업국/금융제재과장 스티브 본디((EEB/ESC/TFS Director Steve Bondy))
+근거: 1.4 (b) and (d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/22 23:49//
+
+1. (미분류) 이 전문은 즉각적인 행동 요청이다. 2문단을 보세요.
+
+2. (비밀/외국전파금지) 요약 및 행동요청: 영국의 밸리 그룹 소유의 보잉 747-400 항공기 3기가 현재 남한에서 유지보수를 받고 있다. 국무부는 해당 항공기를 이란 민간 항공사 마한 항공에 납품할 목적이라고 믿을만한 강력한 근거가 있다. 해당 항공기의 마한 항공 납품은 미국수출관리규정과 이란거래규정 위반에 해당한다. 주한미국대사관은 즉각적인 조치로 3문단의 논지를 살려서 식별된 해당 항공기를 억류시키도록 한국정부의 지원을 타진하고, 밸리 그룹에 대한 미국 상무부의 복귀 명령을 촉진하는 한국정부와의 교섭이 요구된다.
+ 
+3. (비밀/남한과 관련) 논지 내용 시작:
+
+  * 우리는 한미 양국의 대화와 공고한 관계를 소중하게 생각한다. 그럼 맥락에서, 우리는 몇몇 미국산 민간 여객기의 잠재적인 이란행 운송에 대해 미국의 우려를 제기하길 원한다. 만일 납품 운송이 완료되면, 영국에 본부들 둔 밸리 그룹은 미국수출관리규정과 이란거래규정 위반에 해당할 수 있다.
+
+  * 우리는 보잉 747-400 항공기 3기가 남한에서 유지보수를 받고 있다는 사실을 최근에 확인하였고, 이란 민간 항공사에 납품할 목적인 것으로 믿고 있다. 항공기 2기는 인천국제공항에 체류 중이며, 기체 번호는 N106UA와 N192UA 이다. 항공기 1기는 김해국제공항에 체류 중이며, 기체 번호는 N185UA 이다.
+
+  * 공개된 항공기 데이터베이스를 보면((번역 주: 미 우주항공국의 데이터베이스를 말하는 것 같다.)) 인천에 체류 중인 해당 항공기는 아르메니아의 블루 에어웨이로 등록될 예정이다. 해당 항공기의 실제 소유주는 영국의 밸리 그룹이다. 모든 항공기 3기는 밸리 그룹의 자회사인 블루스카이의 상징색이 도색되어 있다. 밸리 그룹은 이란 정권 인사들과 유착 관계를 유지하고 있는 국외 거주 이란인으로 구성되어 있다.
+
+  * 우리는 해당 항공기 3기가 이란이 도착지라고 믿을만한 강력한 근거를 갖고 있다. 블루스카이의 상징색이 도색된 다른 항공기 3기는 마한 항공와 함께 서비스 계약을 체결하였다. 마한 항공은 1년 전 밸리 그룹에 인수된 블루 항공에서 항공기를 대여받는다. 마한 항공은 이슬람혁명수비대와 연결되어 있다.
+  * 2007년 10월 25일 미합중국은 미국 행정명령 13382호 (확산자금조달)에 따라 이슬람혁명수비대를 이란 탄도미사일과 핵 프로그램 지원 단체로 등재하였다. 추가로 몇몇 이슬람혁명수비대 법인과 몇몇 개인이 유엔안보리 결의안 1737호와 1747호 제재를 받고 있다.
+
+  * 이란의 미사일 사업을 비롯해 국제 테러리즘에 대한 이란의 계속되는 후원을 고려할 때, 우리는 악의적인 활동에 민간 항공기를 오용할만한 이란의 능력에 계속 우려하고 있다. 이란의 추가적인 항공기 통제력은 군사력 강화나 국제 테러리즘 지원을 용이하게 할 수 있다.
+
+  * 미국 이란거래규정과(31 CFR section 560.205) 수출관리규정은 (15 CFR section 746.7) 해당 경우로 간주하는 재수출을 금지한다.
+
+  * 2008년 2월 22일 미국의 상무부 산하 수출통제실은 조사를 위해 보잉 747 3기를 미합중국으로 운반할 것을 밸리 그룹에 요구하는 명령을 담당하고 있다. 이 명령은 미합중국 수출관리규정에 (15 CFR 758.8) 따라 이루어진다. 해당 명령은 텍사스 휴스턴 밸리 그룹 사무소에 손수 전달되었다.
+
+  * 미합중국이 대안적인 법집행을 고려하는 가운데, 우리는 해당 항공기를 억류하는 즉각적인 조처를 하도록 당해 한국 정부의 지원을 강력히 요청한다. 우리는 미합중국으로 해당 항공기가 회항하도록 밸리 그룹에 요청하는 미 상무부의 복귀명령을 당해 한국정부가 촉진할 수 있도록 역시 요청하는 바이다.
+
+  * 우리는 이 문제에 관한 당해 한국정부와의 지속적인 협의를 고대하고 있다. 우리는 남한정부와의 긴밀하고 지속적인 협력을 소중하게 생각한다. 
+//논지 내용 끝.//
+
+4. (미분류) 미국정부는 미 대사관의 지원에 대해 감사하게 생각한다. 모든 답장에는 국방부망 배포와 국제에너지사업국/금융제재과, 국제안보비확산국/반핵확산과, 동아시아태평양/한국과, 재무부/해외자산통제실, 상무부/수출집행실((EEB/ESC/TFS, ISN/CPI, EAP/K, TREASURY/OFAC, COMMERCE/OEE)) 라인을 삽입하세요. 이 활동 관련해 폴 노와 데이비드 벤다나가 대사관 연락처이다. 
+라이스
+[[https://sites.google.com/site/poirotkr/secretary-of-state/08state18255|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다. 
+===== 원본 및 내려받기 =====
+<file rtf 08STATE18255.rtf>
+SIPDIS 
+ 
+NOFORN 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/22/2018 
+TAGS: EAIR ETRD ETTC IR KS PARM PREL UK
+SUBJECT: REQUEST FOR KOREA TO HOLD CIVILIAN U.S.-ORIGIN 
+COMMERCIAL AIRCRAFT BOUND FOR IRAN 
+ 
+Classified By: Classified by EEB/ESC/TFS Director Steve Bondy 
+for reasons 1.4 (b) and (d). 
+ 
+¶1. (U) This is a request for immediate action.  Please see 
+para 2. 
+ 
+¶2. (S/NF) Summary and Action Request:  According to 
+reporting, there are three Boeing 747-400 aircraft owned by 
+the UK's Balli Group currently undergoing maintenance in 
+South Korea.  We have strong reason to believe the aircraft 
+are intended for delivery to Iranian civil airline Mahan Air. 
+ Delivery of the aircraft to Mahan Air would violate the U.S. 
+Export Administration Regulations and Iranian Transactions 
+Regulations.  Post is requested to approach the ROKG on an 
+immediate basis and, drawing on the points in para 3, seek 
+its assistance in grounding the identified aircraft and 
+facilitating a U.S. Department of Commerce redelivery order 
+on Balli Group. 
+ 
+¶3. (S/REL South Korea) Begin text of points: 
+ 
+-- We value our strong bilateral dialogue and relationship 
+with the ROKG.  In that context, we want to raise our 
+concerns about a potential transfer to Iran of several 
+U.S.-origin commercial passenger aircraft that, if completed, 
+could constitute a violation by the UK-based Balli Group of 
+the U.S. Export Administration Regulations and Iranian 
+Transactions Regulations. 
+ 
+-- We recently learned that there are three Boeing 747-400 
+aircraft in South Korea undergoing maintenance that we 
+believe are intended for delivery to an Iranian civil 
+airline.  Two are at the Incheon International Airport, tail 
+numbers N106UA and N192UA, and one is at the Kimhae 
+International Airport, tail number N185UA. 
+ 
+-- Public aviation databases show that the planes at Incheon 
+will be registered to Blue Airways of Armenia.  The true 
+owner of the planes is the Balli Group of the UK.  All three 
+planes are painted in the livery of Blue Sky, which is a 
+subsidiary of the Balli Group.  The Balli Group is composed 
+of expatriate Iranian owners who maintain ties to Iranian 
+regime members. 
+ 
+-- We have strong reason to believe the three planes are 
+destined for Iran.  Three other airplanes in Blue Sky livery 
+that were acquired over a year ago by Balli Group have gone 
+into service with Mahan Air, which leases the planes from 
+Blue Airways.  Blue Airways leases all of its aircraft to 
+Mahan Air.  Mahan Air is associated with the Iranian Islamic 
+Revolutionary Guard Corps (IRGC). 
+ 
+-- On October 25, 2007, the United States designated the IRGC 
+pursuant to U.S. Executive Order 13382 (Proliferation 
+Finance) for its support to Iranian ballistic missile and 
+nuclear programs.  In addition, several IRGC entities and 
+individuals are sanctioned under UN Security Council 
+Resolutions 1737 and 1747. 
+ 
+-- Given Iran's continued sponsorship of international 
+terrorism as well as its missile program, we remain concerned 
+about its ability to misuse civilian aircraft for nefarious 
+activities.  Iran's control of additional aircraft could 
+enhance its military capabilities or facilitate its support 
+for international terrorism. 
+ 
+-- The Iranian Transactions Regulations (31 CFR section 
+560.205) and the Export Administration Regulations (15 CFR 
+section 746.7) prohibit the reexportations being contemplated 
+in these cases. 
+ 
+-- On February 22, 2008, the U.S. Department of Commerce's 
+Office of Export Enforcement served an order on the Balli 
+Group requiring the Balli Group to deliver the three Boeing 
+747 aircraft to the United States for inspection.  This order 
+was made pursuant to authorities in the United States Export 
+Administration Regulations (15 CFR 758.8).  The order was 
+hand delivered to Balli Group's office in Houston, Texas. 
+ 
+-- We strongly request your government's assistance in taking 
+immediate steps to keep the three aircraft grounded while the 
+United States Government considers law enforcement 
+alternatives.  We also request that your government 
+facilitate a U.S. Department of Commerce redelivery order 
+requiring Balli Group to return the aircraft to the United 
+States. 
+ 
+-- We look forward to continued consultation with your 
+government on this matter.  We value our close and ongoing 
+cooperation with the Government of South Korea. 
+ 
+End text of points. 
+ 
+¶4. (U) Washington appreciates post's assistance.  Please 
+include SIPDIS in all replies and slug for EEB/ESC/TFS, 
+ISN/CPI, EAP/K, TREASURY/OFAC, COMMERCE/OEE.  POCS for this 
+activity are Paul Loh and David Bendana. 
+RICE
+</file>

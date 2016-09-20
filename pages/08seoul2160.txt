@@ -1,0 +1,19 @@
+^ 문서번호 ^ 생성일 ^ 배포일 ^ 분류 ^ 출처 ^
+| 08SEOUL2160 | 2008-11-04 08:38 | 2011-08-30 01:44 | 비분류 | 서울대사관 | 
+====== 제 목: 이란 금융제재 조치에 대한 한국 반응 ======
+  *UNCLAS SEOUL 002160 
+  *SIPDIS 
+  *국무부 산하 국제안보·비확산국((번역 주: ISN: Bureau of International Security and Non-proliferation )), 전략국((번역 주: Tactics [T])), 재무국((번역 주:TREASURY)), 근동국/이란((번역 주: Bureau of Near Eastern Affairs [NEA/IR])) 귀하 
+  *E.O. 12958: N/A 
+  *TAGS: KNNP (([Nuclear Non-Proliferation])), MNUC (([Military Nuclear Applications])), IR (([Iran])), GM (([Germany])), EFIN (([Financial and Monetary Affairs])), KS (([Korea (South)]))
+  *제 목: 이란 금융제재 조치에 대한 한국 반응
+  *참 조: [[08STATE114408 | STATE 114408 ]]
+  *번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/20 20:59// 
+
+----
+
+(민감하지만비분류) 10월 29일 경제 담당관은((번역 주: 미 대사관 Economic officer)) 외교통상부 북핵정책과 제 1서기 이상수((번역 주: Lee Sang Soo))를 만나서 이란수출개발은행((번역 주: the Export Development Bank of Iran [EDBI]))은행과 3개의 자회사에 대한 {{http://en.wikipedia.org/wiki/Executive_order_(United_States) | 연방집행명령}}에((번역 주: Executive order [EO])) 의거해 미국의 금융제재 전환책을 전달했다. (참조 전문)((번역 주: reference telegram)) 이 서기는 자신이 지식경제부와((번역 주:The Ministry of Knowledge Economy [MKE])) 기획재정부((번역 주: the Ministry of Strategy and 
+Finance)) 관계당국에 통고하겠다고 응답하면서, (한국정부가)만일 금융제재에 대해 어떠한 조치가 있으면 경제 담당관에게 통보하겠다고 했다. (이 서기는 11월 4일에 가진 별개의 만남에서 여전히 (관계당국의)응답을 기다리고 있다고 했다; 후속 전문이 있을 것임) //스티븐스//
+====== 원 본 ======
+  *[[http://wikileaks.org/cable/2008/11/08SEOUL2160.html | 원본 링크 ]]
+

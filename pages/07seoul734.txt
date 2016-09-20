@@ -1,0 +1,249 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL734  |  2007-03-12 08:40  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PREL ECON KS }}  |
+====== 제 목: 한국의 대통령 후보자들: 누가 수확체감의 법칙을 쳐다보기나 할까? ======
+기 밀 SEOUL 000734 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 12/10/2014 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), ECON(([Economic Conditions])), KS(([Korea (South)]))
+제목: 한국의 대통령 후보자들: 누가 수확체감의 법칙을 쳐다보기나 할까?
+참조: 가. [[07seoul331|SEOUL 0331]], 나. [[06seoul4014|06 SEOUL 4014]],  다. 06 SEOUL 4209  라. SEOUL 0516
+참조: 마. [[06seoul3217|06 SEOUL 3217]], 바. [[06seoul4036|06 SEOUL 4036]], 사. [[07seoul592|SEOUL 0592]]   
+분류자 : 정치 참사관 조셉 윤((번역 주: POL M/C Joseph Y. Yun)) 근거 1.4 (b,d).
+번역자 : PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/12/02 01:15//
+===== 요약 =====
+1. (민감하지만 미분류) 요약: 차기 한국 대통령의 최우선 과제가 경제성장이라는 한국인 유권자들의 생각은 요지부동이다. 유력 대권 후보들은 이 같은 국민의 뚜렷한 지상 명령에 대해 답하려고 저마다 경제 활성화와 고용 창출을 목표로 내세우며 일부 독특한 제안을 내놓고 있다. 반면에 일부 후보자들은 크게 주목을 받으려는 욕심에 7%에 달하는 고속 성장 공약을 내놓았지만, 경제학자 대부분은 이에 대해 회의적이며 후보자들의 경제 구상에 더 현실적인 조명을 하려고 한다. 모든 후보자가 실제 타당한 성장 규모와는 무관하게 유권자들의 우려 사항을 인식하면서 저마다 경제 테마를 공약의 중심으로 삼고 있다. 요약 끝.
+===== 이명박 =====
+2. (민감하지만 미분류) 한나라당 대권 선두주자 이명박이 만만찮은 후보로 등장한 이유는 대체로 서울시장 시절 청계천 복원사업과 예전 현대 건설회사에서 급부상한 경영자로 성공한 이력 때문이다([[07seoul331|참조 전문 가]]). 이명박은 서울 시장을 끝으로 중단된 경력을 이어서 서울, 부산, 인천, 종국엔 평양까지 연결하는 운하 사업을 제안하였다. 부산~서울을 연결하는 물길을 머리 속에 그려볼 수 있겠으나 많은 이들은 운하 사업이 기술적으로 어렵기도 하고 환경 단체의 엄청난 반발을 유발할 거로 예상한다. 노무현 대통령이 운하 발상에 반대 목소리를 낸 후에 이명박은 청와대의 발언에 대해 “한반도 대운하가 첨단 IT 기술이 접목된 21세기 과학기술의 결정체라는 것을 잘 몰라서 하는 말 같다”고 맛 불을 놓았다((번역 주: 번역 주: 청와대 ‘이명박 대운하 구상’ 또 비판 이명박 “남은 임기 경제나 잘 챙겨라” 조선일보 2007.03.02 /종합 A5 면)).
+
+3. (기밀) 이명박은 대통령에 당선된다면 7%의 경제성장을 하겠다고 공언한 바 있다. 2006년 11월 대사관 공관차석는 이명박과 회동했었다. 그 자리에서 이명박은 현 4% 경제 성장률은 수출에 힘입은 것이며 최첨단 기술 산업은 많은 일자리를 창출하지도 경제 전반의 발전도 촉진하지 못한다고 말하였다. 그러므로 높은 수준의 경제 불안이 자리하고 있다. 그런 불안을 극복하려면 새로운 일자리 창출과 내수 진작이 충분할 정도로 국내 경제가 7%까지 성장해야만 한다. 이명박은 “요즘은 경제가 정치다. 21세기에 경제 없는 정치가 어디 있나?”라고 공개석상에서 말하였다((번역 주: [[http://www.hani.co.kr/arti/politics/politics_general/193367.html|이명박 “경제없는 정치가 어디있냐”]] //한겨레// 2007.02.28)).
+===== 박근혜 =====
+4. (민감하지만 미분류) 박근혜 역시 주요 산업 프로젝트를 한국 경제 발전 계획의 핵심으로 삼고 있다. 박근혜는 한국에서 단 500km 밖에 위치한 중국 항구로 상품을 실어 나르는 열차 페리 개발을 제안하였다. 이 구상은 원래 7월 북한의 미사일 실험 이후 남북 관계가 냉랭해졌을 당시 개발해 발표한 내용이다. 최근 6자 회담 재계와 요사이 남북 장관급 회담이 재계 되면서 남북 철도 구상이 다시 한 번 거론되고 있다. 남북이 철도 연결에 성공할 경우 북한을 우회하는 박근혜식 경제 성장 동력은 김이 빠질 공산이 있다.((번역 주: “독일 메르켈 총리와 만났을 때도 유라시아 철도 연결에 공감했지만 북핵 사태로 남북철도 연결이 당분간 어려운 만큼 서해안~중국횡단철도~유라시아를 연결하는 것도 좋은 방법”이라고 박근혜가 언급한 바가 있다. 따라서 남북열차연결이 되면 맥 빠진 다는 말을 하는 것이다.))
+
+5. (기밀) 박근혜는 열차 페리와는 별도로 임기 중에 삼백만 개의 일자리 창출과 7%까지 연간 성장률을 끌어 올리겠다고 약속했다. 더 나은 교육을 통한 인적 자본 개발이 성장률을 7%까지 높이는 데 도움이 될 것이다. 12월 대사관 공관 차석는 박근혜와 회동했었다. 그 자리에서 그녀는 더 보수적인 기조의 발언을 견지하며 성장률 5%를 달성하겠다고 말했다(참조 다). 또한, 박근혜는 외국 투자가들이 안심하고 한국에서 투자할 수 있는 환경을 조성하는 것이 필수적이라며 외교 안보 문제와 한국의 경제 성장을 연계하는 발언도 했었다.
+===== 손학규 =====
+6. (민감하지만 미분류) 손학규는 2002~2006년간 경기 도지사로 재직하는 동안 자신의 경제 기량을 과시했다. 손학규의 가장 큰 업적은 국내외 투자를 유치해 약 56만 개의 일자리를 창출한 것으로 평가되고 있다. 특히 엘지 필립스는 파주 공장에 4만 2천의 직원과 협력 업체를 고용했다(참조 라). 한국의 20~30대 유권자는 유권자 층도 넓고 위력도 대단하다. 그들은 또 구직에 애를 먹고 있는 세대라 손학규의 일자리 창출 실적은 즉각적이고 실질적인 혜택에 상당하기 때문에 손학규에게 끌리고 있다.
+
+7. (민감하지만 미분류) 지난 12월 대사관 정무 직원이 손학규와 회동했었다. 그 자리에서 그는 한국은 밝은 미래를 목도 한 바 없다며 기실 현재의 경제적 어려움의 “터널 끝에 빛”을 볼 수 없었다고 말하였다. 경제 문제도 단연 중요하지만, 한국의 중산층과 서민층은 교육 개혁이 더 중요하다고 말하였다(참조 마). 손학규는 가난한 집안 출신들이 똑같은 미래가 대물림 되지 않도록 평등한 교육 기회를 제공을 옹호한다. 손학규는 더 많은 일반 서민들이 집을 장만할 수 있도록 주택법 개정도 옹호하고 있다.
+===== 정동영 =====
+8. (민감하지만 미분류) 정동영은 최근 여론조사에서 단 4% 지지를 받고 있지만, 열린우리당 대선 선두 후보 자리를 유지하고 있다. 정동영 전 통일부 장관은 국내 경제 문제보다는 남북 관계에 대한 견해를 밝히는 일에 집중하는 경향이 있다. “땅 파는 운하, 열차 페리 등은 모두 과거 지향적인 비전이다. 미래 지향적 비전은 모든 철책을 걷어서 용광로 속에 녹여낼 것이다. 평화가 돈이다. 시대정신은 평화에 있고 서민경제에 있다”고 정동영은 말하였다.
+
+9. (기밀) 그는 최근 두 차례 버시바우 대사와 함께 회동한 바 있다. 그 자리에서 그가 거론한 경제 논의의 맥락은 대북 원조의 재개나 한미 FTA와 관련 내용이었다(참조 바, 사). 정동영은 국내 경제에 관하여 정부의 초점은 중산층 번영을 돕는 일에 맞춰져야 한다고 말했다. 정동영이 재래식 경제에서 기술 기반의 경제로 전환해야만 한다고 믿는다. 왜냐면 1970년대와 80년대 개발 중심의 경제가 당시에는 효과가 있었지만, 더는 유효한 모델이 아니기 때문이라고 그는 말한다.
+===== 7% 성장이 가능한가? =====
+10. (민감하지만 미분류) 한국 정부가 제공한 수치를 보면 한국이 10년간 평균 성장률이 7.7%였던 1980년대 이후로 7% 성장을 경험한 적이 없다고 나타난다. 그러한 성장율이 1990년대에 떨어지기 시작해서 새 천년을 맞이한 첫 10년 중 5년 단위의 평균 성장률은 각각 6.3%와 5.2%였다. 한 노동부 당국자는 최근 대사관 정무 직원과 함께한 회동에서 성장률은 계속 조금씩 떨어져 올해는 4.5%가 될 것으로 예상했다. 향후 5년간 7% 성장 전망에 대해 묻자, 그는 과거 25년간의 성장률 동향에 근거해 볼 때 “거의 가능성이 없다”고 말하였다.
+===== 전문가는 아니올시다 =====
+11. (민감하지만 미분류) 경제 전문가들도 노동부 관리의 우려에 동조하며 성장률에 관한 각자의 전망을 공식 표명하고 있다. 국영 한국개발연구원 소속 우천식 연구원은 한국 경제에 대한 최상의 각본은 앞으로 10년에 걸쳐 국내총생산을 평균 5%대로 확대하는 거라고 말하였다. 우 연구원은 4.5% 성장률 달성을 목표로 설정하는 것이 현실적이라고 덧붙였다. 신민영 LG경제연구원의 수석연구위원은 민간 부문에서 새로운 경제 성장 동력을 창출할 수 있는 에너지 및 환경 기술 연구 개발비(R&D) 지출을 권장했다고 인용되고 있다.
+===== 논평 =====
+12. (민감하지만 미분류) 성인을 천 명을 대상으로 한 최근 여론조사에서 65%의 응답자가 생각하는 차기 정부의 시급한 과제는 경제 성장인 것으로 나타났다. 이런 강력한 정서는 최근 부동산 가격 급등과 빈부 격차 확대, 전반적인 일자리 창출 결여 등으로 촉발되었다. 비슷한 설문 조사에서 차기 대통령으로 꼽는 지도자 유형에 대해 물었다. 36%의 응답자들은 경제성장을 주도할 “CEO 타입”의 지도자를 원한다고 말하였다. 이러한 정서로 말미암아 대선 캠페인이 무르익어 감에 따라 무일푼에서 거부가 된 사업가 이명박에게 유력한 입지를 만들어 주고 있다.
+버시바우
+===== =====
+[[https://sites.google.com/site/poirotkr/6/07seoul734|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL734.rtf>
+C O N F I D E N T I A L SEOUL 000734 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+ECON [Economic Conditions], KS [Korea (South)] 
+SUBJECT: ROK PRESIDENTIAL CANDIDATES: WHO IS SEEING 
+DIMINISHING RETURNS? 
+ 
+REF: A. SEOUL 0331 
+     B. 06 SEOUL 4014 
+     C. 06 SEOUL 4209 
+     D. SEOUL 0516 
+     E. 06 SEOUL 3217 
+     F. 06 SEOUL 4036 
+     G. SEOUL 0592 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (SBU) SUMMARY:  Korean voters are adamant that economic 
+growth should be the top priority for the next ROK president. 
+ In response to this clear mandate from the people, top 
+presidential contenders are offering some unique proposals 
+aimed at stimulating the economy and spurring job creation. 
+While some candidates' fervor for greater attention produced 
+promises of rapid growth of up to seven percent, most 
+economists remain skeptical and are trying to shed more 
+realistic light on candidates' economic plans.  Regardless of 
+the actual amount of feasible growth, all candidates 
+recognize voters' concern and are centering much of their 
+platform on economic themes.  END SUMMARY 
+ 
+------------- 
+LEE MYUNG-BAK 
+------------- 
+ 
+¶2.  (SBU) GNP presidential front-runner Lee Myung-bak emerged 
+as a serious candidate in large part because of his success 
+with the Cheonggye stream restoration project while Mayor of 
+Seoul and previously as a fast-rising manager at Hyundai 
+Construction Corporation (ref A).  Continuing where he left 
+off as Mayor, Lee has proposed a canal project connecting 
+Seoul, Busan, Incheon, and eventually Pyongyang.  Even though 
+there are waterways that conceivably could connect Busan to 
+Seoul, many see the canal project as technically difficult 
+and likely to generate huge opposition from environmental 
+groups.  After President Roh spoke out against the idea, Lee 
+countered by saying, "I think the Blue House's comment came 
+out of a lack of understanding of the fact that the grand 
+canal project would be a comprehensive plan incorporating 
+state-of-the-art information technology, advanced science, 
+and technology." 
+ 
+¶3.  (C) Lee has publicly promised seven percent economic 
+growth if elected president.  In a meeting with the DCM 
+November 2006 (ref B), Lee said that the current 4 percent 
+economic growth rate was fueled by exports and high tech 
+industries which did not create enough jobs or stimulate the 
+development of the overall economy.   Therefore, there was a 
+high level of economic insecurity.  To overcome such 
+insecurities, the domestic economy should grow at a 7 percent 
+rate, enough for new job creation and a boom in domestic 
+demand.  Lee has also said publicly that "Economics is 
+politics.  No economy, no politics in the 21st century." 
+ 
+------------- 
+PARK GEUN-HYE 
+------------- 
+ 
+¶4.  (SBU) Park Geun-hye also has a major industrial project 
+as the centerpiece of her economic plan for Korea.  Park 
+suggests the development of train-carrying ferries to take 
+goods from Korean to Chinese ports, a distance of only about 
+500 km.  This idea was originally developed and announced 
+after North Korea's July missile tests when relations between 
+the North and South had cooled.  With the recent resumption 
+of the Six-Party Talks and more recent North-South 
+Ministerial talks, the notion of an inter-Korean railway is 
+once again being discussed.  If progress is made on 
+connecting North and South Korea via rail, Park's economic 
+engine which bypasses North Korea will likely lose some of 
+its steam. 
+ 
+¶5.  (C) In addition to the ferries, Park has also promised 
+that she would create three million jobs and boost the annual 
+growth rate to seven percent during her time in office. 
+Development of human capital through better education would 
+help boost this growth.  In a meeting with the DCM in 
+December, Park was more conservative in her statements and 
+spoke of achieving a growth rate of five percent (ref C). 
+Park has also made statements linking Korea's economic growth 
+to foreign affairs and national security issues, saying that 
+ 
+it is essential to make an environment where foreign 
+investors can invest in Korea with confidence. 
+ 
+------------ 
+SOHN HAK-KYU 
+------------ 
+ 
+¶6.  (SBU) Sohn Hak-kyu showcased his economic prowess while 
+serving as Governor of Gyeonggi Province from 2002-2006. 
+Sohn's biggest accomplishment was job creation (an estimated 
+560,000) by attracting foreign and domestic 
+investment--notably LG Philips, which employs 42,000 
+employees and subcontractors in its Paju plant (ref D). 
+Comprising a large and powerful block of voters, many Koreans 
+in their 20's and 30's are drawn to Sohn's track record of 
+job creation as it represents a tangible and immediate 
+benefit to those struggling to find substantive work. 
+ 
+¶7.  (SBU) In a meeting with poloff in September, Sohn said 
+Koreans did not see a bright future and in fact, could not 
+see, "the light at the end of the tunnel" of their current 
+economic difficulties.  While the economy was paramount, 
+education reform was even more important to middle and lower 
+class Koreans (ref E).  Sohn advocates programs to provide 
+equal access to education so that those who come from a 
+background of poverty will not have to inherit the same 
+future.  Sohn also advocates a revision to the housing law so 
+more ordinary citizens could afford homes. 
+ 
+---------------- 
+CHUNG DONG-YOUNG 
+---------------- 
+ 
+¶8.  (SBU) Chung Dong-young only receives four percent support 
+in the latest polls but remains the leading Uri Party 
+candidate in the presidential race.  As a former Minister of 
+Unification, Chung tends to focus his comments on North-South 
+relations rather than domestic economic concerns.  "Digging 
+canals or train ferries are all past-oriented visions. 
+Forward-looking vision would be to get rid of all barbed 
+wires and melt them in a blast furnace.  Peace is money.  The 
+spirit of this era lies in peace and the economics of 
+ordinary citizens," Chung said. 
+ 
+¶9.  (C) In the two most recent meetings with the Ambassador, 
+any discussion of economics was in the context of aid 
+resumption for North Korea or related to the U.S.-Korea Free 
+Trade Agreement (refs F and G).  On the domestic economy, 
+Chung has said that the government's focus should be on 
+helping the middle class prosper.  He believes Korea should 
+shift from a traditional brick-and-mortar economy to one 
+based on technology, since the development-driven economy of 
+the 1970s and 80s -- although effective at the time -- was no 
+longer a valid model. 
+ 
+--------------------------------- 
+IS SEVEN PERCENT GROWTH POSSIBLE? 
+--------------------------------- 
+ 
+¶10.  (SBU) Figures provided by the ROKG show that Korea has 
+not seen seven percent growth since the 1980's when the 
+average growth rate for the decade was 7.7 percent.  Those 
+numbers began to drop off in the 1990's and the first five 
+years of the new millennium where the average growth rates 
+were 6.3 percent and 5.2 percent respectively.  During a 
+recent meeting with poloff, an official from the Ministry of 
+Labor (MOL) predicted that the growth rate would continue to 
+fall slightly in the current year to 4.5 percent.  When the 
+official was asked about the prospect of attaining seven 
+percent growth in the next five years, he said it was "highly 
+unlikely" based on the growth trends over the past 25 years. 
+ 
+-------------- 
+EXPERTS SAY NO 
+-------------- 
+ 
+¶11.  (SBU) Echoing the concerns expressed by the MOL 
+official, economic experts are also going on record with 
+their perspectives on growth.  In a recent report, Woo 
+Cheon-sik, a research fellow at the state-run Korea 
+Development Institute (KDI), said that the best scenario for 
+Korea's economy would be to expand gross domestic product 
+(GDP) by an average of five percent over the next ten years. 
+ 
+Woo further said that setting a goal of accomplishing 
+mid-four percent would be realistic.  Shin Min-yong, a senior 
+economist at the LG Economic Research Institute, was quoted 
+recommending the private sector increase R&D-related 
+expenditure on energy and environment technologies which 
+could create new growth engines for the economy. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶12.  (SBU) A recent poll of 1,000 adults indicated that 65 
+percent of respondents thought economic growth was the most 
+urgent task for the next administration.  This strong 
+sentiment has been spurred recently by rapidly surging real 
+estate prices, a widening gap between the wealthy and poor, 
+and a general lack of job creation.  In a similar survey, 
+respondents were asked what type of leadership skills they 
+were looking for in the next president.  The leading response 
+by 36 percent of the respondents said they wanted a 
+"CEO-type" leader who would initiate economic growth with a 
+business mindset.  These sentiments have placed Lee 
+Myung-bak, a rags-to-riches businessman, in the driver's seat 
+as the campaign period hits full stride. 
+VERSHBOW
+</file>

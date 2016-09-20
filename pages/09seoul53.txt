@@ -1,0 +1,54 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL53  |  2009-01-09 08:37  |  기밀  |  주한미국대사관  |  {{tag>PREF IR UN EAID KS }}  |
+====== 제 목: 이란의 유엔개발계획 집행이사회 회장직 진출 반대 ======
+  * 기 밀 SEOUL 000053 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국무부 국제기구국/경제개발청 (창, 찰스)((IO/EDA (CHANG, CHARLES)))
+  * 국무부 근동국/이란과 (테일러, 빅토리아)((NEA/IR (TAYLOR, VICTORIA) ))
+ 
+  * 행정명령 12958: 비밀해제: 01/09/2019 
+  * 태그: PREF(([Refugees])), IR(([Iran])), UN(([United Nations])), EAID(([Foreign Economic Assistance])), KS(([Korea (South)]))
+  * 제 목: 이란의 유엔개발계획 집행이사회 회장직 진출 반대 
+  * 참조: STATE 1500 
+  * 분류자: 정치 공사 참사관 브라이언 맥피터스((POL Brian D. McFeeters)).   근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/22 23:10//
+1. (기밀) 외교통상부의 유엔개발계획 담당인 인도지원과는 참조 전문에 대해 응답하길, 한국정부는 유엔개발계획 집행이사회 회장에 출마한 이란 후보자에 대한 한국의 입장은 아직 공식화 과정이라고 말하였다. 외교통상부는 1월 9일 오전에 유엔개발계획 이사회가 결정을 할 걸로 예상하며, 회장 선출 저지 혹은 지연을 위한 어떤 절차적 선택사항에 대해서 유엔 미국 대표단의 견해에 열린 자세라고 했다. 대사관 접선책은 집행이사회 회장 선출 절차와 선택 사항에 대한 정보의 부족으로 한국의 결정이 지연되었다고 말하였다.<WRAP center round info 80%>
+//**미국은 이란을 너무 싫어해?**//유엔개발계획 집행이사회는 아래의 바깥 고리의 홈페이지를 방문하면 알 수 있듯이 36개국 회원국이 1명의 회장과 4명의 부회장을 3년마다 교대로 번갈아 맡은 방식이다. 미국의 지나친 간섭은 도가 지나치지 않나 싶다. [[08state18255|이란행 미국산 사업용 항공기 억류 요청]]이란 국무부 전문을 읽어 보면 미국이 얼마나 이란을 못 잡아먹어서 안달인지 알 수 있다.
+</WRAP>
+
+스티븐스
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[wp>국제_연합_개발_계획|국제연합개발계획]] //위키백과//
+  - [[http://www.undp.org/content/undp/en/home/operations/executive_board/overview/|UNDP Executive Board UNDP]]  //UNDP//
+  - [[http://www.undp.org/content/undp/en/home/operations/executive_board/membership/|
+  - Members of the Executive Board Bureau Members in 2013]] //UNDP//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL53.rtf>
+C O N F I D E N T I A L SEOUL 000053 
+ 
+SIPDIS 
+ 
+IO/EDA (CHANG, CHARLES) 
+NEA/IR (TAYLOR, VICTORIA) 
+ 
+E.O. 12958: DECL: 01/09/2019 
+TAGS: PREF [Refugees], IR [Iran], UN [United Nations], EAID [Foreign Economic Assistance], KS [Korea (South)] 
+SUBJECT: OPPOSING IRAN PRESIDENCY AT UNDP 
+ 
+REF: STATE 1500 
+ 
+Classified By: POL Brian D. McFeeters. Reasons 1.4(b/d) 
+ 
+(C) In response to reftel, MOFAT's Humanitarian Affairs 
+Division, which is responsible for UNDP issues, said the ROKG 
+is still formulating its position on the Iranian candidacy 
+for the presidency of the UNDP's Executive Board and would 
+take U.S. concerns into consideration.  MOFAT expects the 
+UNDP board to make a decision the morning of January 9 and 
+would be open to hearing from the USUN delegation what the 
+procedural options for delaying or blocking the selection 
+would be.  Our contact said the ROK's decision was delayed by 
+a lack of information about the process and options. 
+STEPHENS
+</file>

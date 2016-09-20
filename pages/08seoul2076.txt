@@ -1,0 +1,72 @@
+
+^ 문서번호 ^ 생성일 ^ 배포일 ^ 분 류 ^ 출 처 ^
+|08SEOUL2076| 2008-10-22 08:48| 2011-08-30 01:44|	비 밀	|서울 대사관|
+
+
+====== 제 목: 이란, 북한, 시리아 핵확산금지 조치 — 한 한국 기업에 대한 제재 통보 ======
+
+* S E C R E T SEOUL 002076 
+ 
+* SIPDIS 
+ 
+* STATE PASS TO ISN/MTR, EAP/K 
+ 
+* E.O. 12958: DECL: 10/22/2018 
+
+* 태 그: PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), MNUC(([Military Nuclear Applications])), ETTC(([Trade and Technology Controls]))
+
+
+* 제 목: (C) 이란, 북한, 시리아 핵확산금지 조치 - 한 한국 기업에 대한 제재 통보
+
+
+
+
+=====1.===== 
+(U) 이 전문은 관련 조치를 요한다. 3번째 문단 참고.
+
+=====2.===== 
+(SBU) 10월 22일 정무부 직원이 관련 외교문서를 외교통상부 군축비확산과 1등서기관 김재우 서기관에게 전달했다. 김 서기관은 연방 명부((Federal Registrer, 공식 한국어 번역을 못찾아 그냥 적당히 번역; 원문은 Federeal Registrar나 오타로 보임.))에 개제된 열린기술의 제재에 대해 매우 염려스러워 했다. 그는 그의 상사들에게 논의 및 후속조치를 위한 회의자료를 배포하겠다고 말했다.
+
+=====3.=====
+(S) 동시에 김 서기관은 다음 질문들에 대한 미국 정부의 빠른 답변을 요청했다:
+
+-- 한국은 2006년 10월부터 열린기술에 대해 조치를 취해왔는데, 미국정부의 조치가 이렇게 늦어진 까닭은 무엇인가? 이번 열린기술에 대한 미국정부의 조치는 한국의 조치에 영향을 받은 것인가? 아니면 2006년 5월 사건과 관련된 미국 정부의 조사결과에 의한 것인가? 혹은 열린기술과 관련된 새로운 사건에 대한 미국정부의 개별적인 조사 결과에 의한 것인가? 마지막 경우에 해당된다면 열린기술의 새로운 위반행동에 관한 모든 정보를 요청한다.
+
+-- 열린기술의 후임자와 부서, 자회사 외에, 열린기술과 거래를 하는 한국 기업들에게도 이번 제재가 영향을 미치는가? 
+
+-- 법률제도 밖에서 열린기술이 공식적인 불만 제기나 항의, 항소 등을 할 수 있는가?
+
+-- 제재리스트에 오른 이름을 2년 안에 삭제하기 위해서 열린기술은 어떤 조치를 취해야 하는가? 더 일찍 지워질 수 있는 가능성이 있는가? 특히, 제재리스트의 이름 삭제에 도움이 될 만한 규정 준수나 물품 보고 등의 방법이 존재하는가?
+
+-- 만약 한국이 그 회사를 제재하거나 연루된 개인들을 확실하게 기소한다면, 제재대상 리스트에서 열린기술을 삭제해 줄 수 있는가? 혹은 최소한 제재가 부과된 상업 활동을 할 수 있도록 허가해 줄 수 있는가?
+
+=====4.===== 
+(SBU) 외교통상부의 문의에 대한 국무부의 빠른 답변을 기대하겠다.
+
+STEPHEN
+
+
+
+====== 원문 ======
+
+[[http://wikileaks.org/cable/2008/10/08SEOUL2076.html|Link]]
+
+1. (U) This is an action request. Please see para 3. 
+ 
+2. (SBU) On October 22, poloffs delivered reftel demarche to Ministry of Foreign Affairs and Trade (MOFAT), Disarmament and Nonproliferation Division's First Secretary Jae-woo Kim. Kim was very concerned about Yolin Technology's sanction notification in the Federal Registrar. He stressed that he would distribute the non-paper to his supervisors for discussion and follow-up. 
+ 
+3. (S) In the meantime, Kim requested a prompt USG response to the following questions: 
+ 
+--Why did the USG take so long to initiate this action, since the ROK took action against Yolin in October 2006? Was the USG's action prompted by the ROK's actions against Yolin, a USG investigation regarding the May 2006 event, or a separate USG investigation of a new incident involving Yolin? If the last case, the ROK would like all relevant information on new violations. 
+ 
+--Besides its successors, subunits, and subsidiaries, will the sanctions effect Korean entities that do business (trade or financial) with Yolin? 
+ 
+--Can Yolin lodge a formal complaint, protest, or appeal outside the legal system? 
+ 
+--What measures must Yolin undertake to remove itself from the sanctions list in two years? Is it possible to be removed earlier? Specifically, are there compliance measures or reporting mechanisms that will facilitate Yolin's removal from the list of sanctioned entities? 
+ 
+--If the ROK sanctions the company or successfully prosecutes the individual(s) involved, is there a waiver available that will remove Yolin from the list of sanctioned entities, or at the very least, allow it to participate in the sanctioned commercial activities? 
+ 
+4. (SBU) We would appreciate the Department's early response to MOFAT's queries above. 
+
+STEPHENS

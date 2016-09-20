@@ -1,0 +1,73 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2252  |  2008-11-21 08:27  |  비밀  |  주한미국대사관  |  {{tag>ECON  EFIN KNNP PARM IR KS PREL }}  |
+====== 제 목: 이라노 힌드(이란 해운사) 외교문서에 대한 한국 정부의 반응 ======
+  * 비 밀 SEOUL 002252 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국무부 산하 국제안보·비확산국, 테러국, 중남아시아국, 회계국, 근동국/이란과((STATE FOR ISN, T, SCA, TREASURY, NEA/IR ))
+  * 행정명령 12958: 비밀해제: 11/21/2023 
+  * 태그: ECON (([Economic Conditions])), EFIN(([Financial and Monetary Affairs])), KNNP(([Nuclear Non-Proliferation])), PARM(([Arms Controls and Disarmament])), IR(([Iran])), KS(([Korea (South)])), PREL(([External Political Relations]))
+  * 제 목: 이라노 힌드((이란국영해운회사(IRISL), 인도해운공사(SCI)와의 합작투자기업인 이라노 힌드)) 외교문서에 대한 한국 정부의 반응
+  * 참조: [[08state121818| 가. STATE 121818 ]] [[08state111761| 나. STATE 111761 ]]
+  * 분류자: 경제 공사 참사관 엔드류 퀸((Economic Minister Counselor Andrew Quinn ))
+  * 근거: 1.4(B) and (D). 
+  * 번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/01/02 14:05//
+1. (민감하지만 미분류) 11월 21일에 대사관 부경제참사관과 경제부 직원은 외교통상부 북미1과 송시진 1등 서기관, 그리고 외교통상부 중동과 2등 서기관 이성환과 회동해 외교 문서를 전달하였다. (참조 가) 송시진과 이성환은 주의 깊게 경청하면서, 프리젠테이션에 자료에 필기하였다. 이성환은 외교통상부가 외교문서를 정부관계기관 걸쳐 배부하겠다고 말하였다.
+
+2. (민감하지만 미분류) 답변을 닦달하자, 이성환은 조선산업은 수출의 중추이고, 수출은 한국 경제의 중추라고 지적하였다. 그는 조선 사업과 같은 주요 산업에 지금과 같은 간섭이 경제 전반에 미칠 충격에 대해 한국정부 내부에서 상당히 우려한다고 말하였다. 외교통상부는 이번 사안의 중요성을 잘 알고 있으며, 한국정부 내부에 다른 부처에도 미국 외교문서의 내용을 전달할 거라고 재차 확인하였다.
+
+3. (비밀) 이성환과 송시진은 국영 이란해운 관련 미국의 전번 외교문서는 한국의 조선산업은 말할 것도 없고 외교통상부와 이란 간에 //“소동”//을 야기했었다고 공히 언급하였다. 이성환은 왜 미국이 유엔안보리 결의안 의무와 미국의 입장이 합치된다고 견지하는지 자신은 이해하지만, 한국정부의 다른 부처에서는 유엔안보리 결의안 1803호의 //“법률 조문”//은 조선이 아닌 화물 검사에 대한 경계에 상당하기 때문에 이란과의 조선계약은 합치하는 것으로 간주하고 있다. 본 회동은 10월 14일에 번 차관이 한미일 3자 회담의 한켠에서 외교통상부 이용준 차관이 했다는 한국은 이란과의 현재 계약을 무효로 하지 않을 거라는 발언을 이성환은 부경제 공사 참사관에게 상기시키면서 마무리 지었다. (참조 전문 나)
+
+4. (민감하지만 미분류) 대사관은 다른 핵심 부처와의 후속 내용도 다룰 예정이다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL2252.rtf>
+S E C R E T SEOUL 002252 
+ 
+SIPDIS 
+ 
+STATE FOR ISN, T, SCA, TREASURY, NEA/IR 
+ 
+E.O. 12958: DECL: 11/21/2023 
+TAGS: ECON [Economic Conditions], EFIN [Financial and Monetary Affairs], KNNP [Nuclear Non-Proliferation], PARM [Arms Controls and Disarmament], IR [Iran], KS [Korea (South)], PREL [External Political Relations] 
+SUBJECT: ROKG RESPONSE TO IRAN-O-HIND DEMARCHE 
+ 
+REF: A. STATE 121818 
+     B. STATE 111761 
+ 
+Classified By: Economic Minister Counselor Andrew Quinn 
+Reasons: 1.4(B) and (D). 
+ 
+¶1. (SBU)  On November 21, Deputy Econcouns and econoff met 
+with Si-jin Song, First Secretary in MOFAT's North American 
+Division I, and Sung-hwan Lee, Second Secretary in MOFAT's 
+Middle East Division, to deliver demarche (Ref A). Song and 
+Lee listened attentively and took notes on the presentation. 
+Lee stated that MOFAT would distribute the information 
+throughout the appropriate government agencies. 
+ 
+¶2. (SBU) When pushed for a response, Lee noted that 
+shipbuilding is the backbone of exports and exports are the 
+backbone of the Korean economy, particularly at a time of 
+economic slowdown.  He said there was considerable concern 
+within the ROKG over the impact that such interventions on 
+key industries such as shipbuilding could have on the overall 
+economy.  Song reaffirmed that MOFAT is very aware of the 
+importance of this issue and would communicate the message to 
+other ministries within the ROKG. 
+ 
+¶3. (S) Lee and Song both commented that previous U.S. 
+demarches regarding IRISL have caused "commotion" between 
+MOFAT and Iran as well as Korea's shipbuilding industries. 
+Lee explained that while he understands why the U.S. 
+considers its position to be consistent with UNSCR 
+obligations, other ROKG ministries also consider shipbuilding 
+contracts with Iran to be consistent because the "letter of 
+the law" in UNSCR 1803 pertains to vigilance over cargo 
+inspection, not shipbuilding. The meeting concluded with Lee 
+reminding Deputy Econcouns of comments made by MOFAT Deputy 
+Foreign Minister Lee Yong-joon in an October 14 meeting with 
+Under Secretary Burns on the margins of the U.S.-Japan-ROK 
+trilats indicating that the ROK would not cancel its current 
+contracts with Iran (Ref B). 
+ 
+¶4. (SBU) Post will follow up with other key agencies. 
+</file>

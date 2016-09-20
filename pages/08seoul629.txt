@@ -1,0 +1,228 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+| 08SEOUL629 | 2008-03-31 07:21 | 기밀(3급) | 주한 미국 대사관  |  {{tag>PGOV PREL PINR KS KN }}  |
+
+====== 제 목 : 한국 국회에 선거철이 도래 ======
+기 밀 SEOUL 000629
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+행정명령 12958: 비밀해제: 12/10/2018
+태 그: PGOV(( [Internal Governmental Affairs])), PREL (([External Political Relations])), PINR (([Intelligence])), KS (([Korea (South)])), KN (([Korea (North)])) 
+주 제: 한국 국회에 선거철이 도래
+참 조: [[08SEOUL574|SEOUL 574]]
+분류자: 정치 참사관 조셉 윤.((POL Joseph Y. Yun.)) 근거 1.4 (b,d).
+번역자:PoirotKr((트위터 사용자이름)) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/09/22 23:10//
+
+===== 요약 =====
+1. (민감하지만 미분류) 요약: 2008년 4월 9일 총선을 향한 13일 동안의 공식적인 선거운동이 2008년 3월 27일 시작되었다. 짧은 선거운동 기간이 정치 싸움으로 얼룩진 공천과정과 맞물려 있어 의미 있는 정치 토론이 이루어지기가 사실상 불가능해졌다. 투표율도 기록적으로 낮을 것으로 예상한다. 한나라당은 안정적인 다수의석을 달성하길 바라지만, 작년 12월 대통령 선거에 손쉽게 승리한 이후 멈추지 않을 것 같던 기세가 서서히 꺾기는 와중에 공천과정에서의 분란은 결국 최후에 일격일 뿐이다. 야당인 민주당은 개헌 지지를 막기 위한 의원 정족수인 100석 확보를 희망하고 있다. 요약 끝.
+===== 한나라당 추동력을 잃었으나 승리를 예상 =====
+2. (민감하지만 미분류) **한나라당 공천 과정에선 128명 중 50명의 현역 의원이 교체되었다. 245명의 공천자 중에서 계파로 따지면 친이계 후보 157명이 후보 낙점을 받았는데, 이는 친박계 후보 44명에 비해 3.6배에 달한다.** 길고 치열한 공천과정을 통해서 한나라당 내 주류의 지지 기반이 박근혜에서 이 대통령으로 넘어왔다. 한나라당 공천은 전통적 텃밭인 경상도 지역과 서울 강남구 지역에 강한 충격파를 보내면서, 많은 중진 의원이 정치 신인을 상대로 쓴잔을 마셨다. 몇몇 친박계 현역의원이 탈당해 무소속 후보로 출마하거나, 이회창의 자유선진당에 입당하거나, 친박연대라는 신당에 합류하였다. 박근혜는 그들의 움직임에 동정하며 암묵적으로 승인하였고, 선거에서 승리한 이들은 4월 9일 이후 다시 한나라당 복당이 허용되어야 한다고 말했다. 한나라당 지도부는 그녀의 발언에 대해 “중대한 해당 행위”라며 비판하고, 이 대통령 최측근 이방호는 “탈당자”는 다시 받지 않을 거라고 공언하였다.<WRAP center round info 80%>//** 안철수 측 ‘비례대표, 지역구 출마 금지’ 검토… 민주당과 또 충돌**//
+새정치연합 측이 국회의원의 기득권 포기 차원에서 ‘비례대표의 차기 지역구 출마 금지’ 방안을 검토하고 있는 것으로 알려졌다. 민주당에선 “반정치적 개혁안”이라는 비판이 쏟아지고 있다. 정강·정책 파문에 이어 또다시 안철수 의원 측과 민주당이 충돌하는 분위기다. [[http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201403212140555&code=910402|안철수 측 ‘비례대표, 지역구 출마 금지’ 검토… 민주당과 또 충돌]] //경향신문//
+</WRAP>
+
+
+3. (민감하지만 미분류) **공천 싸움에 더해 특정 후보를 둘러싼 논쟁은 선거 정국을 더욱 요동치게 하고 있다. 대통령의 손위 형이며 국회 부의장인 이상득에 대한 한나라당 소속 지명도 있는 의원들의 공개적인 사퇴 요구에도 이상득은 선거에 임하기로 하였다.** 이명박의 최측근 이재오는 공천권 고사를 고민한다고 알려졌지만, 역시 선거에 출마하기로 했다. 당내 싸움을 해소하는 차원에서 강재섭 당 대표는 공천권을 고사하였다. 반면 한나라당 강원지역 김택기 후보는 매표 목적으로 미화 4만 달러의 돈을 지지자에 건넸다가 발각되어 후보에서 물러났다. 당내 내분과 공천갈등으로 인한 비판에도 전문가 대부분은 한나라당이 적어도 150석은 확보할 것으로 예상하며, 이는 299석에서 원내 다수당이 되기 위한 문턱이다.
+<WRAP center round help 80%>//**안철수 최측근 한상진~ 문재인이 6선 이상득과 동급인가?**//
+…(중략) 새정치민주연합 안철수 창당준비위원장과 가까운 한 교수는 이날 오전 MBC라디오 '신동호의 시선집중'과 통화에서 "만일 문재인 의원이 미래를 바라보는 어떤 지도자라면 안철수 의원을 만나서 정말 환영하고 그리고 같이 협력하자는 정치인다운 모습을 보여주고 그 다음에는 깔끔하게 물러나는 것이 좋다고 생각한다"고 말했다. 지난해 민주당 비상대책위원회 대선평가위원장을 지낸 한 교수는 "공직자의 덕목은 물러날 때 깔끔하게 물러나는 것이다. 이게 국민에게 감동을 준다"며 "이번이 자신의 정치적 자산을 늘릴 수 있는 좋은 기회고 적기다. 만약에 그러지 않고 기회를 노리면서 계속 자신의 정치적 욕망만 충족시키려고 한다면 국민은 그걸 동의하지 않을 것이고 잘못하면 자신의 정치적 자산을 갈아먹는 행위가 될 것"이라고 말했다. (중략)… [[https://www.evernote.com/shard/s258/sh/743dec89-f32c-4895-bd93-da9c7eca5c40/0c60c9bba7502a5ee5e727a59eb2d699|한상진 "문재인 의원직사퇴하면 친노 프레임 개선"]] //뉴시스// 
+</WRAP>
+===== 통합민주당: 영원한 변방의 약체? =====
+4. (미분류) 통합민주당은 나름대로 공천 전쟁을 치렀다. 민주당은 김대중 전 대통령의 측근 박지원과 아들 김홍업을 공천하지 않기로 하면서, 두 사람 모두 무소속 후보로 출마하도록 만들었다. 공천과정이 불공정하다는 김 전 대통령의 발언에 대해 통합민주당 대표 손학규는 “원로 지도자”가 선거에 개입하지 않도록 주의를 당부하였기도 했다((번역 주: 실제 손학규의 말 "국가의 원로지도자가 선거에 직접 개입하는 모습으로 국민들에게 보여질 수 있으니 그런 점에서 신중한 자세를 보여주는 것이 바람직하다)). 당내 지도부와 공천심사위원장 사이 공공연한 갈등도 몇 차례 있었다. 공천심사위원장인 박재승 변호사는 그의 단호하고, 과감한 공천개혁이 대중의 지지를 받았지만, 당내 저항에 부디 치면서 당 지도부와 애증의 관계를 유지하였다. 박재승은 과거 선거자금위반과 내물 수수 등 유죄 판결이 난 후보는 비례대표후보를 막론하고 공천을 거부하였다. 여전히 현역 의원의 물갈이 비율은 한나라당보다 꽤 낮은 수치인 20.5%를 유지하고 있다((번역 주: ‘물갈이 비율’을 선거 후에 한나라당을 탈당한 무소속 의원이나 친박연대로 출마해서 당선된 의원은 선거 전이어서 배제되어 있다. 그래서 이 전문에서 말하는 ‘물갈이 비율’은 사실상 정확하지 않은 수치이다.)).
+
+5. (미분류) 놀라운 일도 아닌 것이 통합민주당 대표 손학규계는 지역구와 비례대표 공천에서 선전하고 있다. 서울 수도권 지역 386세대 정치가와 함께하는 손학규 그룹은 통합민주당의 새로운 주류로 부상하고 있다. 친노무현계의 현역의원들도 기대 이상으로 선전하고 있지만, (대통합민주신당으로 합병 이전) 전 민주당 소속 의원들과 정동영계는 세가 상당히 줄었다. 정동영계가 특히 전통지지 기반인 전라도 지방에서 교체 대상이었다.
+
+6. (미분류) 당 지지도를 얻어내려는 시도로 당내 거물급 인사인 정동영과 손학규는 당선 가능성이 없는 서울의 지역에 출마한다고 발표하였다. 예상대로 정동영은 한나라당 정몽준에게 그리고 손학규는 한나라당 박진에게 20포인트 차로 여론조사에서 밀리는 중이다. 이명박과 한나라당 권력을 반드시 견제해야 한다고 유권자에게 호소하고, 최근 한나라당 내홍에서 수혜를 보길 기대하는 통합민주당은 100석을 바라보고 있는데, 100석의 의석수는 국회 3분의 2 찬성이 필요한 개헌시도 차단에 필요한 정족수이다.
+===== 일반적 관측: 유권자 회의론이 만연 =====
+7. (미분류) 투표율은 사상 최저인 50%대를 전망한다. 54석의 당락은 전체 정당 득표율로 결정된다. (각 유권자는 색이 다른 투표용지를 받아 하나는 후보를 다른 하나는 정당으로 나누어 2차례 투표를 한다.) 한나라당 비례대표 후보목록을 살펴보면 상당수의 사회 사업가를 공천하여 사회적 약자에 대해 배려했으며, 통합민주당은 다양한 분야의 전문가와 지역과 계파를 두루 안배하였다. 예를 들면 통합민주당은 당의 경제 살리기 다짐을 부각하기 위해 여성금융전문가 이성남을 1번에 올렸다. 전 외교부 장관 송민순은 4번에(참조 문서) 공천되었는데, 그가 국회 의석을 사실상 확보했다는 의미다. 반면에 한나라당 후보 강명순은 여성목회자이고 사회활동가로 비례대표 1번을 차지했으며, 김장수 전 국방장관은 6번이다.
+
+8. (미분류) 공식선거운동기간은 보통 2주 미만으로 짧은데, 새 정부 출범과 공천심사가 겹치면서 공천 과정이 지연되었기 때문이다. 부분적으로 당내 이전투구로 말미암아 외교정책이나 국내정책에 관한 토의가 전혀 없고, 이명박 대선 캠프에 핵심공약인 대운하 사업에 대한 토의조차도 전혀 없다. 얄궂게도 대운하 사업의 기획자인 한나라당은 여론조사에서 보여주는 대운하 사업에 대한 압도적인 저항을 염두에 두고 대운하 주제는 피해가려고 하는 중이다. 같은 이유로 통합민주당은 지속해서 대운화 사업을 문제 삼으려 하고 있다. 대운하에 대한 반대 정서를 보여주듯 문국현 전 대통령 후보가 넉넉한 표차로 한나라당 대운하 전도사인 이재오를 서울 은평구 지역에서 압도하고 있다는 점 이외에도 친이계가 박근혜의 최측근 인사에 대한 공천을 거부한 책임도 이재오의 몰락에 기여하였다.
+===== 통계로 보면 =====
+9. (미분류) 245개 지역구에 1,119명이 후보 등록을 마친 가운데 총선 경쟁률이 저번 총선보다 조금 낮은 1대 4.6으로 나타났다. 비례대표 의석 경쟁률은 1대 3.5이며, 15개 정당 소속 190명의 후보가 54개의 의석을 놓고 경쟁하고 있다. 한나라당은 총 245개 지역구 모두에 후보를 공천하였으며, 반면에 통합민주당은 197명의 후보를 공천하면서, 많은 경상도 지방에서 한나라당 전 현직 의원들과 자웅을 겨루도록 하였다. 여성 후보자는 132명으로 11.8%이며 모든 연령대를 망라했지만, 439명의 40대 후보를 공천하여 39.2%를 기록하였다.
+===== 논평 =====
+10. (기밀) 총선을 10일 앞두고 이 대통령과 한나라당은 선거 관리에서 형편없는 성적을 얻었다. 2달 전만 해도 여론조사에서 200~220개 의석을 확보한다고 전망했었지만, 지금은 150~170석을 내다본다. 아직 원내 다수이긴 하지만, 이 대통령이 기대하는 압도적인 신임과는 상당한 거리가 있다. 상대적으로 통합민주당으로 대변되는 좌파진영은 노무현이 당에 치명타를 입혔을 것이라는 예언과는 대조적으로 살아남아 건재하다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/10/08seoul629|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 08SEOUL629.rtf>
+C O N F I D E N T I A L SEOUL 000629 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: CAMPAIGN SEASON BEGINS FOR ROK NATIONAL ASSEMBLY 
+ELECTION 
+ 
+REF: SEOUL 574 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1. (SBU) SUMMARY: The 13-day official campaign period for the 
+April 9 general election began March 27, 2008.  The short 
+campaign period, coupled with a nomination process tainted by 
+political infighting, makes it virtually impossible for any 
+meaningful policy debate to take place.  Voter turnout is 
+expected to be record low.  The Grand National Party (GNP) is 
+hoping to clinch a comfortable majority, but its divisive 
+nomination controversy is only the latest blow to the party's 
+flagging momentum, which seemed unstoppable after Lee 
+Myung-bak's easy win of the presidency last December. The 
+opposition United Democratic Party (UDP) hopes to secure 100 
+seats -- the number needed to block a Constitutional 
+revision. END SUMMARY. 
+ 
+--------------------------------------------- - 
+GNP: LOSING MOMENTUM, YET ANTICIPATING VICTORY 
+--------------------------------------------- - 
+ 
+¶2. (SBU) During the GNP nomination process, a record 50 out 
+of 128 (39.0 percent) incumbents were replaced.  Of the 245 
+nominees, by faction, 157 pro-Lee Myung-bak candidates got 
+the nod, about 3.6 times that of pro-Park Geun-hye nominees 
+(44).  Through the prolonged and contentious nomination 
+process, the mainstream support base within the party tilted 
+away from Park to President Lee.  The nominations in the 
+party's regional strongholds sent shockwaves; in Gyeongsang 
+province and the Seoul-Gangnam districts, many heavyweights 
+lost out to political newcomers.  Some pro-Park incumbents 
+left the party to run as independent candidates or to join 
+either Lee Hoi-chang's Liberal Forward Party or the Pro-Park 
+Alliance, a newly-formed party.  Park Geun-hye sympathized 
+and tacitly approved of their move, saying those who win 
+should be allowed back to the GNP after April 9.  The GNP 
+leadership criticized her comments as a "serious detriment" 
+to the party and Lee confidant Lee Bang-ho vowed the party 
+would not take back the "deserters." 
+ 
+¶3. (SBU) In addition to factional infighting, controversy 
+surrounding specific nominees has further roiled the waters. 
+Ignoring public calls from prominent GNP lawmakers to step 
+down, Lee Sang-deuk, Vice Speaker of the National Assembly 
+and President Lee's elder brother, has decided to remain in 
+the race.  President Lee's confidant Lee Jae-o also decided 
+to run after publicly contemplating withdrawing his 
+candidacy.  Attempting to resolve the infighting, Kang 
+Jae-sup, the party chairman, withdrew his candidacy. 
+Meanwhile, GNP nominee Kim Taek-ki (Gangwon Province) was 
+caught giving about 40,000 USD to a supporter, allegedly to 
+buy votes, and withdrew his candidacy.  Despite the 
+infighting and wide criticism of the nomination process, the 
+GNP is still expected by most pundits to win at least 150 
+seats, the threshold for a majority in the 299-member 
+legislature. 
+ 
+--------------------------- 
+UDP: EVER-HOPEFUL UNDERDOG? 
+--------------------------- 
+ 
+¶4. (U) The UDP has had its share of nomination woes.  The 
+party decided not to nominate former President Kim Dae-jung 
+confidant Park Jie-won and Kim's son Kim Hong-eop, prompting 
+them both to run as independents.  While former President Kim 
+called the nomination process unfair, UDP chairman Sohn 
+Hak-kyu cautioned "senior leaders" against meddling in the 
+elections.  There were also open conflicts between party 
+leadership and its nomination committee.  Park Jae-seung, an 
+attorney who chaired the nomination committee, has maintained 
+a love-hate relationship with the party leadership due to his 
+firm and drastic reform drive that drew favorable public 
+support but faced internal resistance.  Park refused to 
+nominate anyone, even for a proportional seat, with past 
+convictions for bribery or campaign finance violations. 
+Still, the party's incumbent turnover rate remained at 20.5 
+percent, far lower than that of the GNP. 
+ 
+¶5.  (U) Not surprisingly, UDP leader Sohn Hak-kyu's faction 
+fared well in the district and proportional nomination 
+process, with his group along with the 386-generation 
+politicos in the Seoul Metropolitan area emerging as the new 
+mainstream of the UDP.  Pro-Roh Moo-hyun incumbents fared 
+better than expected, but those from the former Democratic 
+Party (before its merger with the United New Democratic 
+Party) and Chung Dong-young's faction dwindled significantly. 
+ Chung's faction in particular was the target of replacement 
+in Jeolla region, the party's traditional support base. 
+ 
+¶6. (U) In an attempt to garner more support for the party, 
+heavyweights Chung Dong-young and Sohn Hak-kyu announced 
+their candidacies in Seoul districts despite knowing they 
+would not likely win.  As expected, they are both losing in 
+polls by almost 20 points -- Chung against GNP's Chung 
+Mong-joon and Sohn against GNP's Park Jin.  Still, hoping to 
+take advantage of the GNP's recent infighting and convince 
+voters they must check the power of President Lee and the 
+GNP, the UDP hopes for 100 seats, the number needed to block 
+a Constitutional amendment that requires a two-thirds 
+approval of the National Assembly. 
+ 
+--------------------------------------------- - 
+GENERAL OBSERVATIONS: VOTER CYNICISM PREVALENT 
+--------------------------------------------- - 
+ 
+¶7. (U) Voter turnout is expected to be record low, around 50 
+percent.  For the 54 seats to be determined by overall party 
+support (each voter casts two votes on separate, 
+different-colored ballots - one for the candidate and one for 
+the party), the GNP list showed the party's consideration for 
+the underprivileged with a larger number of nominees with 
+social work experience, while the UDP paid more attention to 
+regions, factions and experts from different fields.  For 
+example, to highlight its commitment to economic 
+revitalization, the UDP nominated Lee Sung-nam, a female 
+financial expert, at the top of its proportional list. 
+Former Foreign Minister Song Min-soon was nominated fourth 
+(reftel) on the list, meaning he is virtually assured of a 
+seat.  Meanwhile, the GNP nominated Kang Myung-soon, a female 
+pastor and activist, as its top proportional candidate and 
+former Defense Minister Kim Jang-soo at number six. 
+ 
+¶8. (U) The official campaign period is unusually short -- 
+less than two weeks -- due to the delayed nomination process 
+that overlapped with the launch of a new government.  Partly 
+because the parties have been too busy infighting, there have 
+been no discussions on foreign or domestic policy, or even 
+about one of Lee's key campaign pledges, the Grand Canal 
+project.  Ironically, the GNP, the author of the canal 
+project, is trying to avoid the topic, mindful of the polls 
+that show overwhelming resistance to the plan.  For the same 
+reason, the UDP continues to attempt to make an issue out of 
+it.  Indicative of sentiment against the canal, former 
+Presidential candidate Moon Kuk-hyun is currently besting, by 
+a comfortable margin, the GNP's canal champion Lee Jae-o in 
+Seoul-Eunpyong; also contributing to Lee's downfall is his 
+close association with the LMB faction responsible for 
+denying nominations to close associates of Park Geun-hye. 
+ 
+---------------------- 
+STATISTICALLY SPEAKING 
+---------------------- 
+ 
+¶9.  (U) With 1,119 registered candidates in 245 districts 
+nationwide, the competition rate stands at 4.6 to 1, slightly 
+lower than the previous election.  Competition for 
+proportional representative seats is 3.5 to 1, with 190 
+candidates from 15 political parties vying for 54 seats.  The 
+Grand National Party nominated candidates for all 245 
+districts, while the United Democratic Party nominated 197, 
+letting the GNP and former GNP lawmakers fight it out in much 
+of the Gyeongsang Provinces.  Female candidates (132) 
+accounted for 11.8 percent, and of all age groups, those in 
+their 40s accounted for 39.2 percent, with 439 candidates. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶10.  (C) Ten days to go before the election, President Lee 
+and the GNP get poor grades in managing the campaign.  Two 
+ 
+months ago, pollsters projected that the GNP would win 
+200-220 seats; now they project 150-170 seats.  This is still 
+a majority, but a far cry from the resounding validation 
+President Lee anticipated.  Correspondingly, the left, 
+represented by the United Democratic Party, is alive and 
+well, contrary to predictions that Roh Moo-hyun had dealt the 
+party a death blow. 
+VERSHBOW
+</file>

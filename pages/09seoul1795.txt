@@ -1,0 +1,115 @@
+^ 문서참조번호 ^ 생성일 ^ 비밀등급 ^ 출처 ^ 태그 ^
+| 09SEOUL1795 | 2009-11-10 | 기밀 | 주한미국대사관 | {{tag>PREL MARR MOPS PINR PGOV KN KS }} |
+====== 제 목: 위성락 대사 서해 사건에 대해 언급 ======
+
+기 밀 서울 001795
+
+국방부망 배포
+
+행정명령 12958: 비밀해제: 11/10/2019
+태그: PREL, MARR, MOPS, PINR, PGOV, KN, KS
+제 목: 위성락 대사 서해 사건((역주: 서해 교전이라고 하지 않고 "서해 서건"이라고 했다.))에 대해 언급
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2016/04/25 16:17//
+분류자: 캐슬린 스티븐스 대사 근거 1.4 (b/d).
+
+===== 요약 =====
+
+1. (기밀) 한국 정부에서 북한 문제를 전담하는 위성락 대사는 11월 10일 서해에서 발생한 남북 해군 간 교전에 관한 전언을 스티븐스 대사에 제공하였다. 위성락은 한국 측 사상자는 없었지만, 북한 측에서 최소한 1명이 사망했고 그 밖에도 여럿이 부상을 입었다는 보도의 진위는 확인할 수 없다고 말했다. 위성락은 한국 관계자들은 북한에 의한 이런 사고가 재발되지 않도록 촉구하는 항의 성명을 군사 채널을 통해 전달했으며 이번 사건이 남북 관계에 부정적인 영향이 없길 바란다는 의사도 전했다고 덧붙였다. 이와 별도로 월터사프 주한 미군 사령관은 주한미군과 한국군은 북한군의 군사 태세의 변동 징후를 감지하지는 못했다고 스티븐스 대사에게 전화로 밝혔다. 사프 대장은 유엔사령부는 이번 사건이 정전 협정 위반인지 조사할 것이라고 말했다. 요약 끝.
+
+===== 서해 사건 =====
+
+2. (기밀) 위성락 외교통상부 한반도평화교섭본부장은 스티븐스 대사에게 전화를 걸어 서해에서 발생한 남북 해군간의 교전에 관한 전언을 "지시대로"((위성락 본인이 아는 "사실대로"가 아니라 상부의 "지시대로" 예기하겠다는 말씀.)) 제공하였다.
+
+3. (기밀) 위성락은 다음과 같이 발생 순서에 따른 사건의 개요를 제공하였다.
+
+11:22분(현지 시각) 북한의 해군 함정 한 척이 북방한계선을 침범하였다. 한국의 해군 함정 한 척은 북한 측에 북방한계선 북쪽으로 귀환할 것을 세 차례 경고 방송하였다.
+
+11:36분(현지 시각) 한국 함정은 한 차례 경고 사격하였다. 북한 함정은 이에 대응하여 한국 함정을 겨냥해 50발을 사격하였다. 그중 15발이 한국 함정에 적중했지만, 심각한 피해를 입지는 않았다. 그 뒤 한국 함정은 북한 함정에 100발을 사격하였고 북한 함정은 북방한계선 북쪽으로 돌아갔다. 한국 측 사상자는 없었다. 한국 정부는 최소한 북한 함정에서는 적어도 1명이 사망하고 여럿이 부상을 입은 것으로 생각하지만, 이 정보를 확인할 수는 없다.
+
+4. (기밀) 위성락은 한국 관계자들은 북한에 의한 이런 사고가 재발되지 않도록 촉구하는 항의 성명을 군사 채널을 통해 전달했으며 이번 사건이 남북 관계에 부정적인 영향이 없길 바란다는 의사도 전했다고 덧붙였다. 위성락은 이번 사건에 대한 북한중앙통신의 성명은 상대적으로 수위가 낮았으며 사상자에 관한 언급은 없다며 "긍정적"이라고 말했다.
+
+===== 주한미군: 북한군 군사 태세에 변동은 없다 =====
+
+5. (기밀) 별도로 월터사프 주한 미군 사령관은 주한미군은 북한군의 군사 태세의 변동 조짐을 감지하지는 못했다고 스티븐스 대사에게 전화로 밝혔다. <wrap hi>그는 이번 사건이 정정 협정 위반인지 파악할 예정이라고 말했다.</wrap> 유엔사령부는 통상적인 관행대로 공동 조사를 수행하기 위해 북한 관계자를 초청할 예정이다. 
+
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다<WRAP center round info 95%>//**"사실대로"가 아니라 "지시대로" 얘기하는 남한 일방의 주장?**//
+남한이 위반한 것인지 북한이 위반한 것인지 조사하겠다는 뜻이다. 얼마 전 발목지뢰 사건이 벌어진 이후 북의 포격에 남이 대응 포격을 했다고 남한 측에서 주장했지만, 유엔사령부는 소위 "북의 포격"에 따른 탄착 지점은 발견되지 않았다고 발표한 적이 있는 관계로 당시 서해교전에 대한 유엔사의 조사결과가 궁금하지 않을 수 없다. 이 전문에 나오는 예기는 한국 외교부 일방의 주장이란 사실을 놓쳐서는 안 된다. 이번 서해교전의 자세한 내막을 알려면 당시 대내외 정세를 파악할 필요가 있다. 이번 "서해 교전"이 발생한 당시에는 1) 이명박이 대북 특사를 파견해 은밀히 남북 정상회담을 추진하고 있었고 2) 스티븐 보즈워스 대북정책 특별대표의 방북이 확정되어 북미회담을 앞두고 있었다. 이런 상황에서 뜬금없이 "서해 교전"이 발생했고 북한은 “남조선 군부의 고의적이고 계획적인 도발 행위”라며 “반드시 값비싼 대가를 치르게 될 것”이라고 경고했었다. 자세한 내용은 [[09seoul1802|제 목: 서울, 언론 보도; 2009년 11월 13일]]을 읽어보라. 여기서 희한한 점은 당시 사건을 두고 중앙일보는 [[http://nk.joins.com/news/view.asp?aid=3536832|우리 측 5900발 사격 … 북 추가 대응 왜 없었나]]란 제하의 기사에서 북이 50발, 남이 5,900발을 쐈다는 황당무계한 주장을 했는데, 북이 50발, 남이 100발 사격했다는 외교부가 본 전문에서 밝힌 주장과는 너무 괴리가 심하다. 중앙은 또 "군사 전문가의 입을 빌려 현 정부의 대북 정책 때문에 남북 충돌이 이뤄졌다는 점을 부각해 한반도에 긴장을 고조시키는 제한적인 교전을 도모했을 수 있다"며 [[http://nk.joins.com/news/view.asp?aid=3536831|미국과의 협상을 앞두고 공갈]]을 한 측면도 있다"고 주장했는데 북한이 대미 협상력을 높이기 위한 카드는 미사일 발사와 핵 실험이지 서해교전과 같은 남한과의 국지전을 도모했을까? 어이없다. 이 모든 게 <광고지로 전락한 종이신문 사회면까지 돈 받고 판다> //미디어오늘//의 기사처럼 중앙일보가 국방부의 요청을 받고 청탁기사를 써준 결과가 아닐까?
+</WRAP>
+===== 어두운 세상을 밝히려면 후원자님의 소중한 손길이 절실합니다 =====
+{{paypal>-----BEGIN PKCS7-----MIIHPwYJKoZIhvcNAQcEoIIHMDCCBywCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYBd+/HeuCYixamjPXNftIU59sb0XD9ZKKgCBcTcYeajIzAWC7yEypt1lxRKNYT3HOH4P8xUMLNzWP9a7U9TuKWl4dRn9E1k7I3uL6bQULmVcsLZeN6sSoyK9Rqr/o4Bywe6VRxp3RoTrcAVbgXPM9AAstIfNPDE69dVrHat10vyczELMAkGBSsOAwIaBQAwgbwGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQI6NkKGfI+A0+AgZgivFcgUkPwQs1gTK5zYX5iMEoqI7Y5I/QaUOr5sZxX0DvD4ek6dQOHlHOMHg6WlNVH/dc5rTNphoDDtg47JMhRhtu5UJJaFrSmGMzh2jMpKQzuUoBpemUjWhFDLTrydI5b/+o4lFAC/EI8dxMUUEiNG5AxxeKgQ1liTunBLoDbCPg3NddStnWoPiyFk7RPqpxdrtwPgdKO7KCCA4cwggODMIIC7KADAgECAgEAMA0GCSqGSIb3DQEBBQUAMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTAeFw0wNDAyMTMxMDEzMTVaFw0zNTAyMTMxMDEzMTVaMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwUdO3fxEzEtcnI7ZKZL412XvZPugoni7i7D7prCe0AtaHTc97CYgm7NsAtJyxNLixmhLV8pyIEaiHXWAh8fPKW+R017+EmXrr9EaquPmsVvTywAAE1PMNOKqo2kl4Gxiz9zZqIajOm1fZGWcGS0f5JQ2kBqNbvbg2/Za+GJ/qwUCAwEAAaOB7jCB6zAdBgNVHQ4EFgQUlp98u8ZvF71ZP1LXChvsENZklGswgbsGA1UdIwSBszCBsIAUlp98u8ZvF71ZP1LXChvsENZklGuhgZSkgZEwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tggEAMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAgV86VpqAWuXvX6Oro4qJ1tYVIT5DgWpE692Ag422H7yRIr/9j/iKG4Thia/Oflx4TdL+IFJBAyPK9v6zZNZtBgPBynXb048hsP16l2vi0k5Q2JKiPDsEfBhGI+HnxLXEaUWAcVfCsQFvd2A1sxRr67ip5y2wwBelUecP3AjJ+YcxggGaMIIBlgIBATCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MDQxOTA0MjMwN1owIwYJKoZIhvcNAQkEMRYEFAG0z/c0VdXvYZxtxEorY/BYbYT2MA0GCSqGSIb3DQEBAQUABIGAQ+u+8qzzKPhRvtviukCKuSSypNWbgmI/M1xkcCgiV6qJt9UXEtfd1Mqio9lczdic86Tlxzs0fNi8QJ/D8I+p7ITBARP/oPYacfLglP5oKaokLl/wr9VSn7TiqHPjwJuotJNrC48Xh9UO/rK9/bOtlb2rgyCsCFwAi8p8F3HOLVA=-----END PKCS7-----}}
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL1795.rtf>
+C O N F I D E N T I A L SEOUL 001795 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 11/10/2019 
+TAGS: PREL, MARR, MOPS, PINR, PGOV, KN, KS 
+SUBJECT: AMBASSADOR WI SUNG-LAC ON WEST SEA NAVAL INCIDENT 
+ 
+Classified By: Ambassador Stephens.  Reasons: 1.4 (b/d). 
+ 
+Summary 
+------- 
+ 
+1. (C) Ambassador Wi Sung-lac, the ROKG's point person on 
+North Korean issues, gave Ambassador Stephens a readout on 
+the November 10 naval skirmish in the West Sea.  Wi said 
+there were no ROK casualties; he could not confirm reports 
+that at least one North Korean was killed and several others 
+wounded.  Wi added that the ROK had lodged a protest with the 
+DPRK via military channels urging that such an incident not 
+be repeated and expressing hope that the incident would not 
+negatively affect inter-Korean relations.  Separately, USFK 
+Commander General Walter Sharp called Ambassador Stephens to 
+say that USFK and ROK forces have not detected any 
+indications that North Korea is changing its military 
+posture.  General Sharp related that the United Nations 
+Command would investigate whether the incident was an 
+armistice violation.  End summary. 
+ 
+West Sea Incident 
+----------------- 
+ 
+2. (C) ROK Special Representative for Korean Peninsula Peace 
+and Security Affairs, Ambassador Wi Sung-lac, called 
+Ambassador Stephens "on instructions" to provide a readout on 
+the November 10 exchange of gunfire between ROK and DPRK navy 
+vessels in the West Sea. 
+ 
+3. (C) Wi offered the following chronology of events: 
+ 
+-- At 1122 (local time), a DPRK navy vessel crossed the 
+Northern Limit Line (NLL).  A ROK Navy ship issued three 
+warnings to the North Koreans, instructing them to return 
+north of the NLL. 
+ 
+-- At 1136 (local time), the ROK ship fired a warning shot. 
+In response, the DPRK vessel fired 50 shots at the ROK ship. 
+15 of the shots hit the ROK vessel but caused no serious 
+damage.  The ROK ship then fired 100 rounds at the DPRK 
+vessel, which returned north of the NLL.  There were no ROK 
+casualties.  The ROKG believes there was at least one death 
+and several injuries on the DPRK vessel but cannot confirm 
+that information. 
+ 
+4. (C) Wi said the ROK had lodged a protest via military 
+channels urging that such an incident not be repeated by the 
+DPRK and expressing hope that the skirmish would not 
+negatively affect inter-Korean relations.  Wi noted that a 
+KCNA statement on the incident was relatively low-key and did 
+not mention casualties, which he said was "positive." 
+ 
+USFK:  No Change in North Korean Military Posture 
+--------------------------------------------- ---- 
+ 
+5. (C) Separately, USFK Commander General Walter Sharp called 
+Ambassador Stephens to say that USFK has not detected any 
+indications that North Korea is changing its military 
+posture.  He said the United Nations Command (UNC) would 
+assess whether the incident was an armistice violation; the 
+UNC would, per normal practice, invite the North Koreans to 
+conduct a joint investigation. 
+STEPHENS 
+</file>

@@ -1,0 +1,38 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1355  |  2008-07-08 07:39  |  기밀  |  주한미국대사관  |  {{tag>PREL NATO AF KS }}  |
+====== 제 목: 아프가니스탄 육군 규모 증가에 관한 외교문서 전달 ======
+  * 기 밀 SEOUL 001355 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 행정명령 12958: 비밀해제: 07/08/2018 
+  * 태그: PREL(([External Political Relations])), NATO(([North Atlantic Treaty Organization])), AF(([Afghanistan])), KS(([Korea (South)]))
+  * 제 목: 아프가니스탄 육군 규모 증가에 관한 외교문서 전달
+  * 참조: STATE 71479 
+  * 분류자: 정치 공사 참사관 조셉 윤.((POL M/C Joseph Y. Yun)),  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/21 08:30//
+1. (기밀) 6월 8일 대사관 직원은 참조 전문의 논지를 외교통상부 한미안보협력과 김현두에게 전달하였다. 김현두는 해당 정보에 대해 감사를 표시하였지만, 실질적인 답변은 제공하지 않았다. 대사관은 아프간에 경찰 및 군사 훈련, 그리고 장비의 제공을 한국정부가 고려해 줄 것을 더 고위급 직원에게 촉구하는 후속조치를 계획하고 있다.
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1355.rtf>
+C O N F I D E N T I A L SEOUL 001355 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 07/08/2018 
+TAGS: PREL [External Political Relations], NATO [North Atlantic Treaty Organization], AF [Afghanistan], KS [Korea (South)] 
+SUBJECT: AFGHAN NATIONAL ARMY FORCE SIZE INCREASE DEMARCHE 
+DELIVERED 
+ 
+REF: STATE 71479 
+ 
+Classified By: POL M/C Joseph Y. Yun, Reasons 1.4 (b,d). 
+ 
+(C) On July 8, Poloff delivered reftel points to Kim Hyon-du, 
+Deputy, ROK-U.S. Security Cooperation Division, Ministry of 
+Foreign Affairs and Trade.  Kim expressed appreciation for 
+the information but offered no substantive response.  Post 
+plans to follow up at a higher level to once again urge the 
+ROKG to consider providing police and or military training 
+and equipment in Afghanistan. 
+VERSHBOW
+</file>

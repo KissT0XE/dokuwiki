@@ -1,0 +1,260 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL381  |  2009-03-11 08:50  |  기밀  |  주한미국대사관  |  {{tag>PREL ECON KS KN }}  |
+====== 제 목: 북한의 남북 군사 통신 단절에 의한 뜻 밖의 결과 ======
+  * 기 밀 SEOUL 000381 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+ 
+  * 행정명령 12958: 비밀해제: 02/24/2019 
+  * 태그: PREL(([External Political Relations])), ECON(([Economic Conditions])), KS(([Korea (South)])), KN(([Korea (North)]))
+  * 제 목: 북한의 남북 군사 통신 단절에 의한 뜻 밖의 결과
+  * 참조하는 전문 [[09seoul447|09SEOUL447]]
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun.))  근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/08 15:05//
+===== 요점 =====
+
+1. (기밀) 요점: 북한 정부가 3월 9일 24시간 개성공단 통행을 차단한 이후 동·서해지구 남북관리구역을 통한 남북 간의 상품과 사람의 이동을 신속하게 복원했는데, 한국정부 접선책과 민간 접선책은 군사 통신을 단절할 경우에 사람과 현금, 그리고 식량에 이용될 개성공단의 통행도 차단될 것임을 깨닫지 못한 북한 당국의 전략적인 실수로 판단하였다. 한국의 관측통은 돈줄을 끊는 걸 원하지 않는 //“이성적인”// 북한 정부를 목도하고 있다. 일부 관측통은 한 단계 더 나아가, 북한의 위협에 대응하지 않는 이명박 대통령의 정책상의 //“승리”//로 보고 있다. 요점 끝.
+===== 남북관리구역의 혼란 =====
+
+2. (기밀) 북한 조선중앙통신은 3월 9일 //“인공위성 발사”//를 요격하려는 어떤 시도도 전쟁 행위로 간주할 거라는 성명을 3월 9일에 발표하였다. 그 성명에서 부차적인 논지의 내용으로, 키 리졸브/독수리 남북연합훈련 (3월 9일~21일) 기간에 군사 통신을 단절한다고 전하고 있다. 군사 통신 단절의 결과로 개성공업지구  안팎으로 통행이 막히게 됨으로써 한국의 물자와 사람들이 군사분계선을 횡단할 수 없게 되어 하루 동안 혼란을 빚었다.
+
+3. (민감하지만 미분류) 2008년 12월 이후, 북한은 하루에 오전 9:00, 10:00, 11:00 세 차례에 걸쳐 북한 쪽으로 횡단을 허용하였고, 남한 쪽으로는 오후 3:00, 4:00, 5:00에 횡단을 허용하였는데, 총 750명까지 매회 횡단의 대상이 된다. 개성공단으로 가는 군사분계선 횡단 절차는 처음에 개인이 현대아산에 신청서를 제출한 이후에 통일부의 승인을 타진한 다음에 사람과 물자 목록을 한국 국방부에 전달한다. 유엔군사정전위원회의 점검 이후, 국방부는 북한인민군에 해당 목록을 팩스로 보내어, 24~28시간 통지 시간을 제공한다; 일부를 제외한 거의 모든 요청이 보통 승인된다. 2008년 12월 이후, 해당 통신은 서해 지구 라인이 북한에 의해 단절된 이후에 동해 지구 팩스 라인을 통해 이루어졌다.
+
+4. (기밀) 얼마 전에, 북한은 통행 요청 당일 오전 8:00 쯤 통행목록을 승인 작업을 진행했다. 3월 9일 통일부 접선책은 북한으로 건 전화통화가 몇 시간 동안 응답이 없었고, 한국정부는 예정된 통관을 취소했으며, 결국에는 개성공업지구관리위원회와 북한의 상대역인 중앙특구개발지도총국 간에 연락이 이루어졌다고 말하였다. 그러나 현대아산 장황빈 총무에 의하면 일상적인 오전 횡단 시간 동안에 군사분계선에서 호위하는 북한인민군 차량이 눈에 띄었는데, 지역 인민군 병사들은 국경 횡단을 예상하고 있었음을 보여 주는 것이다. //“그들은 당황한 기색이었다.”//라고 장황빈은 말하였다.
+
+5. (기밀) 3월 9일 중에, 개성공단을 나가길 원하는 한국의 민간 사업가 80명이 (주중 근무 중에 개성공업지구에 보통 상주하는 550~700명 중의 일부) 당일 출경할 수 있을 지 여부가 핵심 현안이다. 통일부 개성공단사업지원단 지원총괄과장은 북한 중앙특구개방지도총국에 출경 문의를 팩스로 요청했지만, 북한정부는 문의에 아직 답변할 수 없다고 팩스 회신을 보내왔다고 3월 9일 오후에 우리에게 말하였다. 출경을 요청한 사람들은 3월 9일 개성공단을 떠날 수가 없었고, 3월 11일 오후 경에도 여전히 출경 신청서가 승인되기를 기다리고 있었다. 현대아산은 3월 9일 개성공단에 있는 현대아산 소속의 180명 근무자, 그리고 금강산에 있는 35명의 현대아산 근무자 및 48명 조선족 관광지 직원에게 전화로 통화할 수 있었다고 장황빈은 말하였다. 근무자들은 냉정함을 유지했고, 북한 상대역들에게 통행 차단에 대해 항의하였다.
+
+6. (기밀) 3월 10일 아침 개성산업공단의 통행이 복원되었다. 게다가 금강산으로 통하는 동부 지구 통행도 3월 10일에 허용되었다. 2008년 12월 이래도 한 주에 화요일 하루에만 금강산 통행이 허용되어왔다. 그러나 3월 9일 처음에 출경 승인이 난 사람들만 3월 10일 개성공단을 떠날 수 있었다; 다른 이들은 군사분계선 횡단하려면 출경 신청서가 3월 11일 부로 허가될 때까지 여전히 기다리고 있는데, 이는 북한이 여전히 엄격한 통행 규칙을 적용하고 있음을 나타낸다.
+===== 북한의 행보 분석 =====
+
+7. (기밀) 한국정부 접선책과 민간 접선책 대부분은 3월 9일 호전적인 북한의 발표 당시에 북한이 동·서해 지구 차단을 의도한 게 아니라고 동의하였다. 그들은 북한이 크게 보면 통행을 복원함으로써 현금과 식량, 그리고 사람들까지 개성공단에 갈 수 있도록 했다는데 역시 견해를 같이 하였다.  통일부 접선책은 통행 문제는 3월 9일 온종일 한국정부 실무급에서 집중적으로 업무를 보는 가운데, 당일 청와대 고위급 수준에선 문제 제기가 되지 않았지만, 3월 10일에 다루어졌다. 우리가 이해하기엔 한국정부가 3월 9일 늦게 개성공업지구관리위원회가 북한 중앙특구개방지도총국 간의 창구를 활용해 북한에 메시지를 전달했다고 판단한다. 그 메시지는 만일 3월 10일 사람들이 개성공단을 떠나도록 허가하지 않으면, 이 문제가 남북 긴급/인질극 상황까지 고려하게 된다는 내용이다. 통일부 당국자는 3월 9일 개성공업지구에 수송하기로 예정된 항목 중에 미화 180만 달러 이상의 현금과 2주 분의 식량 공급도 포함되어 있다고도 우리에게 말하였다. 현금은 3월 11일에 운송되지는 않는데, 아마도 그 이유는 보관상의 안전을 위해 서울로 돌려보냈기 때문이다.
+
+8. (기밀) 통일부 남북교류협력국 교역지원과 김성현 사무관은 임시적인 수송로 차단은 북한의 부처간 소통과 조율이 없음을 보여주는 방증이라고 3월 11일에 우리에게 말하였다. 김성현은 남한과의 군사 통신을 단절하는 제안은 매일 김정일 앞에 놓이는 300개 결정 사항 중에 하나였다고 한국정부는 평가하고 있다. 그 결정의 잠재적인 결과인 예로 개성공단 통행 중단은 충분히 연구가 되지 않았다. 김성현에 의하면, 금강산 통행의 책임을 맡은 북한 단체가 3월 9일 개성공단의 현 상황에 대해 물어 본 일은 북한에서는 왼손이 하는 일을 오른손이 모르고 있었음을 나타내는 방증이다.
+ 
+9. (기밀) 개성공업지구관리위원회에서 중앙특구개방지도총국으로 보낸 팩스를 통해 3월 9일 남북 사이 몇 가지 메시지를 주고 받았다고 김성현은 말하였다. 북한의 초기 발표 이후 12시간 만인 3월 9일 저녁에 한국정부는 개성공단의 계속되는 통행 차단이 심각한 인질극 상황으로 간주하겠다는 메시지를 한국군이 보냈다. 그리고 나서 양측 당사국은 한국군에서 개성공업지구관리위원회로; 개성공업지구관리위원회에서 중앙특구개방지도총국으로; 중앙특구개방지도총국에서 북한인민군으로, 그리고 다시 역순으로 보내는 번거로운 방법을 통해 몇 차례 메시지를 교환했고, 3월 10일 개성공단 통행이 복원되었다. 새로운 통행 규칙은 3월 11일에도 계속 마련되고 있는 중이며, 개성공업지구관리위원회 관계관이 개성공단으로 가는 단체에 합류해서 중앙특구개방지도총국에 150페이지 분량의 통행 요청을 제시할 수 있을 것이다.
+
+10. (기밀) 이번 사건에 대한 언론의 반응은 24시간 안에 해결되었기 때문인지 얌전하다. 보수 //“동아일보”//는 //“개성공단에 관련된 북한 당국자가 군사 통신 단절 배경을 알지 못해, 혼란스럽고 당혹해하는 모습이다.”//라고 3월 11일 보도하였다. 3월 10~11일 언론의 해석은 북한의 신속한 군사분계선 차단의 세 가지 가능한 이유에 중점을 두었다: 금전적 손실에 대한 우려에 더해 일부 보도는 3월 9일 현금 급료가 전달될 예정이었음을 지적; 개성공단 통행과 관련한 남한의 강력한 반응; 그리고 북미 관계에 대한 우려 등이다. 반면에, 현재 경남대학교 북한학과 교수로 있는 양무진 전 통일부 관료는 스티븐 보스워스의 방한과 연계해 3월 9일 고의로 긴장을 조성했다며, 개성공단 차단은 만일 북한이 원하기만 하며, 인질 상황을 야기할 수 있음을 상기시키려는 뜻이었다고 주장하였다.
+
+11. (기밀) 대다수의 반응은 앞서 언급한 것보다 더 얌전하다. 대통령의 소속 정당인 한나라당 국회의원 두명은 북한이 개성공단을 폐쇄할 수 있다는 생각은 해본 일이 없으며, 개성에 있는 남한 사람의 안전에 대해 우려할 이유가 없음을 확신한다고 3월 11일 우리에게 말하였다. 그들은 실제로 폐쇄를 고려하기에는 북한이 개성에서 너무 많은 돈을 남한 기업체로부터 벌고 있다고 말하였다. 그들은 3월 9일 개성공단 통행 중단은 이명박 정부와 벌이는 심리전의 또 다른 양상이다. 개성공단에 미칠 장기적 측면에 대한 영향에 대해 의구심도 없이, 그들은 3월 9일 통행 차단은 김정일의 건강이 나빠진 직후 북한정부 내 민간과 북한군 사이의 권력투쟁을 나타냈다고 말하였다.
+
+12. (기밀) 서울 저널리스트 협회장 격인 //“조선일보”// (보수) 신문의 김대중 논설위원은 이번 사건을 좀더 큰 맥락에서 평하길, 이명박 대통령이 냉정함을 유지한 체 북한의 위협에 반응하지 않은 점에서 이번 대치 국면의 결과가 잘 반영되어 있다고 3월 44일 정치 공사 참사관에게 말하였다. 김대중은 북한 TV에 인민군 대변인이 등장에 3월 9일 (통행 차단) 발표를 한 점은 상당히 의미가 있다며,  군 대변인이 최근에 전면에 나서 발표한 점은 북한에서 군이 득세하고 있음을 보여주는 것 일 수도 있다고 덧붙였다. 
+===== 논평 =====
+
+13. (기밀) 과거 수개월에 걸쳐, 북한은 반한 수사와 때로는 반미 수사를 계속 꺼내 들고 있다. 3월 9일 발표도 같은 식이다. 그러나 북한 당국자가 개성공단 폐쇄 혹은 더 안 좋은 상황에 빠질 만한 정책을 신속히 뒤집은 점을 볼 때 북한의 행동에서 실용주의적 요소를 보여준 점은 고무적이다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul381|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.pressian.com/article/article.asp?article_num=40090309092850&section=05|北, 대규모 한미 합동훈련에 "남북 군통신 차단" 반발]] //프레시안//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL381.rtf>
+C O N F I D E N T I A L SEOUL 000381 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/24/2019 
+TAGS: PREL, ECON, KS, KN 
+SUBJECT: DPRK'S NORTH-SOUTH MILITARY COMMUNICATIONS CUTOFF 
+HAS UNFORESEEN CONSEQUENCES 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4(b/d) 
+ 
+1. (C) SUMMARY:  As Pyongyang promptly restored the 
+inter-Korean movement of goods and personnel in the two 
+transportation corridors after closing them for 24 hours on 
+March 9, ROK Government and private contacts see an unforced 
+error on the part of DPRK authorities, who seem not to have 
+realized that access to and from the Kaesong Industrial 
+Complex -- for people, cash and food -- would be cut off when 
+they cut off military-to-military communications.  ROK 
+observers see a "rational" Pyongyang, not wanting to kill a 
+cash cow. Some observers go a step further, seeing a "win" 
+for President Lee Myung-bak's policy of not reacting to North 
+Korean threats.  END SUMMARY. 
+ 
+----------------------------------------- 
+Confusion in the Transportation Corridors 
+----------------------------------------- 
+ 
+2. (C) The DPRK's Korean Central News Agency (KCNA) published 
+an article on March 9 stating that any attempt to shoot down 
+its "satellite launch" would be considered an act of war.  In 
+what appeared to be a secondary point, the article said that 
+the North would cut off military-to-military communications 
+with the South during the Key Resolve/Foal Eagle joint 
+U.S.-ROK military exercise (March 9-21).  The communications 
+cutoff resulted in a day of confusion during which ROK 
+personnel and materials could not cross the Military 
+Demarcation Line (MDL), preventing access into and out of the 
+Kaesong Industrial Complex (KIC). 
+ 
+3. (SBU) Since December 2008, the DPRK has allowed three 
+crossings per day to the North, at 9:00, 10:00 and 11:00 
+a.m., and three crossings to the South, at 3:00, 4:00 and 
+5:00 p.m., with 250 persons maximum for each crossing, for a 
+total of 750 persons going each direction per day.  The 
+protocol for MDL crossings to the KIC starts with individuals 
+submitting applications to Hyundai Asan company, which then 
+seeks Ministry of Unification (MOU) approval and passes the 
+lists of people and materials to the ROK Ministry of Defense 
+(MND).  After a review by the United Nations Military 
+Armistice Commission (UNCMAC), MND faxes the lists to the 
+North's Korean People's Army (KPA), giving the North 24-48 
+hours notice; all but a few requests are usually approved. 
+Since December 2008, these communications have gone through 
+the eastern corridor fax line, since the North blocked 
+western corridor lines. 
+4. (C) Lately, the North has been approving access lists at 
+about 8 a.m. on the day of requested transit.  On March 9, 
+Ministry of Unification (MOU) contacts said, after phone 
+calls to the North went unanswered for several hours, the 
+ROKG cancelled the planned transits and eventually 
+established contact between the South's civilian Kaesong 
+Industrial Complex Management Committee (KIDMAC) and its 
+Northern counterpart, the Central Special Direct General 
+Bureau (CSDGB).  However, according to Hyundai Asan Senior 
+Vice President Jang Whan-bin, the North's Korean People's 
+Army (KPA) escort vehicle was visible at the Military 
+Demarcation Line during these usual morning crossing hours, 
+suggesting that local KPA soldiers expected crossings to 
+occur.  "They were confused," Jang said. 
+ 
+5. (C) During March 9, the key issue became whether 80 ROK 
+private businesspeople (out of 550-700 who usually reside at 
+the KIC during much of the workweek) who wanted to leave the 
+KIC that day would be able to do so.  MOU Director of the 
+Kaesong Infrastructure Office Kim Ki-woong told us on the 
+afternoon of March 9 that KIDMAC had asked the North's CSDGB 
+this question by fax, but was told by return fax that 
+Pyongyang had yet to answer the question.  The personnel were 
+unable to leave the KIC on March 9, and as of the afternoon 
+of March 11 were still waiting for their applications to 
+leave to be approved.  Jang said that Hyundai Asan was able 
+to communicate by phone with its employees at both KIC on 
+March 9, where there are 180 employees from Hyundai Asan and 
+affiliated companies, and Mt. Kumgang, where there are 35 
+employees from Hyundai Asan and 48 Korean-Chinese resort 
+staff, throughout March 9 by telephone.  Employees had 
+remained calm and had protested the access closure to their 
+North Korean counterparts. 
+ 
+6. (C) On the morning of March 10, crossings to the KIC were 
+restored.  In addition, crossings through the eastern 
+corridor to Mt. Kumgang were allowed on March 10 -- Tuesday 
+is the one day per week that crossings to Mt. Kumgang have 
+been allowed since December 2008.  However, the personnel who 
+were able to leave the KIC on March 10 were only those 
+initially approved to leave on March 9; others were still 
+waiting for their applications to cross the MDL to be 
+approved as of the evening of March 11, suggesting that the 
+North was still applying strict transit rules. 
+ 
+--------------------------- 
+Analyzing the North's Steps 
+--------------------------- 
+ 
+7. (C) Most of our ROKG and private contacts agree that the 
+DPRK did not intend to block the two transportation corridors 
+when it made the bellicose March 9 announcement.  They also 
+agree that the North opted to restore the crossings largely 
+so that cash and food, as well as personnel, could get to the 
+KIC.  An MOU contact said that while the access issue was 
+being worked intensively at the working level in the ROKG all 
+day on March 9, it did not rise to senior Blue House levels 
+that day, but would have on March 10.  Our understanding is 
+that the ROKG sent a message to the North late on March 9, 
+using the KIDMAC to CSGDB channel, stating that the issue 
+would be considered an inter-Korean emergency/hostage 
+situation if personnel were not allowed to depart the KIC on 
+March 10.  MOU officials also told us that among the items 
+expected to be shipped to the KIC on March 9 was USD 1.8 
+million or more in cash, and two weeks worth of food supplies 
+for the KIC.  The cash was not shipped on March 11, perhaps 
+because it had been returned to Seoul for safe keeping. 
+ 
+8. (C) MOU Inter-Korean Exchanges and Cooperation Bureau 
+Trade Support Division Deputy Director Kim Seong-hyoun told 
+us on March 11 that the temporary closure of the 
+transportation corridors was evidence of North Korea's lack 
+of inter-agency communication and coordination.  Kim 
+suspected that the proposal to cut off military communication 
+with the South was one of what the ROKG estimates is 300 
+decision memos that go forward to Kim Jong-il every day, and 
+the potential consequence -- i.e., KIC access disruption -- 
+was not studied sufficiently.  According to Kim, the North 
+Korean entity in charge of access to Mt. Kumgang asked 
+Hyundai Asan about the current situation in the KIC on March 
+9, a sign that the left hand was not talking to the right in 
+North Korea. 
+ 
+9. (C) Kim said that several messages crossed between North 
+and South on March 9 via telefax from KIDMAC to CSDGB. 
+During the evening of March 9, about 12 hours after the 
+North's initial announcement, the ROK military sent a message 
+stating that the ROKG would consider a prolonged closure of 
+the KIC crossing as a serious hostage situation and the two 
+sides then exchanged several messages through this cumbersome 
+method:  ROK military to KIDMAC; KIDMAC to CSDGB; CSDGB to 
+KPA, and then back again, resulting in the March 10 
+restoration of KIC access.  The new protocol is still being 
+worked out: on March 11, a KIDMAC official joined the group 
+going to the KIC so he could present 150 pages of access 
+requests to the CSDGB. 
+ 
+10. (C) Media reaction to this episode was mild, partly 
+because it was resolved within 24 hours.  The conservative 
+"Dong-a Ilbo" reported on March 11 that "North Korean 
+officials involved in the KIC were not aware of the 
+background of the military communications cutoff and were 
+confused/embarrassed."  March 10-11 media interpretation 
+focused on three possible reasons for the DPRK's rapid 
+reaction to the MDL closure: concern about losing money, with 
+some reports noting that a cash payment was due to be 
+delivered to the KIC on March 9; the strong reaction from the 
+South about KIC access; and concern about DPRK-U.S. 
+relations.  On the other hand, former MOU official Yang 
+Moo-jin, now at the Kyungnam University of North Korean 
+Studies, argued that the North deliberately raised tensions 
+on March 9 in connection with Special Representative Stephen 
+Bosworth's Seoul visit, and that the KIC closure was meant to 
+remind the South that a hostage situation could arise if the 
+North wanted it to. 
+ 
+ 
+11. (C) Most reactions were milder than that.  Two National 
+Assembly members from President Lee's ruling Grand National 
+Party told us on March 11 that the thought never occurred to 
+them that the North might shut down the KIC and they were 
+confident there was no reason for concern over the safety of 
+South Koreans in Kaesong.  They said the DPRK earns too much 
+money from South Korean businesses in Kaesong for closure to 
+be a realistic consideration.  They interpreted the March 9 
+halt of traffic in and out of Kaesong as another episode in 
+the North's psychological tug of war with the Lee government. 
+ Without speculating on the implications for the KIC's 
+long-term prospects, they said the March 9 closure was an 
+indication of the power struggle in Pyongyang between 
+civilians and the military in the wake of KJI's illness. 
+ 
+12. (C) Commenting on the episode's broader context, "Choson 
+Ilbo" (conservative) newspaper editorialist Kim Dae-jung, 
+considered the dean of Seoul journalists, told POL M/C on 
+March 11 that the outcome of the standoff reflected well on 
+President Lee Myung-bak's strategy of staying calm and not 
+reacting to the North's threats.  Kim also saw significance 
+in the fact that a KPA spokesman appeared on DPRK television 
+to make the March 9 announcement, adding that the prevalence 
+of military spokesmen and pronouncements recently could 
+indicate that the military was gaining power in Pyongyang. 
+ 
+------- 
+Comment 
+------- 
+ 
+13. (C) Over the past several months, the DPRK has continued 
+to turn up its anti-ROK and, in some cases, anti-U.S. 
+rhetoric.  The March 9 announcement was more of the same. 
+However, it is encouraging to see an element of pragmatism in 
+the North's behavior, since authorities promptly reversed a 
+policy that could have led to the closure of the KIC or 
+worse. 
+STEPHENS
+</file>

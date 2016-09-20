@@ -1,0 +1,512 @@
+~~NOTOC~~
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL403  |  2009-03-16 10:59  |   미분류/공무외 사용금지  |  주한 미국 대사관  |  {{tag>ECON ETRD KIPR KS }}  |
+====== 제 목: 2009년 스페셜 301조—사후 권고 ======
+미분류 SEOUL 000403 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+민감함
+국무부 동아태 그리고 경제·에너지·비지니스국/무역정책·프로그램/지적재산단속조직처 ― 맥고완((번역 주: STATE FOR EAP AND EEB/TPP/IPE - MCGOWAN, ))
+국무부는 미 무역대표부 커틀러, 트릭, 그리고 최 그로브스에게 전달((STATE PASS USTR FOR CUTLER, TRICK AND CHOE GROVES ))
+
+행정명령 12958: 해당없음
+태그: ECON(([Economic Conditions])), ETRD(([Foreign Trade])), KIPR(([Intellectual Property Rights])), KS(([Korea (South)] ))
+제 목: 2009년 스페셜 301조—사후 권고
+참조: STATE 008410 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/19 04:21//
+===== 요점 =====
+1. (민감하지만 미분류) 요약: 2008년은 지적재산권 보호와 단속과 관련해 한국의 노력에 상당한 급진전을 목도한 해이다. 2008년 2월 25일 이명박은 한국의 대통령으로 취임했다; 이 대통령은 지재권 보호 강화를 한국 내 국내외 투자를 촉진하기 위한 중요한 전략의 하나로 특정하였다. 2008년 개선 사항은 최근 몇 년간 지재권을 대하는 한국인의 태도에서 그 변화가 광범위하고 장기임을 반영하는데, 한국이 혁신을 보호하고 보상하는 일이(특히 중국과 맞서는) 한국의 경쟁력을 강화하는 열쇠가 될 수 있음을 깨닫게 되었다. 2008년에 새롭게 목도하고 있는 양상을 5문단에서 8문단에 걸쳐 제시했다: 지재권에 관한 한국의 법적/규제적 기틀; 단속 자원; 판례를 만드는 법원 판결; 그리고 압수되고 폐기된 불법 자료의 엄청난 수적 증가 등이다. 미국 지재권 이해당사자 지역 대표들은 그 성과에 대해 만족감을 보고했고, 한국정부 지재권 당국자에 대한 뚜렷한 접근성의 향상을 누리고 있다고 지적하였다. 또한, 한국이 역내 지재권 대세를 만드는 국가 중 하나로 부르고 있고, 한미 FTA 체결 1년 만에 새로운 지재권 개선 사항을 열심히 추진하고 있다는 사실에 다소 기쁨 섞인 놀라움을 표하고 있다. (한미 FTA는 미국이 체결한 어떤 미국 FTA 중에서도 가장 강력한 지재권 장이다.)디지털 불법 복제라는 새로운 유형의 출현으로 한국의 광대역 네트워크 기반 사회에서는 하나의 도전이지만, 미국의 저작권 이해 당사자들은 한국 정부가 그것을 방지하기 위해 특별한 조치가 필요함을 인식한 상태에서 2008년 법률 기관과 단속 노력이 대폭 확대되었다. 권고: 대사관은 한국이 2008년과 2009년 초에 단행한 지재권 조치들이 한국의 지재권 정책의 유의미한 강화를 반영하는 동시에 강력한 지재권 보호 동력이 한국 내부에서 생성되어 자립 단계에 이르렀음을 보여주는 것이다. 대사관은 한국을 2009년 스페셜 301조 감시대상국 목록에서 한국을 제외할 것을 권장한다. 요점 끝.
+
+2. (민감하지만 미분류) 2008년은 지적재산권 보호와 단속과 관련 한국의 노력은 의미 있는 급진전을 목도한 해이다. 2008년 2월 25일 이명박이 한국의 대통령으로 취임했다. 이명박은 국내외 투자를 증진하겠다는 공약을 비롯해 경제 성장 확대 공약으로 당선되었다. 이명박은 국내외 투자를 증진하기 위한 중요한 전략의 하나로 강력한 지재권 보호를 특정하였다. 그가 당선 이후에 “100대 국정과제”를 발표했을 때 이명박은 “지적재산권 보호와 (공정거래 질서)”를 과제 15에 올렸으며, (“법과 원칙을 지키는 신뢰사회를 구현” 목표에 따라 다른 내 개의 별도의 과제들과 병기(倂記)했다. 그러나 지재권에 대한 헌신은 단순히 수사적인 것이 아니었다. 이 대통령과 정부는 이미 논의 중인 계획에 속도를 내고, 강력한 단속을 열심히 추진하고, 국내외 이해 당사자를 막론하고 지재권 이해 당사자들에게 다가가서 그들의 우려 사항을 듣고 해결하는 등 강력한 지재권 정책 강화를 위한 새 방안을 마련하라고 메시지를 문화체육관광부와 특허청, 관세청, (경찰을 비롯한) 법무부의 검사 등 한국정부 지재권 당국자에게 보냈다. 그 결과는 모든 면에서 한국 지재권 보호의 의미 있는 강화로 나타났으며, 2008년 2009년 단속도 대폭 확대하는 결과를 낳았다.
+
+3. (민감하지만 미분류) 작년 한 해 동안의 노력은 이 대통령과 취임 1년 차 정부의 소신을 반영합니다. 그러나 한 해 동안의 노력은 최근 몇 년 만에 지재권을 대하는 한국민의 태도 변화가 광범위하고 장기적임을 역시 반영한다. 그 노력의 일부는 한국의 주요 통상 상대국과의 오랜 통상 정책 논의에서 기인한다. (유럽연합도 나름의 급선무에 관여해 왔지만, 주로 미합중국이 개입해왔다). 그러나 더 근본적인 변화는 강력한 지재권 정책이 국내외 모두 한국의 이익이 된다는 이해가 확대되고 있다. 한국은 (커다란 변화인) 중국을 앞서 나가고 일본을 따라잡는 시도를 하는 등 한국인들은 혁신을 보호하고 보상하는 일이 자국의 경쟁력을 강화하는 열쇠일 수 있음을 깨닫게 되었다. 한국이 신흥 경제 국가에서 선진 경제 국가로 발돋움하는 마지막 전환점에 도달하는 데 강력한 지재권 보호과 집행이 도움될 것이다. 비슷하게, 한국민은 높은 지재권 표준의 채택이 한국의 지재권 보호 향상을 확대하도록 역내 다른 국가들을 압박하기 위해 한국이 유리한 입장에 되도록 해 줄 것이다. 아시안 역내 시장에서 최근 수년 동안 한국 문화 산업(영화와 음악) "한류"의 성공은 한국 안에서 국내외 저작권 보호 강화를 위한 추가적 이론적 근거를 제공하였다.
+
+4. (민감하지만 미분류) 역내 지재권 분야 느림보에서 선두 주자가 된 한국의 발전은 2007년 한미 FTA에 서명하면서 정점을 찍었다. 한미 FTA는 미국 (그리고 국제적으로) 지재권 이해 당사자로부터 미국의 여느 무역 협정 중에서도 가장 강력한 지재권 장을 담고 있다고 여겨진다. 협정문의 공개로 협정문상에 지재권 장이 가장 장문인 점이 눈길을 끌었지만, 장문의 내용이 “한쪽에 치우쳤다”는 비평가의 불평으로 (그 이유는 약정 사항이 거의 전체가 한국에만 해당하며, 미 합중국엔 해당 없다) 한국의 지재권 정책 강화가 확실히 한국의 이득에 속한다는 정부의 관계자들이 설명하는 만큼 한국에서 그다지 호응을 이끌지 못했다. (주석: 한미 FTA 비준 법안은 2008년 10월 8일에 국회에 다시 제출되어, 그 해 말까지 활발한 토론이 이뤄졌다; 대부분 관측통은 한미 FTA가 종국에는 통과될 것으로 예상하는데, 그 이유는 이 대통령의 소속당인 한나라당이 한미 FTA에 매우 헌신적이고, 거대 다수당이기 때문이다. 그러나 워싱턴에서 의회 비준에 대한 진전이 지지부진하면서 처리가 늦춰지고 있다). 다른 국가들과 마찬가지로 한국은 특히 신기술 분야에서 지재권 관련 계속된 도전에 직면해 있다. 한국이 고안한 해결책은 미합중국에서 채택된 내용과 정확히 양립하지 않을 수 있습니다. 그러나 한국 정부가 강력한 지재권 정책에 대해 말로만 올바른 주장을 하는 게 아니라 지재권 강화를 위해 자원과 정치적 의지를 기울이고 있다.
+===== 지난해의 주요한 발전상 =====
+5. (미분류) 입법 및 규제 개선 사항:
+  * 「사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률」이 2008년 6월 13일에 개정되면서, 문화체육관광부 관계자 및 산하 지역 기관에 저작권 침해에 관련된 단속 활동을 수행하도록 하는 법적 권한을 부여했다. 이번 새 권한하에 문화체육관광부는 저작권보호팀을 2008년 8월 만들어졌고, 저작권법에 관련 한국의 두 저작권법(저작권법과 컴퓨터프로그래밍 보호법) 집행상에 법적 권한을 부여하였는데, 처음으로 문화체육관광부에 자체적인 활동 권한을 부여한 것이다.
+
+  * 2008년 8월 문화체육관광부는 한국의 두 대표적인 저작권법인 저작권법과 컴퓨터프로그래밍 보호법을 병합하는 법안 초안을 작성했다. 이 법안은 온라인 불법 복제에 대한 단속을 상당히 강화하고, 지재권 보호 면에서 한미 FTA 약정을 뛰어넘는 것이다. 예를 들면, 세 번의 경고 이후에 인터넷 서비스 제공자가 해당 게시판을 폐쇄하도록 문화체육관광부가 명령하도록 권한을 부여한 "삼진 아웃" 조항이 포함된 법도 있다((번역 주: 미 대사는 ‘게시판’만 언급하고 있는데 ‘이용자’에 관한 내용은 빠졌다. 이용자 계정을 정지할 수 있다. 자세한 내용은 [[http://www.vop.co.kr/A00000261258.html|[기고] 저작권 삼진아웃제는 위헌이다]]//민중의 소리//를 보라.)) 동 법률은 2009년 2월 26일에 한국 국회의 문화체육관광방송통신위원회에 소개되었다. 동 법안은 논란이 없어 통과될 가능성이 크지만, 통과 시점이 현재 불확실한 이유는 저작권법이 논란 있는 미디어 개혁법안과 함께 패키지 심사를 받고 있기 때문이다. 
+
+  * 「범죄수익 은닉의 규제 및 처벌 등에 관한 법률」이 2008년 12월 19일에 통과되었고, 2009년 3월 19일에 시행될 것이다. 동 법률은 범죄수익의 몰수를 허용하며, 저작권법과 컴퓨터프로그래밍 보호법 하의 지재권 침해를 심각한 범죄로 취급하는 내용을 담고 있다.
+ 
+  * 한국은 2008년 12월 18일 세계지적재산권기구 실연 및 음반조약에 가입했다. 동 조약에서 한국 관련 사항은 2009년 3월 19일에 발효될 것이다.
+
+  * 지금은 해체된 정보통신부에서 문화체육관광부로 소프트웨어 저작권에 대한 책임 소재가 옮겨 감으로써 문광부가 이제 모든 저작권 문제에 관한 일차적인 책임을 지게 되어 한국 정부 저작권 체계가 간소화되었다.
+6. (미분류) 중요한 법적 조치:
+  * 2009년 1월 어느 법정은 국내 4대 인터넷 서비스 공급자 (ISP) 대표에게 저작권이 있는 콘텐츠의 불법 유통의 편의를 도왔다는 이유로 징역 1년과 벌금 3천만 원을 부과하였다. 이 일은 해당 온라인 활동을 겨냥한 최초의 형사 처벌로 기록됐다.
+
+  * 2008년 6월 한국 검찰은 “웹하드” 스토리지 운영자 및 저작권 침해 콘텐츠를 대량으로 업로드한(저작권 위반자) 8명을 기소했다. (웹 하드는 웹 기반의 저장 서비스이며, ‘사이버락커’라고 지칭되는 폐쇄적 파일 공유 시스템 안에서 해적 행위자가 자신의 불법 내용물을 저장하고 웹 하드 운영자에 의해 관리되는 신용 거래를 통해서 보통 대가를 지급한 다운로더에게 비밀번호를 배포한다.) 2009년 2월에 6명이 기소됐고 징역 1년이 선고되었는데, 이는 온라인 불법 복제 혐의에 내려진 첫 번째 징역형이다. (다른 두 명은 무거운 벌금형에 처해 졌다.)
+
+  * 2008년 12월 검찰은 “웹 하드” 운영자 6명을 기소했다. 6명 기소 건은 아직 계류 중이다.
+
+  * 2008년에 저작권 소유자가 개시 중단 요청을 한 이후에도 불법으로 게시된 음악 파일을 삭제하지 못했다는 이유로 한국의 주요 두 인터넷 포탈인 다음과 네이버를 엄중히 단속한 바 있다.
+7. (미분류) 단속 활동과 자원의 지속적인 확대:
+  * 2009년 문화체육부관광부는 저작권 보호를 위한 단속과 교육, 대민 홍보 명목으로 책정한 예산이 40% 증가한 300억 원으로 증액되었다. (2008년에는 240억 원 이였다).
+
+  * 문화체육관광부는 불법저작물 추적관리시스템을 마련하였다. 이는 탐지를 회피하기 위해 이름이나 경로를 위장한 저작권 침해 파일를 발견하도록 설계되었다.
+8. (미분류) 단속 활동의 극적인 확대:
+  * 저작권보호센터의 단속이 상당히 증가했다. 2008년에 2,800만 온라인 음악과 동영상 그리고 출판물 파일을 삭제했다. 2007년에 삭제한 1,250만 파일에 두 배 이상이다. 이런 증가세는 인력의 증가와 (저작권보호센터의 하루 24시간 운영으로 가능해졌다) 그리고 불법저작물 탐색 기술의 향상에 기인한다.
+
+  * 도서. 저작권보호센터는 2008년에 17,811 해적판 서적을 압수했는데, 2007년 10,068건에서 증가한 수치다. 저작권보호센터는 온라인상에 게시된 인쇄 출판물 1,216만 건을 삭제했는데, 2007년 323만 건에서 늘어난 수치다.
+
+  * 저작권보호센터, 경찰, 검찰은 2008년 4월과 6월 사이 100일간의 서울과 경기 지역 특별단속기간에 참여해서 2007년 동 기간에 압수한 불법 DVD, 테이프, CD, 도서 그리고 복제 장비에 비해 많게는 4배에 달하는 172,081 물건을 압수하였다.
+
+  * 우회장치(불법 모드 칩)((번역 주: 제세한 내용은 [[wp>modchip|모드칩을 보라]])): 한국 관세청은 한국 내 우회 장치의 유입을 차단하려는 노력을 강화하였다. 131,636개의 장치가(시가 대략 40억 원) 2008년에 압수되었다. 중국에서 밀수된 장치가 압수물의 대략 92%를 차지하고, 반면 나머지는 홍콩이 출처이다; 관세청은 중국 당국과 협력해서 중국이 출처인 상품을 차단할 거라고 발표했다. 2009년 1월 관세청은 영업 매장과 창고에 대해 불시 특별 단속을 벌여서 75,653개의 우회 장치를 압수했는데, 2008년 전체 압수물의 절반 이상을 차지했다.(게임 장치는 졸업생에게 선물로 팔리는 1월이 성수기로 여겨진다.)
+
+  * 상표권과 특허권. 한국 특허청은 경찰과 검찰의 도움을 얻어 97,000개 품목을 압수하고 파괴했는데, 전년도 대략 36,000개 품목에서 증가된 수치이다. 특허청은 모조품을 판매한 123개의 웹사이트를 폐쇄했는데, 2007년에 패쇄된 48개 사이트에서 증가한 수치다.
+
+  * 한국 관세청은 시가 9,280억 원 이상의 모조품을 압수했는데, 2007년보다 25% 증가한 양이다.
+9. (민감하지만 미분류) 대사관은 2009년 2월 본 보고서를 위한 조사의 일환으로 미국 지재권 이해당사자 지역 대표들과 의견을 나눴다. 주요 의견은 다음과 같다.
+==== 컴퓨터 소프트웨어: ====
+컴퓨터 소프트웨어: 사무용 소프트웨어 연합/마이크로 소프트. 인터넷 서비스 제공 업체에 대한 엄정한 제재, 강력한 지재권 침해에 대한 단속 강화를 추진한 이명박 정부를 강력히 지지한다. 사무용 소프트웨어 연합은 (저작권 보유자의 불만 제기로 기소가 이루어지는) 현행 소프트웨어 저작권 단속 시스템은 사무용 소프트웨어 연합이 영업하고 있는 어떠한 사법 권역보다도 가장 효과적인 권역 중에 하나라고 계속해서 믿고 있다. 
+한국소프트웨어저작권협회:(한국의 소프트웨어 산업과 손꼽히는 미국 소프트웨어 업체로 구성됨) 한국정부는 복제 복제에 대한 더 많은 대중의 관심을 불러일으켰고, 2008년 경찰의 불법 저작권 침해 방지 활동의 증가를 비롯해 불법 저작권 침해에 대한 강한 단속 의지도 보여왔다고 지적.
+==== 영화: ====
+워너: (현재 국회에 제출된) 저작권법의 개정 법안의 "삼진 아웃" 조항을 비롯해 최근 몇 가지 개선 징후에 대해 기뻐하고 있다: 인터넷 서비스 공급자가 저작권 침해 콘텐츠를 내리도록 요구하는 조처이다; 그리고 2009년 2월 “웹 하드” 스토리지 사이트의 기소 및 유죄 판결(그 결과 6개 사이트 운영자가 징역형이 선고되었고, 두 명은 과중한 벌금형이 내려졌다.)또한 2008년 중반기 100일간의 불법 복제 방지 캠페인은 효과적이었다고 믿는다며, 서울의 용산 전자상가 같은 데서 심지어 단속 기간이 종료된 이후에도 해적판 광디스크의 흔적이 줄어들었다고 지적하였다.
+==== 음악 (소니, 유니버설, 워너): ====
+소니, 유니버설, 워너: 모두 한국정부가 올해 지재권 단속에 관한 산업계의 우려 사항에 대해 전례 없는 관심을 보여주었다고 견해를 같이하였다. 저작권보호센터의 삭제·중단 명령의 발급으로 한국정부 당국이 벌금을 부과하기에 앞서 저작권을 침해한 P2P 그리고 “웹 하드” 운영자에게 음반 회사를 방문해 해결 방안을 협상하도록 하는 결과를 낳았다. 한 대표는 회사 내부 토론에서 그와 타이완 동료는 타이완보다는 한국이 저작권 법안 강화를 위해 대만보다 더 많은 일을 했다며, 한국에서 지재권 보호가 강하다고 느낀다고 말했다.
+==== 도서: ====
+센게이지 학습(호주출판인협회): 대학가 인근 복제도서가 산업계가 공동 협력한 일련의 경찰과 검찰의 불시 단속 이후에 눈에 띄게 줄었다(주석: 미국 출판산업계는 한국의 자문역들과 연계성을 잘 유지하고 있는데, 자문역들은 의심스러운 장소를 급습하기 위해 단속 당국과 협력한다.)올해 불시 단속 횟수는 줄었는데, 그 이유는 호주출판인 협회가 불시 단속을 조직하기 위한 자문역에 대한 자금 제공이 줄었기 때문이다. 평균판매율(등록된 학생이 합법적인 교과서를 구매하는 비율)은 증가하지 못했다: 그 이유는 아마도 불법 복제 도서들이 더욱 지하 시장으로 자리를 옮겼거나, 여타 경제 요인 때문이다(불황, 원화의 평가절하).
+==== 비디오/컴퓨터 게임: ====
+전자예술(EA): 지역 당국은 단속과 지재권 관련해 제한된 임무를 수행한다. EA코리아는 저작권침해 누리집의 목록을 편찬하려고 있지만, 사이트 대부분은 한국 소재 사이트가 아니다. 한국에서는 콘솔게임보다는 온라인 게임이 더 인기가 있고 해서, 복제하기 더욱 어렵다. (주석: 미국 특허 또는 상표권 보유자들이 한국의 지재권 정책에 대해 어떠한 우려 사항으로 대사관을 찾은 일이 없다.)
+===== =====
+10. (민감하지만 미분류) 온라인 불법 복제―특별한 도전: 모든 선진 경제국은 날로 커지고 있는 디지털 불법 복제물의 위협에 직면해 있는데, 이러한 도전은 한국에서도 두드러진다. 한국은 브로드밴드 및 기타 고속 인터넷 서비스의 보급률이 세계에서 가장 높은 국가 중의 하나로 지속해서 등재되고 있다. 지재권 이해 당사자들은 한국 정부가 이런 증가 일로의 위협과 싸우기 위해 특별한 조처가 필요함을 인식하게 되었다. 부분적으로 이러한 조처가 확대되고 있는 세계적인 규제 추세를 반영하고(한국 규제 당국의 변함없는 벤치마크 대상), 만일 디지털 복제를 견제하지 못하면 한국의 문화산업계에 잠재적으로 치명적 타격이 될 수 있다는 인식의 확대도 반영된 것이다. 한국 문화 산업계는 단연 내수에 크게 의존하고 있다. 온라인 지재권 단속을 위한 단속 자원 및 법적 권한은 2008년에 상당히 증가했다. 삭제된 문서의 수치는 2008년에 획기적으로 증가했다. 한국 특유의 열정으로, 문화체육관광부 접선책은 저작권법과 컴퓨터프로그래밍 보호법을 통합한 2008년 법안은 세계에서 가장 강력한 불법 복제 방지 조항을 보유하고 있다며 자랑했다. (비록 일부는 국회 토론에 따라 수정됐다.)한국의 상황에 대해 질문을 받을 때, 대사관의 미국영화협회 접선책들은 증가 일로의 (불법 복제의 편의를 돕는) 고속 인터넷 접근성과 온라인 단속에 전념하는 한국 정부 자원의 확대를 놓고 볼 때, 동 접선책들은 한국의 온라인 불법 복제 활동의 전반적인 상황이 예년과 비슷하거나 조금 개선되었다고 한다―특히 동급 그룹으로 보는 일본, 타이완, 홍콩, 싱가포르에서 미국 영화협회는 유사한 상황에 직면해 있다. 한국은 상술한 국가들이나 미합중국이 할 수 있는 그 이상으로 인터넷 기술에 의한 전파를 역전시킬 수는 없다. 그러나 디지털 불법 복제에 맞선 싸움에서 주도권을 잡으려는 게 분명하다. 모든 측면에서 볼 때 2008년은 상당히 훌륭한 성과를 보았다.
+===== 권고 =====
+11. (민감하지만 미분류) 한국만큼 짧은 기간 만에 지재권과 관련 이 정도에 도달한 국가는 드물다. 한국의 지재권 전문가들은 한국의 지재권 정책의 시발점을 1980년대 후반에 미국의 통상 압력에서 찾는다. 당시에 전문가들에 의하면 한국이 강력한 지재권의 혜택에 대해 확신 못 하고 있었지만, 한국의 미국 시장 진출권을 보전하기 위해 마지못해 실행 가능한 지재권 시스템을 만들기로 합의했었다. 20년이 지난 오늘날 한국은 지재권의 주요한 창출국이다―특허권, 저작권, 영업 비밀, 심지어 상표권―그리고 국내외 모두 강력하고 이론이 없는 효과적인 단속을 다짐하고 있다. 한편 미합중국은 지재권에 대한 한국의 주요 벤치마킹 국가로 역할을 계속하는 가운데, 한국은 지재권 관련 협력국으로 미국과의 협력을 희망하고 있는데, 이는 단지 양국뿐만 아닌 역내와 다자간 협력체를 말한다. 디지털 불법 복제의 새로운 형태에 맞서는 보편적인 싸움을 지칭할 때 미국 이해 당사자들은 자체 지재권 노력의 범위에서나 외국의 우려 사항을 청취할 준비성 측면에서 보나 한국이 역내에서 흐름을 선도적인 국가 중 한 국가가 되었다.
+
+12. (민감하지만 미분류) 지난해에 걸친 한국의 지재권 정책과 단속 내용의 의미 있는 발전상은―지난 10년간에 한국 정부의 새로운 지재권 조치 중의 가장 중대한 안건―그 자체로도 인상 깊고, 이명박 대통령의 (그리고 정부의) 강력한 지재권 보호에 대한 개인적인 의지를 반영한다. 특히 주목할 점은 강력한 양자 지재권 장이 포함된 한미 FTA가 타결된 이후 다가올 해를 볼 때, 이러한 새로운 움직임은 외국의 압력에 대응이 아니라 대개 자생적이었다. 이러한 조처에 대한 한국정부의 헌신은 미국 지재권 이해 당사자들에겐 양국의 힘든 협상의 결과가 아니라 뜻밖의 기쁨으로 다가온다. 이는 강력하고 효과적인 지재권 보호에 대한 헌신은 외부의 추동이 아닌 자생적임을 증거하고 있어, 한국 내 향후 지재권 문제를 처리를 위한 고무적인 징후이다.
+
+상술한 견지에서 주한 미국 대사관은 2009년 스페셜 301조 감시 대상국 목록에서 한국을 제외할 것을 권고한다.
+스티븐스
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 참조 링크 =====
+  - {{http://www.vop.co.kr/A00000261258.html|[기고] 저작권 삼진아웃제는 위헌이다}}//민중의 소리//
+  - [[http://www.korea.kr/common/download.do?tblKey=GMN&fileId=161129888|이명박 정부의 100대 국정과제 확정]] //이명박 정부 보도 참고자료//
+  - [[06seoul601|제 목: 한국 스페셜 301조 지재권 점검: 대사관은 한국에 대한 '감시 대상국' 지위 유지 권고]] //미 대사관 전문//
+===== 원본 다운로드 =====
+<file rtf 09SEOUL403.rtf>
+UNCLAS SEOUL 000403 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+STATE FOR EAP AND EEB/TPP/IPE - MCGOWAN, 
+STATE PASS USTR FOR CUTLER, TRICK AND CHOE GROVES 
+ 
+E.O. 12958: N/A 
+TAGS: ECON [Economic Conditions], ETRD [Foreign Trade],
+KIPR [Intellectual Property Rights], KS [Korea (South)] 
+SUBJECT: 2009 SPECIAL 301 - POST RECOMMENDATION 
+ 
+REF: STATE 008410 
+ 
+¶1.  (SBU) SUMMARY:  2008 saw a significant acceleration of 
+Korean efforts on intellectual property rights (IPR) 
+protection and enforcement.  On February 25, 2008, Lee 
+Myung-bak was inaugurated as Korea's President; Lee 
+explicitly identified stronger IPR protection as an important 
+strategy to boost foreign and domestic investment in Korea. 
+The improvements in 2008 also reflect a broader, longer-term 
+change in Korean attitudes toward IPR in recent years, as 
+Koreans have come to realize that rewarding and protecting 
+innovation can be key to enhancing the country's 
+competitiveness (particularly vis a vis China).   2008 saw 
+significant new developments, outlined in paras 5 through 8: 
+Korea's legal/regulatory framework for IPR; enforcement 
+resources; precedent-setting court decisions; and a vast 
+increase in the number of pirated materials seized or 
+deleted.  Local representatives of U.S. IPR stakeholders 
+report satisfaction with the progress being made, note marked 
+improvement in the access they enjoy to ROKG IPR officials, 
+call Korea one of the pace-setters in the region, and also 
+express some (pleased) surprise that the ROKG is already 
+pushing so hard for new IPR improvements just one year after 
+the conclusion of the KORUS FTA (which contains what most 
+U.S. stakeholders call the strongest IPR chapter of any U.S. 
+FTA ever concluded).  Emerging forms of digital piracy are a 
+challenge in Korea's broadband society, but U.S. copyright 
+stakeholders believe the ROKG is cognizant of the need for 
+special measures to combat it, and legal authorities and 
+enforcement efforts expanded significantly in 2008. 
+RECOMMENDATION:  Post believes that the IPR actions taken by 
+Korea in 2008 and early 2009 reflect both a significant 
+strengthening of Korea's IPR regime and indicate that the 
+push for stronger IPR protection has become a domestically 
+generated, self-sustaining process in Korea.  Post recommends 
+that Korea be removed from the Special 301 Watch List in 
+2009.  END SUMMARY. 
+ 
+¶2.  (SBU) 2008 saw a significant acceleration of Korean 
+efforts on intellectual property rights (IPR) protection and 
+enforcement.  In February 25, 2008, Lee Myung-bak was 
+inaugurated as Korea's President.  Lee was elected on a 
+platform of increasing economic growth, including by boosting 
+foreign and domestic investment in Korea.  Lee explicitly 
+identified stronger IPR protection as an important strategy 
+to boost foreign and domestic investment in Korea.  When he 
+released his "100 Policy Tasks" following his election, 
+President Lee listed "Protecting intellectual property rights 
+(and establishing fair trade practices)" as Task 15 (grouped 
+with four other separate tasks under the objective "To 
+establish a trust-based society governed by the rule of 
+law").  But the commitment to IPR was not merely rhetorical. 
+President Lee and his government sent a message to ROKG IPR 
+officials -- in the Ministry of Culture, Sports and Tourism 
+(MCST), the Korea Intellectual Property Office (KIPO), the 
+Korea Customs Service (KCS), and prosecutors at the Ministry 
+of Justice (as well as police) -- to come up with new ways to 
+strengthen Korea's IPR regime, accelerate plans already under 
+discussion, push hard for strong enforcement, and reach out 
+to IPR stakeholders -- domestic and foreign alike -- to hear 
+and try to address their concerns.  The result has been by 
+all measures a significant strengthening of Korean IPR 
+protection and significantly expanded enforcement in 2008 and 
+early 2009. 
+ 
+¶3.  (SBU) The efforts of the past year reflect the 
+convictions of President Lee and his one-year old government. 
+ But they also reflect a broader, longer-term change in 
+Korean attitudes toward IPR in recent years.  Part of that 
+stems from longstanding trade policy discussions with Korea's 
+major trading partners (principally the United States, 
+although the European Union has periodically weighed in on 
+its priorities as well).  But a more fundamental 
+transformation has been a growing understanding that a 
+stronger IPR regime serves Korea's interests, both 
+domestically and internationally.  As Korea tries to position 
+itself in the region -- trying to catch up with Japan and 
+(the big change) keep ahead of China -- Koreans have come to 
+realize that rewarding and protecting innovation can be key 
+to enhancing the country's competitiveness.  It has become 
+widely accepted that strong IPR protection and enforcement 
+will help Korea make the final transition from emerging 
+economy to advanced economy.  Similarly, Koreans understand 
+that their own adoption of high IPR standards will put the 
+country in a better position to press other countries in the 
+region to extend better protection to Korean IPR.  The 
+success in recent years of Korea's "Hallyu" (Korean Wave) 
+cultural industries (film and music) in Asian regional 
+markets has provided added rationale within Korea for 
+strengthening copyright protection, both domestically and 
+internationally. 
+ 
+¶4.  (SBU) Korea's progression from regional IPR laggard to 
+leader culminated in the June 2007 signing of the KORUS FTA, 
+a trade agreement that is widely regarded by U.S. (and 
+international) IPR stakeholders as having the strongest IPR 
+chapter of any U.S. trade agreement.  The public release of 
+the text drew attention to the fact that the IPR chapter of 
+that agreement was the longest of the agreement; but critics' 
+complaints that the lengthy text was "one-sided" (because the 
+commitments were almost entirely on Korea, not the United 
+States) failed to develop much traction in Korea, as ROKG 
+officials explained that strengthening Korea's IPR regime was 
+clearly in Korea's own interest.   (Note:  the KORUS FTA 
+ratification bill was re-introduced in Korea's National 
+Assembly on October 8, 2008, and was actively debated at the 
+end of the year; most observers expect the FTA to eventually 
+pass, since President Lee's GNP party is strongly committed 
+to the FTA and has a sizable majority, but the lack of 
+progress toward Congressional ratification in Washington has 
+slowed the process down).  Like all countries, Korea 
+continues to face IPR challenges, particularly in new 
+technologies, and the solutions it devises may not precisely 
+mirror those adopted in the United States.  What is 
+indisputable, however, is that the ROKG is not just saying 
+the right things about a strong IPR regime but is also 
+devoting the resources and political will to strengthen it 
+further. 
+ 
+Major Developments over the Past Year 
+------------------------------------- 
+ 
+¶5.  (U) Legislative and Regulatory Improvements: 
+ 
+-- The Act on Persons to Conduct Duties of Judicial Police 
+Authority was amended on June 13, 2008 to give judicial 
+authority to MCST officials and its local agencies to conduct 
+enforcement activities related to copyright infringement. 
+Under this new authority, MCST created the Copyright 
+Protection Team (CPT) in August 2008 and granted it judicial 
+authority over enforcement related to Korea's two copyright 
+laws (the Copyright Act and Computer Programs Protection 
+Act), empowering MCST for the first time to act on its own 
+initiative in enforcing IPR laws. 
+ 
+-- In August 2008, the MCST drafted legislation that would 
+merge Korea's two main copyright laws, the Copyright Act (CA) 
+and the Computer Programs Protection Act (CPPA).  The 
+legislation significantly strengthens enforcement against 
+online piracy and goes beyond Korea's KORUS FTA commitments 
+in terms of IPR protections.  For example, the law contains a 
+"three strikes" provision which gives MCST the power to order 
+internet service providers (ISPs) to close their boards after 
+three warnings.  The legislation was introduced to the 
+Culture, Sports and Tourism Committee in Korea's National 
+Assembly on February 26, 2009.  The bill is considered 
+non-controversial and likely to pass, though the timing of 
+its passage is currently uncertain, since the copyright bill 
+is being considered in a package with controversial media 
+reform bills. 
+ 
+-- The Act on Regulation and Punishment of Concealment of 
+Criminal Profit was passed on December 19, 2008, and will 
+come into force on March 19, 2009.  The law allows for 
+confiscation of criminal profits and includes IPR 
+infringements under the Copyright Act and Computer Programs 
+Protection Act as serious crimes. 
+ 
+-- Korea acceded to the WIPO Performances and Phonograms 
+Treaty (WPPT) on December 18, 2008.  The WPPT will enter into 
+force with respect to Korea on March 19, 2009. 
+ 
+-- The ROKG's copyright structure was streamlined, with 
+responsibility for software copyright issues moving from the 
+now-disbanded Ministry of Information and Communications to 
+the Ministry of Culture, Sports and Tourism, which now has 
+primary responsibility for all copyright issues. 
+ 
+¶6.  (U) Significant Legal Actions: 
+ 
+-- In January 2009, a court sentenced the chiefs of the 
+country's top four internet service providers (ISPs) to a 
+year's imprisonment and charged them a 30 million won penalty 
+for facilitating illegal distribution of copyrighted content. 
+ This marked the first criminal charges ever brought against 
+such online activities. 
+ 
+-- In June 2008, Korean prosecutors indicted eight "webhard" 
+storage operators and heavy uploaders (copyright violators) 
+of infringing content.  (Webhards are web-based storage 
+services, also referred to as cyberlockers, which serve as a 
+closed file-sharing system in which pirates store their 
+illegal content online and distribute passwords to 
+downloaders who usually pay for access via credits 
+administered by the webhard operator.)   On February 2009, 
+six were convicted and sentenced to up to one year in prison, 
+the first time a prison sentence has been handed down for 
+online piracy.  (The other two faced heavy fines.) 
+ 
+-- In December 2008, prosecutors indicted six "webhard" 
+operators.  Their case is still pending. 
+ 
+--  In 2008, there were also several high-profile crackdowns 
+against Korea's two main Internet portals (Daum and Naver) 
+for failing to delete illegally posted music files even after 
+getting takedown requests from copyright holders. 
+ 
+¶7.  (U) Continued Expansion of Enforcement Resources and 
+Activities: 
+ 
+-- The 2009 MCST budget allocation for copyright protection 
+for enforcement, education and public campaigns increased by 
+40 percent to 30 billion won (up from 24 billion won in 2008). 
+ 
+-- MCST established the Illegal Copyright Obstruction Project 
+(ICOP), which is designed to find copyright infringing files 
+whose names or channels have been disguised to evade 
+detection. 
+ 
+¶8. (U) Dramatic Expansion of Enforcement Activities: 
+ 
+-- Enforcement by the Copyright Protection Center (CPC) 
+increased significantly.  It deleted 28 million online music, 
+visual and publications files in 2008, more than double the 
+12.5 million files deleted in 2007.  This increase was 
+attributed to an increase in manpower (which now allows the 
+CPC to operate 24 hours a day) and improved piracy search 
+technology. 
+ 
+-- Books.  The CPC confiscated 17,811 pirated books in 2008, 
+up from 10,068 in 2007.  The CPC deleted 12.16 million 
+printed publications on-line, up from 3.23 million in 2007. 
+ 
+-- CPC, police and prosecutors engaged in a special 
+enforcement period for 100 days between April and June 2008 
+in Seoul and surrounding Gyeonggi Province, confiscating 
+172,081 items -- four times as many illegal DVDs, tapes, CDs, 
+books and pieces of reproduction equipment as were 
+confiscated during the same period in 2007. 
+ 
+-- Circumvention devices (illegal modification chips): 
+Korean Customs Service (KCS) stepped up efforts to block the 
+entry into Korea of circumvention devices.  131,636 devices 
+(valued at roughly 4 billion won) were seized in 2008. 
+Devices smuggled from China accounted for roughly 92 percent 
+of the devices seized, while the remainder came from Hong 
+Kong; KCS announced it would try to cooperate with Chinese 
+authorities to block the goods at the source in China.  In 
+January 2009, KCS conducted a special raid of sales outlets 
+and warehouses and seized 75,653 circumvention devices, more 
+than half the total seized in 2008 (January is considered a 
+peak season for game kits to be given as presents to 
+graduating students). 
+ 
+-- Trademarks and patents.  The Korean Intellectual Property 
+Office (KIPO), with the help of police and prosecutors, 
+seized and destroyed over 97,000 items, up from roughly 
+36,000 the preceding year.  KIPO also took down 123 websites 
+selling counterfeit goods, up from 48 such take-downs in 2007. 
+ 
+-- The Korean Customs Service (KCS) seized more than 928 
+billion won worth of counterfeit goods, an amount roughly 25 
+percent higher than in 2007. 
+ 
+¶9.  (SBU) Post spoke with local representatives of U.S. IPR 
+stakeholders in February 2009 as part of the research for 
+this report.  Their key views follow: 
+ 
+Computer software: 
+ 
+Business Software Alliance/Microsoft.  Strongly support Lee 
+Administration's push to strengthen enforcement against IPR 
+infringement and tougher sanctions against Internet service 
+providers.  BSA continues to believe that the existing system 
+of software copyright enforcement (with prosecution triggered 
+by complaints by rights holder) is one of the most effective 
+in any jurisdiction in which BSA operates. 
+ 
+Software Property Right Council (group comprised of Korean 
+software industry plus leading U.S. software firms):  Notes 
+ROKG has shown greater public attention to piracy, and a 
+stronger will to enforce against illegal copyright 
+infringement, including an increase in police anti-piracy 
+actions in 2008. 
+ 
+Film: 
+ 
+Warner:  Pleased by several recent signs of improvement, 
+including:  the "three strikes" provision in the Copyright 
+Act revision legislation (currently before the National 
+Assembly); measures in that legislation requiring Internet 
+service providers to take down infringing content; and the 
+prosecution and conviction of "webhard" storage sites in 
+February 2009 (which resulted in six site operators being 
+sentenced to prison terms and two receiving stiff fines). 
+Also, believed that the 100-day anti-piracy campaign in 
+mid-2008 was effective, and noted a diminished presence of 
+pirated optical disks in usual markets like Yongsan 
+Electronics Market in Seoul, even after the period concluded. 
+ 
+ 
+Music (Sony, Universal, Warner): 
+ 
+Sony, Universal, Warner:  All agree the ROKG has demonstrated 
+unprecedented interest this year in listening to the concerns 
+of industry regarding IPR enforcement.  The Copyright 
+Protection Center (CPC)'s issuance of take-down orders has 
+resulted in copyright infringing P2P and "webhard" operators 
+coming to music companies to negotiate settlements before 
+being assessed fines by ROKG officials.  One representative 
+said in internal company discussions, he and colleagues in 
+Taiwan felt that more was being done to strengthen copyright 
+legislation in Korea than in Taiwan, and that IPR protection 
+was stronger in Korea. 
+ 
+Books: 
+ 
+Cengage Learning (APA representative):  Book piracy, 
+especially near college campuses, has become less visible 
+following a series of raids by police and prosecutors with 
+the cooperation of industry (Note:  the U.S. book publishing 
+industry retains well-connected consultants in Korea who will 
+work with enforcement authorities to arrange raids on 
+suspected sites).  The number of raids has fallen off this 
+year since APA has provided fewer funds for consultants to 
+organize raids.  The sell-through rate (percentage of 
+enrolled students buying legitimate copies of a textbook) has 
+not increased:  this could be due to piracy moving further 
+underground or due to other economic factors (recession, weak 
+won). 
+ 
+Video/Computer Games: 
+ 
+Electronic Arts:  Local office plays limited role on IPR and 
+enforcement.  EA Korea is trying to compile a list of 
+infringing sites, but most sites do not originate in Korea. 
+Online consumer games are more popular than console games in 
+Korea, and are more difficult to pirate. 
+(NOTE:  the Embassy has not been approached by any U.S. 
+patent or trademark rights holder with any concerns about 
+Korea's IPR regime.) 
+ 
+¶10.  (SBU) On-line Piracy - a Special Challenge: 
+ 
+All advanced economies are facing a growing threat of digital 
+piracy, and that challenge is pronounced in Korea, which 
+regularly registers as a country with one of the world's 
+highest penetration rates for broadband and other high-speed 
+internet services.  IPR stakeholders believe the Korean 
+Government has become cognizant of the need for special 
+measures to combat this growing threat.  In part this 
+reflects growing global regulatory trends (a constant 
+benchmark for Korean regulators), but it also reflects a 
+growing recognition that digital piracy, if unchecked, could 
+deal a potentially fatal blow to Korea's cultural industries, 
+which remain overwhelmingly dependent on Korea's domestic 
+market.  Enforcement resources and legal authorities for 
+online IPR enforcement increased significantly in 2008.  The 
+number of documents deleted climbed dramatically in 2008. 
+With characteristic Korean zeal, MCST contacts boasted that 
+the initial draft of the 2008 bill combining the Copyright 
+Act and Computer Programs Protection Act had anti-piracy 
+provisions that were the strongest in the world (although 
+some were amended as the bill was debated in the National 
+Assembly).   When asked about the situation in Korea, post's 
+MPAA (motion picture) contacts said that between the growing 
+access to high-speed Internet (which facilitated piracy) and 
+the growing ROKG resources devoted to online enforcement, 
+they found the overall situation with on-line piracy in Korea 
+to be about the same or slightly improved -- essentially the 
+same situation MPAA faced in Japan, Taiwan, Hong Kong and 
+Singapore, which they saw as Korea's peer group.  Korea can 
+not reverse the dissemination of digital technology, any more 
+than those countries can (or the United States).   But it is 
+clearly trying to seize the initiative in the fight against 
+digital piracy, and by all measures saw significantly greater 
+results in 2008. 
+ 
+Recommendation 
+-------------- 
+ 
+¶11.  (SBU) Few countries have come as far on IPR in as brief 
+a period as Korea.  Korean IPR experts trace the start of 
+Korea's IPR regime to U.S. trade pressure in the late 1980's. 
+ At the time, they acknowledge, Koreans remained unconvinced 
+about the benefits of stronger IPR, but reluctantly agreed to 
+create a viable IPR system to preserve Korea's access to the 
+U.S. market.  Today, two decades later, Korea is a major 
+generator of intellectual property -- patents, copyrights, 
+trade secrets and even trademarks -- and has a strong, 
+undisputed commitment to effective enforcement, both 
+domestically and internationally.  While the United States 
+continues to serve as Korea's principal benchmark for IPR, 
+Korea hopes to work with us as a partner on IPR, not just 
+bilaterally but also in regional and multilateral bodies as 
+well.  U.S. stakeholders, while referencing the universal 
+fight against new forms of digital piracy, tell us that in 
+the scope of its IPR efforts, and its readiness to listen to 
+foreign concerns, Korea has become one of the pace-setting 
+countries in the region. 
+ 
+¶12.  (SBU) The significant improvements in Korea's IPR regime 
+and enforcement over the past year -- perhaps the most 
+significant agenda of new ROKG IPR measures in the past 
+decade -- would be impressive in their own right, and reflect 
+the personal commitment of President Lee (and his government) 
+to stronger IPR protection.  What makes them particularly 
+noteworthy is that coming the year after the KORUS FTA was 
+concluded, with its strong bilateral IPR chapter, these new 
+moves have been largely self-generated, rather than in 
+response to foreign pressure.  The ROKG's commitment to these 
+measures largely came as a (pleasant) surprise to U.S. IPR 
+stakeholders, rather than as a result of painstaking 
+bilateral negotiations.  This demonstrates that the 
+commitment to strong, effective IPR protection has reached 
+critical mass in Korea, is self-generated rather than 
+externally driven, and is an encouraging portent for future 
+handling of IPR issues in Korea. 
+ 
+In view of the above, Embassy Seoul recommends that Korea be 
+removed from the Special 301 Watch List in 2009. 
+STEPHENS
+</file>

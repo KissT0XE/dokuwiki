@@ -1,0 +1,60 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL155  |  2006-01-12 08:27  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREF PHUM PREL KS KN }}  |
+====== 제 목: 한국, 미국 정부의 탈북자 전략을 연구 ======
+기 밀 서울 000155
+
+국방부망 배포
+
+국방부망 배포
+
+행정명령 12958: 비밀해제: 08/18/2015
+태그: PREF PHUM PREL KS KN
+제 목: 한국 미국 정부의 탈북자 전략을 연구
+
+참 조: STATE 04712 
+참조하는 전문: [[06seoul1108|06SEOUL1108]], [[06seoul471|06SEOUL471]]
+
+분류자: 분류자: 정치 군사 팀장 김성용(역주: 성김 전 주한 미국 대사)근거 1.4 (b), (d).
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/12/13 03:32//
+
+1. (기밀) 1월 12일 대사관 정무 직원은 탈북자 처리와 관련 (탈북자가) 태국, 몽골, 러시아에 접근하는 방법을 지원해 달라고 요청하는 참조 전문 외교 문서를 김기웅 외교통상부 대북정책협력과 과장과 조형화 과장 대리에게 전달하였다. 김기웅과 조형화는 이 문제는 복잡한 문제라 신중하게 심사숙고해 응답할 필요가 있다고 지적하였다. 그들은 정부가 잠재적인 북한 난민을 위해 여행 서류를 발급해주는 문제, 연루된 잠재적인 탈북자의 인원, 미국 재정착한 첫 탈북자 사례에 대한 언론의 반응에 대해 특히 관심을 표명하였다.
+
+2. (기밀) 앞선 1월 12일 회동에서 버시바우 대사는 반기문 외교부 장관에게 참조 전문 외교문서를 간단히 소개하였다(개별 전문).
+버시바우
+
+[[https://sites.google.com/site/poirotkr/1/06seoul155|포와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+https://wikileaks.org/cable/2006/01/06SEOUL155.html
+<file rtf 06SEOUL155.rtf>
+C O N F I D E N T I A L SEOUL 000155 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 08/18/2015 
+TAGS: PREF PHUM PREL KS KN
+SUBJECT: ROK STUDYING USG NORTH KOREAN REFUGEE STRATEGY 
+ 
+REF: STATE 04712 
+ 
+Classified By: A/POL Sung Y. Kim.  Reasons 1.4 (b), (d). 
+ 
+¶1.  (C) On January 12, poloffs delivered reftel demarche, 
+which requested support for approaches to Thailand, Mongolia, 
+and Russia on processing North Korean refugees, to Kim 
+Ki-woong, Director of the Inter-Korean Policy Division at the 
+Ministry of Foreign Affairs and Trade, and Deputy Director 
+Cho Hyung-hwa.  Kim and Cho noted that this was a complicated 
+issue and required careful study to allow a considered 
+response.  They expressed particular interest in which 
+government would issue travel documents for the potential 
+refugees, the number of potential refugees involved, and the 
+publicity expected from the first resettlement cases to the 
+United States. 
+ 
+¶2.  (C) In an earlier meeting on January 12, the Ambassador 
+briefly previewed reftel demarche to Foreign Minister Ban 
+Ki-moon (septel). 
+VERSHBOW
+</file>

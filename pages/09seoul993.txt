@@ -1,0 +1,86 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL993  |  2009 June 22, 06:55  |  미분류  |  주한미국대사관  |  {{tag>EAID EFIN PK KS }}  |
+====== 제 목: 한국, 도쿄 파키스탄 원조국 회의에 공여 약속 ======
+
+미 분 류 서울 000993
+
+국방부망 배포
+
+국무부 남·중앙아시아국, 아프간·파키스탄 특별대사 비서실
+
+행정명령 12958: 해당없음
+태그: EAID, EFIN, PK, KS
+제 목: 한국, 도쿄 파키스탄 원조국 회의에 공여 약속
+
+참조: SECSTATE 61218
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/09/19 00:52//
+
+1. 외교부 개발협력과 함정한은 6월 19일 참조 전문에 대해 반응을 보였다. 한국은 도쿄 파키스탄 원조국 회의에서 약속한 총 미화 2억 달러 공여액 중에 8천만 달러를 차관 형식으로 3백만 달러는 무상 원조의 형식으로 회계연도 2009~2010년 집행될 예정이지만, 예산 집행은 한·파키스탄 회담에서 기금이 사용될 사업을 선정하기 전까지는 이뤄지지 않을 것이라고 그는 말했다. 함정한은 한·파키스탄 회담은 빠르면 9월 중에 열릴 공산이 크다고 말했다. 외교통상부(외교부)와 한국국제협력단(코니카)가 무상 원조를 관리할 예정이고 차관 형식의 원조는 기획재정부가 관리하게 된다.
+
+2. 한국의 공여 약속은 다음과 같은 방식으로 구성되어 있다:
+
+총공여액: 미화 2억 달러
+
+공여 형태: 차관 1억8천만 달러; 무상 원조 2천만 달러
+
+연도별 계획:
+2010년: 미화 8천 3백만 달러( 미화 8천만 달러는 차관/미화 3백만 달러는 무상원조)
+2011년: 미화 6천 7백만 달러(미화 6천만 달러는 차관/미화 7백만 달러는 무상원조)
+2012년: 미화 5천만 달러(미화 4천만 달러는 차관/미화 천만 달러는 무상원조)
+
+무상원조는 지원 분야별로 우선순위 부여: 인적 자원 개발, 교육, 보건, 정부 능력 배양
+
+무상원조/차관 사업 모두 (한국과 파키스탄이) 공동으로 선정한다.
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL993.rtf>
+UNCLAS SEOUL 000993 
+ 
+SIPDIS 
+ 
+STATE FOR SCA AND S/SRAP 
+ 
+E.O. 12958: N/A 
+TAGS: EAID, EFIN, PK, KS 
+SUBJECT: ROK'S TOKYO DONOR CONFERENCE PLEDGE PLAN FOR 
+PAKISTAN 
+ 
+REF: SECSTATE 61218 
+ 
+1.  In response to reftel, Ham Jeong-han of the Development 
+Cooperation Division on June 19 said that from the ROK's 
+total USD200 million pledged at the Tokyo Donor Conference, 
+USD80 million in soft loans and USD3 million in grant aid are 
+scheduled for release in the 2009-2010 fiscal year, but the 
+release cannot occur until after a ROK-Pakistan meeting where 
+they will select the projects for funding.  Ham said the 
+ROK-Pakistan meeting likely would occur in September, at the 
+earliest.  The Ministry of Foreign Affairs and Trade (MOFAT) 
+and the Korean Overseas International Cooperation Agency 
+(KOICA) will administer the grant aid, while the Ministry of 
+Finance and Planning will administer the soft loan aid. 
+ 
+2.  The ROK's pledge is structured in the following way: 
+ 
+--  Total Amount:  USD200 million 
+ 
+--  Characteristics:  USD180 million soft loan; USD20 million 
+grant aid 
+ 
+--  Yearly plan: 
+2010:  USD83 million (USD80 million soft loan/USD3 million 
+grant aid) 
+2011:  USD67 million (USD60 million soft loan/USD7 million 
+grant aid) 
+2012:  USD50 million (USD40 million soft loan/USD10 million 
+grant aid) 
+ 
+--  Grant aid priority assistance areas: human resources 
+development, education, health, and government capacity 
+building 
+ 
+--  Projects for both grant aid and soft loans are selected 
+jointly. 
+STEPHENS 
+</file>

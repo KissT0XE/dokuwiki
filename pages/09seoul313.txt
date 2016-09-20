@@ -1,0 +1,185 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL313  |  2009-02-27 08:52  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV  PREL PINR KN KS }}  |
+
+====== 제 목: 핵심 법안의 진척 의심된다. ======
+기 밀 SEOUL 000313 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+행정명령 12958: 비밀해제: 02/27/2019 
+태그: PGOV (([Internal Governmental Affairs])), PREL (([External Political Relations])), PINR (([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)])) 
+제목: 핵심 법안의 진척 의심된다. 
+분류자: 정치 참사관 조셉 윤((번역주: 정치과 공사 참사관, 줄여서 정치 참사관이다, POL M/C =>political minister counselor Joseph Y. Yun.))  근거 1.4 (b,d).
+번역자: PoirotKr (번역주: 트위터 사용자 이름) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/05 17:36//
+
+===== 요약 =====
+1. (기밀) 요점. 국회의 현 임시국회 회기는 3월 3일에 종료된다. 여당 한나라당은 이전 국회 회기에서 진전을 이루지 못했던 경제 개혁 법안과는 별개로 몇 가지 논란을 사는 법안을 관철하겠다고 공언하였다. 제1야당 민주당은 한미 FTA와 미디어 개혁 법안을 저지하겠다고 선언한 이후 꽉 막힌 국회 재현이 불가피할 것으로 보인다. 주한미군의 돈줄을 일부 담보하는 데 필요한 방위비 분담금 특별협정 법안을 외통위가 승인하고 본회의에 상정하기 위해 2월 26일 한나라당과 민주당이 한미 FTA 문제에 합의하면서 외교통상통일위원회(외통위) 위기 국면을 모면하였다. 그러나 상당 부분 언론의 관심은 상임위 위원장이 직권으로 상정한 미디어 개혁 법안을 둘러싼 거듭되는 논란에 할애되었다. 2월 27일 본회의 개회가 예정되어 있었지만, 소집되지 않았고 방위비 분담금 특별협정, 해적 소탕 협력, 평화 유지군 활동과 같은 미국에 중요한 법안의 운명에 대해 의문이 제기되었다. 이와 아울러 이명박 정부의 제안인 세금 감면, 규제 완화, 경제 활성화 법안도 마찬가지였다. 요약 끝
+
+===== 위험한 국회 파행 =====
+2. (기밀) 2월 25일 미디어 문제를 취급하는 문방위 위원장 한나라당 고홍길 의원은 여야 의원들이 의견 차이를 좁히지 못하자 미디어 개혁 법안을 직권으로 상정하는 권한을 발동하였다. 미디어법 직권 상정 이후에 민주당 의원들은 상임위 회의실에서 연좌시위를 시작하며 한나라당의 사과를 요구하고 입법 현안과 관련 여당과 협력하지 않겠다고 선언했다. 또한, 수요일 외교통상통일위원회(외통위)는 법안심사 소위에서 한미 FTA 비준 동의안을 가결하여 전체 회의에 넘겼다. 민주당 의원들은 법안심사 소위 표결 직전에 퇴장하였다. 민주당 의원들은 외교통상통일위원회 회의실 점거하고 법안심사 소위가 다른 법안을 심사하지 못하게 막았다.
+
+3. (기밀) 2월 26일 양당은 외교통상통일위원회에서 방위비 분담금 비준동의안을 상정할 수 있도록 합의했다. 그 대가로 한나라당 의원들이 한미 FTA 비준동의안을 외통위에서 강제로 가결하지 않기로 했다. 그러나 미디어 개혁 법안을 둘러싼 논란이 계속되는 가운데 국회의장 김형오는 만일 다음 화요일까지 여야가 타협하지 못했을 경우 미디어 법안을 의장 직권으로 본회의에 직접 상정할 가능성을 배제하지 않겠다고 말했다. 2월 27일 김 의장의 정책비서관 이명우는 방위비 분담 비준동의안과 일부 경제 법안을 김 의장이 4월 2일 본회의에 넘길 예정이라고 대사관 정무 직원에게 말했다. 주말 내내 주요 정당들은 어떤 법안을 표결에 부칠지 협상할 거라고 이 비서관은 설명하였다.
+
+===== 해군 파견 미뤄질까? =====
+4. (기밀) 2월 19일 국회 국방위원회는 한국의 어선과 화물선을 해적으로부터 보호하기 위한 법안을(국군부대의 소말리아 해역 파견 동의안) 통과시켰다. 신설된 외교통상부 국제안보과 과장은 한국 정부가 아덴 만의 해적 소탕을 위한 국제적인 노력에 합류하기 위해 해군 함정을 파견한다는 의사를 2월 24일 대사관 정무 직원에게 확인해 주었다. 파견 동의안이 본회의 표결에 회부된 상태에서 방위비 분담금 비준동의안 같은 법안과 마찬가지로 미디어 개혁 법안을 둘러싼 충돌로 인해 볼모로 잡혀 있다.
+
+===== 평화유지군 지연 =====
+5. (기밀) 2월 25일 외교통상부 유엔과는 국회가 평화 유지 활동 법안에 대해 아직 논의 중이라고 대사관 정무 직원에게 확인해줬다. 동 법안은 평화 유지 활동을 국회가 사전에 승인할 수 있도록 한다. 다만 해당 동의안이 매년 갱신되어야만 한다. 외교통상부에 의하면 까다로운 대목은 국회가 원치 않는 경우 평화 유지 병력 파견을 중단할 권능을 부여하는 철수 조항과 파병 동의안이 유엔 평화 유지 활동에만 국한할 것인지 아니면 유엔은 아니지만, 다국적 평화 유지 활동도 포함할지 여부이다. 우리 외교통상부 연락선은(정보원) 국회가 평화유지군 파병 법안을 비준할지 알지 못했다. 다만 4월 이전에는 해결될 것 같지 않다고 한다.
+
+===== 본회의 통과 가능성 =====
+6. (기밀) 현재 국회 충돌은 1월 초 한나라당과 민주당의 같은 법안들을 놓고 말 그대로 격투를 벌였던 파행의 재판이다. 외통위 타협은 방위비 분담금 비준동의안 본회의 상정 필요성을 인정한 중요한 조치지만, 미디어 법안의 계속되는 논란을 보면 과연 본회의에서 법안을 마무리 지을 수 있을지 또는 3월 2일 본회의가 예정대로 소집될 것인지 의구심을 자아낸다. 민주당이 국회 의장의 개의 선언을 못 하게 막는 단상 점거를 못하게 할 수 있다면 한나라당이 해당 법안을 관철하기 위한 원내 다수 의석을 확보하고 있다. 한 가지 타협안은 미디어법을 연기하되 다른 중요한 법안들은 통과시키는 것이 현명해 행보처럼 보이지만, 한나라당은 논란을 사는 22개 미디어 법안을 직권 상정하지 않겠다는 2월 26일 김형오 의장의 발언에도 밀어붙일 의지가 확고해 보인다. 한나라당 중진 의원 박근혜는 논란이 되는 법안을 국회 의장의 직권 상정에 따라 강제로 통과시키는 일에 반대한다고 거들고 나섰다.
+
+===== 논평 =====
+7. (기밀) 청와대는 이러한 소동에 지금까지 거리를 두고 있는데 사면초가에 몰린 이 대통령에게는 좋은 결정이다. 대통령이 휴전 협상에 가세해 힘을 더하지 않은 채 (한국에선) 미스터리하게 중요한 합의 과정은 스스로도 쇠약한 국회 몫으로 떠넘겨졌다. 국회는 국민이 선호하는 듯한 합의 기반의 접근을 제도화하기 위해 몸부림 치는 와중에 중대한 기로에 서 있다. 그럼에도 많은 충돌 상황이 빚어질 것으로 확실한데 논란을 사는 법안을 통과시키려고 한나라당이 결의를 다지고 있고 민주당은 당의 유일한 전략인 의사 진행 방해로 인해 국회 파행은 계속될 것이다.
+스티븐스
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 참조 링크 =====
+  - [[http://www.hani.co.kr/arti/politics/assembly/340875.html |집권2년 ‘언론법 기습상정’ 출발]] //한겨레//
+  - [[http://www.hani.co.kr/arti/politics/assembly/340875.html | 다시 주목받는 ‘김형오의 선택’ … 직권상정 가능성 시사]] //한겨레//
+  - [[http://www.mediagaon.or.kr/jsp/sch/common/popup/newsviewpopup.jsp?newsId=01101101.20090220100000963 |3월 소말리아에 청해부대 파견]] //한국일보//
+  - [[http://www.ohmynews.com/NWS_Web/Articleview/article_print.aspx?cntn_cd=A0001161470|성급한 이동관, 자가당착 나경원]]//오마이뉴스//
+  - [[http://www.mediatoday.co.kr/news/articlePrint.html?idxno=98408|[사설] 언론 생태계 바로잡기는 종편 백지화부터]]//미디어오늘//
+===== 원본 다운로드 =====
+<file rtf 09SEOUL313.rtf>
+C O N F I D E N T I A L SEOUL 000313 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/27/2019 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: PROGRESS ON KEY LEGISLATION IN DOUBT 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY.  The current special session of the National 
+Assembly ends on March 3.  The ruling Grand National Party 
+(GNP) had pledged to push through several controversial bills 
+in addition to economic reforms after failing to make 
+progress in previous sessions.  After the main opposition 
+Democratic Party (DP) vowed to block the KORUS FTA and media 
+reform legislation, deadlock in the National Assembly seemed 
+again inevitable.  The crisis in the Foreign Affairs, Trade 
+and Unification (FATU) committee was averted, however, on 
+February 26 when the GNP and the DP came to an agreement on 
+the KORUS FTA in order to get the Special Measures Agreement 
+(SMA) legislation, necessary in part to ensure USFK's funding 
+stream, approved by the committee and sent to the plenary. 
+Getting the lion's share of press attention, however, is the 
+ongoing controversy over the media reform bills, which the 
+relevant committee chair unilaterally moved forward.  The 
+plenary session, scheduled to start on February 27, did not 
+convene, raising questions about the fate of legislation 
+important to the U.S. -- like SMA, anti-piracy cooperation, 
+and peacekeeping operations -- as well as the Lee 
+Administration's proposals for tax cuts, deregulation and 
+other economy-boosting measures.  END SUMMARY. 
+ 
+------------------ 
+Danger of Deadlock 
+------------------ 
+ 
+¶2.  (C) On February 25, GNP legislator Ko Heung-kil, chair of 
+the committee that handles media affairs, invoked his 
+authority to send the media reform bills forward after 
+lawmakers were unable to resolve differences of opinion. 
+Following Ko's decision on the bills, DP lawmakers began a 
+sit-in protest in the committee chamber, calling for an 
+apology from the GNP and vowing not to cooperate with the 
+ruling party on legislative issues.  Also on Wednesday, the 
+Foreign Affairs, Trade, and Unification Committee's (FATU) 
+legislative subcommittee endorsed a motion to move the 
+U.S.-Korea Free Trade Agreement (KORUS FTA) to a vote in the 
+full committee after DP lawmakers left the subcommittee 
+session in protest.  DP lawmakers had also occupied the FATU 
+committee room, preventing the committee from deliberating 
+other legislation. 
+ 
+¶3.  (C) On February 26 the two parties came to an agreement 
+in the FATU committee that allowed the SMA legislation to 
+move forward in exchange for GNP lawmakers' commitment not to 
+force the FTA through the committee.  The controversy over 
+media reform remains, however, and National Assembly Speaker 
+Kim Hyung-o said he would not rule out the possibility of 
+invoking his authority to put the media reform bills directly 
+to a plenary vote if the rival parties did not reach a 
+compromise by next Tuesday.  Speaker Kim's policy chief Lee 
+Myung-woo told poloff February 27 that the SMA as well as a 
+few economic bills would be brought to a plenary vote on 
+March 2 by the Speaker.  Throughout the weekend, the main 
+parties would negotiate which bills to vote on, Lee explained. 
+ 
+------------------------- 
+Naval Deployment Delayed? 
+------------------------- 
+ 
+¶4.  (C) On February 19, the National Defense Committee passed 
+the motion to move forward legislation aimed at protecting 
+South Korean fishing and cargo ships from pirates.  The 
+Director of MOFAT's newly reorganized International Security 
+Affairs Division, confirmed to poloffs on February 24 the 
+ROKG's intention to deploy a naval vessel to join the 
+international anti-piracy efforts in the Gulf of Aden.  With 
+the legislation to approve a dispatch up for a vote in the 
+plenary, the legislation, like SMA, is hostage to the 
+conflict over media reform. 
+ 
+---------------------- 
+Peacekeeping Postponed 
+---------------------- 
+ 
+¶5.  (C) MOFAT's UN Division on February 25 confirmed to 
+poloffs that the National Assembly is still discussing the 
+peacekeeping operations (PKO) bill.  The bill would permit 
+the National Assembly to pre-approve the ROK's participation 
+ 
+ 
+in PKOs, although this authorization would have to be renewed 
+annually.  The sticking points, according to MOFAT, are over 
+a withdrawal clause that would give the National Assembly the 
+ability to stop the dispatch of ROK troops to PKOs it wants 
+to avoid, and the question of whether the bill should be 
+restricted to UN-only PKOs or include other non-UN 
+multilateral PKOs.  Our MOFAT contact did not know if, or 
+when, the National Assembly would ratify PKO legislation, but 
+it is unlikely to be addressed before April. 
+ 
+--------------------- 
+Plenary Possibilities 
+--------------------- 
+ 
+¶6.  (C) The current conflict in the National Assembly echoes 
+the deadlock in early January when the GNP and DP literally 
+came to blows over the same set of bills.  The compromise in 
+the FATU committee was an important step and an 
+acknowledgement of the need to move the SMA legislation 
+forward, but the media reform controversy continues to raise 
+doubts about what can be accomplished in the plenary or if 
+the scheduled March 2 plenary will convene.  The GNP has the 
+majority to push the legislation through if they can keep the 
+DP from occupying the Speaker's chair, which prevents him 
+from calling the plenary session to order.  A compromise that 
+would delay media reform but pass other important bills seems 
+like the wisest course of action, but the GNP is apparently 
+determined to forge ahead despite the Speaker's public 
+statement February 26 that he would not bring the 22 
+controversial media laws directly to a plenary vote.  GNP 
+heavyweight Park Geun-hye also weighed in saying she opposed 
+forced passage of controversial laws by the Speaker. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶7.  (C) The Blue House has so far maintained its distance 
+from the fray -- a good decision for beleaguered President 
+Lee.  Without the benefit of the President weighing in to 
+negotiate a truce, however, the National Assembly is left to 
+its own weak devices for achieving the consensus that is so 
+mysteriously important.  The National Assembly is at an 
+important crossroads as it struggles to institutionalize the 
+consensus-based approach the public seems to prefer. 
+Nevertheless, more conflict is sure to come, as the GNP's 
+determination to pass controversial legislation and the DP's 
+obstructionism -- the party's only clear strategy -- continue 
+to cripple progress in the National Assembly. 
+STEPHENS
+</file>

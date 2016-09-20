@@ -1,0 +1,739 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2974  |  2007-10-01 10:31  |  2011-08-30 01:44  |  기밀  |  주한미국대사관  |  {{tag>KN KS PGOV PREL }}  |
+====== 제 목: 10월 2~4일 남북 정상회담에서 주목해야 할 이슈 ======
+기 밀 SEOUL 002974
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 10/01/2017
+태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations]))
+제 목: 10월 2~4일 남북 정상회담에서 주목해야 할 이슈
+참조: [[07seoul2481|가. REF A - SEOUL 2481]] –-- 노 대통령 8.15 기념식 연설
+[[07seoul2906|나. REF B - SEOUL 2906]] --- 백종천 통일외교안보정책실장 남북 정상회담 언급
+다. REF C - SEOUL 2887 -- 통일부 장관 정상회담 언급
+[[07seoul2529|라. REF D - SEOUL 2529]] --- 외교부 장관과 통일부 장관의 남북 정상회담 언급
+[[07seoul2694|마. REF E - SEOUL 2694]] --- 남북 정상 회담, 성사 과정
+[[07seoul2648|바. REF F - SEOUL 2648]] --- 정상회담의 의제로써의 북방한계선(NLL)
+[[07seoul2410|사. REF G - SEOUL 2410]] --- 남북 정상회담에서 경제 협력 확대할 듯
+[[07seoul2573|아. REF H - SEOUL 2573]] --- 이명박 10월 남북 정상회담에 반대하고 나서
+[[07seoul2940|자. REF I - SEOUL 2940]] --- 정세현 전 통일부 장관 남북정상 회담 언급
+분류자: 알렉산더 버시바우 대사. 근거 1.4 (b/d)
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/20 03:40//
+===== 요점 =====
+
+1. (기밀) 노무현 대통령과 300명의 사업가, 언론인, 그리고 지원단으로 구성된 수행단은 김정일과의 두 번째 남북 정상회담을 위해 10월 2일 아침에 자동차 편으로 서울에서 출발해 평양으로 간다. 이번이 노무현과 김정일이 얼굴을 마주하는 첫 만남이다. 정상회담이 이루어지기까지 남북을 갈라 세우는 근본적인 현안에 대한 논의가 새롭게 이루어졌다. (2000년 6월 김대중 대통령을 동반한 24명에 비해 대규모 수행단이 말하는 점은 양측의 엘리트 간의 새로운 인간관계를 낳을 수 있다는 의미다. 현안들은 본질적이다: 합의된 안건 없이, 한국정부는 경제협력의 증대와 평화, 그리고 신뢰 구축 조치와 인도주의적 사안에 초점을 두길 원한다. 8월 15일 연설에서, 노무현은 정상회담은 //“한반도의 평화와 안정을 더욱 공고히 하고, 남북 공동번영을 앞당기기”// 위함이라고 말하였다. (참조 가.) 북한 경험이 상당한 한국정부 당국자들은 북한이 실제 의도하는 청중은 한국 못지않게 미국도 해당하긴 마찬가지이며, 한국정부를 거쳐 미국정부와의 관계 정상화 길을 열려는 김정일의 의향이 담겨있다고 말하였다.
+
+2. (기밀) 분명한 점은, 두 번째 남북 정상회담을 열 만한 타당한 이유가 있으며, 그 결과를 신중히 지켜봐야 할 타당한 이유도 있다. 한국 국민은 회담에 대한 매우 제한적인 기대치가 있고 일부는 여러 이유를 들어 불안해한다: 노 대통령에 대한 대체적인 반감 (11월 중순 지지율이 19.5퍼센트); 정상회담 시기가 늦춰지면서 한국 대통령 선거를 단지 11주 앞두고 있어 대게 정치적 도박으로 비치고 있는 점; 호혜주의를 염두에 두지 않고 북한 경제에 혜택을 제공하고 평화 선언을 지지하며 비핵화를 경시하는 노무현의 걱정스러운 발언((번역 주: 버시바우 대사의 매우 주관적인 발언이다.)); 그리고 2000년 이후로 첫 경험의 흥분이 실종되었다는 사실 등이다. 모양 상, 노무현이 체제 선전으로 채워진 아리랑 축전 관람에 동의한 점과 보도에 따르면 유엔안보리 결의안 1718호 정신을 무시하고 김정일에게 홈시어터 시스템을 제공할 계획은 도움이 못 된다.
+
+3. (기밀) 이번 정상회담이 전면 비핵화와 다른 신뢰 구축 조치 행보로 가는 전면적인 변혁이 아니라, 현상(現狀)에 기반을 둔 경협을 확대할 거라는 직감이 든다. 우리는 가능한 회담 성과는 다음과 같이 예상한다:
+
+  * 경제 협력: 추가로 개성과 같은 공업지구나 다른 사회기반시설 건설에 대한 원칙적인 합의; 한국 //“재벌”//이 북한에 투자 의지를 밝힐 가능성.
+
+  * 평화와 신뢰 구축: 한반도의 평화 지지 성명과 4개 당사국 평화 회담의 조기 추진 요청 가능성; 서해 북방한계선 근처 공동어로 논의; 비무장 지대에 경계 초소 철수 가능성 논의.
+
+  * 인도주의 및 기타 분야: 북한에 대한 인도주의 원조를 늘리겠다는 한국정부의 동의; 이산가족 상봉을 늘리겠다는 북한의 제안; 전후 납북자에 관련 진전.
+
+  * 비핵화: 6자 회담 지지 언급이 있을 듯.
+
+  * 북핵 문제에 관해 김정일을 압박하길 원하지 않는다는 노 대통령의 최근 발언을 고려할 때, 위험스러운 점은 비핵화 및 다른 영역에서 북한의 진전 노력과 관계없이 경협을 크게 확대하고 평화 협정으로 나아갈 준비를 한국이 한다는 메시지이다. 그러나 그런 위험성은 10월 4일 부로 5개월밖에 남지 않은 노무현의 임기와 국민적 회의적 시각으로 의해 희석되고 있다. 게다가, 대사와의 수차례 논의에서도 방증 되듯이 노무현이 경제협력의 증대와 평화 논의에 대한 전제조건으로 비핵화가 필요함을 강조할 거라는 한국정부 고위 당국자 사이 강한 공감대가 있다. (참조 전문 나, 다, 라, 그리고 마.) 그러나 어떻게 비핵화 문제가 펼쳐질지는 두고 볼 일이며, 특히 6자 회담에 대한 김정일의 실천 의지의 세기와 관련해 불확실하다. //요점 끝.//
+
+===== 일정이 잡혔지만, 의제는 없다 =====
+
+4. (기밀) 10월 2~4일 남북정상회의 의제는 확정되지 않았는데, 그 이유는(2000년 당시와 마찬가지로) 북한 측 누구도 김정일을 대변할 사람이 없다고 보기 때문이다. 대신에 한국이 통지받은 내용은 대개 일반적인 남북회담의 일정표뿐이다:
+
+  * 10월 2일: (대통령 승용차에 오른) 노 대통령과 권양숙 영부인, 그리고 (버스에 오른) 수행단은 서울에서 출발해 개성을 가로지르는 서부 회랑을 통해 평양에 도착할 것이다. 노무현은 언론의 야단스런 취재 열기와 더불어 30~40미터의 군사분계선을 걸어서 횡단할 예정이다. 평양 주민이 거리에 줄을 서 노무현을 환대할 것으로 예상한다. 노무현은 (명목상의 국가 원수) 김영남 최고인민회의 상임위원장과 회동하게 되며, 김영남은 국빈 만찬을 주재할 예정이다. (김정일이 참석할 수도 있고, 아닐 수도 있다.) 그 뒤로 노무현과 김영남은 아리랑 축전을 관람할 예정이다.
+
+  * 10월 3일: 노무현은 당일 대부분을 김정일과 회동할 것으로 예상한다. 노무현은 그 뒤에 아리랑 축전에 아마도 김정일과 함께 참석할 것이며, 그 뒤에는 노무현이 만찬을 주재할 텐데, 김정일이 참석할 예정이다. (2000년 6월 정상회담과 나란히) 공동 선언문도 그날 저녁에 아마 나오게 된다.
+
+  * 10월 4일: 노무현은 (김정일도 함께할) 남포 서해갑문을 비롯해 대표적인 산업과 문화 시설을 방문할 예정이다. 노무현과 김정일은 고별만찬을 한다. 노무현은 보도에 따르면 귀국하는 도중에 개성공업지구를 방문할 계획이다.
+
+5. (기밀) 한국의 의제: 우리는 두 지도자가 다양한 현안을 논의하기에 충분한 시간이 있으며, 또한 대부분 일대일 회동일 것으로 예상한다. 만일 2000년 정상회담을 사례로 보면, 이러한 비공개 시간에는 정해진 안건 없이, 두 주인공이 관심 사안을 제기하도록 하게 된다. 2000년에는 김정일이 남한 사람들과 미국사람들의 행하는 모든 것에 관해 분개에서 동정심까지 다양한 감정을 보여 주었다. 우리의 청와대 의논상대는 노무현은 김대중과는 사뭇 다르며, 싶게 물러섬이 없을 거라고 우리를 상기시켜 주었다. 노무현은 더 꼼꼼하며, 최소한 노무현의 머릿속에는 안건이 있을 것이다. 백종천 통일외교안보정책 실장은 한국정부가 목표로 하는 논의와 공동 성명의 3분의 1이 경제 협력이 될 것이며, 3분의 1은 평화 체제와 군사적 신뢰 구축 조치, 그리고 3분의 1은 인도주의와 이산가족 상봉, 그리고 통일 문제가 해당한다. (참조 전문 나).
+<WRAP center round info>
+//**미국식 동서 회랑의 의미는?**//남북을 연결하는 도로는 경의선 구간이(서부 회랑) 통일대교 북단～개성 간 12.1km이고 동해선 구간이(동부 회랑) 송현리～북고성 간 24.2km 이다. 철도는 경의선 구간이 문산～개성 간 27.3km이고 동해선 구간은 제진～금강산 간 25.5km입니다. 자세한 내용은 [[http://bit.ly/RvTvTI|남북 철도·도로연결사업에 대해 알고 싶어요.]]
+
+</WRAP>
+===== 경제 협력 =====
+
+6. (기밀) 경제적 측면에서 정상회담의 가능한 성과는 (노무현이 방문할, 아마도 김정일도) 남포항을 개선하는 제안이 있고, 아마도 그곳에 산업단지를 한국이 건설하는 제안도 가능하다. 또한, 사회 간접 자본이라는 명목 하의 약칭 북한의 사회 기반 시설을 개선하는 고속도로 건설( 종국의 통일에 대한 착수금 형식이거나 공동 번영의 과도기적 길잡이 역할). 다른 장소도 공업단지로 가능한 부지로 언급된 바 있다: (개성 인근) 해주, (중국 국경 근방) 신의주 (동해안을 따라) 원산과 나진, 그러나 두 지도자는 현재로선 하나의 지역에서 시작할 듯하며, 청와대 대변인은 최근 가능한 협력 사업을 평가함에서 상식에 기대줄 것을 언론인들에게 주의를 당부한 바 있다. 정상회담과 관련 가장 솔직한 해설자인 노 대통령은 쌍방이 북한에 산업지구와 항구를 각기 한 곳씩 개발하기로 견해를 같이 할것이며, 도로 건설을 언급했을 뿐만 아니라, 한국도로공사를 도울 //“일자리 창출”//을 할 거라고 말하기도 했다.
+
+7. (기밀) 노무현과 김정일이 확실히 동의한 정상회담 구상은 해당 사업이 착수해 가동되게 함으로써, 새 행정부가 그러한 구상을 중단시키기 어렵게 만들 생각이다. (선두 이명박 후보의 외교 정책 참모는 노무현이 이명박의 대선 승리를 상정하고 이명박이 남북 포용정책을 새롭게 조명할 기회를 무력화시키려고 하고 있다고 우리에게 불평을 토로하였다. 참조 전문 아) 해당 사업들이 비핵화 여부에 따라 착수할 것인지는 불명확하다. 청와대는 남북사업을 위한 기금을 올해 미화 5억 4,000만 달러에서 2008년에는 미화 8억 1,000만 달러로 증액시켜 줄 것을 국회에 요구하고 있다. 김대중 전 대통령은 남북 정상회담이 북한 개성공단에서 생산된 상품의 판매를 위한 합의를 도출할 거라고도 말한 바 있다.
+
+8. (기밀) 대표단에 포함된 한국의 18개 //“재벌”//의 최고 경영자들도 원칙적으로 북한에 투자하기로 동의하였다. 예를 들면, 포스코 철강 회사가 북한에 제강 공장을 제안할 수도 있고 대우도 조선 시설을 고려할 수도 있다고 언론 보도는 제시하고 있다. 다수의 많은 구상이 등장하고 있는데, 예로 비무장지대 근방 임진강 건설용 모래를 채취하는 합의가 그 예이다. (참조 전문 사). 한국의 민간 부문도 시류에 편승하는 것으로 보인다: 대한상공회의소는 50개 기업이 민간사업 부분에서 북한과 조율하기 위해서 남북경제협력포럼을 10월에 설립한다는 계획을 발표하였다. 노무현으로선 민간 투자 합의가 이상적인 이유는 해당 사업이 상호이득이란 척도에 부합하기 때문이며 (그렇지 않았다면 기업들이 투자에 동의하지 않을 거다), 해당 사업이 보조금을 지급하지 않는다고 할 적에 납세자의 돈을 취하지 않기 때문이다. 임기 말에 보조금을 약속하기에는 너무 늦은 시점이라 어렵다.
+
+9. (기밀) 공공 및 민간사업의 상세한 내용은 후속 회담에서 마련되어야만 한다. 환경부 당국자들은 한국정부는 후속 회담을 10월 경제장관 회담을 필두로 당장 시작하길 원한다.
+
+10. (기밀) 그러나 언론에서 재기하는 민간투자사업구상은 현실을 앞서 가는 것일 수도 있다. 현대 장황빈 상무는 많은 한국 기업들이 2000년 6월 정상회담의 희열감 이후에 북한에 투자 시도를 시도하였지만, 기업 대부분이 열매를 맺지 못한 이유는 북한의 변덕 (예로 제멋대로의 국경횡단), 불안정한 공급 연계망, 그리고 북한의 구매력 결여 때문이라고 우리에게 상기시켰다. 북한의 근본적인 경제 및 규제 조정을 할 준비가 되었다는 증거가 여전히 없다. 이번 정상회담에서 원칙적으로 합의한 사업을 가늠해 보면, 북한이 현지 타당성 조사를 재가할 지가 하나의 시험 무대가 된다.
+
+===== 평화 체제와 신뢰구축조치, 그리고 비핵화 =====
+
+11. (기밀) 노 대통령의 9월 11일 발언은 한국 바깥의 많은 사람은 말할 것도 없고, 많은 남한 사람들을 짜증 나게 했는데, 이번 정상회담의 핵심 의제는 평화 협정이라고 말했을 뿐만 아니라, 그와 동시에 비핵화를 //“이미 한고비 넘어간 것이고”//라면서 대단치 않게 취급하였다. 핵 문제 부분에서 //“싸움 걸길”// 원하지 않는다고 하였다. 그 말은 비핵화의 중심적 역할을 강조하고, 김정일의 비핵화 약정을 모색할 기회를 놓치지 않는 비핵화 가능성보다는 먼저 언급한 평화 협정이 그의 더 관심사이다. 비핵화를 비롯한 단계별 신뢰구축조치의 진전 등 여러 평화 협정 수단의 고려 없이도 노무현은 전쟁 종료 선언을 열망하는 듯하다.
+
+==== 비핵화 ====
+
+12. (기밀) 백종천 통일외교안보정책 실장과 몇몇 장관들, 청와대 당국자와 그 밖의 인사들은 노무현이 경제 협력의 확대와 평화 논의를 위한 선재 조건으로 비핵화가 필요함을 강조할 거라고 대사와 다른 대사관 관계자들에게 확언한 바 있다. (참조 전문 나, 다, 라 그리고 마). 예를 들어, 이재정 통일부 장관은 노 대통령이 6자 회담 성공의 필요성을 강조할 거라고 9월 18일에 대사에게 말하였다; 남북 정상회담은 //“6자 회담이 성공하도록 도울 거다.”// (참조전문 다). 비핵화 필요성을 경시하는 노무현의 9월 11일 발언에 대한 부정적인 논설의 반응을 확인하였고 (보수 논설위원 김대중이 말한 바로는 //“국민과 국가의 안위를 책임진 사람의 발언으로서는 너무 사리(事理)가 없다.”)//((번역 주: 김대중 논설위원의 실재 칼럼을 그대로 인용했다.)), 또한 부처 장관들이 회담이 초읽기에 접어들기 전에 비핵화 상자를 점검할 필요성을 강조할 듯싶어, 노무현이 비핵화 주제를 제기할 거로 대사관은 평가한다. 그러나 노무현은 8월 15일 연설에서 말했듯이, 6자 회담이 비핵화를 맡아서 하고 있고, 비핵화 문제가 제자리를 잡는 것으로 비칠 수 있다고 말하는 등 간접적인 접근방식을 취할 수도 있다. 대사는 노 대통령을 수행한 대표단의 일원인 통일외교안보비서관 윤병세와의 10월 1일 회동에서 이 문제에 대한 미국의 우려를 다시 한 번 강조하였다.
+
+==== 평화 체제 ====
+
+13. (기밀) 평화 체제에 관하여 노 대통령의 과장된 수사에도 불구, 정상회담의 가능한 성과는 2000년 남북 공동선언의 요구인 //“통일의 실현”//과 궤를 같이하는 야심 찬 성명이 될 것으로 평가한다. 그와 같다면 이번 남북회담의 요구는 //“평화의 실현”//이 될 듯하다. 노무현과 김정일은 4개 당사국이 (남한과 북한, 미합중국과 중국) 평화 논의를 위해 조속한 회담도 요구할 수 있는데, 그 이유는 한국정부가 2007년 말 이래로 그런 대화에 대한 관심을 강조해 왔기 때문이다. 그러나 한국 국민은 비핵화와 신뢰구축조치가 반드시 선행돼야 한다는 점을 이해하는 듯하다.
+
+14. (민감하지만비분류) 노 대통령의 평화에 대한 강조는 처음 남북정상회담 발표와 일관성을 유지한다. 8월 8일 남북합의서는 //“....남북관계를 보다 높은 관계로 확대 발전시켜 한반도 평화와 민족공동 번영과 조국통일의 새로운 국면 열어나가는데....//((번역 주: 실재 남북합의서 발표 내용이라 전체 내용은 바깥 고리를 읽어 보라.))”라고 주장하고 있다.
+
+15. (기밀) 한국정부 당국자들은 부시 대통령과 노 대통령의 9월 7일 회동에서 나온 //“한반도에 평화 체제를 설립하기 위한 협상을 출범하기 위해선 북한의 비핵화의 필요성에 대해 공유하고.... 인정한다”//((번역 주: 유감스럽게도 실재 회동의 회견내용은 조금 애매모호하게 처리되고 있다. 궁금하신 분들은 바깥 고리에서 해당 내용을 확인하시라. 한국어 번역도 조금 오해를 살 부분이 있다. “부시 대통령은 한반도의 현 상황을 영구적인 평화 체제로 대체하겠다는 결심을 거듭 확인 했으며, 북핵 문제가 해결이 되면 다음 단계로 이행해 나아갈 것임을 강조 하였습니다.”)).란 발표와 궤를 같이하는 모습이다. 예를 들면 이재정 통일부 장관은 11월 18일에 갖은 대사와의 평화 체제 논의에서, 노 대통령이 시드니에서 가진 부시 대통령과의 회동에서((번역 주: 바깥 고리의 주한미군대사관 누리집에 그 내용이 고스란히 담겨 있다.)) 설립된 //“한미 간의 공감대”//를 넘어서지는 않을 거라고 말하였다. (참조 전문 다).
+
+16. (기밀) 그렇긴 하지만, 노 대통령의 9월 11일 발언은 종전 선언이든 평화 협정의 시작이든 이번 정상회담의 핵심의제라고 제시한 점은 그가 평화를 구축하는 방향으로 가길 원함을 보여준다.  정치적으로 그런 판단은 노무현이 유권자들의 경제에 대한 이목을 차단하고 대신에 평화에 대한 전망에 집중하길 원하며, 사면초가에 몰린 진보 진영의 열의를 새롭게 하려고 남북 정상회담을 중대한 이해관계가 있는 도박으로 본다는 사회적 통념에 따른다. 노무현도 북한과의 교섭하고, 긍정적인 측면을 부각하길 한결같이 원하고 있는 듯한데, 북한에 대한 신뢰의 중요성을 강조하고 있다. 노무현은 어려운 신뢰 구축 조치의 상세 내용에 합의하지 못하기보다는 평화에 대한 견해를 같이하려는 거다.
+
+17. (기밀) 노무현의 평화론 여론타진에 대한 한국의 반응은 매몰찼다. 9월 13일 송민순 외교부 장관은 노무현의 발언에서 일부러 후퇴하는 모습을 보였는데, //"평화는 어느 날 아침에 갑자기 오지 않는다. 긴 과정이 필요하다."// //"갑자기 종전선언을 하면 전쟁은 끝나지만, 평화는 없는 상태가 오기 때문에 혼란이 야기될 것"//이라고 말하였다. 노무현의 첫 번째 통일부 장관인 정세현도 노무현의 대표단의 속해 있는데 우리에게 말하길, 평화 선언 관련된 이야기는 무시한다며, 그 이유는 단지 공언이기 때문이라고 했다. 신문 사설에서 8월 15일 노무현의 연설로 돌아가라고 노무현에게 촉구하고 있는데, 그 내용을 보면 이번 남북 정상회담에서 신뢰 구축 조치를 충분히 담아낸 1992년 기본 합의서를 비롯해 현존하는 합의문에 집중하겠다고 노무현은 말한 바 있다고 했다. 예를 들면 보수지 중앙일보 9월 14일 사설을 보면, //“북핵 문제를 그냥 지나치기엔 아직 갈 길이 멀다. 그리고 평화조약 논의나 한국전쟁의 공식 종전 선언은 비현실적이며 무의미하다. 그러한 행보는 한국정부가 북한의 핵 능력을 인정한다는 잘못된 인상을 줄 수 있다.”//라고((번역 주: 실제 온라인에서 기사내용은 검색이 안되므로 번역을 하였다. 중앙일보는 신문 기사 서비스는 제약이 많다. 아시는 분들은 아시겠지만 rss feed도 유료이다. 반면 다른 보수지인 조선일보와 동아일보는 기사 검색이 식은 죽 먹기이다.)) 썼다.
+
+==== 신뢰 구축 조치 ====
+
+18. (기밀) 일부 한국정부 당국자들은 노무현의 평화론에 더해 신뢰 구축 조치에 대한 강조로 보완될 거라고 제시했다. 박선원 통일외교안보 대통령 비서관은 노무현이 비무장지대에서 경계초소를 공동으로 철수하는 것을 필두로 (참조 전문 마) 실질적인 신뢰 구축 조치를 추구할 거라고 말하였다. 언론 보도를 보면 노 대통령이 비무장지대를 실제로 비무장화하는 수단으로 경계 초소 철수를 제안함으로써 //“평화지대”//로 비무장지대를 탈바꿈시킬 수도 있다고 한다. 그러한 조치는 유엔사령부와의 협의를 요하게 되는데 언론보도와는 반대로 그런 협의는 없었다.
+
+19. (기밀) 이번 정상회담에서 신뢰 구축 조치 확대 논의는 있을 성싶지 않다. 많은 퇴임 장성들의 견해에 반하면서까지 김장수 국방장관은 노무현 대표단에 참여하게 되는데, 김장수가 포함된 점은 한국정부가 정상회담 직후에 만일 북한이 동의하면, 가능한 신뢰 구축 조치의 상세 내용 논의를 위해 남북 장관급 회담을 또다시 모색하려 함을 보여준다.
+
+==== 북방 한계선(NLL) ====
+
+20. (기밀) 앞에서 다룬 경계 초소에 대한 제안과는 별개로, 평화로 가는 실질적 진전을 가져올 열쇠로 판단되는 신뢰 구축 조치에 대한 폭 넓은 논의를 이번 정상회담에서 포함할 것으로 예상하지는 않는다. 그러나 북한의 아픈 부분인 서해의 북방한계선(이하 NLL)는 그동안 많은 논의가 있었다. (참조 전문 바). 이 문제가 중요한 이유는 북한이 불법이라고 주장하고 북한 선박이 해주 직항로 접근권을 제공하기 위해 협상할 필요가 있다는 NLL에 대한 의견충돌로 말미암아 1999년과 2002년에 남북 군사회담의 재계를 가로막았고, 또한 군사충돌로 이어졌기 때문이다. 6월 중순 마지막 남북 군사 실무 회담 일정과 관련해서, 북한의 공식 언론사인 북한중앙통신은 NLL을 존속시키겠다는 남한의 고집이 군사 대립의 근원이라고 말하였다.
+
+21. (기밀) 한국은 한결같이: (1) 1992년 기본합의서 전체를 이행하는 협상에 돌입하자고 제안하였는데, NLL 논의에 앞서 군사적 신뢰조치가 이행돼야 한다고 요청하였다; 그리고 (2) 그게 실패할 경우, NLL 주변 공동어로구역 설립을 제안하였다. 한국정부는 공동어로구역은 공동 이익이라고 주장하는데, 그 이유는 제3국 (중국) 선박이 현재와 같이 풍부한 어장으로 침입하지 못하게 방지하기 때문이다. 북한은 확고부동하게 두 가지 제안을 거부하였고, (1990년대 이후로) NLL은 불법이라고 주장하고 있다.
+
+22. (기밀) NLL 협상이 계속돼야만 한다는 북한의 주장에 근거가 있긴 하지만, 1992년 기본합의서에서 NLL을 수용한 바 있음을 자기 편한 대로 무시하고 있다. 2장 11조를 보면 남과 북의 불가침 경계선과 구역은 //“지금까지 쌍방이 관할하여 온 구역으로 한다.”//라고 되어 있다. 그리고 NLL은 합의서가 서명될 당시에 시행되고 있었다. 남북 기본합의서의 부속서 중 하나인 //‘제2장 남북 불가침’//의 이행과 준수를 위한 부속 합의서를 보면: //“남과 북의 해상불가침 경계선은 앞으로 계속 협의한다.”//라고 되어 있다. 그러나 같은 부속서에 //“해상불가침구역은 해상불가침 경계선이 확정될 때까지 쌍방이 지금까지 관할하여온 구역으로 한다.”//라고 역시 되어 있다. (제10조).
+
+23. (기밀) 남북 정상회담이 발표된 직후에, 이재정 통일부 장관이 국회통일외교통상위원회 전체회의에 출석해 NLL과 관련 //“영토의 개념이 아니라 군사적 충돌을 막는 안보적 개념에서 설정된 것”//이라면서 한국정부의 유연성 관련 언론의 추측성 보도가 시작되면서 이재정은 이맛살을 찌푸리게 되었다. 김장수 국방장관과 다른 장관들은 NLL이 사실상의 영토이며, 논의 대상이 아니라고 하면서 부처 간의 다툼도 뒤이었다. 이재정 통일부 장관은 이번 문제가 언론에서 지나치게 정치 쟁점화되었다며, 한국정부는 이 문제의 제기를 계획하지 않았지만, 만일 북한이 제기한다면 한국정부는 공동어로구역을 재차 제안할 거라고 11월 18일에 대사에게 말하였다. (참조문서 다).
+
+==== 인도주의 및 기타 현안 ====
+
+24. (기밀) 한국정부는 인도적 원조를 제공할 공산이 크다. 언론 보도에 따르면 미화 10억 달러를 넘는 원조를 할 수 있다고 했다. 폭우로 말미암아 정상회담이 8월 28~30일에서 10월 2~4일로 연기된다고 하는데 북한의 농업과 경제 상황에 대한 이목을 집중시켰다. 그러나 접근 수단이 없기에 북한의 전반적인 인권 상황에 대해 분명한 내용 파악을 할만한 외국인이 없다. 어찌 됐던, 남북 사업에 대한 예산 증액 요청과 관련해서, 한국정부는 북한을 돕기 위한 2008년 인도적 원조 예산의 14퍼센트 증액을 국회에 요청하고 있다. 그렇게 되면 합쳐서 한해 당 미화 6,000만 달러 정도가 된다. 늘 있던 올해 40만 톤의 쌀 원조는 포함하지 않았는데, 쌀 원조는 기술적으로 차관이다. 통일부 당국자들은 북한이 비핵화에 진전이 있기 전에는 쌀 원조를 중단하겠다고 노 대통령이 결정하였을 당시인 올 초에 격앙되었는데, 그래서 정상회담에서의 한 가지 목표는 //“조건없는”// 원조를 늘리도록 허용하는 게 된다.
+
+==== 이산 가족 상봉 ====
+
+25. (기밀) 노 대통령은 북한의 많은 양보를 요청하러 평양에 가는 것으로 보이지는 않지만, 한가지 그가 요청하고, 아마도 얻어내고 싶은 건 이산가족 상봉의 확대일 듯싶다. 남과 북은 2000년 8월 이래로 13,000명이 참가한 15차례의 이산가족 상봉을 가졌다. 그러나 대기자 명단은 길다: 한국에서 90,000이 넘는 이산가족 중에 다수가 노인들이다. 문제는 북한이 이러한 상봉 행사가 벌어지도록 기꺼이 허락하느냐에 있다. 쌍방은 금강산에 이산가족면회소 건설을 재계하기로 3월 장관급 회담에서 합의하였다. 그리고 서울과 평양에 비디오 상봉 시설이 있어 물리적 역량은 문제가 아니다.
+
+==== 납북자 ====
+
+26. (기밀) 한국 전쟁 이후 대부분 어부인 480명 상당의 납북자가 북한에 있는데, 북일 관계의 대표적인 쟁점이 된 15명의 일본인 납북자보다 훨씬 많은 숫자다. 그러나 북한은 공식적으로 전혀 납북자를 인정한 바 없다. (비록 북한 당국자들이 비밀리에 인정했다고 한국 접선책이 우리에게 말하긴 했지만.) 그리고 노 대통령이 납북자 문제를 밀어붙일 거라는 증거는 거의 없다.
+
+==== 회의적이고 걱정스런 일반 대중 ====
+
+27. (민감하지만비분류) 노 대통령은 남은 자신의 임기 동안에 이번 정상회담을 북한과의 관계 를 증대하는 목적으로 활용하려고 하지만, 여론 조사는 한국민 다수와는 보조를 맞추지 못함을 보여준다. 최근 한국에서 시행된 정보조사국 여론조사에서 설문 대상 성인 1,500명 가운데 53퍼센트는 //“남북 정상회담이 12월 대선에 영향을 미치려는 전략에 불과”// 하다고 생각하였고, 반면에 62퍼센트는 북한 핵 문제와 관련 //“추동력을 제공”//하기(25퍼센트)보다는 //“이목을 딴 데로 돌리려”// 한다고 생각하였다. 같은 여론 조사에서, 35퍼센트의 응답자는 //“경제 협력이 북한의 행동과 남한을 행한 북한의 태도와 연계돼야”// 한다고 생각하였다. 그와 비교되는 29퍼센트는 화해 분위기와 경협의 증대를 선호하였다; 견고한 30퍼센트는 북한이 핵무기 개발을 멈추기 전까지는 모든 경제 협력의 보류를 선호하였다.
+
+28. (민감하지만비분류) 다른 설문 조사에서는 북핵 문제에 대한 노무현의 //“왜 걱정하는 건가요?”// 식의 접근 방식에 불편해하며, 남북 정상회담에 관심이 없다고 지적한다. 9월 20일 문화 일보 여론조사에서 38퍼센트는 북한 핵 문제가 정상회담의 주요 현안이 되어야만 한다고 생각하였고, 평화 선언(26퍼센트)과 남북 경제 협력(17퍼센트)이 그 뒤를 이였다. //“추석”// 명절에서 돌아온 국회의원들은 남북 정상회담이 언급될 때 지역구 유권자들의 눈을 보면 따분하다는 표정이었다고 보고하였다. 청와대는 정상회담에 대한 국민의 저조한 관심에 우려 섞인 보고를 받았고, 청중의 관심을 더욱 끌기 위해서 언론 노출 활동을 추가하는 것을 고려 중이다. 그러한 우려로 말미암아 10월 2일 노무현이 군사 분계선을 걸어서 횡단하기로 한 결정을 설명해 준다고 하겠다.
+
+===== 논평: 제한적인 전망 =====
+
+29. (기밀) 우리가 생각하기에 한국민의 회의적 시각이 정당한 이유는 이번 두 번째 정상회담의 잠재적인 중요성, 즉 두 지도자가 모든 남북 현안과 골칫거리를 협상 테이블에 올려놓고 논의한다는 점과 시간적 제약, 그리고 노무현에게 허락된 정치적인 신뢰도 간에 부조화가 있기 때문이다. 예를 들면, 노 대통령은 평화에 대해 성의를 다해 논의하려 하지만, 평화 선언에 의미를 부여할 일련의 세부적인 신뢰 구축 조치에 대해 논의한 바 없다. (그러나 8월 15일 연설에서 남북 정상회담이 신뢰 구축 조치에 집중할 수 있다고 제시하긴 한다, 참조 전문 가). 또한, 노무현이 김정일의 눈을 보면서 북한 핵 프로그램은 반드시 끝내야 한다고 말할 태세도 아닌 듯 보인다. 어떤 면으로는, 노무현의 접근 방식이 놀랄 일도 아닌 이유는 노무현과 다른 진보세력은 어떤 형태든 북한과의 관계는 좋은 것이며, 호혜주의를 고집하는 것은 진보를 막아 세우는 거라고 믿고 있다.
+
+30. (기밀) 북한 측에서 보면, 김정일이 남한으로부터 어떤 양보나 행동의 변화를 최소화하는 가운데 경제적인 이득을 최대화하는 건 타당한 일이다. 노무현의 그간 행적을 보면 그런 접근 방식이 통할 거라고 말해 주고 있다. 북한의 정상회담 사전 조치에서의 고자세 측면도 있는데: 정상회담으로 가는 길목에서, 김정일이 어떤 회동에 납시어 참석하실지조차도 한국정부 당국자는 확신하지 못하고 있다고 보도되고 있다.
+
+31. (기밀) 우리가 이번 정상회담에서 획기적 위업을 예상할 수 없는 이유는 노 대통령이 임기 말이고, 또한 김정일이 실용적인 신뢰 구축 조치에 대한 준비가 있다는 힌트가 없기 때문이다. 그러나 남북 정상회담은 미국정부와 관련 있는 중요한 결과가 나올 수 있다.
+
+  * 첫째, 노 대통령의 미온적인 접근 방식에도, 김정일이 6자 회담 과정에 실제 도움을 가져올 비핵화 지지 선언을 하거나; 또는 그런 효과를 주는 문구를 공동 선언문에 담아내는 결과를 이번 남북 정상회담에서 끌어낼 수도 있다. 우리는 비핵화 문제를 한국정부의 안건 중에 핵심과제로 삼도록 최대의 노력을 해왔다.
+
+  * 둘째, 노무현 정부도 강조한 바 있듯이, 이번 정상회담은 동류의 회동을 정례화하도록 도울 수 있다. 차기 한국 대통령은 김정일과의 조기 회동을 원한다고 본다. (주석 이명박 후보는 만일 당선 된다면 그와 같은 남북 정상회담을 모색할 거라고 말한 바 있다. 주석 끝.) 그리고 우리는 북한이 더 많은 남한과의 경제 협력 모색에 대해 심각히 고려하는 듯 보이기 때문에 북한이 동의할 것으로 예상할 수 있다.
+
+  * 셋째, 만일 비무장지대 경계 초소와 NLL 문제을 논의한다면, 남북 정상회담은 공동 합의가 가능한 신뢰 구축 조치를 마련하기 위한 노력을 재개할 수도 있는데, 그 예로 1992년 기본합의서에 열거된 것들이 있다. 이는 유엔사령부와 주한미군과의 협의를 요하며, 단계적인 신뢰 구축 조치 과정을 장려하게 되면서 미국정부에 이득이 될 수 있다.
+
+  * 넷째, 이번 남북 정상회담으로 한국의 대기업인 //“재벌”// 이 북한 투자를 고려하는데 필요한 일부 개혁을 단행하도록 김정일을 독려할 수 있다.
+
+마지막으로, 이번 정상회담은 미국에 다가서려는 북한의 노력으로 비칠 수도 있다. 김기웅 통일부 평화체제구축팀장은 북한을 20차례 방문했고, 북한 당국자와 150차례에 걸쳐 회동한 바 있는데, 그는 북한의 논의 상대들은 미국과의 관계 개선을 최우선으로 하는 목표를 강조했다고 우리에게 말하였다. 김기웅이 말한 바로는 국무부 힐 차관보의 6월 평양 방문이 북한 지도자가 기다려왔던 신호이다. 그래서 북한 지도부는 미국정부와의 관계 정상화로 가는 단계로 한국과의 정상회담을 승인하였다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/8/07seoul2974|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://ko.wikisource.org/wiki/남북_기본_합의서|남북 기본 합의서]] //위키문헌//
+  - [[http://ko.wikisource.org/wiki/2000_남북정상회담_합의서| 2000 남북정상회담 합의서]] //위키문헌//
+  - [[http://blog.daum.net/wo5rbs/12365989|“북핵 운운은 가서 가급적 싸움하라는 애기?”]] //블로그//
+  - [[http://korean.seoul.usembassy.gov/p_rok090707.html|부시 대통령, 한국의 노무현 대통령과 회동(국문)]] //주한미국대사관 누리집//
+  - [[http://seoul.usembassy.gov/p_rok090707.html|President Bush Meets with South Korean President Roh(영문)]] //주한미국대사관 누리집//
+  - [[http://www.vop.co.kr/A00000086774.html|송민순, "평화체제 구축 이후 종전선언 해야 맞다"]] //민중의소리//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL2974.rtf>
+C O N F I D E N T I A L SEOUL 002974 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 10/01/2017 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREL [External Political Relations] 
+SUBJECT: SUBJECT:  ISSUES TO WATCH AT THE ROK-DPRK SUMMIT, 
+OCT. 2-4 
+ 
+REF: A. REF A - SEOUL 2481 -- PRESIDENT ROH'S NATIONAL 
+        DAY SPEECH 
+     B. REF B - SEOUL 2906 -- NSA ADVISOR ON SUMMIT 
+     C. REF C - SEOUL 2887 -- UNIFICATION MINISTER ON 
+        SUMMIT 
+     D. REF D - SEOUL 2529 -- FOREIGN/UNIFICATION 
+        MINISTERS ON SUMMIT 
+     E. REF E - SEOUL 2694 -- HOW THE SUMMIT CAME ABOUT 
+     F. REF F - SEOUL 2648 -- NORTHERN LIMIT LINE AS 
+        SUMMIT ISSUE 
+     G. REF G - SEOUL 2410 -- SUMMIT LIKELY TO BROADEN 
+        ECON. COOP. 
+     H. REF H - SEOUL 2573 -- LEE MYUNG-BAK AGAINST SUMMIT 
+     I. REF I - SEOUL 2940 -- FORMER UNIFICATION MIN. ON 
+        SUMMIT 
+ 
+Classified By: AMB Alexander Vershbow.  Reasons 1.4 (b/d) 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (C) President Roh Moo-hyun and his 300-person entourage of 
+businesspeople, journalists and support staff will drive from 
+Seoul to Pyongyang on the morning of October 2 for the second 
+ROK-DPRK summit meeting with Kim Jong-il.  This is the first 
+chance for Roh and Kim Jong-il to meet face to face.  The 
+run-up to the summit has brought renewed discussion of 
+fundamental issues dividing the two Koreas.  The large 
+entourage (compared to 24 people accompanying President Kim 
+Dae-jung in June 2000) means that new personal connections 
+between elites on both sides could result.  The issues are 
+substantive:  in the absence of an agreed agenda, the ROKG 
+wants to focus on increased economic cooperation, peace and 
+military confidence-building measures (CBMs) and humanitarian 
+issues.  In an August 15 speech, Roh said the summit was for 
+"further solidifying peace and stability on the Korean 
+Peninsula while advancing common South-North prosperity" (ref 
+A).  An ROKG official with substantial DPRK experience says 
+that the DPRK's real intended audience is as much the U.S. as 
+the ROK, with Kim Jong-il aiming to open the road to 
+normalized relations with Washington by going through Seoul. 
+ 
+¶2. (C) Clearly, there are good reasons to hold a second 
+inter-Korean summit, and good reasons to watch its results 
+carefully.  But on the eve of the summit, the ROK public 
+appears to have very limited expectations of it and some 
+anxiety about it, for a number of reasons:  their general 
+dislike of President Roh (his mid-September approval rating 
+was 19.5 percent); its delayed timing, now just 11 weeks 
+before the ROK Presidential election, making it seem largely 
+a political gambit; Roh's unnerving statements about 
+downplaying denuclearization in favor of declaring peace, and 
+offering the DPRK economic benefits without concern for 
+reciprocity; and the fact that the first-time excitement from 
+2000 is missing.  Stylistically, it does not help that Roh 
+has agreed to view the propaganda-filled Arirang Festival, 
+and is reported to be planning to give Kim Jong-il a home 
+theater system in disregard of the spirit of UNSCR 1718. 
+ 
+¶3. (C) The sense is that this summit will build on the status 
+quo -- more economic cooperation -- rather than transform it 
+through movement toward full denuclearization and other 
+confidence-building measures.  We see likely outcomes as: 
+ 
+Economic Cooperation:  Agreement in principle to build more 
+Kaesong-like industrial parks and other infrastructure; 
+possible announcement of ROK "chaebols'" intent to invest in 
+the DPRK. 
+ 
+Peace and Confidence-Building:  A statement in support of 
+peace on the Korean peninsula and plausibly a call for an 
+early start to four-party peace talks; possible agreement to 
+discuss shared fishing areas near the Northern Limit Line in 
+the West Sea; possible discussion of withdrawing guard posts 
+in the DMZ. 
+ 
+Humanitarian and other areas:  ROKG agreement to provide 
+increased humanitarian assistance to the DPRK; DPRK offer of 
+more family reunions; unlikely that there will be progress on 
+post Korean War abductees. 
+ 
+Denuclearization:  Support for Six-Party Talks likely to be 
+ 
+mentioned. 
+ 
+Given President Roh's recent rhetoric about not wanting to 
+press Kim Jong-il on the nuclear issue, the danger is that 
+the summit will send the message that the ROK is ready to 
+move toward a peace agreement and greatly expand economic 
+cooperation regardless of the DPRK's progress on 
+denuclearization or in other areas.  But that danger is 
+tempered by the calendar (Roh will have less than five months 
+left in office as of October 4) and public skepticism. 
+Moreover, as evidenced by a number of discussions with the 
+Ambassador, there is a strong consensus among senior ROKG 
+officials that Roh will stress the need for denuclearization 
+as a prerequisite for increased economic cooperation or peace 
+discussions (refs B, C, D and E).  However, how this issue 
+plays remains to be seen, especially give uncertainty about 
+the strength of Kim Jong-il's commitment to the Six-Party 
+Talks.  End Summary. 
+ 
+---------------------- 
+SCHEDULE BUT NO AGENDA 
+---------------------- 
+ 
+¶4. (C) The agenda for the October 2-4 ROK-DPRK summit is not 
+pinned down, because (as in 2000) no one on the DPRK side 
+presumes to speak for Kim Jong-il.  Instead, the ROK has been 
+informed only of the general timetable of meetings: 
+ 
+Oct. 2:  President Roh and First Lady Kwon Yang-sook (in the 
+Presidential sedan) and entourage (in buses) will drive from 
+Seoul to Pyongyang via the western corridor through Kaesong 
+(three hours).  Roh will walk 30-40 meters across the 
+Military Demarcation Line with much media hoopla.  Pyongyang 
+residents are expected to line the streets to greet Roh.  Roh 
+will meet DPRK President of the Supreme People's Assembly 
+(titular head of state) Kim Yong-nam, who will then host a 
+state dinner (which Kim Jong-il may or may not attend.)  Roh 
+and Kim will then watch the Arirang Festival. 
+ 
+Oct. 3:  Roh is expected to meet with Kim Jong-il during most 
+of the day.  Roh will then attend the Arirang Festival, 
+likely with Kim Jong-il, and then Roh will host a dinner, 
+which Kim Jong-il is expected to attend.  A joint statement 
+may be worked out that night (in parallel with the June 2000 
+summit). 
+ 
+Oct. 4:  Roh will visit major industrial and cultural 
+facilities, including the West Sea floodgate near Nampo; Kim 
+may join.  Roh and Kim will have a farewell luncheon.  Roh 
+reportedly plans to visit the Kaesong Industrial Complex 
+(KIC) on his way home. 
+ 
+¶5. (C) ROK Agenda:  We expect that there will be plenty of 
+time for the two leaders to discuss various issues, mostly in 
+one-on-one meetings.  If the 2000 summit is a guide, these 
+closed sessions will have no set agenda, allowing each 
+principal to bring up issues of concern.  In 2000, Kim 
+Jong-il showed a range of emotions, from anger to sympathy, 
+about everything the South Koreans (and Americans) were 
+doing.  Our Blue House interlocutors have reminded us that 
+Roh is quite different than Kim Dae-jung, and that he would 
+not back down as easily.  Roh is also more detail oriented 
+and there will be an agenda, at least in Roh's mind. 
+National Security Adviser Baek Jong-chun told the Ambassador 
+on September 19 that the ROKG was aiming for discussions and 
+a joint statement that would be one-third economic 
+cooperation, one-third peace regime and military 
+confidence-building measures (CBMs), and one-third 
+humanitarian, family reunion and unification issues (ref B). 
+ 
+ 
+-------------------- 
+ECONOMIC COOPERATION 
+-------------------- 
+ 
+¶6. (C) On the economic side, likely summit outcomes are ROK 
+offers to improve the port of Nampo (which Roh and perhaps 
+Kim will visit), possibly build an industrial park there, 
+expand the Kaesong Industrial Complex (KIC), and build 
+highways, under the ROKG's heading of "social overhead 
+capital" (shorthand for improving the North's infrastructure, 
+either as a down-payment on eventual reunification, or as the 
+route to mutual prosperity in the interim).  Other locations 
+have been mentioned as possible sites for industrial parks: 
+ 
+Haeju (near Kaesong), Sinuiju (near Dandong on the Chinese 
+border), Wonsan and Najin (on the east coast), but it is 
+likely that the leaders will agree to start in one area for 
+now, and a Blue House spokesman recently cautioned 
+journalists to use common sense in assessing possible 
+cooperation projects.  President Roh, often the most 
+forthcoming ROKG briefer on the summit, said on September 21 
+that the two sides would agree to develop an industrial 
+complex and a port in the North, and implied road 
+construction as well by saying that he would "create jobs" 
+for the Korea Expressway Corporation. 
+ 
+¶7. (C) The idea -- which Roh and Kim can apparently agree on 
+-- is for the summit to set such projects in motion, making 
+it politically difficult for a new administration to stop 
+them. (Leading candidate Lee Myung-bak's foreign policy 
+advisor grumbled to us that Roh was trying to undercut Lee's 
+chance, assuming he wins the election, to take a fresh look 
+at South-North engagement, ref H.)  It is not clear whether 
+these projects will be pitched as contingent on 
+denuclearization.  The Blue House is asking the National 
+Assembly to increased funding for cross-border projects from 
+USD 540 million this year to USD 810 million in 2008.  Former 
+President Kim Dae-jung also said that the summit would bring 
+agreement to sell goods made in the KIC in North Korea. 
+ 
+¶8. (C) Significantly, ROK "chaebols," 18 of whose CEOs are 
+included in the delegation, could also agree in principle to 
+invest in North Korea.  For example, press reports suggest 
+that Posco steel company may propose a steel mill in the 
+North, and Daewoo may consider a ship-building facility. 
+Many other ideas have surfaced, such as an agreement to mine 
+construction-grade sand from the Imjin River near the DMZ 
+(ref G).  The ROK private sector appears to be jumping on the 
+bandwagon:  the Korea Chamber of Commerce and Industry 
+announced that 50 Korean companies plan to establish a 
+South-North Korean Economic Cooperation Forum in October to 
+coordinate with the North on private business projects.  For 
+Roh, private investment agreements would be ideal because 
+they meet the mutually beneficial criterion (or else 
+companies would not agree to invest) and, assuming they are 
+not subsidized, won't take taxpayers' money, which is 
+difficult for Roh to promise so late in his term. 
+ 
+¶9. (C) Details of both public and private projects would have 
+to be worked out at subsequent meetings.  MOU officials tell 
+us  that the ROKG wants to begin such meetings right away, 
+starting with economic ministerial meetings in October. 
+ 
+¶10. (C) But bold private investment plans as mooted in the 
+press may be getting ahead of reality.  As a cautionary note, 
+Hyundai Asan Vice President Jang Whan-bin recalled to us that 
+many ROK companies attempted investments in the North after 
+the June 2000 summit euphoria, but most never bore fruit or 
+went bankrupt because of DPRK caprice (such as arbitrary 
+border closings), unreliable supply chains, and North 
+Koreans' lack of purchasing power.  There is still no 
+evidence that the North is prepared for fundamental economic 
+and regulatory restructuring.  One test, assuming projects 
+are agreed in principle at the summit, will be whether the 
+DPRK allows on-site feasibility studies. 
+ 
+--------------------------------------- 
+PEACE REGIME, CBMs AND DENUCLEARIZATION 
+--------------------------------------- 
+ 
+¶11. (C) In September 11 comments, President Roh irked many 
+South Koreans, not to mention many people outside Korea, not 
+only by saying a peace agreement as his main priority for the 
+summit, but by simultaneously downplaying denuclearization as 
+"a hill we already climbed," and an area where he did not 
+want to "pick a fight."  The latter possibility -- that Roh 
+may miss the chance to emphasize the centrality of 
+denuclearization and seek Kim Jong-il's commitment to it -- 
+is more of a concern than the former -- where Roh seems eager 
+to declare the end, peace, without fully considering the 
+means, step-by-step progress on CBMs, including 
+denuclearization. 
+ 
+-- Denuclearization 
+ 
+¶12. (C) National Security Advisor Baek, several Ministers, 
+Blue House officials and others have assured the Ambassador 
+ 
+and other Emboffs that Roh will stress the need for 
+denuclearization as a prerequisite for increased economic 
+cooperation or peace discussions (refs B, C, D and E).  For 
+example, MOU Minister Lee Jae-joung told the Ambassador on 
+September 18 that President Roh would stress that the 
+Six-Party Talks need to succeed; that the summit was intended 
+to "help them succeed" (ref C).  Having seen the negative 
+editorial reaction to his September 11 comments on 
+downplaying the need for denuclearization ("incoherent babble 
+from a person responsible for the security of the country," 
+according to the dean of conservative columnists Kim 
+Dae-joong called the remarks) and likely to have ministers 
+stress the importance of checking the  denuclearization box 
+in pre-summit countdown sessions, we assess that Roh will 
+raise the subject.  However, he may take an indirect 
+approach, as he did in his August 15 speech, saying that the 
+Six-Party Talks were taking care of denuclearization, so 
+denuclearization could be seen as on track (ref A).  The 
+Ambassador again underlined USG concerns about this issue in 
+an October 1 meeting with Deputy NSA Yun byung-se, who is 
+part of President Roh's delegation. 
+ 
+-- Peace Regime 
+ 
+¶13. (C) On the peace regime issue, despite President Roh's 
+exaggerated rhetoric, we assess that a likely outcome of the 
+summit is an aspirational statement along the lines of the 
+2000 joint statement's call for the "achievement of 
+reunification."  In this case, the call would be for 
+"achievement of peace."  Roh and Kim could also call for an 
+early meeting of the four relevant parties (the two Koreas, 
+the U.S and China) to discuss peace, since the ROKG has 
+stressed its interest in such talks beginning by the end of 
+2007, but the ROK public seems to understand that 
+denuclearization and confidence-building must come first. 
+ 
+¶14. (SBU) President Roh's emphasis on peace is consistent 
+with the original announcement of the summit. The August 8 
+joint ROK-DPRK announcement called for "...a new phase in the 
+quest for peace on the Korean Peninsula, common prosperity of 
+the Korean nation and unification of the homeland." 
+ 
+¶15. (C) ROKG officials appear to be in synch with the 
+"shared...recognition that denuclearization of the North is 
+necessary for launching negotiations for establishing a peace 
+regime on the Korean Peninsula" from President Bush's 
+September 7 meeting with President Roh.  For example, MOU 
+Minister Lee Jae-joung told the Ambassador on September 18 
+that in his peace regime discussions, Roh would not go beyond 
+the "U.S.-ROK consensus" as established at their meeting in 
+Sydney (ref C). 
+ 
+¶16. (C) Even so, President Roh's September 11 comments -- 
+that a peace declaration or the beginning of negotiations 
+should constitute the core agenda items at the summit -- 
+suggest that he wants to lean much farther forward on 
+establishing peace.  Politically that tracks with the 
+conventional wisdom that Roh sees the summit as a high-stakes 
+gamble, wanting voters to stop focusing on the economy and 
+instead focus on prospects for peace, to renew enthusiasm for 
+the beleaguered liberal camp.  Roh also consistently seems to 
+want to accentuate the positive in approaching the North, 
+stressing the importance of trusting the North.  He would 
+rather agree on peace than disagree on the difficult details 
+of CBMs. 
+ 
+¶17. (C) But ROK reaction to Roh's peace trial balloon has 
+been harsh.  Foreign Minister Song Min-soon appeared to 
+deliberately walk back Roh's comments on September 13, saying 
+that, "Peace does not come all at once.  A sudden declaration 
+of the end of the Korean War would only bring chaos to the 
+current condition that is devoid of peace."  Roh's first 
+Minister of Unification Jung Se-hyun, who will be among Roh's 
+delegation, told us to disregard any talk of a peace 
+declaration because it would only be empty words (ref I). 
+Editorials urged Roh to go back to his August 15 speech, in 
+which he said that the summit would focus on implementing 
+existing agreements, including the 1992 Basic Agreement, 
+which is full of CBMs.  For example, a September 14 editorial 
+in the conservative JoongAng Daily said, "Bypassing the North 
+Korean nuclear issue, which still has a long way to go, and 
+discussing a peace treaty and the formal end of the Korean 
+War are unrealistic and have no meaning.  They could give the 
+ 
+wrong impression that Seoul accepts the North's nuclear 
+capabilities." 
+ 
+-- CBMs 
+ 
+¶18. (C) Some ROKG officials suggest Roh's peace rhetoric will 
+be complemented by an emphasis on CBMs.  Secretary to the 
+President for National Security Park Sun-won said that Roh 
+will pursue concrete CBMs, starting with a mutual withdrawal 
+of guard posts from the DMZ (ref E).  Press reports suggest 
+that President Roh may present the withdrawal of guard posts 
+as a means of truly demilitarizing the DMZ and turning the 
+DMZ into a "peace zone."  It is clear that such steps would 
+require consultations with UNC, which, contrary to press 
+reports, has not yet occurred. 
+ 
+¶19. (C) Extended discussion of CBMs at the summit is 
+unlikely.  ROK Defense Minister Kim Jang-soo will join Roh's 
+delegation, against the better judgment of many retired 
+generals, and his inclusion suggests that the ROKG will again 
+seek North-South Defense Minister talks soon after the 
+summit, if the North agrees, to discuss the details of 
+possible CBMs. 
+ 
+-- NLL 
+ 
+¶20. (C) Apart from the above guard-post proposal, the summit 
+is not expected to include broad discussion of CBMs -- which 
+are seen as key for real progress toward peace.  But there 
+has been much discussion of what has long been a DPRK sore 
+point:  the Northern Limit Line (NLL) in the West Sea (ref 
+F).  The issue is important because disagreement over the 
+NLL, which the North insists is illegitimate and needs to be 
+renegotiated to give its ships direct access to the port of 
+Haeju, has prevented repeated rounds of military-to-military 
+talks from making progress, and, in 1999 and 2002, led to 
+military clashes.  In connection with the last round of 
+working-level mil-mil talks in Panmunjom in mid-July, the 
+DPRK's official media service KCNA again said that that 
+South's insistence on maintaining the NLL was the "root cause 
+of confrontation." 
+ 
+¶21. (C) The ROK has consistently: (1) offered to enter into 
+negotiations on implementing the 1992 Basic Agreement as a 
+whole, which calls for military CBMs to be implemented prior 
+to discussion of the NLL; and (2) failing that, offered to 
+establish joint fishing areas around the NLL, which it argues 
+is mutually beneficial because these would prevent 
+third-country (Chinese) vessels from entering the rich 
+fishing grounds, as they do now.  The DPRK has steadfastly 
+refused both, arguing (since the 1990s) that the NLL is 
+illegitimate. 
+ 
+¶22. (C) The DPRK has grounds to assert that the NLL 
+negotiations should continue, but conveniently ignores that 
+it accepted the NLL in the 1992 Basic Agreement. Chapter 2, 
+Article 11 says that areas for non-aggression should 
+correspond with "areas that have been under the jurisdiction 
+of each side until the present time," and the NLL was in 
+effect when that agreement was signed.  One of the annexes to 
+the Basic Agreement, the "Protocol on The Implementation and 
+Observance of Chapter 2..." says that: "Discussions regarding 
+the South-North sea demarcation line of nonaggression shall 
+continue."  But it also states that, "Until the sea 
+demarcation line has been finalized, the nonaggression areas 
+of the sea shall be those that have been under the 
+jurisdiction of each side until the present time." (Art. 10). 
+ 
+¶23. (C) Shortly after the summit was announced, MOU Minister 
+Lee raised eyebrows, and started a round of press 
+speculation, when he implied ROKG flexibility about the NLL, 
+telling a National Assembly hearing that the NLL was 
+established for "security reasons not for territorial 
+reasons."  An interagency squabble followed, with the 
+Minister of Defense Kim Jang-soo and others asserting that 
+the NLL was in fact territorial and was not up for 
+discussion.  MOU Minister Lee told the Ambassador on 
+September 18 that the issue had been overly politicized in 
+the press, that the ROKG did not plan to raise the issue, but 
+that if the DPRK raised it the ROKG would again offer to 
+establish joint fishing grounds (ref C). 
+ 
+----------------------------- 
+ 
+HUMANITARIAN AND OTHER ISSUES 
+----------------------------- 
+ 
+¶24. (C) The ROKG will likely offer humanitarian assistance 
+that press reports have said could exceed USD 1 billion. 
+Heavy rains (cited as the reason for delaying the summit from 
+August 28-30 to October 2-4) have called attention to the 
+DPRK's poor agricultural and economic conditions, but lack of 
+access means that no foreigner has a clear sense of overall 
+humanitarian conditions there.  In any case, in connection 
+with its increased budget request for inter-Korean projects, 
+the ROKG is also asking the National Assembly for a 14 
+percent increase in its humanitarian aid budget for the North 
+for 2008, which would bring the total to about USD 60 million 
+per year.  This does not include the usual 400,000 tons of 
+rice aid each year, which is technically a loan.  MOU 
+officials were irritated earlier this year when President Roh 
+decided to suspend rice assistance until the DPRK made 
+progress on denuclearization, so one goal at the summit may 
+be to increase "no strings" aid to the North. 
+ 
+-- Family Reunions 
+ 
+¶25. (C) President Roh does not appear to be going to 
+Pyongyang to ask the DPRK for many concessions, but one thing 
+he is likely to ask for, and perhaps receive, is increased 
+family reunions.  The Koreas have held 15 rounds of family 
+reunions since August 2000 (an outcome of the June 2000 
+summit) involving over 13,000 people.  But the waiting list 
+is long: over 90,000 in the ROK, many elderly.  The problem 
+has been the DPRK's willingness to allow these events to take 
+place.  The two sides agreed at ministerial meetings in March 
+to resume construction of a reunion center in Mt. Kumgang, 
+and there are video reunion facilities in Seoul and 
+Pyongyang, so physical capacity is not the problem. 
+ 
+-- Abductees 
+ 
+¶26. (C) There are an estimated 480 post Korean War abductees, 
+mostly fishermen, in the DPRK, a far larger number than the 
+15 Japanese abductees that have become a major Japan-DPRK 
+issue.  But the DPRK has never officially acknowledged 
+holding abductees (though ROK contacts tell us that DPRK 
+officials do acknowledge it privately) and there is little 
+evidence that President Roh will push on this issue. 
+ 
+--------------------------- 
+SKEPTICAL, CONCERNED PUBLIC 
+--------------------------- 
+ 
+¶27. (SBU)  President Roh seeks to use the summit to ramp up 
+engagement with the North during his remaining time in 
+office, but polls suggest he is out of step with the ROK 
+majority.  In a recent INR Office of Research poll in the 
+ROK, 53 percent of that 1,500 adults interviewed thought that 
+the summit was "merely a tactic to influence the December 
+presidential election," while 62 percent thought it would 
+"divert attention" rather than "provide momentum" (25 
+percent) on the DPRK nuclear issue.  In the same poll, 35 
+percent of respondents thought that economic cooperation 
+should be linked "closely to North Korean actions and its 
+posture toward the South" (i.e., reciprocity) compared to the 
+29 percent who favored (unconditional) reconciliation and 
+increased economic cooperation; a hefty 30 percent preferred 
+to "withhold all economic cooperation until the North has 
+stopped developing nuclear weapons." 
+ 
+¶28. (SBU) Other opinion polls point to discomfort with Roh's 
+"why worry?" approach to the nuclear issue, and lack of 
+interest in the summit.  In a September 20 Munwha Ilbo poll, 
+38 percent thought that the DPRK nuclear problem should be 
+the main issue for the summit, followed by a peace 
+declaration (26 percent) and inter-Korean economic 
+cooperation (17 percent).  Legislators returning from the 
+"Chusok" holiday reported that constituents' eyes glazed over 
+when the summit was mentioned.  The Blue House was reported 
+to be concerned about low public interest in the summit, and 
+considering adding more photo-op activities to draw an 
+audience.  That concern may account for the decision to have 
+Roh to walk across the Military Demarcation Line (MDL) on 
+October 2. 
+ 
+-------------------------- 
+ 
+COMMENT: LIMITED PROSPECTS 
+-------------------------- 
+ 
+¶29. (C) The ROK's public's skepticism is justified, we think, 
+because there is a mismatch between this second summit's 
+potential significance -- putting all of the inter-Korean 
+issues and irritants on the table for the leaders to discuss 
+-- and the limited time and political credibility that 
+President Roh has available.  For example, President Roh 
+appears eager to talk about peace, but has not talked about 
+the series of detailed CBMs that would make a peace 
+declaration meaningful (although his August 15 speech 
+suggested the summit could focus on CBMs, ref A).  Nor does 
+he appear prepared to look Kim Jong-il in the eye and tell 
+him that the North's nuclear weapons programs must go.  In a 
+sense, this approach is not a surprise because Roh and other 
+progressives believe that any engagement with the North is 
+good engagement, and that insisting on reciprocity would hold 
+back progress. 
+ 
+¶30. (C) On the DPRK side, it's plausible that Kim Jong-il is 
+seeking to maximize the economic gains from the South while 
+minimizing any concessions or changes in behavior.  Roh's 
+track record tells Kim that this approach will work with 
+President Roh.  There is also a high-handed aspect to the 
+North's pre-summit behavior:  leading up to the summit, ROKG 
+officials were reportedly not even sure which meetings Kim 
+Jong-il would deign to attend. 
+ 
+¶31. (C) While we cannot expect breakthroughs from this summit 
+-- because it's late in the day for President Roh, and 
+because there's no hint that Kim Jong-il is prepared for 
+practical CBM discussions -- the summit could still have 
+significant outcomes that are relevant for the USG. 
+-- First, the summit could, despite President Roh's 
+half-hearted approach, result in Kim Jong-il making a 
+statement in favor of denuclearization that would indeed 
+support the Six-Party Talks process; or language to that 
+effect could be included in a joint statement.  We have made 
+best efforts to put this issue at the top of the ROKG's 
+agenda. 
+ 
+-- Second, as the Roh administration has emphasized, the 
+meeting could help regularize such meetings.  The next ROK 
+President is likely to want to meet with Kim Jong-il early on 
+(Note: Candidate Lee Myung-Bak has said he would seek such a 
+summit if elected. End Note), and we can expect that the DPRK 
+will agree since it appears serious about seeking more 
+economic cooperation with the South. 
+ 
+-- Third, if DMZ guard posts and the NLL are discussed, the 
+summit could lead to renewed efforts to work out mutually 
+agreeable CBMs, such as those listed in the 1992 Basic 
+Agreement.  This will require consultation with UNC and USFK, 
+and it could be to the USG's benefit to encourage a 
+step-by-step CBM process. 
+ 
+-- Fourth, the summit could encourage Kim Jong-il to 
+undertake some of the reforms needed to allow ROK "chaebol" 
+conglomerates to consider investing in the North. 
+ 
+-- Finally, the summit can be seen as a DPRK effort to reach 
+out to the U.S.  The Director of the Peace Regime Building 
+Team at MOU, Kim Ki-woong, who has visited North Korea 20 
+times and met with North Korean officials over 150 times, 
+told us that his DPRK interlocutors stress their overriding 
+goal of improving relations with the U.S.  According to Kim, 
+Assistant Secretary of State Christopher Hill's June visit to 
+Pyongyang was a signal that DPRK leaders had been waiting 
+for.  So the DPRK leadership then approved a summit with the 
+Seoul as a step on the road to normalized relations with 
+Washington. 
+VERSHBOW
+</file>

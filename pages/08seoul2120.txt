@@ -1,0 +1,197 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2120  |  2008-10-30 01:27  |  2011-08-30 01:44  |  비분류/공무외 사용금지  |  서울대사관  |  {{tag>PGOV PREL PINR KS KN }}  |
+====== 제 목: 대북 정책과 한미 FTA, 테러지원국 명단 등의 국회 외교통상통일위원회 심의 ====== 
+  * 비분류 SEOUL 002120 
+  * 민감함
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 행정명령 12958: 해당없음
+  * 태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KS(([Korea (South)])), KN(([Korea (North)])) 
+  * 제 목: 대북 정책과 한미 FTA, 테러지원국 명단 등의 국회 외교통상통일위원회 심의
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/01/24 08:51//
+===== 요점 =====
+1.(민감하지만비분류) 요점: 외교통상통일위원회의 18대 국회 첫 국정감사에서 한나라당과 민주당은 북한정책을 놓고 정면 충돌했다. 각 당은 노무현 전 대통령의 10.4 남북정상회담선언 과 이명박 대통령의 북한정책에서 타협을 보려고 분투했다. 외통위는 미국의 테러리즘 지원국 명단에서 북한이 제외된 점을 남한당국의 외교상의 실패라며 강력히 비난하면서 마감했다. 연례 국정감사는 본질적으로 행동 지향적이기보다 정치 쇼이지만, 주요 쟁점사안에 대한 각 당의 내의 통찰력을 제공하고 있다. 외교통상부는 국회에 한미 FTA 법안을 이번 국정감사 중에 역시 제출했다. 법안은 먼저 외교통상통일위원회가 심사를 한 이후에 본회의에 상정된다. 외통위 위원장 박진과 다른 한나라당 의원들은 조기 비준을 주장했다; 민주당은 반면에 FTA에 반대하진 않는다고 하면서도 강력한 무역조정 지원조치를 요구했다. //요점 끝.//
+===== 국정감사 =====
+2.(민감하지만비분류) 외통위는 국회의 상임위원회 중 가장 자리경쟁이 심한 곳이다. 많은 중진 의원들에 더해, 3개의 정당 지도자들 또한 외교통상통일위원회 소속의원이다. 민주당 정세균과 자유선진당 이회창 그리고 창조한국당의 문국현이 한나라당의 중진의원인 정몽준과 이상득 등과 함께 구성원을 이루고 있다. 외통위는 10월 7일과 22일에 외교통상부 감사가 예정되어 있으며, 반면에 통일부는 10월 6일과 23일에 감사를 할 것이다. 현재 외통위의 구성은 17명은 한나라 의원, 7명의 민주당 의원, 3명의 선진과 창조의 모임 의원, 1명의 친박연대 그리고 1명의 무소속 의원으로 되어있다.<WRAP right>//**한미 FTA 찬성의원**//[{{:찬성의원:권영세_서울_영등포구_을_.jpg|**권영세** //서울 영등포구 을//}}]</WRAP>
+===== 10.4 남북정상선언 =====
+3.(민감하지만비분류) 통일부의 첫 국감에서 한나라당과 민주당은 북한정책을 놓고 해묶은 보수 대 진보 논쟁을 반복했다. 구체적으로 2007년 10월 4일 남북정상회담의 이행을 놓고 양당이 충돌했는데, 회담이 노무현 전 대통령의 임기가 마감되던 시점에 발생된 일이다. 권영세와 윤상현이 대변하는 한나라당은 만일 이들 사업이 구현된다면, 예상되는 비용이 현재의 환율로 미화 100억 달러면) 14조 원을 상회하는데, 이 일련의 대북사업에 대한 국민의 지지를 얻어내는데 실패했다고 전임 노 대통령을 비판했다. 이들은 북한이 2000년 6월 15일 공동선언과 2007년 10월 4일 선언을 북한이 이미 공히 위반했다고 위원회 구성원들을 상기시켰다. 민주당은 반면에 이 대통령과 정부가 10.4 선언의 조항을 고수하지 않는 것과 북한문제에 대한 평화적인 결의안에((번역 주:11월 1일 유엔총회 결의안)) 정치가 방해하도록 용인하고 있는 점을 비판했다. 선진과 창조의 모임의 문국현 또한 민주당의 입장을 지지하면서, 통일부가 10.4 선언을 지원하는 결의안을((번역 주:11월 1일 유엔총회 결의안)) 통과시켰고 해서 국제사회의 승인을 얻었다고 말했다. 드물게 반대입장을 편 한나라당 4선 의원이며 강력한 이 대통령 지지자인 남경필은 이 대통령이 현재의 교착상태에 대해 책임이 있으며, 10.4선언은 남북간에 관계를 회복하는데 필수적이라고 말했다((번역 주: 자세한 내용은 [[http://www.ohmynews.com/NWS_Web/Articleview/article_print.aspx?cntn_cd=A0000989507|참조 링크를 보라]])).
+===== 비핵 개방 3000 =====
+4. (민감하지만 미분류) 이 대통령의 초기 북한정책은 //“비핵 개방 3000”//이란 제목을 붙였는데, 완전한 비핵화와 개방 그리고 북한의 일 인당 국내 총생산을 미화 3,000달러로 증가한다는 내용이지만, 여야 정치권의 양측으로부터 막대한 비난을 받았다. 민주당의 정세균을 필두로 한 야당은 해당 정책의 즉각적인 폐기를 요구하면서 이 계획이 남북관계를 위태롭게 하는 가운데 단지 북한을 자극할 뿐이라고 말했다. 한나라당 초선의원인 홍정욱은 계획의 목표를 잘 해봐야 도달할 수 없다고 언급하면서, 정부는 더 실용적인 접근방식을 채택할 필요가 있다고 했다. //“비핵 개방 3000”// 정책은 북한의 반응을 이끄는 데 실패한 이후에, //“상생과 공영”// 정책으로 나중에 대체되었다. 여하간에 이 대통령은 여전히 그 다음 날 국무회의에서 “비핵 개방 3000” 계획을 자신의 100대 정책 우선 과제로 포함했다.
+===== 테러지원국 명단 제외 =====
+5.(민감하지만비분류) 외교통상통일 위원회 소속 많은 의원들은 미국의 테러지원국 명단에서 북한이 제외된 것에 못마땅해 했다. 이들은 명단 제외가 남한 당국의 외교실패라고 선언하고 미국의 결정에 찬성한 것에 대해 유명환 외교통상부 장관을 맹렬히 비난했다. 민주당 박주선의원과 선진과 창조 모임의 이회창의원은 명단 제외는 미국과 북한의 이해에 부합하는 것으로, 북한의 //“통미봉남(通美封南)”// 또는 남한을 봉쇄하고 미국과는 소통하는 전술에 놀아났다고 덧붙였다. 이들은 1987년 대한항공 858 기를 북한 폭탄이 추락시킨 이후에 북한을 해당 명단에 올리도록 요청한 것이 원래 남한이란 사실에 비추어, 미국의 일방적인 행동이라며 한탄했다.
+===== 한미 FTA =====
+6.(민감하지만비분류) 10월 7일 외교통상부 감사에서, 한나라당 의원들은 한미 FTA 법안의 즉각적인 비준을 주장하면서, 차기 미 대통령이 재협상을 요구할 수있다고 우려를 표했다. 유명환 외교통상부 장관은 한국이 FTA를 먼저 비준해야 하는 것은 미국이 협정을 비준하도록 추가적인 압력을 가하고, 협정문을 재협상하는 어떠한 시도들을 차단하는데 도움이 된다고 주장했다. 민주당을 대변해서 박주선 의원은 해당 법안을 전연 반대하진 않지만, 상식적으로 보면 제거되는 관세보호에 대처하기 위한 과도기적 지원을 국내산업에 제공해야 한다고 말했다. 외교통상부는 10월 8일에 국회에 해당 법안을 제출했고, 외교통상통일위원회 박진은 국정감사가 끝난 이후에(10월 말) 그 법안을 상임위원회에서 통과시키도록 할 것이라고 발표했다. 그는 국회의 86퍼센트가 해당 법안을 찬성했다며, 자신의 내부 조사를 인용했다.
+===== 논평 =====
+7.(민감하지만비분류) 국감 중에 외교통상부와 통일부 장관 공히 남북관계를 악화시킨다고 한국정부를 탓하는 것은 잘못이라고 계속 말해왔다. 남북 대화를 재개하자는 남한의 반복되는 제안을 북한이 수용하길 거부했다고 두 장관은 주장했다. 외교통상통일위원회의 국정감사 상에 한국정부의 응답에 기초해서 보면, 이명박 정부는 북한정책을 변경할 것 같지는 않다. 반면에 한국 국회에서 한미 FTA의 미래는 오히려 유망해 보인다: 대통령과 정부 그리고 여당 지도부는 이번 국회에서 해당 법안을 통과시킨다는 자신들의 바램을 반복적으로 표명해왔다. 그러나 한나라당 일반 의원들이 당 지도부의 조속한 비준에 대한 열망을 공유하는지 여부는 불분명한데, 특히 미국의 비준이 2010년으로 넘어갈 것처럼 보인다면 더 그렇다. //논평 끝.//
+//스티븐스//
+===== 참조 링크 =====
+  - [[http://www.segye.com/articles/components/func/print.asp?aid=20081024003282|"수박겉핥기 국감 이제 그만"…제도개선 소리 높아]]//세계일보//
+  - [[http://www.ohmynews.com/NWS_Web/Articleview/article_print.aspx?cntn_cd=A0000989507|남경필 "MB정부, 6·15-10·4선언 계승해야"]]//오마이뉴스//
+
+===== 원본 및 다운로드 =====
+<code - 08SEOUL2120.rtf>
+UNCLAS SEOUL 002120 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: FATU COMMITTEE DELIBERATES ON NORTH KOREA POLICY, 
+KORUS FTA AND TERROR LIST 
+ 
+¶1.  (SBU) Summary:  In the first parliamentary audit of the 
+18th National Assembly by the Foreign Affairs, Trade and 
+Unification (FATU) Committee, the Grand National Party (GNP) 
+and the Democratic Party (DP) butted heads over North Korea 
+policy.  The parties struggled to reconcile former President 
+Roh Moo-hyun's October 4 Inter-Korean Summit Declaration and 
+President Lee Myung-bak's North Korea policy.  The FATU 
+Committee concluded by denouncing the removal of North Korea 
+from the U.S. list of states that sponsor terrorism, citing 
+diplomatic failure on the part of South Korea.  The annual 
+audit is essentially political theater rather than 
+action-oriented, but it does provide some insight into the 
+parties' attitudes on key issues.  The Ministry of Foreign 
+Affairs and Trade (MOFAT) also submitted the KORUS FTA bill 
+to the National Assembly during the audit.  The legislation 
+will first be reviewed in the FATU Committee before it goes 
+to the plenary.  Committee Chair Park Jin and other GNP 
+lawmakers argued for an early ratification; the DP, while 
+noting it did not object to the FTA, demanded stronger trade 
+adjustment measures.  End Summary. 
+ 
+--------- 
+The Audit 
+--------- 
+ 
+¶2.  (SBU) The FATU Committee is the most sought after 
+committee membership in the National Assembly.   In addition 
+to many senior lawmakers, three party leaders are also 
+committee members -- Chung Sye-kyun (DP), Lee Hoi-chang 
+(Liberty Forward Party) and Moon Kook-hyun (Creative Korea 
+Party) along with heavyweights from the GNP, Chung Mong-joon 
+and Lee Sang-deuk.  The FATU Committee scheduled audits of 
+MOFAT on October 7 and 22 while those of the Ministry of 
+Unification (MOU) were conducted on October 6 and 23.  The 
+current composition of the FATU Committee is 17 GNP members, 
+7 DP members, 3 Forward and Creation Alliance members, 1 
+Pro-Park Alliance member, and 1 independent. 
+ 
+----------------------------------------- 
+October 4 Inter-Korean Summit Declaration 
+----------------------------------------- 
+ 
+¶3.  (SBU) At the first audit of the MOU, the GNP and the DP 
+repeated well-worn conservative versus progressive arguments 
+about North Korea policy.  Specifically, the parties clashed 
+over the implementation of the October 4, 2007 Inter-Korean 
+Summit Declaration -- which occurred as former President Roh 
+Moo-hyun's term was winding down.  The GNP, represented by 
+Kwon Young-se and Yoon Sang-hyun, criticized former President 
+Roh for failing to get public support on a list of projects 
+whose estimated cost, if they were to be implemented, would 
+be upwards of 14 trillion won (USD 10 billion at current 
+exchange rates).  They reminded the Committee that North 
+Korea was already in violation of both the June 15, 2000 
+Joint Declaration and the October 4, 2007 Declaration.  The 
+DP, on the other hand, blamed President Lee and his 
+administration for not adhering to the provisions of the 
+October 4 Declaration and for allowing politics to get in the 
+way of a peaceful resolution to the North Korea problem. 
+Representative Moon Kook-hyun of the Forward and Creation 
+Alliance also supported the DP's position, saying that the 
+United Nations passed a resolution supporting the declaration 
+and it therefore had the approval of the international 
+community.  In a rare show of dissent, fourth-term GNP 
+Representative and strong President Lee supporter Nam 
+Kyung-pil said that Lee was culpable for the current impasse 
+and that the Declaration was vital in restoring relations 
+between the two Koreas. 
+ 
+------------------------------------- 
+"Denuclearization, Opening 3000" Plan 
+------------------------------------- 
+ 
+¶4.  (SBU) President Lee's initial North Korea policy entitled 
+"Denuclearization, Opening 3000" -- for comprehensive 
+denuclearization, opening and raising the North's GDP per 
+capita to USD 3,000 -- received heavy criticism from both 
+sides of the political spectrum.  Led by DP Chair Chung 
+Sye-kyun, the opposition called for the policy's immediate 
+abolishment and said that the plan served only to provoke the 
+North while jeopardizing inter-Korean relations.  First-term 
+ 
+GNP lawmaker Hong Jung-wook also remarked that the goals of 
+the plan were unattainable at best and that the 
+administration needed to adopt a more practical approach. 
+The "Denuclearization, Opening 3000" plan, after its 
+lead-balloon reception in the North, has largely been 
+replaced by Lee's later "mutual benefit and common 
+prosperity" plan.  In any case, President Lee still included 
+the "Denuclearization, Opening 3000" plan as one of his 100 
+policy priorities at a cabinet meeting the next day. 
+ 
+---------------------- 
+Terrorism List Removal 
+---------------------- 
+ 
+¶5.  (SBU) Many of the lawmakers in the FATU Committee 
+disapproved of the removal of North Korea from the U.S. list 
+of states that sponsor terrorism.  They declared that the 
+removal was a diplomatic failure on the part of South Korea 
+and denounced Foreign Minister Yu for approving the U.S. 
+decision.  Representatives Chung Mong-joon (GNP), Park 
+Joo-sun (DP), and Lee Hoi-chang (Forward & Creation Alliance) 
+said that the removal was only in the interests of the U.S. 
+and North Korea, adding that it played to North Korea's 
+tactic of "tongmi bongnam," or communicating with the U.S. 
+while blocking South Korea.  They lamented the unilateral act 
+by the United States in light of the fact that it was South 
+Korea who originally requested that the North be placed on 
+the list after a DPRK bomb brought down Korean Air Lines 
+(KAL) flight 858 in 1987. 
+ 
+--------- 
+KORUS FTA 
+--------- 
+ 
+¶6.  (SBU) At the October 7 audit of MOFAT, GNP lawmakers 
+insisted on the immediate ratification of the KORUS FTA bill, 
+citing concerns that the next U.S. president may demand a 
+re-negotiation.  Foreign Minister Yu Myung-hwan argued that 
+Korea should ratify the FTA first, to help generate 
+additional pressure on the United States to ratify the bill, 
+and to forestall any efforts to re-negotiate the text. 
+Representative Park Joo-sun, speaking on behalf of the DP, 
+said that his party was not diametrically opposed to the bill 
+but that common sense dictated that domestic industries 
+should be given transitional support to cope with the 
+elimination of tariff protections.  MOFAT submitted the bill 
+to the National Assembly on October 8 and FATU Committee 
+Chair Park Jin announced that he would work to pass the bill 
+in the committee after the end of the national audit (end of 
+October).  He claimed that 87 percent of the lawmakers in the 
+National Assembly supported the bill, quoting his own 
+internal survey. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶7.  (SBU) During the audits, both the Foreign and Unification 
+Ministers continuously said it was wrong to blame the ROKG 
+for the worsening of inter-Korean relations.  The DPRK, they 
+claimed, refused to accept repeated South Korean suggestions 
+to resume inter-Korean talks.  Based on the ROKG responses in 
+the FATU committee audit hearings, the Lee Government seems 
+unlikely to change its North Korea policy.  Meanwhile, the 
+future of the KORUS FTA in Korea's National Assembly looks 
+rather promising:  The President, government and ruling party 
+leadership have repeatedly expressed their desire to pass the 
+bill in this National Assembly.  However, it remains unclear 
+if GNP rank-and-file members share the party leadership's 
+enthusiasm for prompt ratification, particularly if it looks 
+like U.S. ratification could slip to 2010.  End Comment. 
+STEPHENS
+</code>

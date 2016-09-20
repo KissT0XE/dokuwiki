@@ -1,0 +1,66 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2182  |  2008-11-07 08:53  |  기밀  |  주한미국대사관  |  {{tag>PHUM PREL KS }}  |
+====== 제 목: 유엔 제3 위원회 결의안에 관한 한국 정부 반응 ======
+  * 기 밀 SEOUL 002182 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+ 
+  * 행정명령 12958: 비밀해제: 11/07/2018 
+  * 태그: PHUM(([Human Rights])), PREL(([External Political Relations])), KS(([Korea (South)])) 
+  * 제 목: 유엔 제3 위원회 결의안에 관한 한국 정부 반응
+  * 참조: [[08state117889|STATE 117889]]
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun.)).  근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/14 19:43//
+1. (기밀) 11월 6일과 7일 대사관 정무 직원은 문숙형 외교통상부 북미1과장과 장재복 외교통상부 인권사회과장에게 [[08state117889|참조 전문]] 외교 문서를 제공하였다. 외교통상부는 제3 위원회에서 여타 불처리 결의안에 반대하는 오래된 입장을 유지하는 쪽으로 한국정부가 세 개의 결의안에((번역 주: 이란,북한,버마인권결의안을 말한다.)) 관한 불처리 동의안을 저지하는 표결을 할 거라고 확인하였다.
+
+2. (민감하지만 미분류) 장재복은 북한 결의안에 관해 한국이 북한인권결의안을 공동 제안하는 일본과 유럽연합에 합세할 예정이라는 언론 보도를 확인해 주었다. 그럼으로써 북한인권결의안을 통과시키는 방향으로 미국정부와 합세할 예정이다.
+
+3. (민감하지만 미분류) 마찬가지로 한국정부는 버마 관련 인권결의안에도 공동 제안할 예정이며, 결의안 통과를 위해 일할 예정이다.
+
+4. (기밀) 장재복은 이란과 관련해 한국정부가 불처리 결의안에 반대 표결할 예정이지만, 과거 관행 대로 해당 결의안이 표결에 부쳐지면 기권할 공산이 크다고 말하였다. 장재복은 이란 결의안에 대한 미국의 지원요청을 보고할 예정이며, 한국정부가 이란 결의안을 표결해야 하는 이유와 관련 추가적인 논의 기회가 열려 있다고 말하였다. 그는 모타키 이란 외교장관이 11월 12~13일 서울을 방문할 예정이라고 지적하였다.
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/12/08seoul2182|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://hrv.mofat.go.kr/webmodule/htsboard/hbd/hbdread.jsp?typeID=6&boardid=237&seqno=318454&c=&t=&pagenum=1&tableName=TYPE_DATABOARD&pc=&dc=&wc=&lu=&vu=&iu=&du=|대변인 정례 브리핑]]  //외교통상부//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL2182.rtf>
+C O N F I D E N T I A L SEOUL 002182 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 11/07/2018 
+TAGS: PHUM [Human Rights], PREL [External Political Relations], KS [Korea (South)] 
+SUBJECT: ROKG ON UN THIRD COMMITTEE RESOLUTIONS 
+ 
+REF: STATE 117889 
+ 
+Classified By: POL M/C Joseph Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) On November 6 and 7, Poloff presented reftel demarche 
+points to MOFAT North America Division I Director Moon 
+Sook-hyeong and UN Human Rights Division Director Chang 
+Jae-bok.  MOFAT confirmed that the ROKG would vote to block 
+no-action motions on all three of the resolutions, in keeping 
+with its long-standing opposition to any no-action motions in 
+the Third Committee. 
+ 
+¶2. (SBU) On the DPRK resolution, Chang confirmed press 
+reports saying that the ROK will join Japan and the EU as a 
+co-sponsor of the DPRK human rights resolution, so will join 
+the USG in working for passage of the resolution. 
+ 
+¶3. (SBU) Similarly, the ROKG will again be a co-sponsor of 
+the human rights resolution on Burma, so will work for its 
+passage. 
+ 
+¶4. (C) On Iran, Chang confirmed that the ROKG will vote 
+against the no-action motion but said that the ROKG will 
+likely abstain when the resolution comes to a vote, in 
+keeping with past practice.  Chang said he would report the 
+U.S. request for support on the Iran resolution and would be 
+open to additional arguments about why the ROKG should vote 
+for the resolution.  He noted that Iran's Foreign Minister 
+Mottaki will visit Seoul on November 12-13. 
+ 
+¶1. (C) Han 
+STEPHENS
+</file>

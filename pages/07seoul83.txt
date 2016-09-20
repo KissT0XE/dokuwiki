@@ -1,0 +1,185 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL83  |  2007-01-11 00:33  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>PGOV PREL ECON KS }}  |
+====== 제 목: 정치적 관점에서 바라본 2007년 예산 ======
+  * 기 밀 SEOUL 000083 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 12/10/2014 
+  * 태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), ECON(([Economic Conditions])), KS(([Korea (South)]))
+  * 제 목: 정치적 관점에서 바라본 2007년 예산
+  * 참조: 06 SEOUL 4263 
+  * 분류자: 정치 공사 참사관 조셉 윤.  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/22 03:36//
+===== 요점 =====
+1.(민감하지만비분류) 국회는 밤새도록 계속된 마라톤 협상을 통해 12월 27일 오전 5시 2007년 예산안 합의를 타결 지었다. 승인된 예산으로 지방정부는 사회공공기반시설 사업과 사회 복지에 더 많은 지출이 허용되었고, 반면에 북한 원조 사업 관련 기금은 감액되었다. 올해의 예산한 협상은 한나라당이 사학법에 대한 항의의 표시로 최종 표결에서 참석을 거부한 작년에 비해 잘 처리되었다; 사학법은 일 년 이후에도 해결되지 않고 남아있다. 다가올 2007년 대통령 선거는 예산안 협상과정에서 별 영향을 미치지 않았는데, 그 이유는 국회의원들이 2007년을 넘어 재선을 노리고 출마할 2008년 총선까지 내다봤기 때문이다. 노무현 대통령의 취약해진 입지와 더불어 열린우리당이 한나라당에 기회를 내주면서 2007년 예산의 최종 내용상에 더 많은 한나라당의 영향이 미친 가운데, 군소 정당인 민주노동당은 최종 결과상에 별 영향력이 없이 소외됐다. 
+===== 기본적 수치 =====
+2.(비분류) 합의된 예산안은 235조 4천억 원으로 책정되었는데(미화 2조 5310억 달러), 정부가 제안한 238조 5천억보다 적다. 비록 정부 제안 예산안이 국회 역사상 가장 큰 감액을 당했지만, 마지막 예산안의 액수는 2006년 예산안에 7퍼센트 인상된 수치이다. 예산은 156조 6천억원의 일반회계 지출과 6조 8천억원의 특별회계 그리고 72조 원의 정부운영 회계로(번역 주: 기금을 말한다((번역 주: 기금은 성장별로 사회보험성․계정성․금융성․사업성 등으로 분류( ’07년 현재 58개)
+① 사회보험성기금(6개): 국민연금 등 4개 연금, 고용․산재보험
+② 계정성 기금(5개): 공공자금관리기금, 외국환평형기금, 공적자금상환기금, 양곡증권정리기금, 복권기금
+③ 금융성 기금(10개): 신용보증기금, 기술신용보증기금, 농림수산업자신용보증기금 등
+④ 사업성 기금(37개): 대외경제협력기금, 남북협력기금, 국민건강증진기금, 국민체육진흥기금 등)).) 나누어 진다.
+===== 남북교류협력기금 =====
+3.(민감하지만비분류) 대북 원조사업을 지원하는 기금은 남북교류협력기금으로 알려져있는데, 12월 2일 법정기한을 넘겨 25일간 계속된 협상에서 주요한 난제였다. 국회 예산결산특별위원회 부의장 한나라당 박계동 의원에 따르면, 한나라당은 통일부가 요청한 남북교류협력기금 6500억 원을 단 1500억 원으로의 삭감을 계속 요구해왔다. 예산결산특별위원회의 협상 끝에, 단 1500억 원이라는 최종 삭감 결정으로 인해 남북교류협력기금이 총 5000억 원이 할애되는 결과를 낳았다.
+
+4.(민감하지만비분류) 그러나 예산 합의에 뒤이어진 통일부 관계관과 정치 담당관과의 대화에서, 통일부는 다른 기금 자원을 보유하고 있다고 주장했다. 통일부는 2007년 남북교류 활동으로 1조 400억 원 지출을 기대하고 있는데, 한반도에너지개발기구와 관련 책무를 배제한 액수다. 참조 전문을 보면, 통일부 관계관들은 만일 6자 회담의 진전에 따른 인도주의 원조가 재계하도록 하는 한국정부의 결정을 상정해서, 2007년에도 작년과 동일하게 쌀과 비료를 북한에 전달하기로 2006년 말에 이미 계획하고 있었으며, 쌀은 50만 톤 정도 그리고 비료는 대략 20만 톤~30만 톤 상당이다. 달리 말하면, 통일부 관계관들은 자체 예산안 요청에 대한 국회의 삭감에 대해 크게 우려하는 눈치는 아니다.
+===== 기타 북한관련 삭감 내용 =====
+5.(민감하지만비분류) 남북교류협력기금에 덧붙여, 열린우리당 의원들은 북한 비료 원조를 30만 톤에서 40 만 톤으로, 또한 식량원조를 40만 톤에서 50만 톤으로 증가시키려 했다. 결국에 한나라당은 그 두 계획을 고사시키면서, 비료 및 식량 지원 수준을 2006년 책정된 같은 수준으로 묶을 수있었다. 최종 예산에서 삭감된 기타 여러 항목은 다음을 포함한다:
+  * 금강산 여행 학생 보조금: 30억 원
+
+  * 금강산 관광 관리 기금: 10억 원
+
+  * 금강산 이산가족 면회소 기금: 50억 원
+
+  * 남북 열차 복구 기금: 10억 원
+===== 2007년 대통령 선거에 줄 영향 =====
+6.(기밀) 열린우리당 의원들과 예산결산특별위원회 이강래 위원장에 따르면, 열린우리당은 북한과의 교류 정책을 지속시키려 하는데, 6자 회담이 최근 재계된 점에 비춰볼 때 특히 그렇다. 2007년 대통령 선거를 고려할 때, 한나라당은 대선전에서 유리한 입지를 점하는 하나의 수단으로 열린우리당이 예산 집행을 못하도록 하는데 열중하고 있다. 예산 협상에서 일자리 창출 계획 예산을 80퍼센트(7500억 원) 증액시킨 것이 열린우리당의 가장 큰 성공이라고 이강래는 말했다.
+
+7.(기밀) 예산결산특별위원회의 한 의원인 민주노동당의 심상정은 다가올 대선과 총선에 미칠 영향에 대한 다른 시각을 갖고 있다. 심상정은 예산결산특별위원회의 의원들이 최종 예산안을 협상할 때 2007년 대선에 대해선 관심을 덜 하며, 2008년 총선에 더 걱정하고 있다고 말했다. 국회 의원들이 지역 사회기반시설 사업과 여러 복지 계획안에 돈을 투입시키려고 시도하면서, 자신들의 재선을 위한 토대를 닦고 있다. 노무현 대통령과 열린우리당 대선 후보들의 취약해진 입지를 고려할 때, 열린우리당 상임위 구성원들은 특히 지역 현안에 대해 더욱 신중을 기하고 있으며, 반면에 한나라당은 전국적인 사안들에 집중하고 있다.
+===== 논평 =====
+8.(기밀) 결국 한나라당은 예산안 과정을 제지하고 또한 열린우리당의 남북교류 계획에 제한을 가할 수있음을 보여줬다. 열린우리당은 한나라당을 밀어 붙여 북한 원조 기금의 현 수준을 유지하고, 적어도 또 한해는 현 교류협력 정책의 상당수를 유지하게 할 수있음을 보여줬다. 가장 큰 패배자는 민주노동당으로 훨씬 강한 한나라당과 열린우리당 상임위 의원들 사이에서 소외되고 말았다. 한나라당이 마지막 표결에 참석하지 못하면서, 민주노동당이 예산 처리과정에서 훨씬 두드러진 역할을 할 기회가 주어진 작년과는 다른데, 올해는 한나라당과 열린우리당이 온전히 관여했고 또한 자신들에게 이득이 되도록 예산을 효과적으로 이용하려 열심히 일했다. 예로 금강산 관광 사업 같은 북한 관련 비원조 사업은 대폭 삭감됐는데, 최근 몇 달간 북한 미사일과 핵 실험을 고려할 때, 금강산 관광과 같은 성격의 활동을 예산결산특별위원회에서 정당화시키기가 더욱 어려워졌다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/5/07seoul83|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 07seoul83.rtf>
+C O N F I D E N T I A L SEOUL 000083 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], ECON [Economic Conditions], KS [Korea (South)] 
+SUBJECT: POLITICAL PERSPECTIVES ON ROK'S 2007 BUDGET 
+ 
+REF: 06 SEOUL 4263 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+SUMMARY 
+------- 
+ 
+¶1.  (SBU)  In a marathon session that lasted through the 
+night and concluded at 5 a.m. on 27 December, the National 
+Assembly came to an agreement on the 2007 budget.  The 
+approved budget will allow local governments to spend more on 
+infrastructure projects and social welfare while some funding 
+for North Korea assistance projects was reduced.  This year's 
+budget negotiations went better than last year when the GNP 
+boycotted the final vote in protest of the Private School 
+Act; an issue that remains unresolved a year later.  The 
+upcoming December 2007 presidential election had less of an 
+impact on the budget negotiation process as Assembly Members 
+looked beyond 2007 and into 2008 when they will run for 
+reelection.  The weakened position of President Roh and the 
+Uri Party left the door open for the opposition GNP to have 
+greater influence in the final makeup of the 2007 budget 
+while the minor opposition Democratic Labor Party (DLP) was 
+marginalized with little influence in the final outcome. 
+ 
+THE BASIC NUMBERS 
+----------------- 
+ 
+¶2.  (U)  The agreed budget was set at 235.4 trillion won 
+($253.1 billion), smaller than the government's proposal of 
+238.5 trillion won.  Despite a proposal that underwent the 
+largest cuts in the history of the Assembly, the final budget 
+amount is an increase of seven percent over the 2006 amount. 
+The budget is divided into spending of 156.6 trillion won in 
+general accounts, 6.8 trillion won in special accounts and 72 
+trillion won in government-run accounts. 
+ 
+INTER-KOREAN COOPERATION FUND 
+----------------------------- 
+ 
+¶3.  (SBU)  Funding for projects in support of assistance 
+projects for North Korea, known as the Inter-Korean 
+Cooperation Fund or IKCF, was the main sticking point that 
+forced the negotiations to continue for 25 days beyond the 
+statutory deadline of December 2.  According to the Vice 
+Chairman of the Special Committee on Budget and Accounts Park 
+Kye dong, a GNP lawmaker, the GNP was pushing to cut the 
+Ministry of Unification's (MOU) request for 650 billion won 
+for the IKCF down to only 150 billion won.  Following Budget 
+Committee negotiations, the end result was only a 150 billion 
+won cut resulting in an allocation of 500 billion won to the 
+IKCF. 
+ 
+¶4.  (SBU) MOU officials in subsequent conversations with 
+poloff, however, claimed that the Ministry had other funding 
+resources.  The MOU anticipated spending 1.04 trillion won in 
+2007 on inter-Korean activities, excluding obligations 
+associated with the Korean Peninsula Energy Development 
+Organization.  Per reftel, MOU officials in late 2006 were 
+already planning for rice and fertilizer shipments to North 
+Korea in 2007 equal to past years, which were around 500,000 
+tons of rice and roughly 200,000 to 300,000 tons of 
+fertilizer, should the ROKG decide to resume its humanitarian 
+aid following progress in the Six Party Talks.  In other 
+words, MOU officials have not indicated substantial concern 
+over the National Assembly cut in its budget request. 
+ 
+OTHER NORTH KOREA CUTS 
+---------------------- 
+ 
+¶5.  (SBU)  In addition to the IKCF funding negotiations, Uri 
+members attempted to increase fertilizer aid to North Korea 
+to 400,000 tons from 300,000 tons and food aid to 500,000 
+tons from 400,000 tons.  In the end, the GNP was able to 
+stifle these two initiatives and both fertilizer and food aid 
+levels remained at the same level as approved in the 2006 
+budget.  Other items that were cut from the final bill 
+include: 
+-Keumgang Mountain tourism subsidy for students: 3 billion won 
+-Keumgang Mountain Tour Management Fund: 1 billion won 
+-Keumgang Mountain Meeting Facility Fund: 5 billion won 
+-Inter-Korean Railroad Repair Fund: 1 billion won 
+ 
+IMPACT OF 2007 PRESIDENTIAL ELECTION 
+------------------------------------ 
+ 
+¶6.  (C)  According to the Uri lawmaker and Chairman of the 
+Special Committee on Budget and Accounts Lee Kang-rae, the 
+Uri Party attempted to keep the engagement policy with North 
+Korea alive, especially in light of the recent resumption in 
+the Six-Party Talks.  Given the 2007 presidential election, 
+Lee said that the GNP was keen to prevent the Uri Party from 
+using the budget as a means to gain ground in the election 
+battle.  Increasing the budget for job creation initiatives 
+by 80 percent (750 billion won) was considered Uri's biggest 
+success in the budget negotiations, Lee said. 
+ 
+¶7.  (C)  A fellow Budget Committee Member, Shim Sang jeong 
+from the DLP had a different perspective on the effect of 
+upcoming elections.  Shim said that Committee members were 
+less concerned about the 2007 presidential election and more 
+concerned with the 2008 Parliamentary elections as they 
+negotiated the final bill.  Trying to funnel money to local 
+infrastructure projects and social welfare initiatives, 
+Assembly Members were laying the groundwork for their own 
+reelection.  Given the weakened position of President Roh and 
+the Uri presidential candidates, Uri Committee members in 
+particular felt it was more prudent to focus on regional 
+issues while GNP focused on national issues. 
+ 
+COMMENT 
+------- 
+ 
+¶8.  (C)  In the end, the GNP showed that they could restrain 
+the budget process and limit Uri's engagement initiatives. 
+Uri showed that they could push back on GNP and maintain 
+respectable levels of funding for North Korean aid, thereby 
+keeping many of the current engagement policies afloat for at 
+least another year.  The biggest loser might have been the 
+DLP who was marginalized between the much stronger GNP and 
+Uri Committee Members.  Unlike last year when the DLP was 
+afforded the chance to take a more prominent role in the 
+budget process given the absence of the GNP in the final 
+vote, this year both GNP and Uri were fully engaged and 
+worked hard to effectively utilize the budget for their own 
+benefit.  Non-aid related projects with North Korea, such as 
+the Keumgang Mountain Tourism Project, suffered heavy cuts as 
+the Budget Committee found it more difficult to justify this 
+type of activity given the North's missile and nuclear tests 
+in recent months. 
+VERSHBOW
+</file>

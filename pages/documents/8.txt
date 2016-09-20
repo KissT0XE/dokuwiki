@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 분류 ^ 상태 ^ 
+| 701 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2611_a.html| 07SEOUL2611 ]]| [[/07SEOUL2611]] | 통일부 장관, 북한이 자립 경제를 추구한다고 밝혀 | 2007-08-30 | 기밀 | 할당 |
+| 702 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2634_a.html| 07SEOUL2634 ]]| [[/07SEOUL2634]] | FTA: 김종훈 통상교섭본부장, 포메로이 의원과 소고기, 쌀, 자동차 문제 논의 | 2007-08-31 | 대외비 | 완료 |
+| 703 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2648_a.html| 07SEOUL2648 ]]| [[/07SEOUL2648]] | 한국 정부, 북방한계선(이하 NLL) 문제로 내부 논쟁. 남북 정상회담 안건이 될 것인가? | 2007-08-31 | 기밀/외국전파금지 | 완료 |
+| 704 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2651_a.html| 07SEOUL2651 ]]| [[/07SEOUL2651]] | 한국, 해성-II 함대함 미사일 시험 발사 | 2007-08-31 | 비밀 | |
+| 705 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2653_a.html| 07SEOUL2653 ]]| [[/07SEOUL2653]] | 아프가니스탄 인질 귀국과 남은 문제 | 2007-08-31 | 비밀 | 완료 |
+| 706 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2674_a.html| 07SEOUL2674 ]]| [[/07SEOUL2674]] | 청와대, 한미 정상회담 사전 검토: FTA와 소고기 문제 | 2007-09-04 | 기밀 | 보완 |
+| 707 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2675_a.html| 07SEOUL2675 ]]| [[/07SEOUL2675]] | 한국 정부, 시리아 행 철강 선적 허용할 계획 | 2007-09-04 | 비밀 | |
+| 708 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2694_a.html| 07SEOUL2694 ]]| [[/07SEOUL2694]] | 남북 정상회담의 성사 과정 | 2007-09-05 | 기밀 | 완료 |
+| 709 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2695_a.html| 07SEOUL2695 ]]| [[/07SEOUL2695]] | 론스타 스토리는 계속된다: 홍콩상하이은행, 외환은행 입찰 | 2007-09-05 | 기밀 | 완료 |
+| 710 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2696_a.html| 07SEOUL2696 ]]| [[/07SEOUL2696]] | 백종천 통일외교안보정책실장, 남북 정상회담과 비핵화 언급 | 2007-09-05 | 기밀 | 완료 |
+| 711 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2713_a.html| 07SEOUL2713 ]]| [[/07SEOUL2713]] | 대통합민주신당, 9명에서 5명으로 후보 압축 | 2007-09-06 | 기밀 | 완료 |
+| 712 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2728_a.html| 07SEOUL2728 ]]| [[/07SEOUL2728]] | 미 대사, 문정인 교수와 원희룡 한나라당 의원 면담 | 2007-09-07 | 기밀 | 완료 |
+| 713 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2761_a.html| 07SEOUL2761 ]]| [[/07SEOUL2761]] | 조일관계정상화 실무그룹회의 | 2007-09-11 | 기밀 | 완료 |
+| 714 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2800_a.html| 07SEOUL2800 ]]| [[/07SEOUL2800]] | 최고의 정치 분석가 “운 좋은 이명박” 12월 대선 승리 예상 | 2007-09-14 | 기밀 | 완료 |
+| 715 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2842_a.html| 07SEOUL2842 ]]| [[/07SEOUL2842]] | 아프가니스탄 인질 사태, 한국 정부의 현지 PRT 계획에 영향 없어 | 2007-09-17 | 기밀 | |
+| 716 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2845_a.html| 07SEOUL2845 ]]| [[/07SEOUL2845]] | 대통합민주신당 1차 경선 이후 3인으로 압축 | 2007-09-17 | 기밀 | 완료 |
+| 717 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2861_a.html| 07SEOUL2861 ]]| [[/07SEOUL2861]] | 이명박 경선 승리, 그 다음은? | 2007-09-18 | 기밀 | 완료 |
+| 718 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2876_a.html| 07SEOUL2876 ]]| [[/07SEOUL2876]] | 고대영 KBS 보도본부장, 한나라당이 반드시 승리할 것이라 밝혀 | 2007-09-19 | 기밀 | 완료 |
+| 719 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2885_a.html| 07SEOUL2885 ]]| [[/07SEOUL2885]] | IAEA 이사회 후속 보고: 한국 정부, IAEA와 협력하여 이란에 대한 지속적 압박 지지 | 2007-09-19 | 기밀 | |
+| 720 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2886_a.html| 07SEOUL2886 ]]| [[/07SEOUL2886]] | 정동영, 여론 조사에서 손학규 앞서 | 2007-09-19 | 기밀 | 완료 |
+| 721 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2906_a.html| 07SEOUL2906 ]]| [[/07SEOUL2906]] | 백종천 통일외교안보정책실장, 남북정상회담 깜짝 발표는 없을 걸로 예상 | 2007-09-20 | 기밀 | 완료 |
+| 722 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2940_a.html| 07SEOUL2940 ]]| [[/07SEOUL2940]] | 정세현 전 통일부 장관, 10월 정상회담 언급 | 2007-09-27 | 기밀 | 완료 |
+| 723 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2960_a.html| 07SEOUL2960 ]]| [[/07SEOUL2960]] | 한나라당 이명박 후보는 외교 정책 비전이 없다고 참모가 밝혀 | 2007-09-28 | 기밀 | 완료 |
+| 724 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2974_a.html| 07SEOUL2974 ]]| [[/07SEOUL2974]] | 10월 2~4일 남북 정상회담에서 주목해야 할 이슈 | 2007-10-01 | 기밀 | 완료 |
+| 725 | [[https://www.wikileaks.org/plusd/cables/07SEOUL2990_a.html| 07SEOUL2990 ]]| [[/07SEOUL2990]] | 남북 정상회담 1일차: 성대한 환영과 평화는 있지만 포옹은 없었다 | 2007-10-02 | 일반 | |
+| 726 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3006_a.html| 07SEOUL3006 ]]| [[/07SEOUL3006]] | 노무현 대통령, 북한의 태도에 놀랐으나 정상 선언은 예상대로 | 2007-10-04 | 기밀 | |
+| 727 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3007_a.html| 07SEOUL3007 ]]| [[/07SEOUL3007]] | 노무현 대통령, 북한의 태도에 놀랐으나 정상 선언은 예상대로 | 2007-10-04 | 기밀 | |
+| 728 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3017_a.html| 07SEOUL3017 ]]| [[/07SEOUL3017]] | 보수파 후보, 온라인 지지율 상승 | 2007-10-05 | 기밀 | |
+| 729 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3018_a.html| 07SEOUL3018 ]]| [[/07SEOUL3018]] | 대통합민주신당 부정선거 논란 속에 경선 규칙 변경 | 2007-10-05 | 기밀 | 완료 |
+| 730 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3024_a.html| 07SEOUL3024 ]]| [[/07SEOUL3024]] | 남북 정상회담에 대한 외교통상부 전언: 노무현 대통령, 미국 옹호 | 2007-10-05 | 기밀 | 완료 |
+| 731 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3025_a.html| 07SEOUL3025 ]]| [[/07SEOUL3025]] | 남북 정상회담: 양국 정상, 건강과 술, 결정에 대해 논평 | 2007-10-05 | 대외비 | |
+| 732 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3026_a.html| 07SEOUL3026 ]]| [[/07SEOUL3026]] | 남북 정상회담 선언: 야심찬 계획이지만 검증받아야 | 2007-10-05 | 기밀 | |
+| 733 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3033_a.html| 07SEOUL3033 ]]| [[/07SEOUL3033]] | 한국, 미국과 합작하여 건설한 토커맥(핵융합 반응 실험 장치) 융합 시험 장치 개량판 공개 | 2007-10-07 | 일반 | 완료 |
+| 734 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3043_a.html| 07SEOUL3043 ]]| [[/07SEOUL3043]] | 이재정 통일부 장관, 남북 정상회담의 긴장 분위기를 반박하고 평화 체제와 경제 사업 강조 | 2007-10-09 | 기밀 | 완료 |
+| 735 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3058_a.html| 07SEOUL3058 ]]| [[/07SEOUL3058]] | 다크호스 후보 문국현에게 기회가 있을까? | 2007-10-11 | 기밀 | 완료 |
+| 736 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3080_a.html| 07SEOUL3080 ]]| [[/07SEOUL3080]] | 대통합민주신당 경선 미리보기 | 2007-10-12 | 기밀 | 완료 |
+| 737 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3086_a.html| 07SEOUL3086 ]]| [[/07SEOUL3086]] | 정치적 주요 변수는 한나라당 이명박 후보에게 유리 | 2007-10-12 | 기밀 | 완료 |
+| 738 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3088_a.html| 07SEOUL3088 ]]| [[/07SEOUL3088]] | 경제 분야 주요국 회의에 대한 한국의 견해와 다음 조치 | 2007-10-12 | 기밀 | |
+| 739 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3104_a.html| 07SEOUL3104 ]]| [[/07SEOUL3104]] | 세드니 동아시아 부차관보, 한국에서 한미 동맹과 이라크, 아프가니스탄 논의 | 2007-10-16 | 기밀 | 완료 |
+| 740 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3110_a.html| 07SEOUL3110 ]]| [[/07SEOUL3110]] | 한국, 원자력 국제협력 통합정보시스템(이하 GNEP) 가입에 관심 | 2007-10-17 | 기밀 | |
+| 741 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3117_a.html| 07SEOUL3117 ]]| [[/07SEOUL3117]] | 금강산, 북한에서 한국의 족적이 커지고 있음을 보여주는 현상 | 2007-10-17 | 기밀 | 완료 |
+| 742 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3119_a.html| 07SEOUL3119 ]]| [[/07SEOUL3119]] | 워싱턴국제재생가능에너지회의(이하 WIREC) 장관 대표에 대한 외교문서 | 2007-10-17 | 일반 | |
+| 743 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3122_a.html| 07SEOUL3122 ]]| [[/07SEOUL3122]] | 대통합민주신당 새 후보 정동영, 북한의 신임에 의존 | 2007-10-17 | 기밀 | 완료 |
+| 744 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3137_a.html| 07SEOUL3137 ]]| [[/07SEOUL3137]] | 이명박, 공식 선거대책위원회 공개 | 2007-10-19 | 대외비 | 완료 |
+| 745 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3159_a.html| 07SEOUL3159 ]]| [[/07SEOUL3159]] | 이라크 한국군 파병: 대통합민주신당 대선 후보 정동영, 파병 연장에 반대 | 2007-10-23 | 기밀 | 완료 |
+| 746 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3177_a.html| 07SEOUL3177 ]]| [[/07SEOUL3177]] | 남북 정상회담 후속 조치: 한국 기업인들, 투자에 유연한 태도 | 2007-10-25 | 기밀 | |
+| 747 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3178_a.html| 07SEOUL3178 ]]| [[/07SEOUL3178]] | 정동영 참모: 이번 대선 경제가 말한다 | 2007-10-25 | 일반 | 완료 |
+| 748 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3186_a.html| 07SEOUL3186 ]]| [[/07SEOUL3186]] | 한국의 이라크 파병 연장의 일정과 전망 | 2007-10-26 | 기밀 | |
+| 749 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3191_a.html| 07SEOUL3191 ]]| [[/07SEOUL3191]] | 법원 판결, 성희롱을 근절하려는 법적 노력에 찬물 끼얹어 | 2007-10-26 | 기밀 | 완료 |
+| 750 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3214_a.html| 07SEOUL3214 ]]| [[/07SEOUL3214]] | 게이츠 국방장관의 제39차 한미안보협의회의(SCM) 관련 방한 관련 사전 정보 | 2007-10-30 | 기밀 | 완료 |
+| 751 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3224_a.html| 07SEOUL3224 ]]| [[/07SEOUL3224]] | 청와대 참모진: 우리가 대선에서 패하겠지만 괜찮다 | 2007-10-31 | 기밀 | 완료 |
+| 752 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3225_a.html| 07SEOUL3225 ]]| [[/07SEOUL3225]] | 김경준 송환 사건 | 2007-10-31 | 기밀 | 완료 |
+| 753 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3236_a.html| 07SEOUL3236 ]]| [[/07SEOUL3236]] | 한국 정부, 베네수엘라 군부에 차량을 상업적으로 판매하는 문제에 대한 미국의 호의적 견해 요청 | 2007-11-01 | 기밀 | |
+| 754 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3256_a.html| 07SEOUL3256 ]]| [[/07SEOUL3256]] | 문국현 대통령 후보, 국제 경쟁력에 치중 | 2007-11-05 | 기밀 | 완료 |
+| 755 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3266_a.html| 07SEOUL3266 ]]| [[/07SEOUL3266]] | 해적을 처벌하기 원하는 한국, 다국적 이행 조치 모색 | 2007-11-06 | 기밀 | |
+| 756 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3268_a.html| 07SEOUL3268 ]]| [[/07SEOUL3268]] | 이회창 후보: 삼세번 만의 행운? | 2007-11-06 | 기밀 | 완료 |
+| 757 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3269_a.html| 07SEOUL3269 ]]| [[/07SEOUL3269]] | 이인제 후보: 아직도 사퇴하지 않아 | 2007-11-06 | 기밀 | 완료 |
+| 758 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3279_a.html| 07SEOUL3279 ]]| [[/07SEOUL3279]] | 한국, NHK-II 지대지 미사일 시험 발사 | 2007-11-07 | 비밀 | 완료 |
+| 759 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3285_a.html| 07SEOUL3285 ]]| [[/07SEOUL3285]] | 이회창 효과 | 2007-11-08 | 기밀 | 완료 |
+| 760 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3287_a.html| 07SEOUL3287 ]]| [[/07SEOUL3287]] | 노무현 대통령, 레임덕에 빠지지 않아 | 2007-11-08 | 기밀 | 완료 |
+| 761 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3297_a.html| 07SEOUL3297 ]]| [[/07SEOUL3297]] | 노무현 대통령, 북한 의제 밀어붙여 | 2007-11-09 | 기밀 | 완료 |
+| 762 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3812_a.html| 07SEOUL3312 ]]| [[/07SEOUL3312]] | 대통합민주신당과 민주당 합당: 13 더하기 1.2는 승리일까? | 2007-11-14 | 기밀 | 완료 |
+| 763 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3823_a.html| 07SEOUL3323 ]]| [[/07SEOUL3323]] | 중국을 바라보는 한국의 시각, 고구려 문제에 대한 우려 | 2007-11-15 | 기밀 | 완료 |
+| 764 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3326_a.html| 07SEOUL3326 ]]| [[/07SEOUL3326]] | 한국, 유엔 총회 제3위원회(사회적·인도적·문화적 의제를 다룬다)의 불처리 동의안에 반대표를 던질 듯 | 2007-11-16 | 기밀 | |
+| 765 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3331_a.html| 07SEOUL3331 ]]| [[/07SEOUL3331]] | 대선 후보들, 아무도 교육 개혁 관련하여 훌륭한 해결책을 내놓지 못해 | 2007-11-16 | 기밀 | 완료 |
+| 766 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3355_a.html| 07SEOUL3355 ]]| [[/07SEOUL3355]] | 2007~2008년 남북한 국제마약단속전략 보고서(INCSR) | 2007-11-21 | 대외비 | |
+| 767 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3357_a.html| 07SEOUL3357 ]]| [[/07SEOUL3357]] | 2007~2008년 남북한 국제마약단속전략 보고서(INCSR) | 2007-11-21 | 대외비 | |
+| 768 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3358_a.html| 07SEOUL3358 ]]| [[/07SEOUL3358]] | 2007~2008년 남북한 국제마약단속전략 보고서(INCSR) | 2007-11-21 | 대외비 | |
+| 769 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3359_a.html| 07SEOUL3359 ]]| [[/07SEOUL3359]] | 2007~2008년 남북한 국제마약단속전략 보고서(INCSR) | 2007-11-21 | 대외비 | |
+| 770 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3361_a.html| 07SEOUL3361 ]]| [[/07SEOUL3361]] | 운명의 한 주: 대통령 선거까지는 앞으로 한 달 | 2007-11-21 | 기밀 | 완료 |
+| 771 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3366_a.html| 07SEOUL3366 ]]| [[/07SEOUL3366]] | 대통합민주신당 정 후보 전라도에: 내 사랑 어디에? | 2007-11-23 | 기밀 | 완료 |
+| 772 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3367_a.html| 07SEOUL3367 ]]| [[/07SEOUL3367]] | 한국, 반이스라엘 결의안에 대한 입장 바꾸지 않을 듯 | 2007-11-23 | 기밀 | |
+| 773 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3368_a.html| 07SEOUL3368 ]]| [[/07SEOUL3368]] | 한국 정부, 피에르-리처드 프로스퍼의 유엔 위원회 지명에 호의적 | 2007-11-23 | 기밀 | |
+| 774 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3385_a.html| 07SEOUL3385 ]]| [[/07SEOUL3385]] | 한국정부 남북 국방장관 회담에 앞서 미국 당국자들에게 브리핑| 2007-11-26 | 기밀 | 완료 |
+| 775 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3408_a.html| 07SEOUL3408 ]]| [[/07SEOUL3408]] | 국회, 민감한 의제는 다음 회기로 넘겨 | 2007-11-28 | 기밀 | 완료 |
+| 776 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3410_a.html| 07SEOUL3410 ]]| [[/07SEOUL3410]] | 대통합민주신당 후보 진영, 힘겨운 싸움을 하는 중 | 2007-11-28 | 기밀 | 완료 |
+| 777 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3414_a.html| 07SEOUL3414 ]]| [[/07SEOUL3414]] | 남북 총리 회담: 세부 논의는 많았지만, 이행하기엔 시간이 촉박해 | 2007-11-28 | 기밀 | 완료 |
+| 778 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3424_a.html| 07SEOUL3424 ]]| [[/07SEOUL3424]] | 열기가 느껴진다: 공식 대선운동 개시 | 2007-11-30 | 기밀 | 완료 |
+| 779 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3426_a.html| 07SEOUL3426 ]]| [[/07SEOUL3426]] | 김대중 납치 사건 폭로: 권위주의적 과거와의 단절 | 2007-11-30 | 기밀 | 완료 |
+| 780 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3427_a.html| 07SEOUL3427 ]]| [[/07SEOUL3427]] | 백종천 통일외교안보정책실장 미국 방문 관련 사전 정보 | 2007-11-30 | 기밀 | 완료 |
+| 781 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3428_a.html| 07SEOUL3428 ]]| [[/07SEOUL3428]] | 북한 경제, 중국이 북한의 광물 자원을 차지할 것인가? | 2007-11-30 | 기밀 | 완료 |
+| 782 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3438_a.html| 07SEOUL3438 ]]| [[/07SEOUL3438]] | 글로벌호크(고고도 무인 정찰기)의 한국 판매에 대한 지지 | 2007-12-03 | 기밀 | 완료 |
+| 783 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3449_a.html| 07SEOUL3449 ]]| [[/07SEOUL3449]] | 한국, 해성-II 함대함 미사일 시험 발사키로 | 2007-12-04 | 비밀 | 완료 |
+| 784 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3461_a.html| 07SEOUL3461 ]]| [[/07SEOUL3461]] | 한국 정부, 에르빌의 자이툰 부대 양해각서 관련 진전이 있다고 보고 | 2007-12-05 | 대외비 | |
+| 785 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3463_a.html| 07SEOUL3463 ]]| [[/07SEOUL3463]] | 유엔 총회 후속 외교문서 전달 | 2007-12-05 | 대외비 | |
+| 786 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3464_a.html| 07SEOUL3464 ]]| [[/07SEOUL3464]] | 이명박, BBK 스캔들에서 벗어나 | 2007-12-05 | 기밀 | 완료 |
+| 787 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3465_a.html| 07SEOUL3465 ]]| [[/07SEOUL3465]] | 지역주의는 건재하며 요동하는 충청도에서 기승을 부려 | 2007-12-05 | 기밀 | 완료 |
+| 788 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3484_a.html| 07SEOUL3484 ]]| [[/07SEOUL3484]] | 경상도: 보수 재집권 기대에 부풀어 | 2007-12-09 | 기밀 | 완료 |
+| 789 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3485_a.html| 07SEOUL3485 ]]| [[/07SEOUL3485]] | 이명박 지지율 격차 벌려: 핵심접선책 “경기는 끝났다” | 2007-12-09 | 기밀 | 완료 |
+| 790 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3494_a.html| 07SEOUL3494 ]]| [[/07SEOUL3494]] | 한국, GNEP 가입 | 2007-12-10 | 일반 | 보완 |
+| 791 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3510_a.html| 07SEOUL3510 ]]| [[/07SEOUL3510]] | 이명박, 자신을 승려 묘청에 비유 | 2007-12-11 | 기밀 | 완료 |
+| 792 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3511_a.html| 07SEOUL3511 ]]| [[/07SEOUL3511]] | 정동영 후보 선대본부장 정대철, 정동영과 대통합민주신당의 미래 어두워 | 2007-12-11 | 기밀 | 완료 |
+| 793 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3513_a.html| 07SEOUL3513 ]]| [[/07SEOUL3513]] | 한국, 해성-II 함대함 미사일 시험 발사 일정 변경 | 2007-12-12 | 비밀 | 완료 |
+| 794 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3515_a.html| 07SEOUL3515 ]]| [[/07SEOUL3515]] | 서울대사관 2007년 12월 19일 대통령 선거 관련 전문들 | 2007-12-12 | 기밀 | 완료 |
+| 795 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3525_a.html| 07SEOUL3525 ]]| [[/07SEOUL3525]] | 침울한 표정의 청와대 보좌진, 최악의 상황에 대비 | 2007-12-13 | 기밀 | 완료 |
+| 796 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3527_a.html| 07SEOUL3527 ]]| [[/07SEOUL3527]] | 이명박 외교부에 대한 예측 | 2007-12-13 | 기밀 | |
+| 797 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3531_a.html| 07SEOUL3531 ]]| [[/07SEOUL3531]] | 북한 난민, 심리적 트라우마 느껴(1부) | 2007-12-14 | 일반 | |
+| 798 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3535_a.html| 07SEOUL3535 ]]| [[/07SEOUL3535]] | 10월 정상회담 이후 남북 관계: 막판 한판승은 아니지만, 유효까지는 얻어 | 2007-12-14 | 기밀 | 완료 |
+| 799 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3536_a.html| 07SEOUL3536 ]]| [[/07SEOUL3536]] | 대한항공, T-36M 통신·항법 장치 수령: 허가 05-0007000호에 따른 선적 후 최종 사용 검사 | 2007-12-14 | 일반 | |
+| 800 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3538_a.html| 07SEOUL3538 ]]| [[/07SEOUL3538]] | 북한 난민: 심리적 문제에 대처하는 법(2부) | 2007-12-14 | 일반 | |
+</sortable>

@@ -1,0 +1,74 @@
+^  문서번호  ^  작성일  ^  공개일자  ^  분류  ^  출처  ^
+| 07SEOUL2547 | 2007-08-23 | 2011-08-30 | 비밀 | 주한 미국 대사관 |
+
+비 밀  서울  002547 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR ISN - RUGGIERO, T, EUR, AND EAP/K 
+TREASURY FOR OASIA - ALVO 
+ 
+E.O. 12958: DECL: 08/23/2017 
+태그: IR KNNP PARM PREL KS
+제목: 멜랏 은행의 거래에 대한 한국 회신
+ 
+참조: STATE 109506 
+ 
+분류자: A/ECON CHIEF MIKE SPANGLER 이유 1.4 (B&D).
+
+====== 멜랏 은행의 거래에 대한 한국 회신 ======
+(S) 8월 23일에 외교통상부 군축비확산과 과장 박철민이 세파 은행(Bank Sepah)과 멜랏 은행(Bank Mellat)이 관련된 거래에 대한 한국정부((번역 주: ROKG - Republic of Korea Government))의 조사 결과를 우리에게 주었다. (우리는 스캔하여 분류한 46쪽의 문서를 ISN((번역 주: Bureau of International Security and Nonproliferation, 국제 안보 및 비확산 부서. - 확인이 필요함. ))의 안소니 루찌에로에게 이메일로 전달할 것이다.) 박철민은 유엔안보리 결의((번역 주: UNSCR - United Nations Security Council Resolution 국제연합 안전보장이사회 결의안)) 1737((번역 주: http://www.iaea.org/newscenter/focus/iaeairan/unsc_res1737-2006.pdf 대이란 제재결의 1737호는 모든 유엔 회원국들에게 원자력, 미사일 기술 관련 이전 금지와, 이란의 핵활동 유관 10개 단체 및 12명의 자연인에 대한 자산동결 조치를 요청하였으며, 제재결의의 이행을 위해 1737 제재위원회를 설치하고 회원국들의 조치결과를 60일 이내에 유엔에 제출하고 90일 단위로 추가보고토록 규정. )), 1747((번역 주: http://www.iaea.org/newscenter/focus/iaeairan/unsc_res1747-2007.pdf 이란이 농축·재처리 활동을 지속함에 따라,수출통제 품목을 확대하고 자산동결 대상을 추가(13개 단체, 자연인 15인).))을 따르지 않는 거래는 전혀 발견되지 않았다고 명시하였다. 그러나 그는 (이란 정부가 소유한 가스 회사에 관련된) 788번 항목과 237-241, 250, 261, 358(사이파사Saipa社((번역 주: 이란의 자동차 회사)) 관련) 항목에 표시를 해두었고, 이 항목들은 일반적인 상품 매출에 관련한 것이라고 강조하였다. 박철민은 한국정부의 조사 결과에 대하여 미정부의 피드백을 구하였고, 그 거래들이 의혹이 있는 것들이 아니며 현지 회사들이 지불 지연으로 인하여 재정적 어려움을 초래하고 있으므로 미정부가 그 거래들이 진행되도록 가능한 빨리 허가해줄 것을 요청하였다. 
+버시바우
+
+====== 원문 ======
+<code>
+Reference ID	Created	Released	Classification	Origin
+07SEOUL2547	2007-08-23 06:19	2011-08-30 01:44	SECRET	Embassy Seoul
+VZCZCXYZ0023
+PP RUEHWEB
+
+DE RUEHUL #2547 2350619
+ZNY SSSSS ZZH
+P 230619Z AUG 07
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC PRIORITY 6187
+INFO RUEATRS/DEPT OF TREASURY WASHINGTON DC PRIORITY
+</code>
+
+<code>
+S E C R E T SEOUL 002547 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR ISN - RUGGIERO, T, EUR, AND EAP/K 
+TREASURY FOR OASIA - ALVO 
+ 
+E.O. 12958: DECL: 08/23/2017 
+TAGS: IR KNNP PARM PREL KS
+SUBJECT: SEOUL RESPONSE: BANK MELLAT TRANSACTIONS 
+ 
+REF: STATE 109506 
+ 
+Classified By: A/ECON CHIEF MIKE SPANGLER FOR REASONS 1.4 (B&D). 
+ 
+(S)  On August 23, Ministry of Foreign Affairs and Trade 
+(MOFAT) Disarmament and Non-proliferation Division Director 
+Park Chul-min gave us the results of the ROKG's investigation 
+into transactions involving Banks Sepah and Mellat.  (We are 
+e-mailing the scanned-in 46-page classified document to ISN's 
+Anthony Ruggiero.)  Park indicated that the ROKG had found no 
+transactions that failed to comply with UNSCRs 1737 and 1747, 
+ However, he flagged Item No. 788 (involving Iran's 
+state-owned gas company) and Nos. 237-241, 250, 261, and 358 
+(connected to Saipa Company) and stressed these items 
+involved common commodity sales.  Park sought USG feedback on 
+the ROKG's investigative results -- and requested that the 
+USG permit the transactions to go forward as soon as possible 
+since they are not suspicious and local firms are incurring 
+financial hardships due to payment delays. 
+VERSHBOW
+</code>

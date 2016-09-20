@@ -1,0 +1,472 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL1211  |  2007-04-26 07:20  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PARM PGOV PINS MARR MCAP KS KN CH JA }}  |
+====== 제 목: 한미 동맹의 정치학(1/3부) ======
+기 밀 SECTION 01 OF 07 SEOUL 001211 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+국무부는 동아태 힐 차관보 및 동아태 수석 부차관보 스티븐스에게 전달하세요((DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS))
+행정명령 12958: 비밀해제: 04/23/2017 
+태그: PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), PGOV(([Internal Governmental Affairs])), PINS(([National Security])), MARR(([Military and Defense Arrangements])), MCAP(([Military Capabilities])), KS(([Korea (South)])), KN(([Korea (North)])), CH(([China (Mainland)])), JA(([Japan; Okinawa; Ryukyu Islands])) 
+제 목: 한미 동맹의 정치학(1/3부)
+분류자: 빌 스탠튼 대리대사((번역 주: chargé d´affaires[CDA] BILL STANTON))  근거 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/05/16 00:05// 
+===== 요약 =====
+1. (기밀) 전문 시리즈의 요약: 이번 보고서는 한미 동맹에 관한 3개의 시리즈 중 첫 번째로 한국 사람들이 인식하는 자국의 안보 환경에 대해 점검한다. 두 번째 보고서는 한국 사람들이 자국 안보와 관련해 기대하는 한미 동맹의 역할은 무엇인지 살펴본다. 마지막 보고서는 미국과 한국의 동맹 문제와 관련한 이슈가 2007년 남한의 대선 캠페인 중에 더 나아가서는 이후까지 어떤 양상으로 펼쳐질 가능성이 큰지 다룰 예정이다. 미국 대사관은 그러한 주제를 10명 이상의 한국 정치와 국가 안보 전문가들과의 논의를 통해서 탐구했다. 인터뷰 대상은 국내 정치권 전반을 아우르는 의견을 대변하지만, 아래와 같은 주요 사항에서 의견이 하나로 모아졌다.
+  * 대한민국은 여전히 북한을 일 순위 안보 문제로 보고 있지만, 여러 가지 이유는 북한 문제는 군사적 위협을 초월한다.
+
+  * 한국 사람들은 그 밖의 안보 위협에 대한 의견은 서로 크게 상충한다. 그래서 역내 여타 주변국과의 관계에서 분산 투자로 위협에 대처한다.
+
+  * 남한은 미합중국과의 지속적인 군사 동맹을 강력히 열망하지만, 미합중국의 이해관계가 자국의 이해에 진정 부합하는 것인지 계속해서 질문하고 있다. 한국민들은 또한 국가적 자긍심에 대한 모욕으로 볼 만한 것에 대해 민감해 하고 심지어 과민하다.
+
+  * 한미 관계가 호전되고 있는 상황을 볼 때, 2007년 한국 대선에서 한미동맹이 주요 이슈가 될 가능성이 작다. 요약 끝.
+
+  * 한미관계가 호전된 상황을 볼 때,  2007년 한국 대선에서 한미동맹이 주요한 선거쟁점이 될 성싶지 않다. //요점 끝.//
+
+===== 소개 =====
+2. (기밀) 2002년 남한 대통령 선거에서 승리를 거둔 노무현 후보는 계속되고 있는 주한 미군 병력 37,000명의 주둔 문제와 미군의 주둔으로 야기되는 관련 문제를, 특히 한국 여중생 두 명이 사고로 주한미군 차량에 깔려 죽은 56번 국도 사건을 선거 쟁점으로 악용했다. 이에 따라 미 대사관은 한미 동맹 문제가 2007년 대선 캠페인에서 정치적으로 좋지 않은 점수를 따는 데 다시 이용될 가능성을 줄이도록 주한미군과 긴밀히 협력해왔다. 미국 정부가 앞서 논란을 샀던 전시 작전통제권 이양 문제와 미군 기지 재배치 및 통폐합 등의 동맹 문제를 해소하기 위해 2월 22일 한국과 미국 정부가 포괄적인 합의를 이루는 것이 가장 중요한 일이다. 게이츠 미 국방부 장관과 한국의 퇴역 장성 김장수 국방부 장관이 승인으로 이뤄진 해당 합의는 2007년 남한 대선으로 가는 길목에 한미동맹 쟁점을 탈정치화하도록 크게 도움이 되었다. 그리하여 “우리”가 “그들” 선거에 쟁점이 될 가능성을 줄이도록 했다.
+
+3. (기밀) 그러나 미군 병력을 한국 땅에 유치하는 데 따른 환경적, 사회적 비용에 반대하는 좌파 정치가와 학생 단체, 시민단체 활동가들이 비판 대상으로 삼기에는 미군의 한국 주둔이 여전히 매력적인 소재다. 심지어 전통적으로 미국 편에 서 있는 보수단체조차도 주한 미군의 변혁 전략의 특정한 측면에 대해 반대함으로써 정치적으로 점수를 따는데 전혀 거리낌이 없었다. 예로 작전통제권 이양에 대해 반대 목소리를 낸 것이 대표적이다. 우리는 한미동맹 이슈가 올해 남한 대선에서 부정적인 이목을 끌지 않으리라 예상하지만, 한반도에 주둔한 주한미군 병력 29,000명의 잔류 문제가 한미동맹을 희생시키는 대가로 정치적으로 점수를 얻으려는 정치가들과 그 지지자들의 공격을 초래할 가능성도 여전하다.
+
+4. (기밀) 안보 및 동맹 변환에 관한 남한 사람들의 관점을 더 잘 이해하고 해당 이슈가 한국 대선 과정과 그 이후에 정치적으로 어떤 양상으로 펼쳐질 가능성이 큰지 더 잘 이해하기 위해 대사관의 정치·군사 부서는 한국 내 다양하고 광범한 국가 보안 전문가를 인터뷰했다(명단은 본 전문 시리즈의 마지막 문단에 열거됨). 일련의 보고서를 통해서 한미동맹의 군사적 측면보다는 정치적인 측면에 대한 조명에 특별히 관심을 기울였다. 왜냐면 정치적 측면이 여기 한국 내 정치 논쟁에 영향을 미칠 가능성이 더 크기 때문이다. 군사적 측면은 우리의 여타 한국과 팀원들이 보고할 역량이 될 것이다. 간단히 말해, 우리의 목표는 남한과 미국의 정치·군사 관계에서 정 정치 참사관들의 더 바람직한 이해를 발전시키는 것이다. 우리는 이들 보고서가―좌파건 우파건―좋지 않은 방향으로 한미동맹을 정치 이슈화하려는 자들의 시도에 대해 미국 외교 정책 개발자들이 예상하고,​ 적절히 대응하도록 도움이 되길 바란다.
+====== 보고 1: 남한 사람의 안보 관점 ======
+===== 북한이 제일 걱정 =====
+5. (기밀) 한국 사람들이 가장 관심을 가져야 할 3대 국가로 한국인 안보 전문가 상당수의 의견이 모인 나라는 조선민주주의인민공화국과 중화인민공화국, 일본이다. 7년간의 남북 포용 정책에도 북한은 한반도 평화 유지에 최대 걸림돌로 여전히 작용하고 있다. 그러나 왜 경우가 그런지 관해서는 의견이 분분하다. (인터뷰에 응한) 대다수 안보 전문가들은 백만 조선인민군과 그들이 보유한 서울을 융단 폭격할 수 있는 장사정포 군사력, 새롭게 선보인 핵 능력 등에 대해 우려하고 있다. 그 누구도 북한이 남한에 대해 계획적인 공격을 단행할 것으로 믿지 않지만, 상당수는 언제든 적대 행위나 아마도 사고로 말미암은 무력 충돌이 위기를 촉발해 전쟁으로 확대될 수 있다고 우려하였다. 적은 수지만, 꽤 많은 한국 사람들은 미합중국이 북한 핵 시설에 대한 선제공격을 단행함으로써 전쟁을 재촉할 수 있다고 두려워하고 있다.
+
+6. (기밀) 그러나 대다수 한국 안보 전문가들이 우려하는 시나리오는 아마도 김정일 사망으로 촉발되는 북한 권위주의 군사 정권의 내부 통제력이 붕괴할 가능성이다(일부는 피할 수 없다고 말한다). 북한 경제의 급격한 하락 가능성 역시 큰 문제로 거론되고 있다. 외교부 장관을 역임하고 현재는 서울대 교수인 윤영관 박사가 말한 바로는 남한이 대규모 식량을 대북 원조로 제공하는 주된 목적은 “경착륙”과 같은 상황을 예방하자는 것이다. 그런 이유로 많은 한국인은 그와 같은 원조를 한국의 국가 안보 예산의 중요한 일부로 보고 있다고 윤영관은 설명했다. 무엇이 북한의 위기를 촉발하든지 상기한 시나리오 중에 어느 한 가지가 실제로 벌어질 가능성으로 말미암아 북한이 남한 사람들의 최대 걱정거리로 남아 있는 것이다.
+===== 중국 또는 일본이 걱정? 누구에게 묻느냐에 따라 달라 =====
+7. (기밀) 북한 문제를 차치하고 한국의 나머지 보안 문제의 올바른 우선순위 지정에 관한 보안 전문가 사이 의견은 뚜렷이 엇갈린다. 다음 가는 걱정거리가 중국이냐 일본이냐는 자문한 인사에 따라 달라진다. 일부는 일본의 의도에 대해 심각한 우려를 표명하지만, 다른 이들은 거의 아니면 전혀 우려하지 않는다. 다른 이들은 그대신 중화인민공화국을 한국의 자치권에 대한 최대 위협 국가로 지적하거나, 더 많은 경우에 남한 경제에 대한 장기적 도전으로 중국을 지목한다.
+===== 일본 =====
+8. (기밀) 노무현 정부 전 동북아시대위원장인 문정인 박사도 북한이 한국의 첫째가는 걱정거리라는 데 견해를 같이한다. 특히 북한 핵무기로 제기되는 비대칭 위협에 비춰볼 때 그렇다. 그러나 한국군은 “그 밖의 만일의 사태”를 다루기 위해 스스로 잘 대비하려는 강렬한 열망이 있다고 덧붙였다. 자문한 대다수 전문가는 논란을 사는 역사적 이슈를 차치하고 전반적인 한일 관계가 과거 10년에 걸쳐 극적으로 개선되었다고 지적했다. 한국인 대부분이 오늘날 일본을 안보 위협으로 견지하지 않음을 문 박사는 인정하면서도, 많은 한국인은 그의 말로는 일본의 “단체적 행동양식” 때문에 또다시 위협이 될 수 있다고 실제로 걱정한다. 그 점으로 인해 “특정한 조건이 갖춰지면” 한국에 대한 생각이 돌변할 수 있다고 문 박사는 말했다. 이것이 한국 국가 안보 전략을 구축에 기초로 삼기에는 비정형의 근거이긴 하지만, 한국민 사이 일반적인 견해임을 우리가 확인해 줄 수 있다. 남한인들은 그래서 일본 정부가 무슨 일을 하든―이지스급 구축함 취득에서부터 아베 총리의 위안부 문제에 관한 발언에 이르기까지―이 프리즘을 통해 모든 것을 바라보는 경향이 있다.
+
+9. (기밀) 일본에 대한 걱정은 한국에서 결코 보편화한 생각은 아니다. 안드레이 란코프 국민대학교 역사학 교수는 “일본의 위협”은 국내 정치적 이유로 지나치게 부풀려져 있다고 믿고 있다. 상당수 한국인은 그것을 이해하고 있지만, 한국 정치가의 “일본 때리기”로 만연되어 문제를 양산하고 있다. 왜냐면 그로 인해 일반 시민의 현실관을 왜곡했기 때문이다. 한승주 전 외무장관과 같은 한국의 식자 엘리트는 일본의 군사력에 대해 거의 걱정하지 않았다. 한 대사는 한일 동맹이 강력히 유지되는 한 일본이 실제로 한국을 위협할 위치에 있지 않다고 지적했다. 고려대 동아시아 연구원 원장인 김병국 박사도 이에 동의한다. 그는 반일 주제에 관한 “정치적 허풍”에도 불구하고, 일본과 한국 사이에 경제·교육·문화·민간 부분의 교류가 어느 때보다도 확대되는 등 정치적인 수사를 훨씬 능가한다고 지적했다. 윤영관 전 외교부 장관과 같은 다른 이들은 한국이 대일관계 구축에 더 나서야 한다고 주장한다. 왜냐면 일본의 정치적, 특히 경제적 지지가 북한의 붕괴 이후 한반도 안정을 위해 필요하기 때문이다.
+===== 중국 =====
+10. (기밀) 우리가 인터뷰한 현인택과 같은 일부 안보 전문가는 중국 인민해방군의 우려스러운 군사력 증강이 장기적으로 한국의 자치권에 대한 현실적인 위협이라고 언급했다. 그는 일민국제관계연구원 원장이며 선두를 달리는 한나라당 이명박 대선 후보의 외교정책 참모 중 일원이다. 그러나 한승주 대사와 같은 다수 의견이 오늘날 한국에서 일반적인 견해로 더 많이 받아 들여진다. 그는 중화인민공화국이 현재 한국에 위협이 되지 않는다며 실상은 잘 생각해 보면 중국이 중단기적으로 여러 한국 기업에 많은 경제적 기회를 제공하고 있다고 말했다. 동시에 많은 한국민은 중국이 남한 경제에서나 심지어 한국의 자치권에 에도 장기적으로 중대한 도전을 제기한다고 믿고 있다고 그는 말했다. 같은 견해를 가진 그 밖의 인사들은 역사적으로 일본이 아닌 중국이 한국에 가장 큰 위협이었다고 지적했다. 이들은 한반도 통일에 대한 중국 정부의 입장이 불확실하다고 걱정했다. 다른 한편으로 정치적, 군사적 투명성이 없다는 점에서 중국이 역내에서 예측 불허의 세력이 된다. 박세일 한반도선진화재단 이사장은 중국 정부가 한반도의 비핵화를 일관되게 주문하고 있지만, 실상은 북한 정부와의 특별한 관계를 유지하는 일에 더 관심이 있지 북한이 자체 핵무기를 단념하도록 영향력을 행사하는 일에는 관심이 덜하다고 경고했다.
+
+11. (기밀) 그러나 현재 중국과 관련해서 군사적 요인보다는 경제적 요인이 한국의 생각을 지배하고 있다. 한국을 벗어나서 통용되는 생각은 아니지만, 한국의 대북 포용 전략이 향후 경제적으로 중국과의 경쟁에 방향을 맞춘 것이지 북한의 행동을 바꾸자는 것이 아니다. 그런 견지를 채택한 사람들은 북한을 저렴한 노동력의 보고로 보거나 요긴한 원자재의 원천으로 본다. 남한 사람들은 경쟁국 중국에는 그와 같은 경제 자산을 거부하는 가운데 자국의 경제 발전을 위해서는 그러한 북한 자원을 활용할 수 있기 바라고 있다. 그들에게는 한국의 “평화와 번영 정책”이 중국에 부상에 맞서는 유용한 경제 대비책이다.
+
+12. (기밀) 마지막으로 한국 사람들이 중국을 바라보는 생각의 중요한 줄기는 미중 관계의 위축 가능성에 대한 걱정을 포함한다. 김병국 박사는 미중 관계 악화는 한국에는 “재난과 같다”고 말했다. 중화인민공화국이 인공위성요격미사일로 중국의 오래된 인공위성 중 하나를 성공적으로 파괴했다는 소식을 1월 한국 외교부에 버시바우 대사가 알렸을 당시에 그런 걱정은 분명히 드러났다. 외교부 사람들이 동 정보를 접하고 나온 유일한 반응은 이런 질문이었다: 그 일이 미국과 중국의 관계에 어떤 영향을 미치는가? 한국 내 다른 이들은 미국이 남한과의 관계를 희생하는 대가로 중국이나 북한, 아니면 모두와 합의를 할 수 있다고 추정을 하고 있다. 다른 인사들은 한국이 중국과의 친선을 위해 아마도 언젠가는 미국과의 동맹을 희생할 것이라고 제언한다.
+===== 모든 도전에 대처하기 위한 전략 =====
+13. (기밀) 대한민국이 자체적으로 인지한 해당 위협에 맞서기 위해 무엇을 해야 할까? 강원택 숭실대학교 정치학 교수가 말한 바로는 그렇게 많지 않다. 강원택은 한국 지도부는 미래에 대한 비전이 없다고 혐의를 제기한다. 최근에 남한 정부는 미국과의 “한층 균형 잡힌 관계”를 모색해왔다. 그러나 그 목적이 뭐냐? 강 교수는 물었다. 다른 인사들은 그러한 주장은 불공평하다고 본다. 한국 정부가 당면한 북한의 앞날에 대한 엄청난 불확실성과 중국과 일본에 대한 한국인의 엇갈린 시각을 고려할 때 불공평하다는 것이다.
+
+14. (기밀) 그러나 한국 안보 전문가들 사이에 공감대가 형성된 부분이 있다. 그것은 한국 정부가 가능한 모든 도전에 대처하기 위해 준비해야 하고, 준비되어 있어야 한다는 점이다. 그들은 세 가지 주된 요소를 반영한 한국의 전략적인 비전을 설명하는 경향이 있다: 1) 이웃 국가들과 평화로운 공존; 2) 국가안보정책의 중심으로 미국과의 공고한 동맹을 유지, 그리고; 3) 인도나 여타 중동 국가(에너지 안보의 필요에 부응하기 위한) 등 역외 국가와의 관계 확대. 이와 아울러 한국은 국방개혁 2020 계획에 따라 자체 군사력을 현대화하고 있다. 국방개혁 2020은 남한의 공군과 해군의 군사력 증강에 방점을 두고 있다. 이를 위해 한국 육군의 규모를 많이 축소해서 일부 비용을 충당했다.
+
+15. (기밀) 전반적으로 국방계획 2020은 남한 정부가 필요한 안보 역량을 증대하기 위해 한국 정부가 나름대로 고심한 노력으로 보인다. 한국 군사 물자 취득 계획 분석해 보면 남한의 의중이 상당 부분 드러난다. 가장 눈에 띄는 점은 한국 해군이 제주 거점 새로운 해군 기지를 수립하고 세 개 혹은 그 이상의 “원정함대”로 구성된 “대양” 해군을 창설하고자 공세적인 노력에 착수한 점이다. 그 결과는 이지스급 한국형 구축함과 214급 잠수함을 포함하는 훨씬 기동성을 갖춘 함대가 될 것이다. 예고된 해군 기지는 위미항에 건설될 가능성이 크며((번역 주: 위미리 주민의 반대로 무산되었고, 자세한 내용은 바깥 고리 제주 제민일보 2007년 4월 6일 기사를 보라.)) 그곳에서 동쪽으로 일본을, 서쪽으로 중국을, [국방부망 배포] 또는 남쪽으로 대만을 항해 닻을 올릴 수 있는 이상적인 위치이다. 또한, 동남아시아로 통하는 필수적인 해상병참선이기도 하다. 우리가 논의 과정에서 불거진 (대양 해군 창설을 목표를 세우게 된) 강력한 동기로는 작용한 내용을 보면 일본 해양자위대와 대등한 반열에 도달하기 위한 열망에 더해 중국과 일본과 각기 분쟁 중인 이어도와 독도의 영유권을 방어하기 위한 군사력 강화의 필요성을 포함한다.
+
+16. (기밀) 3월 27일 김장수 국방부 장관은 일본과 중국 모두 자체 군사력을 강화하고 있지만, 양국 모두 군사력 강화의 원인을 상대방에게 돌리며 서로를 비난하고 있다고 방한 중인 헤이든 중앙정보국 국장에게 말했다. 한국은 “가운데 끼어 있다.” 김 장관은 중국과 일본이 군국화함에 따라 중일 양국 모두가 무슨 일을 벌이고 있는지 유념해야 한다고 말했다. 역내 분산 투자로 위험에 대처하려는 남한 사람들의 이런 경향은 자체 외교의 여러 측면이나 국가 안보 정책 측면에서도 적용되고 있다는 여러 징후가 있다. 예를 들면, 한국은 역내 가장 강력한 권력인 미국과 중국 모두와 공조하며 양다리를 걸치려는 시도로 보인다. 그러나 한국은 동시에 국제사회 안에서 다른 국가와 관계 증진에도 힘쓰고 있다. 반기문 유엔 사무총장을 배출한 성공적인 캠페인과 레바논 임시 주둔 유엔군 파병 등이 그런 의도의(여타 국가와의 관계 증진) 사례들이다. 한승주 전 외교부 장관은 남한 사람들이 “살아남기” 위해선 국제적 역할을 대폭 확충하도록 힘써야만 한다. 그는 한국 정부 계획의 핵심 부분은 정부(공적) 개발 원조 지원을 대폭 확대할 예정이라고 공개했다.
+
+17. (기밀) 요약하면 남한이 역내 여러 열강 사이에서 일을 조정함에 더해 세계 전반에서 자국의 역할을 확대하고 있다. 어느 국가를 신뢰할지, 아니면 미래 어느 지점에서 자국의 이해관계가 타국과 충돌할지 등에 대해 확신할 수 없다. 문 교수가 말한 바로는 그런 불확실성이 한국이 동북아 “균형자”를 주문했을 당시 노 대통령의 의중이 무엇인지에 관한 적절한 해석일 될 것이다. 균형자란 용어가 의도와는 달리 잘 못 사용되었다. 왜냐면 진정한 역내 균형자는 미합중국이기 때문이라고 문 교수는 설명했다. 그러나 한국 사람들이 역내 다른 열강의 의도를 완전히 신뢰할 수 없으므로 다른 한편으론 주변 국가들과 군사적으로 대치하는 가운데 열강 사이에서 정치적, 외교적인 해법을 찾을 필요가 있다는 것이 한국의 판단이라고 문 박사는 설명했다. 이홍구 전 총리는 역사 전체를 거슬러 한국의 주변국 중 한 국가가 패권 국가가 되면 역내 균형이 깨지고 그 결과 한국민이 고초를 겪었다고 언급했다. 만일 중국, 일본, 혹은 러시아가 역내 패권 국가로 부상하게 된다면 한국이 또다시 고초를 겪게 될 것이라고 이홍구 대사는 설명했다.
+
+18. (기밀) 또 다른 한국 분석가는 남한의 안보적 관점이 미국과의 동맹에 어떻게 영향을 미치는지 적절히 설명했다. 그는 한국이란 중간 크기의 배가 같은 바다에서 운항 중인 다른 거대 선박 사이에서 충돌로 파손되거나 그사이에 갇히지 않도록 “조종”을 하는 것과 같다고 언급하였다. 그런 관점에서, 한국의 미합중국과의 동맹은 항공모함의 물길을 뒤 따라가는 작은 보트와 유사하다고 말했다. 이 방식이 한국호 선장에게는 혜택으로 돌아갈 수 있다. 단 한국호가 그 뒤를 너무 밀착하거나 너무 멀리 뒤처져 가지 않고, 가장 중요하게는 미 항공모함이 한국호가 가고자 하는 방향으로 운항하는 한 말이다.
+//스탠튼//
+[[https://sites.google.com/site/poirotkr/6/07seoul1211|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 내부고리 및 바깥고리 =====
+  - [[http://www.jemin.com/news/articleView.html?idxno=171360| 위미리 주민 도청 항의 방문]] //제민일보//
+  - [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0000164019 |윤영관 장관의 '항명 사표'에 청와대 '전격 경질']]  //오마이뉴스//
+  - [[07seoul1215|제 목: 한미 동맹의 정치학(2/3부)]]
+  - [[07seoul1216|제 목: 한미 동맹의 정치학(3/3부)]]
+===== 원본 내려받기 =====
+<file rtf 07SEOUL1211.rtf>
+C O N F I D E N T I A L SECTION 01 OF 07 SEOUL 001211 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS 
+ 
+E.O. 12958: DECL: 04/23/2017 
+TAGS: PREL [External Political Relations], PARM [Arms Controls and Disarmament], PGOV [Internal Governmental Affairs], PINS [National Security], MARR [Military and Defense Arrangements], MCAP [Military Capabilities], KS [Korea (South)], KN [Korea (North)], CH [China (Mainland)], JA [Japan; Okinawa; Ryukyu Islands] 
+SUBJECT: THE POLITICS OF ALLIANCE RELATIONS (1 OF 3) 
+ 
+Classified By: CDA BILL STANTON.  REASONS 1.4 (b/d) 
+ 
+¶1.  (C) SUMMARY OF CABLE SERIES:  This report, the first in a 
+series of three on the U.S.-Republic of Korea (ROK) Alliance, 
+examines South Korean perceptions of their security 
+environment.  The second looks at what role the ROK sees for 
+the Alliance in its security.  The final report addresses how 
+the issues related to the ROK's alliance with the United 
+States are likely to play out during the 2007 South Korean 
+presidential election campaign and beyond.  Post explored 
+these topics through discussions with more than a dozen 
+Korean political and national security experts.  Those 
+interviewed represented views across the domestic political 
+spectrum, but voiced consensus opinions on the following key 
+points: 
+ 
+-- The Republic of Korea still views North Korea as its 
+number one security concern, but for a variety of reasons 
+that go far beyond military threats. 
+ 
+-- The ROK is highly conflicted in its view of other security 
+threats.  It is therefore hedging its bets in relations with 
+its other neighbors in the region. 
+ 
+-- South Koreans strongly desire a continued military 
+alliance with the United States, but continually question 
+whether U.S. interests are truly aligned with their own. 
+They are also sensitive, even touchy, about perceived slights 
+to their national pride. 
+ 
+-- Still, Koreans now largely approve of U.S. management of 
+the Alliance, USG efforts in the Six-Party Talks, and the 
+Korean-U.S. Free Trade Agreement. 
+ 
+-- Given the improving state of U.S.-ROK relations, the 
+Alliance is unlikely to become major campaign issue in the 
+2007 ROK presidential election.  END SUMMARY 
+ 
+------------ 
+INTRODUCTION 
+------------ 
+ 
+¶2.  (C) During the 2002 South Korean presidential election, 
+the victorious candidate, Roh Moo-hyun, exploited as election 
+issues the continuing presence of 37,000 U.S. Forces Korea 
+(USFK) personnel in the ROK, and the associated problems that 
+arose from that presence -- most notably the Highway 56 
+accident in which two Korean school girls were accidentally 
+run over by a USFK military vehicle.  As a result, Post has 
+worked closely with USFK to make it less likely that Alliance 
+issues will again be used to score negative political points 
+in the 2007 presidential campaign.  Most important, the USG 
+reached a comprehensive agreement with the ROK on February 22 
+that resolved several previously contentious Alliance issues, 
+including the transition of wartime operational control 
+(OPCON) to the ROKG, and the consolidation and relocation of 
+U.S. bases.  That agreement, endorsed by Defense Secretary 
+Gates and ROK Defense Minister General (ret.) Kim Jang-soo, 
+greatly helped to depoliticize Alliance issues in the lead up 
+to the December 2007 South Korean presidential election, 
+thereby making it less likely that "We" will be the issue in 
+ 
+SEOUL 00001211  002 OF 007 
+ 
+ 
+"Their" campaign. 
+ 
+¶3.  (C) The U.S. military presence in Korea nonetheless 
+remains a tempting target for criticism from leftist 
+politicians, student groups and activist NGOs who oppose the 
+environmental and social costs of hosting U.S. Forces on 
+Korean soil.  Even conservative groups traditionally aligned 
+with the USG, have had no compunction about scoring political 
+points by opposing certain aspects of our U.S. Military 
+transformation strategy, most notably through their vocal 
+opposition to the OPCON transition.  While we expect that 
+U.S.-ROK Alliance issues will receive less negative attention 
+in this year's South Korean presidential race, issues 
+involving the remaining 29,000 USFK forces stationed on 
+Peninsula are still likely to generate attacks from 
+politicians and their supporters seeking to score political 
+points at the expense of the Alliance. 
+ 
+¶4.  (C) To develop a better understanding of South Korean 
+perspectives on security, Alliance transformation, and how 
+those issues are likely to play out politically during and 
+after the election campaign, Post's POL-MIL unit interviewed 
+a wide variety of national security experts in Korea (listed 
+in final paragraph of the series).  Throughout these reports, 
+special attention has been paid to highlighting the 
+political, rather than military aspects of Alliance 
+relations, since the former is more likely to influence 
+political debate in this country, and the latter is ably 
+reported on by other members of our country team.  In short, 
+our goal was to develop a better understanding of the POL in 
+our POL-MIL relationship with South Korea.  We hope these 
+reports will help U.S. foreign policy makers anticipate and 
+respond appropriately to efforts by those -- whether on the 
+left or the right -- who seek to adversely politicize 
+Alliance relations. 
+ 
+--------------------------------------------- 
+REPORT 1:  SOUTH KOREAN SECURITY PERSPECTIVES 
+--------------------------------------------- 
+ 
+North Korea Remains No. 1 Concern 
+--------------------------------- 
+ 
+¶5.  (C) There is broad consensus among South Korean security 
+experts that the ROK should be most concerned about three 
+countries:  The Democratic People's Republic of Korea, the 
+People's Republic of China, and Japan.  Despite seven years 
+of North-South engagement policy, there was universal 
+agreement that North Korea continues to pose the greatest 
+challenge to maintaining stability on the Korean Peninsula. 
+There are, however, differing opinions as to why that is the 
+case.  The majority remain concerned about the DPRK's one 
+million strong Korean Peoples Army (KPA), its ability to rain 
+mortar shells upon the city of Seoul, and its newly 
+demonstrated nuclear capability.  None believe the North will 
+launch a premeditated attack upon the South, but many worry 
+that a belligerent, perhaps even accidental, clash of forces 
+might someday spark a crisis that could escalate to war.  A 
+small, but significant number of South Koreans fear that the 
+United States might precipitate war by launching a preemptive 
+strike against North Korean nuclear facilities. 
+ 
+SEOUL 00001211  003 OF 007 
+ 
+ 
+ 
+¶6.  (C) The scenario that most worries Korean security 
+experts, however, is a possible (some say inevitable) 
+breakdown of internal control within North Korea's 
+authoritarian military regime, prompted perhaps by the death 
+of DPRK leader Kim Jong-il.  The possibility of a precipitous 
+decline in the North Korean economy was also often cited as a 
+significant concern.  According to Dr. Yoon Young-kwan, a 
+former ROK Foreign Minister and now a professor at Seoul 
+University, South Korea's provision of large amounts of aid 
+to the North is primarily aimed at preventing that kind of 
+"hard landing."  For that reason, many Koreans view such aid 
+as an important part of the ROK's national security budget, 
+Yoon explained.  Whatever might prompt a crisis with the 
+North, the possibility that any one of the above scenarios 
+could in fact occur has kept the DPRK atop the list of South 
+Korean security concerns. 
+ 
+Concerned About China or Japan?  Depends On Whom You Ask 
+--------------------------------------------- ----------- 
+ 
+¶7.  (C) The North Korea problem aside, there were starkly 
+differing opinions among security experts as to the proper 
+prioritization of South Korea's remaining security concerns. 
+Second place on the list was either China or Japan, depending 
+on the person consulted.  Some expressed serious concerns 
+about Japanese intentions, while others voice little or no 
+concerns at all.  Others pointed instead to the People's 
+Republic of China as the greatest threat to Korean autonomy, 
+or more often as a long term challenge to the South Korean 
+economy. 
+ 
+Japan 
+----- 
+ 
+¶8.  (C) Dr. Moon Chung-in, former chair of Roh Moo-hyun's 
+Presidential Committee on East Asia Regional Issues, agreed 
+that North Korea remains Seoul's number one concern, 
+especially in light of the asymmetric threat posed by DPRK 
+nuclear weapons.  He added, however, that the ROK military 
+strongly desires to better equip itself to deal with "other 
+contingencies."  Most of the experts consulted pointed out 
+that aside from controversial historical issues, overall 
+relations between Japan and the ROK had improved dramatically 
+over the past decade.  Acknowledging that most Koreans did 
+not view Japan as a security threat today, Dr. Moon 
+nonetheless pointed out that many Koreans did worry that 
+Japan could once again become a threat because of a 
+"follow-the-herd mentality" that he said made the Japanese 
+capable "under certain conditions" of changing their 
+intentions toward Korea dramatically.  While this is an 
+amorphous basis upon which to construct the ROK's national 
+security strategy, we can confirm such views are widely held 
+among the Korean people.  South Koreans therefore tend to 
+view everything the Japanese government does -- from 
+acquisition of Aegis class destroyers to Prime Minister Abe's 
+comments about the comfort women issue -- through that prism. 
+ 
+¶9.  (C) Concerns about Japan are by no means universal in the 
+ROK.  Dr. Andrei Lankov, a historian at Kookmin University, 
+believes the "Japanese threat" has been wildly over-inflated 
+ 
+SEOUL 00001211  004 OF 007 
+ 
+ 
+for domestic political reasons.  Many Koreans understand 
+this, but widespread "Japan bashing" by Korean politicians 
+has created a problem because it has distorted the average 
+citizen's view of reality.  Informed Korean elites, like 
+former ROK Foreign Minister Han Seung-joo, have very little 
+concern about Japanese military power.  Ambassador Han 
+pointed out that as long as the U.S.-Japan Alliance remained 
+strong, Japan would be in no position to pose a genuine 
+threat to the ROK.  Dr. Kim Byung-kook, Director of the East 
+Asia Institute at Korea University agreed, pointing out that 
+despite occasional "political chest-thumping" on 
+anti-Japanese themes, ever increasing personal, economic, 
+educational and cultural exchanges between Japan and the ROK 
+will far outweigh the political rhetoric.  Others, like 
+former Foreign Minister Yoon went further in his comments, 
+arguing that South Korea should do more to build its 
+relationship with Japan because Japanese political, and 
+especially economic, support would be necessary to stabilize 
+the Korean Peninsula following the collapse of North Korea. 
+ 
+China 
+----- 
+ 
+¶10.  (C) A number of the security experts we interviewed, 
+such as Hyun In-taek, Director of the Ilmin International 
+Relations Institute, and a foreign policy advisor to the 
+leading GNP presidential candidate Lee Myung-bak, noted the 
+disconcerting build-up of China's Peoples Liberation Army 
+(PLA) as a more realistic long-term threat to Korean 
+autonomy.  Most, however, like Ambassador Han Seoung-joo, 
+voiced what appears to be a more commonly held view in Korea 
+today.  He said the PRC currently poses no threat to the ROK, 
+is in fact well thought of, and affords many economic 
+opportunities for Korean companies in the short to mid-term. 
+At the same time, he said, many Koreans believe China does 
+pose a significant challenge to the South Korean economy, and 
+perhaps even to its autonomy, in the longer term.  Others who 
+held this view pointed out that historically it was China, 
+not Japan, that posed the greatest threat to Korea.  They 
+were concerned that Beijing's position on a unified Korean 
+Peninsula was uncertain, while its lack of political and 
+military transparency made it an unpredictable force in the 
+region.  Park Se-il, President of the Hansun Foundation for 
+Freedom and Prosperity, warned that while Beijing has 
+consistently called for denuclearization of the Korean 
+Peninsula, it in fact has been more interested in maintaining 
+its special relationship with Pyongyang than in exercising 
+its influence to get North Korea to give up its nuclear 
+weapons. 
+ 
+¶11.  (C) For now, however, economic rather than military 
+factors dominate ROK thinking with regard to China.  While it 
+was not readily understood outside of Korea, our 
+interlocutors claimed the ROK's engagement strategy toward 
+North Korea was directed more at concerns about future 
+economic competition with China, than it was about altering 
+North Korean behavior.  People ascribing to that view saw the 
+North as an inexpensive labor pool and source of needed raw 
+materials the South hopes to harness for its own economic 
+progress, while denying those same economic assets to its PRC 
+competitors.  For them, the ROK's "Peace and Prosperity 
+ 
+SEOUL 00001211  005 OF 007 
+ 
+ 
+Policy" is a useful economic hedge against a rising China. 
+ 
+¶12.  (C) Final important threads in Korean thinking about 
+China includes their concern about a possible decline in the 
+U.S.-China relationship.  Dr. Kim Byung-kook said that any 
+deterioration in Washington's relations with Beijing would be 
+"disastrous" for the ROK.  That concern was evident when the 
+Ambassador informed the ROK Foreign Ministry in January that 
+the PRC had successfully destroyed one of its old satellites 
+with an ASAT missile.  Upon hearing that information, the 
+only question the Foreign Minister asked in response was: 
+How will it affect relations between the United States and 
+China?  Others in the ROK speculate the United States might 
+make a deal with China, and/or North Korea, at the expense of 
+relations with the South.  Still others suggest the ROK might 
+one day sacrifice its Alliance with the United States for 
+closer relations with China. 
+ 
+Maneuvering to Meet All Challenges 
+---------------------------------- 
+ 
+¶13.  (C) What is the Republic of Korea doing on its own to 
+meet its perceived threats?  Not much, according to Soongsil 
+University political science professor Kang Won-taek.  Kang 
+accused the ROK leadership of lacking a vision of the future. 
+ Recently, the South Korean government has been seeking "a 
+more balanced relationship" with the United States, but to 
+what end? Kang asked.  Others consider such a charge to be 
+unfair, given the tremendous uncertainty the South Korean 
+government faces over what will happen to North Korea, and 
+the divergent views of Koreans toward China and Japan. 
+ 
+¶14.  (C) There does, however, appear to be a consensus among 
+Korean security experts that the ROKG is, and should be, 
+preparing to meet all possible challenges.  They tend to 
+describe the ROK's strategic vision as incorporating three 
+main elements:  1) Peaceful coexistence with its neighbors; 
+2) Retaining a strong alliance with the United States as the 
+backbone of its national security policy, and; 3) Expansion 
+of relations with other countries outside the region, such as 
+India and the countries of the Middle East (the latter in 
+order to meet its energy security needs).  In addition, the 
+ROK is also modernizing its own military forces under its 
+Defense Reform 2020 (DR 2020) plan.  DR 2020 places primary 
+emphasis on increasing South Korea's air and naval 
+capabilities, paid for in part by significant reductions in 
+the size of the ROK Army. 
+ 
+¶15.  (C) Overall, DR 2020 is seen as a prudent effort on the 
+part of the South Korean government to provide needed 
+enhancements to South Korea's overall security capabilities. 
+Analysis of ROK military acquisition plans reveals much about 
+South Korean intentions.  Most notable is that the ROK Navy 
+is embarking on an aggressive effort to establish a new naval 
+base on Cheju Island, and to create a "blue water" navy 
+comprised of three or more "expeditionary groups."  The 
+result will be a far more mobile fleet that includes 
+Aegis-class KDX III destroyers and type 214 diesel 
+submarines.  The proposed naval base, which will most likely 
+be built at Wimiri Harbor, is an ideal location from which to 
+sail east to Japan, west to China or south to Tawian and the 
+ 
+SEOUL 00001211  006 OF 007 
+ 
+ 
+vital sea lines of communication that flow through Southeast 
+Asia.  Other strong motivations that emerged from our 
+discussions included South Korea's desire to reach parity 
+with the Japan Maritime Self Defense Forces, and its 
+perceived need to enhance its capabilities to defend its 
+claims of sovereignty over the Socotra and Liancourt Rocks, 
+disputed with China and Japan respectively. 
+ 
+¶16.  (C) Defense Minister Kim told visiting Director of 
+Central Intelligence Hayden on March 27 that Japan and China 
+are both increasing their military power, but that both blame 
+each other as the reason for having to do so.  The ROK is 
+"stuck in the middle," the Defense Minister said, so it must 
+be mindful of what both China and Japan are doing as they 
+militarize.  There are indications this tendency on the part 
+of South Korea to hedge its bets in the region applies to 
+other aspects of its diplomatic, as well as national security 
+policy.  For example, the ROK appears to be attempting to 
+align itself with both of the two largest powers in the 
+region, the United States and China.  At the same time, 
+however, South Korea is also working to build other 
+relationships within the international community.  Its 
+successful campaign to get Ban Ki-moon elected UN Secretary 
+General, and its troop contribution to UNIFIL are examples of 
+this intent.  Former Foreign Minister Han Seung-joo said that 
+in order to "survive," South Korea must work to gain a 
+greater global role.  He revealed that a key part of the ROKG 
+plan is to increase its ODA contributions substantially. 
+ 
+¶17.  (C) In sum, South Korea is attempting to maneuver among 
+the various powers in the region, and expand its role in the 
+world at large.  It cannot be certain whom to trust, or where 
+its interests might run afoul of others in the future. 
+According to Professor Moon, that is the proper 
+interpretation of what President Roh meant when he called for 
+the ROK to become a "balancer" in the region.  That is the 
+wrong word to describe it, Moon explained, because the United 
+States is the true balancer in the region.  But since the ROK 
+does not entirely trust the intentions of other regional 
+powers, it believes it is necessary to maneuver politically 
+and diplomatically among them, while also standing up 
+militarily to the countries that surround it, Dr. Moon 
+explained.  Former ROK Prime Minister Lee Hong-koo noted that 
+throughout history when one of Korea's neighbors became a 
+hegemonic power, the balance was broken in the region and the 
+Korean people suffered as a result.  Korea would suffer again 
+if China, Japan, or Russia were to emerge as a regional 
+hegemonic power, Ambassador Lee explained. 
+ 
+¶18.  (C) Another Korean analyst aptly described how the South 
+Korean security perspective affects the ROK's Alliance with 
+the United States.  He noted that the ROK is like a 
+medium-sized boat that is "maneuvering" to keep from getting 
+blocked in by, or crushed between, other larger vessels 
+operating in the same waters.  In that sense, he said, the 
+ROK's Alliance with the United States is akin to that smaller 
+boat following in the wake of an aircraft carrier.  The 
+arrangement works to the benefit of the Korean captain so 
+long as he doesn't trail too close or drift too far away, and 
+most important, as long as the aircraft carrier is going in 
+the direction he wants it to go. 
+ 
+SEOUL 00001211  007 OF 007 
+ 
+ 
+STANTON
+</file>

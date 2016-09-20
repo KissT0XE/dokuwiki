@@ -1,0 +1,210 @@
+^ 문서번호 ^ 생성일 ^ 배포일 ^ 분 류 ^ 출 처 ^
+| 08SEOUL2388 | 2008-12-12 08:03 |2011-08-30 01:44 | SECRET | 서울 대사관 |
+
+====== 한국 회사와 파키스탄 미사일 프로그램 관련 개체들 간 계속되는 협력 ======
+
+<code>
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHUL #2388 3470803
+ZNY SSSSS ZZH
+R 120803Z DEC 08
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC 2609
+INFO RUEHIL/AMEMBASSY ISLAMABAD 0689
+</code> 
+
+
+S E C R E T SEOUL 002388
+Ⅱ급 비밀
+
+SIPDIS
+**SIPRnet - 미국 국방성, 국무성 인트라넷 - 에 공개**
+
+E.O. 12958: DECL: 12/11/2033
+TAGS: MTCRE PARM PREL PK KS
+SUBJECT: CONTINUED COOPERATION BETWEEN SOUTH KOREAN FIRM
+AND ENTITIES ASSOCIATED WITH PAKISTAN'S MISSILE PROGRAM (S)
+
+Classified By: Joseph Y. Yun for reasons 1.4 (B), (C), and (D).
+**직원 조세프 Y. 윤에 의해 기밀처리됨. 사유는 1.4 (B), (C), (D)**
+
+¶1.  (U)  This is an action request.  See paragraph 5. 
+**이것은 조치 요구이다. 5단락을 참조하라.**
+
+¶2.  (U)  Poloff met Young-kul Koh of the Disarmament and
+Nonproliferation Division, Ministry of Foreign Affairs and
+Trade (MOFAT) on December 10 regarding reftel.  While Koh
+understood our concerns, he said that the ROKG did not
+uncover evidence supporting USG claims.  Therefore, the USG
+would need to provide concrete evidence warranting ROKG
+action.
+**12월10일, 미 대사관 정치부에서 외교통상부 군축비확산 부서의 고영걸 협력관을 만났다. (관련 전문에 관해?)
+고 협력관은 우리의 우려를 이해하지만 미국 정부의 주장을 뒷받침할 근거를 찾지 못했다고 말했다.
+따라서, 미국 정부는 한국 정부의 행동을 보증하는 증거를 제공해야 한다고 했다.**
+
+¶3.  (S)  After poloffs communicated USG concerns about United
+Engineering in March 2008, MOFAT instructed its Embassy in
+Pakistan to investigate the firm and the end-use declaration
+filed by Sambu Korea Tek Co, LTD for the previous items it
+sold to United Engineering.  Koh permitted poloff to review
+the Embassy report, which it submitted in August 2008.  The
+investigation included a site inspection, interviews with
+management and employees, and photographic analysis.  United
+Engineering's owner denied any linkage with Pakistan's
+Project Management Organization (PMO), which is involved in
+the development and deployment of Pakistan's HATF-III
+missile, which is a Missile Technology Control Regime (MTCR)
+Category I system.  Employees denied or did not know if
+United Engineering had any relationship to Pakistan's PMO.
+In addition, the previously purchased items, (the exported
+items were positively identified), were installed in the
+location and in accordance with the information in the
+end-use declaration.  Finally, United Engineering prepared a
+physical site for newly ordered items (possibly lathes) in
+accordance with their proper installation and operation.
+**2008년3월에 미 대사관 정치부에서 유나이티드 엔지니어링 사에 대한 우려에 대해
+전달한 후, 외교통상부에서는 유나이티드 엔지니어링 사에 대해, 그리고 삼부코리아텍
+사에서 유나이티드 엔지니어링 사에 판매한 예전의 아이템들에 대한 최종 사용자 신고서에
+대해 조사하라고 파키스탄 주재 대사관에 지시했다. 고 협력관은 2008년8월에 제출된
+대사관 보고서를 미 대사관 정치부에서 심사하도록 허용했다. 현장 감시, 관리자 및 사원
+인터뷰, 사진 분석 등이 조사에 포함되었다. 유나이티드 엔지니어링 사의 소유주는
+파키스탄의 PMO(프로젝트 관리 조직)와의 관련성을 부인했다. 파키스탄의 PMO는
+MTCR(미사일기술통제체제) 카테고리 I에 포함된 HATF-III 미사일의 개발 및 배치에
+연관돼 있다. 유나이티드 엔지니어링 사의 직원들은 자사와 파키스탄의 PMO 사이에 어떤
+관계도 없다고 부인하거나, 어떤 관계가 있는지 잘 모르고 있었다.
+게다가, 이미 구입한 품목들은 (수출 품목들은 식별 결과 문제가 없는 것으로 드러났다?)
+지정 장소에 설치되었고 최종 사용자 신고서의 정보와 일치했다. 마지막으로, 유나이티드
+엔지니어링 사는 신규 주문 품목들을 위한 물리적 현장(선반으로 추정됨)을 준비해 놨고,
+이 현장은 적법하게 설치되고 작동되었다.**
+
+¶4.  (S)  While the report noted that it could not exclude
+with 100% certainty that United Engineering was not a
+supplier to Pakistan's PMO, it was "highly likely that the
+imported items are used in accordance with the end-use
+declaration."  Given its investigation, Koh conceded that
+United Engineering may be using Intralink Incorporated as an
+intermediary to acquire the lathes.  However, neither has the
+ROK uncovered nor the USG presented concrete evidence on
+Intralink's relationship to United Engineering, United
+Engineering's improper use of the acquired machinery, or
+United Engineering's relationship with Pakistan's PMO.
+**보고서에는 유나이티드 엔지니어링 사가 파키스탄의 PMO의 공급자일 가능성을 완벽히
+배제할 수는 없다고 명시되었지만, "수입 품목들이 최종 사용자 신고서에 맞게 사용되었을
+가능성이 크다". 조사 결과가 나온 후, 고영걸 협력관은 유나이티드 엔지니어링 사가
+인트라링크 주식회사의 중개를 통해 선반을 구한다는 점을 인정했다.
+하지만, 인트라링크 사와 유나이티드 엔지니어링 사 간 관계가 어떠한지, 유나이티드
+엔지니어링 사가 무기를 부적절하게 사용했는지, 유나이티드 엔지니어링 사와 파키스탄의
+PMO 간 관계가 어떠한지에 대한 뚜렷한 증명은 한국도 미국도 내놓지 못하였다.**
+
+¶5.  (S)  Consequently, the ROKG requests the following:
+**이에 따라, 한국 정부는 다음 사항을 요구한다:**
+
+--  Concrete evidence that the exported items would be used
+in ways contrary to the end use declaration or MCTR, since
+the items are not controlled by any of the multilateral
+control regimes.
+**수출된 품목들이 MTCR(오타?) 선언에 위배되는 방식으로 사용될 거라는 뚜렷한 증거.
+이는 해당 품목들이 다자간 통제 체제에 의해 규제되지 않기 때문임**
+
+--  Concrete evidence that Intralink is an intermediary for
+United Engineering.
+**인트라링크 사가 유나이티드 엔지니어링 사의 중개상이라는 뚜렷한 증거**
+
+--  Concrete evidence on the type and nature of relationship
+between United Engineering and Pakistan's PMO.
+**유나이티드 엔지니어링 사와 파키스탄의 PMO 간 관계의 유형과 본질에 대한
+뚜렷한 증거**
+
+STEPHENS
+
+
+
+====== 원문 ====== 
+^ Reference ID	^ Created	^ Released	^ Classification	^ Origin ^
+| 08SEOUL2388	| 2008-12-12 08:03	| 2011-08-30 01:44	| SECRET	| Embassy Seoul |
+
+<code> 
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHUL #2388 3470803
+ZNY SSSSS ZZH
+R 120803Z DEC 08
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC 2609
+INFO RUEHIL/AMEMBASSY ISLAMABAD 0689
+
+S E C R E T SEOUL 002388 
+ 
+SIPDIS 
+ 
+STATE TO ISN/MTR 
+ 
+E.O. 12958: DECL: 12/11/2033 
+TAGS: MTCRE PARM PREL PK KS
+SUBJECT: CONTINUED COOPERATION BETWEEN SOUTH KOREAN FIRM 
+AND ENTITIES ASSOCIATED WITH PAKISTAN'S MISSILE PROGRAM (S) 
+ 
+REF: SECSTATE 123791 
+ 
+Classified By: Joseph Y. Yun for reasons 1.4 (B), (C), and (D). 
+</code> 
+
+¶1.  (U)  This is an action request.  See paragraph 5. 
+ 
+¶2.  (U)  Poloff met Young-kul Koh of the Disarmament and 
+Nonproliferation Division, Ministry of Foreign Affairs and 
+Trade (MOFAT) on December 10 regarding reftel.  While Koh 
+understood our concerns, he said that the ROKG did not 
+uncover evidence supporting USG claims.  Therefore, the USG 
+would need to provide concrete evidence warranting ROKG 
+action. 
+ 
+¶3.  (S)  After poloffs communicated USG concerns about United 
+Engineering in March 2008, MOFAT instructed its Embassy in 
+Pakistan to investigate the firm and the end-use declaration 
+filed by Sambu Korea Tek Co, LTD for the previous items it 
+sold to United Engineering.  Koh permitted poloff to review 
+the Embassy report, which it submitted in August 2008.  The 
+investigation included a site inspection, interviews with 
+management and employees, and photographic analysis.  United 
+Engineering's owner denied any linkage with Pakistan's 
+Project Management Organization (PMO), which is involved in 
+the development and deployment of Pakistan's HATF-III 
+missile, which is a Missile Technology Control Regime (MTCR) 
+Category I system.  Employees denied or did not know if 
+United Engineering had any relationship to Pakistan's PMO. 
+In addition, the previously purchased items, (the exported 
+items were positively identified), were installed in the 
+location and in accordance with the information in the 
+end-use declaration.  Finally, United Engineering prepared a 
+physical site for newly ordered items (possibly lathes) in 
+accordance with their proper installation and operation. 
+ 
+¶4.  (S)  While the report noted that it could not exclude 
+with 100% certainty that United Engineering was not a 
+supplier to Pakistan's PMO, it was "highly likely that the 
+imported items are used in accordance with the end-use 
+declaration."  Given its investigation, Koh conceded that 
+United Engineering may be using Intralink Incorporated as an 
+intermediary to acquire the lathes.  However, neither has the 
+ROK uncovered nor the USG presented concrete evidence on 
+Intralink's relationship to United Engineering, United 
+Engineering's improper use of the acquired machinery, or 
+United Engineering's relationship with Pakistan's PMO. 
+ 
+¶5.  (S)  Consequently, the ROKG requests the following: 
+ 
+--  Concrete evidence that the exported items would be used 
+in ways contrary to the end use declaration or MCTR, since 
+the items are not controlled by any of the multilateral 
+control regimes. 
+ 
+--  Concrete evidence that Intralink is an intermediary for 
+United Engineering. 
+ 
+--  Concrete evidence on the type and nature of relationship 
+between United Engineering and Pakistan's PMO. 
+STEPHENS

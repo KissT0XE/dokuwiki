@@ -1,0 +1,69 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL574  |  2008-03-21 08:24  |  기밀  |  주한미국대사관  |  {{tag>PROG PREL KS PINR }}  |
+====== 제 목: 송민순 전 외교부 장관 통합민주당 후보로 국회의원 출마 ======
+  * 기 밀 SEOUL 000574 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 03/21/2018 
+  * 태그: PROG, PREL(([External Political Relations])), KS(([Korea (South)])), PINR(([Intelligence] ))
+  * 제 목: 송민순 전 외교통상부 장관 통합민주당 후보로 국회의원 출마
+  * 분류자: 알렉산더 버시바우 대사.  근거 1.4 (b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/06 04:32//
+1. (기밀) 3월 21일 대사와 함께한 전화 통화에서, 송민순 전 외교부 장관은 통합민주당 비례대표 후보로 국회의원에 출마한다고 말하였다. 송민순은 통합민주당 내부에 일부 후보들이 특히 한미동맹에 대한 외교 정책과 관련 민주당을 극한 노선으로 이끌고 있다고 우려를 표명하였다. 송민순은 그런 극단주의에 맞서 //“싸우고”//, 민주당을 //“중도”//로 이끌기 위해서 통합민주당에 참여하기로 하였다. 송민순은 출마를 독려한 일부 외교통상부 전직 동료와 협의를 한 이후에 결정을 내렸다고 말하였다. 한미동맹을 강화하고 초당적인 외교정책을 발전시키는 것이 송민순의 주요 의제이다.
+
+2. (기밀) 송민순은 한나라당 후보로 출마하는 것을 고려했었지만, 통합민주당을 선택한 궁극적인 이유는 야당을 //“중도로 이동하도록”// 돕는 것이 더 필요했기 때문이라고 말하였다. 추가로, 현 통합민주당 대표인 손학규와 함께 일한 경험을 언급했는데, 송민순은 당시 경기도지사의 외교 참모를 담당하였다. 통합민주당 내 지도자들은 한미동맹을 공고히 하겠다는 자신의 확고한 다짐을 이해하였다고 송민순은 말하였다.
+ 
+3. (기밀) 논평: 만일 송민순이 통합민주당의 비례대표 상위 순번을 확보한다면, 그는 국회의원 의석을 얻을 것이다. 그가 국회의원 선거 출마는 전 국방장관 김장수가 한나라당 비례대표 후보로 나선 것에 대한 통합민주당의 반대급부로 여겨지고 있다. 외교부장관으로서 송민순은 내각에서 상당한 입지를 갖고 있으며 다양한 긍정적인 언론에 노출되기도 했는데, 그 이유는 그가 노 대통령의 극단적인 대북정책 길목에서 이성의 목소리 받아들여졌기 때문이다. 송민순은 통합민주당에는 보탬이 될 것이다. 논평 끝.
+버시바우
+[[https://sites.google.com/site/poirotkr/9/08seoul574|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL574.rtf>
+C O N F I D E N T I A L SEOUL 000574 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/21/2018 
+TAGS: PROG PREL KS PINR
+SUBJECT: FORMER FM SONG DECLARES NATIONAL ASSEMBLY 
+CANDIDACY FOR UDP 
+ 
+ 
+Classified By: Amb. Alexander Vershbow.  Reasons 1.4 (b/d) 
+ 
+¶1. (C) In a March 21 telcon with the Ambassador, former 
+Foreign Minister Song Min-soon said that he was running for a 
+proportional seat for the National Assembly on the United 
+Democratic Party (UDP) ticket.  Song expressed concern that 
+certain candidates within the UDP might pull the party toward 
+extreme positions on foreign policy, and in particular 
+against the U.S.-ROK Alliance. Song had decided to join the 
+UDP in order to "fight" against such extremism and pull the 
+party toward the "middle ground."  Song said he had made the 
+decision after consulting with some of his former colleagues 
+at MOFAT, who urged him to run.  Strengthening the ROK-U.S. 
+Alliance and fostering bipartisanship on foreign policy would 
+be his main agenda. 
+ 
+¶2. (C) Song said he had considered running on the GNP ticket, 
+but had ultimately chosen in favor of the UDP because the 
+opposition party needed more help in "moving to the middle" 
+and would give him "more room to play."  In addition, Song 
+mentioned his previous experience working with current UDP 
+Chairman Sohn Hak-kyu when Song served as a diplomatic 
+advisor to the then-Gyeonggi Province governor.  The leaders 
+within the UDP understood his firm resolve to strengthen the 
+Alliance, Song said. 
+ 
+¶3. (C) COMMENT: If Song secures one of the top slots in the 
+UDP slate, he will win a seat. His entrance into the race has 
+been perceived as a UDP countermove to former Defense 
+Minister Kim Jang-soo's proportional representative candidacy 
+for the GNP.  As Foreign Minister, Song had considerable 
+presence in the Cabinet and plenty of positive exposure 
+because he was viewed as a voice of reason in the way of 
+President Roh's more extreme policies toward North Korea. 
+Song will be a plus for the UDP.  END COMMENT. 
+VERSHBOW
+</file>

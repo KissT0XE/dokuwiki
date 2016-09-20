@@ -1,0 +1,69 @@
+^  참조문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL104  |  2009-01-21 07:43  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>MARR PREL PHSA KS }}  |
+====== 제 목: 한국 아덴 만에 구축함 파견 ======
+기 밀 SEOUL 000104 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 01/21/2019 
+태그: MARR(([Military and Defense Arrangements])), PREL(([External Political Relations])), PHSA(([High Seas Affairs])), KS(([Korea (South)])) 
+제 목: 한국 아덴 만에 구축함 파견
+참조: [[09SEOUL39|SEOUL 39]]
+분류자: 조셉 윤.  근거 1.4 (b/d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/08/26 18:38//
+
+1. (기밀) 한국정부는 합동 해군 보안작전에 참여하기 위해 링스 헬기와 고정식 고무보트를 장착한 4,500톤급 구축함을 아덴 만으로 파견하기로 하였다고 김용현 외교통상부 한미안보협력과장은 1월 16일 정치 담당관에게 말하였다. 구축함은 310명 인원을 수용할 수 있다. 구축함의 주요 임무는 해적소탕에 대한 연합 해군 간 협력과 부수적인 마약 퇴치 활동에도 선별적으로 참여하며, 한국 상선이 위험에 처할 것을 예상하고 호위 지원도 제공하게 된다.
+
+2. (기밀) 김용현이 예견했듯이 1월 20일 국무회의에서 이명박에게 보고되었고, 이명박은 파병안을 승인하였다. (주석: 언론은 같은 날 결정 내용을 보도하였다. 주석 끝.) 군 자산을 국외 파병에 앞서 의무적인 국회 비준을 위해 한국정부는 일주일 내로 소말리아 파병안을 국회에 보낼 것이다. 외교통상부와 국방부는 1월 말경에(결정되지 않은 날짜) 미 해군 제5함대와의 협의를 위해 바그람과 지부티에 현지 조사단을 파견하길 희망한다고 김용현은 역시 말했다. 한국정부는 서울에서 곧 있을 한미 안보정책구상회의에서 더 세부적인 정보를 제공할 예정이다. 국회의 승인이 떨어진 이후에, 해당 함정은 2월 말이나 3월 초에 한국을 출항할 수 있게 된다.
+
+3. (미분류) 국방부가 해군 함정을 배치하더라도, 외교통상부 재외동포영사국이 파견과 해적소탕 작전의 주도권을 가진다. (참조 전문을 보라.)
+스티븐스
+[[https://sites.google.com/site/poirotkr/13/09seoul104|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 원본 내려받기 =====
+<file rtf 09SEOUL104.rtf>
+C O N F I D E N T I A L SEOUL 000104 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/21/2019 
+TAGS: MARR [Military and Defense Arrangements], PREL [External Political Relations], PHSA [High Seas Affairs], KS [Korea (South)] 
+SUBJECT: ROK TO SEND DESTROYER TO THE GULF OF ADEN 
+ 
+REF: SEOUL 39 
+ 
+Classified By: Joseph Yun for reasons 1.4 (b/d). 
+ 
+¶1.  (C)  Kim Yong-hyon, the Director of the U.S. Security 
+Cooperation Division within the Ministry of Foreign Affairs 
+and Trade (MOFAT) told poloffs on January 16 that the ROKG 
+decided to send a 4,500 ton class destroyer equipped with a 
+Lynx helicopter and rigid inflatable craft to the Gulf of 
+Aden to participate in the security operations of the 
+combined maritime forces.  The destroyer can carry up to 310 
+personnel.  The vessel's primary missions are to cooperate 
+with the combined maritime forces on counter-piracy and 
+selectively participate in any incidental counter-narcotics 
+activities, and to provide escort support to ROK commercial 
+vessels deemed to be in danger. 
+ 
+¶2.  (C)  As Kim predicted, the cabinet reported the decision 
+on January 20 to President Lee Myung-bak, who approved the 
+plan.  (Note:  The media reported on the decision the same 
+day.  End note.)  Kim said that the ROKG will send the plan 
+within a week to the National Assembly whose ratification is 
+obligatory before the ROKG can deploy military assets 
+overseas.  Kim also said that MOFAT and the Ministry of 
+National Defense (MND) hoped to send a survey team to Bahrain 
+and Djibouti for consultations with the Fifth Fleet Command 
+by the end of January (date to be determined).  The ROKG will 
+provide more detailed information during the upcoming 
+Security Policy Initiative (SPI) talks in Seoul.  After 
+obtaining the National Assembly's approval, the ship could 
+depart Korea at the end of February or early March. 
+ 
+¶3.  (U)  Even though MND would deploy the vessel, the Bureau 
+of Overseas Koreans and Consular Affairs within MOFAT has the 
+policy lead on the deployment and counter-piracy cooperation. 
+ (See reftel.) 
+STEPHENS
+</file>

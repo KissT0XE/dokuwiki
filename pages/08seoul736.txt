@@ -1,0 +1,46 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL736  |  2008-04-11 06:53  |  기밀  |  주한미국대사관  |  {{tag>KS MNUC KNNP IR UNSC }}  |
+====== 제 목: 한국, 유엔안보리 결의안 1737호, 1747호, 1803호에 따른 여행 금지 이미 시행 ======
+기 밀 SEOUL 000736 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+국제안보비확산국/반핵확산과에 전달하세요((PLEASE PASS TO ISN ))
+
+행정명령 12958: 비밀해제: 04/11/2018 
+태그: KS(([Korea (South)])), MNUC((PLEASE PASS TO ISN )), KNNP(([Nuclear Non-Proliferation])), IR(([Iran])), UNSC(([UN Security Council]))
+제 목: 한국, 유엔안보리 결의안 1737호, 1747호, 1803호에 따른 여행 금지 이미 시행
+참조: STATE 34974 
+분류자: 공관차석 대리 대사 조셉 윤((A/DCM Joseph Yun)).   근거 1.4(b/d) 
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/08/27 08:48//
+
+1. (기밀) 4월 11일 대사관 정무 직원과 함께한 회동에서, 외교통상부 김재우 군축비확산과 심의관은 참조 전문의 논지에 대해 응답하길, 한국정부는 부속합의서에 등재된 이란인에 대한 여행 금지 처분을 가하는 유엔안보리 결의안 1737호, 1747호, 그리고 1803호를 이미 시행하였다고 말하였다. 김재우는 이 사안과 관련해 “아무 문제도 없어야만” 한다고 강조하였다. 
+스탠튼
+[[https://sites.google.com/site/poirotkr/10/08seoul736|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL736.rtf>
+C O N F I D E N T I A L SEOUL 000736 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO ISN 
+ 
+E.O. 12958: DECL: 04/11/2018 
+TAGS: KS MNUC KNNP IR UNSC
+SUBJECT: ROK ALREADY IMPLEMENTED UNSCRS 1737, 1747, AND 
+1803 TRAVEL BANS 
+ 
+REF: STATE 34974 
+ 
+Classified By: A/DCM Joseph Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) In an April 11 meeting with poloff, MOFAT Deputy 
+Director for Disarmament and Nonproliferation Kim Jae-woo 
+said in response to reftel points that the ROKG had already 
+implemented their obligations under UNSCRS 1737, 1747, and 
+1803 in imposing a travel ban on the Iranians named in the 
+annexes.  Kim emphasized that there should be "no problems" 
+on this issue. 
+STANTON
+</file>

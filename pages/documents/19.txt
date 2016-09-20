@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 1801 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1807_a.html| 09SEOUL1807 ]]| [[/09SEOUL1807]] | 오바마 대통령 방한에 대한 한국 정부의 최고 우선 과제: 긴밀한 한미 관계 강조 | 2009-11-13 | 기밀 | 완료 |
+| 1802 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1808_a.html| 09SEOUL1808 ]]| [[/09SEOUL1808]] | 오바마 대통령 방한 기간 중 이라크 파병 반대 관련 마찰 없어 | 2009-11-16 | 기밀 | |
+| 1803 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1811_a.html| 09SEOUL1811 ]]| [[/09SEOUL1811]] | 언론 브리핑—2009년 11월 16일 | 2009-11-16 | 미분류 | |
+| 1804 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1813_a.html| 09SEOUL1813 ]]| [[/09SEOUL1813]] | 장대평 농림수산식품부 장관, 고위급 협의와 삼계탕 문제 진전 촉구 | 2009-11-16 | 대외비 | 완료 |
+| 1805 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1814_a.html| 09SEOUL1814 ]]| [[/09SEOUL1814]] | 한국전쟁 60주년을 맞아 ‘2+2’ 회의 제안 | 2009-11-16 | 기밀 | 완료 |
+| 1806 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1818_a.html| 09SEOUL1818 ]]| [[/09SEOUL1818]] | 언론 브리핑—2009년 11월 17일 | 2009-11-17 | 미분류 | |
+| 1807 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1819_a.html| 09SEOUL1819 ]]| [[/09SEOUL1819]] | 한국 11월 20일 예정된 해성-2 순항미사일 시험 비행 | 2009-11-18 | 비밀 | 완료 |
+| 1808 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1821_a.html| 09SEOUL1821 ]]| [[/09SEOUL1821]] | 블루랜턴: 등록 중개인 인중식의 성실 거래 확인 | 2009-11-18 | 미분류 | |
+| 1809 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1822_a.html| 09SEOUL1822 ]]| [[/09SEOUL1822]] | 블루랜턴: 등록 중개인 조지프 융 허천의 성실 거래 확인 | 2009-11-18 | 미분류 | |
+| 1810 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1823_a.html| 09SEOUL1823 ]]| [[/09SEOUL1823]] | 허가 050185114호에 따른 블루랜턴 3단계 선적 후 최종 사용 검사 | 2009-11-18 | 미분류 | |
+| 1811 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1830_a.html| 09SEOUL1830 ]]| [[/09SEOUL1830]] | 연방집행명령 13382호에 따른 말레이시아은행과 멜라트 은행장 제재목록에 등재 | 2009-11-18 | 대외비 | 완료 |
+| 1812 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1832_a.html| 09SEOUL1832 ]]| [[/09SEOUL1832]] | 언론 브리핑—2009년 11월 18일 | 2009-11-18 | 미분류 | |
+| 1813 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1835_a.html| 09SEOUL1835 ]]| [[/09SEOUL1835]] | 언론 브리핑—2009년 11월 19일 | 2009-11-19 | 미분류 | |
+| 1814 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1836_a.html| 09SEOUL1836 ]]| [[/09SEOUL1836]] | 언론 브리핑—2009년 11월 20일 | 2009-11-20 | 미분류 | |
+| 1815 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1839_a.html| 09SEOUL1839 ]]| [[/09SEOUL1839]] | 언론 브리핑—2009년 11월 23일 | 2009-11-23 | 미분류 | |
+| 1816 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1842_a.html| 09SEOUL1842 ]]| [[/09SEOUL1842]] | 외교문서 전달: 국제원자력기구(IAEA) 시리아 보고서 | 2009-11-23 | 대외비 | |
+| 1817 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1843_a.html| 09SEOUL1843 ]]| [[/09SEOUL1843]] | 외교문서 전달: 2010 핵확산금지조약(NPT) 검토위원회 부속 기관 | 2009-11-23 | 기밀 | |
+| 1818 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1846_a.html| 09SEOUL1846 ]]| [[/09SEOUL1846]] | 언론 브리핑—2009년 11월 24일 | 2009-11-24 | 미분류 | |
+| 1819 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1862_a.html| 09SEOUL1862 ]]| [[/09SEOUL1862]] | 언론 브리핑—2009년 11월 25일 | 2009-11-25 | 미분류 | |
+| 1820 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1863_a.html| 09SEOUL1863 ]]| [[/09SEOUL1863]] | 조태영 외교통상부 동북아시아국장, 중국, 일본, 몽골과 한국의 관계 언급 | 2009-11-25 | 기밀 | 완료 |
+| 1821 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1865_a.html| 09SEOUL1865 ]]| [[/09SEOUL1865]] | 동남아시아에서 ‘글로벌 코리아’ 비상(飛上) | 2009-11-25 | 기밀 | 완료 |
+| 1822 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1867_a.html| 09SEOUL1867 ]]| [[/09SEOUL1867]] | 일본 최고의 북한통 이즈미 하지메 교수, 북중 관계 언급 | 2009-11-25 | 기밀 | 완료 |
+| 1823 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1869_a.html| 09SEOUL1869 ]]| [[/09SEOUL1869]] | 언론 브리핑—2009년 11월 27일 | 2009-11-27 | 미분류 | |
+| 1824 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1873_a.html| 09SEOUL1873 ]]| [[/09SEOUL1873]] | 한국 경제 브리핑—2009년 11월 | 2009-11-30 | 대외비 | |
+| 1825 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1875_a.html| 09SEOUL1875 ]]| [[/09SEOUL1875]] | 언론 브리핑—2009년 11월 27일 | 2009-11-30 | 미분류 | |
+| 1826 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1879_a.html| 09SEOUL1879 ]]| [[/09SEOUL1879]] | 북한 경제 브리핑—2009년 11월 | 2009-12-01 | 대외비 | |
+| 1827 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1880_a.html| 09SEOUL1880 ]]| [[/09SEOUL1880]] | 언론 브리핑—2009년 12월 1일 | 2009-12-01 | 미분류 | |
+| 1828 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1882_a.html| 09SEOUL1882 ]]| [[/09SEOUL1882]] | 한국 아프가니스탄/파키스탄 전략에 대해 강력한 지지 성명 발표하기로 | 2009-12-01 | 대외비 | 완료 |
+| 1829 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1888_a.html| 09SEOUL1888 ]]| [[/09SEOUL1888]] | 김진수 아프리카중동국장, 이란과 시리아, 북한 언급 | 2009-12-02 | 기밀 | |
+| 1830 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1893_a.html| 09SEOUL1893 ]]| [[/09SEOUL1893]] | 언론 반응 | 2009-12-02 | 미분류 | |
+| 1831 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1894_a.html| 09SEOUL1894 ]]| [[/09SEOUL1894]] | 언론 브리핑—2009년 12월 2일 | 2009-12-02 | 미분류 | |
+| 1832 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1900_a.html| 09SEOUL1900 ]]| [[/09SEOUL1900]] | 이용준 외교통상부 차관보, 한국이 버마에 대한 미국의 새로운 접근법 환영한다고 밝혀 | 2009-12-03 | 기밀 | |
+| 1833 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1901_a.html| 09SEOUL1901 ]]| [[/09SEOUL1901]] | 이용준 외교통상부 차관보, 한국이 버마에 대한 미국의 새로운 접근법 환영한다고 밝혀 | 2009-12-03 | 기밀 | |
+| 1834 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1902_a.html| 09SEOUL1902 ]]| [[/09SEOUL1902]] | 수석 부차관보 도노반 외교통상부에서 북한관련 회의 | 2009-12-03 | 기밀 | 완료 |
+| 1835 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1903_a.html| 09SEOUL1903 ]]| [[/09SEOUL1903]] | 도노반 동아시아태평양 수석부차관보, 김태효 외교안보수석실 대외전략비서관과 회의 | 2009-12-03 | 기밀 | 완료 |
+| 1836 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1904_a.html| 09SEOUL1904 ]]| [[/09SEOUL1904]] | 수석 부차관보 도노반 한국의 차관보 이용준과 회의 | 2009-12-03 | 기밀 | 완료 |
+| 1837 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1905_a.html| 09SEOUL1905 ]]| [[/09SEOUL1905]] | 언론 브리핑—2009년 12월 3일 | 2009-12-03 | 미분류 | |
+| 1838 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1906_a.html| 09SEOUL1906 ]]| [[/09SEOUL1906]] | 도노반 동아시아태평양 수석부차관보, 탈북자 단체 대표들과 회동 | 2009-12-03 | 기밀 | 완료 |
+| 1839 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1907_a.html| 09SEOUL1907 ]]| [[/09SEOUL1907]] | 수석 부차관보 도노반과 외교통상부 북미국장의 12월 1일 회의 | 2009-12-03 | 기밀 | 완료 |
+| 1840 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1910_a.html| 09SEOUL1910 ]]| [[/09SEOUL1910]] | 언론 브리핑—2009년 12월 4일 | 2009-12-04 | 미분류 | |
+| 1841 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1921_a.html| 09SEOUL1921 ]]| [[/09SEOUL1921]] | 북한 주재 영국 대사관, 북한 화폐 개혁 실패로 대규모 식량 부족이 일어날 것이라고 보고 | 2009-12-04 | 기밀 | |
+| 1842 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1925_a.html| 09SEOUL1925 ]]| [[/09SEOUL1925]] | 언론 브리핑—2009년 12월 7일 | 2009-12-07 | 미분류 | |
+| 1843 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1926_a.html| 09SEOUL1926 ]]| [[/09SEOUL1926]] | 한국 정부, 11월 G-20 정상회의에 대해 원대한 포부 | 2009-12-07 | 기밀 | |
+| 1844 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1928_a.html| 09SEOUL1928 ]]| [[/09SEOUL1928]] | 언론 브리핑—2009년 12월 8일 | 2009-12-08 | 미분류 | |
+| 1845 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1929_a.html| 09SEOUL1929 ]]| [[/09SEOUL1929]] | 부산항에서 바라본 ‘비공식적’ 남북 교역 풍경 | 2009-12-08 | 기밀 | 완료 |
+| 1846 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1932_a.html| 09SEOUL1932 ]]| [[/09SEOUL1932]] | 싱 하이밍 북한 주재 중국 부대사, 보스워스 방문과 북한 화폐 훈란 언급 | 2009-12-09 | 기밀 | |
+| 1847 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1933_a.html| 09SEOUL1933 ]]| [[/09SEOUL1933]] | 언론 브리핑—2009년 12월 9일 | 2009-12-11 | 미분류 | |
+| 1848 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1935_a.html| 09SEOUL1935 ]]| [[/09SEOUL1935]] | 언론 브리핑—2009년 12월 10일 | 2009-12-11 | 미분류 | |
+| 1849 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1936_a.html| 09SEOUL1936 ]]| [[/09SEOUL1936]] | 언론 반응 | 2009-12-11 | 미분류 | |
+| 1850 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1941_a.html| 09SEOUL1941 ]]| [[/09SEOUL1941]] | 언론 브리핑—2009년 12월 11일 | 2009-12-14 | 미분류 | |
+| 1851 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1942_a.html| 09SEOUL1942 ]]| [[/09SEOUL1942]] | 언론 반응 | 2009-12-14 | 미분류 | |
+| 1852 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1945_a.html| 09SEOUL1945 ]]| [[/09SEOUL1945]] | 장광일 국방부 정책실장, 아프간 지방재건팀의 준비사항에 대한 도움 요청 | 2009-12-14 | 비밀 | 완료 |
+| 1853 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1946_a.html| 09SEOUL1946 ]]| [[/09SEOUL1946]] | 언론 브리핑—2009년 12월 14일 | 2009-12-14 | 미분류 | |
+| 1854 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1953_a.html| 09SEOUL1953 ]]| [[/09SEOUL1953]] | 언론 브리핑—2009년 12월 15일 | 2009-12-15 | 미분류 | |
+| 1855 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1956_a.html| 09SEOUL1956 ]]| [[/09SEOUL1956]] | 미 대사, 12월 14일에 현인택 통일부 장관과 오찬 회동 | 2009-12-15 | 기밀 | 완료 |
+| 1856 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1964_a.html| 09SEOUL1964 ]]| [[/09SEOUL1964]] | 언론 브리핑—2009년 12월 16일 | 2009-12-18 | 미분류 | |
+| 1857 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1965_a.html| 09SEOUL1965 ]]| [[/09SEOUL1965]] | 언론 브리핑—2009년 12월 17일 | 2009-12-18 | 미분류 | |
+| 1858 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1971_a.html| 09SEOUL1971 ]]| [[/09SEOUL1971]] | 언론 브리핑—2009년 12월 18일 | 2009-12-18 | 미분류 | |
+| 1859 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1972_a.html| 09SEOUL1972 ]]| [[/09SEOUL1972]] | 최경환 지식경제부 장관, G-20과 FTA, 원자력, 녹색 성장 언급 | 2009-12-18 | 미분류 | 완료 |
+| 1860 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1979_a.html| 09SEOUL1979 ]]| [[/09SEOUL1979]] | 언론 반응 | 2009-12-21 | 미분류 | |
+| 1861 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1980_a.html| 09SEOUL1980 ]]| [[/09SEOUL1980]] | 언론 브리핑—2009년 12월 21일 | 2009-12-21 | 미분류 | |
+| 1862 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1987_a.html| 09SEOUL1987 ]]| [[/09SEOUL1987]] | 언론 브리핑—2009년 12월 22일 | 2009-12-22 | 미분류 | |
+| 1863 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1988_a.html| 09SEOUL1988 ]]| [[/09SEOUL1988]] | 미 대사, 이귀남 법무부 장관을 만나 아동 유괴에 관한 헤이그 협약 및 인신매매 방지 의정서 문제 제기 | 2009-12-22 | 기밀 | 완료 |
+| 1864 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1994_a.html| 09SEOUL1994 ]]| [[/09SEOUL1994]] | 언론 브리핑—2009년 12월 23일 | 2009-12-23 | 미분류 | |
+| 1865 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1996_a.html| 09SEOUL1996 ]]| [[/09SEOUL1996]] | 한국 정부에 유엔 안전보장이사회 결의안 1267 공동 제안 요청 | 2009-12-23 | 기밀 | 완료 |
+| 1866 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1999_a.html| 09SEOUL1999 ]]| [[/09SEOUL1999]] | 언론 브리핑—2009년 12월 24일 | 2009-12-24 | 미분류 | |
+| 1867 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2001_a.html| 09SEOUL2001 ]]| [[/09SEOUL2001]] | 12월 16일에 한미 양국 테러 방지 회의 열려 | 2009-12-24 | 미분류 | 할당 |
+| 1868 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2002_a.html| 09SEOUL2002 ]]| [[/09SEOUL2002]] | 주한 중국 대사, 6자 회담과 북한 경제, 한국의 정치 문화 언급 | 2009-12-24 | 기밀 | |
+| 1869 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2006_a.html| 09SEOUL2006 ]]| [[/09SEOUL2006]] | 한국 경제 브리핑—2009년 12월 | 2009-12-28 | 대외비 | |
+| 1870 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2007_a.html| 09SEOUL2007 ]]| [[/09SEOUL2007]] | 언론 브리핑—2009년 12월 28일 | 2009-12-28 | 미분류 | |
+| 1871 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2008_a.html| 09SEOUL2008 ]]| [[/09SEOUL2008]] | 북한 경제 브리핑—2009년 12월 | 2009-12-28 | 대외비 | |
+| 1872 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2010_a.html| 09SEOUL2010 ]]| [[/09SEOUL2010]] | 멜라니 버비어 특사, 한국에서 여성의 권리를 신장할 파트너 물색. 여성 문제를 G-20 의제에 넣는 계획 청취 | 2009-12-28 | 기밀 | |
+| 1873 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2012_a.html| 09SEOUL2012 ]]| [[/09SEOUL2012]] | 언론 브리핑—2009년 12월 29일 | 2009-12-29 | 미분류 | |
+| 1874 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2013_a.html| 09SEOUL2013 ]]| [[/09SEOUL2013]] | 언론 반응 | 2009-12-29 | 미분류 | |
+| 1875 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2016_a.html| 09SEOUL2016 ]]| [[/09SEOUL2016]] | 한국의 ‘아프리카 녹색 성장 협력’ 계기로 아프리카에 대한 지원 늘려 | 2009-12-30 | 기밀 | 완료 |
+| 1876 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2018_a.html| 09SEOUL2018 ]]| [[/09SEOUL2018]] | 언론 브리핑—2009년 12월 30일 | 2009-12-30 | 미분류 | |
+| 1877 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2021_a.html| 09SEOUL2021 ]]| [[/09SEOUL2021]] | 유명환 외무장관, 아프가니스탄과 FTA, 북한 문제 언급 | 2009-12-30 | 기밀 | 완료 |
+| 1878 | [[https://www.wikileaks.org/plusd/cables/09SEOUL2027_a.html| 09SEOUL2027 ]]| [[/09SEOUL2027]] | 언론 브리핑—2009년 12월 31일 | 2009-12-31 | 미분류 | |
+| 1879 | [[https://www.wikileaks.org/plusd/cables/10SEOUL2_a.html| 10SEOUL2 ]]| [[/10SEOUL2]] | 유명환 외무장관, 아랍에미리트(UAE)와의 포괄적 계약 언급 | 2010-01-04 | 기밀 | 완료 |
+| 1880 | [[https://www.wikileaks.org/plusd/cables/10SEOUL3_a.html| 10SEOUL3 ]]| [[/10SEOUL3]] | 한국 정부, 유엔 안전보장이사회 결의안 1267호 공동 제안하는 데 동의 | 2010-01-04 | 기밀 | 완료 |
+| 1881 | [[https://www.wikileaks.org/plusd/cables/10SEOUL4_a.html| 10SEOUL4 ]]| [[/10SEOUL4]] | 언론 반응 | 2010-01-04 | 미분류 | |
+| 1882 | [[https://www.wikileaks.org/plusd/cables/10SEOUL5_a.html| 10SEOUL5 ]]| [[/10SEOUL5]] | 언론 브리핑—2010년 1월 4일 | 2010-01-04 | 미분류 | |
+| 1883 | [[https://www.wikileaks.org/plusd/cables/10SEOUL7_a.html| 10SEOUL7 ]]| [[/10SEOUL7]] | 언론 반응 | 2010-01-05 | 미분류 | |
+| 1884 | [[https://www.wikileaks.org/plusd/cables/10SEOUL8_a.html| 10SEOUL8 ]]| [[/10SEOUL8]] | 언론 브리핑—2010년 1월 5일 | 2010-01-05 | 미분류 | |
+| 1885 | [[https://www.wikileaks.org/plusd/cables/10SEOUL13_a.html| 10SEOUL13 ]]| [[/10SEOUL13]] | 한국 자동차 시장, 신년 전망 | 2010-01-06 | 대외비 | |
+| 1886 | [[https://www.wikileaks.org/plusd/cables/10SEOUL15_a.html| 10SEOUL15 ]]| [[/10SEOUL15]] | 언론 브리핑—2010년 1월 6일 | 2010-01-06 | 미분류 | |
+| 1887 | [[https://www.wikileaks.org/plusd/cables/10SEOUL18_a.html| 10SEOUL18 ]]| [[/10SEOUL18]] | 언론 브리핑—2010년 1월 7일 | 2010-01-07 | 미분류 | |
+| 1888 | [[https://www.wikileaks.org/plusd/cables/10SEOUL23_a.html| 10SEOUL23 ]]| [[/10SEOUL23]] | 언론 브리핑—2010년 1월 8일 | 2010-01-08 | 미분류 | |
+| 1889 | [[https://www.wikileaks.org/plusd/cables/10SEOUL27_a.html| 10SEOUL27 ]]| [[/10SEOUL27]] | 이 대통령 취임 3년차 지지율 강세: 지방선거와 세종시 문제가 언론의 화두 | 2010-01-08 | 기밀 | 완료 |
+| 1890 | [[https://www.wikileaks.org/plusd/cables/10SEOUL35_a.html| 10SEOUL35 ]]| [[/10SEOUL35]] | 언론 브리핑—2010년 1월 11일 | 2010-01-11 | 미분류 | |
+| 1891 | [[https://www.wikileaks.org/plusd/cables/10SEOUL44_a.html| 10SEOUL44 ]]| [[/10SEOUL44]] | 언론 브리핑—2010년 1월 11일 | 2010-01-12 | 미분류 | |
+| 1892 | [[https://www.wikileaks.org/plusd/cables/10SEOUL51_a.html| 10SEOUL51 ]]| [[/10SEOUL51]] | 언론 브리핑—2010년 1월 13일 | 2010-01-13 | 미분류 | |
+| 1893 | [[https://www.wikileaks.org/plusd/cables/10SEOUL52_a.html| 10SEOUL52 ]]| [[/10SEOUL52]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 12월 | 2010-01-14 | 미분류 | |
+| 1894 | [[https://www.wikileaks.org/plusd/cables/10SEOUL55_a.html| 10SEOUL55 ]]| [[/10SEOUL55]] | 기후 변화 후속 단계에 대한 한국의 반응 | 2010-01-14 | 대외비 | |
+| 1895 | [[https://www.wikileaks.org/plusd/cables/10SEOUL56_a.html| 10SEOUL56 ]]| [[/10SEOUL56]] | 언론 브리핑—2010년 1월 14일 | 2010-01-14 | 미분류 | |
+| 1896 | [[https://www.wikileaks.org/plusd/cables/10SEOUL59_a.html| 10SEOUL59 ]]| [[/10SEOUL59]] | 킹 특사, 1월 11일에 김성환 외교안보수석 면담 | 2010-01-14 | 기밀 | 완료 |
+| 1897 | [[https://www.wikileaks.org/plusd/cables/10SEOUL60_a.html| 10SEOUL60 ]]| [[/10SEOUL60]] | 한국의 아이티 긴급 구호 첫 단계 | 2010-01-14 | 대외비 | |
+| 1898 | [[https://www.wikileaks.org/plusd/cables/10SEOUL61_a.html| 10SEOUL61 ]]| [[/10SEOUL61]] | 킹 특사, 인권 단체들과 면담 | 2010-01-14 | 기밀 | |
+| 1899 | [[https://www.wikileaks.org/plusd/cables/10SEOUL62_a.html| 10SEOUL62 ]]| [[/10SEOUL62]] | 킹 특사, 1월 11일에 유명환 외무장관 면담 | 2010-01-14 | 기밀 | |
+| 1900 | [[https://www.wikileaks.org/plusd/cables/10SEOUL65_a.html| 10SEOUL65 ]]| [[/10SEOUL65]] | 언론 브리핑—2010년 1월 15일 | 2010-01-15 | 미분류 | |
+</sortable>

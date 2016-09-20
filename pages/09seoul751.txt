@@ -1,0 +1,62 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL751  |  2009-05-12 01:07  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>MARR MCAP PARM KPAL KS }}  |
+====== 제 목: 한국정부 순항미사일 비행 시험 통보 ======
+
+비 밀 서울 000751
+
+국방부망 배포
+국무부 국제안보·비확산국 미사일위협제거청
+
+행정명령12958: 비밀해제: 05/11/2019
+태그: MARR MCAP PARM KPAL KS
+제 목: 한국정부 순항미사일 비행 시험 통보
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/19 01:15//
+
+1. (비밀) 외교통상부 한미안보협력과 박소연은 5월 21일 해성-2 순항미사일 비행 시험 계획을 5월 11일 미 대사관에 통보하였다.
+
+2. (비밀) 전문 시작:
+
+2001년 1월 17일 채택된 한국의 새 미사일 지침에 따라 한국정부는 아래와 같은 순항미사일 시스템의 계획된 비행 시험에 관한 관련 정보를 미국 정부에 제공하고자 합니다: 
+
+(가) 순항미사일의 명칭: 해성-2
+(나) 통보 목록: 미사일 지침 3부
+(나) 8차 시험 비행의 일자 및 장소: 2009년 5월 21일 안흥종합시험장 
+
+전문 끝.
+스탠튼
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL751.rtf>
+S E C R E T SEOUL 000751 
+ 
+SIPDIS 
+ 
+STATE FOR ISN/MTR 
+ 
+E.O. 12958: DECL: 05/11/2019 
+TAGS: MARR MCAP PARM KPAL KS
+SUBJECT: ROKG NOTIFICATION OF UAV FLIGHT TEST 
+ 
+Classified By: POLMC Joseph Yun for reasons 1.4 (b,d). 
+ 
+¶1.  (S)  Park So-yeon of the ROK-U.S. Security Cooperation 
+Division on May 11 notified post of a planned flight test of 
+the Haeseong-II UAV on May 21. 
+ 
+¶2.  (S)  Begin Text: 
+ 
+In accordance with the ROK's New Missile Guidelines adopted 
+on January 17, 2001, the ROKG would like to provide the USG 
+with the relevant information on the planned flight test of a 
+UAV as follows: 
+ 
+(a) Name of the UAV : Haeseong-II 
+(b) Notification category : Part 3 of the Guidelines 
+(c) The 8th flight-test/place : May 21, 2009/Anheung Proving 
+Ground 
+ 
+ 
+End text. 
+STANTON
+</file>

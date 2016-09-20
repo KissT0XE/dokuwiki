@@ -1,0 +1,75 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL34  |  2009-01-08 05:28  |  미분류  |  주한 미국 대사관  |  {{tag>PGOV PREL MARR ECON KS US KPAO KMDR }}  |
+
+====== 제 목: 한국 언론의 반응 ======
+
+미 분 류 서울 000034
+
+국방부망 배포
+
+국무부 동아태/<wrap hi>공공외교</wrap>과 스워커, 동아태/홍보과 동아태/한국과
+국무부는 전자적으로 농무부 해외농업국/국제무역정책과 쉬크에게 전달 바람 
+국무부는 미무역대표부 알케스디에게 전달하세요
+USDOC FOR 4430/IEP/OPB/EAP/JDONIUS 
+재무부 국제담당차관보실/멤그류
+CINCPAC FOR J-74 
+
+행정명령 12958: 해당없음
+태그: PGOV PREL MARR ECON KS US KPAO KMDR
+제 목: 한국 언론의 반응
+
+제 목: 한국 언론의 반응; 서울
+
+중동
+
+==== 이스라엘의 무차별 학살과 ‘공범자’ 미국 ====
+
+[[http://www.hani.co.kr/arti/opinion/editorial/331940.html|좌파 성향의 한겨레 신문 사설 전문(1월 8일):]] 600명 이상의 팔레스타인 사람이 사망했고 대부분이 민간인이다. 이런 학살은 어떤 이유로도 정당화될 수 없다. 이런 상황에서도 조지 부시 미국 대통령은 “이스라엘은 분명히 자신을 스스로 보호하기 위한 결정을 했다”고 두둔한다. 유엔의 휴전 촉구 결의안도 미국 반대로 채택되지 못했다. 미국은 이스라엘의 최대 원조국으로, 학살에 제동을 걸 수 있는 유일한 나라다. 하지만 미국은 말리기는커녕 오히려 공범자 같은 모습을 보인다. 학살이 계속되는 데는 미국 탓도 크다.
+스티븐스
+ⓒ 한겨레 무단전재 및 재배포금지
+<WRAP center round info 90%>//**공공외교(Public Diplomacy)란?**//
+공공외교란 외국 국민들과의 직접적인 소통을 통해 우리나라의 역사, 전통, 문화, 예술, 가치, 정책, 비전 등에 대한 공감대를 확산하고 신뢰를 확보함으로써 외교관계를 증진시키고, 우리의 국가이미지와 국가브랜드를 높여 국제사회에서 우리나라의 영향력을 높이는 외교활동을 말합니다. 정부간 소통과 협상 과정을 일컫는 전통적 의미의 외교와 대비되는 개념으로, 문화 · 예술, 원조, 지식, 언어, 미디어, 홍보 등 다양한 소프트파워 기재를 활용하여 외국 대중(Foreign Public)에게 직접 다가가 그들의 마음을 사고, 감동을 주어 긍정적인 이미지를 만들어 나간다는 것이 공공외교의 기본 컨셉입니다.
+
+※ 소프트파워(Soft Power)란?
+군사적 개입, 강압적 외교, 경제제재 조치 등의 물리적 힘으로 표현되는 하드파워(Hard Power)에 반대되는 개념으로, 강제력 보다는 매력을 통해, 명령이 아니라 상대방이 자발적으로 이끌리게 함으로써 스스로가 바라는 것을 획득하는 힘을 일컫는 말로, 미국의 국제정치학자 조셉 나이(Joseph W. Nye Jr.)에 의해 1990년경부터 사용된 용어
+</WRAP>
+
+===== 바깥 고리 =====
+  - [[http://www.hani.co.kr/arti/opinion/editorial/331940.html|[사설] 이스라엘의 무차별 학살과 ‘공범자’ 미국]] //한겨레//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL34.rtf>
+UNCLAS SEOUL 000034 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/PD FOR SWALKER, EAP/P, EAP/K 
+STATE PASS USDA ELECTRONICALLY FOR FAX/ITP SCHEIKH 
+STATE PASS USTR FOR RCASSIDY 
+USDOC FOR 4430/IEP/OPB/EAP/JDONIUS 
+TREASURY FOR OASIA/MGREWE 
+CINCPAC FOR J-74 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PREL MARR ECON KS US KPAO KMDR
+SUBJECT: MEDIA REACTION IN SEOUL 
+ 
+Subject: Media Reaction; Seoul 
+ 
+Mideast 
+ 
+"Israel's Indiscriminate Massacre and Its American Accomplice" 
+ 
+Left-leaning Hankyoreh Shinmun editorialized (01/08): "Most of the 
+more than 600 Palestinians killed so far are civilians.  Under no 
+circumstances can this kind of massacre be justified.  Nevertheless, 
+President Bush supported Israel, saying that Israel has decided to 
+defend itself.  A UN resolution calling for a ceasefire in Gaza has 
+not been adopted in the face of American opposition.  As Israel's 
+biggest donor, the U.S. is the only country capable of putting the 
+brakes on the Israeli massacre.  However, far from persuading Israel 
+to stop, the U.S. is acting like an accomplice.  The U.S. has a lot 
+of blame to bear for this continuing slaughter." 
+ 
+ 
+Stephens
+</file>

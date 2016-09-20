@@ -1,0 +1,76 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL646  |  2006-03-02 01:13  |  기밀  |  주한미국대사관  |  {{tag>PREL MARR KS }}  |
+====== 제 목: 노근리 추모비 기금, 2006년 9월 30일에 만료 ======
+  * 기 밀 SEOUL 000646 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 02/26/2015 
+  * 태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), KS(([Korea (South)]))
+  * 제 목: 노근리 추모비 기금, 2006년 9월 30일에 만료
+  * 참조: SEOUL 00762 
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun.)).   근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/12/13 10:47//
+1. (비분류) 이 전문은 행동 요청이다.
+
+2. (기밀) 2월 27일 논의에서 미 육군 공병사업소는 노근리 추모비 건설에 책정된 기금이 2006년 9월 30일에 만료될 예정이며, 기금의 연장이 아마 불가능할 것임을 미 대사관에 알렸다. 미육군 공병에 의하면, 기금의 종료를 앞두고 건설비 지급을 위한 충분한 시간적 여유가 있으려면 3월 말까지는 노근리 추모비 관련 합의를 이뤄야만 할 것이다. 그러나 추모비의 문구를 둘러싼  계속되는 난관을 고려할 때 합의 도달이 매우 가망이 없어 보인다. 비록 계약 체결되고 디자인 작업이 2002년 초 즈음에 완성된다고 처도, 비문 디자인 관련 의견 충돌로 건설이 막히게 되었다. 특히, 미국정부와 노근리사건대책위는(이하 노근리대책위) 제안된 추모비 문구에 대해 의견이 다르다. 노근리대책위는 한국전 발발 며칠 동안 노근리 주변 지역의 불특정 양민 사망자에 대한 책임자로 미군을 명시적 문구로 적시할 것을 주장해 왔다. 미국정부는 한국전쟁의 양민 사상자 전체를 공인하는 추모비가 더 바람직할 것이라고 반복적으로 설명해왔다.
+
+3. (기밀) 기금의 종료가 임박했음을 인지했을 당시, 외교통상부 관계관들은 추모비 기금을 최소한 1년 연장하는 게 가능한지를 물었다. 그러나 동시에 노근리대책위의 입장이 가까운 장래에 변할 가망이 없음을 확인해 주었다.
+
+4. (기밀) 행동 요청: 추모비 기금의 현재 상태와 이번 회계년도 이후로 연장할 수 있는지를 확인해 줄 것을 요청한다.
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지한다.
+===== 바깥 고리 =====
+  - [[http://j.mp/QXb7ay|노근리 추모사업비 사흘 뒤 '증발' 위기]] //프레시안//
+===== 원본 =====
+<file rtf 06SEOUL646.rtf>
+C O N F I D E N T I A L SEOUL 000646 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/26/2015 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], KS [Korea (South)] 
+SUBJECT: NOGUN-RI MEMORIAL FUNDING TO EXPIRE SEPTEMBER 30, 
+2006 
+ 
+REF: SEOUL 00762 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (U) This is an action request. 
+ 
+¶2.  (C) During a February 27 discussion, the U.S. Army Corps 
+of Engineers informed post that the funds allocated for the 
+construction of the Nogun-ri memorial monument will expire on 
+September 30, 2006, and that an extension of funding is 
+probably not possible.  According to the Corps, an agreement 
+on the memorial would have to be reached by the end of March 
+to allow sufficient time for construction and payment to the 
+contractor before the expiration of funding.  However, this 
+seems highly unlikely given the continuing impasse over the 
+design of the monument.  Although a contract was awarded and 
+the design work was completed by early 2002, disagreements 
+regarding the design have prevented construction. 
+Specifically, the USG and representatives of the Nogun-ri 
+citizen's group have disagreed regarding the monument's 
+proposed inscription.  The citizen's group has insisted that 
+the inscription explicitly identify the U.S. military as 
+being responsible for the deaths of an undetermined number of 
+civilians in the area surrounding the village of Nogun-ri 
+during the opening days of the Korean War.  The USG has 
+explained repeatedly that it would be more appropriate for 
+the monument to recognize all civilian casualties of the 
+Korean War. 
+ 
+¶3.  (C) When informed of the impending expiration of funding, 
+MOFAT officials asked whether an extension of the funding, 
+for at least one additional year, was possible.  At the same 
+time, however, they acknowledged that a change in the 
+Nogun-ri group's position was unlikely in the near future. 
+ 
+¶4.  (C) Action request:  Please confirm the status of funding 
+for the monument and whether it can be extended beyond the 
+end of this fiscal year. 
+VERSHBOW
+</file>

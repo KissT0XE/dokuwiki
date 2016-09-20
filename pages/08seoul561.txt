@@ -1,0 +1,56 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL561  |  2008-03-20 07:18  |  기밀  |  주한미국대사관  |  {{tag>KS KN BM PGOV PHUM PREL }}  |
+====== 제 목: 북한과 버마에 대한 인권특별보고관의 임기 연장 찬성 ======
+  * 기 밀 SEOUL 000561 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 국방부망 배포
+
+  * 국무부 산하 민주주의·인권·노동국/다자외교조정과 지아니 파즈((DRL/MLGA FOR GIANNI PAZ ))
+
+  * 행정명령 12958: 비밀해제: 03/20/2018 
+  * 태그: KS(([Korea (South)])), KN(([Korea (North)])), BM(([Burma])), PGOV(([Internal Governmental Affairs])), PHUM(([Human Rights])), PREL(([External Political Relations])) 
+  * 제 목: 북한과 버마에 대한 인권특별보고관의 임기 연장 찬성
+
+  * 참조: STATE 27281 
+  * 참조하는 전문: [[08seoul878|08seoul878]]
+
+  * 분류자: 정치 공사 참사관 조셉 윤10.   근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/24 21:06//
+1. (기밀) 3월 19일 대사관 정무 직원과 함께한 회동에서, 외교통상부 장현철 인권사회과 심의관은 한국이 유엔인권이사회에서의 북한인권특별보고관 임기 연장에 투표할 거라고 말하였다.  게다가, 한국은 버마에 대한 인권특별보고관 연장도 역시 찬성한다며, 이러한 특정 국가 결의안이 대체로 보편적인 조사 시스템에 보완적인 구실을 할 것으로 믿고 있다. 
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.pressian.com/article/article.asp?article_num=40080328092917&Section=05|북한인권 특별보고관 임기 연장에 '찬성표' 던져]] //프레시안//
+  - [[http://www.rfa.org/korean/in_focus/un_humanrights-03062009165701.html|북한인권 특별보고관 임기 연장 표결]] //자유아시아방송//
+  - [[http://webcache.googleusercontent.com/search?q=cache:fLKcxlPb3LkJ:monthly.chosun.com/client/column/view.asp%3FC_IDX%3D3323%26tbKey%3Ddb1937%26c_cc%3DA+&cd=4&hl=en&ct=clnk|공산주의자와의 협상에서 이기는 길]]  //월간조선//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL561.rtf>
+C O N F I D E N T I A L SEOUL 000561 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DRL/MLGA FOR GIANNI PAZ 
+ 
+E.O. 12958: DECL: 03/20/2018 
+TAGS: KS [Korea (South)], KN [Korea (North)], BM [Burma], PGOV [Internal Governmental Affairs], PHUM [Human Rights], PREL [External Political Relations] 
+SUBJECT: ROK SUPPORTS HRC SPECIAL MANDATES FOR NORTH KOREA, 
+BURMA 
+ 
+REF: STATE 27281 
+ 
+Classified By: POL M/C Joseph Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) In a March 19 meeting with poloff, Jang Hyun-cheol, 
+MOFAT Deputy Director for Human Rights, said that the ROK 
+will vote to extend the special mandate for the Special 
+Rapporteur for North Korean Human Rights in the U.N. Human 
+Rights Council.  Furthermore, the ROK also supported the 
+continuation of the Burma mandate, and more generally 
+believed that these country-specific mandates played a 
+complementary role with the universal-review system. 
+VERSHBOW
+</file>

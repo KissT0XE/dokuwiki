@@ -1,0 +1,160 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL2729  |  2006-08-11 09:29  |  기밀  |  주한미국대사관  |  {{tag>PGOV ECON KS KN }}  |
+====== 제 목: 한국정부, 북한 수해 구제에 참여하기로 ======
+기 밀 SEOUL 002729 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+국가안전보장회의 차((NSC FOR CHA ))
+
+행정명령 12958: 비밀해제: 08/18/2015 
+태그: PGOV(([Internal Governmental Affairs])), ECON(([Economic Conditions])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국정부, 북한 수해 구제에 참여하기로
+참조: [[06seoul2684|SEOUL 2684 ]]
+참조하는 전문: [[06seoul2828|06SEOUL2828]]
+분류자: 공관차석 직무 대리 조셉 윤((A/DCM Joseph Y. Yun)).  근거 1.4 (b), (d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/06/22 05:38//
+===== 요점 및 논평 =====
+
+1. (기밀) 8월 11일 외교통상부 북미1과 한충희 과장은 한국정부가 북한 수해 구제를 위해 매칭펀드 방식으로 미화 천만 달러를 (한화 100억 원) 민간단체에 제공하기로 하였다. (3문단에 본문 참조). 다음 주 한국정부는 적십자 채널을 통한 원조 제공의 규모를 결정할 예정이며, 아마도 상당한 양의 쌀이 될 공산이 크다. 윤병세 차관은 한국정부가 1) 매칭 펀드 방식으로 남한 민간단체 통한 구호 지원과 2) 적십자를 통해 추가적인 원조를 보내는 양면 정책을 선택했다고 개별적으로 공관차석 직무 대리에게 확인해 주었다.
+
+2. (기밀) 논평: 한국은 이번 원조를 //“긴급구호”//라고 채색한 점은 한국정부의 원조 재계로 북한의 미사일 발사에 대한 한국정부의 //“강경한”// 대응을 누그러뜨릴 위험에 대해 알고 있음을 보여준다. 통일부 보도 자료를 보면 북한의 기차역 폭발 이후 한국의 원조와 1984년 남한의 수해 직후 북한이 원조를 언급함으로써 한국정부의 이번 결정은 인도적 결정이라는 한국정부의 방점을 강조하고 있다. 논평 끝.
+===== 8/11일 통일부 보도자료 =====
+3. (미분류) 정부, 북한 수해 관련 긴급구호 참여 결정
+
+ o 오늘(8.11) 오전 정부중앙청사에서 인도적 대북지원 단체들과 정부와의 협의기구인 「대북지원 민관정책협의회」(약칭 「민관협」) 제5차 전체회의가 열렸음.
+
+ o 오늘 회의는 민간측 의장인 홍정길 「대북협력 민간단체협의회」(약칭 「북민협」) 회장과 신언상 통일부차관이 공동으로 주재하였으며
+
+%%  -%% 농림부, 보건복지부 등 유관기관 관계자와 대북지원 단체 대표가 참석하였음.
+
+ o 최근 북한 수해에 대한 긴급구호 문제를 논의한 오늘 회의에서 「북민협」측은(「민화협」도 참여) 이번 북한 수해와 관련해서 자체적으로 98.6억원 상당의 생필품과 의약품 등 구호품을 전달할 계획을 수립하고 정부의 지원을 요청해 왔음.
+
+%%  -%% 이와 관련, 정부는 △북한 수해정도의 심각성, △정치권 및 각계각층의 정부에 대한 지원 요청 등을 감안하여, 인도적 차원에서 북한 수해 긴급구호 사업에 참여하기로 결정하였음.
+
+ o 정부의 민간단체에 대한 지원규모는 민간단체가 자체적으로 마련한 지원내용을 감안하여 매칭펀드 방식으로 100억원 정도가 될 것임.
+
+%%  -%% 지원품목은 북한 이재민들에게 시급한 생필품, 의약품, 기초적인 수해복구 장비 등으로 하며 구체적인 품목과 수량은 곧바로 민관 실무협의를 통해 결정될 것임.
+
+ o 이와 함께 대한적십자사가 북한 수해복구 지원에 정부의 참여를 요청해온 만큼,
+
+%%  -%% 다음주중에 한적과 협의, 지원 품목․규모․시기 등을 결정할 예정임.
+
+ o 이번 지원은 지난 2004년 범국민적인 차원에서 추진된 북한 용천재해 복구지원과 같이, 순수한 인도적 차원에서 이루어지는 것임.
+
+ 1) ’04년 용천재해(사망 150여명, 부상자 1,300여명 및 주택 89,100여세대 파손)시 민간 283억원, 한적 421억원(협력기금 33.4억원, 양곡관리특별회계 74억원, 국민성금 170억원, 민간 기증물품 137억원 등) 총 700여억원 규모 지원
+
+%%  -%% 쌀 5,000톤, 밀가루 5,000톤, 담요, 라면 등 긴급구호물품 및 굴삭기․트럭 등 복구자재․장비 지원
+
+ 2) 북한도 지난 ’84년 우리측 홍수피해에 대해 쌀 5만석(7,300톤), 옷감 50만㎡, 시멘트 10만톤 등 수해구호물자를 제공
+버시바우
+[[https://sites.google.com/site/poirotkr/3/06seoul2729|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.vop.co.kr/A00000048922.html|민관, 200억 규모 대북 수해지원...당정 합의]] //민중의 소리//
+===== 원본 및 내려받기 =====
+<file rtf 06SEOUL2729.rtf>
+C O N F I D E N T I A L SEOUL 002729 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+NSC FOR CHA 
+ 
+E.O. 12958: DECL: 08/18/2015 
+TAGS: PGOV [Internal Governmental Affairs], ECON [Economic Conditions], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: ROKG ANNOUNCES FLOOD ASSISTANCE TO NORTH KOREA 
+ 
+REF: SEOUL 2684 
+ 
+Classified By: A/DCM Joseph Y. Yun.  Reasons 1.4 (b), (d). 
+ 
+¶1.  (C) On August 11, Ministry of Foreign Affairs and Trade 
+North American Affairs Division I Director Hahn Choong-hee 
+provided the Embassy with the Ministry of Unification (MOU) 
+press release announcing that the ROKG has decided to provide 
+USD 10 million (10 billion SKW) of matching flood relief to 
+North Korea through NGOs (text in para 3).  Next week, Seoul 
+is expected to decide how much assistance it will also 
+provide via Red Cross channels, which will likely be in the 
+form of rice, probably quite large quantities.  Separately, 
+Deputy Foreign Minister Yun Byung-se confirmed to A/DCM that 
+Seoul opted for a two-prong approach of (1) matching South 
+Korean NGO relief assistance and (2) sending additional aid 
+through the Red Cross. 
+ 
+¶2.  (C) COMMENT: ROK efforts to paint this support as 
+"emergency aid" indicates that Seoul sees that renewed 
+assistance risks softening the "tough" ROKG response to the 
+DPRK missile launches.  By citing ROK aid in 2004 after an 
+explosion at a North Korean train station and DPRK aid in 
+1984 following floods in the South, the MOU press release 
+underscores the ROKG attempt to stress the humanitarian 
+nature of this decision.  END COMMENT. 
+ 
+TEXT OF 8/11 UNIFICATION MINISTRY PRESS RELEASE 
+--------------------------------------------- -- 
+ 
+¶3.  (U) Government Decides to Participate in Emergency Relief 
+for North Korea Flood Damage 
+ 
+Today, the 5th general conference of the "Government-Private 
+Council for North Korean Assistance," which is a consultative 
+body for humanitarian aid groups and the government, was held 
+at the central government complex. 
+ 
+Today's conference was led by Hong Jeong-gil, Chairman of the 
+"Private Council for North Korean Cooperation" from the 
+private sector, and MOU Deputy Minister Shin Un-sang. 
+Officials from relevant ministries such as the Ministry of 
+Agriculture and Forestry, and the Ministry of Health and 
+Welfare, and representatives from North Korean aid groups 
+also participated. 
+ 
+At today's conference, where emergency relief for North 
+Korean flood damage was discussed, the Private Council for 
+North Korean Cooperation said that it had made plans to send 
+9.86 billion won worth of relief goods such as daily 
+necessities and medical goods (with the participation of the 
+National Reconciliation Committee) to the North, and asked 
+for government assistance. 
+ 
+--The Government decided to participate in the emergency 
+relief project for humanitarian purposes, taking into 
+consideration the seriousness of the flood damage, and the 
+calls for assistance by the political circle and all levels 
+of the society. 
+ 
+The assistance volume that the government will contribute to 
+the private groups will be around 10 billion won in matching 
+funds, taking into consideration the assistance made by the 
+private groups. 
+ 
+--Relief items will be daily necessities, medical goods, and 
+basic flood recovery equipment.  Detailed items and volume 
+will be decided through private-pubic working-level meetings. 
+ 
+Since the (South) Korean Red Cross requested government 
+participation by the government, the government will hold 
+discussions with the Korean Red Cross next week, and 
+determine the items, volume, and timing of assistance. 
+ 
+Like the rehabilitation aid for the Ryonchong (train station) 
+disaster, the upcoming assistance will be made purely for 
+humanitarian purposes. 
+ 
+--2004 Ryongchong: 150 deceased, 1,300 injured, 89,100 houses 
+destroyed.  Private assistance 28.3 billion won and Korean 
+Red Cross 42.1 billion won: Inter-Korean Cooperation Fund 
+3.34 billion won, special budget for grain management 7.4 
+billion won, national donations 17 billion won, aid given by 
+private sector 13.7 billion won.  Total 70 billion won. 
+ 
+--2004 Ryongchong aid (cont'd): 5,000 metric tons of rice, 
+5,000 metric tons of wheat flour, as well as blankets, 
+instant noodles, excavators, and trucks. 
+ 
+--In 1984 following floods in South Korea, North Korea sent 
+7,300 metric tons of rice, 500,000 square meters of fabric, 
+and 100,000 metric tons of cement.  END TEXT. 
+VERSHBOW
+</file>

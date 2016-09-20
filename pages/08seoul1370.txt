@@ -1,0 +1,185 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL1370  |  2008-07-09 07:48  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 한나라당과 민주당, 새 지도부 선출. 국회 개원 준비 ======
+기 밀 SEOUL 001370 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+미 무역대표부 커틀러, 트릭 그리고 유에게 전달((PASS USTR FOR CUTLER, TRICK AND YOO ))
+행정명령 12958: 비밀해제: 04/10/2018 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)]))
+제 목: 한나라당과 민주당, 새 지도부 선출. 국회 개원 준비
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d). 
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/03/23 04:35//
+===== 요약 =====
+1. (기밀) 요약: 7월 초 집권당 한나라당과 당명을 바꾼 제1야당인 민주당은 국회 개원과 관련 답보 상태를 타개하려고 조치로써 당 지도부를 선출했다. 박희태가 한나라당 대표로 선출되면서 현재 한나라당을 나가 있는 박근혜 지지자들의 합류를 재촉할 공산이 크다. 민주당은 경험 많은 정세균 의원이 당 대표로 선출되고 당내 지도부가 통합되면서 일정 부분 민주당 계파 분열이 해소될 것으로 예상한다. 민주당의 국회 등원 거부가 이회창의 자유선진당 중재로 7월 10일 끝나게 될 가능성이 커지면서 한나라당과 민주당은 체면을 구기지 않으면서 대결 국면을 벗어날 여지가 생겼다. 그렇긴 하지만, 양 당이 각자 당 결속에 힘을 쏟는 상황에서 계파 분열을 극복하고 상임위 구성에 합의해야 하는 등 도전 과제는 넘쳐 난다. 요약 끝.
+===== 한나라당: 친이계 지배, 친박계 달래기 =====
+2. (민감하지만 미분류) 집권당 한나라당에서는 박희태 전 국회 부의장이 2년 임기 당 대표로 선출되었다. 7월 3일 치러진 한나라당 당 대표 선거는 (최종 결정의 70% 비중인) 당원과 전국적인 여론조사(30%) 투표를 합친 것이다. 박희태가 대표로 선출되고 정몽준, 허태열을 비롯한 나머지 당 대표 후보들은 한나라당 최고위원으로 임명되었다.
+<WRAP center round info 90%> //**고승덕 의원이 말한 돈 봉투 사건은 바로 이때**// 선관위 Ddos 사건 와중에 갑작스럽게 등장한 “전대 돈봉투 사건”에 청와대와 이상득이 깊이 관여했다는… [[http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201201092155265&code=910402|전대 때 청와대·이상득·친이계가 박희태 전폭 지원]] //경향신문// 
+</WRAP>
+
+3. (민감하지만 미분류) 박희태 대표는 강력한 이명박 대통령 지지자이다. 그가 현직 국회 의원은 아니지만, 이명박 정부에서 중요한 역할을 수행했다. 그가 당 대표로 선출된 것은 한나라당과 청와대 사이(당청) 관계 강화를 의미할 것이다. 계파 균열로 인해 당에 대한 장악력을 상실하고 이명박의 측근이자 실세인 이재오가 4월 총선에서 고배를 마신 터라 박희태 대표 선출은 이 대통령에게는 반가운 소식이다.
+
+4. (민감하지만 미분류) 한나라당과 결별하며 무소속이나 친박연대로 출마한 박근혜 지지자들의 처리를 두고 벌였던 이견이 한나라당으로서는 특히 어려웠던 점이다. 박희태는 좀 더 당내 화합을 요청한 바 있다. “우린 더 이상 시간 낭비를 할 수 없다. 이른 시일 내에 모두 당으로 복귀시켜야 한다.” 7월 8일 당 지도부는 원칙적으로 소위 “변절자”들의 복당을 허용할 것이지만, 더 논란이 심한 인물의 복당 시기를 두고 의견이 갈렸다. 25명의 박근혜 지지자들―친박연대 13명, 무소속 12명―한나라당의 합류하게 되면 집권당은 299석 중 178석을 점유하게 된다.
+===== 민주당: ‘386의원’들 재활? =====
+5. (민감하지만 미분류) 야당 민주당은 7월 7일 전당대회를 전국적으로 개최했다. 전당대회에서 지금은 사라진 열린우리당의 전 의장이었던 정세균이 당 대표로 선출됐다. 당명도 통합민주당에서 민주당으로 변경했다. 당 내부 변화는 더 확연해졌다; 당 대표 한 사람에게 상대적으로 권한이 많이 주어지는 단일성 집단지도 체제를 발표하였다. 대통합민주신당과 예전 민주당이 연합해 창당한 통합민주당은 당시 각 당의 대표가 신당 지도부를 공유하였다. 민주당은 단일성 집단지도 체제로의 변화가 계파를 통합할 것으로 희망하고 있다. 당의 공식 의사결정 기구로 최고위원회의가 힘을 받게 되었다.
+
+6. (민감하지만 미분류) 통합민주당의 선거 과정은 당원 투표와 전국 여론조사를 모두 포함하기에 한나라당과 비슷하다. 그러나 통합민주당은 최고위원을 선출하기 위해 별도의 선거를 개최했다. 현 최고위원 중에는 노무현 전 대통령의 최측근 중의 한 명인 안희정도 포함되어 있다. 안희정의 선출은 예상 밖이다. 왜냐면 민주당의 과거 최고위원 선출 흐름을 보면 전 정부 인사를 당 지도부에서 탈락시키는 경향을 견지했기 때문이다. 안희정과 더불어 “386의원”인 김민석과 송영길이―최근 노 대통령과의 연계성 때문에 뒷전으로 밀려났던―최고위원회의 의석 2개를 확보했다.
+
+7. (민감하지만 미분류) 정세균도 역시 노무현 정부 인사이다. 그는 친노나 대표 자리를 다퉜던 라이벌 추미애보다는 더 중도라고 여겨진다. 당내 계파 문제에 대한 정세균의 중립적인 기조가 당원들에게는 대통합에 대한 희망을 주고 있다. 민주당은 정 대표에게 쇠고기 수입위생조건 재협상과 기름값 해결 요구에 대한 전권을 일임했다.
+===== 국회 (결국) 소집 =====
+8. (민감하지만 미분류) 7월 8일 집권당과 야당은 가축전염병방지법 개정에 합의한 이후에 일주 만에 국회 재개원하기로 합의했다. 민주당은 미국산 쇠고기 수입위생조건 재협상을 요구해왔다. 민주당은 또 가축전염병예방법을 개정하여 수입할 수 있는 쇠고기 부위를 제한해야 하며 외국 정육업자를 규제할 수 있는 권한을 확보하고 만일 남한에 수출한 쇠고기가 광우병으로 확인될 경우 해당 국가의 수입을 자동으로 금지해야 한다는 견지를 유지해왔다. 그러나 한나라당은 미국과의 재협상이 불가능하며 두 차례의 추가적인 협상이 국익을 보장했고 국민의 우려 사항들이 대체로 해소되었다는 주장을 굽히지 않았다. 군소 보수 정당인 자유선진당이 절충안 중재에 나서며 개정 가축전염병예방법에 국민의 우려와 국익을 모두 반영토록 하자고 주문했다. 다만 한나라당은 국제 무역 규칙에 저촉되거나 무역 마찰을 야기할 수 있는 개정은 없다는 입장이 확고하다. 한나라당과 민주당 공히 7월 10일 예고된 국회 개원과 동시에 가축전염병예방법 관련 절충점을 모색하기로 원칙적으로 합의했다.
+===== 논평 =====
+9. (기밀) 국회 정상화에 애를 먹는 가운데 한나라당과 민주당 모두 계속되는 당내 논쟁으로 국민의 지지를 상실하면서 당 지도부의 고민이 깊어지고 있다. 민주당 골 깊은 계파 분열이 여전하긴 하지만, 온건 성향이 강해진 민주당 지도부 선출은 야당이 협력할 수 있다는 신호탄일 수도 있다. 한편 한나라당은 인기 없는 대통령의 정책과 국민과 민주당의 요구를 놓고 균형을 맞출 필요가 있을 것이다. 여하간에 당 지도부가 선출되면서 여야 협상에 난항을 초래했던 권력 공백에 해법을 제공할 것이다. 그러나 한나라당은 여당으로써 민주당은 야당으로써 제 역할에 찾아 익숙해지려면 시간이 좀 걸릴 것이다.
+버시바우
+[[https://sites.google.com/site/poirotkr/11/08seoul1370|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201201092155265&code=910402 2008|전대 때 청와대·이상득·친이계가 박희태 전폭 지원]] //경향신문//
+===== 원본 내려받기 =====
+<file rtf 08SEOUL1370.rtf>
+C O N F I D E N T I A L SEOUL 001370 
+ 
+SIPDIS 
+ 
+PASS USTR FOR CUTLER, TRICK AND YOO 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: GNP, DP ELECT NEW LEADERSHIP, NA SET TO OPEN 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary:  In early July both the ruling Grand 
+National Party (GNP) and the main opposition party, the newly 
+renamed Democratic Party (DP), selected their party 
+leadership in a move that should end the stalemate over 
+convening the National Assembly.  The election of Park 
+Hee-tae to lead the GNP is likely to precipitate the 
+incorporation of Park Geun-hye's supporters currently outside 
+the GNP.  Veteran lawmaker Chung Sye-kyun's election as DP 
+party chief and the consolidation of leadership within the 
+party is expected to resolve some of the DP's factional 
+divide.  Ending the boycott, likely to happen by July 10, was 
+facilitated by Lee Hoi-chang's Liberty Forward Party, giving 
+the GNP and the DP a face-saving way out of their stand-off. 
+Nevertheless, challenges abound as both parties struggle to 
+consolidate their parties, overcome factional divides, and 
+agree on committee chairs.  End Summary. 
+ 
+--------------------------------------------- ---- 
+GNP: Lee Faction Dominates, Park Faction Appeased 
+--------------------------------------------- ---- 
+ 
+¶2.  (SBU) The ruling GNP elected former Vice Assembly Speaker 
+Park Hee-tae to serve a two-year term as party chair.  The 
+election, which took place on July 3 at the GNP National 
+Convention, included both a vote by party members (weighted 
+as 70 percent of the final decision) and national polling (30 
+percent).  After Park was elected chairman, the remaining 
+candidates, including Chung Mong-joon and Huh Tae-yeol, were 
+appointed to the GNP's Supreme Council. 
+ 
+¶3.  (SBU) Chairman Park is a strong supporter of President 
+Lee Myung-bak and, though he is not a current member of the 
+National Assembly, has played an important role in President 
+Lee's Administration.  His election as party chair, 
+therefore, should signify a strengthening of ties between the 
+GNP and the Blue House.  This is good news for President Lee, 
+who lost control of the party due to a factional fissure and 
+the demise of his confidant and power broker Lee Jae-o in the 
+April National Assembly elections. 
+ 
+¶4.  (SBU) Of particular difficulty for the GNP has been 
+disagreement over the fate of Park Geun-hye supporters, who 
+split from the GNP and ran for the National Assembly as 
+independents or as part of the Pro-Park Alliance (PPA).  Park 
+Hee-tae has called for more unity within the party, saying, 
+"We cannot waste more time.  All of them must rejoin the 
+party as soon as possible."  On July 8 party leaders agreed 
+in principle that all the so-called "defectors" will be 
+allowed to rejoin the party, but they differed over the 
+timing of some of the more controversial figures.  After 
+these 25 Park Geun-hye supporters -- 13 from the PPA and 12 
+independents -- are incorporated into the GNP, the ruling 
+party will occupy 178 out of 299 seats. 
+ 
+------------------------------------ 
+DP: Rehabilitation of the "386'ers"? 
+------------------------------------ 
+ 
+¶5.  (SBU) The opposition party held its national convention 
+on July 6.  At the convention, former chairman of the now 
+defunct Uri Party, Chng Sye-kyun, was elected party 
+chairman.  The party also changed its name from the United 
+Democratic Party (UDP) to the Democratic Party (DP).  Changes 
+within the party were more substantive; a new collective 
+leadership system was announced, granting leadership to a 
+single party chairman.  When the UDP was created, joining the 
+United New Democratic Party with the old Democratic Party, 
+leadership was shared by a representative from each party. 
+The party hopes the move to a single chairman will unify the 
+factionalized party.  The Supreme Council was also given 
+anointed the official decision-making organ of the party. 
+ 
+¶6.  (SBU) The election process included both a party vote and 
+national polling, similar to the GNP.  The DP however, held a 
+separate election for supreme council members.  Members now 
+include one of former President Roh Moo Hyun's closest 
+supporters, Ahn Hee Jung.  Ahn's election came as a surprise, 
+because in past elections the DP has followed a trend of 
+eliminating former government members from party leadership. 
+In addition to Ahn, the "386ers" -- recently maligned because 
+of their affiliation with President Roh -- surprisingly got 
+two other spots on the council: Kim Min-seok and Song 
+Young-gil. 
+ 
+¶7.  (SBU) Chung Sye-kyun, who is also a former member of 
+Roh's administration, is considered to be more centrist than 
+the Roh faction or his main rival for the top spot, Choo 
+Mi-ae.  His neutral stance on party factions gives party 
+members hope of greater unification.  The DP has given him 
+the directive of demanding renegotiation of the beef 
+agreement and settling oil prices. 
+ 
+-------------------------------------- 
+National Assembly (Finally) to Convene 
+-------------------------------------- 
+ 
+¶8.  (SBU) On July 8 lawmakers from the ruling and opposition 
+parties agreed to reopen the National Assembly within the 
+week after agreeing to revise the country's livestock 
+epidemic prevention act.  The DP had demanded a renegotiation 
+of the U.S. beef import pact and had maintained that the 
+livestock epidemic prevention act be revised to impose limits 
+on what beef parts can be imported, gain authority to 
+regulate foreign meat packers and impose an automatic import 
+ban if a country that exports beef to South Korea confirms a 
+mad cow case.  The GNP, however, remained insistent that 
+renegotiations with the U.S. are impossible and that two 
+additional rounds of talks ensured that national interest and 
+public concerns have generally been satisfied.  A compromise 
+brokered by the Liberty Forward Party, a minor conservative 
+party, calls for both public concerns and the national 
+interest to be reflected in any revised livestock act, 
+although the GNP held firm that no changes would be made that 
+would violate international trade rules or cause trade 
+frictions.  Both the GNP and DP agreed in principle to find 
+middle ground on the act once the National Assembly is 
+reopened, now expected to happen on July 10. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶9.  (C) As the National Assembly struggles to return to 
+order, loss of public support for both the GNP and DP over 
+internal bickering will continue to plague party leadership. 
+The election of a more moderate leader for the DP may be a 
+signal that the opposition is ready to cooperate, although 
+the party remains deeply divided.  The GNP, meanwhile, will 
+need to balance the policies of its unpopular president with 
+public and DP demands.  Regardless, the selection of party 
+leaders should provide a remedy to the power vacuum that had 
+made negotiations between the parties so difficult.  Still, 
+they will find their new roles -- GNP as ruling party and DP 
+as opposition -- take some getting used to. 
+VERSHBOW
+</file>

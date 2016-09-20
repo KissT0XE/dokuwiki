@@ -1,0 +1,171 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL2183  |  2006-06-30 09:21  |  미분류  |  주한 미국 대사관  |  {{tag>KS PGOV PHUM PINR }}  |
+====== 제 목: 신문법과 언론중재법 위헌 판결 ======
+미분류 SEOUL 002183 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+ 
+행정명령 12958: 해당없음((N/A))
+태그: KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PHUM(([Human Rights] 전혀 어울리지 않는 태그를 같다 붙여났다. 조중동 언론 사주의 인권을 말하나?))
+제 목: 신문법과 언론중재법 위헌 판결((29일 오후 2시 조선일보와 동아일보가 헌법소원을 낸 '신문 등의 자유와 기능 보장에 관한 법률(이하 신문법)'과 '언론중재 및 피해구제 등에 관한 법률(언론중재법)'에 대해 헌법재판소가 일부 위헌, 일부 헌법불합치 등의 판결을 내렸다))
+참조: 가. 05 SEOUL 20  나. 04 SEOUL 05258 
+번역자 제공 참조: [[09seoul1732|제 목: 헌법재판소, (종편) 미디어법안 옹호]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/06/24 12:12//
+===== 요점 =====
+
+1. (민감하지만 미분류) 6월 30일 헌법재판소는 신문 시장 규제를 위해 반 독과점 원칙을 채택한 논란을 사는 2005년 정부의 신문법과 언론중재법이 대게 위헌이라고 선언하였다. 이번 판정은 신문법이 정부에 대한 비판을 잠재우려는 정치적인 동기에 의한 시도라고 주장하는 보수 언론에는 승리이다. 요약 끝.
+===== 신문법 =====
+
+2. (미분류) 2005년 1월 1일 국회는 표면적으로 언론 시장의 다양성을 증대할 목적으로 고안된 매우 이론이 심한 언론개혁법을 통과시켰다(참조 전문 가, 나). <wrap hi>2005년 7월 이후 적용되는 신문법은 1개 사업자가 신문시장의 30% 이상을 지배하거나 만일 3대 주요 신문 사업자를 합해 60% 이상의 시장 지배력을 점하게 되면 공정거래위원회가 제한을 가할 권한을 부여하였다((번역 주: '신문발전기금'의 지원대상에서 배제한다는 내용을 미 대사관은 두리뭉실하게 애매모호하게 설명하고 있다. 아마도 '신문발전기금'이란 핵심적 단어에 대한 이해가 없는 것 아닌지 의심이 든다.)). 신문법은 언론사 소유주가 발행 부수와 광고 수입을 신문발전위원회에 보고하도록 의무화하고 있다. 신문법은 방송이나 인터넷 언론에는 적용되지 않는다.</wrap><WRAP center round info 90%>//**방송 부문은 `방송발전기금`이 따로 있는데 뭔 뚱딴지같은 소리?**//
+본 대사관 전문에서 설명하는 시장 점유율은 (신문) 발행 부수를 말한다. 즉 한 신문사가 전체 신문 발행부수의 30%를 차지하면 “신문발전기금”의 지원대상에서 배제하는 신문등의자유와기능보장에관한법률(이하 신문법) 제34조 2항 2호를 말하고 있다. 당연히 발행 부수에 따라 정부 보조금인 //“신문발전기금”//의 지원 대상을 결정하므로 인터넷이나 방송하곤 전혀 무관한 내용이다. 또한, 방송 부문은 //“방송발전기금”//이 따로 있으니 <q>"신문법은 방송이나 인터넷 언론에는 적용되지 않는다"</q>는 미 대사의 발언은 참 뚱딴지같은 소리다.</WRAP>
+3. (민감하지만 미분류) 한국 정부는 (신문발전기금 관련) 제한이 언론 시장의 다양성을 보장하는 데 필요하다고 주장한다. 2004년 당시 국회의원이었던 천정배 법무부 장관은 신문법은 언론의 경쟁을 담보하도록 돕기 위함이지 언론을 억압하려는 의도가 아니라고 앞서 우리에게 설명한 바 있다.
+ 
+4. (민감하지만 미분류) 그러나 보수 언론은 처음부터 부당하다고 목청을 높였다. 중앙일보는 2004년 10월 15일 사설에서 열린우리당이 내놓은 <q>“언론관계법 개정안은 진정한 언론발전과 성숙한 민주사회를 희망한 우리의 기대를 깨뜨렸다”</q>고 썼다.((번역 주: [[http://article.joinsmsn.com/news/article/article.asp?total_id=401273|[사설] 언론시장 규제는 언론자유 침해다]] //중앙일보//)) 여타 사설에도 똑같이 경계하는 모습이다. 실제로 보수언론 특히 조선, 중앙, 동아일보 등과 노무현 정부 사이 적대감은 오래된 일이다. 3개 신문사를 합치면 75%의 언론 시장을 지배하고 있고 종종 노무현 정부를 가혹하게 비판해왔다. 많은 관측통은 언론개혁법이 역사적으로 친정부 방송사와 인터넷 매체는 건드리지 않는 가운데 이들 3대 신문사에 가장 영향을 미칠 거라는 식은 의구심을 자아내는 편의적인 발상이라고 생각한다. 그러나 예로 한겨레와 같은 일부 진보적인 언론사는 언론개혁법이 인쇄 매체 시장을 개방하는 데 필요한 조치라고 환영한다.
+
+5. (미분류) 2005년 2월 조선일보와 동아일보를 포함한 여타 신문사들과 정인봉 전 한나라당 의원 등은 헌법재판소에 언론관계법에 반대하는 헌법소원 청구를 제기하였다. 핵심만 말하자면, 원고는 언론관계법이 정부 권력의 부당한 행사이며 한국 헌법에 보장된 언론의 자유를 침해한다고 주장하였다.
+===== 언론 자유에 대한 제약은 위헌 =====
+
+6. (미분류) 6월 29일 헌법재판소는 언론개혁법이 많은 부분에서 위헌이며 한국 헌법이 보장하는 언론의 자유를 침해한다고 판결하였다. 헌법재판소는 보통의 사업자는 시장을 75% 이상 지배하면 독과점으로 간주한다고 지적하였다. 신문사에 대해 차별적으로 대우하는 언론법은 부당한 차별에 해당한다. <wrap hi>헌법재판소는 독자의 선호도가 높다는 이유로 인기 신문사를 처벌해서는 안 된다고 말하였다. 헌법재판소는 또한 법원 명령 없이도 정정보도를 하도록 강제하는 개정안과((번역 주: 언론중재법 26조를 말한다.)) 한 신문의 50% 이상 지분을 소유한 지배주주가 다른 신문의 지분 50% 소유를 금지하는 언론관계법 개정안도 위헌이라고 결정하였다.</wrap>((번역 주: 신문법 15조 3항을 말한다. 자세한 내용은 바깥 고리의 기사를 보라.)). 그러나 헌법재판소는 신문사가 발행 부수나 광고 수익에 대한 정보, 여타 금융 정보를 공개하도록 요구하는 개정 법안은 합헌으로 판결하였다.<WRAP center round info 90%>//**실제 내용은 “시장 점유율이 높다는 이유만으로, 즉 독자의 선호도가 높아서 발행부수가 많다는 점을 이유로 신문사업자를 차별하는 것....(중략)”**//
+특히 언론노조는 신문법 제17조의 '시장지배적 사업자'에 대한 규정문제, 이들을 신문발전기금 지원대상에서 제외하는 34조 제2항 제2호에 대해서도 위헌 결정을 내린 것에 대해 헌재의 이전 결정과 일관되지도 않으며 여전히 거대신문들의 막대한 불법 경품 및 무가지 제공이 판을 치고 있는 신문시장 현실을 왜곡한 것이라며 반박했다. 언론노조는 헌재가 2002년 7월 <q>“우리나라의 경우, 신문의 판매대금 수입보다는 광고수입의 증대와 직결되는 판매부수의 확대를 위하여는 무가지의 다량공급, 경품의 남용 등 신문발행의 원가를 무시한 과도한 경쟁이 촉발된 바 있고 … 무가지를 무제한으로 살포하거나 경품류를 제공하는 등 … 신문의 질 향상과는 무관한 유인적 방법에 의하여 타사의 구독자를 탈취하려는 노력을 중심으로 경쟁이 격화되어 왔던 경험…”(사건번호 2001헌마605)</q>를 지적하며 어떻게 4년 만에 입장이 바뀌었는지를 추궁했다.[[http://www.jabo.co.kr/sub_read.html?uid=16092&section=sc5|헌재는 왜 4년전과 정반대 판결내렸나!]] //대자보//</WRAP><WRAP center round tip 90%>//**신문법 제15조 제3항에 대한 헌법불일치 결정은 전혀 근거도 없으며 오히려 헌재 재판관 7명의 독해력을 의심**//…(중략) 또 언론노조는 헌재가 ‘일간신문 지배주주에 의한 신문의 복수소유를 규제하고 있는 부분’인 신문법 제15조 제3항에 대한 헌법불일치 결정은 전혀 근거도 없으며 오히려 헌재 재판관 7명의 독해력을 의심하게 된다고 주장했다. 헌재는 이 조항을 <q>“신문의 복수소유를 일률적으로 금지하고 있어서 필요 이상으로 신문의 자유를 제약하고 있다”고 했지만, 이는 왜곡이며 제15조 제3항은 신문의 복수소유를 일률적으로 금지하고 있지 않음을 밝히고 있다. 즉 "한 신문의 50% 이상 지분을 보유한 지배주주가 다른 신문의 지분 50% 이상을 소유하지 못하게 하고 있을 뿐, 49.9%까지 얼마든지 소유할 수 있다"</q>면서 어떻게 헌법불일치 판정이 내렸는지에 대해 의문을 제기했다.[[http://www.jabo.co.kr/sub_read.html?uid=16092&section=sc5|헌재는 왜 4년전과 정반대 판결내렸나!]] //대자보//
+</WRAP>
+
+7. (민감하지만 미분류) 해당 신문사 변호사와 방석호 홍익대 법대 교수는 이번 판결은 한국의 언론의 자유를 지키는 중요한 판결이라고 6월 29일 대사관 정무 직원에게 말하였다. 그는 이번 사건 재판은 진보 매체나 여타 단체들이 공민권에 대해 유리한 주장을 하도록, 즉 출판의 자유에 따른 보수 언론사의 권리에 손을 들어주도록 강제했다는 점에서 독보적이라고 말했다.
+
+8. (민감하지만 미분류) 방석호는 헌법재판소가 합헌이라고 인정한 언론관계법 조항에는 개의치 않는 모습이다. 신문사들이 이제 자체 발행 부수 정보를 공표해야 하므로 광고주들은 한겨레나 여타 진보 언론사 구독자가 얼마나 적은지 파악할 수 있게 되었다. 그 결과 언론개혁법에 따라 판로가 넓은 보수 언론으로 진보 언론사의 광고 수익이 옮겨가는 효과를 야기할 듯하다고 그는 말하였다.
+===== 논평 =====
+
+9. (민감하지만 미분류) 2004년과 2005년 인권보고서에 반영된 바대로 우리는 그간 언론개혁법에 대해 오랜 불안감이 있었다. 언론 시장의 다양성 확대라는 취지는 좋은 것이다. 그러나 정부가 비평가들의 목소리에 재갈을 물리지 않고 그 다양성을 달성하는 방안이 있어야 할 것이다.
+버시바우
+[[https://sites.google.com/site/poirotkr/3/06seoul2183|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.jabo.co.kr/sub_read.html?uid=16092&section=sc5|헌재는 왜 4년전과 정반대 판결내렸나!]] //대자보//
+  - [[http://www.jabo.co.kr/sub_read.html?uid=16086&section=sc1|헌재, 신문법 '위헌' 조중동에 손들어줘]] //대자보//
+  - [[http://www.jabo.co.kr/sub_read.html?uid=16120|조선 동아의 낯간지러운 ‘신문법 위헌’ 몰아가기]] //대자보//
+  - [[http://article.joinsmsn.com/news/article/article.asp?total_id=401273|[사설] 언론시장 규제는 언론자유 침해다]]
+  - [[http://www.journalist.or.kr/news/articleView.html?idxno=17377|KBS 신임 이사에 방석호 홍익대 교수]] //한국기자협회//
+  - [[http://www.chosun.com/culture/news/200506/200506090402.html|"신문법 위헌" 조선일보 헌법소원]] //조선일보//
+  - [[http://www.hani.co.kr/arti/society/media/136998.html|신문법ㆍ언론중재법 위헌 소송 일지]] //한겨레//
+===== 원본 내려받기 =====
+<file rtf 06SEOUL2183.rtf>
+UNCLAS SEOUL 002183 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KS [Korea (South)], PGOV [Internal Governmental Affairs], PHUM [Human Rights] 
+SUBJECT: MEDIA REFORM LAW DECLARED UNCONSTITUTIONAL 
+ 
+REF: A. 05 SEOUL 20 
+ 
+     B. 04 SEOUL 05258 
+ 
+SUMMARY 
+-------- 
+ 
+1 (SBU) On June 30, the Constitutional Court declared the 
+government's controversial 2005 media reform package, which 
+employed antitrust principles to regulate the newspaper 
+market, mostly unconstitutional.  The ruling was a victory 
+for the conservative media, who argued that the law was a 
+politically-motivated attempt to stifle the administration's 
+critics.  END SUMMARY. 
+ 
+ 
+THE MEDIA REFORM LAW 
+-------------------- 
+ 
+¶2.  (U) On January 1, 2005, the National Assembly passed a 
+bitterly-contested media reform package ostensibly designed 
+to increase diversity in the media market (Refs A, B).  The 
+law, which has been in effect since July 2005, provided the 
+Fair Trade Commission authority to impose restrictions on 
+publishers if any one newspaper has more than 30 percent of 
+the market or if three major newspapers have a combined 
+market share of 60 percent or more.  The law also required 
+press owners to report their circulation and advertising 
+revenue to a Press Development Committee.  The law did not 
+apply to broadcast or internet media. 
+ 
+¶3. (SBU)  The government argued that the restrictions were 
+necessary to open the media market to a variety of opinions. 
+Justice Minister Chun Jung-bae, who in 2004 was a Member of 
+the National Assembly, explained to us previously that the 
+law would help ensure media competition and its intent was 
+not to stifle the press. 
+ 
+¶4.  (SBU) The conservative media, however, cried foul from 
+the start.  The JoongAng Ilbo wrote in an October 15, 2004, 
+editorial that the proposal "destroyed our hopes for the true 
+advancement of journalism and democratic society."  Other 
+editorials were equally alarmist.  Indeed, there has long 
+been animosity between the Roh Administration and the 
+conservative press -- in particular, the Chosun Ilbo, the 
+JoongAng Ilbo, and the Dong-A Ilbo.  Together, the three 
+newspapers control about 75 percent of the press market and 
+have been, at times, harshly critical of the government. 
+Many observers thought it was suspiciously convenient that 
+the media reforms would most affect these three newspapers, 
+while not touching the historically pro-administration 
+broadcast and internet media.  However, some progressive 
+media companies, such as Hankyoreh newspaper, welcomed the 
+law as a necessary measure to break open the print media 
+market. 
+ 
+¶5.  (U) In February 2005, local newspapers, including the 
+Chosun Ilbo and Dong-A Ilbo, and former Grand National Party 
+lawmaker Chung In-bong filed a petition objecting to the law 
+in the Constitutional Court.  In essence, the plaintiffs 
+argued that the law was an unjust use of government power and 
+infringement on freedom of the press as guaranteed by the ROK 
+Constitution. 
+ 
+UNCONSTITUTIONAL RESTRICTION ON PRESS FREEDOM 
+--------------------------------------------- 
+ 
+¶6.  (U) The Constitutional Court on June 29 ruled that the 
+media reform law was, in large part, unconstitutional and in 
+violation of the ROK's Constitutional freedom of the press. 
+The Court noted that ordinary businesses were considered to 
+be monopolistic when they commanded more than 75 percent of 
+the market.  The media law's differing treatment for 
+newspapers constituted unfair discrimination.  The court said 
+that popular newspapers should not be punished for attracting 
+more readers.  The court also ruled that provisions of the 
+law that compelled newspapers to publish corrections without 
+a court order and prohibited an individual who owned more 
+than half of one daily from owning more than half of another 
+were also unconstitutional.  The court, however, ruled that 
+the provision of the law that required newspapers to 
+publicize information on their circulation, advertising 
+revenue and other financial information was constitutional. 
+ 
+¶7.  (SBU) Attorney for the newspapers and Professor of Media 
+Law at Hong-ik University Bang Suk-ho told poloff on June 29 
+that the ruling was significant to preserve freedom of the 
+press in the ROK.  He said that the case was unique in that 
+it forced progressive media and other groups to argue in 
+favor of a restriction of civil rights, that is, the rights 
+of the conservative media to a free press. 
+ 
+¶8.  (SBU) Bang was not disturbed by the provision of the law 
+that the court allowed to stand.  Because newspapers now had 
+to release their circulation information, advertisers were 
+able to discern how few people subscribe to Hankyoreh and 
+some of the other liberal press.  As a result, the law 
+appeared to have caused a shift in advertising revenue from 
+the progressive media to the wider-reaching conservative 
+press, he said. 
+ 
+COMMENT 
+------- 
+ 
+¶9.  (SBU) As reflected in our 2004 and 2005 Human Rights 
+Reports, we have long had misgivings about the media reform 
+law.  The notion of increasing diversity in the media market 
+is a good one; however, there should be ways for the 
+government to achieve this without muzzling the voices of its 
+critics. 
+VERSHBOW
+</file>

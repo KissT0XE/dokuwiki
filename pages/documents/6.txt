@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 분류 ^ 상태 ^
+| 501 | [[https://www.wikileaks.org/plusd/cables/07SEOUL587_a.html| 07SEOUL587 ]]| [[/07SEOUL587]] | 7차 연례 인신매매(이하 TIP) 보고서 | 2007-02-28 | 미분류 | |
+| 502 | [[https://www.wikileaks.org/plusd/cables/07SEOUL592_a.html| 07SEOUL592 ]]| [[/07SEOUL592]] | 대선 후보 정동영, 정치와 6자 회담, FTA 논의 | 2007-03-02 | 기밀 | 완료 |
+| 503 | [[https://www.wikileaks.org/plusd/cables/07SEOUL604_a.html| 07SEOUL604 ]]| [[/07SEOUL604]] | 사용자 제작 동영상(이하 UCC)—차세대 정치 매체? | 2007-03-02 | 미분류 | |
+| 504 | [[https://www.wikileaks.org/plusd/cables/07SEOUL615_a.html| 07SEOUL615 ]]| [[/07SEOUL615]] | 낙천적인 킹메이커 천정배의 대통합—백일몽인가, 정치적 선견지명인가? | 2007-03-05 | 기밀 | 완료 |
+| 505 | [[https://www.wikileaks.org/plusd/cables/07SEOUL617_a.html| 07SEOUL617 ]]| [[/07SEOUL617]] | FBI 주최 글로벌 이니셔티브 회의 정보를 한국 정부에 전달 | 2007-03-05 | 대외비 | |
+| 506 | [[https://www.wikileaks.org/plusd/cables/07SEOUL634_a.html| 07SEOUL634 ]]| [[/07SEOUL634]] | 남북 장관급회담에서 인도적 지원과 2·13 합의에 연계 | 2007-03-06 | 기밀 | 완료 |
+| 507 | [[https://www.wikileaks.org/plusd/cables/07SEOUL656_a.html| 07SEOUL656 ]]| [[/07SEOUL656]] | 신뢰할 만한 대체 핵탄두(이하 RRW): 한국의 최초 대응 | 2007-03-06 | 미분류 | |
+| 508 | [[https://www.wikileaks.org/plusd/cables/07SEOUL657_a.html| 07SEOUL657 ]]| [[/07SEOUL657]] | 한국은 무인항공기/순항미사일에 관한 미국의 미사일기술통제체제 수정 제안을 지지 | 2007-03-06 | 기밀 | 완료 |
+| 509 | [[https://www.wikileaks.org/plusd/cables/07SEOUL659_a.html| 07SEOUL659 ]]| [[/07SEOUL659]] | SPI 11: 한미 안보정책구상 회의 | 2007-03-06 | 기밀 | 완료 |
+| 510 | [[https://www.wikileaks.org/plusd/cables/07SEOUL662_a.html| 07SEOUL662 ]]| [[/07SEOUL662]] | 북한 의료 지원: 비정부 기구 유진벨의 관점 | 2007-03-07 | 기밀 | |
+| 511 | [[https://www.wikileaks.org/plusd/cables/07SEOUL673_a.html| 07SEOUL673 ]]| [[/07SEOUL673]] | 한국 정부, 유엔 인권위원회(HRC) 회의에서의 미국의 목표에 대해 논평 | 2007-03-07 | 기밀 | |
+| 512 | [[https://www.wikileaks.org/plusd/cables/07SEOUL695_a.html| 07SEOUL695 ]]| [[/07SEOUL695]] | 정세균 열린우리당 의장, 일본, 러시아, 중국 대사와 6자 회담 논의 | 2007-03-08 | 기밀 | 완료 |
+| 513 | [[https://www.wikileaks.org/plusd/cables/07SEOUL705_a.html| 07SEOUL705 ]]| [[/07SEOUL705]] | 한덕수 신임 총리 지명 | 2007-03-09 | 기밀 | 완료 |
+| 514 | [[https://www.wikileaks.org/plusd/cables/07SEOUL734_a.html| 07SEOUL734 ]]| [[/07SEOUL734]] | 한국의 대통령 후보자들: 누가 수확체감의 법칙을 쳐다보기나 할까? | 2007-03-12 | 기밀 | 완료 |
+| 515 | [[https://www.wikileaks.org/plusd/cables/07SEOUL746_a.html| 07SEOUL746 ]]| [[/07SEOUL746]] | 유엔 개혁에 대한 외교문서 전달: 국제사법부 | 2007-03-14 | 대외비 | |
+| 516 | [[https://www.wikileaks.org/plusd/cables/07SEOUL763_a.html| 07SEOUL763 ]]| [[/07SEOUL763]] | 로버트 랩슨 동아시아태평양 언론담당실장, 동남아시아 문제 조언 | 2007-03-15 | 기밀 | |
+| 517 | [[https://www.wikileaks.org/plusd/cables/07SEOUL770_a.html| 07SEOUL770 ]]| [[/07SEOUL770]] | 이해찬 전 총리 방북: 북은 관계 개선할 준비가 되어 있음 | 2007-03-15 | 기밀 | 완료 |
+| 518 | [[https://www.wikileaks.org/plusd/cables/07SEOUL793_a.html| 07SEOUL793 ]]| [[/07SEOUL793]] | 한국, 아프가니스탄에서의 PRT 지원에 대해 문의 | 2007-03-19 | 기밀 | |
+| 519 | [[https://www.wikileaks.org/plusd/cables/07SEOUL794_a.html| 07SEOUL794 ]]| [[/07SEOUL794]] | 김근태, 선거에 대해서는 침묵, FTA와 중국에 대해서는 목소리 높여 | 2007-03-19 | 기밀 | 완료 |
+| 520 | [[https://www.wikileaks.org/plusd/cables/07SEOUL795_a.html| 07SEOUL795 ]]| [[/07SEOUL795]] | 납북 협력 방안을 제시 | 2007-03-19 | 기밀 | 완료 |
+| 521 | [[https://www.wikileaks.org/plusd/cables/07SEOUL799_a.html| 07SEOUL799 ]]| [[/07SEOUL799]] | 통일에 대한 한국의 태도: 장기적 계획 대 우발적 사건 | 2007-03-20 | 기밀 | 할당 |
+| 522 | [[https://www.wikileaks.org/plusd/cables/07SEOUL807_a.html| 07SEOUL807 ]]| [[/07SEOUL807]] | 한국 기업, 휴대폰 교란 장치를 이란에 팔지 않기로 | 2007-03-20 | 비밀 | 완료 |
+| 523 | [[https://www.wikileaks.org/plusd/cables/07SEOUL808_a.html| 07SEOUL808 ]]| [[/07SEOUL808]] | 한국 정부, 짐바브웨 사태 숙고 | 2007-03-20 | 기밀 | |
+| 524 | [[https://www.wikileaks.org/plusd/cables/07SEOUL809_a.html| 07SEOUL809 ]]| [[/07SEOUL809]] | 한국 정부, 세계부패방지포럼 지지 | 2007-03-20 | 기밀 | |
+| 525 | [[https://www.wikileaks.org/plusd/cables/07SEOUL810_a.html| 07SEOUL810 ]]| [[/07SEOUL810]] | 외국인 신부, 한국에 몰려들어 | 2007-03-20 | 미분류 | 완료 |
+| 526 | [[https://www.wikileaks.org/plusd/cables/07SEOUL811_a.html| 07SEOUL811 ]]| [[/07SEOUL811]] | 손학규, 한나라당 탈당: 정치적 미래가 끝났나? | 2007-03-20 | 기밀 | 완료 |
+| 527 | [[https://www.wikileaks.org/plusd/cables/07SEOUL849_a.html| 07SEOUL849 ]]| [[/07SEOUL849]] | 한국정부 중단되었던 수해지원 재개 | 2007-03-22 | 기밀 | 완료 |
+| 528 | [[https://www.wikileaks.org/plusd/cables/07SEOUL851_a.html| 07SEOUL851 ]]| [[/07SEOUL851]] | 김영삼 전 대통령, 북한과 국내 정치 언급 | 2007-03-23 | 기밀 | 완료 |
+| 529 | [[https://www.wikileaks.org/plusd/cables/07SEOUL860_a.html| 07SEOUL860 ]]| [[/07SEOUL860]] | 한국, 유엔 인권위원회에서 이슬람회의기구(이하 OIC) 결의안에 반대할 듯 | 2007-03-23 | 대외비 | |
+| 530 | [[https://www.wikileaks.org/plusd/cables/07SEOUL870_a.html| 07SEOUL870 ]]| [[/07SEOUL870]] | ARF에서 내놓을 미국의 발의에 대한 외교문서 전달 | 2007-03-23 | 대외비 | |
+| 531 | [[https://www.wikileaks.org/plusd/cables/07SEOUL897_a.html| 07SEOUL897 ]]| [[/07SEOUL897]] | 한나라당 대북정책에서 궁지로 몰려 | 2007-03-27 | 기밀 | 완료 |
+| 532 | [[https://www.wikileaks.org/plusd/cables/07SEOUL912_a.html| 07SEOUL912 ]]| [[/07SEOUL912]] | 노근리 희생자 단체, 유해 발굴에 미국이 참여할 것을 요청 | 2007-03-29 | 기밀 | 완료 |
+| 533 | [[https://www.wikileaks.org/plusd/cables/07SEOUL914_a.html| 07SEOUL914 ]]| [[/07SEOUL914]] | 정치인들, FTA 반대 단식 투쟁 | 2007-03-29 | 기밀 | 완료 |
+| 534 | [[https://www.wikileaks.org/plusd/cables/07SEOUL931_a.html| 07SEOUL931 ]]| [[/07SEOUL931]] | 손학규, 자신의 원칙에 충실 | 2007-03-30 | 기밀 | 완료 |
+| 535 | [[https://www.wikileaks.org/plusd/cables/07SEOUL934_a.html| 07SEOUL934 ]]| [[/07SEOUL934]] | 북한 주재 영국 대사관 전망: 우연한 만남이 가장 효과적 | 2007-03-30 | 기밀 | |
+| 536 | [[https://www.wikileaks.org/plusd/cables/07SEOUL935_a.html| 07SEOUL935 ]]| [[/07SEOUL935]] | 박근혜 한나라당 후보 참모진, 한미 동맹 강조 | 2007-03-30 | 기밀 | 완료 |
+| 537 | [[https://www.wikileaks.org/plusd/cables/07SEOUL955_a.html| 07SEOUL955 ]]| [[/07SEOUL955]] | 한국, 주한미군 이전 비용 절반 이상 지원 | 2007-04-02 | 기밀 | 완료 |
+| 538 | [[https://www.wikileaks.org/plusd/cables/07SEOUL958_a.html| 07SEOUL958 ]]| [[/07SEOUL958]] | 핵공급그룹(이하 NSG) 국가들이 IAEA 및 회원국과 수출 거부 정보를 공유하도록 허용하라는 요청에 대한 한국의 첫 반응 | 2007-04-02 | 미분류 | |
+| 539 | [[https://www.wikileaks.org/plusd/cables/07SEOUL959_a.html| 07SEOUL959 ]]| [[/07SEOUL959]] | 미국 행정명령 13382호에 따른 이란 방위산업기구 지정에 대한 한국의 반응 | 2007-04-02 | 미분류 | |
+| 540 | [[https://www.wikileaks.org/plusd/cables/07SEOUL971_a.html| 07SEOUL971 ]]| [[/07SEOUL971]] | 한일 외무장관 회담, 역사 문제에 발목 잡혀 | 2007-04-03 | 기밀 | 완료 |
+| 541 | [[https://www.wikileaks.org/plusd/cables/07SEOUL972_a.html| 07SEOUL972 ]]| [[/07SEOUL972]] | 방위비분담특별협정(SMA)이 비준되었으나 새로운 SMA 추진 계획은 미정 | 2007-04-03 | 기밀 | |
+| 542 | [[https://www.wikileaks.org/plusd/cables/07SEOUL973_a.html| 07SEOUL973 ]]| [[/07SEOUL973]] | 한국 정부, 북대서양조약기구(이하 NATO) 소속으로 아프가니스탄에 파병된 한국군의 이전과 관련하여 지원 요청 | 2007-04-03 | 기밀 | |
+| 543 | [[https://www.wikileaks.org/plusd/cables/07SEOUL974_a.html| 07SEOUL974 ]]| [[/07SEOUL974]] | 한덕수 총리 취임 | 2007-04-03 | 기밀 | 완료 |
+| 544 | [[https://www.wikileaks.org/plusd/cables/07SEOUL975_a.html| 07SEOUL975 ]]| [[/07SEOUL975]] | 한나라당 경선 일정—세부 일정 조율 | 2007-04-03 | 기밀 | 완료 |
+| 545 | [[https://www.wikileaks.org/plusd/cables/07SEOUL983_a.html| 07SEOUL983 ]]| [[/07SEOUL983]] | 한국, 지하 성매매의 심각성 깨닫기 시작 | 2007-04-04 | 미분류 | 할당 |
+| 546 | [[https://www.wikileaks.org/plusd/cables/07SEOUL987_a.html| 07SEOUL987 ]]| [[/07SEOUL987]] | 노무현 대통령: 한미 FTA 타결에 힘입어 지지율 상승 | 2007-04-04 | 기밀 | 완료 |
+| 547 | [[https://www.wikileaks.org/plusd/cables/07SEOUL988_a.html| 07SEOUL988 ]]| [[/07SEOUL988]] | 6·25 전쟁 납북인사가족협의회, 납북자 문제 인정할 것을 촉구 | 2007-04-04 | 기밀 | |
+| 548 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1011_a.html| 07SEOUL1011 ]]| [[/07SEOUL1011]] | 국회로 넘어간 한미 FTA—비준은 되겠지만 과연 언제? | 2007-04-06 | 기밀 | 완료 |
+| 549 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1012_a.html| 07SEOUL1012 ]]| [[/07SEOUL1012]] | 선거 전문가들, FTA와 선거에 대해 의견 공유 | 2007-04-06 | 기밀 | 완료 |
+| 550 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1047_a.html| 07SEOUL1047 ]]| [[/07SEOUL1047]] | 정동영 참모들, 외교 정책 방향 설정 | 2007-04-10 | 미분류 | 완료 |
+| 551 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1051_a.html| 07SEOUL1051 ]]| [[/07SEOUL1051]] | SHIELD S08D-05: 한국 기업 바이오트론, 이란 기업 사마마이크로와의 업무 협력 종료 | 2007-04-10 | 비밀 | 할당 |
+| 552 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1052_a.html| 07SEOUL1052 ]]| [[/07SEOUL1052]] | 송민순 외무장관, FTA와 6자 회담, 한미 동맹, 이라크 문제 언급 | 2007-04-10 | 기밀 | 완료 |
+| 553 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1078_a.html| 07SEOUL1078 ]]| [[/07SEOUL1078]] | 노무현 대통령, 리처드슨–프린시피 대표단과 면담 | 2007-04-13 | 기밀 | |
+| 554 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1088_a.html| 07SEOUL1088 ]]| [[/07SEOUL1088]] | 광주, 한국 민주주의의 발상지, 2007년 대선 채비에 나서다 | 2007-04-16 | 미분류 | 완료 |
+| 555 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1091_a.html| 07SEOUL1091 ]]| [[/07SEOUL1091]] | 한국, 연금 개혁 앞둬 | 2007-04-16 | 기밀 | 완료 |
+| 556 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1108_a.html| 07SEOUL1108 ]]| [[/07SEOUL1108]] | 탈북자 림일, 경제적 동기에서 탈북했다고 밝혀 | 2007-04-17 | 미분류 | |
+| 557 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1112_a.html| 07SEOUL1112 ]]| [[/07SEOUL1112]] | 리처드슨 주지사와 프린시피 재향군인부 장관 방한 | 2007-04-17 | 대외비 | 완료 |
+| 558 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1119_a.html| 07SEOUL1119 ]]| [[/07SEOUL1119]] | 외교통상부, 독도 문제 난항 예상 | 2007-04-17 | 기밀 | 완료 |
+| 559 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1120_a.html| 07SEOUL1120 ]]| [[/07SEOUL1120]] | 외교통상부, 말리키 이라크 총리 방한 및 대이라크국제협약(ICI) 논의 | 2007-04-17 | 기밀 | |
+| 560 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1126_a.html| 07SEOUL1126 ]]| [[/07SEOUL1126]] | 4월 12일 빅터 차 미국 국가안전보장회의 국장과 박선원 안보전략비서관 회동 | 2007-04-18 | 기밀 | 완료 |
+| 561 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1141_a.html| 07SEOUL1141 ]]| [[/07SEOUL1141]] | 대북 민간 방송 | 2007-04-19 | 미분류 | |
+| 562 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1151_a.html| 07SEOUL1151 ]]| [[/07SEOUL1151]] | 노무현 대통령의 최측근 안희정, 대북 접촉 | 2007-04-20 | 기밀 | 완료 |
+| 563 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1158_a.html| 07SEOUL1158 ]]| [[/07SEOUL1158]] | 한국인들, 버지니아 공대 총기 난사 사건에 대해 충격과 슬픔 느껴 | 2007-04-20 | 대외비 | |
+| 564 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1175_a.html| 07SEOUL1175 ]]| [[/07SEOUL1175]] | 남북, 쌀 지원 및 열차 시험 운행에 합의 | 2007-04-23 | 기밀 | 완료 |
+| 565 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1189_a.html| 07SEOUL1189 ]]| [[/07SEOUL1189]] | 외교통상부, 개성 공단 확장 관련 비공식 문서 전달 | 2007-04-24 | 기밀 | |
+| 566 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1203_a.html| 07SEOUL1203 ]]| [[/07SEOUL1203]] | 대선 캠프들, 한국 젊은층에 어떻게 다가가는가 | 2007-04-25 | 기밀 | 완료 |
+| 567 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1211_a.html| 07SEOUL1211 ]]| [[/07SEOUL1211]] | 한미 동맹의 정치학(1/3부) | 2007-04-26 | 기밀 | 완료 |
+| 568 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1213_a.html| 07SEOUL1213 ]]| [[/07SEOUL1213]] | 재보선: 별것 같고 야단법석? | 2007-04-26 | 기밀 | 완료 |
+| 569 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1215_a.html| 07SEOUL1215 ]]| [[/07SEOUL1215]] | 한미 동맹의 정치학(2/3부) | 2007-04-26 | 기밀 | 완료 |
+| 570 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1216_a.html| 07SEOUL1216 ]]| [[/07SEOUL1216]] | 한미 동맹의 정치학(3/3부) | 2007-04-26 | 기밀 | 완료 |
+| 571 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1230_a.html| 07SEOUL1230 ]]| [[/07SEOUL1230]] | 아직도 남아 있는 이순신의 유산 | 2007-04-27 | 미분류 | |
+| 572 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1261_a.html| 07SEOUL1261 ]]| [[/07SEOUL1261]] | 한미 FTA 무역촉진권한(이하 TPA) 의무 보고 요건에 대한 노동 분야 추가 정보 | 2007-05-01 | 미분류 | |
+| 573 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1263_a.html| 07SEOUL1263 ]]| [[/07SEOUL1263]] | 한국, 아시아 민주주의 협력 지지 | 2007-05-01 | 대외비 | |
+| 574 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1268_a.html| 07SEOUL1286 ]]| [[/07SEOUL1286]] | 한국, 유엔 인권위원회 가입 관련하여 벨라루스에 반대하고 슬로베니아 지지 | 2007-05-02 | 기밀 | |
+| 575 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1313_a.html| 07SEOUL1313 ]]| [[/07SEOUL1313]] | 한국, 민주주의공동체(이하 CD) 장관 회의에 이라크의 참여 지지 | 2007-05-04 | 대외비 | |
+| 576 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1327_a.html| 07SEOUL1327 ]]| [[/07SEOUL1327]] | 폴슨 재무장관, 3월에 방한 | 2007-05-07 | 기밀 | 완료 |
+| 577 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1329_a.html| 07SEOUL1329 ]]| [[/07SEOUL1329]] | 한국 정부, 미국 정부의 집속탄 정책 지지 | 2007-05-07 | 기밀 | |
+| 578 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1352_a.html| 07SEOUL1352 ]]| [[/07SEOUL1352]] | 한국, 리비아 핵발전 사업 참여를 고려하지 않아 | 2007-05-08 | 대외비 | |
+| 579 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1361_a.html| 07SEOUL1361 ]]| [[/07SEOUL1361]] | 손학규, 지지율을 끌어올리려고 방북 계획 | 2007-05-08 | 기밀 | 완료 |
+| 580 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1362_a.html| 07SEOUL1362 ]]| [[/07SEOUL1362]] | 한국, 유엔 안전보장이사회에서 지정한 이란인에 대한 우려 공유 | 2007-05-08 | 비밀 | |
+| 581 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1364_a.html| 07SEOUL1364 ]]| [[/07SEOUL1364]] | 이란의 원자로 입찰 참여 제안에 대한 한국 정부의 입장 | 2007-05-08 | 기밀 | |
+| 582 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1365_a.html| 07SEOUL1365 ]]| [[/07SEOUL1365]] | 저명 탈북자들, 급진적 단체 북한민주화위원회 결성 | 2007-05-08 | 기밀 | 완료 |
+| 583 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1384_a.html| 07SEOUL1384 ]]| [[/07SEOUL1384]] | 이명박 박근혜 최후의 결전, 경선 열기 후끈 | 2007-05-09 | 기밀 | 완료 |
+| 584 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1385_a.html| 07SEOUL1385 ]]| [[/07SEOUL1385]] | 한국 정부, 대이라크국제협약(ICI) 결과에 “매우 만족” | 2007-05-09 | 기밀 | |
+| 585 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1386_a.html| 07SEOUL1386 ]]| [[/07SEOUL1386]] | 한국 정부, 유엔 국가별 특별 보고관 문제 에 대해 강경 입장 | 2007-05-09 | 대외비 | |
+| 586 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1387_a.html| 07SEOUL1387 ]]| [[/07SEOUL1387]] | 언론, 북한이 핵실험 이전에 남북 대화를 시도했다고 보도(비공식 연락선) | 2007-05-09 | 기밀 | |
+| 587 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1398_a.html| 07SEOUL1398 ]]| [[/07SEOUL1398]] | 국제 결혼 중개에 관한 입법 계획 | 2007-05-10 | 미분류 | |
+| 588 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1403_a.html| 07SEOUL1403 ]]| [[/07SEOUL1403]] | 세파 은행(이란 국영 은행) 및 세파 인터내셔널의 자산 동결 집행에 대한 한국 반응 | 2007-05-10 | 비밀/외국전파금지 | |
+| 589 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1404_a.html| 07SEOUL1404 ]]| [[/07SEOUL1404]] | 유엔 인권위원회 선거에 대한 한국의 견해—벨라루스에 반대하고 슬로베니아 지지 | 2007-05-10 | 기밀 | |
+| 590 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1405_a.html| 07SEOUL1405 ]]| [[/07SEOUL1405]] | 백종천 통일외교안보정책실장, FTA와 한미 동맹, 6자 회담, 남북 대화 언급 | 2007-05-10 | 기밀 | 완료 |
+| 591 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1412_a.html| 07SEOUL1412 ]]| [[/07SEOUL1412]] | 박선원 안보전략비서관, 주한미군 기지 반환 및 SMA 문제 낙관 | 2007-05-11 | 기밀 | |
+| 592 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1413_a.html| 07SEOUL1413 ]]| [[/07SEOUL1413]] | 한국 정부, 미국의 ARF 수정 제안에 대해 논평 | 2007-05-11 | 기밀/외국전파금지 | |
+| 593 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1418_a.html| 07SEOUL1418 ]]| [[/07SEOUL1418]] | 이명박 참모 남성욱, 경제 문제와 북한 언급 | 2007-05-11 | 기밀 | 완료 |
+| 594 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1439_a.html| 07SEOUL1439 ]]| [[/07SEOUL1439]] | 열린우리당 방북 결과: 북한은 자국이 초기조치 합의를 이행한다고 다짐 | 2007-05-14 | 기밀 | 완료 |
+| 595 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1444_a.html| 07SEOUL1444 ]]| [[/07SEOUL1444]] | 한명숙 전 총리, 미국의 입장을 이해하려 노력 | 2007-05-14 | 기밀 | 완료 |
+| 596 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1448_a.html| 07SEOUL1448 ]]| [[/07SEOUL1448]] | 허브스트 재건안정조정(이하 S/CRS) 대사, 한국에서 조언 | 2007-05-15 | 기밀 | |
+| 597 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1468_a.html| 07SEOUL1463 ]]| [[/07SEOUL1463]] | 한중일, 5월 19일에 외무차관 3자 회담 개최 | 2007-05-15 | 기밀 | |
+| 598 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1479_a.html| 07SEOUL1479 ]]| [[/07SEOUL1479]] | 진보 세력의 통합은 아직 요원 | 2007-05-16 | 기밀 | 완료 |
+| 599 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1480_a.html| 07SEOUL1480 ]]| [[/07SEOUL1480]] | 통일부 장관, 대북 쌀 지원 속도 조절이 가능하다고 주장 | 2007-05-16 | 기밀 | 완료 |
+| 600 | [[https://www.wikileaks.org/plusd/cables/07SEOUL1491_a.html| 07SEOUL1491 ]]| [[/07SEOUL1491]] | 한국 정부: SMA 기금과 주한미군 이전은 무관 | 2007-05-17 | 기밀 | 완료 |
+</sortable>

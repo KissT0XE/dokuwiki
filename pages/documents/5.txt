@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 분류 ^ 상태 ^
+| 401 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4075_a.html| 06SEOUL4075 ]]| [[/06SEOUL4075]] | 비정부 기구 결핵 사업, 북한 참여 이끌어내 | 2006-11-28 | 기밀 | |07SEOUL220
+| 402 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4094_a.html| 06SEOUL4094 ]]| [[/06SEOUL4094]] | 권력 누수의 또 다른 징후: 노무현 대통령, 전효숙 헌법재판소장 임명 동의안 철회 | 2006-11-28 | 기밀 | 완료 |07seoul382
+| 403 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4116_a.html| 06SEOUL4116 ]]| [[/06SEOUL4116]] | 6차 방위비분담특별협정(SMA) 협상: 마지막 압박 | 2006-12-01 | 기밀 | |
+| 404 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4123_a.html| 06SEOUL4123 ]]| [[/06SEOUL4123]] | 한국 정부와 주한미국상공회의소(AMCHAM), 규제 개혁 논의 | 2006-12-01 | 대외비 | 완료 |
+| 405 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4130_a.html| 06SEOUL4130 ]]| [[/06SEOUL4130]] | 파이겐바움 실장 체류 허가 | 2006-12-01 | 대외비 | |
+| 406 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4138_a.html| 06SEOUL4138 ]]| [[/06SEOUL4138]] | 한국, 부동산 투기 극성 | 2006-12-02 | 기밀/외국전파금지 | 완료 |
+| 407 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4156_a.html| 06SEOUL4156 ]]| [[/06SEOUL4156]] | 한국의 이라크 자이툰 부대 파병: 2007년 연장 가시화 | 2006-12-05 | 기밀 | |
+| 408 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4165_a.html| 06SEOUL4165 ]]| [[/06SEOUL4165]] | 남북 화물 검색 강화 | 2006-12-05 | 기밀 | 완료 |
+| 409 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4166_a.html| 06SEOUL4166 ]]| [[/06SEOUL4166]] | 응답 수신: 이란, 요린테크에서 중불화칼륨 입수 건 | 2006-12-05 | 비밀 | 완료 |
+| 410 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4193_a.html| 06SEOUL4193 ]]| [[/06SEOUL4193]] | 한국 정부, 수단에 대한 인권위원회 결의안 지지키로 | 2006-12-07 | 대외비 | |
+| 411 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4194_a.html| 06SEOUL4194 ]]| [[/06SEOUL4194]] | 한국, 비정규직법안 통과 | 2006-12-07 | 대외비 | 완료 |
+| 412 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4210_a.html| 06SEOUL4210 ]]| [[/06SEOUL4210]] | 한국의 이라크 자이툰 부대 파병 연장: 추가 정보 | 2006-12-08 | 기밀 | |
+| 413 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4211_a.html| 06SEOUL4211 ]]| [[/06SEOUL4211]] | 방위비분담특별협정(SMA) 2007~2008 협정 착수 | 2006-12-08 | 미분류 | |
+| 414 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4233_a.html| 06SEOUL4233 ]]| [[/06SEOUL4233]] | 미 대사, 김장수 국방장관 첫 예방 | 2006-12-12 | 기밀 | 완료 |
+| 415 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4247_a.html| 06SEOUL4247 ]]| [[/06SEOUL4247]] | 미트 롬니 매사추세츠 주지사 방한 | 2006-12-14 | 미분류 | |
+| 416 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4260_a.html| 06SEOUL4260 ]]| [[/06SEOUL4260]] | 한미 동맹 관리—2007년 전망 | 2006-12-14 | 기밀 | 완료 |
+| 417 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4261_a.html| 06SEOUL4261 ]]| [[/06SEOUL4261]] | 한국 학자들, 북한 인권 문제에 다면적 접근 제안 | 2006-12-14 | 대외비 |할당|
+| 418 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4281_a.html| 06SEOUL4281 ]]| [[/06SEOUL4281]] | 한국 탈북자 문제: 개관 | 2006-12-15 | 대외비 | 완료 |
+| 419 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4282_a.html| 06SEOUL4282 ]]| [[/06SEOUL4282]] | 탈북자: 한국 사회에 편입하는 첫 단계 | 2006-12-15 | 대외비 | 완료 |
+| 420 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4283_a.html| 06SEOUL4283 ]]| [[/06SEOUL4283]] | 탈북자: 남한 정착의 걸림돌 | 2006-12-15 | 대외비 | 완료 |
+| 421 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4284_a.html| 06SEOUL4284 ]]| [[/06SEOUL4284]] | 탈북자: 안정된 직장 구하기 | 2006-12-15 | 대외비 | 완료 |
+| 422 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4285_a.html| 06SEOUL4285 ]]| [[/06SEOUL4285]] | 파이겐바움 국무부 중앙아시아 실장, 중앙아시아 문제 협의 | 2006-12-15 | 기밀 | |
+| 423 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4294_a.html| 06SEOUL4294 ]]| [[/06SEOUL4294]] | 통일부 정책홍보본부장 대북 원조 중단 강조 | 2006-12-18 | 기밀 | 완료 |
+| 424 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4297_a.html| 06SEOUL4297 ]]| [[/06SEOUL4297]] | 테러리스트 정보 교환 추진: 한국 | 2006-12-18 | 기밀 | 완료 |
+| 425 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4309_a.html| 06SEOUL4309 ]]| [[/06SEOUL4309]] | 이재정 신임 통일부 장관, 북한에 대해 유연한 태도 촉구 | 2006-12-19 | 기밀 | 완료 |
+| 426 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4319_a.html| 06SEOUL4319 ]]| [[/06SEOUL4319]] | 외교문서 전달: 노근리 장학 기금 만료 | 2006-12-19 | 기밀 | |
+| 427 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4326_a.html| 06SEOUL4326 ]]| [[/06SEOUL4326]] | 한국, 러시아 플루토늄 원자로 폐쇄 기부 검토 | 2006-12-20 | 미분류 | 완료 |
+| 428 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4328_a.html| 06SEOUL4328 ]]| [[/06SEOUL4328]] | 용산 기지 이전: 국내 정치와 한미 동맹 변화의 비용 | 2006-12-20 | 기밀 | 완료 |
+| 429 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4331_a.html| 06SEOUL4331 ]]| [[/06SEOUL4331]] | 백종천 신임 통일외교안보정책실장, 한미 동맹 문제에 대해 긴밀한 협력 모색 | 2006-12-20 | 기밀 | 완료 |
+| 430 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4334_a.html| 06SEOUL4334 ]]| [[/06SEOUL4334]] | 새뮤얼 보드먼 에너지부 장관, 12월 12~13일 방한 중에 한국과의 에너지 협력 검토 | 2006-12-20 | 미분류 | |
+| 431 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4336_a.html| 06SEOUL4336 ]]| [[/06SEOUL4336]] | 조용휴 청와대 여론조사비서관 | 2006-12-20 | 기밀 | 완료 |
+| 432 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4339_a.html| 06SEOUL4339 ]]| [[/06SEOUL4339]] | 한국 반응: 국제보건기구(WHO)의 마약성 의약품 드로나비놀 관련 유엔 위원회 권고에 대한 외교문서 | 2006-12-20 | 기밀 | |
+| 433 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4341_a.html| 06SEOUL4341 ]]| [[/06SEOUL4341]] | 비무장지대 넘어간 북한 금괴 | 2006-12-20 | 기밀 | 완료 |
+| 434 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4365_a.html| 06SEOUL4365 ]]| [[/06SEOUL4365]] | 원주 지진관측소 이전 협정 체결 | 2006-12-22 | 미분류 | |
+| 435 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4366_a.html| 06SEOUL4366 ]]| [[/06SEOUL4366]] | 한미 2007~2008 방위비분담특별협정(SMA) 체결 | 2006-12-22 | 미분류 | |
+| 436 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4367_a.html| 06SEOUL4367 ]]| [[/06SEOUL4367]] | 노무현 대통령, 다시 한번 매우 솔직한 연설 | 2006-12-22 | 기밀 | 완료 |
+| 437 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4375_a.html| 06SEOUL4375 ]]| [[/06SEOUL4375]] | 비정부 기구 위해 남북 항로 재개방 | 2006-12-26 | 미분류 | |
+| 438 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4376_a.html| 06SEOUL4376 ]]| [[/06SEOUL4376]] | 한국 국회 이라크 파병 연장안 가결 | 2006-12-26 | 대외비 | 완료 |
+| 439 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4382_a.html| 06SEOUL4382 ]]| [[/06SEOUL4382]] | 한국 정부, 라틴아메리카·카리브해경제위원회(ECLAC) 가입에 대한 미국 정부의 지지 환영 | 2006-12-27 | 기밀 | |
+| 440 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4404_a.html| 06SEOUL4404 ]]| [[/06SEOUL4404]] | 한국 정부, 파키스탄 공작기계 수출 빌표하기로 결정 | 2006-12-28 | 비밀 | |
+| 441 | [[https://www.wikileaks.org/plusd/cables/06SEOUL4412_a.html| 06SEOUL4412 ]]| [[/06SEOUL4412]] | 한국 정부, 아세안지역포럼(ARF) 워크숍 대표 결정 못해 | 2006-12-29 | 대외비 | |
+| 442 | [[https://www.wikileaks.org/plusd/cables/07SEOUL22_a.html| 07SEOUL22 ]]| [[/07SEOUL22]] | 국방백서, 북한을 ‘심각한 위협’으로 규정 | 2007-01-04 | 기밀 | 완료 |
+| 443 | [[https://www.wikileaks.org/plusd/cables/07SEOUL23_a.html| 07SEOUL23 ]]| [[/07SEOUL23]] | 국방 개혁과 2007 국방 예산 | 2007-01-04 | 기밀 | 완료 |
+| 444 | [[https://www.wikileaks.org/plusd/cables/07SEOUL82_a.html| 07SEOUL82 ]]| [[/07SEOUL82]] | 이재정 신임 통일부 장관, 대북 지원과 정상회담 가능성 밝혀 | 2007-01-10 | 기밀 | 완료 |
+| 445 | [[https://www.wikileaks.org/plusd/cables/07SEOUL83_a.html| 07SEOUL83 ]]| [[/07SEOUL83]] | 정치적 관점에서 바라본 2007년 예산 | 2007-01-11 | 기밀 | 완료 |
+| 446 | [[https://www.wikileaks.org/plusd/cables/07SEOUL97_a.html| 07SEOUL97 ]]| [[/07SEOUL97]] | 기업의 반격: 현대, 노조에 소송 제기 | 2007-01-11 | 대외비 | |
+| 447 | [[https://www.wikileaks.org/plusd/cables/07SEOUL98_a.html| 07SEOUL98 ]]| [[/07SEOUL98]] | 노무현 대통령의 이라크 정책 연설: 한국 대응 | 2007-01-11 | 대외비 | |
+| 448 | [[https://www.wikileaks.org/plusd/cables/07SEOUL112_a.html| 07SEOUL112 ]]| [[/07SEOUL112]] | 2007년 대선 후보들 | 2007-01-12 | 기밀 | 완료 |
+| 449 | [[https://www.wikileaks.org/plusd/cables/07SEOUL114_a.html| 07SEOUL114 ]]| [[/07SEOUL114]] | 중국의 위성요격 실험 이후 중국에 대한 연합 외교문서 요청 전달 | 2007-01-14 | 비밀 | |
+| 450 | [[https://www.wikileaks.org/plusd/cables/07SEOUL122_a.html| 07SEOUL122 ]]| [[/07SEOUL122]] | 한국 정부, 아세안지역포럼(ARF) 워크숍 잠정 계획 | 2007-01-16 | 대외비 | |
+| 451 | [[https://www.wikileaks.org/plusd/cables/07SEOUL136_a.html| 07SEOUL136 ]]| [[/07SEOUL136]] | 미 대사, 김대중 전 대통령과 오찬 회동 | 2007-01-17 | 기밀 | 완료 |
+| 452 | [[https://www.wikileaks.org/plusd/cables/07SEOUL151_a.html| 07SEOUL151 ]]| [[/07SEOUL151]] | 토머스 크리스텐슨 동아시아태평양실장 방한 관련 체류 허가 | 2007-01-18 | 대외비 | |
+| 453 | [[https://www.wikileaks.org/plusd/cables/07SEOUL160_a.html| 07SEOUL160 ]]| [[/07SEOUL160]] | 개헌 논의 부각 | 2007-01-19 | 기밀 | |
+| 454 | [[https://www.wikileaks.org/plusd/cables/07SEOUL166_a.html| 07SEOUL166 ]]| [[/07SEOUL166]] | 한나라당: 선두이지만 자신할 수는 없어? | 2007-01-19 | 기밀 | 완료 |
+| 455 | [[https://www.wikileaks.org/plusd/cables/07SEOUL167_a.html| 07SEOUL167 ]]| [[/07SEOUL167]] | 열린우리당은 어디로? | 2007-01-19 | 기밀 | 완료 |
+| 456 | [[https://www.wikileaks.org/plusd/cables/07SEOUL169_a.html| 07SEOUL169 ]]| [[/07SEOUL169]] | 중국의 위성요격 실험 관련 중국 대사관에 외교문서 전달 요청 | 2007-01-19 | 기밀 | |
+| 457 | [[https://www.wikileaks.org/plusd/cables/07SEOUL170_a.html| 07SEOUL170 ]]| [[/07SEOUL170]] | 한국 정부, 파키스탄 공작기계 수출 여전히 허용 계획 | 2007-01-19 | 기밀 | |
+| 458 | [[https://www.wikileaks.org/plusd/cables/07SEOUL173_a.html| 07SEOUL173 ]]| [[/07SEOUL173]] | 외교통상부, 벨 사령관의 공식 발언에 항의 | 2007-01-19 | 기밀 | 완료 |
+| 459 | [[https://www.wikileaks.org/plusd/cables/07SEOUL175_a.html| 07SEOUL175 ]]| [[/07SEOUL175]] | 프놈펜 탈북자 관련 다음 단계 | 2007-01-19 | 기밀 | |
+| 460 | [[https://www.wikileaks.org/plusd/cables/07SEOUL185_a.html| 07SEOUL185 ]]| [[/07SEOUL185]] | 벨 사령관 통일외교안보정책실장 백종천과 회동 | 2007-01-22 | 기밀 | 완료 |
+| 461 | [[https://www.wikileaks.org/plusd/cables/07SEOUL194_a.html| 07SEOUL194 ]]| [[/07SEOUL194]] | 탈북자들, 시민권 운동을 통해 북한 정권 변화 모색 | 2007-01-22 | 기밀 | 완료 |
+| 462 | [[https://www.wikileaks.org/plusd/cables/07SEOUL210_a.html| 07SEOUL210 ]]| [[/07SEOUL210]] | 위성요격(ASAT): 한국 외교 문서에 대한 중국 반응 | 2007-01-23 | 기밀 | |
+| 463 | [[https://www.wikileaks.org/plusd/cables/07SEOUL217_a.html| 07SEOUL217 ]]| [[/07SEOUL217]] | 2차 3국 정책 기획 회의: 에너지 안보, 평화 구축, 유엔 개혁 | 2007-01-23 | 기밀 | |
+| 464 | [[https://www.wikileaks.org/plusd/cables/07SEOUL219_a.html| 07SEOUL219 ]]| [[/07SEOUL219]] | 한국 정부, 집속탄에 대한 미국 입장 지지 | 2007-01-23 | 기밀 | 완료 |
+| 465 | [[https://www.wikileaks.org/plusd/cables/07SEOUL220_a.html| 07SEOUL220 ]]| [[/07SEOUL220]] | 1차 한·미·일 정책기획협의회: 한반도 문제 | 2007-01-23 | 기밀 | 완료 |
+| 466 | [[https://www.wikileaks.org/plusd/cables/07SEOUL221_a.html| 07SEOUL221 ]]| [[/07SEOUL221]] | 3차 3국 정책 기획 회의: 중국과 인도 | 2007-01-23 | 기밀 | |
+| 467 | [[https://www.wikileaks.org/plusd/cables/07SEOUL222_a.html| 07SEOUL222 ]]| [[/07SEOUL222]] | 일본과 한국, 아시아태평양 민주주의 프로젝트에 뜨거운 관심 | 2007-01-23 | 미분류 | |
+| 468 | [[https://www.wikileaks.org/plusd/cables/07SEOUL230_a.html| 07SEOUL230 ]]| [[/07SEOUL230]] | 노무현 대통령의 신년 연설, 국내 문제에 초점 | 2007-01-24 | 기밀 | 완료 |
+| 469 | [[https://www.wikileaks.org/plusd/cables/07SEOUL270_a.html| 07SEOUL270 ]]| [[/07SEOUL270]] | 젊은 세대가 차기 한국 대통령의 당락을 가름할 것인가? | 2007-01-29 | 미분류 | 완료 |
+| 470 | [[https://www.wikileaks.org/plusd/cables/07SEOUL276_a.html| 07SEOUL276 ]]| [[/07SEOUL276]] | 스티븐스 수석부차관보, 이관세 통일부 정책홍보본부장과 회동: 한국 정부, 대북 지원 계속 중단하고 6자 회담 지지하고\\ 현실적인 경우 평화 체제 논의 전망한다고  | 2007-01-29 | 기밀 | 완료 |
+| 471 | [[https://www.wikileaks.org/plusd/cables/07SEOUL287_a.html| 07SEOUL287 ]]| [[/07SEOUL287]] | 열린우리당: 쥐떼가 배에서 뛰어내린다. 헤엄은 칠 줄 알까? | 2007-01-30 | 기밀 | |
+| 472 | [[https://www.wikileaks.org/plusd/cables/07SEOUL306_a.html| 07SEOUL306 ]]| [[/07SEOUL306]] | 민주노총, 온건파 이석행 신임 위원장으로 선출 | 2007-02-01 | 미분류 | 완료 |
+| 473 | [[https://www.wikileaks.org/plusd/cables/07SEOUL329_a.html| 07SEOUL329 ]]| [[/07SEOUL329]] | 크리스토퍼 힐 동아시아태평양 차관보와 토머스 기번스 특별 보좌관 체류 허가 | 2007-02-02 | 대외비 | |
+| 474 | [[https://www.wikileaks.org/plusd/cables/07SEOUL331_a.html| 07SEOUL331 ]]| [[/07SEOUL331]] | 이명박 대통령 후보: 보수적 정치인, 진보적 가슴? | 2007-02-02 | 미분류 | 완료 |
+| 475 | [[https://www.wikileaks.org/plusd/cables/07SEOUL332_a.html| 07SEOUL332 ]]| [[/07SEOUL332]] | 화학무기금지조약(CWC): 이란이 집행이사국이 되지 못하도록 한국의 지원 요청 | 2007-02-02 | 미분류 | 완료 |
+| 476 | [[https://www.wikileaks.org/plusd/cables/07SEOUL333_a.html| 07SEOUL333 ]]| [[/07SEOUL333]] | 정동영 대통령 후보: 경쟁자인가, 낙오자인가? | 2007-02-02 | 미분류 | |
+| 477 | [[https://www.wikileaks.org/plusd/cables/07SEOUL353_a.html| 07SEOUL353 ]]| [[/07SEOUL353]] | 박인국 외교정책실장, 이란과 북한 문제 논의 | 2007-02-06 | 기밀 | 완료 |
+| 478 | [[https://www.wikileaks.org/plusd/cables/07SEOUL357_a.html| 07SEOUL357 ]]| [[/07SEOUL357]] | 미 대사, 박근혜 한나라당 대통령 후보 면담 | 2007-02-06 | 기밀 | 완료 |
+| 479 | [[https://www.wikileaks.org/plusd/cables/07SEOUL359_a.html| 07SEOUL359 ]]| [[/07SEOUL359]] | 버시바우 대사와 이재정 통일부 장관, 6자회담, 대북원조, 개성공단 논의 | 2007-02-06 | 기밀 | 완료 |
+| 480 | [[https://www.wikileaks.org/plusd/cables/07SEOUL371_a.html| 07SEOUL371 ]]| [[/07SEOUL371]] | 대통령 후보들은 대북 관계를 어떻게 규정하는가? | 2007-02-07 | 기밀 | 완료 |
+| 481 | [[https://www.wikileaks.org/plusd/cables/07SEOUL374_a.html| 07SEOUL374 ]]| [[/07SEOUL374]] | 한국 정부, 오슬로 집속탄 회의에 참가하지 않기로 | 2007-02-07 | 기밀 | 완료 |
+| 482 | [[https://www.wikileaks.org/plusd/cables/07SEOUL381_a.html| 07SEOUL381 ]]| [[/07SEOUL381]] | 유엔 안전보장이사회 결의안 14071호 실효적 이행 보장 | 2007-02-08 | 대외비 | |
+| 483 | [[https://www.wikileaks.org/plusd/cables/07SEOUL382_a.html| 07SEOUL382 ]]| [[/07SEOUL382]] | 토머스 크리스텐슨 동아시아태평양 부차관보 중국 관련 협의 | 2007-02-08 | 기밀 | 완료 |
+| 484 | [[https://www.wikileaks.org/plusd/cables/07SEOUL401_a.html| 07SEOUL401 ]]| [[/07SEOUL401]] | 탈북자, 북한의 고문과 ‘재교육’ 회상 | 2007-02-09 | 기밀 | |
+| 485 | [[https://www.wikileaks.org/plusd/cables/07SEOUL406_a.html| 07SEOUL406 ]]| [[/07SEOUL406]] | 한국 정부, 세계핵테러방지구상(GICNT) 고려 | 2007-02-11 | 대외비 | |
+| 486 | [[https://www.wikileaks.org/plusd/cables/07SEOUL421_a.html| 07SEOUL421 ]]| [[/07SEOUL421]] | 한국 정부, 하마스와 파타의 협정 환영 | 2007-02-12 | 기밀 | |
+| 487 | [[https://www.wikileaks.org/plusd/cables/07SEOUL449_a.html| 07SEOUL449 ]]| [[/07SEOUL449]] | 박근혜 대통령 후보: 청와대에 입성할 수 있을까? | 2007-02-14 | 미분류 | 완료 |
+| 488 | [[https://www.wikileaks.org/plusd/cables/07SEOUL450_a.html| 07SEOUL450 ]]| [[/07SEOUL450]] | 김영룡 국방부 차관, 용산 기지 이전 사업의 진전 과시 | 2007-02-14 | 기밀 | |
+| 489 | [[https://www.wikileaks.org/plusd/cables/07SEOUL456_a.html| 07SEOUL456 ]]| [[/07SEOUL456]] | 한일 관계, 정체와 의심에 봉착 | 2007-02-14 | 기밀 | 완료 |
+| 490 | [[https://www.wikileaks.org/plusd/cables/07SEOUL457_a.html| 07SEOUL457 ]]| [[/07SEOUL457]] | 남북 쌍방은 제20차 장관급회담 개최를 위한 실무대표접촉 2.15일 개최 | 2007-02-14 | 기밀 | 완료 |
+| 491 | [[https://www.wikileaks.org/plusd/cables/07SEOUL471_a.html| 07SEOUL471 ]]| [[/07SEOUL471]] | 한국정부 다음 대북 조치와 관련 긴밀한 협력 모색 | 2007-02-15 | 대외비 | 완료 |
+| 492 | [[https://www.wikileaks.org/plusd/cables/07SEOUL472_a.html| 07SEOUL472 ]]| [[/07SEOUL472]] | 이명박: 검증되고 준비되었으며 지지율 선두 | 2007-02-15 | 기밀 | 완료 |
+| 493 | [[https://www.wikileaks.org/plusd/cables/07SEOUL487_a.html| 07SEOUL487 ]]| [[/07SEOUL487]] | 한국, 북대서양조약기구(NATO)와의 관계 점차 확대 | 2007-02-16 | 기밀 | |
+| 494 | [[https://www.wikileaks.org/plusd/cables/07SEOUL489_a.html| 07SEOUL489 ]]| [[/07SEOUL489]] | 10월에 “평양대부흥” 기념 행사 계획 | 2007-02-20 | 미분류 | 완료 |
+| 495 | [[https://www.wikileaks.org/plusd/cables/07SEOUL498_a.html| 07SEOUL498 ]]| [[/07SEOUL498]] | 이재정 통일부 장관, 남북 장관급회담 사전 검토 | 2007-02-20 | 기밀 | 완료 |
+| 496 | [[https://www.wikileaks.org/plusd/cables/07SEOUL550_a.html| 07SEOUL550 ]]| [[/07SEOUL550]] | 외교통상부, 세계핵테러방지구상(GICNT)에 호의적 반응 | 2007-02-26 | 대외비 | |
+| 497 | [[https://www.wikileaks.org/plusd/cables/07SEOUL552_a.html| 07SEOUL552 ]]| [[/07SEOUL552]] | 로버트 랩슨 동아시아태평양 언론담당실장, 체류 허가 | 2007-02-26 | 대외비 | |
+| 498 | [[https://www.wikileaks.org/plusd/cables/07SEOUL568_a.html| 07SEOUL568 ]]| [[/07SEOUL568]] | 이란의 유엔 안전보장이사회 결의안 1737 준수에 대한 국제원자력기구(IAEA) 보고서 | 2007-02-27 | 기밀 | |
+| 499 | [[https://www.wikileaks.org/plusd/cables/07SEOUL569_a.html| 07SEOUL569 ]]| [[/07SEOUL569]] | 한국 정부, 휴대폰 교란 장치 판매 조사 | 2007-02-27 | 비밀 | |
+| 500 | [[https://www.wikileaks.org/plusd/cables/07SEOUL570_a.html| 07SEOUL570 ]]| [[/07SEOUL570]] | 국회의원들, 전시 작전통제권(OPCON) 반환에 앞서 북한 비핵화 제안 | 2007-02-27 | 기밀 | |
+</sortable>

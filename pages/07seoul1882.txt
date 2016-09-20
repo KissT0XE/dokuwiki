@@ -1,0 +1,53 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL1882  |  2007-06-21 07:48  |  비밀  |  주한미국대사관  |  {{tag>PREF PREL PINR KTIP KS KN MG }}  |
+====== 제 목: 한국정부, 미국행 거부당한 몰골 소재 탈북자 소식 접해 ======
+비 밀 SEOUL 001882 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+ 
+행정명령 12958: 비밀해제: 06/21/2017 
+태그: PREF(([Refugees])), PREL(([External Political Relations])), PINR(([Intelligence])), KTIP(([Trafficking in Persons])), KS(([Korea (South)])), KN(([Korea (North)])), MG(([Mongolia]))
+제 목: 한국정부, 미국행 거부당한 몰골 소재 탈북자 소식 접해
+참조: STATE 81895 
+분류자: 정치 참사관 대사 직무 대행((A/POL Brian McFeeters)).  근거 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/09/11 14:43//
+
+(비밀) 6월 21일 대사관 정무 직원은 참조 전문의 논지를 전달하며 울란바토르 소재 탈북자의 미국 난민 신청이 인정되지 않았으며, 탈북자들이 한국에 정착하길 바라고 있다는 소식을 외교통상부 대북정책협력과 박지현 서기관에게((번역 주: 미국식으로 번역하면 박지현 외교통상부 대북정책협력과 //“과장 직무 대리/대행”//이 맞지만, 한국에서 통용되는 정식 직위를 그대로 옮겼다.)) 알렸다. <wrap hi>미국정부는 미국 정착을 위한 난민 신청 자격에 부합한다고 생각되는 울란바토르 소재 탈북 난민 신청자에 대한 한국의 신원조회 협조를 감사하게 생각할 거라고</wrap> 대사관 정무 직원은 덧붙였다. 박지현은 한국정부가 미국정부 난민 자격 심사에 부합한다는 탈북자에 대해 지문 조사를 도울 거라고 응답하였다. 그러나 그녀는 거부당한 3명의 탈북자에 대한 판단은 보류하면서, 한국정부가 자체적인 적격 심사와 탈북자 인증 절차를 적용할 거라고 지적하였다.
+버시바아
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+<WRAP center round help 80%>//** 미국정부는 왜 미국 망명을 요청한 탈북자 4명 중 한 명만 승인했을까?**//
+미국은 탈북자 난민법을 통과시켜 탈북자의 미국 망명을 허용하는 법적 절차를 밟았는데 선별적으로 극소수만 허용하는 태도의 배경이 궁금하다. 미국이 허가한 탈북자 난민은 뭣 명이나 될까? 또, 그 선별 기준은 무엇일까? 그리고 왜 이 전문의 등급이 2급 비밀로 높은 등급일까?
+</WRAP>
+
+===== 원본 내려받기 =====
+<file rtf 07SEOUL1882.rtf>
+S E C R E T SEOUL 001882 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 06/21/2017 
+TAGS: PREF PREL PINR KTIP KS KN MG
+SUBJECT: ROKG INFORMED OF DENIED NORTH KOREAN REFUGEES IN 
+MONGOLIA 
+ 
+REF: STATE 81895 
+ 
+Classified By: A/POL Brian McFeeters.  Reasons 1.4 (b/d) 
+ 
+(S) On June 21, poloff conveyed reftel points informing that 
+three North Korean refugee applicants in Ulaanbaatar are 
+inadmissible to the United States and that they wish to be 
+resettled in the ROK to Park Ji-hyun, Deputy Director of 
+MOFAT's Inter-Korean Policy Division.  Poloff added that the 
+USG would appreciate ROKG vetting assistance with the one 
+North Korean applicant in Ulaanbaatar who was deemed eligible 
+for application processing for resettlement to the United 
+States.  Park responded that the ROKG would assist with 
+fingerprinting assistance for the one deemed eligible for USG 
+processing.  However, she reserved judgment on the denied 
+three, noting that the ROKG would apply its own screening and 
+admission procedures. 
+VERSHBOW
+</file>

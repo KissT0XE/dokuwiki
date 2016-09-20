@@ -1,0 +1,65 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL1725  |  2006-05-23 07:20  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PARM MNUC KNNP KS }}  |
+====== 제 목: 한국 4월 대량살상무기 확산방지구상 운영전문가그룹에 관한 논 페이퍼 제공에 대해 감사 표명 ======
+
+기 밀 서울 001725
+ 
+국방부망 배포
+ 
+국방부망 배포
+ 
+국제안보·비확산국/반확산과 크로프트, 국방장관실/국제안보·비확산국 제퍼슨, 국가안전보장회의 스티븐스
+ 
+행정명령12958: 비밀해제: 05/23/2016
+태그: PREL PARM MNUC KNNP KS
+제 목: 한국 4월 대량살상무기 확산방지구상 운영전문가그룹에 관한 논 페이퍼 제공에 대해 감사 표명
+ 
+참조: STATE 79184
+ 
+분류자: 정치 공사 참사관 조셉 윤.  근거 1.4 (b, d).
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/26 22:05//
+ 
+(기밀) 3월 16일 대사관 정무 직원은 4월 11~12일 마이애미에서 열린 대량살상무기 확산방지구상(이하 PSI) 운영전문가그룹 회의 결과를 요약한 참조 전문의 논지를 권희석 외교통상부 군축비확산과 과장에게 전달하였다. 5월 23일 권희석은 특히 각국 대표단에서 나온 법률과 법 집행에 관한 20가지 질의의 세부 사항을 수령한 점이 한국정부가 PSI에 관한 현재의 협력 수준을 자체 평가하는 데 도움이 될거라며 감사하였다고 응답하였다. 권희석은 미합중국과 한국 간의 PSI 활동 협력 5개 항목 합의의 일환인 외교상의 전환책을 확인해 주며 남한은 PSI에 관해 지속적인 미국과의 긴밀한 협력을 고대한다고 말하였다.
+버시바우
+
+[[https://sites.google.com/site/poirotkr/2/06seoul1725|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round info 80%>//**외교 문서의 종류**//
+양국 간 서로의 입장을 전달하는데 사용되는 외교문서의 종류에는 양해각서, 합의의사록, 비망록(Aide Memoire), 구상서(口上書, Note Verbal), 논 페이퍼(Non-paper), 대사 1인칭 서한 등이 있다. 일반적으로 비망록(備忘錄)은 잊을 때를 대비해 기록해 두는 책자나 메모 등을 뜻하나 외교용어로는 반드시 기억해야 할 사항을 적시해 놓은 공한(公翰)을 말한다.
+</WRAP>
+
+===== 원본 내려받기 =====
+<file rtf 06SEOUL1725.rtf>
+C O N F I D E N T I A L SEOUL 001725 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+ISN/CPI FOR KROFT, OSD/ISP FOR JEFFERSON, NSC FOR STEPHENS 
+ 
+E.O. 12958: DECL: 05/23/2016 
+TAGS: PREL PARM MNUC KNNP KS
+SUBJECT: ROK EXPRESSES APPRECIATION FOR NON-PAPER ON APRIL 
+PSI OEG MEETING 
+ 
+REF: STATE 79184 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b, d). 
+ 
+(C) On May 16, poloff delivered reftel points, which 
+summarized the results of the April 11-12 Proliferation 
+Security Initiative (PSI) Operational Experts Group (OEG) 
+meeting in Miami, to Director Kwon Hee-seog, Disarmament and 
+Nonproliferation Division, Ministry of Foreign Affairs and 
+Trade (MOFAT).  On May 23, Kwon responded that the ROKG 
+appreciated receiving details on the meeting, particularly 
+the 20 questions on legal and law enforcement issues from the 
+various delegations, as they would help the ROKG in its 
+assessment of its current level of cooperation on PSI.  Kwon, 
+acknowledging the demarche as part of the five-point 
+agreement between the United States and the ROK on Seoul's 
+cooperation in PSI activities, stated that South Korea looked 
+forward to continued close consultation with the United 
+States on PSI. 
+VERSHBOW
+</file>

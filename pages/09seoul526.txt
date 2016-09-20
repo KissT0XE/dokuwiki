@@ -1,0 +1,75 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL526  |  2009-04-01 07:36  |  미분류  |  주한 미국 대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 000526
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL PGOV MARR ECON KPAO KMDR KS US
+제 목: 서울, 언론 반응
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/06/06 13:29//
+===== 북한 =====
+
+**[[http://news.chosun.com/site/data/html_dir/2009/03/31/2009033101919.html|[사설] 북한은 외국 민간인 처리에 국제기준 존중해야]]**
+
+보수 조선일보 사설(4월 1일): "북한이 '인공위성 발사'와 유엔 안보리 제재 가능성을 앞둔 미묘한 시점에 왜 '외국 민간인들'을 억류·조사하고, 심지어 사법처리까지 하려는지 의도를 파악하기 어렵다. 북한은 이들 사건을 민간인 보호와 인권 존중 등 국제사회의 통념과 보편적 가치에 따라 처리해야 한다. 그것이 북한의 이미지 개선에 도움이 될뿐더러, 선량한 민간인들을 인질로 삼아 정치적 거래를 추구하려 한다는 비난을 사지 않는 방법이기도 하다.명박 대통령은 30일 파이낸셜 타임스 회견에서 "북한과 대화창구를 열어놓기 위해 개성공단은 유지하려 한다"고 했는데, 우리 인원의 안전도 지키지 못해서야 '개성공단 유지' 운운할 이유마저 없게 된다."
+===== G20 정상 회담 =====
+**[[http://article.joins.com/news/article/article.asp?total_id=3553015&ctg=|G20 정상회의의 정치경제학]]**
+
+중도 우파 중앙일보 사설(4월 1일): "(5월 2일 개최될 예정인 G20 금융 정상회담은 합의를 끌어내기 어려울 가능성이 크다.) …미국은 각국의 재정지출을 더 늘려 경기를 부양하자고 주장한 반면, 유럽 국가들은 금융시스템을 정비하고 감독과 규제를 강화하는 게 먼저라고 맞섰다. …선진국과 신흥경제국 간의 갈등도 표면화됐다. 중국이 미국 달러화 대신 국제통화기금(IMF)의 특별인출권(SDR)을 새로운 기축통화로 삼자는 주장을 펴자 브라질과 러시아가 기다렸다는 듯이 냉큼 동조하고 나섰다. …G20 정상회의가 똑 부러진 대책 대신 어정쩡한 절충안을 택할 수밖에 없는 것은 불가피한 귀결로 보인다. 이명박 대통령은 이를 한국의 위상을 높일 절호의 기회로 보는 것 같다."
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL526.rtf>
+UNCLAS SEOUL 000526 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PGOV MARR ECON KPAO KMDR KS US
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+North Korea 
+----------- 
+ 
+"N. Korea Must Show It Is Not a Hostage-Taker" 
+ 
+Conservative Chosun Ilbo editorialized (04/01): "It is difficult to 
+assess North Korea's motive in detaining and investigating foreign 
+civilians and even seeking to put them on trial at a sensitive time 
+when it is planning to launch a rocket and faces possible UN 
+Security Council sanctions.  North Korea should handle foreign 
+detainees according to international norms.  This would improve the 
+North's image and allow North Korea to avoid criticism that it is 
+seeking political gains by capitalizing on the hostage taking. 
+President Lee Myung-bak said he intends to keep the Kaesong 
+Industrial Complex open to maintain a window of communication with 
+North Korea.  But if the basic safety of South Korean citizens 
+cannot even be guaranteed, the Kaesong Industrial Complex loses all 
+rationale." 
+ 
+ 
+G-20 Summit 
+----------- 
+ 
+"Political Economics of G20 Summit" 
+Right-of-center JoongAng Ilbo editorialized (04/01): "The G20 
+financial summit, which will be held on March 2 in London, is not 
+likely to draw consensus from participating countries.  The U.S. 
+calls for greater budget spending for stimulating the economy while 
+the European countries argue for revamping the financial system. 
+Also, conflicts between the developed countries and emerging 
+economies have surfaced.  China's assertion that the International 
+Monetary Fund (IMF)'s Special Drawing Rights (SDR) should replace 
+U.S. dollars as a key currency won support from Brazil and Russia. 
+Participating countries differ in every issue.  It seems inevitable 
+that the G20 summit will opt for a vague compromise over a clear-cut 
+solution.  In this situation, President Lee Myung-bak sees the G20 
+summit as a good opportunity to enhance the ROK's status. 
+ 
+ 
+STEPHENS
+</file>

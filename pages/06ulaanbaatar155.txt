@@ -1,0 +1,64 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06ULAANBAATAR155  |  2006-03-03 09:02  |  비밀/외국전파금지  |  주 몽골 미국대사관  |  {{tag>SNAR EFIN PREL PTER ASEC MG }}  |
+====== 제 목: 북한 외교관이 운반하던 미 달러화와 엔화에서 위폐 발견하지 못해 ======
+비 밀 ULAANBAATAR 000155 
+외국전파금지((NOFORN ))
+국무부 동아시아태평양/중국·몽골과, 홍콩 소재 미 비밀검찰국, 재무부 핀센((DEPARTMENT FOR EAP/CM, HONG KONG FOR USSS, TREASURY FOR FINCEN))
+
+행정명령 12958: 비밀해제: 03/02/2016 
+태그: SNAR(([Narcotics])), EFIN(([Financial and Monetary Affairs])), PREL(([External Political Relations])), PTER(([Terrorists and Terrorism])), ASEC(([Security])), MG(([Mongolia])) 
+제 목: 북한 외교관이 운반하던 미 달러화와 엔화에서 위폐 발견하지 못해
+참조:  [[06ulaanbaatar139|가. ULAANBAATAR 139]]  나. ULAANBAATAR 143 
+분류자: 역내보안관 크렉 리스터드((RSO Craig Reistad))  근거 1.5 (b), %%(c)%%, (d), and (e) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/06/18 20:18//
+
+1. (비밀/외국전파금지) 3월 2일 저녁에 울란바토르 주재 일본대사관 대표는 (북한 외교관이 운반한) 엔화 만 엔권 2천 장에 대해 일본 재무성 검사관이 3분 2 검사를 마쳤으며, 모두 진폐라고 판정났다고 보고하였다. 그는 압수한 일본 화폐에 대한 조사를 3월 3일에 완료할 예정이라고 했다. 조사팀은 3월 1일 도쿄를 떠나 몽골에 도착하였다.
+ 
+2. (비밀/외국전파금지) 몽골정보총국은 일본 조사관이 모든 일본 화폐의 검사를 마쳤으며, 위폐는 발견하지 못했다고 3월 3일 오후 (미 국방부) 일련항목관리국에 통보하였다.
+
+3. (비밀/외국전파금지) 몽골정보총국이 압수한 미국 화폐의 진위를 검증한 미합중국 비밀검찰국은 3월 3일 울란바토르를 떠났다. 대사관은 이번 사건을 계속 모니터하고 정보가 나오면 보고할 예정이다.
+슬럿
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 06ULAANBAATAR155.rtf>
+S E C R E T ULAANBAATAR 000155 
+ 
+NOFORN 
+ 
+DEPARTMENT FOR EAP/CM, HONG KONG FOR USSS, TREASURY FOR 
+FINCEN 
+ 
+E.O. 12958: DECL: 03/02/2016 
+TAGS: SNAR [Narcotics], EFIN [Financial and Monetary Affairs], PREL [External Political Relations], PTER [Terrorists and Terrorism], ASEC [Security], MG [Mongolia] 
+SUBJECT: NO COUNTERFEIT DETECTED AMONGST U.S. AND JAPANESE 
+CURRENCY CARRIED BY DPRK DIPLOMATS 
+ 
+REF: A. ULAANBAATAR 139 
+B. ULAANBAATAR 143 
+ 
+Classified By: RSO Craig Reistad for reasons 1.5 (b), (c), 
+(d), and (e) 
+ 
+¶1. (S/NF) On the evening of March 2nd, a representative of 
+the Japanese Embassy in Ulaanbaatar reported that examiners 
+from the Japanese Finance Ministry had completed two thirds 
+of their examination of the two thousand 10,000 Yen notes and 
+determined all to be genuine. He stated that the team would 
+complete their examination of the detained Japanese currency 
+on March 3rd. The team arrived from Tokyo on March 1st. 
+ 
+¶2. (S/NF) The General Intelligence Agency informed SIMO on 
+the afternoon of March 3rd that the Japanese examiners had 
+completed their inspection of all Japanese currency and found 
+no counterfeit notes. 
+ 
+¶3. (S/NF) The United States Secret Service team that verifed 
+the authenticity of the United States currency detained by 
+the General Intelligence Agency departed Ulaanbaatar on March 
+3rd. Post will continue to monitor this case and report as 
+information becomes available. 
+ 
+Slutz 
+ 
+NNNN
+</file>

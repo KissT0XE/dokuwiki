@@ -1,0 +1,98 @@
+^ 문서번호 ^ 생성일 ^ 배포일 ^ 분류 ^ 출처 ^  태그  ^
+| 88SEOUL3039 | 1988-03-16 23:14 | 2011-08-30 01:44 | 비밀 | 서울대사관 |  {{tag>PTER KS }}  |
+====== 제 목: 1987년 연례 테러 보고서 ======
+  *비 밀 SEOUL 03039 
+  *국무부 대테러 조정 센터((번역 주: S/CT : the Office of the Coordinator for Counterterrorism ))워튼 귀하
+  *행정명령 12356:  비밀해제:  OADR 
+  *태그:  PTER (([Terrorists and Terrorism])), KS (([Korea (South)])) 
+  *제 목: 1987년 연례 테러 보고서
+  *참 조:  STATE 42378 
+  *번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/23 08:52// 
+===== =====
+
+----
+
+1.비밀 - 전체 본문
+
+2. 대한민국에 대한 보고서의 비밀로 분류된 부문은 다음과 같다.
+===== 한미 양국협력 =====
+<WRAP column 70% justify>3. 1988년 한국 대테러 작전 부대는 미국의 대테러 작전 정부군과 함께 많은 상황에 대비해 훈련했다. 6월에 행한 일명 제이드 너겟 연습은 한국정부의 참여와 참관인 조직들이 포함됐다. 유사하지만 더욱 정교한 한미연합 연습인 일명 제이드 너겟 88이 올해 6월에 계획돼 있다. 1987년 10월에 행한 일명 아이비 크롤러 연습은 한미의 공조 노력이 심도 있게 발휘된 바 있다.  각본은 서로 연락을 취하는 3개의 테러리스트가 본거지 위치하고 설정, 그리고 정부와 군 모두의 협력을 요구하는 상황설정이다. 미국 정부군은 하나의 본거지를 급습하고, 한국 정부군이 다른 하나를 공격한다. 이런 가운데 한미통합군이 세 번째 본거지를 공격하는 것이다. 이런 것은 복합적인 연습이면서, 동시에 독자적이고, 상호 협력적인 방책 및 역량을 평가하는데 귀중한 연습이다. 추가적인 군사협력은 5개의 작은 부대의 교환 및 훈련 연습과, 폭탄탐지 견, 그리고 폭발물 파괴훈련이다.
+
+4. 아메리카 합중국은 대테러 작전 지원과 훈련을 다양한 기관들을 통해 제공했는데, 세관, 연방이민국(( 번역 주: INS: Immigration and Naturalization Service )), 연방수사국, 연방항공국((번역 주: FAA : 美國聯邦航空局, Federal Aviation Administration)), 그리고 내각정보조사실((번역 주: 일본 정부기구다. CIRO: Cabinet Intelligence and Research Office 원문에는 “SIRO”로 나와있지만 오타다))등이 포함된다(비밀/외국전파금지).((번역 주: s/nf : Secret No Foreign )) 내각정보조사실의 한국에 대한 대테러 작전 지원의 추가적인 상세내용은 내각정보조사실 (비밀/외국전파금지) 보고 경로로 제한한다.</WRAP>
+===== 사법적 대응 =====
+<WRAP column 70% justify>5. 일명 아이비 크롤러((번역 주: ivy crawler))훈련 중에, 미국 야영진지에서 미국 시민권자들을 공격하여, 미군 부대에 붙잡힌 테러리스트에 대한 법적 관할권을 행사하려는 미국 측 훈련참가자들의 시도에 한국 관리들이 반대했다. 한국정부의 고위급 의사 결정권자들이 참여하지 않은 상황에서, 이런 훈련의 사례가 한국정부의 공식적인 입장으로 볼 수는 없지만, 우리는 이 사례가 실재할 수 있는 대응으로 믿고 있다. 그렇지만, 만일 한국정부가 미국국적자들을 (테러행위가 발생한) 본국으로 송환하지 않는다면, 한국의 법적 결정을 수용할 수 있는 있는데, 이는 테러리즘 및 테러리스트 조직들에 관한 한국정부와 미국의 정책들이 개괄적으로 합의된 상태이기 때문이다.</WRAP>
+===== 북 한 =====
+<WRAP column 70% justify>6. 우리는 북한에 관한 국무부의 보고가 워싱턴에서 준비되는 것이 상책이라고 생각한다.
+//릴리//((번역 주: James R. Lilley제임스 릴리 전 주한 미국대사 ))</WRAP>
+===== 바깥고리 =====
+  - [[http://www.state.gov/s/ct/ | 국무부 대테러 조정 센터]] //미국 국무부//
+  - [[wp>Federal_Bureau_of_Investigation| 연방수사국 ]] //위키피디아//
+  - [[wp>Naicho| 내각정보조사실 ]] //위키피디아//
+  - [[wp>Federal_Aviation_Administration| 연방항공국]] //위키피디아//
+  - [[wp>James_R._Lilley | 릴리]] //전 주한 미국대사//
+===== 원본 및 내려받기 =====
+<code - 88SEOUL3039.rtf>
+S E C R E T SEOUL 03039 
+ 
+S/CT FOR WHARTON 
+ 
+E.O. 12356:  DECL:  OADR 
+TAGS:  PTER [Terrorists and Terrorism], KS [Korea (South)] 
+SUBJECT:  REPUBLIC OF KOREA:  1987 ANNUAL TERRORISM REPORT 
+ 
+REF:  STATE 42378 
+ 
+¶1.  SECRET - ENTIRE TEXT. 
+ 
+¶2.  CLASSIFIED SECTION FOR THE REPORT FOR THE REPUBLIC OF 
+KOREA FOLLOWS: 
+ 
+U.S.-ROK BILATERAL COOPERATION: 
+------------------------------ 
+ 
+¶3.  ROK COUNTERTERRORISM UNITS TRAINED WITH U.S. CT FORCES 
+ON MANY OCCASIONS IN 1988.  THE JADE NUGGET EXERCISE IN 
+JUNE INCLUDED ROKG PLAYER AND OBSERVER CELLS.  A SIMILAR 
+THOUGH MORE ELABORATE ROK-US EXERCISE, JADE NUGGET 88, IS 
+PLANNED FOR JUNE OF THIS YEAR.  EXERCISE IVY CRAWLER IN 
+OCTOBER 1987 WAS AN EXTREMELY INVOLVED ROK-US EFFORT.  THE 
+SCENARIO POSITED THREE TERRORIST SITES IN COMMUNICATION 
+WITH ONE ANOTHER AND REQUIRED BOTH GOVERNMENTAL AND 
+MILITARY COORDINATION.  U.S. FORCES TOOK DOWN ONE SITE, 
+ROK FORCES ANOTHER, WHILE AN INTEGRATED FORCE TOOK DOWN THE 
+THIRD.  IT WAS A COMPLEX EXERCISE AND OF GREAT VALUE IN 
+EVALUATING UNILATERAL AND COOPERATIVE METHODS AND 
+CAPABILITIES.  FURTHER MILITARY COOPERATION INCLUDED FIVE 
+SMALL UNIT EXCHANGE/TRAINING EXERCISES, BOMB DOG, AND 
+EXPLOSIVE ORDINANCE DEMOLITION TRAINING. 
+ 
+¶4.  THE USG HAS ALSO PROVIDED COUNTERTERRORISM ASSISTANCE 
+AND TRAINING THROUGH A VARIETY OF AGENCIES INCLUDING 
+CUSTOMS, INS, FBI, FAA, AND SIRO (S/NF).  FURTHER DETAILS 
+OF SIRO (S/NF) COUNTERTERRORISM ASSISTANCE TO THE ROK ARE 
+RESTRICTED TO SIRO (S/NF) REPORTING CHANNELS. 
+ 
+JUDICIAL RESPONSE: 
+----------------- 
+ 
+¶5.  DURING EXERCISE IVY CRAWLER, ROK OFFICIALS RESISTED 
+ATTEMPTS BY U.S. PLAYERS TO TRY TO EXERCISE LEGAL 
+JURISDICTION OVER TERRORISTS ACTING AGAINST U.S. CITIZENS 
+ON A U.S. INSTALLATION AND CAPTURED BY U.S. FORCES.  WHILE 
+THIS EXAMPLE OF EXERCISE PLAY CANNOT BE TAKEN AS AN 
+OFFICIAL ROKG POSITION AS HIGH-LEVEL ROKG DECISION-MAKERS 
+DID NOT TAKE PART, WE BELIEVE IT A LIKELY RESPONSE. 
+NONETHELESS, SHOULD THE ROKG DECIDE NOT TO EXTRADITE THE 
+USG WOULD PROBABLY FIND A KOREAN LEGAL DECISION 
+ACCEPTABLE, AS ROKG AND U.S. POLICIES ON TERRORISM AND 
+TERRORIST ORGANIZATIONS ARE GENERALLY IN AGREEMENT. 
+ 
+NORTH KOREA: 
+----------- 
+ 
+¶6.  WE ASSUME THAT PREPARATION OF THE DEPARTMENT'S REPORT 
+ON NORTH KOREA CAN BEST BE PREPARED IN WASHINGTON. 
+ 
+ 
+LILLEY
+</code>

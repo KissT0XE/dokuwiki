@@ -1,0 +1,110 @@
+^  고유 문서 번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  1974SEOUL04619_b  |  1974 July 16, 08:34 (Tuesday)  |  기밀(3급)  |  주한미국대사관  |  {{tag>PINT PINS KS }}  |
+====== 제 목: 윤보선에 대한 군법회의 재판 열려 ======
+
+기 밀 SEOUL 4619
+
+행정명령 11652: GDS
+태그: PINT((Political Affairs--Internal SecurityPolitical Affairs--Internal Security)) PINS((Political Affairs--Internal Political Affairs)) KS((Korea (South)))
+제 목: 윤보선에 대한 군법회의 재판 열려
+
+참조: [[1974seoul04582_b|SEOUL 4582]]
+번역자 제공 참조: [[1974SEOUL04656_b|1974SEOUL04656_b]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/11/15 14:13//
+
+1. 총리 특별보좌관 한상구가 대사관에 확언한 것과는 정반대로 모든 서울 언론과 석간신문들은 7월 16일 박형규 목사와 김찬국 목사, 그리고 김동길 교수뿐만 아니라 윤보선 전 대통령도 비상보통군법회의 제삼심판부에 의해 기소되었으며, 현재 심리 중이라고 확인하였다.
+
+2. 이찬식 비상보통군법회의 대변인은 첫 심리에서 피고들은 반정부 학생 대모를 통해서 정부를 전복하고 정권을 장악할 목적으로 혁명을 일으키려는 민청학련의 음모를 은밀히 지원했다는 혐의로 기소했다고 했다. 더 세부적으로 현재 유죄 선고된 민청학련에 거사 자금을 전달했으며, 민청학련의 주축인 나병식, 김영준, 송무호 등을 유인해 그들로 하여금 군경과의 전국적인 충돌을 전개하도록 했다는 내용이다. 목적은 군경의 발포를 유발해 학생의 목숨이 희생되도록 한다는 것이다.
+
+3. 대사관이 입수한 윤보선과 박형규에 대한 기소장 내용에 의하면, 그들은 국가보안법은 물론 대통령의 긴급조치 1호와 4호 위반한 협의이다. 다른 이들에 대한 혐의도 동일하다.
+
+4. [[1974seoul04582_b|윤보선은 기소되지 않을 거라는 총리 특별보좌관의 예상]]이 무슨 일로 빗나갔는지 묻자, 한상구 특보는 윤보선은 “증인”으로 재판에 출두했고, 그가 재판 중에 민청학련에 돈을 제공했다고 시인하자 비로소 기소되었다고 말하였다. 대사관 직원이 7월 10일 윤보선에 대한 기소장 사본을 보았다고 대답하자, 한상구는 대사관의 소식통이 직원에게 거짓말한 것이 틀림없다고 말하였다.
+
+5. 한상구는 윤보선이 다른 이들과는 다르게 수감되지 않았으며, 재판이 끝난 후에 귀가하도록 허락되었다고 덧붙였다((역주: 가택연금을 말한다)).
+하비브
+포와로 탐정의 번역 © 무단 복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1974071600209201006&editNo=2&printCount=1&publishDate=1974-07-16&officeId=00020&pageNo=1&printNo=16243&publishType=00020|보통군재 윤보선씨 구속]] //동아일보//
+  - [[http://www.newstomato.com/readNews.aspx?no=414926|신학자 故김찬국 연대 교수, 내란선동 혐의 38 년만에 무죄]] //뉴스토마토//
+===== 원본 내려받기 =====
+<file rtf 1974seoul04619_b.rtf>
+CONFIDENTIAL
+
+PAGE 01  SEOUL 04619  162307Z
+
+71
+ACTION EA-14
+
+INFO  OCT-01  ISO-00  CIAE-00  DODE-00  PM-07  H-03  INR-11  L-03
+
+NSAE-00  NSC-07  PA-04  RSC-01  PRS-01  SP-03  SS-20
+
+USIA-15  DRC-01  /091 W
+---------------------     009193
+R 160834Z JUL 74
+FM AMEMBASSY SEOUL
+TO SECSTATE WASHDC 4884
+INFO AMEMBASSY TOKYO
+CINCPAC
+
+C O N F I D E N T I A L SEOUL 4619
+
+E.O. 11652: GDS
+TAGS: PINT PINS KS
+SUBJECT:  COURT-MARTIAL TRIAL OF YUN PO SUN OPENS
+
+REF:  SEOUL 4582
+
+1.  CONTRARY TO ASSURANCES TO EMBASSY BY PRIME MINISTER'S
+SECRETARY ALL SEOUL MEDIA AND EVENING NEWSPAPERS ON JULY 16
+CONFIRMED THAT EX-PRESIDENT YUN PO SUNNAS WELL AS REV.
+PARK HYONG-KYU, REV. KIM CHAN-KUK, AND PROF. KIM DONG-
+IL HAD BEEN INDICTED AND WERE BEING TRIED BY THIRD PANEL
+OF GENERAL EMERGENCY COURT MARTIAL.
+
+2.  EMERGENCY COURT-MARTIAL SPOKESMAN YI CHAN-SHIK
+AT OPENING SESSION CHARGED THAT DEFENDANTS HAD SECRETLY
+SUPPORTED THE CONSPIRACY OF THE NFDYS TO LAUNCH A
+REVOLUTION THROUGH ANTI-GOVERNMENT STUDENT DEMONSTRATIONS AND
+TO OVERTHROW THE ROKG IN ORDER TO ASSUME POWER.  MORE
+SPECIFICALLY THEY HAD PASSED MONEY TO NOW CONVICTED
+MEMBERS OF THE NFDYS AND HAD ENTICED THREE STUDENTS
+NA PYONG-SIK, KIM YONG-CHUN, AND SONG MU-HO, ALL
+KEY MEMBERS OF THE NFDYS, TO STAGE NATIONWIDE CLASHES
+WITH THE MILITARY AND POLICE.  OBJECT WAS TO PROVOKE
+SHOOTING INCIDENTS IN WHICH THE LIVES OF STUDENTS
+CONFIDENTIAL
+
+CONFIDENTIAL
+
+PAGE 02  SEOUL 04619  162307Z
+
+WERE TO BE SACRIFICED.
+
+3.  ACCORDING TO TEXT OF INDICTMENT AGAINST YUN AND
+PARK, MADE AVAILABLE TO EMBASSY, THEY ARE CHARGED
+WITH HAVING VIOLATED PRESIDENTIAL EMERGENCY MEASURE
+1 AND 4 AS WELL AS NATIONAL SECURITY LAW.  CHARGES
+AGAINST OTHERS PRESUMABLY ARE THE SAME.
+
+4.  ASKED WHAT WENT WRONG WITH HIS FORECAST
+THAT YUN WOULD NOT BE INDICTED, (REFTEL), PRIMIN'S SECRETARY
+SAID YUN HAD ENTERED COURT AS "WITNESS" AND ONLY WAS
+INDICTED WHEN HE ADMITTED DURING SESSION GIVING MONEY
+TO NFDYS.  WHEN EMBOFF REPLIED THAT HE HAD SEEN COPY
+OF INDICTMENT AGAINST YUN PO SUN DATED JULY 10 HAN
+SAID HIS SOURCES MUST HAVE LIED TO HIM.
+
+5.  HAN WENT ON TO SAY THAT YUN WAS NOT IN JAIL LIKE
+OTHERS, BUT WAS BEING ALLOWED TO GO HOME AFTER TRIAL
+SESSIONS.
+HABIB
+
+
+CONFIDENTIAL
+
+
+
+
+NNN
+</file>

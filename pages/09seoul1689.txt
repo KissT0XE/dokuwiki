@@ -1,0 +1,57 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1689  |  2009-10-23 08:25  |  비밀(2급)  |  주한미국대사관  |  {{tag>PARM PREL ETTC KS }}  |
+====== 제 목: 유엔안보리 결의안 1874호 외교문서 전달: MSC 라첼레 호에서 압수한 북한 화물 관련 정보 ======
+비 밀 SEOUL 001689 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국제안보비확산국/생화학무기위협감축과((ISN/CB, Office of Chemical and Biological Weapons Threat Reduction)), 국제안보비확산국/반확산과((ISN/CPI, ISN Office of Counterproliferation Initiatives)), 동아시아태평양/한국과((EAP/K)) 
+ 
+행정명령 12958: 비밀해제: 10/23/2019 
+태그: PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), ETTC(([Trade and Technology Controls])), KS(([Korea (South)])) 
+제 목: 유엔안보리 결의 1874호 외교문서 전달함: (파나마 국적) MSC 라첼레(Rachele)호에서 압수한 북한 화물 관련 정보 
+참조: STATE 109115 
+분류자: 정치 공사 참사관 도로시 델라한티((POL M/C Dorothy A. Delahanty))  근거: 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/06/06 02:12//
+
+1. (비밀) 10월 23일 도로시 델라한티 정치·군사 부서장은 MSC 라첼레 호에서 압수한 북한 화물 관련 정보에 관한 참조전문 외교 문서를 전달하기 위하여 구현모 외교통상부 군축비확산과장과 회동하였다. 구현모는 한국유엔대표부로부터 이미 똑같은 요지를 전달받았다고 말하였다. 구현모는 <wrap hi>압수물 정보의 출처가 미국이란 사실을 공개하지 않겠다</wrap>고 약속했고 아울러 유엔안보리 산하 1718위원회에(일명 대북제재위원회)에 해당 정보가 전달될 때 “비밀” 표식을 해서 정보의 비밀 유지를 엄수하겠다고 약속했다.
+스티븐스
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 미국의 대북 정보에 따라 北화물 압수한 국정원과 해경 =====
+<WRAP center round info 90%>
+//** “北 화물세탁 의심”… 거제까지 간 배 부산으로 회항시켜**// 지난달 22일 국가정보원과 해양경찰청의 북한 컨테이너 4개 압수 작전은 긴박하게 이뤄졌다. ○ 파나마 선적 화물선 회항시켜라 북한 컨테이너를 실은 파나마 선적 화물선 ‘MSC 라첼레(RACHELE)’호가 부산 신항에 도착한 것은 9월 21일 오전 11시였다. 이틀 전인 19일 중국 톈진(天津)을 출발한 이 화물선은 부산 신항에서 하룻밤을 정박한 뒤 이튿날 정오에 다시 출항했다. 그러나 이 화물선이 거제도 부근에 이르렀을 무렵 한국 국가정보원 등 유관 기관들의 협조 요청을 받은 해양경찰청 소속 경비정이 다급히 쫓아와 배를 세웠다. (중략)…한미 정보당국, 국제공조 통해 ‘화물세탁’ 확인한 듯 국정원이 중국에서 온 배가 북한 컨테이너를 실었다는 첩보를 입수한 것은 국제공조에 따른 것으로 관측된다. 북한의 대량살상무기(WMD) 확산을 막기 위해 미국 등 관련 우방국과 국제공조를 벌인 결과라는 것이다. 미국의 대북 정찰위성 등이 북한 남포항이나 신의주항 등 북한 지역을 출발한 배가 의심스러운 컨테이너를 싣고 톈진을 들러 부산으로 향하고 있음을 파악하고 국정원에 통보했을 가능성이 가장 크다. 또는 북한이 톈진항에 미리 가져다 둔 컨테이너가 문제의 배에 실리는 것을 한미 정보 당국이 ‘휴민트(대인정보)’를 통해 확인했을 수도 있다. 한국 정부가 파나마 선적의 배를 회항시킬 수 있었던 것은 유엔 안전보장이사회의 대북 제재 결의 1718호나 1874호에 근거한 것으로 보인다. [[http://news.donga.com/View?gid=8847652&date=20091006| “北 화물세탁 의심”… 거제까지 간 배 부산으로 회항시켜]] //동아일보// (역주: 동아일보의 추측대로 "압수물 정보의 출처가 미국이란 사실"이 밝혀졌다. 압수물은 군용 방호복으로 밝혀졌다. 관련 내용이 자세하게 적시된 [[https://wikileaks.org/plusd/cables/10USUNNEWYORK28_a.html|미 국무부 전문]]은 따로 번역해 공개하기로 한다.)
+</WRAP>
+===== 어두운 세상을 밝히려면 후원자의 소중한 손길이 절실합니다 =====
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}
+===== 바깥 고리 =====
+  - [[http://english.donga.com/srv/k2srv.php3?biid=2009100756908|북컨테이너 행선지는 시리아]] //동아일보(2009년 10월 7일 자)//
+  - [[http://news.donga.com/3/all/20091005/8847192/1|[단독]北 컨테이너 4개 압수]] //동아일보(2009년 10월 5일자)//
+  - [[http://world.kbs.co.kr/korean/news/news_IK_detail.htm?lang=k&id=IK&No=140847&current_page=3|지난달 북한 컨테이너 4개 압수]] //KBS (2009년 10월 5일자)//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL1689.rtf>
+S E C R E T SEOUL 001689 
+ 
+SIPDIS 
+ 
+ISN/CB, ISN/CPI, EAP/K 
+ 
+E.O. 12958: DECL: 10/23/2019 
+TAGS: PARM [Arms Controls and Disarmament], PREL [External Political Relations], ETTC [Trade and Technology Controls], KS [Korea (South)] 
+SUBJECT: UNSCR 1874 DEMARCHE DELIVERED: INFORMATION RELATED 
+TO THE DPRK CARGO SEIZED FROM THE MSC RACHELE 
+ 
+REF: STATE 109115 
+ 
+Classified By: POL M/C Dorothy A. Delahanty, Reasons: 1.4 (b/d) 
+ 
+¶1. (S) On October 23, Pol-Mil Unit Chief Dorothy Delahanty 
+met with Koo Hyun-mo, Director, Disarmament and 
+Nonproliferation Division, Ministry of Foreign Affairs and 
+Trade, to deliver reftel demarche concerning information 
+related to the DPRK cargo seized from the MSC Rachele.  Koo 
+said he had already received the same points from the ROK UN 
+mission.  Koo promised not to reveal the U.S. origin of the 
+information, and to maintain the secrecy of the information 
+by labeling it "Secret" when it is provided to the 1718 
+Committee. 
+ 
+STEPHENS
+</file>

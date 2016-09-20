@@ -1,0 +1,55 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL295  |  2008-02-14 05:54  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>AORC KNNP MNUC PARM IAEA KS IR }}  |
+====== 제 목: 한국 정부는 이란 수출 거부 공유 메커니즘에 대해 만족 ======
+
+국무부는 국제안보·비확산국/지역담당사무소(냅퓨와 몽젤로)
+
+행정명령 12958: 비밀해제: 02/14/2018
+태그: AORC KNNP MNUC PARM IAEA KS IR
+제 목: 한국 정부는 이란 수출 거부 공유 메커니즘에 대해 만족
+
+참조: SECSTATE 11499
+
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2015/02/25 01:35//
+
+(기밀) 2월 5일 대사관 정무 직원은 참조 전문의 외교 전문과 서신을 한국 외교통상부 군축비확산과 과장 직무 대행 김진임에게(혹은 김지님?) 전달하였다. 김 대행은 한국 정부는 이란에 관한 핵 관련 수출 거부 정보를 국제원자력기구 사무국과 계속 공유하는 것이 적절하며 지지한다고 말했다. 그는 하이노넨이 미국 비엔나국제기구대표부에 보낸 서신에 적시된 사의 표시를 적절한 한국 정부 기관에 전달하겠다고 말했다. 2월 13일 후속 논의에서 김 대행은 한국 정부가 이란에 관한 수출 거부 정보를 국제원자력기구에 제출하는 현 수출 거부 정보 공유 메커니즘에 대해 만족한다고 보고하였다. 2007년 11월 제출된 사례에 관한 국제원자력기구의 추가 정보 요청과 관련해 국제원자력기구가 한국 비엔나국제기구대표부를 통해 직접 연락을 취할 것을 김 대행은 권고하였다.
+버시바우
+
+포와로 탐정의 번역 (c) 무단복제나 전제를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 08SEOUL295.rtf>
+C O N F I D E N T I A L SEOUL 000295 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR ISN/RA (NEPHEW AND MONGIELLO) 
+ 
+E.O. 12958: DECL: 02/14/2018 
+TAGS: AORC KNNP MNUC PARM IAEA KS IR
+SUBJECT: ROKG SATISFIED WITH IAEA IRAN EXPORT DENIAL 
+SHARING MECHANISM 
+ 
+REF: SECSTATE 11499 
+ 
+Classified By: POL M/C Joseph Y. Yun, Reasons 1.4 (b,d). 
+ 
+(C) On February 5, Poloff conveyed reftel demarche and letter 
+to Kim Jim-im, Deputy Director, Disarmament and 
+Nonproliferation Division, Republic of Korea Ministry of 
+Foreign Affairs and Trade.  Kim said the ROKG supports and 
+will continue to share nuclear-related export denial 
+information on Iran with the IAEA Secretariat as appropriate. 
+ He said he would convey the appreciation expressed in 
+Heinonen's letter to UNVIE to the appropriate ROKG agencies. 
+In a follow-up discussion on February 13, Kim reported that 
+the ROKG is satisfied with the current export denial 
+information-sharing mechanism, submitting relevant export 
+denial information on Iran directly to the IAEA.  Regarding 
+possible IAEA requests for additional information on cases 
+submitted in November 2007, Kim advised the IAEA contact the 
+ROKG directly through the ROK Mission in Vienna. 
+VERSHBOW
+</file>

@@ -1,0 +1,44 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2158  |  2007-07-18 08:21  |  미분류/공무외 사용금지  |  주한미국대사관  |  {{tag>EAID AORC WFP KS KN }}  |
+====== 제 목: 로마 주재 대사관에서 북한 식량 부족 관련 실무자 회의 참석 ======
+미분류 SEOUL 002158 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+민감함((SENSITIVE))
+ 
+행정명령 12958: 해당없음((N/A)) 
+태그: EAID(([Foreign Economic Assistance])), AORC(([International Organizations and Conferences])), WFP(([World Food Program])), KS(([Korea (South)])), KN(([Korea (North)])) 
+제 목: 로마 주재 대사관에서 북한 식량 부족 관련 실무자 회의 참석
+참조: STATE 99414 
+번역자 제공 참조 가: [[07seoul1557|제 목: 5월 말 대북 쌀 지원이 시작되지만 6자 회담과의 연계는 유지]],
+번역자 제공 참조 나: [[07seoul1755|제 목: 한국 정부, 북한 소재 세계식량계획(이하 WFP) 프로그램 지원을 꺼려]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/09/10 12:40//
+
+(민감하지만 미분류) 6월 18일 통일부와 외교부 대화 상대역들은 한국정부가 세계식량계획 본부에서 있을 7월 20일 회의에 로마 주재 한국정부 대사관 직원을 대표로 보낼 예정이라고 대사관 정무 직원에게 말하였다. 우리 통일부 접선책은 통일부가 세계식량계획 회의에 초대받기는 불과 7월 13일이라며, 업무에 쫓겨 7월 20일 논의에 대표단을 파견할 수 없을 거라고 말하였다.
+스탠튼
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL2158.rtf>
+UNCLAS SEOUL 002158 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: EAID AORC WFP KS KN
+SUBJECT: ROKG EMBASSY TO STAFF MEETING ON DPRK FOOD NEEDS 
+ 
+REF: STATE 99414 
+ 
+(SBU) On July 18, Unification Ministry and Foreign Ministry 
+interlocutors told poloff that the ROKG would be represented 
+at the July 20 meeting at WFP headquarters by ROKG Embassy 
+personnel in Rome.  Our Ministry of Unification (MOU) contact 
+said that the Unification Ministry had only received the 
+invitation to the WFP meeting on July 13 and would not be 
+able to send delegates to the July 20 discussion due to the 
+press of business. 
+STANTON
+</file>

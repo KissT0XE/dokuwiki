@@ -1,0 +1,60 @@
+^  태그  |  {{tag>CRC_Report}}  |
+====== 한미 FTA: 정부 조달과 여타 기술 조항 ======
+
+이 번역문은  [[http://fpc.state.gov/documents/organization/171373.pdf| 2011년 8월 9일 미국 의회조사국 보고서]] 중에 정부 조달, 환경 보호, 투명성, 분쟁 해결의 제도화, 여타 기술 조항을 다룬다.
+
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/08/21 13:50//
+
+===== 정부 조달 =====
+
+정부가 행하는 많은 비즈니스 거래의 상당 부분은 정부가 사용하기 위한 물품과 용역의 구매를 통해 이루어진다. 대다수 정부가 그렇듯이 미합중국도 해당 물품과 용역은 국내산을 사용하도록 요구한다. 그러나 관세 및 무역에 관한 일반협정과 현재 세계무역기구에도 일부 (관련) 조항이 있다. 세계무역기구의 정부조달협정에(이하 정부조달협정) 따라 회원국은 무역을 진흥하는 한 방편으로 정부 조달 사업의 일부를 외국계 기업에 개방하도록 합의하였다. 이 협정은 복수 국가 간 협정으로 세계무역기구 회원국으로 서명한 국가에만 적용한다. 미합중국과 한국은 정부조달협정에 가입한 41개 서명국에 속해 있다. 정부조달협정은 정부가 도급 입찰에 대한 정보를 공표하기 위한 규칙으로 기술규격과 공급자 자격심사, 낙찰 등의 정보를 공표하는 규칙을 확립했다. 또한, 정부조달의 집행은 투명성과 무차별성을 구체적으로 강조하였다.
+
+한미 FTA는 정부조달협정을 정부조달의 기본 바탕으로 재확인했지만, 더 많은 계약을 포함하기 위한 기준을 확대하였다. 정부조달협정은 입찰가가 20만 3천 달러 및 상당의 계약에 적용한다. 한미 FTA의 정부조달협정은 입찰가가 10만 달러 이상의 계약에 적용하므로 양국 정부의 조달 무역의 가치를 증가시킬 수 있다. 정부조달협정은 미국 연방 정부 기관의 도급 입찰, 부속서에 등재된 남한 중앙 및 지방 정부 기관에만 적용한다. 한미 FTA에 따라 한국은 추가로 9개 기관도 포함할 것이다.
+===== 환경 보호 =====
+
+부시 행정부와 의회 지도자 사이 노동과 환경에 관한 2007년 5월 10일 양해와 괘를 같이하며 한미 FTA에 따라 미합중국과 한국은 양국이 당사국인 7개 다자간 환경 협정 목록을 적용하고, 다른 협정이 발효되면 협정 목록에 추가하기로 확약한다. (상술한 "[[investment_ipr_labor|노동권 및 근로여건]]" 부문을 보라.)((일곱 가지 협정은 다음과 같다: 멸종위기에 처한 야생동식물종의 국제거래에 대한 협약; 오존층 파괴 물질에 관한 몬트리올 의정서; 해양 오염에 관한 협약; 전미 열대 참치 협약; 습지에 관한 람사르 협약; 포경의 규제에 대한 국제 협약; 남극 해양 생물자원 보존에 관한 협약.)) 이에 더해 한미 FTA는 양국이 자국 영토에 있는 업체가 무역 경쟁력 우위를 확보하기 위해 환경 기준을 완화하지 못하도록 한다. 또한, 환경 조항 위반은 한미 FTA의 분쟁 해결 메커니즘을 통한 상업 조항과 같은 방식으로 처리될 예정이며, 무역 제재의 대상이 되는 데 미국의 기존 자유무역협정에서는 전례가 없는 부분이다. 앞에서 언급 한 바와 같이 오바마 행정부는 2007년 5월 기존 협정이 본 수정 한미 FTA에 통합되었음을 지적해왔다.((미국 상원 재무위원회 "기록용 재무위원회 질의. 미 무역대표부 대표 인준을 위한 론 커크 님의 인사청문회” 2009년 3월 9일))
+===== 투명성 =====
+
+정보를 공개적으로 통용되도록 하는 것은 국제 무역 규칙으로 명문화된 기본 원칙이며, 미합중국이 그간 체결한 개별 자유 무역 협정에도 명문화되어 있다. 수년 동안 미국 수출 업자와 무역 협상가들은 거의 모든 주요 공산품 부분에서 가장 두드러지는 무역 장벽의 하나로 한국의 무역 및 규제 시스템의 투명성 부족을 꼽고 있다. 한미 FTA에 따라 미합중국과 한국은 관련 규제와 행정적 의사 결정뿐만 아니라 제안된 규제도 공표하기로 확약했다; 다른 쪽 당사국 인사가 발언하고, 제안된 규제와 관련 질문도 할 수 있도록 했다; 행정 절차에 대해 해당 인사에게 통지하고, 그들이 최종 행정 조치가 단행되기에 앞서 프레젠테이션을 하도록 허가했으며, 해당 인사가 행정 결정에 대해 검토와 제고를 요청할 수 있도록 했다.
+===== 제도화된 분쟁 해결 조항 =====
+
+한미 FTA는 외국인 투자의 장과 다른 장에서 특별 분쟁 해결 조항뿐만 아니라 미합중국과 남한이 동 협정에 따라 불거진 분쟁 해결을 위해 몇 가지 옵션을 제공한다. 한미 FTA는 양국의 미국 무역 대표부와 한국의 통상교섭본부 혹은 지명 대리인이 동 협정의 이행을 감독하는 공동위원회를 설립하도록 요구한다. 만일 협의가 분쟁 해결로 가닥을 잡지 못하면 양 당사국 사이 분쟁을 재결하기 위한 패널을 설치하도록 동 협정은 제공한다. 한미 FTA 부속서 22가에는 특히 스냅백(되돌림) 조항 등 자동차 관련 분쟁해결을 위한 조항이 포함되어 있다. ("[[autos|자동차]]" 절의 설명을 보라) 부속서 22-나는 북한의 역외 가공 지역에서 만든 제품의 최종적인 포함 여부에 대한 논의를 제공한다. (자세한 내용은 "개성공단" 절의 설명을 참조하라)
+===== 여타 기술 조항 =====
+
+한미 FTA는 시장 접근의 편의를 돕기 위한 다른 조항들을 포함하고 있다. 무역에 대한 기술 장벽으로는 표면적으로 소비자의 건강과 안전을 보호하고, 여타 무역과는 별도의 합당한 목적이되 수입 차별을 기획하고 구현하는 기준과 규제가 있다. 한미 FTA는 무역에 대한 기술장벽에 관한 세계무역기구 협정에 따른 의무를 양국이 준수하기로 확약한다. 이에 더해 남한과 미합중국은 다른 쪽 당사국 인사가 표준, 기술 규정, 적합성 평가 절차에 참여하도록 해서 투명성을 증진한다.
+
+세관 행정과 무역 촉진과 관련 한미 FTA 상대국의 세관법 규정을 준수하도록 담보하기 위한 상호 협력을 증진한다. 예를 들어 양국이 특급 배송을 촉진하기 위한 절차와 규정을 채택하도록 요구한다.
+
+원산지 규정은 어떤 상품이 한미 FTA 지역에서 유래했으며, 그에 따라 우대를 받을 자격이 있는지 정의한다. (섬유와 의류에는 별도의 원산지 규정이 있다.) 한미 FTA는 양국 또는 지방 정부 영토에서 주로 생산된 혹은 획득한 상품을 요구한다. 한미 FTA에서는 해당 지역에서 유래했다고 간주하기 위해 지역 가치 기준선을 설정하고 지역 가치를 결정하기 위한 공식을 제공한다.
+
+국가 경쟁 법률과 규정은 한 기업이 경제의 한 부문을 지배함으로 말미암아 시장 진입을 억제하고 경쟁을 차단하는 일이 없도록 담보하기 위함이다. 무엇보다도 한미 FTA는 미합중국과 한국이 행정 조치의 대상이 되는 사람에게 청문회에 대해 통보하고, 그들이 자신을 변호할 기회를 제공하도록 요구한다. 양국이 정보와 협의를 통해 경쟁법을 적용하는 일에 협조한다. 이에 더해 지정 독점 및 국영 기업은 한미 FTA의 기준을 준수하며, 상업적 고려에 따라 기업 활동을 해야만 한다.
+
+한미 FTA는 전자 상거래(e-커머스)를 통한 무역을 촉진하는 조항도 포함되어 있다. 해당 조항은 디지털 제품을 겨냥한 차별을 금지하며, 해당 제품에 대한 관세 부과를 금지한다. 또한, 전자 인증 및 전자 서명의 인식이 요구되며 소비자의 인터넷 접근성을 증진한다.
+
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+====== 원본 ======
+===== Government Procurement =====
+
+A great deal of business is conducted by governments through the purchase of goods and services for their own use. Most governments, including the United States have laws (The Buy American Act) which require such goods and services to be of domestic origin. However, the General Agreement on Tariffs and Trade (GATT) and now the WTO have some provisions, the WTO Government Procurement Agreement (GPA), under which the countries agree to open up some of their government procurement business, to foreign companies as a way to promote trade. This agreement is plurilateral, that is it only applies to those WTO members that have signed it. The United States and South Korea are among the 41 signatories to the GPA. The GPA established rules for governments to publish information about contract tenders, including technical specification, about qualification for suppliers, the awarding of contracts, with a specific emphasis on nondiscrimination and transparency in the conduct of government procurement.
+
+The KORUS FTA reaffirms the GPA as a baseline for government procurement but would expand the criteria to include more contracts. The GPA applies to contracts valued at around $203,000 and above. The KORUS FTA would apply agreement to contracts valued at $100,000 and above, potentially increasing the value of bilateral government-procurement trade. The GPA applies only to contracts tendered by 79 U.S. federal government agencies and by 42 South Korean central and subcentral agencies listed in the annex. Under the KORUS FTA, South Korea would add nine more agencies to be covered.
+===== Environment Protection =====
+
+In keeping with the May 10, 2007 understanding on labor and the environment between the Bush Administration and congressional leaders, under the KORUS FTA, the United States and South Korea would commit to enforce a list of seven multilateral environmental agreements to which both are parties and to add to the list when other agreements enter into force. (See the “Labor Rights and Conditions” section above.)((The seven agreements are: the Convention on International Trade in Endangered Species; the Montreal Protocol on Ozone Depleting Substances; the Convention on Marine Pollution; the Inter-American Tropical Tuna Convention; the Ramsar Convention on the Wetlands; the International Convention for the Regulation of Whaling; and the Convention on Conservation of Antarctic Marine Living Resources.)) In addition, the FTA would prevent the two countries from easing environmental standards in order to allow firms on their territory from gaining a competitive trade advantage. Furthermore, violations of the environmental provisions are to be handled in the same manner as commercial provisions through the dispute settlement mechanism of the KORUS FTA and subject to trade sanctions, unprecedented for U.S. FTAs. As mentioned earlier, the Obama Administration has indicated that the May 2007 agreement is incorporated into the KORUS FTA.((United States Senate Committee on Finance, “Finance Committee Questions For The Record. Hearing on Confirmation of Mr. Ronald Kirk to be United States Trade Representative,” March 9, 2009.))
+===== Transparency =====
+
+Making information publically available is a fundamental principle imbedded in international trade rules and in each of the FTAs that the United States has entered into. For years U.S. exporters and trade negotiators identified the lack of transparency of South Korea’s trading and regulatory systems as one of the most significant barriers to trade with South Korea, in almost every major product sector. Under KORUS FTA, the United States and South Korea would commit to publish relevant regulations and administrative decisions as well as proposed regulations; to allow persons from the other party to make comments and to ask questions regarding proposed regulations; to notify such persons of administrative proceedings and to allow them make presentations before final administrative action is taken; and to allow such persons to request review and appeal of administrative decisions.
+===== Institutional Provisions and Dispute Settlement =====
+
+The KORUS FTA would provide several options for the United States and South Korea to resolve disputes arising under the agreement, in addition to the special dispute settlement provisions under the foreign investment chapter and other chapters. KORUS FTA would require the two countries to establish a joint committee chaired by the USTR and the Minister of Foreign Trade or their designees to supervise the implementation of the agreement. The trade agreement would provide for the establishment of a panel to adjudicate disputes between the two countries under the agreement, if consultations do not lead to a resolution of the dispute. Annex 22A of the KORUS FTA contains provisions for the settlement of disputes regarding motor vehicles, specifically the snap-back provision. (See discussion in section on “Autos.”) Annex 22-B provides for eventual discussion of the inclusion of products made in outward processing zones in North Korea. (For more information, see discussion in “Kaesong Industrial Complex” section.)
+===== Other Technical Provisions =====
+
+The KORUS FTA includes other sets of provisions intended to facilitate market access. Technical barriers to trade are standards and regulations that are intended ostensibly to protect the health and safety of consumers and for other legitimate non-trade purposes but may through design and implementation discriminate against imports. The KORUS FTA would commit both countries to uphold their obligations under the WTO Agreement on Technical Barriers to Trade (TBT). In addition, South Korea and the United States would promote transparency, by allowing persons from the other party to participate in the development of standards, technical regulations, and conformity assessment procedures.
+
+Regarding customs administration and trade facilitation, the KORUS FTA would promote joint cooperation to ensure compliance with each other’s customs laws and regulations. For example, it would require the two countries to adopt procedures and regulations to facilitate express delivery shipments.
+
+Rules of origin define what are goods that originate in the FTA region and therefore are eligible for preferential treatment. (Textiles and apparel have separate rules of origin.) The KORUS FTA would require that goods must be wholly obtained or produced in the territory of both countries or country. The FTA would set a regional value threshold to be met to be considered originating in the FTA territory and provides formulas for determining the regional values.
+
+National competition laws and regulations are intended to ensure that one firm does not so dominate a sector of the economy as to inhibit market entry and stifle competition. Among other things, the KORUS FTA would require that the United States and South Korea inform persons, who are subject to administrative actions, of hearings and provide them the opportunity to make their case. The two countries would cooperate in enforcing competition laws through the exchange of information and consultation. In addition, designated monopolies and state enterprises would have to operate in conformance with the agreement and in accordance with commercial considerations.
+
+The KORUS FTA includes provisions to facilitate trade via electronic commerce (e-commerce). They would prohibit discrimination against digital products and imposing customs duties on these products. They would also require the recognition of electronic authentication and electronic signatures and would promote consumer access to the Internet.

@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 분류 ^ 상태 ^
+| 1501 | [[https://www.wikileaks.org/plusd/cables/09SEOUL846_a.html| 09SEOUL846 ]]| [[/09SEOUL846]] | 한국 경제, 예상보다 빠른 회복 징후 보여 | 2009-05-28 | 대외비 | |
+| 1502 | [[https://www.wikileaks.org/plusd/cables/09SEOUL847_a.html| 09SEOUL847 ]]| [[/09SEOUL847]] | 한국 경제, 예상보다 빠른 회복 징후 보여 | 2009-05-28 | 대외비 | |
+| 1503 | [[https://www.wikileaks.org/plusd/cables/09SEOUL853_a.html| 09SEOUL853 ]]| [[/09SEOUL853]] | 노무현 대통령 서거에 대한 분노, 시위로 이어질 듯 | 2009-05-29 | 기밀 | |
+| 1504 | [[https://www.wikileaks.org/plusd/cables/09SEOUL854_a.html| 09SEOUL854 ]]| [[/09SEOUL854]] | 언론 브리핑—2009년 5월 29일 | 2009-05-29 | 미분류 | |
+| 1505 | [[https://www.wikileaks.org/plusd/cables/09SEOUL855_a.html| 09SEOUL855 ]]| [[/09SEOUL855]] | 언론 반응 | 2009-05-29 | 미분류 | 완료 |
+| 1506 | [[https://www.wikileaks.org/plusd/cables/09SEOUL865_a.html| 09SEOUL865 ]]| [[/09SEOUL865]] | 언론 브리핑—2009년 6월 1일 | 2009-06-01 | 미분류 | |
+| 1507 | [[https://www.wikileaks.org/plusd/cables/09SEOUL872_a.html| 09SEOUL872 ]]| [[/09SEOUL872]] | 언론 브리핑—2009년 6월 2일 | 2009-06-02 | 미분류 | 완료 |
+| 1508 | [[https://www.wikileaks.org/plusd/cables/09SEOUL877_a.html| 09SEOUL877 ]]| [[/09SEOUL877]] | 언론 브리핑—2009년 6월 3일 | 2009-06-03 | 미분류 | |
+| 1509 | [[https://www.wikileaks.org/plusd/cables/09SEOUL878_a.html| 09SEOUL878 ]]| [[/09SEOUL878]] | 언론 반응 | 2009-06-03 | 미분류 | 완료 |
+| 1510 | [[https://www.wikileaks.org/plusd/cables/09SEOUL881_a.html| 09SEOUL881 ]]| [[/09SEOUL881]] | 언론 브리핑—2009년 6월 4일 | 2009-06-04 | 미분류 | |
+| 1511 | [[https://www.wikileaks.org/plusd/cables/09SEOUL893_a.html| 09SEOUL893 ]]| [[/09SEOUL893]] | 언론 브리핑—2009년 6월 5일 | 2009-06-05 | 미분류 | |
+| 1512 | [[https://www.wikileaks.org/plusd/cables/09SEOUL894_a.html| 09SEOUL894 ]]| [[/09SEOUL894]] | 노무현 대통령 자살의 정치적 후폭풍 | 2009-06-05 | 기밀 | 완료 |
+| 1513 | [[https://www.wikileaks.org/plusd/cables/09SEOUL895_a.html| 09SEOUL895 ]]| [[/09SEOUL895]] | 노무현 대통령 서거로 본, 저항 수단으로서의 자살 | 2009-06-05 | 기밀 | |
+| 1514 | [[https://www.wikileaks.org/plusd/cables/09SEOUL905_a.html| 09SEOUL905 ]]| [[/09SEOUL905]] | 언론 브리핑—2009년 6월 8일 | 2009-06-08 | 미분류 | |
+| 1515 | [[https://www.wikileaks.org/plusd/cables/09SEOUL906_a.html| 09SEOUL906 ]]| [[/09SEOUL906]] | 언론 반응 | 2009-06-08 | 미분류 | 완료 |
+| 1516 | [[https://www.wikileaks.org/plusd/cables/09SEOUL907_a.html| 09SEOUL907 ]]| [[/09SEOUL907]] | 언론 브리핑—2009년 6월 9일 | 2009-06-09 | 미분류 | 완료 |
+| 1517 | [[https://www.wikileaks.org/plusd/cables/09SEOUL910_a.html| 09SEOUL910 ]]| [[/09SEOUL910]] | 한미일 정책기획협의회 | 2009-06-10 | 기밀 | |
+| 1518 | [[https://www.wikileaks.org/plusd/cables/09SEOUL923_a.html| 09SEOUL923 ]]| [[/09SEOUL923]] | 언론 반응 | 2009-06-11 | 미분류 | 완료 |
+| 1519 | [[https://www.wikileaks.org/plusd/cables/09SEOUL924_a.html| 09SEOUL924 ]]| [[/09SEOUL924]] | 언론 브리핑—2009년 6월 11일 | 2009-06-11 | 미분류 | |
+| 1520 | [[https://www.wikileaks.org/plusd/cables/09SEOUL930_a.html| 09SEOUL930 ]]| [[/09SEOUL930]] | 언론 브리핑—2009년 6월 12일 | 2009-06-12 | 미분류 | |
+| 1521 | [[https://www.wikileaks.org/plusd/cables/09SEOUL931_a.html| 09SEOUL931 ]]| [[/09SEOUL931]] | 언론 반응 | 2009-06-12 | 미분류 | 완료 |
+| 1522 | [[https://www.wikileaks.org/plusd/cables/09SEOUL937_a.html| 09SEOUL937 ]]| [[/09SEOUL937]] | 언론 반응 | 2009-06-15 | 미분류 | 완료 |
+| 1523 | [[https://www.wikileaks.org/plusd/cables/09SEOUL939_a.html| 09SEOUL939 ]]| [[/09SEOUL939]] | 한국, 해적 문제에 대한 지역적 접근 옹호 | 2009-06-15 | 기밀 | |
+| 1524 | [[https://www.wikileaks.org/plusd/cables/09SEOUL941_a.html| 09SEOUL941 ]]| [[/09SEOUL941]] | 언론 브리핑—2009년 6월 15일 | 2009-06-15 | 미분류 | |
+| 1525 | [[https://www.wikileaks.org/plusd/cables/09SEOUL951_a.html| 09SEOUL951 ]]| [[/09SEOUL951]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 5월 | 2009-06-16 | 미분류 | |
+| 1526 | [[https://www.wikileaks.org/plusd/cables/09SEOUL952_a.html| 09SEOUL952 ]]| [[/09SEOUL952]] | 언론 브리핑—2009년 6월 16일 | 2009-06-16 | 미분류 | |
+| 1527 | [[https://www.wikileaks.org/plusd/cables/09SEOUL953_a.html| 09SEOUL953 ]]| [[/09SEOUL953]] | 언론 반응 | 2009-06-16 | 미분류 | 완료 |
+| 1528 | [[https://www.wikileaks.org/plusd/cables/09SEOUL954_a.html| 09SEOUL954 ]]| [[/09SEOUL954]] | 한–이란 통행 양해각서(MOU) 가서명 단계: 한국 정부, 미국 정부의 의견 듣고 싶어해 | 2009-06-16 | 비밀/외국전파금지 | |
+| 1529 | [[https://www.wikileaks.org/plusd/cables/09SEOUL961_a.html| 09SEOUL961 ]]| [[/09SEOUL961]] | 야당, 노무현 전 대통령 자살을 기회로 활로 모색 | 2009-06-17 | 기밀 | |
+| 1530 | [[https://www.wikileaks.org/plusd/cables/09SEOUL963_a.html| 09SEOUL963 ]]| [[/09SEOUL963]] | 한국, 소말리아 연안 해적 행위에 관한 고위급 회의 주최 | 2009-06-17 | 미분류 | |
+| 1531 | [[https://www.wikileaks.org/plusd/cables/09SEOUL964_a.html| 09SEOUL964 ]]| [[/09SEOUL964]] | 언론 반응 | 2009-06-17 | 미분류 | 완료 |
+| 1532 | [[https://www.wikileaks.org/plusd/cables/09SEOUL965_a.html| 09SEOUL965 ]]| [[/09SEOUL965]] | 언론 브리핑—2009년 6월 17일 | 2009-06-17 | 미분류 | |
+| 1533 | [[https://www.wikileaks.org/plusd/cables/09SEOUL973_a.html| 09SEOUL973 ]]| [[/09SEOUL973]] | 언론 브리핑—2009년 6월 18일 | 2009-06-18 | 미분류 | |
+| 1534 | [[https://www.wikileaks.org/plusd/cables/09SEOUL974_a.html| 09SEOUL974 ]]| [[/09SEOUL974]] | 언론 반응 | 2009-06-18 | 미분류 | 완료 |
+| 1535 | [[https://www.wikileaks.org/plusd/cables/09SEOUL975_a.html| 09SEOUL975 ]]| [[/09SEOUL975]] | 2009년 5월 14~16일, 한국에서 미국민 한반도 대피 훈련 및 관련 행사 실시 | 2009-06-18 | 미분류 | |
+| 1536 | [[https://www.wikileaks.org/plusd/cables/09SEOUL976_a.html| 09SEOUL976 ]]| [[/09SEOUL976]] | 통일부 조직 개편: 군살빼기와 심술부리기 | 2009-06-18 | 기밀 | 완료* |
+| 1537 | [[https://www.wikileaks.org/plusd/cables/09SEOUL982_a.html| 09SEOUL982 ]]| [[/09SEOUL982]] | 언론 브리핑—2009년 6월 19일 | 2009-06-19 | 미분류 | |
+| 1538 | [[https://www.wikileaks.org/plusd/cables/09SEOUL992_a.html| 09SEOUL992 ]]| [[/09SEOUL992]] | 언론 브리핑—2009년 6월 22일 | 2009-06-22 | 미분류 | |
+| 1539 | [[https://www.wikileaks.org/plusd/cables/09SEOUL993_a.html| 09SEOUL993 ]]| [[/09SEOUL993]] | 한국, 도쿄 원조국 회의에서 파키스탄 지원 약속 | 2009-06-22 | 미분류 | |
+| 1540 | [[https://www.wikileaks.org/plusd/cables/09SEOUL997_a.html| 09SEOUL997 ]]| [[/09SEOUL997]] | 언론 브리핑—2009년 6월 23일 | 2009-06-23 | 미분류 | |
+| 1541 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1000_a.html| 09SEOUL1000 ]]| [[/09SEOUL1000]] | 아세안에 유엔 안전보장이사회 결의안 1874호 이행 촉구: 한국 반응 | 2009-06-23 | 기밀 | |
+| 1542 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1001_a.html| 09SEOUL1001 ]]| [[/09SEOUL1001]] | 한국 정부, 대량살상무기 확산방지구상(PSI) 운영 전문가들의 7월 방한 환영 | 2009-06-23 | 대외비 | 완료 |
+| 1543 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1005_a.html| 09SEOUL1005 ]]| [[/09SEOUL1005]] | 북한, 개성공업지구 계속 유지하려는 의지 보여 | 2009-06-24 | 기밀 | 완료 |
+| 1544 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1006_a.html| 09SEOUL1006 ]]| [[/09SEOUL1006]] | 언론 브리핑—2009년 6월 24일 | 2009-06-24 | 미분류 | |
+| 1545 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1010_a.html| 09SEOUL1010 ]]| [[/09SEOUL1010]] | 언론 반응 | 2009-06-24 | 미분류 | |
+| 1546 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1013_a.html| 09SEOUL1013 ]]| [[/09SEOUL1013]] | 언론 브리핑—2009년 6월 25일 | 2009-06-25 | 미분류 | |
+| 1547 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1020_a.html| 09SEOUL1020 ]]| [[/09SEOUL1020]] | 언론 브리핑—2009년 6월 26일 | 2009-06-26 | 미분류 | |
+| 1548 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1022_a.html| 09SEOUL1022 ]]| [[/09SEOUL1022]] | 언론 브리핑—2009년 6월 29일 | 2009-06-29 | 미분류 | |
+| 1549 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1024_a.html| 09SEOUL1024 ]]| [[/09SEOUL1024]] | 언론 브리핑—2009년 6월 30일 | 2009-06-30 | 미분류 | |
+| 1550 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1029_a.html| 09SEOUL1029 ]]| [[/09SEOUL1029]] | 언론 브리핑—2009년 7월 1일 | 2009-07-01 | 미분류 | |
+| 1551 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1049_a.html| 09SEOUL1049 ]]| [[/09SEOUL1049]] | 언론 브리핑—2009년 7월 2일 | 2009-07-02 | 미분류 | |
+| 1552 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1050_a.html| 09SEOUL1050 ]]| [[/09SEOUL1050]] | 비정규직법 개정 논란으로 국회 파행 | 2009-07-02 | 기밀 | |
+| 1553 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1057_a.html| 09SEOUL1057 ]]| [[/09SEOUL1057]] | 언론 반응 | 2009-07-06 | 미분류 | |
+| 1554 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1058_a.html| 09SEOUL1058 ]]| [[/09SEOUL1058]] | 언론 브리핑—2009년 7월 6일 | 2009-07-06 | 미분류 | |
+| 1555 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1059_a.html| 09SEOUL1059 ]]| [[/09SEOUL1059]] | 한국계 미국 학자 박한식, ‘자문’ 제공 위해 평양행 | 2009-07-06 | 기밀 | 완료 |
+| 1556 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1066_a.html| 09SEOUL1066 ]]| [[/09SEOUL1066]] | 언론 브리핑—2009년 7월 7일 | 2009-07-07 | 미분류 | |
+| 1557 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1067_a.html| 09SEOUL1067 ]]| [[/09SEOUL1067]] | 언론 반응 | 2009-07-07 | 미분류 | |
+| 1558 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1069_a.html| 09SEOUL1069 ]]| [[/09SEOUL1069]] | 국제전기통신위성기구(ITSO) 외교문서에 대한 한국 정부 반응 | 2009-07-07 | 대외비 | |
+| 1559 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1070_a.html| 09SEOUL1070 ]]| [[/09SEOUL1070]] | 이명박 정부 국방개혁 2020 수정 | 2009-07-07 | 기밀 | 완료 |
+| 1560 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1073_a.html| 09SEOUL1073 ]]| [[/09SEOUL1073]] | 북한 경제 브리핑—2009년 6월 | 2009-07-08 | 대외비 | |
+| 1561 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1080_a.html| 09SEOUL1080 ]]| [[/09SEOUL1080]] | 개성 공단 문제 난관에 봉착: 남북의 교착 상태 여전 | 2009-07-08 | 기밀 | 완료 |
+| 1562 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1081_a.html| 09SEOUL1081 ]]| [[/09SEOUL1081]] | 언론 브리핑—2009년 7월 8일 | 2009-07-08 | 미분류 | |
+| 1563 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1092_a.html| 09SEOUL1092 ]]| [[/09SEOUL1092]] | 한국 경제 브리핑—2009년 6월 | 2009-07-10 | 대외비 | |
+| 1564 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1097_a.html| 09SEOUL1097 ]]| [[/09SEOUL1097]] | 언론 브리핑—2009년 7월 10일 | 2009-07-10 | 미분류 | |
+| 1565 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1098_a.html| 09SEOUL1098 ]]| [[/09SEOUL1098]] | 사이버 공격: 국가정보원이 북한 소행으로 단정한 것은 성급한 처사 | 2009-07-10 | 기밀 | 완료 |
+| 1566 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1101_a.html| 09SEOUL1101 ]]| [[/09SEOUL1101]] | 한국, 해성-2 순항미사일 시험 비행 통보 | 2009-07-13 | 비밀 | 완료 |
+| 1567 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1103_a.html| 09SEOUL1103 ]]| [[/09SEOUL1103]] | 언론 브리핑—2009년 7월 13일 | 2009-07-13 | 미분류 | |
+| 1568 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1111_a.html| 09SEOUL1111 ]]| [[/09SEOUL1111]] | 의료 지원을 활용하여 남북 교착 상태 타개 시도 | 2009-07-14 | 대외비 | |
+| 1569 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1112_a.html| 09SEOUL1112 ]]| [[/09SEOUL1112]] | 언론 브리핑—2009년 7월 14일 | 2009-07-14 | 미분류 | |
+| 1570 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1116_a.html| 09SEOUL1116 ]]| [[/09SEOUL1116]] | 언론 브리핑—2009년 7월 15일 | 2009-07-15 | 미분류 | |
+| 1571 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1119_a.html| 09SEOUL1119 ]]| [[/09SEOUL1119]] | 한국은행, 2008년 북한 국내총생산(GDP) 성장률 3.7퍼센트로 추산 | 2009-07-15 | 대외비 | |
+| 1572 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1122_a.html| 09SEOUL1122 ]]| [[/09SEOUL1122]] | 조지아 대학 박한식 교수, 북한 방문 설명 | 2009-07-15 | 기밀 | 완료 |
+| 1573 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1125_a.html| 09SEOUL1125 ]]| [[/09SEOUL1125]] | 언론 브리핑—2009년 7월 16일 | 2009-07-16 | 미분류 | |
+| 1574 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1126_a.html| 09SEOUL1126 ]]| [[/09SEOUL1126]] | 언론 브리핑—2009년 7월 16일 | 2009-07-16 | 미분류 | |
+| 1575 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1127_a.html| 09SEOUL1127 ]]| [[/09SEOUL1127]] | 한국 정부, 비정부 기구의 유엔 참여를 지지한다고 응답 | 2009-07-16 | 미분류 | |
+| 1576 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1134_a.html| 09SEOUL1134 ]]| [[/09SEOUL1134]] | 언론 브리핑—2009년 7월 17일 | 2009-07-17 | 미분류 | |
+| 1577 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1142_a.html| 09SEOUL1142 ]]| [[/09SEOUL1142]] | 언론 브리핑—2009년 7월 20일 | 2009-07-20 | 미분류 | |
+| 1578 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1144_a.html| 09SEOUL1144 ]]| [[/09SEOUL1144]] | 에티오피아, 소말리아, 케냐 원조에 대한 한국 반응 | 2009-07-20 | 대외비 | |
+| 1579 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1148_a.html| 09SEOUL1148 ]]| [[/09SEOUL1148]] | 언론 브리핑—2009년 7월 21일 | 2009-07-21 | 미분류 | |
+| 1580 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1149_a.html| 09SEOUL1149 ]]| [[/09SEOUL1149]] | 언론 반응 | 2009-07-21 | 미분류 | |
+| 1581 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1152_a.html| 09SEOUL1152 ]]| [[/09SEOUL1152]] | 언론 브리핑—2009년 7월 22일 | 2009-07-22 | 미분류 | |
+| 1582 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1154_a.html| 09SEOUL1154 ]]| [[/09SEOUL1154]] | 한나라당, 야당의 격렬한 저항에도 미디어개혁법 통과시켜 | 2009-07-22 | 기밀 | |
+| 1583 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1162_a.html| 09SEOUL1162 ]]| [[/09SEOUL1162]] | 한국형 우주발사체(KSLV)에 대한 추가 정보 요청 전달 | 2009-07-23 | 기밀 | |
+| 1584 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1164_a.html| 09SEOUL1164 ]]| [[/09SEOUL1164]] | 언론 브리핑—2009년 7월 23일 | 2009-07-23 | 미분류 | |
+| 1585 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1167_a.html| 09SEOUL1167 ]]| [[/09SEOUL1167]] | 언론 브리핑—2009년 7월 24일 | 2009-07-24 | 미분류 | |
+| 1586 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1169_a.html| 09SEOUL1169 ]]| [[/09SEOUL1169]] | 커트 캠벨 차관보, 김성환 외교안보수석 면담 | 2009-07-24 | 비밀 | 완료 |
+| 1587 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1170_a.html| 09SEOUL1170 ]]| [[/09SEOUL1170]] | 커트 캠벨 차관보, 탈북자 단체 대표들과 회동 | 2009-07-24 | 기밀 | 완료 |
+| 1588 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1171_a.html| 09SEOUL1171 ]]| [[/09SEOUL1171]] | 커트 캠벨 차관보, 현인택 통일부 장관 면담 | 2009-07-24 | 기밀 | 완료 |
+| 1589 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1174_a.html| 09SEOUL1174 ]]| [[/09SEOUL1174]] | 언론 반응 | 2009-07-27 | 미분류 | |
+| 1590 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1176_a.html| 09SEOUL1176 ]]| [[/09SEOUL1176]] | 언론 브리핑—2009년 7월 27일 | 2009-07-27 | 미분류 | |
+| 1591 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1177_a.html| 09SEOUL1177 ]]| [[/09SEOUL1177]] | 한국 경제 브리핑—2009년 7월 | 2009-07-28 | 대외비 | |
+| 1592 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1182_a.html| 09SEOUL1182 ]]| [[/09SEOUL1182]] | 언론 브리핑—2009년 7월 28일 | 2009-07-28 | 미분류 | |
+| 1593 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1186_a.html| 09SEOUL1186 ]]| [[/09SEOUL1186]] | 언론 브리핑—2009년 7월 29일 | 2009-07-29 | 미분류 | |
+| 1594 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1192_a.html| 09SEOUL1192 ]]| [[/09SEOUL1192]] | 언론 브리핑—2009년 7월 29일 | 2009-07-29 | 미분류 | |
+| 1595 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1194_a.html| 09SEOUL1194 ]]| [[/09SEOUL1194]] | 북한 경제 브리핑—2009년 7월 | 2009-07-30 | 대외비 | |
+| 1596 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1195_a.html| 09SEOUL1195 ]]| [[/09SEOUL1195]] | 한국형 우주발사체(KSLV) 추가 정보 수신 | 2009-07-30 | 기밀 | |
+| 1597 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1200_a.html| 09SEOUL1200 ]]| [[/09SEOUL1200]] | 언론 브리핑—2009년 7월 30일 | 2009-07-30 | 미분류 | |
+| 1598 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1203_a.html| 09SEOUL1203 ]]| [[/09SEOUL1203]] | 한국 어선, 북한 영해에서 나포 | 2009-07-30 | 기밀 | 완료 |
+| 1599 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1210_a.html| 09SEOUL1210 ]]| [[/09SEOUL1210]] | 언론 브리핑—2009년 7월 31일 | 2009-07-31 | 미분류 | |
+| 1600 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1218_a.html| 09SEOUL1218 ]]| [[/09SEOUL1218]] | 언론 브리핑—2009년 8월 3일 | 2009-08-03 | 미분류 | |
+</sortable>

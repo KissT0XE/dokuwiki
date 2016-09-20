@@ -1,0 +1,793 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL365  |  2009-03-11 05:08  |  비밀/외국전파금지  |  주한 미국 대사관  |  {{tag>ASEC PTER KS }}  |
+====== 제 목: 보안환경개요설문(SEPQ)—2009년 봄 ======
+비 밀 SEOUL 000365 
+외국전파금지((NOFORN )) 
+국무부 보안국/국제프로그램/동아시아태평양 그리고 보안국/위협조사분석/정보 및 위협조사실((DEPARTMENT FOR DS/IP/EAP AND DS/TIA/ITA, Directorate of Threat Investigations and Analysis (DS/TIA): (a) Office of Intelligence and Threat Analysis (DS/TIA/ITA);))
+
+행정명령 12958: 비밀해제: 03/11/2019 
+태그: ASEC(([Security])), PTER(([Terrorists and Terrorism])), KS(([Korea (South)] ))
+제 목: 보안환경개요설문(SEPQ)—2009년 봄
+참조: [[09state13023|가. STATE 13023]]  나. 08 STATE 33533 
+분류자: 국무부 보안과 그레고리 레빈((RSO Gregary J. Levin)),   근거 1.4(c) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/12 07:41//최종 수정일: --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/11/18 15:52//
+
+1. (민감하지만 미분류) 아래는 [[09state13023|참조 전문]]에 따른 맞춤형 답변이며, 서울 소재 국무부 비상행동위원회에 의해 승인되었다:
+===== 정치 폭력 =====
+==== I. 시위 ====
+
+가. (기밀) 주재국 내부에 소수 민족이나 종교단체가 두드러진 반미 시위를 실행할 여지가 농후한가?설명 바람.
+한국에는 특정한 소수 민족이나 종교단체가 두드러진 반미 시위를 행동으로 옮긴 적이 없지만, 특정 기독교 단체와 불교 단체가 미국의 대북 정책과 관련된 반미 시위에 참여한 바 있다. 주한미국대사관은 중동과 여타 지역에서 앞으로의 추이를 감안할 때 한국 내부 이슬람 사회가 두드러진 반미 시위에 나설 가능성을 배제할 수는 없다. 경찰은 남한에 중동과 북미 국가 출신이 14만 명이 있고, 파키스탄인은 8,000명이 있다고 조언하였다. 그들 대부분은 공장 노동자이다. 지역 경찰과 정보기관은 그들의 동선이나 활동을 면밀히 감시하고 있다. 서울 인근 이태원에 위치한 서울 중앙 성원은 용산 미군 기지와 대사관 주택단지에서 도보로 이동할 수 있는 거리에 있다.
+
+i. (민감하지만 미분류) 지난 12개월 이내에 주재 국가에서 반미 시위가 있었나?만일 그렇다면, 설명하기 바람.
+그렇다. 지난 12개월에 걸쳐 서울에서 180여 차례의 반미 시위가 있었다. (주석: 한국경찰청은 촛불 집회를 시위가 아닌 종교 행사로 분류한다. 만일 대사관이 반미 촛불 집회를 포함한다면, 전체 시위 건은 260건이 될 것이다.)비록 평균 30~50명 정도의 소규모라는 것이 특징이지만, 시위의 양상은 6자 회담에 국한된 게 아니라, 주한미군, 이라크 전쟁, 한미 FTA 등 광범위한 쟁점을 망라한다. 2008년 봄과 여름철에는 미국산 쇠고기 수입에 반대하는 대규모 시위가 있었다. 그러나 쇠고기 문제는 기본적으로 사라져버렸고, 대사관은 미국산 쇠고기 반대 시위가 재계 되리라 예상하지 않는다.
+
+ii. (민감하지만 미분류) 미국 외교관 시설 근처나 앞에서 반미 시위가 벌어진 적이 있는가?만일 그렇다면, 설명하기 바람.
+
+그렇다. 대략 150차례의 시위가 주한미국대사관이 있는 도시 구획 내에서 벌어진 적이 있다.
+
+iii. (민감하지만 미분류) 평균적인 반미 시위의 규모는?
+
+30~50명 참석이 평균적인 시위의 규모이다. 그러나 반미 쇠고기 시위 중에는 시위 인원이 때때로 수천 수만에 달했다.
+
+iv. (민감하지만 미분류) 반미 시위는 미국 주도의 외교정책이나 군사 행동으로 촉발되는가? 아니면 국내 문제로?
+
+대부분의 반미 시위의 계기는 보통 주한 미군 주둔과 관련이 있다. 미군 차량이 연루된 2002년 6월 여중생 2명의 비극적 사망을 비롯해 2007년 1월 미군 복무자가 저지른 67세 여성에 상대로 한 잔인한 강간 등의 사건이 반미 시위를 촉발하였다. 미국산 쇠고기 수입도 역시 2008년 대규모 반미 시위의 도화선이 되었다.
+ 
+나. (민감하지만 미분류) 시위의 양상은 대개 평화로운 시위인가? 아니면 폭력 시위인가?
+
+일부 반미 쇠고기 시위는 지역 경찰과 격렬하게 충돌하기도 했다. 야간 시위가 절정을 이룰 당시에는 15만 명에 육박하는 참가자들이 밤새도록 시위를 개최해 다음 날 아침까지 열리기도 했다. 대다수 격렬한 충돌은 자정이 넘어서 발생했으며 정치적으로 적극적이고 공세적인 단체에 의해 유발되는 것으로 판단된다. 시위 참가자들은 도심 대로를 뒤덮었고 한때 교통이 봉쇄되기도 했다. 경찰은 폭동진압 경찰을 추가로 배치하였고, 보통 시위자보다 수적으로 3:1로 우세했으며, 시위자의 기를 꺾기 위해 물대포를 사용하였다. 경찰은 서울 도심의 통행로를 통한 시위대의 행진을 막기 위해 임시 바리케이드도 세웠다. 시위대는 그에 따른 대응으로 바리케이드로 자리매김하고 있는 경찰 버스를 파손하고 외관을 훼손하였다. 이러한 대치 와중에 경찰과 시위대 모두 부상자가 발생했다는 여러 보도가 있었다. 경찰은 시위 주최 측과 시위 선동자를 체포했다고 보고하기도 했다.
+
+i. (민감하지만 미분류) 폭력 시위로 미국 정부의 재산 피해나 미국 정부 직원이 상해를 입었는가?만일 그렇다면, 설명하기 바람.
+
+근년에 그런 일이 없다.
+
+ii. (민감하지만 미분류) 폭력 시위대가 대사관의 보안 경계선을 뚫은 적이 있는가?만일 그렇다면, 설명하기 바람.
+최근에 그런 일이 없다.
+
+1. 2002년 10월 급진적인 학생 단체 소속 10명이 인간 사다리를 만들어 대사관 공관 서쪽 외곽 담을 신속히 타고 올라간 적이 있다. 한 학생은 대사관 입구 시멘트 차양 꼭대기에 올라 미국 국기를 손수 만든 횃불로 태우려 했지만 실패한 적이 있다.
+
+2. 2003년 3월 대략 30명으로 구성된 급진적인 학생 중에 4명이 대사관 공관 전면을 꼭대기까지 타고 올라가는 데 성공한 바 있다. 시위대 중 2명은 공관에 접근하는 데 성공하였고, 대사관 지역 경비대에 의해 진압되었다.
+
+3. 2003년 8월 4일 급진적인 학생 13명이 주한미군 로드리게스 사격 훈련장 근처에 잠입하여, 미국의 스트라이커 전투 여단의 군사 연습에 반대하는 깜짝 반미, 반전 시위를 벌이기도 했다. 학생 단체는 미국의 장갑차량에 올라탄 이후에 미국 국기를 불태웠다. 한국 경찰청 당국자들은 가담 학생 모두를 체포하였다.
+
+다. 지난 12개월 동안에 주재국에서 반정부 시위가 발생한 적이 있는가?
+
+그렇다.
+
+i. (민감하지만 미분류) 미국 대사관 시설 전면이나 인근에서 반정부 시위가 발생한 적이 있는가?만일 그렇다면, 설명하기 바람.
+
+그렇다, 시위의 상당수는 미국 대사관 근방에서 열린다. (외교통상부가 간선도로 건너편이라 시위 장소로 자주 이용된다.)한국법은 외교 시설 100m 이내에 시위를 금지한다. 그러나 한국 정부는 100m 이내의 시위가 외교관 시설물을 표적으로 삼았을 경우에만 금지된다고 해석하고 있다. 때때로, 시위가 근처 정부 부처를 대상으로 하는 경우에는 경찰은 100m 이내의 시위를 허용한다.
+
+ii. (민감하지만 미분류) 반정부 시위의 평균적인 규모는 어떤가?
+
+반정부 시위는 평균 30~50명이 참가한다. 앞에서 설명한 대규모 시위는 대부분은 미국산 쇠고기 반대 시위에서 반정부 시위로 그 양상이 변해갔다. 일부 시위는 참석자가 15만 명에 달하기도 했다.
+
+iii. (민감하지만 미분류) 시위의 양상이 대개 폭력적인가, 아니면 평화로운가?
+
+대개 평화로운 시위이지만 시위대와 경찰 사이에 폭력이 발생하곤 한다.
+
+iv. (민감하지만 미분류) 여타 시위로 미국 정부의 재산상에 피해를 당한 적이 있는가?만일 그렇다면, 설명하기 바람.
+
+근년에 그런 일이 없다.
+
+==== II. 대규모 충돌 상황 ====
+
+가. (민감하지만 미분류) 주재국이 지방 정부 사이에 혹은 지방정부 내부 충돌에 연루된 적이 있는가?(이 질의는 조직 폭력이나 마약범죄 조직을 포함할 수 있다.) 만일 그렇다면 간단히 개요를 제공하기 바란다.
+
+1953년 정전 협정에 서명한 이후에 전면적인 무력 분쟁은 없었지만, 비무장 지대를 통한 월경으로 말미암아 긴장이 고조된 적이 있다. 서울은 비무장 지대에서 단 40km 거리에 있으며, 세계에서 군사적으로 가장 요새화된 지역 중 한 곳이다. 비무장지대는 공식적인 평화조약이 부재한 상태로 무장 상태의 휴전이 계속되고 있음을 그대로 반영한다. 2006년 북한의 핵무기 폭파 실험과 핵확산 금지조약 조기 탈퇴 등으로 북동아시아에서 대량살상무기 확산 공포가 커지고 있다. 미국은 한국, 일본, 중국, 러시아 등과 함께, 6자 회담을 통한 북한 핵무기 문제 해결에 힘쓰고 있다.
+
+비록 북한 인구는 한국 인구에 절반에 불과하지만, 세계에서 5번째로 큰 군사를 유지하고 있다. 상비 부대 규모는 세 번째로 큰 규모를 유지하고 있으며, 세계에서 가장 큰 규모의 특수작전부대를 유지하고 있다. 북한 병력의 대부분은 비무장 지대 근처에 배치되어 있다. 서울은 북한의 대포와 로켓포의 사정권 안에 들어 있다. 북한은 무력 충돌 발생 몇 시간 안으로 서울에 심각한 피해를 줄 군사력을 보유하고 있다. 재래식 무기를 보유한 상당한 수의 보병과 기갑부대와는 별도로 북한 인민군은 화학탄 공격 능력을 보유하고 있다.
+
+나. (민감하지만 미분류) 만일 지방 정부 안에서 무력 충돌이 있을 경우 특정 지역에 국한된 반란인가 아니면 전국적인 내전인가?
+
+1953년 정전협정으로 한국전쟁이 휴전 상태이며 지금도 유효하다. 진행중인 전투나 내란은 없다.
+
+다. (민감하지만 미분류) 만약 특정 지역에 국한되어 있다면, 미국 대사관 시설이 해당 지역에 있는가?만일 그렇다면, 어디인가?
+
+해당 없음.
+
+다. (민감하지만 미분류) 지방 정부 사이 무력 충돌에 파벌이 개입되어 있다거나 반미 성향을 보이는가?만일 그렇다면, 간단한 개요를 제공하기 바란다.
+
+남한 내부 특정 소수 집단, 주로 급진적인 대학생, 노동조합, 북한에 동정적인 군소 노동당 등이 있다. 이들 단체는 한국민 사이에 반미 감정을 조장한다. 그러나 한국민 대부분은 정치관이나 사회관이 친미를 유지하고 있다.
+
+===== III. 주재국가의 보안 역량 =====
+
+1. (비밀/외국전파금지) 남한의 첩보 및 치안 서비스의 개요:
+
+국정원은 민간인 조직으로 남한 최고의 첩보 기관이다. 국정원은 국내외 정보를 모두 수집하고 분석하는 이중 역할을 담당한다. 국정원의 대외 첩보 책임은 정치, 경제, 산업 기술의 수집 및 분석을 포함한다. 과거 그런 활동은 대게 북한에 집중했지만, 1997년 아시아금융위기 이후로, 국정원은 세계 시장에서 남한의 경쟁력을 담보하는 노력의 일환으로 산업 스파이 임무도 맡고 있고, 경제, 과학, 기술 정보 등을 수집하고 있다.
+
+경찰청은 강력한 첩보 수집 능력을 보유한 전국적인 법 집행 기관이다. 경찰청은 정치적 반대 단체에 대한 국내 첩보를 수집하고 국가의 안정을 유지하는 치안 활동 책임을 지고 있다. 경찰청의 활동에는 친북 단체 감시를 비롯해 방첩, 마약 척결, 대테러 활동을 지원, 불법이민자를 근절 등을 포함한다.
+
+경찰청은 1948년에 치안국으로 수립되었다. 치안국이란 명칭은 1991년 가을 경찰청으로 변경되었다. 경찰청은 대략 15만 명의 직원을 고용하고 있다. 서울지방경찰청 소속은 대략 4만이고, 병역의 의무를 대신해 경찰청에 근무하는 비 경력직 인원은 5만 명이 있다. 비 경력직인 의무 경찰은 폭동 통제와 교통 통제, 범죄 예방 업무에 주로 편성되는 경향이 있다. 경찰청은 매우 제한적인 인원의 경찰 공무원을 해외 주재 대사관에 배정한다. (미국, 중국, 일본, 러시아, 브라질, 프랑스, 필리핀)서울 도심 미 대사관 인근에 소재한 경찰청 본부는 11개의 기능별 부서와 13개 지방행정기관과 해양경찰청으로 구성되어 있다. 경찰청의 외사국은 한국 주재 외국 대사관의 연락 사무소 역할을 하고 있다.
+
+서울지방경찰청은 경찰청 조직 내에서 가장 큰 지방경찰청이며, 높은 수준의 자치권을 갖고 운용되고 있다. 서울지방경찰청은 남한 치안 문제의 절반 이상을 처리한다. 서울지방경찰청은 서울 지역 외국 대사관과 인사의 안전 책임을 진 보안부 외사과를 비롯해 6개 기능별 부서로 구성되어 있다.
+
+국군기무사령부는 한국 군대의 체제 전복 요인을 감시하고 원천 봉쇄하는 임무를 맡고 있다. 특히 국군기무사령부는 집권 행정부의 권한과 국가 안정을 훼손할 수 있는 한국군 내부의 계파나 인사에 대한 정보를 수집하고 있다. 국정원이 여타 국가 안보 관련 조사를 주도하는 권한을 보유한 기관이긴 하지만, 국군기무사령부의 관할권과 책임 권한은 국정원의 권한과 종종 중복되며 상충한다. 국군보안사령부가 1977년에 설립되었고, 1991년에 국군기무사령부로 개칭되었고, 1998년에 조직 개편이 있었다. 국군기무사령부는 기술적으론 국방부의 하위 조직이지만, 반 자유적으로 운용되고 있고 대통령에게 직접 접근할 수 있다. 기무사는 용산 기지에(주한미군과 미8군의 본부) 영구적으로 배정된 국방보안부대((번역 주: 창작이다. 한글 이름을 알아내지 못했다. 영어로는 “Defence Security Unit”이다.))도 보유하고 있다. 아마도 연합사령부에 파견된 한국 부대의 활동을 감시하는 위한 목적일 수 있다. 국방보안부대는 대략 4,500명 인원을 고용하고 있다((번역 주: 조갑제의 기사 중에 “김대중 정부 들어 경찰의 보안직원 수는 4,500명에서 2,000명 수준으로 줄었다”란 내용이 들어있는 기사가 있는데, 해당 내용의 트윗도 검색되고 있다. 수치가 일치하는 게 우연의 일치인지 궁금하다.)). 
+
+가. (민감하지만 미분류) 법 집행기관은 전문성이 있고 훈련이 잘되어 있는가?설명 바람.
+
+경찰청은 협력적이고 전문성을 갖추었고, 잘 훈련되어 있다.
+
+나. (민감하지만 미분류) 그들은 미국 기관의 훈련을 받은 경우가 있었나?만일 그렇다면, 훈련의 효과에 대해 상세한 설명을 바람.
+
+미국은 한국 경찰청에 훈련을 제공한 바 있다. 해당 미국의 법 집행기관은 해당 훈련이 매우 효과가 있었다고 판단한다.
+
+다. (민감하지만 미분류) 법 집행기관은 내부에 심각하고 광범위한 부패에 직면해 있는가?설명 바람.
+
+한국 법 집행기관은 과거 수년간에 걸쳐 매우 심각한 부패 추문을 경험한 바 있다. 2006년 한국 경찰청 차장은 돈세탁에 관여한 로비스트로부터 뇌물을 수수한 혐의로 사임하였다. 2006년 두 명의 경무관과 일반 경찰관 다수가 뇌물 사건에 연루된 것으로 드러난 이후에 사임하였다.
+ 
+그렇긴 하지만, 전반적으로 한국과 서울의 길거리 범죄는 매우 낮은 수준이다. 서울은 세계에서도 가장 안전한 대도시 중의 한 곳이다.
+ 
+다. (민감하지만 미분류) 주재국 첩보 기관은 전문성과 대테러 활동 역량을 갖추고 있는가?
+
+그렇다. 국가정보원은 고도의 훈련을 받았고, 역량도 갖추고 있다.
+
+라. (비밀/외국전파금지) 주재국 첩보 기관은 미 대사관의 정보 요청과 지원에 대해 협력적이었나?
+국가정보원은 테러 관련 대사관의 정보 요청에는 대체로 협력적으로 응답한다. 그러나 다른 분야와 관련된 정보 제공에는 적극성이 떨어진다.
+
+바. (민감하지만 미분류) 최근 몇 년간 테러리스트 위협이 있었다는 가정하에, 주재국 보안 서비스 기관이 대단위의 테러리즘 퇴치 성과를 올릴 수 있었나?만일 그렇다면, 설명하기 바람.
+
+남한은 2007년 17세 이하 남자 월드컵 경기, 2007 여성 월드컵 축구 경기, 2003 세계유니버시아드, 2002년 월드컵 축구 경기를 개최한 바 있다. 국정원과 경찰청은 시위나 안보 관련 사건을 효과적으로 통제하고 있다.
+ 
+사. (민감하지만 미분류) 주재국은 미국 대사관의 보호와 안전 요청에 대해 (신속성이나 자원 할당과 관련) 잘 응대하는가?만일 그렇지 않다면, 자세히 설명해 보라.
+
+그렇다.
+
+아. (비밀/외국전파금지) 대사관은 주재국의 대표적 공항의 전반적인 보안을 어떻게 평가하는가?(훌륭하다; 매우 좋다; 좋은 편이다/평균이다; 형편 없다) 만일 형편없다면, 자세히 설명해 보라.
+
+훌륭하다. 한국 출입국관리국은 한국을 출국하고 입국하는 승객에 대한 적절한 통제뿐만 아니라 적절한 자료 수집과 정보 확인 시스템도 갖추고 있다. 한국 출입국 당국은 인적 사항이 담긴 승객의 여권에서 얼굴 이미지를 캡처하는 출입국 데이터 시스템을 최근에 구현하였다. 한국의 출입국관리국은 국제공항이나 항만 등의 국제 환승 지역에서는 법 집행 권한을 보유하지 않는다. 외국인 밀수업자와 불법이민자와 기타 범죄자들이 환승 지역에서 저지르는 범죄 행위는 현재 기소 대상이 아니다. 불법이민자를 기소하기 위한 법안이 국회에 제출되어 있다. 미국, 캐나다, 호주 등은 아웃 바운드 항공편을 감시할 수 있는 국제 환승 지역에 대한 접근성을 보유하고 있다. 한국 출입국당국자는 매일 미국 당국자에게 환승 지역 접근성에 대한 편의를 제공한다. 한국 출입국 당국자는 항공편 감시활동에 관여하는 미국국토안보부 직원에게 접근권과 법의학 문서 검토, 불법이민자의 체포 등의 권한 등을 제공함으로써 협력하고 있다.
+
+I. (민감하지만 미분류) 통관과 입국심사 관장 기관은 얼마나 효과적인가?(효과적이다; 평균이다; 비효율적이다) 만일 비효율적이라면, 자세한 설명을 해보라.
+
+효과적이다. 미 국토안보부는 부산에서 컨테이너안전협정을 감독하고 있다. 컨테이너안전협정은 고위험군 화물 컨테이너를 식별하고 대량살상무기가 미국으로 수송되기 전에 사전에 차단하기 위한 여타 국가와의 파트너쉽 협정이다. 남한의 대표적 항구인 부산은 세계에서 5번째로 큰 항구이며, 아시아에서 가장 큰 물류 요충지 중의 하나이다. 컨테이너안전협정팀은 2003년 8월에 한국 관세청과 협력을 시작하였다.
+
+J. (민감하지만 미분류) 국경 순찰대는 얼마나 효과적인가?(효과적이다; 평균이다; 비효율적이다) 만일 비효율적이라면, 자세한 설명을 해보라.
+
+한국 출입국외국인정책본부는 육로 국경 순찰대를 보유하고 있지 않다. 대한민국의 유일한 육로 국경은 비무장 지대로 효과적으로 차단되어 있다.
+===== 토착 테러리즘; 반미 테러리스트 단체 =====
+==== I. 반미 테러리스트 단체 ====
+
+가. (민감하지만 미분류) 토착 반미 테러리스트 단체가 주재국 내에 있는가?만일 그렇다면, 얼마나 많은가?단체 이름을 거명하기 바람
+
+없다.
+
+나. (민감하지만 미분류) 최근 12개월 안으로 테러리스트 단체가 살상 의도로 반미 공격을 실행한 적이 있는가?만일 그렇다면, 설명하기 바람.
+
+없다.
+
+다. (민감하지만 미분류) 여타 반미 공격이 있는가?만일 그렇다면, 설명하기 바람.
+
+없다.
+
+다. (민감하지만 미분류) 미국 외교관을 표적으로 삼아 공격한 테러리스트 단체가 있었는가?만일 그렇다면, 설명하기 바람.
+
+없다.
+
+라. (민감하지만 미분류) 미국 사업체, 미군, 혹은 미국 관련 대상을 공격한 단체가 있었는가?만일 그렇다면, 설명하기 바람.
+
+없다.
+
+바. (민감하지만 미분류) 특정 지역에 국한해 공격하거나, 전국적으로 활동하는 테러리스트 단체가 있는가?
+
+해당없음.
+
+사. (민감하지만 미분류) 만일 테러 공격이 지역에 국한되어 있다면, 해당 지역에 미국 외교관 시설이 있는가?만일 그렇다면, 어디인가?
+
+해당 없음.
+
+==== II. 여타 토착 테러리스트 단체 ====
+
+가. (민감하지만 미분류) 주재국에 (반미가 아니더라도) 다른 토착 테러리스트 단체가 있는가?만일 그렇다면, 얼마나 많은가?단체 이름을 거명하기 바람
+
+없음.
+
+나. (민감하지만 미분류) 해당 단체가 미국 대사관 시설이 소재한 수도나 지역에 대한 공격을 단행한 적이 있는가?만일 그렇다면, 얼마다 근접한 공격이었나?
+
+없음.
+
+다. (민감하지만 미분류) 해당 공격이 살상 행위였다거나 무차별적이었나?자세한 설명을 바람.
+해당 없음.
+
+다. (민감하지만 미분류) 해당 공격에서 여하한 미국인이 살상되거나 상해를 입었는가?
+
+해당 없음.
+===== 초국가적인 테러리즘 =====
+==== I. 초국가적인 테러리즘 징후 ====
+
+가. (비밀/외국전파금지) 주재국에 여타 외국계 테러리스트 단체가 주둔하고 있나? 단체이름을 제공하기 바람.
+
+구체적으로 확인된 바 없음.
+
+나. (민감하지만 미분류) 대사관은 상주한 해당 단체를 어떻게 평가하는가?하나의 조직인가?금융 조직인가?지원 조직인가?선전 조직인가?
+
+해당 없음.
+
+다. (민감하지만 미분류) 주재국 정부는 해당 단체에 동조적인가?
+ 
+해당 없음.
+
+다. (민감하지만 미분류) 해당 테러리스트 단체와 관계를 맺고 있다는 의심이 드는 주재국 민간단체가 있는가?
+
+현시점에서 의심이 가는 민간단체가 구체적으로 확인된 바 없다.
+
+라. (비밀/외국전파금지) 주재국에 여타 종족이나 종교 단체가 해당 테러리스트 단체에 동조적인가?
+
+남한 안에 있는 이슬람 단체는 국제 테러리스트 단체 지원이 있을 법한 외국의 급진적 근본주의자 단체에 대해 일정 부분 지원을 제공하는 것으로 믿고 있다. 그런 지원은 이슬람교 사원이나 이슬람 지역 사회를 통한 기금 제공일 수도 있다.
+
+바. (비밀/외국전파금지) 대사관은 잠재적 반미 테러리스트 활동과 관련된 주재국 안에 있는 (이란, 이라크, 시리아, 세르비아, 수단, 등등) 적성정보기관의 수준과 의도, 범위를 어떻게 평가하는가?
+
+남한 내 미국 정부의 이해에 상당한 위협이 될 만한 테러리스트 단체와 결탁한 적성국가 정보기관에 대한 징후는 현재 없다. 언급된 국가들 이란, 리비아, 수단은 주재국과 수교를 맺고 있다. 해당 3개국 중 유일하게 이란만이 정보 직원을 보유하는 는 것으로 의심된다. 이란인과 리비아인, 수단인 말고도 중동과 북아프리카 국가 출신이 14만 명과 파키스탄인 8,000명이 현재 남한에 거주하고 있다. 그들 대부분은 공장 노동자이다. 지역 경찰과 정보기관은 이들의 동선과 활동에 대해 예의 주시하고 있으며, 9/11 테러 공격과 이라크 전쟁 이후, 테러리스트 문제가 계속되고 있어 이러한 감시 활동이 더 확대되었다.
+ 
+사. (비밀/외국전파금지) 대사관은 적성 테러리스트들이 주재국 내부나 인근 국가에서 무기와 폭발물을 확충할 가능성을 어떻게 평가하는가?
+
+국정원은 경찰과 세관의 세밀한 모니터링으로 말미암아 한국 안에서 외국 테러 단체가 무기나 대량파괴 혹은 총기류를 구하는 것은 극도로 어렵다고 보고하고 있다. 그렇긴 하지만, 한국 농업과 건설, 해운업의 규모나 성격을 고려할 때 테러 단체가 불법적인 물건을 습득할만한 잠재성이 있다고 하겠다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/seoul14/09seoul365|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 어두운 세상을 밝히려면 후원자의 소중한 손길이 절실합니다 =====
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}
+===== 바깥 고리 =====
+  - [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0000351996|'뇌물수수' 혐의 최광식 전 경찰청 차장에 집유]] //오마이뉴스//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL365.rtf>
+S E C R E T SEOUL 000365 
+ 
+ 
+NOFORN 
+ 
+DEPARTMENT FOR DS/IP/EAP AND DS/TIA/ITA 
+ 
+E.O. 12958: DECL: 03/11/2019 
+TAGS: ASEC PTER KS
+SUBJECT: SECURITY ENVIRONMENT PROFILE QUESTIONNAIRE (SEPQ) 
+- SPRING 2009 
+ 
+REF: A. STATE 13023 
+     ¶B. 08 STATE 33533 
+ 
+Classified By: RSO Gregary J. Levin, Reason 1.4(c) 
+ 
+¶1. (SBU)  The following responses are keyed to reftel and 
+cleared by Seoul's Core Emergency Action Committee: 
+ 
+POLITICAL VIOLENCE 
+------------------ 
+ 
+¶I. Demonstrations 
+ 
+¶A. (C) Are there any ethnic or religious communities 
+in-country prone to carrying out significant anti-American 
+demonstrations?  Please describe. 
+ 
+No specific ethnic or religious communities in the country 
+have carried out significant anti-American demonstrations, 
+although representatives of certain Christian and Buddhist 
+groups have participated in anti-American demonstrations 
+related to U.S. policy toward North Korea.  The Embassy 
+cannot exclude the possibility of significant anti-American 
+demonstrations by the Islamic community in Korea, depending 
+on future developments in the Middle East and elsewhere. 
+Police advise that there are 140,000 nationals from 
+Middle-Eastern and North African countries and 8000 
+Pakistanis currently residing in South Korea.  Most of them 
+are factory workers.  The local police and intelligence 
+services keep a close watch over their movements and 
+activities.  The Grand Central Mosque located in the Itaewon 
+neighborhood of Seoul is within walking distance of the 
+Yongsan U.S. Army Garrison and U.S. Embassy housing. 
+ 
+i. (SBU) Have there been anti-American demonstrations in the 
+country within the last 12 months?  If yes, please describe. 
+ 
+Yes.  There were approximately 180 anti-American 
+demonstrations in Seoul over the past twelve months (Note: 
+The Korean National Police classify candlelight vigils as 
+religious events and not demonstrations.  If Post were to 
+include anti-American candlelight vigils, the total number 
+would be 260).  Although typically small in scale, averaging 
+30-50 people, the demonstrations encompassed a broad range of 
+issues, including but not limited to Six-Party talks, U.S. 
+military forces in Korea, the war in Iraq and the U.S.-Korea 
+Free Trade Agreement (FTA).  During the spring and summer of 
+2008, there were large-scale protests against the importation 
+of U.S. beef into Korea.  This last issue however, has 
+basically disappeared and the Embassy does not foresee the 
+resumption of anti-U.S. beef protests. 
+ 
+ii. (SBU) Have anti-American demonstrations taken place near 
+or in front of U.S. diplomatic facilities?  If yes, please 
+describe. 
+ 
+Yes.  There were approximately 150 anti-American 
+demonstrations occurring within the city blocks of the U.S. 
+Embassy in Seoul. 
+ 
+iii. (SBU) What is the average size of an anti-American 
+demonstration? 
+ 
+The average size of demonstrations was 30-50 participants. 
+During the anti-U.S. beef demonstrations, however, 
+participants sometimes averaged in the tens of thousands. 
+ 
+iv. (SBU) Are anti-American demonstrations usually triggered 
+by U.S. foreign policy initiatives, military actions, or by 
+domestic issues? 
+ 
+The trigger for most anti-American demonstrations was usually 
+related to the presence of U.S. military forces in Korea. 
+There are several incidents, including the tragic death of 
+two school girls in an accident in June 2002 involving U.S. 
+military vehicles and the January 2007 brutal rape of a 
+67-year old woman by a U.S. service member, that triggered 
+anti-American demonstrations.  The importation of U.S. beef 
+into Korea also became a flashpoint for large-scale 
+anti-American demonstrations in 2008. 
+ 
+¶B. (SBU) Are demonstrations generally violent or peaceful? 
+ 
+Some anti-U.S. beef demonstrations have resulted in violent 
+confrontations with local police.  At the height of the 
+nightly protests, close to 150,000 participants held protests 
+throughout the night, and into the next morning.  Most 
+violent clashes occurred after midnight and were thought to 
+be instigated by the more politically active and aggressive 
+groups.  Participants flooded the downtown streets and 
+blocked traffic for hours at a time.  Police deployed 
+additional riot control officers, usually outnumbering the 
+protestors three-to-one, and water cannons to discourage the 
+protestors.  The Police also built temporary barricades to 
+prevent groups from marching through the downtown corridor of 
+Seoul.  In response, protest groups damaged and defaced 
+police buses that were positioned as barricades.  There were 
+several reports of both police and protestors being injured 
+in the confrontations.  Police also reported that protest 
+organizers and violent instigators were arrested. 
+ 
+i. (SBU) Have violent demonstrations resulted in damage to 
+USG property or injuries to USG employees?  If yes, please 
+describe. 
+ 
+No, not in recent years. 
+ 
+ii. (SBU) Have violent demonstrators ever penetrated our 
+perimeter security line?  If yes, please describe. 
+ 
+Yes, but not in recent years. 
+ 
+¶1. In October 2002, ten members of radical student groups 
+formed a human ladder and quickly scaled the west wall of the 
+Chancery perimeter.  One student got on top of the cement 
+awning over the Embassy entrance and unsuccessfully attempted 
+to burn the American flag with a homemade torch. 
+ 
+¶2. In March 2003, four members of a group of some 30 radical 
+students succeeded in scaling the top of the front wall of 
+the Embassy Chancery.  Two of the protesters gained access to 
+the Compound and were subdued by the Embassy's local guards. 
+ 
+¶3. On August 4, 2003, 13 radical students breached the 
+perimeter at the USFK Rodriguez Firing Range and staged a 
+surprise anti-American, anti-war protest opposing military 
+exercises by the U.S. Stryker Brigade Combat Team.  The group 
+burned an American flag after climbing onto a U.S. armored 
+vehicle.  Korean National Police officers arrested all the 
+students. 
+ 
+¶C. Have any anti-government demonstrations taken place in the 
+country within the last 12 months? 
+ 
+Yes. 
+ 
+i. (SBU) Have any anti-government demonstrations taken place 
+near or in front of U.S. diplomatic facilities?  If yes, 
+please describe. 
+ 
+Yes, many demonstrations have taken place in the vicinity of 
+the U.S. Embassy (the Ministry of Foreign Affairs is across a 
+major thoroughfare and is a frequent venue for 
+demonstrations).  Korean law prohibits demonstrations within 
+100 meters of a diplomatic facility.  The ROKG interprets the 
+intent of this law, however, to mean that demonstrations 
+within 100 meters of diplomatic facilities should be 
+prohibited only if the target of the demonstration is the 
+diplomatic facility.  At times, the police have allowed 
+demonstrations within the 100 meter range as long as the 
+target of the demonstrations was a nearby Korean Ministry, 
+and not the Embassy. 
+ 
+ii. (SBU) What is the average size of an anti-government 
+demonstration? 
+ 
+Anti-ROKG demonstrations include on average from 30-50 
+participants.  Many of the large-scale demonstrations 
+reported in earlier sections which began as protests against 
+the importation of U.S. beef have also evolved into anti-ROKG 
+demonstrations.  Several protests reached 150,000 
+participants. 
+ 
+iii. (SBU) Are demonstrations generally violent or peaceful? 
+Generally peaceful but violence has occurred between 
+demonstrators and the police. 
+ 
+iv. (SBU) Have any demonstrations resulted in damage to USG 
+property?  If yes, please describe. 
+ 
+No, not in recent years. 
+ 
+ 
+II. Macro Conflict Conditions 
+----------------------------- 
+ 
+¶A. (SBU) Is the host country engaged in an interstate or 
+intrastate conflict?  (This may include battles between 
+organized and violent drug cartels.)  If yes, please provide 
+a brief synopsis. 
+ 
+While there has been no full-scale armed conflict since the 
+signing of the Armistice in 1953 that halted fighting in the 
+Korean War, tensions have been heightened at times due to 
+border crossing violations in the Demilitarized Zone (DMZ) 
+and in the Yellow Sea.  Seoul is located only 40 kilometers 
+from the DMZ, one of the most militarily fortified regions in 
+the world.  The DMZ is a reflection of the continuing armed 
+truce on the Korean peninsula in the absence of a formal 
+peace treaty.  North Korea's October 2006 detonation of a 
+nuclear device, and its earlier withdrawal from the nuclear 
+Non-Proliferation Treaty (NPT) have raised fears over the 
+proliferation of weapons of mass destruction (WMD) in 
+Northeast Asia.  The U.S., along with the ROK, Japan, China 
+and Russia, are working to resolve the DPRK nuclear issue 
+through the Six-Party Talks. 
+ 
+Although North Korea has half the population of the ROK, it 
+maintains the world's fifth-largest military, the 
+third-largest standing army, and the world's largest special 
+operations forces.  The bulk of its forces are deployed near 
+the DMZ.  Seoul is well within the range of North Korean 
+artillery and rockets.  North Korea has the capability to 
+inflict serious damage on Seoul within the first few hours of 
+a conflict.  In addition to substantial numbers of infantry 
+and armored troops with conventional weapons, the Korean 
+People's Army (KPA) also has the ability to strike with 
+chemical munitions. 
+ 
+¶B. (SBU) If an intrastate conflict, is it an insurgency 
+limited to a specific region or is it a countrywide civil war? 
+ 
+The 1953 Armistice which brought a cease-fire to the Korean 
+War is still in effect.  There is no ongoing warfare or 
+insurgency. 
+ 
+¶C. (SBU) If limited to a specific region, are any U.S. 
+diplomatic facilities located in this region?  If so, where? 
+ 
+N/A. 
+ 
+¶D. (SBU) Have any of the factions involved in intrastate 
+conflicts signaled or demonstrated an anti-American 
+orientation?  If yes, please provide a brief synopsis. 
+ 
+There are certain minority groups, primarily radical 
+university students, labor unions, and a small labor party in 
+South Korea who sympathize with North Korea.  These groups 
+try to incite anti-American sentiments among the ROK public. 
+Most Koreans, however, remain pro-American in their political 
+and social outlook. 
+ 
+ 
+III. Host country Capabilities 
+------------------------------ 
+ 
+¶1. (S/NF) Overview of South Korea's intelligence and police 
+services: 
+ 
+The National Intelligence Service (NIS), a civilian 
+organization, is the country's premier intelligence service. 
+The NIS serves a dual role of collecting and analyzing both 
+foreign and domestic intelligence.  Its foreign intelligence 
+responsibilities include the collection and analysis of 
+political, economic, and industrial intelligence.  In the 
+past, these activities were focused largely on North Korea, 
+but since the 1997 Asian economic crisis, the NIS has also 
+undertaken industrial espionage, and collected economic, 
+scientific and technical intelligence in an effort to ensure 
+South Korea's competitiveness in the world market. 
+ 
+The National Police Agency (NPA) is a national law 
+enforcement organization with strong intelligence collection 
+capabilities.  The NPA collects domestic intelligence on 
+political opposition groups and is charged with taking police 
+action to maintain national stability.  NPA activities 
+include monitoring pro-North Korean groups, supporting 
+counter-intelligence, counter-espionage, counter-narcotics, 
+counter-terrorism efforts and combating illegal immigration. 
+ 
+The NPA was established in 1948 as the Korean National Police 
+(KNP).  The name was changed to the National Police Agency in 
+September 1991.  The NPA employs approximately 150,000 
+personnel, including approximately 40,000 in the Seoul 
+Metropolitan Police Agency (SMPA) and 50,000 non-career 
+personnel who fulfill their military obligation by serving in 
+the NPA.  Non-career personnel tend to be assigned to riot 
+control, traffic control, and crime prevention.  The NPA also 
+assigns a very limited number of its officers to police 
+attache positions in ROK embassies abroad (in the U.S., 
+China, Japan, Russia, Brazil, France and the Philippines). 
+The NPA is composed of 11 functional bureaus at its 
+headquarters (near the U.S. Embassy in downtown Seoul), 13 
+district agencies, and the Maritime Police Agency.  The NPA's 
+Foreign Affairs Bureau serves as its liaison office with 
+foreign missions in Korea. 
+ 
+The Seoul Metropolitan Police Agency is the largest district 
+agency within the NPA structure and operates with a high 
+degree of autonomy.  The SMPA deals with more than one-half 
+of South Korea's law enforcement issues.  The SMPA is 
+composed of six functional divisions, including Foreign 
+Affairs which is responsible for the security of foreign 
+embassies and personnel in the Seoul area. 
+ 
+The Defense Security Command (DSC) is charged with monitoring 
+and neutralizing subversive elements in the ROK military 
+services.  Specifically, DSC collects intelligence on 
+personnel and factions in the ROK military which threaten to 
+undermine the ruling political administration's authority and 
+the stability of the country.  The DSC's jurisdiction and 
+responsibilities often overlap and conflict with that of the 
+NIS, although the NIS has the authority to be the lead agency 
+in any national security-related investigations.  The DSC was 
+established in 1977, and reorganized in 1991 and again in 
+¶1998.  Although technically subordinate to the Ministry of 
+National Defense (MND), the Commanding General of DSC 
+operates semi-autonomously and typically has direct access to 
+the President. The DSC has a Defense Security Unit (DSU) 
+permanently assigned to the Yongsan Base (Headquarters of 
+U.S. Forces Korea and the U.S. Eighth Army), to possibly 
+monitor the activities of ROK troops assigned to the Combined 
+Forces Command (CFC).  The DSC employs approximately 4,500 
+personnel. 
+ 
+¶A. (SBU) Are law enforcement agencies professional and 
+well-trained?  Please describe. 
+ 
+The National Police Agency (NPA) is cooperative, professional 
+and well trained. 
+ 
+¶B. (SBU) Have they been trained by U.S. agencies?  If so, 
+please elaborate on effectiveness of training. 
+ 
+The U.S. has provided training to the NPA.  Relevant U.S. law 
+enforcement agencies consider the training to be very 
+effective. 
+ 
+¶C. (SBU) Are law enforcement agencies confronted with 
+serious, widespread corruption inside their agencies?  Please 
+describe. 
+ 
+Korean law enforcement agencies have experienced very serious 
+corruption scandals over the past couple of years.  In 2006, 
+the Korean National Police Agency's Deputy Commissioner 
+General resigned over allegations of taking bribes from a 
+lobbyist who was involved in money laundering schemes.  Also 
+in 2006, two Superintendents General and various 
+rank-and-file of the KNPA resigned after they were exposed 
+for involvement in bribery schemes. 
+ 
+That said, at the street level, crime is very low in Seoul 
+and Korea overall.  Seoul is one of the safest large cities 
+in the world. 
+ 
+¶D. (SBU) Are the intelligence services professional and 
+capable of deterring terrorist actions? 
+ 
+Yes, the National Intelligence Service (NIS) is highly 
+trained and capable. 
+ 
+¶E. (S/NF) Have the intelligence services been cooperative 
+with U.S. Embassy requests for information and support? 
+ 
+The NIS is usually cooperative in responding to the U.S. 
+Embassy's requests for terrorist-related information.  It is 
+less forthcoming, however, in providing information in other 
+areas. 
+ 
+¶F. (SBU) Assuming there have been significant terrorist 
+threats in recent years, have host country security services 
+been able to score any major anti-terrorism successes?  If 
+yes, please describe. 
+ 
+South Korea hosted Under-17 Men's World Cup matches in 2007, 
+Women's World Cup Soccer games in 2007, World University 
+Games in 2003 and the World Cup soccer matches in 2002 
+without any major incidents.  The NIS and NPA effectively 
+controlled demonstrations and security related incidents. 
+ 
+¶G. (SBU) Has host country been responsive (re: timeliness and 
+allocation of resources) to U.S. Embassy requests for 
+protective security?  If no, please elaborate. 
+ 
+Yes. 
+ 
+¶H. (S/NF) How does the Embassy assess the overall security at 
+major airports in the country? (excellent; very good; 
+good/average; poor)  If poor, lease elaborate. 
+ 
+Excellent.  Korean immigration authorities have appropriate 
+data collection and retrieval systems as well as adequate 
+control of passengers entering and departing Korea.  The ROK 
+Immigration Bureau has recently implemented a new entry/exit 
+data system that captures facial images from the biographical 
+page of passports. The ROK's Immigration Bureau has no 
+statutory authority in the international transit area of its 
+international airports and seaports.  Alien smugglers, 
+immigration violators and other criminals are not currently 
+prosecuted for crimes committed in the transit areas.  There 
+is a bill before the National Assembly to prosecute 
+immigration violators.  The U.S., Canada and Australia have 
+access to the international transit area to monitor outbound 
+flights.  Korean Immigration authorities facilitate daily 
+transit area access for U.S. officials.  Korean Immigration 
+authorities cooperate with    U.S. Department of Homeland 
+Security officials engaged in flight monitoring activities by 
+providing access passes, forensic document examinations, and 
+removal of immigration violators. 
+ 
+¶I. (SBU) How effective are customs and immigration control 
+agencies? (effective; average; ineffective)  If ineffective, 
+please elaborate. 
+ 
+Effective.  The U.S. Department of Homeland Security oversees 
+the Container Security Initiative (CSI) program in Busan. 
+CSI is a partnership with other governments to identify 
+high-risk cargo containers and to pre-screen them for weapons 
+of mass destruction (WMD) before they are shipped to the 
+United States.  South Korea's major port, Busan, is the fifth 
+largest port in the world, and one of the largest transit 
+hubs in Asia.  The CSI team began working with the Korean 
+Customs Service in August 2003. 
+ 
+¶J. (SBU) How effective are border patrol forces? (effective; 
+average; ineffective)  If ineffective, please elaborate. 
+ 
+The Korean Immigration Service does not have a land border 
+patrol force.  The Republic of Korea's only land border, the 
+DMZ, is effectively closed. 
+ 
+ 
+INDIGENOUS TERRORISM: ANTI-AMERICAN TERRORIST GROUPS 
+--------------------------------------------- ------- 
+ 
+¶I. Anti-American Terrorist Groups 
+ 
+¶A. (SBU) Are there indigenous, anti-American terrorist groups 
+in-country?  If yes, how many?  Please name groups. 
+ 
+No. 
+ 
+¶B. (SBU) Have groups carried out lethal anti-American attacks 
+within the last 12 months?  If yes, please describe. 
+ 
+No. 
+ 
+¶C. (SBU) Were there any other anti-American attacks?  If yes, 
+please describe. 
+ 
+None. 
+ 
+¶D. (SBU) Have groups attacked U.S. diplomatic targets?  If 
+yes, please describe. 
+ 
+No. 
+ 
+¶E. (SBU) Have groups attacked U.S. business, U.S. military, 
+or U.S.-related targets?  If yes, please describe. 
+ 
+No. 
+ 
+¶F. (SBU) Have groups limited their attacks to specific 
+regions or do they operate country-wide? 
+ 
+N/A. 
+ 
+¶G. (SBU) If attacks are limited to regions, are there any 
+U.S. diplomatic facilities located in these regions?  If so, 
+where? 
+ 
+N/A. 
+ 
+II. Other Indigenous Terrorist Groups 
+------------------------------------- 
+ 
+¶A. (SBU) Are there other indigenous terrorist groups (not 
+anti-American) in-country?  If yes, how many?  Please name 
+groups. 
+ 
+No. 
+ 
+¶B. (SBU) Have groups carried out attacks in the capital or in 
+areas where U.S. diplomatic facilities are located?  If so, 
+how close? 
+ 
+No. 
+ 
+¶C. (SBU) Were attacks lethal and/or indiscriminate?  Please 
+elaborate. 
+ 
+N/A. 
+ 
+¶D. (SBU) Have any Americans been killed or injured in these 
+attacks? 
+ 
+N/A. 
+ 
+TRANSNATIONAL TERRORISM 
+----------------------- 
+ 
+¶I. Transnational Terrorist Indicators 
+ 
+¶A. (S/NF) Are there any foreign terrorist groups that have a 
+presence in-country?  Please provide names. 
+ 
+None has been specifically identified. 
+ 
+¶B. (SBU) How does Post assess this presence?  Is it an 
+operational cell?  Financial cell? Support cell? Propaganda 
+cell? 
+ 
+N/A. 
+ 
+¶C. (SBU) Is the host government sympathetic to these groups? 
+ 
+N/A. 
+ 
+D (SBU) Are there suspect non-governmental organizations 
+(NGOs) in country that have a relationship with any of these 
+groups? 
+ 
+No suspect NGOs have been specifically identified at this 
+time. 
+ 
+¶E. (S/NF) Are there any ethnic or religious communities 
+in-country that are sympathetic to these groups? 
+ 
+The Islamic community in South Korea is believed to provide 
+some degree of support to foreign radical fundamentalist 
+groups which may support international terrorism.  Such 
+support could be funded through the mosques and the Islamic 
+community here. 
+ 
+¶F. (S/NF) How does Post assess the level, intent, and scope 
+of hostile intelligence services (Iran, Iraq, Syria, Serbia, 
+Sudan, etc.) in-country relative to potential anti-American 
+terrorist acts? 
+ 
+There is no indication of current hostile foreign 
+intelligence service ties to terrorist groups posing a 
+significant threat to U.S.G. interests in South Korea.  Of 
+the countries cited, Iran, Libya and Sudan have diplomatic 
+missions in country.  Of these three, only Iran has suspected 
+intelligence officers in Korea.  In addition to the Iranians, 
+Libyans and Sudanese, there are 140,000 nationals from 
+Middle-Eastern and North African countries and 8000 
+Pakistanis currently residing in South Korea.  Most of them 
+are factory laborers.  The local police and intelligence 
+services keep close watch over their movements and activities 
+and have further increased this monitoring since the 9/11 
+terror attacks, the war in Iraq and ongoing terrorism 
+concerns. 
+ 
+¶G. (S/NF) How does Post assess the availability of weapons 
+and explosives in-country or from nearby countries for 
+hostile terrorist elements? 
+ 
+The NIS reports that it would be extremely difficult for 
+foreign terror organizations in South Korea to obtain weapons 
+of mass destruction or firearms due to close police and 
+customs monitoring.  That said, the size and nature of the 
+Korean agriculture, construction and shipping industries 
+contribute to the potential for terror groups to obtain or 
+produce illicit materials. 
+ 
+ 
+STEPHENS
+</file>

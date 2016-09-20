@@ -1,0 +1,155 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL2021  |  2009-12-30 09:13  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PGOV NATO MOPS MARR ECON YM PK AF CH KN KS }}  |
+====== 제 목: 유명환 외무장관, 아프가니스탄과 FTA, 북한 문제 언급 ======
+기 밀 SEOUL 002021 
+주석: 처리하지 말 것우발사태 조치장교의 지침을 기다림  조언을 기다리고 있음.
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 12/30/2029 
+태그: PREL (([External Political Relations])), PGOV (([Internal Governmental Affairs])), NATO (([North Atlantic Treaty Organization])), MOPS (([Military Operations])), MARR (([Military and Defense Arrangements])), ECON (([Economic Conditions])), YM (([Yemen])), PK (([Pakistan])), AF (([Afghanistan])), CH (([China (Mainland)])), KN (([Korea (North)])), KS (([Korea (South)])) 
+제 목: 유명환 외무장관, 아프가니스탄과 FTA, 북한 문제 언급 
+참 조: [[10SEOUL2 | SEOUL 02020 ]]((번역 주: 나중에 문서참조번호가 변경된 걸로 보임))
+분류자: 대사 캐슬린 스티븐스((번역 주: Ambassador D. Kathleen Stephens. )) 근거 1.4 (b/d). 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/24 01:34// 
+===== 요약 =====
+1. (기밀) 요약: 12월 30일 스티븐스 대사와 유명환 외교통상부 장관은 단둘이 조찬 회동을 함께하였다. 유명환 장관은 정부가 예상키론 국회가 2월 중에 아프간 지방재건팀 수립에 필요한 법안을 통과시킬 것으로 전망한다며 아프간 지원 약속을 재천명하였다. 유 장관은 2010년에 한미 FTA의 통과가 좌절되면 한국 국민의 인식에 부정적인 영향을 미칠 수 있다고 걱정했다. 또한, 그는 북한이 단순히 6자 회담에 복귀한다는 이유로 보상을 해줘서는 안된다는 그의 확고한 입장을 거듭하였다. 그는 작전계획 5027 유출에 대해 친숙하지만, "최근에"서야 문제를 알았다고 확인하였다. 한국의 아랍 에미리트 연합과의 미화 400억 달러 원자력 공장 수주 관련 유 장관과 함께한 자세한 내용은 개별 전문에서 (Seoul 02020)보고 한다. 요약 끝.
+===== 아프가니스탄 =====
+2. (기밀) 유 장관은 아프가니스탄 한국 지방재건팀을 재가하는 아프간 재파병 동의안이 2010년 2월 본회의 표결에 부쳐질 거라고 12월 30일 버시바우 대사에게 말하였다. 유 장관은 지난주 스티븐스 대사가 김성환 외교안보수석한테 들은 발언을 재방송하듯이 <wrap hi>국회의 여당 원내대표가 일방적으로 법안 심의를 연기하기로 야당과 합의했다고 시사하였다. 그 일로 청와대와 국방부, 외교통상부 모두 놀랐다.</wrap> 그전까지만 해도 한국 정부는 한국국제협력단을 비롯해 계획대로 계속 일을 추진할 예정이었다. 2월에 파병 동의안이 통과된 후에 한국 정부는 아프간에 미화 1억 달러를 지원한다고 발표할 계획이다(다만 이것은 5년간에 걸친 지원액으로 총 미화 5억 달러 지원 중에 첫 번째 분할 출연금이라며 유 장관은 총 지원 금액을 같은 날 발표할지는 명확히 하지 않았다). 미화 1억 달러의 "특별 회계"는 기재부 장관과 논의해 이미 해결하였다. 유명환은 지방재건팀 법안이 통과된 후에 브뤼셀에 북대서양조약기구를 방문할 예정이라고 말했다.<WRAP center round tip 90%>//**여야, ‘아프간 파병동의안’ 내년 2월 처리키로**//아프가니스탄 파병 동의안이 내년 2월께 처리될 것으로 보인다.한나라당 안상수 원내대표와 민주당 이강래 원내대표는 최근 잇단 회동에서 아프간 파병동의안의 국회 심의 및 처리 시점을 내년 2월로 연기하기로 구두 합의한 것으로 21일 전해졌다. [[http://www.mediagaon.or.kr/jsp/sch/common/popup/newsviewpopup.jsp?newsId=01101001.20091222100004019|여야, ‘아프간 파병동의안’ 내년 2월 처리키로]] //파이넨설뉴스//
+</WRAP>
+
+3. (기밀) 유명환은 아프간 재파병 동의안 통과를 담보하고 국민적 지지를 모으기 위한 노력으로 편집위원과 논설위원을 상대로―한국이 경제협력개발기구의 회원국으로써, 그리고 G-20 의장국으로써―왜 아프간 재건 노력에 참여가 필요한지 등 아프간 문제를 설명하기 위하여 오프더레코드(비보도) 형식으로 브리핑하였다. 유명환은 시멘트 공장과 과일 건조 그리고 포장 공장 건설 가능성을 비롯해 한국이 추진할 일부 사업에 대해 세부적인 윤곽을 제시하였다. 한국의 초창기 경제 개발에서 긴요했던 중소기업의 노력을 포함하는 실질적인 사업은 한국의 아프간 주둔에 대한 국민적 지지를 높이는 데 도움이 될 것이다.
+
+4. (기밀) 유명환은 한국 관광객이나 선교사를 대상으로 한 위험이 증가할 경우 정치적 민감성이 여전하다고 지적하였다. 한국은 가능한 아프가니스탄, 파키스탄, 예맨 등지로 한국 시민이 여행하는 걸 계속 강하게 만류하고 예방할 예정이다. 만일 해당 지역에서 한국인 한두 명이 곤경에 처한다면, 한국민은 그 개인한테 책임을 묻겠지만, 만일 단체로 피랍된다면, 한국 정부가 무슨 조처를 하라는 압박을 피할 수 없게 된다.
+===== 한미 FTA =====
+5. (기밀) 유명환은 2010년에 한미 FTA 비준이 이뤄지지 않아 생기는 결과에 대해 매우 걱정스럽다고 말하였다. 한미 FTA 체결 이후 3년이 지났는데도 미합중국이 한미 FTA를 매듭짓길 꺼린다고 여겨진다면 한국 국민의 태도가 바뀔 공산이 크다.
+===== 북한과 6자 회담 =====
+6. (기밀) 유명환은 북한 사람들이 단지 회담에 복귀한다는 이유로 보상하지 않는다는 원칙에 더해 남북 대화에서 비핵화 의제가 필수라는 원칙을 한국은 고수할 예정이라고 강조하였다. 유명환은 중국이 이젠 책임지고 북한을 6자 회담으로 불러내야 한다고 말했다. 시진핑 국가 부주석과 함께 서울을 방문한 우다웨이가 1월 말에 중국이 6자 회담을 소집할 준비가 됐다고 그에게 말했다고 유명환은 전했다; 그러나 다른 중국 관리는 설 이후 2월 중순이 되기 전까지는 6자 회담이 없을 거라고 전하고 있다.
+===== 해킹 사고 =====
+7. (기밀) <wrap hi>스티븐스 대사는 최근의 해킹 사고로 화제를 돌려서 미국 정부의 견해를 다시 언급하였고 이에 유 장관은 김성환 외교안보수석과 외교통상부 국장이 그와 논의했다고 확인해 주었다. 유명환은 "아주 최근"까지 사고 소식을 알지 못했다고 주장하였다. 외교통상부 장관은 관련된 국방부 관리들이 처벌을 두려워해 함구하고 있다고 말하였다. 유명환은 해당 사건은 매우 심각하다고 견해를 같이함에 더해 최근 그 주제에 관한 미국 외교 문서에 적시된 지적 사항에 대해 옳다고 확인하였다.</wrap>
+스티븐스
+[[https://sites.google.com/site/poirotkr/seoul/09seoul2021|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.<WRAP center round info 90%>//**‘작계 5027’ 설명자료 해킹당해/영관 장교 USB서 유출**//
+지난달 중순 한미연합사령부의 ‘작전계획(작계) 5027’ 관련 자료가 중국발 해커에 의해 해킹당해 군 당국이 수사중이다. 2005년에도 한 부사관이 개인 노트북에 ‘작계 5027-04 전투 세부시행규칙’ 등 군사비밀을 저장해두었다가 인터넷 파일프로그램에 접속하는 바람에 해당 군사비밀이 유출된 바 있다. 　군 관계자는 18일 “지난달 중순 한미연합사에 근무하는 한국 영관급 장교가 이동식저장장치(유에스비 메모리)를 사용하다 실수로 그 안에 담겨 있던 작계 5027 설명자료를 해킹당했다”고 말했다. 작계 5027에는 한반도에 전면전이 발생했을 때 대대급 이상 병력 동원, 배치 계획 등 한-미 연합군의 구체적인 군사력 운용계획이 담겨 있다.[[http://www.mediagaon.or.kr/jsp/sch/common/popup/newsviewpopup.jsp?newsId=01101001.20091219100001238|‘작계 5027’ 설명자료 해킹당해/영관 장교 USB서 유출]] //한겨레// 
+</WRAP>
+
+===== 바깥 고리 =====
+  - [[http://shindonga.donga.com/docs/magazine/shin/2005/03/23/200503230500042/200503230500042_1.html|한미연합사, 북한 유사시 대비 ‘작전계획 5029-05’ 추진]] //신동아//
+  - [[http://www.tongilnews.com/news/articleView.html?idxno=88914|'아프간 재파병' 동의안, 국회 본회의 통과]] //통일뉴스//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL2021.rtf>
+C O N F I D E N T I A L SEOUL 002021 
+ 
+NOTE: DO NOT/NOT PROCESS. WAITING FOR EAO GUIDANCE. 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/30/2029 
+TAGS: PREL [External Political Relations], PGOV [Internal Governmental Affairs],
+NATO [North Atlantic Treaty Organization], MOPS [Military Operations],
+MARR [Military and Defense Arrangements], ECON [Economic Conditions], YM [Yemen], PK [Pakistan]
+, AF [Afghanistan], CH [China (Mainland)], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: ROK FOREIGN MINISTER ON AFGHANISTAN, FTA AND NORTH 
+KOREA 
+ 
+REF: SEOUL 02020 
+ 
+Classified By: Ambassador D. Kathleen Stephens. 
+Reasons 1.4 (b/d). 
+ 
+¶1.  (C)  Summary:  In a one-on-one breakfast with the 
+Ambassador December 30, Foreign Minister Yu Myung-hwan 
+reaffirmed Seoul's commitment to establishing a PRT in 
+Afghanistan, saying the Administration expects the National 
+Assembly to pass the necessary legislation in February.  Yu 
+expressed concerns that failure to pass the U.S.-ROK Free 
+Trade Agreement in 2010 might adversely affect Korean public 
+attitudes and repeated his firm position that North Korea 
+should not be rewarded merely for returning to the Six-Party 
+Talks.  He was familiar with the compromise of OpPlan 5027 
+but asserted he had only learned of the issue "very late." 
+Yu's discussion of details of the ROK's USD 40 billion 
+nuclear power plant deal with the UAE are being reported 
+septel (Seoul 02020).  End Summary. 
+ 
+Afghanistan 
+----------- 
+ 
+¶2.  (C) FM Yu told the Ambassador on December 30 that the 
+bill authorizing a Korean Provincial Reconstruction team in 
+Afghanistan bill will go to a National Assembly vote in 
+February 2010.  FM Yu, echoing comments made by National 
+Security Advisor Kim Sung-hwan to the Ambassador last week, 
+implied that the ruling party floor leader at the national 
+assembly unilaterally agreed with the opposition party to 
+delay consideration of the bill, to the consternation of the 
+Blue House, MND and MOFAT.  Until then, the ROKG will 
+continue to move forward with planning, including KOICA 
+mobilization.  After the bill is passed in February, the ROKG 
+plans to announce a USD 100 million contribution to 
+Afghanistan (while this is the first tranche of USD 500 
+million spread over five years, Yu was not specific about 
+whether the entire amount will be announced at the same 
+time); the "special budget" for this USD 100 million 
+contribution has been already worked out with the Finance 
+Minister.  Yu said he will visit NATO in Brussels after the 
+PRT bill passes. 
+ 
+¶3.  (C) In an effort to build public support and ensure 
+passage of the bill in the National Assembly, Yu has done 
+off-the-record briefings with editors and editorial writers 
+to explain Afghanistan and why South Korea -- as a member of 
+the OECD and chair of the G-20 -- needs to participate in the 
+effort there.  Yu outlined in detail some of projects the ROK 
+intends to pursue, including the possible construction of a 
+cement factory, and a fruit drying and packaging plant. 
+These practical projects, involving small business efforts 
+essential to the ROK's own early economic development, will 
+help increase public support for the ROK presence. 
+ 
+¶4.  (C) Yu noted the continued political sensitivity to any 
+increased risk to private Korean tourists or missionaries. 
+The ROK would continue to strongly discourage, or prevent as 
+much as possible, Korean citizens travelling to Afghanistan, 
+Pakistan, and Yemen.  If one or two Koreans get in trouble in 
+these places, the public would hold the individuals 
+responsible, but when a group is seized, inevitably the ROKG 
+is under pressure to do something. 
+ 
+FTA 
+--- 
+ 
+¶5.  (C) Yu said he was very worried about the consequences of 
+not moving to ratification of the KORUS FTA in 2010.  Public 
+attitudes in Korea were likely to shift if the United States 
+were perceived as unwilling to move on the FTA three years 
+after signing. 
+ 
+North Korea and the 6PT 
+----------------------- 
+ 
+¶6.  (C) Yu stressed the  ROK would stick to its principles of 
+not rewarding the North Koreans just for returning to talks 
+and of making denuclearization a required agenda item in any 
+inter-Korean discussion.  Yu said China should now assume 
+responsibility for delivering Pyongyang to the Six-Party 
+Talks.  Yu said Wu Dawei, who had accompanied Vice President 
+Xi Jinping to Seoul, had told Yu that China was prepared to 
+convene a Six- Party Talks session by the end of January; 
+other Chinese officials, however, were saying it would not 
+happen until after the lunar new year in mid-February. 
+ 
+Hacking Incident 
+ 
+---------------- 
+ 
+¶7.  (C) Turning to the recent hacking incident, the 
+Ambassador reiterated USG views, which Yu affirmed both NSA 
+Kim and MOFAT Director General had discussed with him.  Yu 
+claimed not to have been informed of the incident until "very 
+late."  The Foreign Minister said the MND officials involved 
+kept it quiet because they were afraid of being punished.  Yu 
+agreed the incident was very serious and affirmed that the 
+points made in our recent demarches on the subject were 
+well-taken. 
+STEPHENS
+</file>
+
+ 

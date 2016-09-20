@@ -1,0 +1,275 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL1215  |  2007-04-26 07:54  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PARM PGOV PINS MARR MCAP KS KN CH JA }}  |
+====== 제 목: 한미 동맹의 정치학(2/3부) ======
+기 밀 SECTION 01 OF 04 SEOUL 001215 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+국무부는 동아태 힐 차관보 및 동아태 수석 부차관보 스티븐스에게 전달하세요((DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS))
+행정명령 12958: 비밀해제: 04/23/2017 
+태그: PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), PGOV(([Internal Governmental Affairs])), PINS(([National Security])), MARR(([Military and Defense Arrangements])), MCAP(([Military Capabilities])), KS(([Korea (South)])), KN(([Korea (North))), CH(([China (Mainland)])), JA(([Japan; Okinawa; Ryukyu Islands])) 
+제 목: 한미 동맹의 정치학(2/3부)
+참조: [[07seoul1211|가. SEOUL 01211]] 
+분류자: 빌 스탠튼 대리대사((번역 주:chargé d´affaires[CDA] BILL STANTON))  근거 1.4 (b/d)
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/05/17 18:16//
+===== 요약 =====
+1. (기밀) 요점: 이 전문은 한미동맹과 정치 역학 관계에 관한 전문 시리즈 중 2번째 전문이다. 참조 전문 가는 어떻게 한국 사람들이 안보 환경을 인식하고 있는지 탐구했으며 주변국과의 대외 관계에 관한 한국민과 정책 입안자들의 견해차가 크게 상충한다는 결론을 내렸다. 그러나 대다수 한국인에게는 한미동맹이 남한 안보에 중심으로 남아있다. 그러나 한국인은 미합중국과의 동맹에서 정확히 무엇을 원하는가? 본 보고서를 위해 인터뷰한 10명이 넘는 한국 안보 전문가들에 의하면 한국은 미합중국으로부터 안전감을 구하고 있다. 그러나 한국민의 자존심을 상하게 않도록 그 과정에서 주의를 기울여야 한다는 전제가 따른다. 또한, 이들은 미합중국의 “본심”이 무엇인지 상당한 의심의 목소리를 내는 동시에 큰 관심을 보였다. 이와 아울러 우리 논의 상대들은 한국의 안보 계획과 관련 경제적 문제가 급선무라고 언급했다. 요약 끝.
+====== 보고 2: 한미 동맹 ======
+===== 안전감 ===== 
+2. (기밀) “남한 사람들이 미합중국과의 동맹으로부터 무엇을 원하는가?”란 질문에 제일 가는 답변은 “안전감”을 구하고 있다는 것이다. 윤영관 전 외교통상부 장관은 6자회담의 다른 회원국들도 당연히 대접받아 마땅하지만, 북한이 결국 연착륙을 하든 경착륙을 하든 간에 북한 핵 문제를 해결하는 열쇠는 바로 한미 동맹에 있다고 말했다. 우리가 회동한 다른 인사들도 남한의 안전감 또는 불안감 여부를 판단하는 정점에는 대개 미합중국과의 동맹이 놓여 있다는 견해를 피력했다. 그런 반응이 그 자체로 놀라운 것은 아니지만, “안전감”이 한국 사람에게 어떤 의미인지 정의해 보라고 압박하면 전문가들의 대답은 세 가지 대표적인 사항을 강조한다:
+  * 비록 한국 사람들이 주한미군의 지속적인 한반도 주둔이 제공하는 안전감을 원하긴 하지만, 그 과정에서 한국민의 자존심에 상처가 되지 않도록 주의해야 한다는 강력한 전제를 수반한다.
+
+  * 대다수 미국인이 생각하는 것보다 훨씬 더 경제 안정이 군사 억지력을 (중요도 면에서) 압도한다.
+
+  * 많은 한국인은 오늘날 미국이 의도하는 것들이 한국의 이해관계에 맞아떨어지는지 의문시한다. 그래서 미국 정부의 “본심”을 간파하는 것이 한국 사람에게 중요하다.
+한미동맹으로부터 한국민이 원하는 것 중 3가지 요소는 아래에 세부적으로 상술되어 있다. 전체적으로 취합하면 미군 주둔이 남한의 국가 안보 계획에서 가장 중요한 역할을 차지하며 한국 영토상의 무력 충돌 방지가 한국민이 생각하는 최우선 과제라고 말한다.
+===== 자존심을 희생하지 않고 =====
+3. (기밀) 미합중국과의 동맹이 남한에 그렇게 중요하다면 주한미군 주둔 지원을 위해 한국이 제공하는 방위비 분담금 규모에 관한 협상에서 왜 그렇게 콧대가 센가?((번역 주: 방위비 분담금 출연금을 연합토지관리계획 사업으로 투입하는 내용의 방위비 분담금 특별협정의 합의를 청와대도 인지하지 못한 상태로 합의된 것을 확인한 이후에―국방부 관계자는 노 대통령이 해임시켰다―그 문제를 동맹변환 관련 회담에서 끊임없이 거론하는 내용을 말하는 것이다.자세한 내용은 [[07seoul173|제 목: 외교통상부, 벨 사령관의 공개적 발언에 항의]] 등의 여러 전문을 보라.)) 한국 정부는 왜 애초에 1958년 건설되어 현재는 낡은 건물을 대체할 새 대사관 공관을 미국이 건설하도록 허가하지 않고 있나? 왜 그들은 상대적으로 경미하고 시비가 엇갈리는 오염 사고를 문제 삼으며 주둔군 지위 협정에 따른 기지 반환 절차를 환경부가 대신하도록 허락했는가? 해당 질문을 비롯해 여타 가중되고 있는 한미 관계 현안에 대한 답변은 이렇다. 한국 정부가 미국 정부를 안보 보증인으로 의존할 수밖에는 없으므로 그들 자존심을 지키면서도 체면을 구기지 않는 방식으로 우리의 요구 사항을 수용할 수 있기까지는 미국의 요구를 들러주는 문제에 대해 그렇게 까다롭게 구는 것이다. 보수단체 한반도선진화재단의 박세일 이사장의 말을 빌리자면 “미합중국이 보통 옳다고 보이지만, 너무 자주 오만해 보인다.”
+
+4. (기밀) 그와 같은 정서를 상당수 한국인이 동감하는 상황에서 미국 정부의 요청에 대한 한국 정부의 대응 방식은 미국의 해당 요청이 어떻게 전달되고 협상하는가에 따라 달라진다. 이홍구 전 주미 대사는 한국의 국내 총생산이 지난 세대 만에 100%가 넘게 성장했는데 미국 정부는 너무 자주 한국을 마치 종속국처럼 취급한다고 불평했다. 현 이화여대 국제관계 교수인 정세현 전 통일부 장관은 미합중국이 여전히 한국을 어린아이같이 다룬다고 말했다. 이런 발언이 과장되긴 했지만, 한국 사회와 정치가 수년 만에 급속하게 변화하면서 새로운 렌즈가 만들어졌고 그 렌즈를 통해서 한미 관계가 투영되고 있다. 예를 들면, 한미동맹으로 한반도에서 공산주의 확산을 억제하는 데 성공했지만, 노 대통령 자신을 포함한 현세대 정치인들은 과거 한국의 권위주의 통치자들을 비판할 뿐만 아니라 미국이 그들 군사 정권을 지지한 점에도 매우 비판적이다. 많은 한국인에게는 미국 정부에서 터져 나오는 (강권하는 듯한) 요구조가 인지되기만 해도 현재 시대 흐름에선 신빙성이 떨어지긴 하되 한국 현대사의 한 시절을 떠 올리게 한다.
+===== 문제는 경제다 =====
+5. (기밀) 한국 사회 내에 여러 잘못된 역사를 바로잡는 일이 크게 부각되고 있지만, 대다수 한국인이 걱정하는 것은 현재와 미래이다. 어딜 가도 한국 사람들과 마찬가지로 자신과 자기 가족의 밝은 미래를 추구하고 있다. 우리가 동 보고서를 위해 자문한 전문가 모두는 남한 시민들 대다수가 걱정하는 안보 문제는 그들의 경제적 이해관계에 깊이 뿌리 박혀 있다. 그들이 가장 걱정하는 것은 떨어지는 폭탄이 아니라 내려가는 주가다. 그런 관점에서 한국의 대북 포용 정책은 북한 개방보다는 경제 참사 방지와 많은 관련이 있다. 물론 많은 사람은 북한 개방이 남한의 경제 원조의 부산물로 딸려오길 바라고 있다. 이전에 “햇볕정책”과 같이 노 대통령의 북한에 대한 “평화와 번영정책”은 남북 사이 적대감을 방어하기 위해 꺼내 든 보험 증권이다. 많은 한국인은 북한이 친절한 말을 듣고 있고 상당한 경제 원조를 받는 이상 남한을 상대로 적대적 행위에 나서지는 않으리라고 믿으며 노 대통령과 뜻을 같이하는 것이다. 한 분석가는 수백 명의 남한 노동자가 북한에 체류하는 것 역시 미합중국의 일방적인 군사 행위에 맞서는 보험 증권의 역할을 수행한다고 지적했다.
+===== 미국의 의도 간파하기 =====
+6. (기밀) 남한의 안정적인 경제 성장을 지키는 것과 직접 연결되는 질문은 바로 동북아와 관련해 미국의 진짜 속내는 무엇인가이다. 우리 대화 상대역 중 한 명이 자명하게 언급했듯이 미국의 이해관계가 남한의 필요 사항에 부합하는 한 한미동맹은 강력히 유지될 것이다. 그러나 그중 상당수는 미합중국이 전 세계 테러와의 전쟁에 더 관심이 있을 수도 있다고 우려한다. 그들은 한국에 대한 미합중국의 (한국 수호) 다짐이 변함이 없다는 보장이 지속해서 필요하다고 주의를 당부했다. “남한은 한미동맹으로부터 무엇을 원하는가”란 질문에 대한 답변으로는 미합중국의 진정한 의도(본심)를 밝히고 미국의 대북 정책에서 일관성을 보여 달라는 빈번한 요청이 해당한다. 예를 들면, 정세현 전 통일부 장관은 핵보유국 북한에 관한 미국의 “제로 톨러런스(무관용)” 정책의 유효성에 이의를 제기했다. 그는 인도나 파키스탄이 핵보유국이 되기 전까지만 해도 미합중국이 한반도 비핵화 열망에 뜻을 같이한다고 한국은 믿었지만, 지금은 많은 이들이 미국의 진짜 입장이 무엇인지 의문을 제기한다고 지적하였다.
+
+7. (기밀) 국민대학교의 안드레이 란코프 박사는 미국 정부와 한국 정부 사이에 차이점은 단지 관점의 차이가 아니라, 진정한 이해관계의 차이라고 언급했다. 한국이 가장 원하는 것은 평화로 북한과의 무력 충돌이 없이 번영하겠다는 의미이며 북한의 붕괴도 없다는 의미이다. 안드레이에 의하면 미합중국은 역시 평화를 원하지만, 북한 정권의 붕괴를 환영할 것이다. 비슷하게 대량살상무기의 확산 방지가 미합중국의 최대 국가 안보 문제이지만, 한국의 주요 관심사는 되지 못한다고 란코프는 덧붙였다. 흥미롭게도 다른 대화 상대역들은 그와 반대되는 주장을 펼친다. 즉 미합중국이 핵보유국 북한을 “관리”할 수 있지만, 그것이 남한의 전략적 이해관계와 완전히 반대라는 것이다. 다른 이들은 한미 양국 사이 긴밀한 안보 정책 공조를 이해하지만, 그런데도 그러한 국가 안보 이해관계에 부여된 우선순위는 다르다고 지적하였다.
+
+8. (기밀) 자문에 응한 많은 전문가는 미국의 의도가 남한의 이해관계와 완전히 일치할 경우에도 한국 안에서 미합중국의 정책을 분명히 이해할 수 있도록 하는 것이 여전히 중요하다고 지적했다. 북한과 중국, 일본을 염두에 둔 미국의 대외 정책 투명성이 한국에는 여전히 결정적으로 중요한 정보이다. 한국 정부는 놀라운 소식이 미국에서 나오길 원하지 않으며 역내 다른 국가들과 미합중국과의 관계 발전 속도가 한미 관계의 속도를 앞지르거나 뒤처지지 않기를 선호한다. 예로, 한국 정부는 북한 관련 최근 미국의 정책 결정을 환영하면서도 (북미 관계보다 한미 관계가) 뒤처질까 봐 걱정하고 있다.
+
+9. (기밀) 결국, 남한 사람들은 주한미군 병력 규모나 해당 부대의 구조에 대해 걱정하기보다는 미국이 뒤에서 버티고 있다는 든든한 느낌의 실재(實在) 여부에 더 걱정한다. 고려대학교의 김병국 박사에 의하면, “한국과 한미동맹에 있어 가장 큰 위협은 워싱턴 정가의 피로감과 좌절감에서 찾을 수 있다”고 한다. 김 박사와 윤영관 전 외교통상부 장관, 그 밖의 다른 이들은 미국 정부가 남한을 상대로 더 효과적인 공공 외교 접근 방식을 개발할 것을 촉구하였다. 즉 이러한 공공 외교 패키지에는 한국 사람들을 안심시킬 수 있는 동시에 그들이 따돌림당하거나 이용당한다는 느낌이 들지 않도록 하는 그런 메시지를 담으라는 것이다.
+//스탠튼//
+[[https://sites.google.com/site/poirotkr/6/07seoul1215|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 내부고리 =====
+  - [[07seoul1211|제 목: 한미 동맹의 정치학(1/3부)]]
+  - [[07seoul1216|제 목: 한미 동맹의 정치학(3/3부)]]
+===== 원본 내려받기 =====
+<file rtf 07SEOUL1215.rtf>
+C O N F I D E N T I A L SECTION 01 OF 04 SEOUL 001215 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS 
+ 
+E.O. 12958: DECL: 04/23/2017 
+TAGS: PREL [External Political Relations], PARM [Arms Controls and Disarmament], PGOV [Internal Governmental Affairs], PINS [National Security], MARR [Military and Defense Arrangements], MCAP [Military Capabilities], KS [Korea (South)], KN [Korea (North)], CH [China (Mainland)], JA [Japan; Okinawa; Ryukyu Islands] 
+SUBJECT: THE POLITICS OF ALLIANCE RELATIONS (2 OF 3) 
+ 
+REF: SEOUL 01211 
+ 
+Classified By: CDA BILL STANTON.  REASONS 1.4 (b/d) 
+ 
+¶1.  (C) SUMMARY:  This is the second in a series of cables on 
+the politics of U.S.-ROK Alliance relations.  Reftel A 
+explored how the ROK perceives its security environment, 
+concluding that the Korean public and their policy makers are 
+heavily conflicted when it comes to relations with their 
+neighboring countries.  For most Koreans, however, the 
+U.S.-ROK Alliance remains central to South Korean security. 
+But what exactly do the South Koreans want from their 
+alliance with the United States?  According to more than a 
+dozen Korean security experts interviewed for this report, 
+the ROK seeks a sense of security from the United States, but 
+with the caveat that care be taken not to offend Korean pride 
+in the process.  They also revealed great interest in, and 
+voiced significant doubts about, the "true intentions" of the 
+United States.  In addition, our interlocutors noted the 
+primacy of economic concerns in Korean security planning. 
+END SUMMARY 
+ 
+-------------------------------- 
+REPORT 2:  THE U.S.-ROK ALLIANCE 
+-------------------------------- 
+ 
+A Sense of Security 
+------------------- 
+ 
+¶2.  (C) The No. 1 answer to the question -- What do South 
+Koreans want from their Alliance with the United States? -- 
+is that they seeks a "sense of security."  Former ROK Foreign 
+Minister Yoon Young-kwan said that with all due respect to 
+the other members in the Six-Party Talks, it was the U.S.-ROK 
+Alliance that remained the key to solving the North Korean 
+nuclear problem, whether the DPRK ended up having a soft 
+landing or a hard one.  Others with whom we met similarly 
+took the view that South Korea's sense of security, or 
+insecurity, largely centered upon its alliance with the 
+United States.  While that response was not surprising in 
+itself, when they were pressed to define what that "sense of 
+security" meant to the Korean people, experts' answers 
+highlighted three main points: 
+ 
+-- Although South Koreans want the security provided by a 
+continued U.S. presence on the Korean Peninsula, it comes 
+with the powerful caveat that care be taken not to offend 
+Korean pride in the process. 
+ 
+-- Economic stability decidedly trumped military deterrence, 
+far more than most Americans realize. 
+ 
+-- Many Koreans question whether U.S. intentions today are 
+truly aligned with Korean interests.  It is thus important to 
+South Koreans to divine the "true intentions" of the U.S. 
+Government. 
+ 
+These three elements of what the Korean people want from the 
+Alliance are elaborated on in more detail below.  Taken as a 
+whole, they indicate the paramount role the U.S. military 
+ 
+SEOUL 00001215  002 OF 004 
+ 
+ 
+presence continues to play in South Korean national security 
+planning, and the primacy the Korean public places on the 
+avoidance of conflict on their land. 
+ 
+Without Sacrificing Pride 
+------------------------- 
+ 
+¶3.  (C) If alliance with the United States is so important to 
+South Korea, why is the ROKG so hard-nosed in negotiations 
+over the amount of burdensharing it provides to support the 
+stationing of U.S. Forces in Korea?  Why hasn't the ROKG 
+allowed the United States to build a new Chancery to replace 
+the current dilapidated building, first constructed in 1958? 
+Why did they allow the Ministry of Environment to supersede 
+the SOFA process on camp returns over relatively minor and 
+disputed incidents of pollution?  The answer to these and 
+other aggravating issues in our relations with South Korea is 
+that it is precisely because the ROKG must rely upon the USG 
+as a security guarantor that it is so prickly about 
+acquiescing to "U.S. demands" until a face-saving way can be 
+found to accommodate our needs, while preserving their pride. 
+ In the words of Park Se-il, President of the conservative 
+Hansun Foundation, "The United States is usually seen as 
+right, but too often as arrogant." 
+ 
+¶4.  (C) With that kind of sentiment shared by many Koreans, 
+how the ROKG responds to what the USG requests often depends 
+on how that request is delivered or negotiated.  Lee 
+Hong-koo, a former ROK Ambassador to the United States, 
+complained that while the ROK's GDP has grown by over 100 
+percent in just the last generation, Washington too often 
+treats South Korea as if it were a dependent country.  Former 
+Unification Minister Jeong Se-hyun, who is now a professor of 
+international relations at Ewha University, said the United 
+States still treated South Korea like a small child.  These 
+are exaggerated statements, but the rapid changes that have 
+occurred in Korean society and politics in recent years have 
+created a new lense through which the U.S.-ROK relationshp is 
+viewed.  For example, while the Alliance succeeded in 
+containing the spread of communism on the peninsula, today's 
+generation of politicians, including President Roh himself, 
+are highly critical of past ROK authoritarian rulers, and by 
+extension of U.S. support for those military governments. 
+For many Koreans, the mere perception of a demanding tone 
+emanating from Washington harkens back to a time in modern 
+Korean history that is now very fashionable to discredit. 
+ 
+It's the Economy 
+---------------- 
+ 
+¶5.  (C) Despite heightened emphasis in Korean society on 
+addressing historical wrongs, it is the present and future 
+that most Koreans worry about.  Like people everywhere, they 
+seek a brighter economic future for themselves and for their 
+families.  Experts consulted for this report all agreed that 
+security concerns for the majority of South Korean citizens 
+are deeply rooted in their economic interests.  It is falling 
+stocks and not falling bombs about which they are most 
+concerned.  In that light, the ROK's engagement policy toward 
+the North has more to do with preventing economic disaster 
+ 
+SEOUL 00001215  003 OF 004 
+ 
+ 
+than opening up the DPRK, although many of them hope the 
+latter will occur as a by-product of South Korean economic 
+assistance.  Like the "Sunshine Policy" before it, President 
+Roh's "Peace and Prosperity Policy" toward the North is an 
+insurance policy taken out to protect against hostility. 
+Many Koreans join him in believing the DPRK is less likely to 
+engage in hostile actions against the South so long as it is 
+hearing kind words and receiving significant amounts of aid 
+from Seoul.  One analyst pointed out that the presence of 
+hundreds of South Korean workers in the North also serves as 
+an insurance policy against unilateral military action by the 
+United States. 
+ 
+Divining U.S. Intentions 
+------------------------ 
+ 
+¶6.  (C) Directly related to preserving stable South Korean 
+economic growth is the question of what the U.S. intentions 
+truly are in the region.  Put self-evidently by one of our 
+interlocutors, as long as U.S. interests are in alignment 
+with the needs of South Korea, the Alliance will remain 
+strong.  Many voiced concerns, however, that the United 
+States may be more interested in fighting the global war on 
+terror.  They cautioned that Koreans needed continued 
+assurances that the United States remains fully committed to 
+the ROK.  Answers to our question -- What does South Korea 
+want from the Alliance? -- included frequent calls for the 
+United States to reveal its true intentions (bonshim) and 
+demonstrate greater consistency in its policy toward North 
+Korea.  For example, former Unification Minister Jeong 
+challenged the validity of Washington's "zero tolerance" 
+policy on a nuclear North Korea.  He pointed out that before 
+India and Pakistan became nuclear weapons states, the ROK 
+believed the United States shared its desire for a 
+nuclear-free Korean Peninsula, but that many now question the 
+true U.S. position. 
+ 
+¶7.  (C) Dr. Andrei Lankov of Kookmin University noted that 
+differences between Washington and Seoul are not just 
+differences of perspective, but real differences of interest. 
+ What the ROK wants above all is peace, meaning no conflict 
+with North Korea, and prosperity, meaning no collapse of the 
+North either.  According to Lankov, the United States wants 
+peace too, but would welcome a collapse of the North Korean 
+regime.  Similarly, preventing the proliferation of WMD is a 
+top national security concern for the United States, but is 
+not really South Korea's primary concern, Lankov added. 
+Interestingly, other interlocutors argued the opposite -- 
+that the United States could decide to "manage" a 
+nuclear-armed North Korea, but that this was completely 
+contrary to South Korea's strategic interests.  Others saw a 
+closer security policy alignment between Washington and 
+Seoul, but nonetheless pointed out that the order of priority 
+assigned to those national security interests differed. 
+ 
+¶8.  (C) Many of the experts consulted noted that even when 
+U.S. intentions were fully in-line with South Korean 
+interests, it was still important for the United States to 
+make sure its policies were clearly understood in the ROK. 
+Transparency in U.S. foreign policy thinking about North 
+ 
+SEOUL 00001215  004 OF 004 
+ 
+ 
+Korea, China and Japan remain critically important pieces of 
+information to the ROK.  In addition to wanting no surprises 
+from Washington, the ROKG prefers that the tempo of U.S. 
+relations with other countries in the region not exceed, or 
+lag behind its own pace.  For example, while welcoming recent 
+U.S. policy decisions regarding North Korea, Seoul worries 
+about being left behind.  That is why the ROKG has been 
+stating publicly that its policy toward North Korea will move 
+forward "one half-step behind" progress in the Six-Party 
+Talks.  Such statements carry the double meaning that Seoul 
+expects Washington will similarly calibrate the pace of its 
+policy decisions with those of its allies. 
+ 
+¶9.  (C) In the end, South Koreans are less concerned over the 
+number of U.S. troops in Korea, or the structure of those 
+forces, than having a strong sense of U.S. support. 
+According to Dr. Kim Byung-kook of Korea University, "the 
+greatest threat to Korea and the Alliance is from fatigue and 
+frustration in Washington."  Dr. Kim, former Foreign Minister 
+Yoon, and others urged the U.S. Government to develop a more 
+effective public diplomacy approach toward South Korea, 
+packaging its message to the Korean people in ways that would 
+reassure them, while at the same time preventing them from 
+feeling bullied or put upon. 
+STANTON
+</file>

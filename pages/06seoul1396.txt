@@ -1,0 +1,473 @@
+^  문서번호  ^  작성일  ^  공개일자  ^  분류  ^  출처  ^
+|  06seoul1396  |  2006-04-26 08:01  |  2011-08-30 01:44  |  일반  |  주한 미국 대사관  |
+
+
+
+
+====== 제 목: 한국의 원자력 프로그램: 현황과 전망 ======
+
+    *  일반   06seoul1396
+    *  국방부망 배포
+    *  국방부망 배포
+    * DEPT FOR ISN - SEMMEL 
+    * DEPT ALSO FOR ISN/NESS, EAP/K 
+    * WHITEHOUSE FOR OSTP 
+    * USDOC FOR 4440/IEP/EAP/OPB/WGOLIKE 
+    * USDOC ALSO FOR ITA/TA 
+    * USDOC ALSO NIST FOR SCARPENTER 
+    * USDOE FOR INTERNATIONAL - R.PRICE 
+    * DEPT PASS TO NRC FOR INTL PROGRAMS 
+    * PARIS FOR USOECD/ENERGY ADVISOR 
+    * USMISSION VIENNA FOR IAEA DEL 
+  * 행정명령 12958
+  * TAGS: TRGY ENRG KNNP KSCA SENV KS
+  * 제목: 한국의 원자력 프로그램: 현황과 전망
+
+----
+
+
+  * 번역자: corey
+
+ 
+
+===== 요약 =====
+
+1.올해는 1956년 핵에너지의 민간 분야 사용에 대한 협정을 위해 양국이 서명한 이래, 미-한의 민간 핵에너지 협력 분야가 50주년이 되는 해이다. 이러한 사실은 올 5월 1일-4일간에 열릴 제27차 한미원자력공동상설위원회의(JSCNEC) 기간 동안 기념될 예정이다.
+  
+2.한국은 상업용 원자로를 1978년에서야 처음으로 가동했으나, 28년이 흐른 지금은 20개의 원자력 발전소에서, 전체 전력의 40% 이상을 공급하는 세계에서 6번째로 큰 원자력 생산국으로 떠올랐다. 한국은 향후 십 년 이내에 전세계에서 원자력 발전에 전념할 몇 안되는 나라 중 하나이며, 향후 10년 동안 8개의 새로운 원자력 발전소를 건설할 계획이다. 만약 향후 전세계 원자력 시장이 부활한다면, 이러한 원전 건설 움직임은 두산 중공업과 같은 한국기업들에게 전세계 원자력 시장에서 유리한 고지를 선점하게 해줄 것이다.  
+  
+3.이러한 성취들에게도 불구하고, 한국의 핵에너지 프로그램은 고준위 방사능 폐기물 처리문제 해결과 시민 단체의 저항과 같은 끊임없는 난제들에 직면하고 있다. 이 통신문은 한국의 원자력 분야의 현황과 예측의 개략적인 부분들을 언급하고 있다. 요약 끝.
+
+===== 원자력 발전 분야를 돌이켜 보는 포럼 =====
+
+4.한국원자력산업회의(KAIF)와 한국원자력학회(KNS)는 지난 4월 20-21일 동안 서울에서 제21차 정기 회의를 서울에서 개최했다. 회의의 주제는 "핵에너지의 지속 가능한 발전”이었다. 이 회의에는 한국 이외에, 미국, 캐나다, 프랑스, 독일, 일본, 베트남에서 온 해외 100여명의 핵에너지 전문가와 과학자들을 포함해400여명 이상이 참석했다.   
+
+5.한국수력원자력(KHNP) 이중재 사장은 기조 연설에서 한국의 원자력 산업의 현황과 미래 전망”을 검토하면서, 기름가격의 상승과 지구 온난화의 우려가 앞으로 전세계 원자력 발전의 르네상스를 가져오게 될 것이라고 조심스럽게 자신의 의견을 말했다.
+
+6.이중재 사장은 한국의 원자력 산업은 다른 원자력 선진국들과 같이 핵발전소 추가에 따른 시민단체의 반대, 안전성과 보안에 대한 우려, 핵발전소 위치선정에 따른 여론의 반대, 그리고 다른 에너지원에 비례하는 원자력의 비용과 같은 어려운 난제들에 여전히 직면하고 있다고 언급했다.
+
+===== 원자력 발전의 운영과 성능 =====
+
+7.한국의 핵 프로그램은 미 원자력위원회의 부분적인 지원아래 1959년 TRIGA Mark II 연구용 원자로 건설 기공으로 시작되었다. 1978년 고리에서 첫 핵발전소를 가동한 이래, 한국수력원자력은 핵에너지 공급을 지속적으로 늘려왔다. 현재 한국은 전국에 20개의 원자력 발전소를 가동 중에 있다. 또한 신고리와 신월성 발전소에 각각 두 개씩의 원자로를 추가로 건설하고 있다. 건설될 4기의 새 발전소들은 이미 가동중인1000 메가와트인 가압경수형 원자로(PWR)의 개량형일 것이다.
+
+8.아래 표1은 한국의 에너지원별 전력 생산 현황을 나타내고 있다. 2005년 핵발전소에서 생산된 전력은 17,716메가와트의 전체 설비용량에서 시간당146,779 기가와트까지 이르었다. 작동중인 20개의 원자력 발전소는 국가 전체 전력 생산의 28.5%를 책임진다고 되어있지만, 정확하게는 한국의 전체 전기 생산의 40% 이상을 공급하고 있다. 현재 한국은 전세계에서 6번째로 많은 원자력 에너지를 생산하고 있다. 
+
+//표1: 2005년 에너지원별 전력 생산 현황//
+--------------------------------------------- ----------
+에너지원별         설비용량(MWe)             생산전력(GWh)
+--------------------------------------------- ----------
+원자력            17,716 (28.5%)              146,779 (40.3%)
+석탄              17,965 (28.9%)              133,657 (36.6%)
+가스              16,552 (26.6%)               58,250 (16.0%)
+석유              4,605  (7.4%)               17,883 (4.8%)
+수력              3,885  (6.2%)                5,153 (1.4%)
+기타              1,537  (2.5$)                 3,349 (0.9%)
+--------------------------------------------- ----------
+
+9.한국수력원자력(이하 한수원)의 주목할 만한 업적 중 하나는 핵발전소의 운영률을 향상시켜왔다는 것이다. 예를 들면 2005년 전세계 평균 가동률은 79.3%이나 한국은 95.5%의 평균 가동률을 기록했다. “Nucleonics Week”지 최신판에 따르면 고리 원자로 4호기는 2005년 설비가동률에서 1위를 차지했으며, 그 다음으로 영광 1호기, 3호기, 울진 1호기, 월성 3호기가 뒤를 이었다. 이 다섯 기의 한국 원자로는 전세계에서 가동률 대비 우수한 최고의 발전소 50곳에서 최고의 순위에 올랐다. 
+
+10.한수원은 또한 지난 10년간 갑작스런 고장이나 계획되지 않는 발전소 정지 비율을 1995년 1.1회에서 2005년에는 0.5회로 감소시키는 괄목할 만한 성과를 달성했다.
+
+11.한국의 원자력 발전소는 핵증기공급 시스템(NSSS)의 공급업체에 따라 대충 4가지 형태로 이루어져 있다. 미국의 Westinghouse사의 기술을 기반으로 한 가압경수로(PWRs)인 구 고리 원자로 4기와 울진 원자로 4기. 프랑스 Framatome사(현 Areva)가 제공한 핵증기공급 시스템을 장착한 가압경수로인 울진 원자로 2기. 케나다의 AECL사의 기술을 기반으로 한 케나다형 가압 중수로 원자로인(CANDU) 월성 원자로 4기. 미국의 CE사(이후 Westinghouse사가 인수)의 기술지원을 받아 만든 한국형 표준 원자로(KSNP)라고 불리는 가압경수로가 있다. 
+
+12. 표2는 현재 핵발전소 위치와 작동중인 원자로 수를 나타내고 있으며 괄호 안에 각각의 설비용량을 표시하고 있다.
+
+
+//표2: 핵발전소 현황 (단위: MWe)//
+^ 원자로 위치 ^ 운영중 ^
+|  고리  |  4기 (3,137)  |
+|  월성  |  4기 (2,739)  |
+|  영광  |  6기 (5,900)  |
+|  울진  |  6기 (5,900)  |
+|  전체  |  20기 (17,716)  |
+
+===== 원자력 발전소 건설 및 계획 =====
+
+13. 아래 표3에 따르면 한국은 향후 10년 동안 8개의 새로운 원자력 발전소를 건설할 계획이다. 한수원은 계획된 8기의 원자로 중 신고리 1,2호기, 신월성 1,2호기에 1,000MWe 가압경수로를 설치되기로 이미 건설 허가를 받아 놓았다.
+(‘신’은 새롭다를 의미함. – 고리와 월성 발전소의 부근에 위치하고 있음) 
+
+14. 신고리 1,2기는 2005년 10월에 건설 기공식을 가졌고, 2010년 이나 2011년에 완공 예정이다. 신월성 1호기와 2호기는 올 7월에 각각 기공식을 가질 예정이고, 각각 2011년과 2012년에 상업운전을 할 계획이다. 
+
+15. 아래 표에 나타나듯이 나머지 4기는 개량형 가압경수로로 (1,400 MWe-급 ALWRs, 또한 APR1400으로 불린다) 신고리와 신울진에 2014년 2016년에 각각 건설되도록 계획되어 있다(각 지역에 두기씩). 한수원은 올해 안에 주계약이 체결되기를 기대하고 있다.
+
+
+//표3. 건설 중이거나 건설 예정인 원자력 발전소//
+^ 사업계획 ^   ^ 원자로형 ^   ^ 설비용량(MW) ^   ^ 설비유형 ^   ^ 상업운전 ^
+|신고리 1호기 ||  PWR  ||  1,000  ||  OPR1000  ||  2010  |
+|       2호기 ||  PWR  ||  1,000  ||  OPR1000  ||  2011  |
+|       3호기 ||  ALWR  ||  1,400  ||  APR1400  ||  2013  |
+|       4호기 ||  ALWR  ||  1,400  ||  APR1400  ||  2014  |
+|신월성 1호기 ||  PWR  ||  1,000  ||  OPR1000  ||  2011  |
+|       2호기 ||  PWR  ||  1,000  ||  OPR1000  ||  2012  |
+|신울진 5호기 ||  ALWR  ||  1,400  ||  APR1400  ||  2015  |
+|       6호기 ||  ALWR  ||  1,400  ||  APR1400  ||  2016  |
+
+
+  주석: PWR: 가압경수형 원자로
+        ALWR: 개량형 가압경수로
+        OPR: 한국표준형 원전
+        APR: 한국형 신형 경수로 
+
+===== 방사성 폐기물 저장소 건설 =====
+
+16. 19년간의 갈등 끝에, 한국정부는 2005년 3월 첫 중앙화된 방사능  폐기장을 최종적으로 선정했다.(중-저준위 방사능 폐기물만을 위한) 부지 선정은 선정된 지역을 위한 대규모의 개발 자금 약속 이후로 반핵 활동가들의 반대에도 불구하고 지역민 투표에 의해 선택되었다.
+
+17.방사성 폐기물 관리를 책임져야 하는 한수원은 신울진 근처 경주에 2백만 제곱미터의 시설을 건설할 예정이다. 초기 단계에는 100,000드럼을 수용할 시설을 2009년 말까지 완공할 예정이고, 최종적으로 800,000드럼의 폐기물을 수용하도록 확장할 예정이다.
+
+===== R&D에 지속적인 투자 =====
+
+18.한국은 일체형 원자로(SMART), 차세대 핵발전 원자로(제4세대원자력시스템 국제공회에 속한 국제 파트너들과의 협력을 통해), 핵에너지를 이용한 수소 생산 같은 우선 프로젝트들의 연구개발에 투자를 증가할 것이라고 이중재사장은 주장했었다.  전력 생산뿐만 아니라 담수화를 위해서 설계된 SMART원자로는 모든 것이 계획대로 진행된다면 2009년에 상업화가 될 것으로 전망된다.
+
+===== 해외 시장을 개척하려 하다 =====
+
+19.한수원은 핵발전소의 건설과 운영에 풍부한 경험을 가진 회사로서 해외 전문가들의 교육에 다른 나라들과 협력할 의사가 있고, 또한 한수원은 원자력 발전소 운영 및 유지와 같은 틈새 시장에 진출하기를 기대하고 있다고 이중재 사장은 말했다.
+
+===== 청정 에너지, 하지만 여전히 극복과제가 남아있고 ====
+
+20.이 사장은 1,000MW 설비용량의 핵발전 원자로는 석탄을 사용하는 화력 발전소보다 이산화탄소를 매년 750만톤 더적게 배출하므로 원자력이 청정에너지임을 강조했다. 2005년 한국의 원자력 발전은 시간당 약 1470억 킬로와트에 이르렀으므로, 만약 이 에너지를 화력발전으로 생산한다면, 1억 4천 만톤의 이산화 탄소를 배출할 것이라고 이사장은 언급했다.
+
+21.그럼에도 불구하고, 한국은 다른 원자력 선진국들과 마찬가지로 핵 발전 확장에 대한 시민단체의 반대, 안전성과 보안에 대한 논쟁, 원자력 시설의  부지 선정에 대한 지역민의 반대, 다른 에너지원과의 경쟁, 그리고 핵 과학자와 전문가들의 육성과 같은 다양한 난제들에 직면하고 있다고 언급했다.
+
+===== 대중들의 원자력에 대한 인식을 향상시켜라 =====
+
+23. 효과적인 사회적 합의를 이끌어 내기 위해서 한국 정부는 2006년 10월 국가 에너지 위원회를 출범하고자, 수준 높은 정책 입안 조직을 만들 계획이다. 의장인 대통령과 25명의 다양한 국무위원으로 이루어진 국가 에너지 위원회는 안정적인 에너지 수급을 목표로 한 20개년 기본 에너지 계획을 책임질 것이다. 여론은 감안해서 제외하게 된 경주의 고준위 방사능 폐기물 처리 계획은 앞으로 역점을 두어 다루게 될 논쟁 거리 중 하나이다. 에너지 기본 법안 제정과 관련되어 있는 위원회 구성은 올 10월에 시행될 것이다.
+
+===== 논평 =====
+
+23.만약 이 사장이 조심스레 예측한 원자력의 르네상스가 도래한다면, 한국은 유리한 위치를 선점할 것이다. 한국에서 지속적인 새로운 원전 건설은 두산중공업 같은 한국의 기업들에게 전세계 특정 지역에 적합한 충분한 전문 기술과 제조능력을 부여해 오고 있다. 논평 끝.
+
+버시바우
+
+
+
+
+
+
+----
+
+
+
+
+
+UNCLAS SEOUL 001396 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR ISN - SEMMEL 
+DEPT ALSO FOR ISN/NESS, EAP/K 
+WHITEHOUSE FOR OSTP 
+USDOC FOR 4440/IEP/EAP/OPB/WGOLIKE 
+USDOC ALSO FOR ITA/TA 
+USDOC ALSO NIST FOR SCARPENTER 
+USDOE FOR INTERNATIONAL - R.PRICE 
+DEPT PASS TO NRC FOR INTL PROGRAMS 
+PARIS FOR USOECD/ENERGY ADVISOR 
+USMISSION VIENNA FOR IAEA DEL 
+ 
+E.O. 12958: N/A 
+TAGS: TRGY ENRG KNNP KSCA SENV KS
+SUBJECT: SOUTH KOREA'S NUCLEAR POWER PROGRAM: STATUS 
+AND PROSPECTS 
+
+
+
+
+SUMMARY 
+------- 
+ 
+1.  This year marks the 50th anniversary of U.S.-Korea 
+cooperation in the field of civilian nuclear energy, 
+begun with the signing in 1956 of the bilateral 
+Agreement for Cooperation on Civil Uses of Nuclear 
+Energy.  This fact will be commemorated during the 27th 
+meeting of the Joint Standing Committee on Nuclear 
+Energy Cooperation (JSCNEC) on May 1-4. 
+ 
+2.  Korea's first commercial nuclear power reactor went 
+into operation only in 1978, but in the intervening 28 
+years, Korea has risen to become the world's sixth- 
+largest producer of nuclear power, with more than 40 
+percent of its electricity being supplied by 20 nuclear 
+power plants.  Korea is one of the few countries in the 
+world committed to substantial nuclear power 
+development in this decade, and plans to build eight 
+new power plants over the next 10 years.  This 
+construction activity will ensure than Korean companies 
+such as Doosan Heavy Industries are well-positioned to 
+prosper if the global nuclear market sees a resurgence 
+in coming years. 
+ 
+3.  Despite its successes, Korea's nuclear energy 
+program faces continuing challenges, including finding 
+a solution to the problem of high-level radioactive 
+waste disposal and public resistance.  This message 
+provides an overview of the status and prospects of the 
+Korean nuclear power sector.  End Summary. 
+ 
+FORUM LOOKS AT NUCLEAR POWER SECTOR 
+----------------------------------- 
+ 
+4.  The Korea Atomic Industrial Forum (KAIF) and the 
+Korea Nuclear Society (KNS) hosted their 21st joint 
+Annual Conference in Seoul April 20-21.  The theme was 
+"Sustainable Development of Nuclear Energy: Current 
+Issues and Challenges."  The conference drew more than 
+400 atomic energy specialists and scientists from South 
+Korea and 100 from abroad, including the United States, 
+Canada, France, Germany, Japan, and Vietnam. 
+ 
+5.  In his keynote address, Korea Hydro and Nuclear 
+Power Company (KHNP) President Lee Joong-jae reviewed 
+the "Current Status and Future Prospects of Nuclear 
+Industry in South Korea."  He cautiously opined that a 
+global nuclear renaissance is coming, prompted by 
+concern over global warming and by the rising price of 
+oil. 
+ 
+6.  Lee stated that the Korean nuclear industry, like 
+those of other advanced nuclear countries, still faces 
+significant challenges, including NGO opposition to 
+expanding nuclear power, concerns about safety and 
+security issues, public opposition to the siting of 
+nuclear facilities, and the cost of nuclear power 
+relative to other energy sources. 
+ 
+NUCLEAR POWER OPERATION AND PERFORMANCE 
+--------------------------------------- 
+ 
+7.  Korea's nuclear program began modestly, with 
+groundbreaking in 1959 for the construction of a TRIGA 
+Mark II research reactor partially funded by the U.S. 
+Atomic Energy Commission.  Since the first nuclear 
+power plant was inaugurated in 1978 at Kori, the Korea 
+Hydro and Nuclear Power Company (spun off in 2001 from 
+the Korea Electric Power Corporation) has achieved a 
+steady growth in nuclear power production.  At present, 
+South Korea has 20 operating nuclear power plants 
+throughout the country.  It also has four plants under 
+construction, two units each at the Shin-Kori and Shin- 
+Wolsong plant sites.  The four new plants will be an 
+upgraded version of the 1,000 MWe pressurized water 
+reactors already in service. 
+ 
+8.  Table 1 below outlines the status of electric power 
+generated in Korea by energy source.  Power generation 
+from nuclear reactors in 2005 reached 146,779 gigawatt 
+hours (GWh), with a total installed capacity of 17,716 
+MWe.  The 20 operating nuclear plants account for 28.5 
+percent of the nation's total electric generating 
+capacity, but actually produce more than 40 percent of 
+Korea's total electricity output.  At present, South 
+Korea is the world's sixth-largest producer of nuclear 
+power. 
+ 
+Table 1: Status of Electric Power by Energy Source 
+                                As of yearend 2005 
+--------------------------------------------- ---------- 
+Energy Source       Installed          Electricity 
+                    Capacity (MWe)     Generation (GWh) 
+--------------------------------------------- ---------- 
+Nuclear           17,716 (28.5 pct)  146,779 (40.3 pct) 
+Coal              17,965 (28.9 pct)  133,657 (36.6 pct) 
+Gas               16,552 (26.6 pct)   58,250 (16.0 pct) 
+Oil                4,605  (7.4 pct)   17,883  (4.8 pct) 
+Hydro              3,885  (6.2 pct)    5,153  (1.4 pct) 
+Others             1,537  (2.5 pct)    3,349  (0.9 pct) 
+--------------------------------------------- ---------- 
+Total             62,260  (100 pct)  364,571  (100 pct) 
+--------------------------------------------- ---------- 
+ 
+9.  One of KHNP's notable achievements has been to 
+improve the performance of its nuclear power plants. 
+For example, in 2005 the average capacity factor of 
+Korean nuclear power plants was 95.5 percent, compared 
+to the world average of 79.3 percent.  According to a 
+recent edition of "Nucleonics Week," Kori reactor unit 
+4 ranked first place in capacity utilization in 2005, 
+followed by Yonggwang unit 1 and 3, Ulchin unit 1, and 
+Wolsong unit 3.  These five Korean plants topped the 
+list of the world's 50 best plants in terms of capacity 
+factors. 
+ 
+10.  KHNP also achieved remarkable progress in reducing 
+the average unplanned plant shutdown rate over the 
+previous ten years, from 1.1 cases in 1995 to 0.5 cases 
+in 2005. 
+ 
+11.  Korea's nuclear power plants (NPPs) are of roughly 
+four different designs, depending upon the supplier of 
+the nuclear steam supply system (NSSS).  The first four 
+Kori NPPs and the four Yonggwang NPPs are pressurized 
+light water reactors (PWRs) based on the technology of 
+the U.S.-based company Westinghouse.  The first two 
+Ulchin plants are PWRs with the NSSS components 
+supplied by the French firm Framatome (now Areva).  All 
+of the four Wolsong NPPs are Canada Deuterium Uranium 
+pressurized heavy water reactors (CANDU-PHWRs) based on 
+upon technology of the Canadian company AECL.  The 
+remaining plants are PWRs, called the Korean Standard 
+Nuclear Power Plant (KSNP), based on technology of U.S.- 
+based Combustion Engineering (later bought by 
+Westinghouse). 
+ 
+12.  Table 2 shows the current status of nuclear power 
+plants at each site, with the number of operating 
+reactors and their installed capacity in parentheses. 
+ 
+Table 2: Status of Nuclear Power Plants (NPPs) 
+            (Unit: Megawatts) 
+--------------------------- 
+Reactor Site   In Operation 
+--------------------------- 
+Kori             4 (3,137) 
+ 
+Wolsong          4 (2,739) 
+Yonggwang        6 (5,900) 
+Ulchin           6 (5,900) 
+---------------------------- 
+Total           20 (17,716) 
+---------------------------- 
+ 
+NUCLEAR POWER CONSTRUCTION AND PLANNING 
+--------------------------------------- 
+ 
+13.  As shown in Table 3 below, Korea has plans to 
+build eight new nuclear power plants (NPPs) over the 
+next 10 years.  Of the planned eight reactors, KHNP has 
+already obtained construction permits for Shin-Kori 1&2 
+and Shin-Wolsong 1&2 (Shin means new -- the sites are 
+adjacent to the existing Kori and Wolsong sites).  All 
+of the four reactor types are 1,000-MWe PWRs. 
+ 
+14.  Groundbreaking for construction of Shin-Kori 1 and 
+2 was held in October 2005, and they are scheduled for 
+completion in 2010 and 2011, respectively. 
+Groundbreaking for Shin-Wolsong 1 and 2 will occur in 
+July this year, aiming at commercial operation in 2011 
+and 2012, respectively. 
+ 
+15.  The remaining four advanced light water reactors 
+(1,400 MWe-class ALWRs, also called the APR1400), are 
+still on the drawing table, but are projected to be 
+built at Shin-Kori and Shin-Ulchin (two units at each 
+site) by 2014 and 2016, respectively.  KHNP expects to 
+have the main contract concluded within this year. 
+ 
+Table 3: NPPs under Construction and Planned 
+--------------------------------------------- ---------- 
+Project       Reactor    Capacity    Plant   Commercial 
+              Type        (MW)       Type    Operation 
+--------------------------------------------- ---------- 
+Shin-  No.1   PWR       1,000      OPR1000       2010 
+Kori      2   PWR       1,000      OPR1000       2011 
+          3   ALWR      1,400      APR1400       2013 
+          4   ALWR      1,400      APR1400       2014 
+ 
+Shin-     1   PWR       1,000      OPR1000       2011 
+Wolsong   2   PWR       1,000      OPR1000       2012 
+ 
+Shin-     5   ALWR      1,400      APR1400       2015 
+Ulchin    6   ALWR      1,400      APR1400       2016 
+--------------------------------------------- ---------- 
+Note: PWR: Pressurized Water Reactor 
+      ALWR: Advanced Light Water Reactor 
+     OPR: Optimized Power Reactor 
+     APR: Advanced Power Reactor 
+ 
+RADIOACTIVE WASTE REPOSITORY CONSTRUCTION 
+----------------------------------------- 
+ 
+16.  After 19 years of stymied efforts, the Korean 
+government finally selected a site for the nation's 
+first centralized radioactive waste repository (for low 
+and intermediate-level nuclear waste only) in March 
+2005.  The choice was confirmed by a referendum among 
+local residents, despite opposition by anti-nuclear 
+activists, after promises of large-scale development 
+funding for the winning jurisdiction. 
+ 
+17.  KHNP, responsible for managing the nation's 
+radioactive waste, will build the facility on two 
+million square meters located in Gyeongju, near the 
+Shin-Wolsong site.  In the initial stage, a 100,000- 
+drum capacity facility is to be completed by the end of 
+2009.  It will eventually be expanded to store 800,000 
+drums of radioactive waste. 
+ 
+CONTINUING INVESTMENT IN R&D 
+ 
+---------------------------- 
+ 
+18.  Lee asserted that Korea will continue to increase 
+its R&D spending on priority projects such as the 
+system-integrated modular advanced reactor (SMART) 
+program, development of the next-generation nuclear 
+power reactor (working with international partners in 
+the Generation IV Nuclear Forum), and hydrogen 
+production using nuclear energy.  The SMART reactor, 
+designed for both electricity generation and seawater 
+desalination, is expected to be commercialized from 
+2009, if everything goes as planned. 
+ 
+LOOKING FOR OVERSEAS MARKETS 
+---------------------------- 
+ 
+19.  As a company with substantial experience in 
+building and operating nuclear power plants, Lee said, 
+KHNP is willing to cooperate with other countries in 
+training foreign specialists.  KHNP also hopes to 
+advance into niche markets overseas in nuclear power 
+operation and maintenance. 
+ 
+CLEAN ENERGY, BUT CHALLENGES STILL TO BE OVERCOME 
+--------------------------------------------- ---- 
+ 
+20.  Lee underlined the clean nature of nuclear power, 
+asserting that a 1,000 MW capacity nuclear power unit 
+produces 7.5 million fewer tons of carbon dioxide each 
+year than a thermal power plant using coal.  In 2005, 
+nuclear generation in Korea reached about 147 billion 
+kilowatts hour (KWh).  If this much energy had been 
+generated with coal, 140 million tons of additional 
+carbon dioxide would have been emitted, Lee said. 
+ 
+21.  Nonetheless, Lee stated that Korea, like other 
+advanced nuclear countries, faces a variety of 
+challenges, including NGO opposition to expanding 
+nuclear power, issues of safety and security, local 
+opposition to the siting of nuclear facilities, 
+competition from other energy sources, and the 
+development of nuclear scientists and specialists. 
+ 
+ENHANCING PUBLIC ACCEPTANCE OF NUCLEAR POWER 
+-------------------------------------------- 
+ 
+22.  In an attempt to generate a stronger social 
+consensus, the Korean government plans to launch a new 
+high-level policymaking body, to be dubbed the State 
+Energy Commission, in September 2006.  The State Energy 
+Commission, chaired by the President and including 
+various Cabinet ministers among its 25 members, will be 
+charged with formulating a 20-year basic energy plan 
+aimed at promoting stable energy supplies.  One of the 
+issues it will address is the treatment of high-level 
+radioactive waste, left out of the Gyeongju plan in 
+order to assure public acceptance.  The formation of 
+the commission is linked to the implementation of the 
+Basic Act on Energy that will take effect in September 
+this year. 
+ 
+COMMENT 
+------- 
+ 
+23.  If Lee's cautious prediction of a global nuclear 
+renaissance proves correct, Korea will be well-placed 
+to benefit.  The steady construction of new plants in 
+Korea has given Korean manufacturers such as Doosan 
+Heavy Industries a depth of current expertise and 
+manufacturing capacity that is matched in few other 
+places around the world.  End Comment. 
+ 
+VERSHBOW

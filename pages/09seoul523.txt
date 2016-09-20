@@ -1,0 +1,146 @@
+^  문서참조번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL523  |  2009-04-01 06:30  |  기밀  |  주한 미국 대사관  |  {{tag>ETTC KOMC KS MNUC MTCRE PARM }}  |
+====== 제 목: 소비자 직접 거래 050138421: 미사일 기술과 나이키 허큘리스 II (NHKll)에 대한 한국정부의 포괄적 보증서 수령 ======
+기 밀 SEOUL 000523
+국방부망 배포
+국무부 산하 국제안보·비확산국/미사일위협제거청 및 정치·군사국/방위무역관리청으로 전달((STATE PASS TO ISN/MTR AND PM/DDTC ))
+ 
+행정명령 12958: 비밀해제: 03/31/2019
+태그: ETTC KOMC KS MNUC MTCRE PARM
+제 목: 소비자 직접 거래 050138421: 미사일 기술과 나이키 허큘리스 II (NHKll)에 대한 한국정부의 포괄적 보증서 수령
+참조: STATE 12425
+분류자: 정치 공사 참사관 조셉 윤((POLMC Joseph Yun )) 근거 1.4 (d,e)
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/12/25 08:47//
+
+1. (미분류) 대사관은 2009년 3월 25일 참조 전문에서 요청받은 한국정부의 포괄 보증서를 수령하였다.
+
+2. (기밀) 참조 전문의 지시에 따른 한국정부의 포괄 보증서 전문은 아래와 같다.
+
+2009년 3월 19일
+
+
+데이비드 울프 귀하
+제1 서기관
+정치군사과
+주한미국대사관
+대한민국 서울
+ 
+친애하는 울프 씨
+
+대한민국 방위사업청이 구매한 얼라이드 방위산업체 제작 <wrap hi>나이키 허큘리스</wrap> ll 미사일 관련 전력 케이블 결합체와(역주: 전원공급장치) 관련해 당신의 2009년 3월 3일 자 서신과 관련해 대한민국 정부는 아래와 같은 (최종 사용자, 재이송, 보안) 자체 보증을 제공합니다.
+
+앞서 내용에 의거해 한국정부는 이로써 미합중국 정부의 사전 서면 동의를 우선 취득하지 않는다는 가정이 충족되지 않는 한 아래와 같은 내용에 대해 자체 보증한다:
+
+가) 취득 품목은 대량살상무기를 목적으로 한 디자인, 개발, 제작, 투발 체계의 운영 및 발사 용도나, 대량살상무기를 목적으로 한 여타 투발 체계의 개조 용도로 활용되지 않을 것이다.
+
+나) 취득 품목은 기술된 목적으로만 활용될 것이며, (나이키 허큘리스 ll 미사일의 운영과 유지보수를 위한 예비 부품으로 사용될 예정) 당해 용도는 변경되지 않을 것이며, 취득 품목 자체를 미국 정부의 사전 동의 없이 변조하거나 복제하지 않을 것이다.
+
+다) 취득 품목이든 그에 따른 복제품이든 파생 품목이든 미국 정부의 동의 없이는 재이송되지 않을 것이다; 그리고
+
+라) 이러한 보증을 목표로 대량살상무기 목적의 투발 체계는 (탄도 미사일, 위성발사체, 그리고 관측 로켓을 포함한) 완전한 형태의 로켓 시스템이나 (순항 미사일 체계, 조준 드론, 정찰 드론을 포함한) 무인항공기용 체계를 포함하기로 합의되었다. 즉: 가) 핵무기, 생화학 무기의 투발할 목적: 혹은 나) 적어도 500kg을 탑재하여 적어도 300km의 사정거리를 투발할 능력.
+
+대한민국 정부를 대신하고 대표하여
+
+북미국 한미 안보협력과장
+김용현 올림.
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/14/09seoul523|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+<WRAP center round help 80%>//**사고 뭉치 '고물 중의 고물' 나이키 허큘리스 아직도 사용?**//
+1일 오후 대구시 달성군 현풍면 논공읍 구마고속도로 상행선 달성2터널 안에서 나이키미사일 추진체를 실은 화물차에 화재 사고가 발생하자 공군은 당혹스러운 표정을 감추지 못하고 있다.
+
+공군 내에서도 '고물 중의 고물'로 통하는 나이키미사일과 관련한 아찔한 사고가 그동안 여러 차례 발생했기 때문이다. (중략)…[[https://www.evernote.com/shard/s258/sh/723827e0-6c33-4c62-9374-b2fe713ef49c/d9f3addcdc9572ac3f4afaebb3aa1ad6|공군, 나이키미사일 '또 사고' 당혹]] //연합뉴스// 일독을 권합니다.
+</WRAP>
+<WRAP center round tip 80%>//**2010년 전후로 전부 퇴역한다고 사실일까?---킬 체인과 MD는 또 뭔소리?**//
+현재 전세계에서 유일하게 우리나라만 현재도 이 미사일을 지대공 미사일로 운용 중인데 너무 노후한 미사일인 관계로 1조1천억원 규모의 차기 유도무기사업(SAM-X)에 착수, 2008년부터 독일에서 도입하는 중고 PAC-2 4 Patriot 미사일 48기로 대체를 진행중이며 2010년전후로 전부 퇴역할 것으로 예상합니다. 퇴역하는 나이키 미사일은 지대공 임무에서 지대지용으로 임무전환할 계획이리고 보도된바 있으며 중고 Patriot 미사일로 긴급대체된 후에는 우리나라가 자체 개발중인 KM-SAM 철매-2 미사일로 완전 대체될 것입니다. [[https://www.evernote.com/shard/s258/sh/f3706924-1bb0-4697-87f1-030a31f1ff86/f826c6e6707d4b99e825538af43faae4|전세계 유일하게 한국만 운용중인 Nike-Hercules  지대공 미사일]] //블로그//
+</WRAP>
+<WRAP center round important 80%>//**1조 3600억짜리 대공미사일사업(SAM-X) 현주소는?---레이더 고장으로 ⅓가동 중단!**//
+공군의 차기 대공미사일사업(SAM-X) 계획에 따라 총 8개 포대에 실전 배치된 패트리엇 미사일 시스템의 레이더 8대(포대당 1대) 중 3대가 고장 나 수개월째 가동이 중단된 것으로 18일 확인됐다. 레이더가 고장 나면 목표물을 향해 패트리엇 미사일의 발사를 지시하고 유도할 수 없게 된다. 패트리엇이 무용지물이나 다름없게 되는 것이다.[[https://www.evernote.com/shard/s258/sh/fb9575cf-23de-4deb-88aa-9084294e1a04/66fba31c441e669a880c0c1b28109893|'방공망 핵심' 패트리엇(공중 요격 미사일) 레이더 8대 중 3대 고장
+1조3600억 들여 2009년 배치… 6개월째 가동 중단]] //조선일보//
+</WRAP>
+===== 원본 내려받기 =====
+<file rtf 09SEOUL523.rtf>
+C O N F I D E N T I A L SEOUL 000523 
+ 
+SIPDIS 
+ 
+STATE PASS TO ISN/MTR AND PM/DDTC 
+ 
+E.O. 12958: DECL: 03/31/2019 
+TAGS: ETTC KOMC KS MNUC MTCRE PARM
+SUBJECT: (C)  DTC CASE 050138421: ROKG UMBRELLA ASSURANCES 
+RECEIVED FOR MISSILE TECHNOLOGY/NIKE HERCULES II (NHKII) 
+ 
+REF: STATE 12425 
+ 
+Classified By: POLMC Joseph Yun for reasons 1.4 (d,e) 
+ 
+
+
+¶1.  (U)  Post received the ROKG umbrella assurances letter 
+requested in reftel on March 25, 2009. 
+ 
+
+
+¶2.  (C)  Per reftel instructions, the text of the ROKG 
+umbrella assurances letter is as follows. 
+ 
+March 19, 2009 
+ 
+Mr. David Wolff 
+First Secretary 
+Political-Military Affairs 
+Embassy of the United States of America 
+Seoul, Korea 
+ 
+ 
+Dear Mr. Wolff 
+ 
+With regard to your letter dated March 03, 2009 concerning 
+the Republic of Korea,s Defense Procurement Agency (DAPA),s 
+purchase of 1 power cable assembly related to the Nike 
+Hercules II (NHK II) missile, from Allied Defense Industries, 
+the Government of the Republic of Korea gives its assurances 
+(end-use, retransfer, and security) as follows. 
+ 
+In accordance with the foregoing, the Government of the 
+Republic of Korea hereby gives its assurances that unless the 
+prior written consent of the Government of the United States 
+of America has been first obtained: 
+ 
+A)  The item will not be used in the design, development, 
+manufacture, launch or operation of any delivery system for 
+weapons of mass destruction or in the conversion of any other 
+delivery system for weapons of mass destruction; 
+ 
+B)  The item will be used only for the purpose stated, (which 
+is to be used as spare parts for the maintenance and 
+operation of the Nike Hercules II Missile), and such use will 
+not be modified nor the items themselves modified or 
+replicated without the prior consent of the U.S. Government; 
+ 
+C)  Neither the item, nor replicas, nor derivatives thereof, 
+will be retransferred without the consent of the U.S. 
+Government; and 
+ 
+D)  For the purpose of these assurances, a delivery system 
+for weapons of mass destruction is agreed to include any 
+complete rocket system (including ballistic missiles, space 
+launch vehicles, and sounding rockets) or unmanned air 
+vehicle system (including cruise missile systems, target 
+drones and reconnaissance drones) that is: a) intended to 
+deliver nuclear, chemical, or biological weapons: or b) 
+capable of delivering a payload of at least 500 kg to a range 
+of at least 300 km. 
+ 
+For and on behalf of the Government of the Republic of Korea 
+ 
+ 
+Sincerely, 
+ 
+Kim Yonghyon 
+Director 
+ROK US Security Cooperation Division 
+North America Affairs Bureau 
+STEPHENS
+</file>

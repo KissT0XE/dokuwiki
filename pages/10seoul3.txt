@@ -1,0 +1,46 @@
+^  참조문서번호  ^  생성일  ^   비밀등급  ^  출처  ^  태그  ^
+|  10SEOUL3  |  2010-01-04 05:09  |  기밀  |  주한 미국 대사관  |  {{tag>KTFN PTER PINR PREL SA YM UN KN KS }}  |
+====== 제 목: 한국 정부, 유엔 안전보장이사회 결의안 1267 공동 제안하기로 합의 ======
+기 밀 SEOUL 000003 
+국방부망 배포
+[[http://www.state.gov/s/ct/ | 국무부 대테러 조정 센터]]((번역 주: S/CT : the Office of the Coordinator for Counterterrorism )) 제이슨 브레이제키스((JASON BLAZAKIS)) 
+
+행정명령 12958: 비밀해제: 09/17/2039 
+태그: KTFN (([Terrorism Finance Traffic])), PTER (([Terrorists and Terrorism])), PINR (([Intelligence])), PREL (([External Political Relations])), SA (([Saudi Arabia])), YM (([Yemen])), UN (([United Nations])), KN (([Korea (North)])), KS (([Korea (South)])) 
+제 목: 한국 정부, 유엔 안전보장이사회 결의안 1267 공동 제안하기로 합의
+참조: SECSTATE 129597 
+분류자: 정치 참사관 제임스 웨이만((번역 주: POL M/C JAMES L. WAYMAN. :political minister counselor )) 근거 1.4 (B/D) 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/23 02:54//
+
+(기밀) 1월 4일에 대사관 정무 직원은 참조 전문 (외교)전환책에 대한 응답을 외교통상부 국제안보과 박치영으로부터 받았다. 박치영은 한국정부가 유엔안보리 결의안 1267호를 통한 알카에다 아라비아반도 지부(支部)와 다른 조직에 대한 유엔 제재 명단 등제를 공동 제안할 용의가 있음을 확인해 주었다. 그녀는 한국 정부가 주 뉴욕 총영사관에 ”만일 요청이 오면, 유엔안보리 결의안 1267호와 관련해 필요한 협조를 제공하라”고 지시했다고 했다. 박치영은 외교통상부가 참조 전문에 제공된 정보를 한국정부 관계부서에서 전달했다고 역시 우리에게 통지하였다. 그녀는 만일 추가적인 정보가 있으면 최신 소식을 제공하겠다고 약속했다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/10seoul3|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 10SEOUL3.rtf>
+C O N F I D E N T I A L SEOUL 000003 
+ 
+SIPDIS 
+ 
+S/CT JASON BLAZAKIS 
+ 
+E.O. 12958: DECL: 09/17/2039 
+TAGS: KTFN PTER PINR PREL SA YM UN KN KS
+SUBJECT: ROKG AGREES TO CO-SPONSOR UNSCR 1267 
+ 
+REF: SECSTATE 129597 
+ 
+Classified By: POL M/C JAMES L. WAYMAN. REASONS 1.4 (B/D) 
+ 
+(C) On January 04, poloff received a response to reftel 
+demarche from Park Chi-young, MOFAT's International Security 
+Affairs Division.  Park confirmed that the ROKG is willing to 
+co-sponsor the UN listing of AQAP and several operatives 
+through UNSCR 1267.  She stated that the ROKG instructed its 
+Mission in New York to "provide the necessary cooperation on 
+UNSCR 1267, including co-sponsorship, if a request is made." 
+Park also informed us that MOFAT forwarded the information 
+provided in reftel to the relevant ROKG ministries.  She 
+promised to provide update if additional information is 
+available. 
+STEPHENS
+</file>

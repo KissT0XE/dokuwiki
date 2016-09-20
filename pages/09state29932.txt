@@ -1,0 +1,361 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09STATE29932  |  2009-03-27 19:38  |  비밀/외국전파금지(2급)  |  국무부 장관  |  {{tag>MARR PREL PARM KPAO KN KS JA }}  |
+====== 제 목: 대포동 2호 발사 직후 공공 외교와 관련한 동맹 조율 ======
+비 밀 STATE 029932 
+외국전파금지((NOFORN ))
+
+행정명령 12958: 비밀해제: 03/26/2034 
+태그: MARR(([Military and Defense Arrangements])), PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), KPAO(([Public Affairs Office])), KN(([Korea (North)])), KS(([Korea (South)])), JA(([Japan; Okinawa; Ryukyu Islands]))
+제 목: (비밀) 대포동 2호((역주: 북한은 광명성2호라고 칭함)) 발사 직후 공공 외교와 관련한 동맹 조율
+분류자: 동아시아태평양 크리스토퍼 힐 차관보((EAP A/S Christopher R. Hill)) 근거 1.4 (b and d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/04 04:07//
+
+1. (비밀/외국전파금지) 동맹 관리상의 이유로 그리고 공공 인식을 형성하기 위해서는 한국과 일본에 주재한 우리 대사관과 군사령관들은 주재국과 긴밀히 협력하고 예고된 북한 대포동2호 발사에 대한 공식 대응으로 일관된 메시지를 제공하는 것이 중요하다. 국무부와 국방부가 지금까지 이 문제와 관련 훌륭한 일 처리에 사의를 표한다. 특히 부처 간에 공조가 뛰어났다. 국무부는 한국과 일본 정부의 계획뿐만 아니라 주한 미국 대사관, 주일 미국 대사관, 주한미군과 주일미군에서 나온 의견을 바탕으로 아래와 같은 언론 대응 지침을 발부한다. 이 지침을 미 태평양사령부 사령관과 주한미군과 주일미군 사령관의 지원을 받아 주한, 주일 미국 대사의 지휘 아래 실행에 옮기도록 한다. 각 대사관과 사령관은 공유된 전략적 목표에 부응하여 메시지 주도력(([[wp>Message_discipline]] //위키피디아//, 그리고[[http://bit.ly/PxPpVf|Political Animal - Message discipline 101]] //Washington Monthly// 바깥 고리를 첨부한다.))의 중요성을 지속적으로 재고하도록 4문단에 적시된 논지의 취지를 살려 공조 용도로 해당 지침을 주재국 정부와 공유할 수 있을 것이다. 이 메시지는 국방부와의 조율을 거쳤다.
+
+2. (비밀/일본, 한국 관련) 북한이 미사일을 발사할 경우 주한/주일 미국 대사는 요청이나 초대가 있을 시 논의를 위해 청와대/수상 관저를 방문하며 공조하는 모습을 보여준다.
+
+3. (비밀/일본, 한국 관련) 백악관이나 국무부는 북한 미사일 발사에 따른 공개적인 성명을 발표할 수도 있다. 각 대사관은 언론 성명을 발표하지 않거나/하지 말아야 한다. 미사일 발사에 앞서 주한 미국 대사관과 주일 미국 대사관은 6문단에 포함된 사전 허가된 표현을 사용하여 온 더 레코드 취지에 맞게 언론의 질문에 응답할 수 있다. 주한, 주일 대사관은 (북한의) 발사에 앞서 7문단에 포함된 논지를 한국 정부와 일본 정부가 같이 공유함에 더해 일관된 메시지를 보장할 수 있도록 같은 논지를 사용할 것을 권고한다. 서울과 도쿄에서는 당일 미사일 발사가 있을 것으로 예상하기 때문에 발사 이후 조율된 메시지가 나오도록 주한 미국 대사관과 주일 미국 대사관은 6문단에 포함된 사전 허가된 표현을 사용하여 온 더 레코드 취지에 맞춰 언론의 질문에 응대할 수 있다. (주석: 국방부 공보 차관보실의 지령이 내려지면 북한의 발사에 따른 백악관 또는 국무부의 성명을 조율하여 미북부사령부가 미사일 발사를 확인하는 보도 자료 발표를 준비할 예정이다. 이는 국방부 산하 미북부사령부가 발사의 성격을 규정하는 책임과 능력을 보유하기 때문이다. 주석 끝.)
+
+4. (비밀/일본, 한국 관계) 국가 담당팀은 군 사령부의 지원을 받아 대포동2호 발사와 관련해 공공 외교 공조라는 맥락에서 한일 양국 정부 상대역에게 다음과 같은 논지를 펼쳐야 한다.
+  * 우리의 유연성을 감소시키거나 북한에 득이 되는 위기 분위기 조성을 피하는 것이 중요하다.
+
+  * 우리는 북한의 행동에 따른 즉각적인 대응 모습을 보여줘야 한다는 압박이 당신내 국가 내부에서 조성되고 있음을 이해한다. 뉴스 수요가 늘수록 압박만 고조될 뿐이다. 그러나 우리는 대중의 불안을 줄이는 용도로, 우리 3국 사이 지속적이고 심도 있는 협력뿐만이 아니라 공동 준비 태세를 제시하는 하나의 수단으로 공개 석상 성명을 활용할 것을 강력하게 촉구한다.
+
+  * 북한의 발사에 대한 우리의 국제적인 대응은 유엔 안보리 결의 1718호 위반이란 사실을 바탕으로 유엔 안보리 중심으로 이뤄질 예정이다. 우리가 유엔 안보리에서 펼칠 공동 노력의 결과에 대해 공개적으로 논하는 일은 잠재적으로 비생산적이고 현명하지 않을 것이다.
+
+  * 우리는 정보 제공자와 취득 방법을 위험에 처하게 만들고, 우리가 함께 개발한 통일되고 신중한 메시지를 훼손하는 정보 유출이 계속되고 있어 우려하고 있다. 언론에 등장한 유출 정보에 대해선 우리 동맹국 정부가 확인해 주지 않는 것이 중요하다.
+5. (비밀/일본, 한국 관계) 태평양사령부, 주한미군, 주일미군, 미사일방어청, 미 육군 전략통신 사령부는 북한의 발사에 따른 보도 자료 성명을 발표하지 않거나/하지 말아야만 한다. 국방장관실과 태평양 사령부, 주한미군과 주일미군 인사들은 발사 과정이나 발사 이전에 발사 배경에 관한 언론의 질문에 기밀이 아닌 정보를 이용해 개괄적인 말로 대응할 수도 있다. 이는 발사 당일이나 발사를 앞둔 상황에서 미·일, 한미 정보 공유나 군사 공조의 범위에 국한된다.
+
+6. (민감하지만 미분류) 대포동2호 발사에 앞서 주한 미국 대사관과 주일 미국 대사관은 언론의 질문에 응대하기 위해 다음과 같은 논지를 사용할 수 있다. 아래의 논지는 국무부 대변인이 사용하는 상설 언론 대응 지침과 유사하다.
+  * 우리는 북한이 소위 “시험통신위성” 추진체라고 말하는 대포동2호 발사 준비에 관한 북한의 활동과 의도를 예의 주시하고 있다.
+
+  * 미합중국과 한국, 일본 정부는 긴밀한 협의를 통해 북한의 대포동2호 또는 여타 로켓 발사를 애써 만류해 왔다.
+
+  * 이번 도발적인 행동은 역내(동북아) 안전과 관계에 도움이 되지 않을 것이다.
+
+  * 어떤 식의 발사가 됐건 국제사회로부터 북한의 고립을 가중할 뿐이다.
+
+  * 북한은 대신에 6자 회담의 과정과 비핵화, 이웃 국가들과의 관계 개선에 초점을 맞춰야만 한다.
+
+  * 유엔안보리 결의안 1718호는 북한이 탄도 미사일 프로그램과 관련된 모든 활동을 중단하도록 요구함에 더해 자체 탄도 미사일 프로그램에 대해 완전하고 검증가능하며 불가역적인 방식으로 폐기할 것을 요구한다.
+
+  * (한국)/(일본)과 미국 정부는 북한이 우주발사체 또는 인공위성 발사라고 성격을 규정하고 있지만, 북한의 대포동 2 또는 다른 로켓 발사는 유엔안보리 결의 1718호 위반이 된다는 점에 견해를 같이한다. 인공위성을 지구 궤도에 진입시키는 데 필요한 장비와 기술은 탄도 미사일 무기 탑재물 발사에 필요한 장비와 기술 등과 사실상 동일하며 서로 대체가 가능하다.
+
+  * 우리 동맹국 정부는 이번 사태가 전개됨에 따라 긴밀한 소통을 계속 유지할 것이다.
+7. (비밀/일본, 한국 관련; 발사 후는 민감하지만 미분류) 대포동 2 발사 이후에 주한 미국 대사관과 주일 미국 대사관은 다음과 같은 논지를 살려 언론의 질문에 대응할 수 있다. 그 밖의 모든 질문에 대해서는 미국 정부에 문의해야 한다.
+
+  * XX 일 북한은 (대포동2호 장거리 미사일을) 발사하였다. 이번 발사는 (탑재물을 지구 궤도에 진입시키는) (탑재물을 지구 궤도에 진입시키지 못하는) (발사체의 실패라는) 결과로 나타났다.
+
+  * 우리는 북한의 탄도 미사일 프로그램에 대해 그간 누차 우려를 표명해왔다.
+
+  * 북한의 탄도 미사일이나 관련 기술과 재료, 장비 등을 개발, 배치, 확산하는 일은 역내와 국제사회에 대한 심각한 위협이 되고 있다.
+
+  * 이번 발사는 (북한이 (인공위성) 혹은 (우주발사체)로 그 성격을 규정할지라도) 유엔안보리 결의안 1718호 위반이다.
+
+  * 북한이 (로켓) 발사체로 성격을 규정하더라도, 미합중국은 북한의 어떠한 미사일 실험도 유엔안보리 1718호 위반으로 판단한다. 탄도 미사일과 우주발사체는 거의 동일하고 서로 대체가 가능한 기술로부터 유래한다.
+
+  * 유엔안보리 결의 1718호는 북한의 탄도 미사일 프로그램과 관련된 모든 활동을 중단하도록 요구함에 더해 북한이 완전하고 검증가능하며 불가역적인 방식으로 탄도 미사일 프로그램을 폐기할 것을 요구하고 있다.
+북한이 이번 사건의 성격을 우주발사체로 규정한 것과 관련해 질문을 받을 경우:
+
+  * 유엔안보리가 미사일 관련 활동은 반드시 중단해야 한다는 선명한 성명을 두 가지 결의안(1695호와 1718호)에 담아낸 것을 고려할 때 북한이 우주발사체 발사라고 그 성격을 규정할지라도 북이 실행에 옮긴 이런 형태의 발사는 유엔안보리 결의 1718호 위반이라고 판단한다.
+
+북한의 동기에 관한 질문을 받을 경우:
+  * 우리는 북한의 동기에 관해 상정(想定)하지 않는다.
+북한 미사일 수출과 관련한 질문을 받을 경우:
+  * 우리는 북한이 계속해서 탄도 미사일과 관련 장비, 재료를 우려 대상 국가를 상대로 수출하는 것에 대해 크게 우려하고 있다. 그런 수출은 유엔안보리 결의안 1718호 위반이다.
+
+  * 북한은 자체 미사일 기술과 장비를 전 세계에 판매해왔다.
+
+  * 미합중국은 북한 법인에 대해 수차례 미사일 관련한 운반을 했다는 이유로 제재를 가한 바 있는데 가장 최근의 사례는 2009년 2월에 있었다.
+6자 회담의 미래에 대해 질문을 받을 경우:
+  * 6자 회담 과정에 대한 미합중국의 다짐은 변함이 없다. 더불어 6자 회담의 2005년 9.19 공동 성명에 따른 공약을 완수할 것을 북한에 요구하고 있다. 또한, 미국은 기존의 핵 프로그램과 모든 핵무기를 되도록 이른 시일 내에 포기할 것과 핵확산금지조약과 안전조치협정에 복귀할 것을 요구하고 있다.
+유엔의 조치에 관한 질문을 받을 경우:
+  * 미합중국은 이번 발사를 유엔안보리 결의 1718호 위반으로 간주하고 있다. (추가적인 논평은 미국 정부에 문의한다.)
+미국이 취할 양자 조치나 일방적인 조치/제재 여부에 관해 질문을 받을 경우:
+  * (추가적인 논평은 미국 정부에 문의한다.)
+한미일 미사일 방어 협력에 관한 질문을 받을 경우:
+  * 미국과 한국, 일본은 동맹국 당사국으로써 북한의 미사일 발사 실행 및 지원과 관련한 북한의 행보에 적절히 대응하고, 이해하고, 더 잘 감시하기 위해 긴밀히 협력해 왔다.
+미합중국이 (일본)(한국)과 함께 이번 발사에 관한 자료를 공유하고 있는지 질문을 받을 경우:
+  * 미합중국과 (일본)(한국)은 다양한 외교 및 군사 채널을 통해 발사 이전과 직후에 정보를 교환했다. 우리는 우리 우방인 (일본)(한국)과 긴밀한 협의를 계속할 것이다. 그러나 우리는 자체 군사작전과 계획 또는 정보, 또는 서로 간의 외교적 교류 활동에 관한 자세한 내용에 대해서 언급할 수 없다.
+(일본)(한국) 수호에 대한 미국의 다짐에 관한 질문을 받을 경우:
+  * 미합중국은 (일본과 미국 간의 상호 협력 및 안전 보장 조약) (1954년 한미상호방위조약)에 따라 미국의 의무를 충실히 이행할 준비가 되어 있다. 한국과 일본에 주둔한 미군은 우리의 방위 조약에 따른 의무에 충실히 부응하도록 준비 태세를 갖추기 위해 역내 전역에 걸쳐 호된 훈련을 하고 있다.
+언론 대응 지침((번역 주: 대언론자료(중앙일보), 언론설명문(서울신문), 그 밖에 언론 지침, 등의 표현으로 사용되고 있는데 네가 보기에는 언론 대응 지침 혹은 언론 지침이 가장 적절한 번역이다.)) 본문 끝.
+//클린턴//
+NNNN
+전문 본문 끝.
+
+[[https://sites.google.com/site/poirotkr/secretary-of-state/09state29932|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round info 90%>
+//**‘언론 대응 지침’(Press Guidance)이란?**//
+이 전문 내용 자체가 언론 대응 지침인데 그 번역은 제 각각이다. 우선 대언론자료(중앙일보), 언론설명문(서울신문), 그 밖에 언론 지침, 등의 표현으로 사용되고 있는데, 본 전문으로도 충분치 않다면 바깥 고리 [[http://bit.ly/T2cRL6|[시론] 북한정보 대응체계 개선해야 / 김연철]]를 일독 권장한다.
+</WRAP>
+===== 어두운 세상을 밝히려면 후원자의 소중한 손길이 절실합니다 =====
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}
+===== 바깥 고리 =====
+  - [[http://bit.ly/T2cRL6|[시론] 북한정보 대응체계 개선해야 / 김연철]]  //한겨레//
+  - [[http://bit.ly/PxPpVf|Political Animal - Message discipline 101]] 
+  - [[wp>Message_discipline]] //위키피디아//
+===== 원본 내려받기 =====
+<file rtf 09STATE29932.rtf>
+S E C R E T STATE 029932 
+ 
+ 
+NOFORN 
+ 
+E.O. 12958: DECL: 03/26/2034 
+TAGS: MARR [Military and Defense Arrangements], PREL [External Political Relations], PARM [Arms Controls and Disarmament], KPAO [Public Affairs Office], KN [Korea (North)], KS [Korea (South)], JA [Japan; Okinawa; Ryukyu Islands] 
+ 
+SUBJECT: (S) ALLIANCE COORDINATION ON PUBLIC DIPLOMACY 
+IMMEDIATELY FOLLOWING A TD-2 LAUNCH 
+ 
+Classified By: EAP A/S Christopher R. Hill for reasons 1.4 (b and d). 
+ 
+¶1. (S/NF) For alliance management reasons and in order to 
+shape public perceptions, it is important that our Embassies 
+and military Commands in the ROK and Japan work closely with 
+host governments and provide consistent messaging in 
+responding publicly to the expected North Korean Taepodong-2 
+launch.  The State and Defense Departments appreciate the 
+excellent work of Embassies and Commands on this matter thus 
+far, in particular the superb cross-agency coordination. 
+Based on input received from Embassies Seoul and Tokyo, U.S. 
+Forces Korea (USFK), U.S. Forces Japan (USFJ), as well as the 
+plans of the ROK and Japanese governments, Department issues 
+the following guidance, to be implemented under the direction 
+of the Chiefs of Mission in Seoul and Tokyo, and supported by 
+Commander USPACOM and Commanders at USFK and USFJ.  Embassy 
+and Commands may share these instructions with host 
+governments for coordination purposes, drawing on talking 
+points in para 4 to reinforce the continued importance of 
+message discipline to serve shared strategic objectives. 
+This message has been coordinated with the Department of 
+Defense. 
+ 
+¶2. (S/Rel JA, KS) In the event of a North Korean missile 
+launch, Chiefs of Mission in Seoul and Tokyo may, if 
+requested/invited, call on the Blue House/Kantei for 
+discussions and to exhibit coordination. 
+ 
+¶3. (S/Rel JA, KS) Either the White House or the State 
+Department may issue a public statement following a North 
+Korean missile launch.  Embassies should not/not release 
+press statements.  Prior to a launch, Embassies Seoul and 
+Tokyo may respond on-the-record to press inquiries using the 
+pre-cleared language contained in para 6.  Embassies Seoul 
+and Tokyo may also share the points contained in para 7 with 
+the ROKG and GOJ in advance of a launch and recommend that 
+the ROKG/GOJ use the same points in order to ensure a 
+consistent message.  Because any missile launch is expected 
+to occur during the day in Seoul and Tokyo (overnight in 
+Washington), to ensure roll out of a coordinated post-launch 
+message, Embassies Seoul and Tokyo are also authorized to 
+respond on-the-record to press inquiries using the 
+pre-cleared language contained in para 6.  (NOTE:  When 
+directed by OASD Public Affairs, and in coordination with the 
+post-launch White House or State Department public statement, 
+NORTHCOM will be prepared to issue a press release confirming 
+the launch, as NORTHCOM has the responsibility and capability 
+within the Defense Department to provide launch 
+characterization.  END NOTE). 
+ 
+¶4. (S/Rel JA, KS) Country teams with the support of the 
+military Commands, should make the following points to 
+counterparts in the ROKG and GOJ as context for coordinating 
+public diplomacy related to the TD-2 launch. 
+ 
+-- It is important to avoid creating a crisis atmosphere that 
+will reduce our flexibility and give advantage to North 
+Korea. 
+ 
+-- We understand that North Korea,s actions create domestic 
+pressure in your countries to appear responsive.  The demands 
+of the news cycle only heighten the pressure.  However, we 
+strongly urge you to use public statements as a means to 
+reduce public anxiety and project our joint preparedness as 
+well as the in-depth cooperation that continues among our 
+three countries. 
+ 
+-- We expect that the international response to a North 
+Korean launch will be centered largely in the UN Security 
+Council based on the violation of UNSCR 1718.  It would be 
+unwise and potentially counterproductive to speculate 
+publicly on the outcome of our joint efforts there. 
+ 
+-- We are concerned by continued leaks, which place sources 
+and methods at risk and undermine the unified careful message 
+we have developed together.  It is important that our 
+governments not confirm leaked information that appears in 
+the media. 
+ 
+¶5. (S/Rel JA, KS) PACOM, USFK, USFJ, Missile Defense Agency, 
+and STRATCOM should not/not release press statements 
+following a DPRK launch.  As authorized by the Office of the 
+Secretary of Defense and Commander PACOM, USFK and USFJ 
+personnel may respond to media questions on background, to 
+explain in general terms, using unclassified information, the 
+extent of U.S.-Japan and U.S.-ROK information-sharing and 
+military-to-military coordination in advance of and during 
+the launch. 
+ 
+¶6. (SBU) Before the TD-2 launch, Embassies Seoul and Tokyo 
+may use the following points to respond to press inquiries. 
+These points are similar to the standing guidance being used 
+by the State Department spokesperson. 
+ 
+-- We are closely monitoring North Korea,s activities and 
+intentions, which have indicated they are preparing to launch 
+a Taepodong-2 (TD-2) for delivery of a so-called 
+&experimental communications satellite.8 
+ 
+-- Through close consultations, the governments of the United 
+States, Republic of Korea, and Japan have tried to discourage 
+North Korea from launching a TD-2 or other rocket. 
+ 
+-- This provocative act would not be helpful to stability and 
+relations in the region. 
+ 
+-- Any launch would only further isolate North Korea from the 
+international community. 
+ 
+-- North Korea should focus instead on the Six-Party Talks 
+process and denuclearization, and on improving its relations 
+with its neighbors. 
+ 
+-- United Nations Security Council Resolution 1718 requires 
+North Korea to suspend all activities related to its 
+ballistic missile program, and to abandon its ballistic 
+missile program in a complete, verifiable, and irreversible 
+manner. 
+ 
+-- The (ROK)/(Japanese) and U.S. governments agree that the 
+launch of a TD-2 or other rocket by North Korea would be a 
+violation of UNSC Resolution 1718, even if the North 
+characterizes it as the launch of a satellite or a space 
+launch vehicle.  The equipment and technology necessary to 
+launch a satellite into orbit are virtually identical to and 
+interchangeable with the equipment and technology necessary 
+to launch a ballistic missile weapons payload. 
+ 
+-- Our governments will continue to be in close communication 
+as this situation further develops. 
+ 
+¶7. (S/Rel JA, KS; SBU after launch) Following a TD-2 launch, 
+Embassies Seoul and Tokyo may draw from the following points 
+in response to press inquiries.  All other questions should 
+be referred to Washington. 
+ 
+-- On XX, North Korea launched (a Taepo Dong-2 (TD-2) 
+long-range missile.)  The launch resulted in (delivery of a 
+payload to orbit) (failure to deliver a payload to orbit) 
+(failure of launch vehicle). 
+ 
+-- We have long expressed our concerns regarding North 
+Korea,s ballistic missile programs. 
+ 
+-- North Korea's development, deployment, and proliferation 
+of ballistic missiles, missile-related materials, equipment, 
+and technologies pose a serious threat to the region and to 
+the international community. 
+ 
+-- This launch is a violation of United Nations Security 
+Council Resolution (UNSCR) 1718, (even though the DPRK has 
+characterized this as a (satellite) (space launch vehicle) 
+launch). 
+ 
+-- The United States believes that any missile test by the 
+DPRK violates UNSCR 1718, even if the DPRK characterizes it 
+as a launch vehicle.  Ballistic missiles and space launch 
+vehicles derive from nearly identical and interchangeable 
+technologies. 
+ 
+-- UNSCR 1718 requires that North Korea suspend all 
+activities related to its ballistic missile program, and that 
+it abandon its ballistic missile program in a complete, 
+verifiable, and irreversible manner. 
+ 
+If asked about the DPRK characterization of the event as the 
+launch of a space-launch vehicle: 
+ 
+-- Given the clear statement of the United Nations Security 
+Council in two resolutions (1695 and 1718) that 
+missile-related activities must cease, the United States 
+believes any launches of this type conducted by the DPRK 
+violate UNSCR 1718, even if the DPRK seeks to characterize 
+them as space launch vehicles. 
+ 
+If asked about North Korea's motives: 
+ 
+-- We will not speculate about North Korea's motives. 
+ 
+If asked regarding North Korean missile exports: 
+ 
+-- We are greatly concerned about North Korea's continued 
+export of ballistic missiles and related equipment, 
+materials, and technologies to countries of concern.  Such 
+exports violate UNSCR 1718. 
+ 
+-- North Korea has marketed its missile technology and 
+equipment worldwide. 
+ 
+-- The United States imposed sanctions on North Korean 
+entities multiple times for missile-related transfers, most 
+recently in February 2009. 
+ 
+If asked about the future of the Six-Party Talks: 
+ 
+--The United States remains committed to the Six-Party Talks 
+process, and calls on the DPRK to fulfill its commitments 
+under the September 19, 2005 Joint Statement of the Six-Party 
+Talks, to abandoning all nuclear weapons and existing nuclear 
+programs and returning, at an early date, to the Treaty on 
+Non-Proliferation of Nuclear Weapons and to IAEA safeguards. 
+ 
+If asked about UN actions: 
+ 
+--The United States considers this launch a violation of 
+UNSCR 1718.  (Refer to Washington for further comment.) 
+ 
+If asked about U.S. bilateral and/or unilateral 
+actions/sanctions: 
+ 
+-- (Refer to Washington for further comment.) 
+ 
+If asked about U.S.-ROK-Japan Missile Defense Cooperation: 
+ 
+-- The United States, ROK, and Japan have worked closely as 
+alliance partners to better monitor, understand, and respond 
+appropriately to North Korean actions in support and 
+execution of a missile launch. 
+ 
+If asked about when the United States shared data with 
+(Japan) (the ROK) about the launch: 
+ 
+-- The United States and (Japan) (the ROK) have exchanged 
+information before and immediately after the launch through a 
+variety of diplomatic and military channels.  We will 
+continue to consult closely with our (Japanese) (ROK) allies. 
+ We cannot, however, discuss details of our military 
+operations, plans or intelligence, or the content of our 
+diplomatic exchanges. 
+ 
+If asked about the U.S. commitment to defend (Japan) (the 
+ROK): 
+ 
+-- The United States is prepared to meet fully its 
+obligations under the (U.S.-Japan Treaty of Mutual 
+Cooperation and Security) (U.S.-ROK Mutual Defense Treaty of 
+1954).  Our forces in Korea, Japan, and throughout the region 
+train rigorously in order to be prepared to meet our treaty 
+obligations. 
+ 
+End Text of Press Guidance. 
+CLINTON 
+ 
+ 
+NNNN 
+ 
+
+
+
+End Cable Text
+</file>

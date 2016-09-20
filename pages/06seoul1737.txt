@@ -1,0 +1,243 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL1737  |  2006-05-23 09:40  |  기밀  |  주한 미국 대사관  |  {{tag>EAID EAGR PGOV PREL KS KN }}  |
+====== 제 목: 북한 식량 사정: 좋지 않고, 아마도 심각한 상황일 듯 ======
+기 밀 SEOUL 001737 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+로마 주재 미국 식량농업기구대표단((ROME FOR FODAG ))
+모스코 주재 대사관은 블라디보스토크 주재 대사관에 전달((MOSCOW PASS VLADIVOSTOK ))
+국무부 동아시아태평양국/한국과((STATE FOR EAP AND EAP/K ))
+국가안정보장회의 차, 콜린, 브라스((NSC FOR CHA, COLLINS AND BRAUSE ))
+미국 농무부 그루낸펠더((PASS USDA FOR GRUNENFELDER ))
+
+행정명령 12958: 비밀해제: 05/23/2016 
+태그: EAID(([Foreign Economic Assistance])), EAGR(([Agriculture and Forestry])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 북한 식량 사정: 좋지 않고, 아마도 심각한 상황일 듯 
+분류자: 경제 공사 참사관 커트 통((EconMinCouns Kurt Tong ))  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/06/15 11:56//
+===== 요점 =====
+
+1. (기밀) 우리는 북한이 1990년대 중반이나 말 기근과 유사한 상황을 겪고 있거나, 조만간 겪을 거라는 다수의 예측을 최근 봐왔다. 식량 배급제의 붕괴와 지역에 따른 식량 부족에 관한 보고가 곧 닥칠 식량 위기의 주요한 증거로 거론되고 있다. 일부 전문가들은 2005년 수확량이 애초의 보고보다 풍작이 아니었다는 증거를 언급하고 있다.
+
+2. (기밀) 남한 분석가들과 정부 당국자들은 실제로 2006년 식량 상황은 아주 절박한 상태가 지속할 거라고 믿고 있다. 그들은 가장 중요한 세계식량계획을 비롯한 민간단체의 추방과 맞물려 식량 배급제로 복귀한 북한 정부에 기근 가능성에 대한 책임을 돌리고 있다. 그러나 남한 전문가들은 1990년대와 같은 광범위한 기아가 되풀이되려면 일종의 자연 재해나 인재 같은 중요한 요인이 부가적으로 필요할 것으로 생각하고 있다. 대사관의 견해는 북한이 암시장 활동을 확실히 방지해보려는 시도로 야기될 고충을 고려할 때, 대규모 기근 위험성을 소홀히 해서는 안 된다. 요약 끝
+ 
+===== 북한 정부에 책임 =====
+
+3. (기밀) 대사관 경제과 직원은 권태진 농촌경제연구원 선임연구위원과 함께 북한의 임박한 식량 위기 보고에 대한 얘기를 나누었다. 권 박사는 북한 농촌 경제 분야의 선도적인 정부 전문가로 알려졌으며, 북한 관련 정부의 다양한 정보에 접근할 수 있는 혜택을 누리고 있다. 권태진이 말한 바로는 북한의 식량 확보 가능성이 여러 이유로 힘들어지고 있다. 첫째, 4월, 5월, 6월은 역사적으로 월동 비축 식량이 소비에 따른 단경기(端境期)로 신년 첫 수확이 아직 준비되지 않았기 때문이다. 남한은 이처럼 단순한 농경 생활의 현실을 넘어서는 발전했지만, 북한은 여전히 연례 현상으로 말미암아 아직도 고초를 겪고 있다.
+
+4. (민감하지만 미분류) 그러나 다가올 식량 부족의 더 중요한 원인은 곡물의 민간 무역과 소매 금지와 우연히 겹치면서 북한 당국이 식량 배급제를 다시 구축한 점에 있다고 권태진은 말하였다. 북한중앙정부는 식량 공급과 유통 창구에 대한 장악력을 되찾으려고 하면서 사람들이 판매용으로 쟁여놓은 식량을 압수당하지 않도록 꼭 움켜쥐고 있다. 그러한 불법으로 식량을 쟁여놓은 사람들은 축재에 따른 처벌을 피하려고 한다. 권태진의 견해로는 대체로 지역에 따른 북한의 식량 부족은 이러한 계절적 부족과 식량 배급제로 야기된 비효율성이 결합한 데 그 원인을 돌린다.
+
+5. (기밀) 그와 동시에 권태진은 북한이 본격적인 기근에 직면할 수 있다는 일각의 우려 표명에 대해 크게 의미를 부여하지 않았다. 경고의 목소리는 대체로 북한에서 근무하는 민간단체나 비전문가에게서 나온다고 그는 말하였다. “그들은 항상 경종을 울린다.”라고 비꼬았다. 흥미롭게도 북한에는 상대역으로 의지할 만한 농촌경제연구원과 같은 기관이 없으므로 그는 자체적으로 북한을 방문해 직접 조사를 펼칠 민간단체 채널을 활용한다고 우리에게 말하였다.
+===== 통일부는 걱정하지 않아 =====
+
+6. (기밀) 대사관 경제과 직원은 김진구 통일부 사회문화교류국 지원기획과장과 함께 회동하였다. 김진구도 비슷하게 위기 상황 전망에 대해 큰 의미를 두지 않았다. 김진구는 북한은 1990년대 기근 이후에 과거 10년에 걸쳐 만성적인 식량 부족을 경험해왔다고 설명했다. 그런 맥락에서 남한 정부는 아직은 대북 식량 원조를 “정례화”할 준비를 하지 않는 가운데 또 다른 대규모 기근을 피하고자 정부가 식량과 비료 지원을 지속해야 한다는 점을 수용하였다. 김진구는 남한 정부가 북한의 원조 요구를 사안에 따라 지속해서 평가할 예정이라고 주장했다.
+
+7. (기밀) 2006년 남한의 대북 식량 원조 상황에 관해 묻자, 통일부 김진구는 쌀 선적 계획은 아직 내려지지 않았다고 응답하였다. <wrap hi>그는 대북 쌀 선적은 거의 10년 동안 매년 평균 40~50만 톤 수준이었다고 공언하며, 한국 정부는 북한의 요구에 대해 논의를 해봐야 할 것이라고 덧붙였다.</wrap> 더 많은 쌀을 보내기로 결정이 나면, 조달과 수송에 더해 북한의 개개인의 수령자에게 쌀이 전달되기까지 두 달이 소요될 것이다.
+
+8. (민감하지만 미분류) 그 와중에 비료와 관련해 남한은 이미 올해 15만 톤의 비료 수송을 완료했고, 대략 20만 톤에 달하는 두 번째 수송은 5월 중순에 시작해서 7월 중순에 완료될 거로 예상한다. 김진구가 말한 바로는, 남한 정부는 북한이 바라는 비료 10만 톤을 보낼지 아직 결정하지 않았다고 한다.
+===== 미래가 밝지 않다 =====
+
+9. (민감하지만 미분류) 농촌경제연구원이 시행한 조사에 의하면 북한의 곡물 생산량은 해마다 감소하고 있다. 이런 감소세의 원인은 경작지의 감소, 토양 악화의 진행에 의한 생산량 감소에서 기인한다. 농촌경제연구원 권태진의 연구에 의하면 남한이 제공하는 비료 지원이 없이는 북한의 쌀 생산량은 남한 생산량의 단 50%에 그칠 것이다. 북한의 쌀 농사꾼은 비료 원조와 더불어 1만㎡당 남한의 생산량의 90%와 일치하는 수확량을 달성할 수 있다.
+
+10. (민감하지만 미분류) 북한이 필요한 식량 규모는 매년 6백만 톤 정도이다. 농촌경제연구원은 정확한 예측은 할 수 없다고 하면서도, 올해의 경우 4백만 톤 정도의 수확량을 예상하고 있다. 권태진의 말을 빌리자면, 남한이 그간 북한에 전달한 양과 중국의 식량 원조, 그리고 세계식량계획이 배포한 식량을 전부 통틀어 거의 50만 톤이 되는 데 식량 상황이 나쁘겠지만, 극심하지는 않을 거라고 한다.
+
+11. (기밀) <wrap hi>권태진은 남한이 대략 40~50만 톤의 식량을 북한에 보내온 이유는 바로 그만큼의 양이 남한 농부가 과잉 생산한 양이라는 단순하고도 놀라운 고백을 하였다. 만일 남한 정부가 그보다 더 많은 양을 보내길 원한다면, 그 차이만큼을 수입하지 않을 수 없다.</wrap> 그러므로 남한 정부가 북한이 더 많은 식량이 필요하다고 깨닫게 되더라도, 남한 당국자는 종국에 북한으로 수송할 쌀을 값을 치르고 수입하기는 망설여진다. <WRAP center round info 90%>//** 이명박 정부의 대북 식량 지원은 쌀 5천t과 컵라면 3백만 개가 전부다.---과잉 생산된 쌀은 어디로?**//  
+이명박 정부가 대북 인도적 식량으로 지원한 쌀은 총 5천t에 불과하다. 하이라이트 된 부분에서 드러났듯이 (이 전문이 미국으로 전송되던 2006년 당시) 노무현 정부까지 거의 10년 동안 북한에 보낸 쌀 지원량이 매년 과잉 생산된 40만~50만 톤이라는 말이다. 이명박 정부 시절 과잉 생산된 쌀은 어디로 갔단 말인가? 막걸리 원료나 가공 식품용으로 일부 사용하더라도 엄청난 잉여량이다. 이명박 정부 들어 시중에 유통되는 저가 쌀에는 생산연도가 서로 다른 쌀이 섞여 있다는 사실을 잘 알고 있지만(국산을 섞어 파는 건 불법), 쌀 가격은 물가 대비 전혀 저렴하지 않았던 이유가 도대체 무엇인가?
+</WRAP>
+
+12. (기밀) 우리는 소규모 북한 활동을 위한 세계식량계획의 양해 서한 발표 바로 몇 일 전에 권태진과 얘기를 나누었다. 권태진은 그때 세계식량계획이 북한과 합의를 하자마자 남한 정부는 세계식량계획 프로그램을 통해 배포용으로 아마도 작년과 동일한 기부를 할 예정이라고 예견한 바 있다. 통일부 김진구 과장과 함께한 회동에서 그는 계속되는 세계식량계획에 대한 남한의 지원을 확인해 주었고, 미국 정부가 세계식량계획으로부터 기부 요청을 받았는지, 받았다면 어떤 응답을 했는지 질문함으로써 추가적인 질문을 무마시켰다.
+===== 논평 =====
+
+13. (기밀) 우리는 예로 들면 독립적인 증거 자료가 거의 없지만, 대사관의 견해로는 대규모 기근 위험을 우려한다는 민간단체의 주장을 단박에 평가 절하 해서는 안 된다고 본다. 모든 보고에서 북한의 식량 배급제가 과거 10년에 걸쳐 제대로 그 기능이 우려될 정도로 망가져 왔다고 지적한다. 이러한 변화는 2002년 경제 개혁 이후로 4년 동안 가속하였다. 1990년 기근 때와 현 상황 사이에 중요한 차이는 북한 인구의 상당 비율이 그간 시장 활동을 체험해 왔다는 점이다. 한 번 익히게 되면, 그런 체험은 쉽게 없어지는 게 아니며, 북한의 곡물 시장에도 생동감 넘치는 암시장이 등장할 거로 기대되는 충분한 이유가 있다. 그러한 암시장 기회에 대한 전망과 더불어 도매 비축이나 유통 채널에 대한 접근이 가능한 북한 농부나 그 밖의 사람들은 식량 배급제를 벗어나 암시장에서 부풀려진 가격으로 판매하려고 공급량을 비축하거나 전용하는 등 여러 인센티브를 누리게 된다.
+
+14. (기밀) 만일 그런 시나리오가 현실이 된다면, 북한 당국자들은 처음에는 암거래상 근절을 시도할 것이다. 그러나 내부 소통 문제라든지 북한의 만연된 부패상을 비춰보면, 북한 정부가 그러한 쟁여놓기 방지에 전적으로 성공한다는 보장이 없어 보인다. 식량 공급의 적은 마진을 고려할 때, 식량 배급량을 줄이는 게 기본 대응 방안이 될 수도 있는데, 북한에서 정치적인 약자를 징벌하는 결과가 될 것이다. 공급량 감소와 지리적 제약으로 세계식량계획은 식량이 가장 절실한 북한 주민에게 손길을 보낼 역량이 예전보다 못한 상태다.
+버시바우
+[[https://sites.google.com/site/poirotkr/2/06seoul1737|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://news.sbs.co.kr/news/endPage.do?news_id=N1002027956|쌀포대 열자 나방·구더기…못 먹을 '나라미']] //SBS TV//
+===== 원본 내려받기 =====
+<file rtf 06SEOUL1737.rtf>
+C O N F I D E N T I A L SEOUL 001737 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+ROME FOR FODAG 
+MOSCOW PASS VLADIVOSTOK 
+STATE FOR EAP AND EAP/K 
+NSC FOR CHA, COLLINS AND BRAUSE 
+PASS USDA FOR GRUNENFELDER 
+ 
+E.O. 12958: DECL: 05/23/2016 
+TAGS: EAID [Foreign Economic Assistance], EAGR [Agriculture and Forestry], PGOV [Internal Governmental Affairs], PREL [External Political Relations], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT:  DPRK FOOD SITUATION: BAD, AND POSSIBLY CRITICAL 
+ 
+ 
+Classified By: EconMinCouns Kurt Tong for reasons 1.4 (b,d). 
+ 
+SUMMARY 
+------- 
+ 
+¶1. (C) We have recently seen a number of predictions that 
+North Korea is, or will soon be, suffering a situation 
+similar to the famine of the middle and late 1990's. 
+Disruptions in distribution of rations and reports of 
+localized food shortages are cited as the main proof of an 
+impending crisis.  Some experts also cite evidence that the 
+2005 harvest was less bountiful than initially reported. 
+ 
+¶2. (C) South Korean analysts and government officials believe 
+that the food situation will indeed remain quite desperate 
+during 2006.  They blame the DPRK's return to the Public 
+Distribution System (PDS), compounded by the expulsion of 
+most NGO's -- most importantly the World Food Program (WFP) 
+-- for the possible famine.  Still, South Korean experts 
+think that some significant additional factor -- some kind of 
+natural or man-made disaster -- would be needed for North 
+Korea to reprise the widespread starvation of the 1990's. 
+The Embassy's view is that, given the difficulty that North 
+Korea will certainly experience trying to prevent black 
+market behavior, the risk of a major famine should not be 
+discounted.  End summary. 
+ 
+DPRK GOVERNMENT TO BLAME 
+------------------------ 
+ 
+¶3. (C) EconOff spoke with Kwon Tae-jin, Senior Fellow at the 
+Korea Rural Economic Institute (KREI), about reports of an 
+impending food crisis in the DPRK.  Dr. Kwon is widely 
+regarded as a leading government expert on the North Korean 
+agricultural economy, and has the benefit of access to a 
+variety of Korean government sources on North Korea. 
+According to Kwon, the availability of food in North Korea 
+has tightened for a number of reasons.  First, April, May and 
+June are historically lean months for Koreans, as winter 
+stocks are consumed and the first harvests of the new year 
+are not yet ready.  While South Korea has advanced beyond 
+ 
+this simple fact of agrarian life, the North still suffers 
+from the annual phenomenon. 
+ 
+¶4. (SBU) However, the more important causative factor for 
+upcoming shortages, Kwon said, is the re-establishment of the 
+Public Distribution System by DPRK officials, and the 
+coinciding ban on private trading or retailing of grain.  As 
+the North Korean central government attempts to regain 
+control over food supply and distribution channels, those who 
+have food to sell are holding it closely, in order to avoid 
+seizure of their food stocks.  Those with illegal stocks seek 
+to avoid punishment for hoarding.  In Kwon's opinion, the 
+DPRK's localized food shortages are largely attributable to 
+this combination of seasonal shortages and inefficiencies 
+inspired by the PDS. 
+ 
+¶5. (C) At the same time, Kwon downplayed the concern 
+expressed by some that North Korea could be facing a 
+full-fledged famine.  The cries of alarm, he said, are coming 
+mostly from NGO's and non-expert individuals working in the 
+DPRK.  "They are always alarmists," he quipped. 
+Interestingly, Kwon told us that because KREI has no 
+counterpart organization in the DPRK to rely upon as a 
+partner, he himself uses NGO channels to visit and conduct 
+direct research on the North. 
+ 
+UNIFICATION MINISTRY NOT WORRIED 
+-------------------------------- 
+ 
+¶6. (C) EconOff also met with Kim Jin-goo, Director for 
+Humanitarian Assistance Planning at the Ministry of 
+Unification.  Kim similarly downplayed predictions of a 
+crisis situation.  Kim explained that North Korea has had a 
+chronic shortage of food over the past decade, following the 
+famine of the 1990s.  In that context, Kim said, the South 
+Korean government -- while not yet prepared to "regularize" 
+food assistance to the DPRK -- has accepted that it will have 
+to continue to provide food and fertilizer assistance in 
+order to avoid another large-scale famine.  Kim insisted that 
+the South Korean government would continue to evaluate each 
+DPRK demand for assistance on a case-by-case basis. 
+ 
+¶7. (C) When asked about the status of South Korean food 
+assistance to the DPRK for 2006, MOU's Kim responded that no 
+decision had been made yet on rice shipments.  He went on to 
+declare that rice shipments to North Korea, averaging between 
+400-500,000 tons annually for nearly a decade, are not 
+automatic and that the ROK government would have to discuss 
+the DPRK demand.  When a decision is made to send more rice, 
+it would take two months to procure, ship, and deliver the 
+rice to individual recipients in the DPRK. 
+ 
+¶8. (SBU) Meanwhile, on the fertilizer front, the South has 
+already completed a shipment of 150,000 tons of fertilizer 
+this year and the second shipment of fertilizer -- amounting 
+to some 200,000 tons -- began in mid-May and is expected to 
+be completed by mid-July.  According to Kim, the South Korean 
+government has not yet decided whether it will send the 
+remaining 100,000 tons of fertilizer sought by the North. 
+ 
+FUTURE'S NOT BRIGHT 
+------------------- 
+ 
+¶9. (SBU) According to studies conducted by KREI, DPRK crop 
+yields continue to fall year by year.  The decline stems from 
+a reduction in arable land and a reduction in productivity 
+due to advancing soil degradation.  According to studies by 
+KREI's Kwon, without the fertilizer assistance provided by 
+the South, North Korea's rice yields would be only fifty 
+percent those of the South.  With the fertilizer assistance, 
+northern rice growers can achieve per hectare yields equal to 
+ninety percent of their southern counterparts. 
+ 
+¶10. (SBU) North Korea's food requirement is around six 
+million tons annually.  KREI, while unable to make precise 
+forecasts, predicts that the harvest for this year will yield 
+only about four million tons.  When combined with the nearly 
+half-million tons the South has traditionally dispatched to 
+the DPRK, plus China's food assistance, plus the food 
+distributed by WFP, the food situation will be bad, but not 
+terrible, according to Kwon. 
+ 
+¶11. (C) In a surprising confession, Kwon claimed that the 
+reason South Korea has been sending approximately 400-500,000 
+tons of food is simple: that is the amount of surplus rice 
+produced by the South's farmers.  If the South Korean 
+government wanted to send more than that, it would be forced 
+to import the difference.  Therefore, even though the South 
+Korean government realizes that the North needs more food, 
+Southern officials are hesitant to import, and pay for, rice 
+that would subsequently be shipped north. 
+ 
+¶12. (C) We spoke to Kwon just days before the announcement of 
+WFP's letter of understanding for a smaller-scale operation 
+in North Korea.  Kwon predicted then that once WFP reached an 
+accord with the DPRK, the South Korean government would make 
+a donation, probably equal to years past, for distribution 
+through WFP's program.  During our meeting with MOU's 
+Director Kim, he verified continued South Korean support for 
+WFP and deflected further questioning by asking whether the 
+USG had received a donation request from WFP, and if so what 
+the likely response would be. 
+ 
+COMMENT 
+------- 
+ 
+¶13. (C) Although we have little independent evidence to cite, 
+and we hope we are wrong, the Embassy's view is that NGO 
+assertions concerning the risk of a major famine should not 
+be casually discounted.  All reports indicate that the DPRK's 
+Public Distribution System has become seriously dysfunctional 
+over the past decade, with change accelerating during the 
+four years since the July 2002 economic reforms.  The key 
+difference between the current situation and the 1990's is 
+that market behavior has been learned by a larger proportion 
+of the North Korean populace.  Once learned, such behavior is 
+not easily unlearned, and therefore there is every reason to 
+expect that a vibrant black market will soon emerge for North 
+Korean grain.  Anticipating those black market opportunities, 
+in turn, North Korean farmers and others with access to 
+wholesale stocks or distribution channels have every 
+ 
+incentive to divert and hoard supplies for sale at inflated 
+prices
+</file>

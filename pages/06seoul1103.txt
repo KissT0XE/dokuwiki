@@ -1,0 +1,39 @@
+^  문서번호  ^  생성일  ^  분류  ^  배포  ^  태그  ^
+|  06SEOUL1103  |  2006-04-04 07:43  |  비분류  |  주한미국대사관  |  {{tag>PREL MARR MASS KS }}  |
+====== 제 목: 노근리 장학금 관련 논지 전달 ======
+  * 비분류 SEOUL 001103 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 해당없음((N/A)).
+  * 태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), MASS(([Military Assistance and Sales])), KS(([Korea (South)])) 
+  * 제 목: 노근리 장학금 관련 논지 전달
+  * 참조: 가. A. STATE 52346  [[06seoul920|나. B. SEOUL 920]] AND PREVIOUS
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/12/14 05:30//
+(비분류)  4월 4일, 대사관 정치 담당관은 참조 가의 논지를 외교통상부 북미2과 행정관리담당관((번역 주: 심의관급)) 강대수에게 전달하였다. 이번 주 중에 예정된 외교통상부와 노근리 주민대표 간의 회동을 언급하면서, 강대수는 외교 문서에 대해 감사를 표명하고 문서 내용을 외교통상부 내 관계 부서를 비롯해 노근리 주민과 공유하도록 하겠다고 했다.
+//버시바우//
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 06seoul1103.rtf>
+UNCLAS SEOUL 001103 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], MASS [Military Assistance and Sales], KS [Korea (South)] 
+SUBJECT: TALKING POINTS ON NOGUN-RI SCHOLARSHIP FUND 
+DELIVERED 
+ 
+REF: A. A. STATE 52346 
+     B. B. SEOUL 920 AND PREVIOUS 
+ 
+(U) On April 4, poloff delivered Ref A talking points to 
+MOFAT North America Division II Deputy Director Kang Dae-soo. 
+ Noting an upcoming meeting between MOFAT and the 
+representative of the Nogun-ri villagers later in the week, 
+Kang expressed appreciation for the message and undertook to 
+share the information with the villagers as well as the 
+relevant departments within MOFAT. 
+VERSHBOW
+</file>

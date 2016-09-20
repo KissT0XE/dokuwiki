@@ -1,0 +1,209 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL790  |  2009-05-18 07:12  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KS KN PGOV PREL }}  |
+====== 제 목: 이 대통령의 지지도 요동; 박근혜와 화해 난항 ======
+기 밀 SEOUL 000790 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+행정명령 12958: 비밀해제: 05/18/2019 
+태그: KS(([Korea (South)])), KN(([Korea (North)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations] ))
+제 목: 이 대통령의 지지도 요동; 박근혜와 화해 난항
+참조: [[09seoul693|SEOUL 00693]] 
+분류자: 정치 참사관 조셉 윤.  근거  1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/20 01:54//
+===== 요점 =====
+
+1. (기밀) 요점: 4월 29일 보궐선거에서 한나라당은 주인을 기다리는 5석 중의 한 석도 승리하지 못했고(참조 전문), 당내 계파별 분열만 더욱 가중시키고 말았다. 이번 선거는 여야를 가릴 것 없이 당내 균열을 검증하는 무대였지만, 일반 국민의 인식은 이번 선거가 집권당과 이명박 대통령의 국정운영에 대한 국민 투표로 기능했다는 것이다. 4월 초에 이명박의 지지율은 일부 여론 조사에서 높게는 40% 상승했지만,―이 대통령 개인의 최고 성적―선거 이후 다음날에는 최하 25%까지 추락했다. 한나라당의 재보선 패배에 대한 대응차원으로 이 대통령은 한나라당 내 당권의 주요 라이벌인 박근혜 지지자의 당내 지도부 입성을 지원하겠다고 했지만, 박근혜는 그의 화해의 손짓을 서둘러 퇴짜를 놓았다. 이러한 당내 분열은 아직 이 대통령의 입법 의제상에 상당한 난맥상을 불러오지는 않았는데―야당인 민주당이 대신 그 역할을 수행하고 있다―그러나 한나라 당내 균열은 악화일로이며, 6월 국회 회기가 다가올수록 한나라당 의원들은 일이 손에 잡히지 않을 것이다. 요점 끝.
+
+===== 이명박 대통령의 지지 상승하더니, 하락 =====
+
+2. (기밀) 2008년 2월 취임한 이후로 이명박 대통령은 낮은 국정운영 지지율로 고심하고 있다. 지난 7개월 동안에, 그의 지지율은 변함없는 30% 범위에 머무르고 있으며, 대다수 분석가는 그 이상 오르지 않을 듯하다고 예견한다. <wrap hi>그러나 ([[http://www.polinews.co.kr| 폴리뉴스]]와 모노리서치 4월 2일) 일부 여론조사에서 높게는 40% 지지율을 얻었을 당시인 지난 4월 초에 이 대통령은 일시적인 반등을 경험했다.</wrap> 서강대학교 정외과 교수인 이현우는 위기 상황에서 대통령을 뒷받침해주는 경향을 이번 증가의 원인으로 돌린다.―경제적 위기 및 북한의 미사일 실험. 한나라당이 5석 중 한 석도 승리하지 못한 지난 보궐선거 바로 다음날인 5월 1일 리얼미터 여론조사에서는 이명박의 지지도가 25%로 하락했는데, 리얼미터의 4월 16일 여론조사와 비교해 7.6% 하락한 수치다.
+
+3. (기밀) 비록 그 뒤로 이명박의 지지도가 다소 반등했지만, 이명박은 여전히 걱정할 이유가 있다. 김형준 명지대학교 교수는 이명박의 지지가 핵심 지지자들인 40대 화이트칼라 근로자들 사이에서 약해지고 있다고 대사관 정무 직원에게 말했다. 게다가 보궐선거 이후에 조사된 여론조사에서, 한나라당의 아성인 영남 지역에서 57.4%의 엄청난 응답자들이 이명박을 지지하지 않았으며, 진보진영의 보루인 호남지역(74.0%)에 이어 반대 지지율 2위에 오른 것이다. 김 교수는 4월 초 이명박의 지지율 반등은 그의 보수성향 경쟁자인 박근혜에 충성하는 응답자들의 지지 결과라고 지적했다. 그 현상으로 이명박이 보궐선거 이후에 그의 지지율이 떨어지자 박근혜에게 손을 내밀게 된 것이라고 김 교수는 주장했다.
+<WRAP center round info 90%>
+//**모노리서치는 어용 여론조사 기관인가?**// …(중략) 2012년 11월 29일 <머니투데이>가 여론조사전문기관인 <모노리서치>에 의뢰해 조사하고 29일 발표한 바로는, 박근혜 새누리당 후보는 문재인 민주통합당 후보를 오차 범위를 넘어 10%포인트(p) 가까이 앞선다고 했는데, 그 밖의 여론조사기관은 오차 범위라고 나온 결과와 비교해, 유일하게 모노리서치만 10%p 문 후보가 뒤지는 걸로 나온 것이다.[[http://j.mp/UxLgWR|"막판 되면 2번 찍게 돼 있어"... 정말?]] //오마이뉴스// 또한, 이명박이 30% 미만의 지지율에 허덕일 당시에도 본 전문에서 나오듯이 모노리서치는 이명박의 지지율을 40%라고 떠벌렸다. 그 뿐만 아니다. 바깥 고리 [[http://umz.kr/03gqh|실수한? 조작된? 모노리서치 여론조사 뒤벼보기]]의 //박봉팔닷컴// 기사에서도 역시 모노리서치의 여론조사의 신뢰성에 의문을 던지고 있다.
+</WRAP>
+===== 박근혜 이 대통령의 제안 거부 =====
+
+4. (민감하지만 미분류) 5월 7일 이 대통령은 박희태 한나라당 대표와 함께한 회동하고 당의 보궐선거 패배를 논의했다. 두 사람은 공개석상에서 한나라당 패배의 원인을 당내 대통령 지지자들과 박근혜 의원의 지지자 사이의 끊이질 않는 계파 분열 탓으로 돌렸다. 이명박이 거의 2년 전 당내 후보 경선 전에서 박근혜를 가까스로 패배시켰던 까닭에 이러한 균열을 봉합하기 위한 첫 행보로 이 대통령과 박희태는 5월 21일 예정된 당내 선거에서 오랜 박근혜 지지자 김무성을 원내 총무 후보로 지지한다고 발표했다. 박 대표는 당시에 미국 방문 중이었고, 사전 협의도 않된 게 분명한 까닭에 청와대의 발표에 대해 즉각 비난했다. 김무성은 예의상 후보에서 물러났다.
+
+5. (기밀) 대사관 접선책은 2012년 대선을 한참 앞에 둔 상황에서 대리인을 세우는 일이긴 하지만, 박근혜가 당내 지도부에 입성해서는 거의 득이 될게 없다고 했다. 당내에 공식적인 역할을 맡음으로써, 박근혜가 당의 실패에 대한 책임 역시 져야 할 것이다. 대신에 대사관 접선책은 박근혜가 대선이 임박할 때까지 기다린 후에 등장해서 당을 “구할 것”이라고 추정하였다. <wrap hi>김형준 교수는 박근혜가 다음 해까지는 기다린 후에 2010년 등장해서 지방 선거에서 한나라당의 공천과정을 관장할 수 있다고 예견했다.</wrap> (주석: 한나라당의 지방선거 승자는 당의 다음 대선 후보를 결정하는데 커다란 역할을 할 것이다.) 강원택 숭실대 교수는 그가 예상하기엔 한나라당의 완패가 될 지방선거 이후까지 박근혜가 기다린 다음에 그녀가 당권을 잡고, 당을 소생시킬 것으로 생각하였다.
+
+6. (기밀) 박근혜가 김무성 지원을 거부한 이유에 대한 설명으로, 여러 접선책은 박근혜가 그녀의 지지자 중에서 김무성을 원내 총무로 간택하지 않았다고 지적했다. 몇몇 대사관 대화 상대역들은 박근혜가 2008년 국회의원 선거에서 김무성을 한나라당 후보로 공천하지 못하면서 박근혜와 김무성 사이 관계가 다소 껄끄러워졌다는 중립적인 판단을 전했다. 게다가 김형준 교수는 김무성이 이명박의 손위 형인 이상득 의원과 좋은 관계라고 주장했다.
+<WRAP center round tip 90%>
+//**김형준 명지대 교수는 '대사관 접선책'인 동시에 '박근혜 책사?'**// 'Embassy contacts'이란 말은 우리말로 옮기면 '접선책','접촉선','연락선' 등으로 부를 수 있고, 일반적인 용어로 '정보원'이라고 칭할 수도 있겠다. 대사관은 박근혜가 '당을 구하려' 지방선거에 재등장할 거라는 접선책(김형준)의 말을 전하고 있다. 김형준 명지대 교수는 2012년 1월 16일 국회에서 열린 한나라당 쇄신파와의 정책간담회에서 [[http://j.mp/SASB63|'민주적 박정희' vs '합리적 노무현']]이라는 발언을 들먹이면서, 소위 '박정희 대 노무현 구도'를 처음 들고 나온 사람이다. 다시 말해, 민주적 박정희는 박근혜이고, 합리적 노무현은 문재인이란 말이다. '민주적 박정희'가 가당키나 한가 김형준과 박근혜의 관계를 캐볼 필요가 있다. 주한미국대사관 정보원 노릇을 하는 그가 '박근혜 책사'를 한다고 해도 손색이 없을 듯하다.
+</WRAP>
+
+===== 계파 분열은 여전 =====
+
+7. (기밀) 모든 설명을 종합해 볼 때 한나라당 내부 계파 분열은 악화 일로이며 박근혜에 대한 이명박의 제안은 너무 부족하고, 너무 늦었다. 최근 이명박·박근혜 간 반목 상황에 대한 논평으로, 한나라당 구상찬 의원은 이명박과 박근혜 간의 적대감은 골이 깊으며, 화해는 불가능하다고 말했다. 이 대통령에 대한 불신이 한량없으며, 어떤 제안이든 이 대통령의 제안속에서 권모술수를 보았다. 김무성을 원내총무 후보로 지지한다는 제안을 보면서, 박근혜는 이 대통령이 박근혜의 주요 지지세력들 사이에 반목의 씨를 심으려는 시도라고 생각한다. 이런 추세라면, 한나라당이 다음 지방선거 즈음에는 분열될 수 있다고 구 의원은 말했다. 다른 대사관의 국회 대화 상대역들은 내부 갈등이 매우 심각하다고 설명했다. 일부의 설명에 의하면 계파가 단지 두 개가 아니라 5개이며―친이계, 친박계, 친이재오계, 중립세력, 그리고 개혁세력 등이다.
+
+===== 논평 =====
+
+8. (기밀) 지금까지는 계파 분열이 정책 기반이 아니고, 인물중심이라 이 대통령의 입법 의제상에 현격한 방해가 되지 않을 것이다. 심지어 이 대통령의 손위 형인 이상득 의원은 박근혜가 당의 노선을 견인하고 있다고 정치 담당관에게 말했다. 그렇긴 하지만, 논란을 사는 이명박의 일부 정책에 대해 박근혜가 공개적으로 찬성하는 게 특히 논란을 사는 법안에서 당을 단결시키고 여론 규합하는 되 도움이 될 수 있다. 비록 그녀가 정권 초기인 지금으로선 공식적으로 당의 책임을 짊어지길 꺼리고 있지만, 한나라당에 대한 박근혜의 오랜 헌신을 볼 때, 이 대통령 진영 쪽에서 일종의 분명하고, 용납할 수 없는 도발이 없는 이상 그녀가 공식적으로 당을 깰 공산은 크지 않다.
+스탠튼
+[[https://sites.google.com/site/poirotkr/15/09seoul790|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://umz.kr/03gqh|실수한? 조작된? 모노리서치 여론조사 뒤벼보기]] //박봉팔닷컴//
+  - [[http://j.mp/SAOMxz|박근혜, ‘김무성 원내대표 추대’ 반대]] //한겨레//
+  - [[http://j.mp/SASB63|올 선거가 ‘박정희 대 노무현’ 대결이라고? 문제는 경제야!]] //내일신문//
+  - [[http://j.mp/UxLgWR|"막판 되면 2번 찍게 돼 있어"... 정말?]] //오마이뉴스//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL790.rtf>
+C O N F I D E N T I A L SEOUL 000790 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 05/18/2019 
+TAGS: KS [Korea (South)], KN [Korea (North)], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations] 
+SUBJECT: PRESIDENT LEE'S POPULARITY FLUCTUATES; 
+RECONCILIATION WITH PARK GEUN-HYE DIFFICULT 
+ 
+REF: SEOUL 00693 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1. (C) SUMMARY:  The April 29 by-elections, in which the 
+ruling Grand National Party (GNP) failed to win any of the 
+five seats up for grabs (reftel), only served to put further 
+strain on factional divides within the party.  The elections 
+were actually a test of the fractures within both the ruling 
+and opposition parties, however, the perception in the 
+general public has been that the election served as a 
+referendum on the performance of the ruling party and of 
+President Lee Myung-bak.  In early April, Lee's support 
+ratings climbed as high as 40 percent in some polls -- a 
+personal best for this president -- but fell as low as 25 
+percent the day after the election.  In response to the GNP's 
+electoral defeat, President Lee announced he would back a 
+supporter of Park Geun-hye, his primary rival for power 
+within the party, for a party leadership post, but Park 
+quickly rebuffed his overture.  These factional divides have 
+yet to create a significant obstacle to the President's 
+legislative agenda -- the opposition Democratic Party (DP) 
+has instead played that role -- but fissures within the GNP 
+are only getting worse and will continue to distract GNP 
+lawmakers as the June session approaches.  END SUMMARY. 
+ 
+--------------------------------------------- ------ 
+President Lee Myung-bak's Support Rises, Then Falls 
+--------------------------------------------- ------ 
+ 
+¶2.  (C) President Lee Myung-bak has struggled with low 
+approval ratings since he took office in February 2008.  In 
+the last seven months, his support rate has consistently 
+hovered in the 30 percent-range, and most analysts predict it 
+is unlikely to go much higher.  The President did, however, 
+experience a temporary bump in early April when he got as 
+high as a 40 percent approval rating in some polls (Poly News 
+and Mono Research, April 2).  Sogang University Political 
+Science Professor Lee Hyeon-woo attributed this increase to 
+the tendency to rally behind the President in times of crisis 
+-- both the economic crisis and the North Korean missile 
+test.  In a Realmeter poll on May 1, one day after the 
+by-elections in which the GNP failed to win any of the five 
+seats up for election, Lee's popularity fell to 25 percent, 
+down 7.6 percentage points from Realmeter's April 16 poll. 
+ 
+¶3.  (C) Although his numbers have rebounded somewhat since 
+then, Lee still has reason to be concerned.  Professor Kim 
+Hyung-joon from Myungji University told poloff that the 
+President's support is weakening among core supporters -- 
+white-collar working men in their 40's.  Furthermore, in 
+polls taken after the by-election, a whopping 57.4 percent of 
+respondents in the GNP stronghold of Youngnam region did not 
+support Lee, ranking second in disapproval ratings only to 
+the liberal bastion of Honam (74.0 percent).  Kim noted that 
+Lee's bump in approval ratings in early April was the result 
+of support from respondents loyal to his conservative rival 
+Park Geun-hye.  It was this phenomenon, Kim claimed, that 
+prompted Lee to reach out to Park when his poll numbers 
+dropped after the by-election. 
+ 
+------------------------ 
+Park Rejects Lee's Offer 
+------------------------ 
+ 
+¶4.  (SBU) On May 7 President Lee and GNP Chair Park Hee-tae 
+met to discuss the party's by-election failure.  The two 
+publicly attributed the GNP's loss to a persistent factional 
+divide within the party between the President's supporters 
+and those of Representative Park Geun-hye.  In the first 
+gesture to heal this rift since Lee narrowly defeated Park in 
+the party's presidential primary race nearly two years ago, 
+the President and Park Hee-tae announced their support for 
+floor leader candidate Kim Moo-sung, a long-time Park 
+Geun-hye supporter, in the intra-party election scheduled to 
+take place on May 21.  Representative Park, who was traveling 
+in the U.S. at the time, had apparently not been consulted in 
+advance and immediately condemned the Blue House's 
+announcement.  Kim Moo-sung dutifully withdrew his candidacy. 
+ 
+¶5.  (C) Embassy contacts have observed that there is little 
+ 
+incentive for Park to enter into a party leadership position 
+-- even through a proxy -- so far in advance of the 
+presidential election in 2012.  By taking a formal role in 
+the party, Park would also take responsibility for the 
+party's failures.  Instead, our contacts speculate, she will 
+wait until closer to the elections to step in and "save" the 
+party.  Professor Kim Hyung-joon predicted that Park would 
+wait until next year to step in so that she could control the 
+party's nomination process for the 2010 local elections. 
+(NOTE: The GNP winners of the local elections will play a 
+large role in deciding the party's next presidential 
+candidate.)  Soongshil University Professor Kang Won-taek 
+thought Park would wait until after the local elections, 
+which he anticipated would be a major defeat for the GNP, so 
+that she could take over and revive the party. 
+ 
+¶6.  (C) In further explaining Park's refusal to support Kim 
+Moo-sung, contacts have noted that Park Geun-hye would not 
+have selected Kim from among her supporters to be floor 
+leader.  Several interlocutors have independently reported 
+that the relationship between Park and Kim was somewhat 
+strained by Park's failure to support Kim's nomination as the 
+GNP candidate in the April 2008 National Assembly elections. 
+Furthermore, Professor Kim Hyung-joo claimed Kim Moo-sung 
+enjoys a good relationship with President Lee's brother, 
+Representative Lee Sang-deuk. 
+ 
+---------------------------- 
+Factional Divide(s) Persists 
+---------------------------- 
+ 
+¶7.  (C) By all accounts the factional divide within the GNP 
+is only getting worse, and President Lee's offer to Park is 
+seen as too little, too late.  Commenting on the latest 
+episode of the Lee-Park feud, GNP National Assemblyman Gu 
+Sang-chan told poloff that the animosity between Lee and Park 
+was so deep that a reconciliation was not possible.  Park was 
+deeply mistrustful of President Lee, seeing tricks and 
+machinations in every proposal.  In offering to support Kim 
+Moo-sung's floor leader candidacy, Park thought the President 
+was trying to sow discontent among Park's key followers.  At 
+this rate, Gu said, the GNP could split heading into the 
+local elections next year.  Other National Assembly 
+interlocutors described the internal conflicts as very 
+serious.  By some accounts there are not just two factions, 
+but five -- pro-Lee Myung-bak, pro-Park Geun-hye, pro-Lee 
+Jae-o, neutral, and reformist. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8.  (C) So far the factional divides are personality- and not 
+policy-based and therefore have not significantly impeded the 
+President's legislative agenda.  Even Representative Lee 
+Sang-deuk, President Lee's brother, told poloffs that Park 
+Geun-hye had towed the party line.  Nevertheless, Park's 
+public support for some of Lee Myung-bak's more controversial 
+policies could help solidify party and public opinion, 
+especially on controversial legislation.  Despite her 
+unwillingness to shoulder formal party responsibility at this 
+early date, Park's long-term commitment to the GNP makes it 
+unlikely she would support a formal split absent some sort of 
+clear, unconscionable provocation from the President's camp. 
+STANTON
+</file>

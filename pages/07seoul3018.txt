@@ -1,0 +1,218 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL3018  |  2007-10-05 05:52  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 대통합민주신당 부정선거 논란 속에 경선 규칙 변경 ======
+  * 기 밀 SEOUL 003018 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 12/10/2014 
+  * 태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+  * 제 목: 대통합민주신당 부정선거 논란 속에 경선 규칙 변경
+  * 분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/26 03:58//
+===== 요점 =====
+<WRAP column 70% justify>
+1. (기밀) 요점: 대통합민주신당은(이하 민주신당) 남아 있는 8개 지역 경선을 10월 14일 //“원샷”// 일일 경선행사로 묶을 것이라고 10월 3일 발표했다. 민주신당은 부정 투표 논란을 해결하고 규칙 변경으로 더 많은 유권자의 관심을 유발하길 바라고 있다. 14일 일일 경선은 모바일 투표와 여론조사를 포함할 것이며, 결과는 10월 15일 당의 전당대회에서 발표될 것이다. 경선의 와중에 규칙변경은 손학규와 이해찬의 요구에 의한 것이며, 두 후보 모두 정동영에 상당한 격차로 뒤처져 있고, 정동영의 부산 불법 선거운동 협의를 제기하고 있다. 만일 경선이 예정대로 계속되었다면, 정동영이 더 강력한 조직을 보유하고 있고, 크게 앞선 선두이기 때문에 승자가 될 것 같았다. 이젠 결과가 덜 확실해졌지만, 정동영은 여전히 가능성이 큰 선호 후보다. //요점 끝.//
+</WRAP>
+===== 원샷 경선으로 가는 일련의 일정 =====
+<WRAP column 70% justify>
+2. (비분류) 원래 민주신당의 경선 규칙은 선거인단 투표와(결과의 90퍼센트 가중치) 여론조사 결과를(10퍼센트에 해당) 합칠 예정이었다. 선거인단 투표는 3개의 다른 하위그룹으로 구분되게 돼 있었다: 경선에 참석하기로 등록한 일반 국민; 참석하기로 등록한 당원; 그리고 모바일 투표에 참석하기로 등록한 일반 국민. 남은 경선 표결은 원래 10월 6일에 대전과 충청남도 그리고 전라북도 지역에 예정되어 있었고, 인천과 경기도 지역은 7일에, 대전과 경상북도 지역은 13일, 그리고 서울은 14일에 예정되어 있었다.
+ 
+3. (비분류) 대신에, 남은 경선들을 하나의 //“원샷”//경선으로 10월 14일 하루로 합쳐질 것인데, 민주신당의 경선 열기를 고조시키려는 최후의 노력이다. 이전 경선들의 결과는 유효할 것이다. 현재 정동영은 손학규에 13,000표가 앞서는 43.1퍼센트의 득표율을 확보했으며, 또한 이해찬에는 21,000만 표 앞서고 있는데, 현재까지 유효표를 누적 합산한 121,698표에 의한 결과이다.
+</WRAP>
+===== 부정 및 비위 =====
+<WRAP column 70% justify>
+4. (기밀) 대통합민주신당은 선두 주자 정동영의 선거법 위반 협의를 해결하라는 이해찬과 손학규의 요구에 대한 응답으로 남은 경선 일정을 연기하는데 합의했다. 정동영의 지지자들은 100명의 신분을 도용해 민주신당의 선거인단으로 등록한 협의를 받고 있다―노무현 대통령도 포함됨. 진상조사는 정동영 선거운동 관계자들이 불법 유권자 동원을 공모했는지를 중점을 두고 있다. 정동영의 참모 중 한 명은 정동영의 지지자들이 노무현과 다른 이들을 경선에 등록한 것은 잘못이지만, 손학규와 이해찬의 지지자들도 역시 가짜 등록에 관여했다고 정치 참사관에게 말했다.
+
+5. (기밀) 이러한 협의들은 민주신당에 도움이 되지 않으며, 대신에 민주신당에 대한 대중의 환멸과 경선 결과에 대한 전반적인 무관심을 가중시키고 있다. 한나라당은 대통합민주신당의 경선이 //"초등학교 반장선거보다 못한 수준"//이라고((번역 주: 원본에는 ‘초등학교 반장 수준과 같다.’는 영어표현을 사용했지만, 실재 발언은 그 수준보다 못하다고 했는데, 실재발언을 그래도 옮겼다.)) 오늘 촌평했다. CBS의 10월 2일 여론조사에서 무소속의 문국현 후보의 인기가 정동영을(11퍼센트) 뒤이어 2위이며, 손학규와 이해찬에 앞선 8.1퍼센트 지지율을 보이고 있는데, 대통합민주신당 후보에 대한 커지고 있는 혐오감을 보여준다.
+</WRAP>
+===== 손학규 한숨 돌리다 =====
+<WRAP column 70% justify>
+6.(기밀) 9월 19일 손학규는 정동영의 선거 유세를 통한 날조된 표가 있다는 의혹을((번역 주: 당시 논란이 있었던 동원선거, 조직선거를 말하는 것이다―언론의 이목을 한 몸에 받은 2012년 진보통합당의 비례대표 부정투표 혹은 부실투표 논란과 크게 다를까? 한나라당의 돈 봉투 선거는 또 어떤가? 폭력사태는 진보통합당만 있었나 아님 그 당만 주목을 받았나?―[[http://www.hani.co.kr/arti/politics/assembly/240437.html|손·이 ‘원샷 경선’ 관철…정동영 지지자 격렬 항의]]  //한겨레//를 읽어보라.)) 제기하면서, 9월 19~20일간의 칩거를 통해 항의했다. 손학규의 가까운 참모인 이윤생은 경선 형식 변경은 하나의 //“선물”//이며 손학규는 한숨 돌리게 됐는데, 만일 경선 규칙이 변경되지 않았다면, 손학규는 후보권을 확보할 기회가 거의 없었다고 정치 담당관에게 말했다. 지금 손학규는 모바일 투표에 등록하라고 지지자들에게 권고하는 데 집중할 것이다.
+
+7. (기밀) 9월에 경선이 시작되었을 당시 대통합민주신당 후보 중에서 손학규가 높은 지지율을 올렸음에도 불구, 대부분의 전문가는 그의 형편없는 첫 경선에서의 성적 이후에 손학규를 평가절하 했다. 또한, 경선 규칙에 대한 반복적인 변경 요청은 그의 지지를 깎아 먹었고, 그는 지금 여론조사에서 5퍼센트 주변의 지지율을 보이고 있다. 일부는 손학규의 패착을 엘리트 출신배경과 막냇동생이 모든 것을 독차지한다는 //“막내 증후군”//을 겪고 있다는 사실에서 그 원인을 찾고 있다. 많은 이들이 말한 바로는, 이 //“증후군”//은 한나라당에서의 탈당과 대통합민주신당을 떠나겠다는 그의 협박에서 그 실체가 분명해졌다고 한다.
+</WRAP>
+===== 이해찬 부아가 나다 =====
+<WRAP column 70% justify>
+8. (기밀) 이해찬은 당내 경선을 //“이 나라 선거 역사에서 가장 부패한 선거였다고”// 칭하고, 선두 주자인 정동영에 대항해 손학규와의 결속을 도모하면서 경선 형식의 변경을 담보하기 위해 한팀이 되기로 했다. 국회의 정보통이 말한 바로는, 이해찬은 정 후보의 깜짝 승리로 이어진 부산 경선에서 정동영의 불법 전술에 대해 이해찬은 격노했다. 많은 노무현 지지자들은 유명한 노사모가―노무현의 열렬한 지지자 단체―이해찬을 당의 대권 후보로 안내하길 희망했다. 지금까지 노무현과의 연결고리는 이해찬에게 피해를 줬고, 그의 미약한 카리스마와 한데 역기면서, 노무현 지지자들 이외 사람들의 동기를 고취할 수 없었다. 그는 첫 8차례의 지역 경선 이후 정동영과 손학규 모두에게 뒤처져 있다.
+</WRAP>
+===== 정동영: 여전히 선두 =====
+<WRAP column 70% justify>
+9. (기밀) 정동영은 여전히 선두이고, 이는 새로 변경된 경선 방식에도 불구 그러하며, 만일 민주신당에 보내지는 관심이 최저 수준에 머무른다면 그럭저럭 승리할 듯한데, 그 이유는 정동영이 가장 강력한 전국적인 조직을 갖추고 있고, 진보 후보들 사이 모든 여론조사에서 현재 선두이기 때문이다. 정동영의 참모인 조백희는 비록 정 후보가 부정행위 논란으로 개인적 모욕을 당했지만, 정 후보 캠프에선 경선에서 승리할 수 있을 것으로 여전히 낙관하고 있다고 정치 담당관에게 말했다. 조백희가 말한 바로는 정 후보 캠프는 네거티브 선거 전술에 관여하는 것을 거부했고, 경선 형식을 바꾸도록 하는 당의 결정에 따를 것이지만, 그녀는 규칙 변경은 당을 볼품없이 만들며, 전체적으로 지지 유발에 도움이 안 된다고 개인적으로 동의했다. 그녀는 정동영이 대선 후보가 된다고 치고, 그의 지지율을 12월까지 30퍼센트로 끌어 올리는 것이 목표이며, 이명박의 지지율이 40퍼센트로 가라 않기를 희망한다고 했는데, 이유인즉 10퍼센트 격차는 선거일에 극복할 수 있기 때문이라고 그녀는 말했다.
+</WRAP>
+===== 논평 =====
+<WRAP column 70% justify>
+10. (기밀) 단 30~40퍼센트의 투표가 행사된 가운데, //“원샷”// 동시 경선과 모바일 투표 그리고 여론조사 결과가 여전히 남아 있는 상황에서, 아직 대통합민주신당 대선 후보는 정동영의 것이 아니다. 정동영의 승리를 가정하더라도, 12월 대선에서 진보 진영의 유일한 기수로서 그의 위치는 불확실하다. 본 게임 이전에, 정동영은 또 다른 진보 및 집권 연합 후보들과의 최종 결정자전 맞이해야 할 것이다. 그들 중의 한 명은 민주당 후보자, 아마도 영원한 후보인 이인제가 될 것이다. 또 다른 후보는 유한킴벌리 전 회장인 문국현이 될 듯한데, 대게는 민주신당 경선에 대한 대중의 관심 부족과 관리 소홀 덕분에, 현재 여론조사에서 빠르게 격차를 좁히고 있다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/8/07seoul3018|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+</WRAP>
+===== 바깥고리 =====
+  - [[http://www.hani.co.kr/arti/politics/assembly/240437.html|손·이 ‘원샷 경선’ 관철…정동영 지지자 격렬 항의]]  //한겨레//
+  - [[http://www.pressian.com/article/article_print.asp?article_num=40071014194739|신당 '원샷경선' 투표율 저조…희비 교차]] //프레시안//
+  - [[http://www.pressian.com/article/article_print.asp?article_num=40071001175724|孫·李 vs 鄭 '폭로전' 가열…경선 정상진행 위기]]  //프레시안//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL3018.rtf>
+C O N F I D E N T I A L SEOUL 003018 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: UNDP CHANGES PRIMARY RULES AMID FRAUD ALLEGATIONS 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: The United New Democratic Party (UNDP) 
+announced October 3 it would combine the remaining eight 
+primary races into a "one-shot" one-day primary event on 
+October 14.  The party hopes to address allegations of voter 
+fraud and generate more voter interest with the change.  The 
+single day event will include mobile phone voting and polling 
+and the results will be announced at the party convention on 
+October 15.   The mid-primary change was requested by Sohn 
+Hak-kyu and Lee Hae-chan, both trailing Chung Dong-young by a 
+significant margin, accusing Chung of  illegal campaigning in 
+Busan.  If the primary had continued as planned, Chung would 
+likely have been the winner since he has stronger 
+organization and a big lead.   Now the outcome is less 
+certain, but Chung is still the odds-on favorite.  End 
+Summary. 
+ 
+-------------------------- 
+SERIAL TO ONE-SHOT PRIMARY 
+-------------------------- 
+ 
+¶2.  (U) The original UNDP primary rules were to combine the 
+electoral college votes (weighted as 90 percent of the 
+result) and the opinion poll outcome (constituting 10 
+percent).  The electoral college votes were to be divided 
+into three different subgroups: the general public who 
+registered to take part in the primary; party members who 
+registered to take part; and the general public who 
+registered to take part in the mobile phone primary.  The 
+remaining votes were originally scheduled in Daejeon, South 
+Choongchung and North Jeolla Provinces on October 6, in 
+Incheon and Gyeonggi Province on the 7th, in Daegu and North 
+Gyeongsang Province on the 13th, and in Seoul on the 14th. 
+ 
+¶3.  (U) Instead, those remaining primaries will be rolled 
+into one "one-shot" election held on October 14 in a 
+last-gasp effort to make the UNDP primary exciting.  The 
+results from the previous primaries will stand.  Currently, 
+Chung has 43.1 percent of the vote with a 13,000 vote lead 
+over Sohn and a 21,000 vote lead over Lee after tallying the 
+121,698 valid votes so far. 
+ 
+------------------------ 
+FRAUD AND IRREGULARITIES 
+------------------------ 
+ 
+¶4.  (C) The UNDP agreed to delay the remaining primaries in 
+response to demands from Lee Hae-chan and Sohn Hak-kyu to 
+address frontrunner Chung Dong-young's alleged election law 
+violations.  A Chung supporter has been charged with stealing 
+the identities of 100 voters -- including President Roh 
+Moo-hyun -- and registering them with the party's electoral 
+college.  The probe centers on whether a Chung campaign 
+official colluded on the illegal voter-mobilization drive. 
+One of Chung's advisors told poloff that while the Chung 
+supporter was wrong to register Roh and others for the 
+primary, Sohn and Lee supporters were also engaged in false 
+registration. 
+ 
+¶5.  (C) These allegations are not helping the UNDP, instead 
+reinforcing the public's disenchantment with the UNDP and 
+general disinterest in the primary outcome.  The GNP 
+commented today that the UNDP party primaries were on par 
+with "a primary school class president election."  The 
+mounting disgust with the UNDP candidates showed in an 
+October 2 poll by CBS that had independent candidate Moon 
+Kuk-hyun's support rate second to Chung (at 11 percent) with 
+8.1 percent support, ahead of Sohn and Lee. 
+ 
+---------------------------- 
+SOHN HAK-KYU BREATHES EASIER 
+---------------------------- 
+ 
+¶6.  (C) On September 19 Sohn first raised suspicions that 
+Chung's campaign had faked votes, an action that Sohn 
+protested through self-imposed seclusion from September 
+19-20.  One of Sohn's close advisors, Lee Youn-saeng, told 
+poloff the change in primary format was a "gift" and Sohn 
+could now breathe easier since, if the primary rules had not 
+been changed, Sohn had little chance to secure the 
+nomination.  Now, Sohn would focus on encouraging supporters 
+to register for mobile voting. 
+¶7.  (C) Despite the highest approval rating among UNDP 
+candidates when the primary began in September, most pundits 
+have written Sohn off after his poor showing in the first 
+rounds of voting.  Also, many suggest his repeated calls for 
+change to the primary rules has further eroded his support 
+and he now polls at around 5 percent support.  Some attribute 
+Sohn's missteps to his elite background and the fact that he 
+suffers from the "youngest-sibling" syndrome, which says that 
+youngest siblings expect all will be given to them. 
+According to many, this "syndrome" has manifested itself in 
+his departure from the GNP and in his threats to leave the 
+UNDP. 
+ 
+--------------------- 
+LEE HAE-CHAN GETS MAD 
+--------------------- 
+ 
+¶8.  (C) Lee, calling the party's elections, "the most corrupt 
+ones in the nation's history," chose to close ranks with Sohn 
+Hak-kyu and team up against frontrunner Chung to secure a 
+change in primary format.  According to assembly sources, Lee 
+was infuriated at Chung's illegal tactics in Busan that led 
+to a surprise Chung victory there.  Many Roh supporters hoped 
+the famous Roh-sa-mo -- the name of the fervent Roh support 
+group -- could carry Lee to the nomination.  So far, the link 
+to Roh has hurt Lee and coupled with his low charisma, Lee 
+has been unable to motivate any but the closest Roh 
+supporters.  He now trails both Chung and Sohn after the 
+first eight rounds of voting. 
+ 
+---------------------------------- 
+CHUNG DONG-YOUNG: STILL THE LEADER 
+---------------------------------- 
+ 
+¶9.  (C) Chung still is in the lead and even with the new 
+primary format, he is likely to eke out a victory if the 
+current interest level in the UNDP remains at rock-bottom 
+since Chung has the strongest nation-wide organization and 
+currently leads all polls among the liberal candidates. 
+Chung advisor Cho Beckhee told poloffs the camp was still 
+optimistic Chung could win the primary, though she said Chung 
+was personally affronted by the allegations of wrongdoing. 
+The Chung camp, according to Cho, refused to engage in 
+negative campaign tactics and would go along with the party's 
+decision to change the primary format, but she personally 
+agreed the change made the party look bad and would not help 
+generate overall support.  She said, assuming Chung wins the 
+candidacy, their goal was to get his support ratings up to 30 
+percent by December and hope that Lee's support came down to 
+40 percent since a ten percent gap could be overcome on 
+voting day. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶10.  (C) With only 30-40 percent of the votes cast, a 
+"one-shot" simultaneous primary, and mobile voting and poll 
+results still remaining, the UNDP nomination is not quite 
+Chung Dong-young's yet.  Assuming Chung wins, his place in 
+the December election as the sole standard bearer for the 
+progressives is not certain.  Before that main event, Chung 
+will have to face another run-off against several progressive 
+and ruling coalition candidates.  One of these will be the 
+Democratic Party's nominee, probably the perennial candidate 
+Lee In-je.  The other is likely to be former Yuhwan-Kimberly 
+President Moon Kuk-hyun, now rapidly closing in the polls 
+largely thanks to poor management and the public's lack of 
+interest in the UNDP race. 
+VERSHBOW
+</file>

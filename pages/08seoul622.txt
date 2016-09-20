@@ -1,0 +1,458 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^   태그  ^
+|  08SEOUL622  |  2008-03-28 05:16  |  기밀  |  주한미국대사관  |  {{tag>KS KN ECON EAID EAGR PGOV }}  |
+
+====== 제 목 : 대한민국 당국, 연구원, 민간단체 등 북한의 심각한 식량사정을 확인 ======
+기 밀 SEOUL 000622  
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+행정명령 12958: 비밀해제: 03/28/2017 
+태그: KS(( [Korea (South)])), KN (([Korea (North)])), ECON (([Economic Conditions])), EAID (([Foreign Economic Assistance])), EAGR (([Agriculture and Forestry])), PGOV (([Internal Governmental Affairs])) 
+제 목 : 대한민국 당국, 연구원, 민간단체 등 북한의 심각한 식량사정을 확인
+분류자: 정치 참사관 대리 대사 브라이언 맥피터스((번역주:A/POL Brian McFeeters))  근거 : 1.4(b,d)
+번역자 : PoirotKr(번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org |Micheal H. Rhee]] 2011/09/20//
+
+===== 요점 =====
+
+1. (기밀) 요점: 국무부 정보조사국 마크 필런, 그리고 대사관 정무 직원과 함께한 3월 17~18일 회동에서, 한국의 옵서버들은 올해 북한 식량 상황이 매우 우려스러운 이유를 언급하였다: 
+  * 한국의 옵서버는 2006년과 2007년 평양 주변의 쌀농사 지대의 홍수로 인한 피해, 또 국제 식량가격의 상승과 중국의 수출 제한, 올해 한국 정부의 기약할 수 없는 쌀과 비료 원조의 양과 시점 등을 언급하며 작물 생산량이 감소할 것으로 예상했다.
+
+  * 올해 한국정부가 (평년 40만 톤보다 증가한) 50만 톤의 쌀 지원을 하더라도, 북한의 식량 “공백”이 1990년 중반 이후로 경험하지 못한 165만 톤에 달할 것으로 통일부는 전망하였다.
+
+  * 북한 농업 관련 대표적인 전문가인 한국농촌경제연구원의 권태진은 북한의 식량 상황이 심각하다고 동의하면서도, 120만 톤에서 140만 톤 정도로 예상보다는 소규모 공백을 예상하였다. 북한이 식량 원조에 의존하는 점을 강조하면서도, 식량 시장의 출연은 비록 높은 가격에도 식량 접근성 개선의 한 방편이 되고 있다고 권태진은 지적하면서, 북한이 식량 부족분을 충당하기 위해 중국산 식량을 공식, 비공식으로 구매할 것으로 예상하였다.
+ 
+  * 1990년대 북한 상황을 다룬 책 "북한 기근의 정치경제학"을 집필한 국정원의 정광민은 상황이 심각하다고 동의하면서도, 북한의 기근이 "최악의 상황"이라는 데는 찬성하지 않는다며, 그 이유로 북한 시장에서 식량 접근성이 증대되었고, 중국 국경을 통한 비공식 무역이 계속되고 있는 점을 들었다. //요점 끝.//
+
+===== 통일부는 커다란 식량 공백을 전망 =====
+2. (민감하지만 미분류) 통일부는 아래와 같은 요인에 근거해 2008년 북한의 가용 공급량과 식량 소비량 사이 165만 톤의 “공백”을 추산하였다. 
+  * 공급: 북한 서남지역 쌀농사 지대의 홍수 피해를 가만한 2006년 2007년 생산 규모는 10퍼센트 감소한 401만 톤의 생산량;  한국 정부의 50만 톤 식량 원조와 세계식량계획의 10만 톤 지원; 그리고 24만 톤의 중국과의 상거래 수입량.
+
+  * 수요: (한국정부 추정) 북한 사람 2,345만 명이 국제보건기구의 권장 하루 에너지 요구량인 2,310 칼로리를 섭취해야 한다는 추정에 근거해 650만 톤의 소비량을 산정하였다. 이 산정 법은 (약 15퍼센트로 예상되는) 수확 이후 손실량과 종자로 사용하려고 보관하는 곡물, 그리고 동물 사료로 사용되는 사용량 등을 반영하였다.
+
+  * 부족량: 650만 톤의 수요에서 485만 톤을 차감하면 165만 톤의 “공백”이 산출된다. 세계식량계획, 한국의 농촌진흥청과 농촌경제연구원은 평균 소비요구량을 해당 165만 톤 중 75퍼센트로 추산한 결과 소비량이 낮춰지면서, 최종 부족분을 120만 톤에서 140만 톤으로 산출하였다. 이 방법은 소비량 추산에서 흔히 사용되는 방법이다. 이 부족분의 정확한 수치는 아니지만, 전년도 대비 북한의 부족식량을 나타내는 남한정부의 지표이다. 통일부 윤미량((번역 주: 2011년 현 하나원장)) 교류협력국장은 2008년 부족분 전망치는 1990년 중반 이후로 가장 높은 산정량이라고 지적하였다. (아래 표1 참조) 만일 올해 예고된 50만 톤의 쌀 지원을 남한정부가 제공하지 않는다면, 식량 부족분이 훨씬 더 커질 거라고도 지적하였다. 통일부는 국내외 식량가격의 상승으로 북한에 대한 식량 기부의 비용이 훨씬 많이 들 거라는 점을 시사하였다. 정관민은 북한 당국자의 관점에서 2008년은 비상상황으로 보지 않는 이유는 북한 주민의 생존에 필요한 최소 생산량을 365만 톤으로 간주하기 때문이라고 말하였다. 365만 톤이란 수치는 공개적으로 사용하지는 않는다.
+
+===== 한국산 비료 2008년 수확에 결정적 =====
+3. (기밀) 2001년 20만 톤은 제외하더라도, 2000년 이후 매년 봄 모내기 철에 제공하던 30~35만 톤의 비료 원조를 못하게 되면, 2008년 작황이 상당량 줄어들 거라고 발표하였다. 북한은 한국 정부에 비료 요청을 아직 하지 않았는데, 그 이유는 모내기 철이 다가오는 상황에서 조달과 수송에 상당한 시일이 필요하기 때문이라고 윤씨는 말하였다. 한국은 매년 북한에 쌀과 옥수수 묘목을 보호하기 위한 비닐을 제공했지만, 아직 북한의 요청이 없었다고 했다.
+
+===== 제한적인 생산량 개선 =====
+4. (기밀) 다른 관측통의 보고와 마찬가지로, 농촌경제원 권씨와 다른 한국 농업과학자들은 2007년 6월에 방문한 평양 인근 쌀농사 지대의 작물의 다양성과 경작 환경이 상당한 나아진 모습을 보고 깜짝 놀란 바 있다고 말하였다. 전반적으로 생계여건이 눈에 띄게 개선되었다. 콩만 하더라도 다른 경작지의 주변에서만 재배하던 것이 자생적으로 경작되고 있으며 중국 배추와 무를 포함한 다른 농작물도 그렇다. 변종 감자 씨와 감자생산량도 역시 개선되었다.
+
+5. (기밀) 북한 곡물생산량의 개선과 관련 한국의 일부 민간단체의 도움의 역할을 인정하면서, 권씨가 속한 농촌경제연구원이 북한의 작황을 한국정부에 자문한 결과 얼마나 북한농업의 발전 가능성이 있는지는 제한적이라며, 그 이유는 북한이 비료와 묘목을 보호용 비닐, 종자 개선과 농기계 등 (대부분) 한국이나 외부 자원에 의존하기 때문이라고 강조하였다. 그가 방문한 북한 묘목관은 6m 높이의 수송 컨테이너가 있었는데 큰 인상을 주지 못했다고 권씨는 지적하였다. 앞으로 10년 정도는 한국의 인도주의 원조에 계속 의존할 것으로 권씨는 예상하였다.
+
+6. (기밀) 우리민족서로돕기운동의 이종무 총무는((번역 주: 개신교 장로회 목사)) 한국 민간단체의 하나로 북한 농업을 돕고 있다. 이 단체는 과거 10년 동안 매달 북한에 최소한 한 명의 대표단을 파견했는데, 역시 "작황과 종자의 다양성은 증대”된 점을 역시 확인하였지만, 국제식량계획과 유엔식량기구의 합동조사에서 나타나듯 2002년 이래로 완전한 형태의 작황 평가가 없다며, "북한이 협조적일 때도" 제대로 된 판단을 하기가 어렵다고 이 총무는 말하였다. 이씨는 9월에 우리민족서로돕기운동에서 농촌 사업을 운영하는 지역인 평양 남쪽 강남지역의 홍수피해가 심각해 모든 온실이 논이 물에 잠긴 것을 확인했다고 말하였다.
+
+7. (기밀) (부족한 곡류 사료 대신 모두 풀을 먹은 동물인) 오리, 거위, 염소, 토끼 등의 육류가 가구의 살림살이 일부이며, 식단과 수입원이 되었다고 정씨와 권씨는 지적하면서, 그 점이 한국정부의 (북한) 소비형태 모델에 반영되지 않았다고 했다. 2000년 이래로 한 유럽연합외교관은 매년 북한을 찾는데, 매번 방문마다 평양 인근의 상황이 개선되고 있음을 확인했다고 말했다고 한다. 그녀는 처음에 매우 적은 가축을 보았지만, 최근 방문에서는 많은 염소와 심지어 닭이 동부 해안가의 원산에 있는 여러 우리에서 사육되는 것을 확인했다. 그러나 권씨는 특히 소나 돼지와 같은 대형 가축사육은 사료의 제한으로 말미암아 제한적이라고 평가하였다.
+
+8. (기밀) 민간단체 좋은 벗 대표인 법륜 스님의 공급 측면 평가를 보면, 2007년 2월과 4월에 북한 당국자가 비축된 "수만 톤"을 방출한 걸로 믿고 있다며, 그 이유로 한국 정부의 식량 원조가 지연된 까닭도 있겠지만, 마지막 한국정부의 지난 원조분이 비축용으로 창고에 쟁여졌기 때문일 수도 있다고 말하였다. 2007년 여름의 감자 수확은 식량 부족분을 메우는 데 도움이 되었지만, 지방 당국자는 매년 식량과 비료확보에 애를 먹고 있다.
+
+9. (기밀) 정광민은 북한 주민이 식량 소비형태의 변화를 견뎌내고 있다고 말하였다. 권태진과 함께한 계별 모임에서, 정광민은 쌀은 북한 식단의 단지 30퍼센트에 달한다며, "감자사회주의" 발전이 확연해졌다는 점에 권태진과 견해를 같이하였다. 권태진은 감자경작지가 20만 핵 타르에 급속한 증가로 쌀과 옥수수재배 면적의 두 배에 달한다고 말하였다. 감자 작물은 일 년에 두 번 재배한다. 월드비전을 비롯한 한국의 민간단체는 감자종자 공급에 중대한 도움을 제공하고 있다. 
+
+===== 시장경제가 식량배급제를 대체 =====
+10. (기밀) 한국 관측통에 의하면, 최근 수년간 고정된 단가로 비농가 가구에 제공되던 식량배급제가 평양을 제외한 곳에서 쇠퇴한 가운데, 북한 당국자의 간헐적인 행패에도 불구 소비시장이 확대되고 있다. 2003년 이후 허가된 식량 시장의 성장은 북한 내 공급의 증대와 분배의 개선에 향상을 가져왔지만, 북한 주민은 가격 인상에 취약해졌다고 우리에게 말하였다.
+
+11. (기밀) 정광민은 식량배급제는((번역 주: Public Distribution System)) 노동당원과 군, 그리고 방위산업체를 대상으로 평양에서 유지되고 있다고 말하였다. 더불어서 평양 외곽 일부 당국자와 "아직까지도 운영되는 공장”에도 식량을 공급하고 있다. (다른 대화 상대역은 약 30퍼센트로 평가). 주목할 점은 상당수의 인구가 방치돼 있다는 점이라며, 쇠락하고 있는 식량배급제는 (남한엔) 정치적인 호재인 이유는 식량공급을 관장하는 관리의 지배력을 약화하기 때문이라고 그는 덧붙였다. 경우에 따라서는, 선군정치 때문에 관리들이 중국산 식품을 수입할 돈이 없는 예도 있다. 권씨는 북한 정부가 배급제를 통해 공급할 물량이 있어도 군대와 경찰 트럭에 의존하는 수송시스템이 배급의 발목을 잡고 있다고 언급하였다. 이렇게 육로 수송의 어려운 점이 북한이 한국 정부의 쌀 지원을 동부 해안의 여러 항구로 수송해 달라고 요구하는 이유이다.
+ 
+12. (기밀) 그러나 가장 유명세를 치른 탈북자(1994) 중의 한 명인 조명철은 현 대외경제정책연구원에 근무하는 경제학자로 남북문제와 관련해 한국정부에 조언하고 있는데, 조명철은 북한은 아직 식량배급제의 사고방식을 못 벗어나고 있어 식량시장의 등장이 순조롭지 않다고 말하였다: 정부는 인민을 돌보게 되어 있고, 다시 인민은 정부에 순종한다는 사고방식이다. 쌀 1kg당 (북한 원화) 44원의 고정 가격을 치르는 데 익숙한 터라, 정부의 고정 가격에도 실상 쌀을 구할 수 없다는 사실은 망각한 체, 현재 대략 킬로그램당 북한화 1400~1660원 하는 시장 가격을 치르길 망설인다. (주석: 비공식적 환율이 달러당 3,000원을 감안하면 킬로그램당 미 달러 50센트에 정도이다. 주석 끝.) 북한 당국자는 높은 시장가격이 시장경제가 나쁘다는 증거로 언급하면서, 때마다 시장 단속을 정당화하고 있다. 북한 김정일 일가와의 접촉을 비롯해 북한의 명망가 출신 배경인 조명철은 사회주의가 완벽할 때 시장은 필요하지 않다는 사회주의 이론에 입각해 모든 시장을 불법화하자고 북한 당국자들이 주장하지만, 마지못해 시장의 필요성을 인정한다고 말하였다.
+
+13. (기밀) 북한 내부인사와 광범위한 접촉을 하고 있다고 주장하는 법륜 스님은 식량가격 상승으로 북한 사람들이 굶주림에 내몰리고 있다고 강조하였다. 2007년 중반 이후 엄격한 국경 통제는 (과거에는 용인되던 휴대전화 소지까지도 심한 처벌에 받는다.) 그나마 많은 사람이 의존하던 비공식 식량 수입에도 압박이 더해지고 있다. 그는 데일리엔케이에서((역자 주: Daily NK)) 수집한 자료를 언급하면서, 쌀 가격이 2007년 초 킬로그램당 800원 하던 것이 2007년 9월에는 1,400원으로 인상되었고, 2008년 초엔 1,400원~1,800원 달하더니, 그 뒤에 다시 1,400~1,700원 수준으로 인하되었다고 말하였다. 같은 시기에 킬로그램당 옥수수 가격은 350원에서 800원으로 인상되었다.
+ 
+14. (기밀) 지역적 취약성을 지적하며, 조명철은 함경남도 강원지역 동부 해안가와 함경북도 남부지역이 농업 생산성이 형편없고, 남서 쌀농사 지역과 거리 차, 그리고 형편없는 도로와 연로 부족으로 말미암아 가장 위험한 식량부족 상태라고 적시하였다. 그는 북쪽 국경지역이 전적으로 농업지역이 아님에도, 주로 중국과 국경무역을 통해 잘 견딜 수 있다고 하였다.
+
+===== 북한이 원하는 지원은? =====
+15. (기밀) 법륜 스님은 작년 홍수를 언급하면서, 북한 당국자들이 2007년 가을 녁 홍수 피해 영상을 공개한 이후에 대량의 국제원조를 기대했음을 자신에게 분명히 밝혔다고 법륜은 말하였다. 막대한 식량원조를 예상한 북한 당국자들은 (민간단체 좋은 벗과 연결되는) 우리민족서로돕기 단체에 대신에 건설 자재를 제공해 달라고 요청하였다. 북한 당국자들은 제한적 반응에 실망하였고, 주요 고위 관료들이 북한 개방을 안 한 김정일 옳았다는 결론에 이르게 만들었다.
+
+16. (기밀) 우리민족서로돕기운동의 이종무 총무는 2008년 초에 가진 북한 당국자와 함께한 회동에서, 이명박 정부가 원조와 관련해 무슨 생각인지에 대한 질문을 받았다고 말하였다. 이 총무는 북한 당국자들은 한국 정부가 어떤 제공을 할지 피동적으로 지켜보며 기다리고 있다고 진단하였다. 이 총무는 윤씨가 우리에게 말한 바 있는 봄에 묘 심기와 가을 수확 목적의 비료 지원의 중대성을 재차 반복하면서, 북한 관료들은 쌀 묘목과 감자씨, 그리고 다른 여러 작물을 보호하기 위한 다량의 비닐하우스 시트 지원에 익숙해져 있다는 점을 지적하였다.
+
+17. (기밀) 조명록은 이번 미국 당국자와의 자리를 기회로 삼아 하고 싶은 말은 북한과의 관계 개선의 활로를 찾고, 미국에 대한 북한의 의심을 줄이기 위해선 미국과 한국이 다 같이 인도적인 대북 지원을 제공해야만 한다고 말하였다. 그러나 그는 북한이 효용성 있는 식량 감시를 허용할지 대해선 비관적이었다. 
+
+===== 논평 =====
+18. (기밀) 다양한 회동과 여기에 보고한 정보로 판단하건대, 북한이 어려운 식량상황에 직면한 것은 명백하지만, 과거의 최근 몇 년과 비교해 어느 정도인지는 불분명하다. 북한이 개인적인 작물 재배와 가축, 그리고 지역 시장과 중국 국경을 통한 무역을 발전시켰다고 하지만, 식량 생산량과 원조 부족분을 어느 정도나 극복할 수 있을지, 혹은 해당 농업 기술이 북한 전역에서 통할지는 알지 못한다. 북한행 식량 원조의 수송에 대한 감시를 압박함에 더해, 북한이 가장 필요한 게 무엇인지 판정하기 위해서라도, 북한 농업 여건과 (2002년 국제아동기금과 세계식량계획의 조사를 끝으로) 영향상태에 대한 신뢰할만한 연구를 추구해야만 한다.
+
+===== 자 료 =====
+19. (민감하지만 미분류) 표 1. 한국이 추정한 북한 식량 부족분(단위 만 톤; 수입은 무역과 원조를 합산)
+
+^연  도   ^수  요    ^생 산 량     ^수 입 량   ^총  계   ^부 족 량^
+|1991    |6.05      |4.02         |1.29     |5.26    |-0.74 |
+|1992    |6.11      |4.43         |0.83     |5.26    |-0.85 |
+|1993    |6.11      |4.27         |1.09     |5.36    |-0.75 |
+|1994    |6.16      |3.88         |0.49     |4.37    |-1.79 |
+|1995    |6.20      |4.13         |0.96     |5.09    |-1.11 |
+|1996    |6.18      |3.45         |1.05     |4.50    |-1.68 |
+|1997    |6.17      |3.69         |1.63     |5.32    |-0.85 |
+|1998    |5.83      |3.49         |1.04     |4.53    |-1.30 |
+|1999    |5.91      |3.89         |1.07     |4.96    |-0.95 |
+|2000    |6.06      |4.22         |1.23     |5.45    |-0.61 |
+|2001    |6.13      |3.59         |1.40     |4.99    |-1.14 |
+|2002    |6.26      |3.95         |1.07     |5.02    |-1.24 |
+|2003    |6.32      |4.13         |1.14     |5.27    |-1.05 |
+|2004    |6.39      |4.25         |0.76     |5.01    |-1.38 |
+|2005    |6.45      |4.31         |1.18     |5.49    |-0.96 |
+|2006    |6.51      |4.54         |0.60     |5.14    |-1.37 |
+|2007    |6.50      |4.48         |0.70     |5.18    |-1.32 |
+|2008    |6.50      |4.01         |0.84*    |4.85    |-1.65 |
+
+* 한국의 식량 원조는 50만 톤으로 상정; 세계식량계획의 10만 톤; 그리고 중국에서의 곡물수입 24만 톤 (통일부 각주)
+출처: 통일부
+스탠튼
+프와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL622.rtf>
+C O N F I D E N T I A L SEOUL 000622 
+ 
+SIPDIS 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/28/2017 
+TAGS: KS [Korea (South)], KN [Korea (North)], ECON [Economic Conditions], EAID [Foreign Economic Assistance], EAGR [Agriculture and Forestry], PGOV [Internal Governmental Affairs] 
+SUBJECT: ROK OFFICIALS, ACADEMICS AND NGOS SEE SERIOUS DPRK 
+FOOD SITUATION 
+ 
+Classified By: A/POL Brian McFeeters. Reasons 1.4(b/d) 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (C) Summary:  In March 17-18 meetings with INR analyst 
+Mark Phelan and poloff, ROK observers cited reasons for 
+serious concern about the DPRK's food situation this year: 
+ 
+-- ROK observers expected decreased DPRK crop production 
+because of 2006 and 2007 flood damage in the 'rice bowl' 
+surrounding Pyongyang; pointed to higher global food prices 
+and export restrictions in China; and cited uncertainty about 
+the timing and amount of ROKG rice and fertilizer assistance 
+this year. 
+ 
+-- The Ministry of Unification projected that even if the 
+ROKG provides 0.5 million metric tons (MT) of rice assistance 
+this year (an increase from 0.4 million MT most years), the 
+DPRK's food "gap" will reach 1.65 million MT, a shortfall not 
+estimated since the mid-1990s. 
+-- Leading DPRK agriculture specialist Kwon Tae-jin of the 
+Rural Economic Institute agreed that the DPRK faces a serious 
+food situation but estimated a smaller gap of 1.2 to 1.4 
+million MT.  While stressing that the DRPK remains dependent 
+on humanitarian assistance, he pointed to the emergence of 
+food markets as a means to improve food availability, albeit 
+at high prices, and expected the DPRK to increase official 
+and informal purchases of food from China to cover the 
+shortfall. 
+ 
+-- Jeong Kwan-min of the ROKG's Institute for National 
+Security, who wrote a 2005 book about the political economy 
+of the 1990s famine in the DPRK, agreed the situation was 
+serious but said he could not support "extreme scenarios" 
+about starvation because of increased availability of food in 
+DPRK markets and continuing informal trade across the Chinese 
+border.  END SUMMARY. 
+ 
+-------------------------------- 
+ROKG MOU PROJECTS LARGE FOOD GAP 
+-------------------------------- 
+ 
+¶2. (SBU) The Ministry of Unification's (MOU) projection of a 
+1.65 million MT "gap" between DPRK food consumption and 
+available supply in 2008 is based on the following factors: 
+ 
+-- Supply: production of 4.01 million MT, a 10 percent 
+decrease from 2006 and 2007 production levels, based on 
+floods that damaged the "rice bowl" in southwestern North 
+Korea; food assistance of 0.5 million MT of ROKG rice and 0.1 
+million MT of food from the World Food Program; and 
+commercial imports of 0.24 million MT from China, giving a 
+total supply of 4.85 million MT. 
+ 
+-- Demand: the consumption figure of 6.5 million MT is based 
+on an assumption that each of the 23.45 million people (ROKG 
+estimate) in the DPRK should be able to consume the World 
+Health Organization's recommended daily energy requirement of 
+2130 calories (Kcal) per day.  The model also takes into 
+account post-harvest losses (estimated at 15 percent, but 
+uncertain) and crops held over for use as seeds, and other 
+uses such as animal feed. 
+ 
+-- Shortfall:  Demand of 6.5 million MT minus supply of 4.85 
+million MT results in a "gap" of 1.65 million MT.  The World 
+Food Program, the ROK Rural Development Administration (RDA), 
+and KREI assume that the average consumption requirement is 
+75 percent of that level, resulting in a lower consumption 
+figure and consequently a smaller shortfall of 1.2 to 1.4 
+million MT. This is the more common method of estimating 
+consumption.  The shortfall is not a precise number but to 
+the ROKG is an indicator of DPRK food needs, relative to that 
+of previous years.  MOU's Director of the Humanitarian 
+Cooperation Division Yoon Mir-yang pointed out that the gap 
+projected for 2008 is the largest estimated since the 
+mid-1990s (see table 1). She also noted that the shortfall 
+would be even greater if the ROKG does not provide the 
+expected 0.5 million MT of rice assistance this year.  MOU 
+indicated that higher global food global and domestic food 
+prices would make any food donation to DPRK more expensive. 
+Jeung Kwan-min said that the 2008 situation was not an 
+ 
+emergency in DPRK authorities' view because they deemed the 
+minimum production level needed to sustain DPRK citizens to 
+be 3.65 million MT, although they would not use this figure 
+in public. 
+ 
+------------------------------------ 
+ROK FERTILZER VITAL FOR 2008 HARVEST 
+------------------------------------ 
+ 
+¶3. (C) MOU stated that failure to provide fertilizer 
+assistance for the spring planting season (0.3 - 0.35 million 
+MT provided each year since 2000, except for 0.2 million MT 
+provided in 2001) would significantly lower 2008 production. 
+Pyongyang has not yet requested fertilizer from the ROK and, 
+due to the approaching planting season and significant time 
+required procuring and transport, time is running out, Yoon 
+said.  The ROK annually supplies DPRK with vinyl sheeting 
+used to protect rice and corn seedlings from cold weather in 
+the early spring but these have also not yet been requested 
+by Pyongyang. 
+ 
+------------------------------- 
+PRODUCTION IMPROVEMENTS LIMITED 
+------------------------------- 
+ 
+¶4. (C) As other observers have reported, the Korea Rural 
+Economic Institute's Kwon said that he and other ROK 
+agriculture scientists had been surprised to see significant 
+improvements in crop diversity and condition during a June 
+2007 visit to the rice bowl area surrounding Pyongyang. 
+Overall living conditions had noticeably improved.  Soybeans, 
+which were previously grown only on the margins of other 
+fields, were being cultivated on their own, and other new 
+crops included Chinese cabbage and beets.  Production and 
+seed varietals of potatoes had also improved. 
+ 
+¶5. (C) While acknowledging this improvement in DPRK crop 
+production and variety, in part because of help from South 
+Korean NGOs, Kwon, who said that his institution consults 
+with the ROKG on DPRK crop statistics, emphasized that there 
+were limits on how far DPRK agriculture could progress, since 
+it remained dependent on outside sources (mostly the ROK) for 
+fertilizer, vinyl for protection of seedlings and 
+greenhouses, improved seeds, and machinery.  He noted that he 
+had visited the DPRK's national seed laboratory -- a 20-foot 
+shipping container that did not impress him.  He foresaw the 
+DPRK remaining dependent on humanitarian assistance for ten 
+years. 
+ 
+¶6. (C) Lee Jong-moo, Director of the Korean Sharing Movement 
+(KSM), a South Korean NGO active in agricultural assistance 
+to the North, which has sent at least on one representative 
+to the DPRK each month for the past ten years, said that his 
+organization also saw an "increase in production and 
+diversity" but that the lack of thorough crop assessments 
+since 2002 (when the World Food Program and Food and 
+Agriculture Organization conducted a joint survey), "when the 
+DPRK cooperated," made it difficult to reach an informed 
+assessment.  Lee said he observed serious flood damage in 
+September in Kangnam County, south of Pyongyang, where KSM 
+runs agricultural projects, with all of the greenhouses and 
+rice fields underwater. 
+ 
+¶7. (C) Meat from ducks, geese, goats and rabbits (all of 
+which eat grass rather than scarce grain feed) has become 
+part of the households, diet and income, Jeung and Kwon 
+noted, and is not counted in the ROKG's consumption model.  A 
+European Union diplomat who has traveled to the DPRK each 
+year since 2000 said that she had seen conditions improving 
+on each visit, mainly to areas in and around Pyongyang. 
+Initially, she saw very few animals but on recent trips had 
+seen many goats and even chickens being kept on balconies in 
+Wonsan, on the east coast.  But Kwon commented that animal 
+cultivation, particularly of larger animals such as cows and 
+pigs, remained limited by the availability of feed. 
+ 
+¶8. (C) Commenting on the supply side, Pommyon, a Buddhist 
+monk who heads the Good Friends NGO, said that he believed 
+that DPRK authorities had released reserve stocks of "several 
+hundred thousand tons" in February and April 2007, because 
+ROKG food assistance was delayed, but later ROKG aid may have 
+been used to refill those reserves.  The potato harvest in 
+the summer of 2007 had helped fill food needs, but local 
+ 
+officials struggled all year to obtain enough food and 
+fertilizer. 
+ 
+¶9. (C) Jeung said that people were coping in part by changing 
+their food consumption patterns.  He agreed with Kwon (in 
+separate meetings) that rice now accounted for only about 30 
+percent of the diet, with "potato socialism" the most 
+significant development.  Kwon said that the area devoted to 
+potato growing had increased to 200,000 hectares (about half 
+that devoted to rice and maize) and plans were to increase it 
+to 300,000 hectares.  Potato crops are typically grown twice 
+a year.  ROK NGOs including World Vision were providing 
+significant assistance with potato seeds. 
+ 
+-------------------------------------------- 
+MARKETS REPLACING PUBLIC DISTRIBUTION SYSTEM 
+-------------------------------------------- 
+ 
+¶10. (C) In recent years, according to ROK observers, the 
+DPRK's Public Distribution System (PDS) -- under which basic 
+food rations were available to each member of non-farming 
+household at a fixed price -- has withered away except in 
+Pyongyang, while consumer markets have grown, despite 
+periodic harassment by DPRK officials.  The rise of food 
+markets, allowed since 2003, has increased supply and 
+improved distribution within the DPRK, Jeung Kwan-min of the 
+Institute for National Security told us, but has also made 
+North Koreans vulnerable to price increases. 
+ 
+¶11. (C) Jeung said that the PDS remains operational in 
+Pyongyang for officials of the Korean Workers Party, 
+military, and defense industry.  In addition, the PDS 
+supplies food to some officials outside Pyongyang, and to 
+"factories that still operate," (which another interlocutor 
+estimated at 30 percent).  Noting that this left out the vast 
+majority of the population, he added that the withering away 
+of the PDS was a good development politically because it 
+reduced authorities' control over the food supply.  In any 
+case, authorities had little money to import food from China 
+because of the military first policy.  Kwon said that even 
+when the DPRK government had food supplies to offer through 
+the PDS, the crippled transportation system, depending on 
+People's Army and police trucks, made distribution very 
+difficult.  That was why the DPRK asked for ROKG rice aid to 
+be transported to various ports on the east coast, which was 
+difficult to access by land. 
+ 
+¶12. (C) However, Cho Myung-chol, an economist at the Korea 
+Institute for Economic Policy who is among the most prominent 
+of DPRK defectors (1994) and advises the ROKG on inter-Korean 
+issues, said the emergence of food markets has not been 
+smooth because North Koreans still retain the mindset that 
+underlies the PDS:  that the government is supposed to take 
+care of the people and that the people will in turn obey the 
+government.  Accustomed to paying the fixed price of 44 North 
+Korean won (NK won) per kilogram of rice, North Koreans balk 
+at paying the market price, now about 1400-1660 NK won per 
+kilogram, neglecting the fact that no rice is actually 
+available at the government's fixed price.  (NOTE: at the 
+unofficial exchange rate estimated to be about 3,000 NK 
+won/USD, the market price of rice is about USD 0.50/kg. END 
+NOTE.)  DPRK authorities cite high market prices as evidence 
+that markets are bad, justifying their periodic crackdowns on 
+markets.  Cho, from a prominent DPRK background that included 
+contact with Kim Jong-il's family, said that DPRK officials 
+debated outlawing all markets, in line with socialist theory 
+that no markets should be needed when socialism is perfected, 
+but reluctantly acknowledged the need for markets. 
+ 
+¶13. (C) Pommyon, who claims a wide network of contacts inside 
+the DPRK, emphasized that increased food prices were pushing 
+people to the brink of starvation.  Strict controls over 
+border crossings since mid-2007 (with heavy punishments even 
+for possessing a cell phone, tolerated in the past) had put 
+additional pressure on informal food imports that many rely 
+on.  He also cited data collected by the Daily NK, an online 
+report produced by defectors, saying that rice prices had 
+increased from 800 NK won per kilogram in early 2007 to 1400 
+NK won by September 2007 and ranged from 1400 to 1800 NK won 
+in early 2008 before decreasing to the current 1400-1700 NK 
+won level.  Over the same period, the price per kilogram of 
+maize had increased from 350 NK won to 800 NK won. 
+ 
+¶14. (C) On regional vulnerabilities, Cho Myung-chol, 
+indicated that the east coast provinces of Kangwoon, South 
+Hamgyong and the southern portion of North Hamgyong were at 
+greatest risk of food shortages due to poor agricultural 
+productivity, distance from the southwestern  rice bowl, 
+region, poor roads and fuel shortages. He indicated that 
+northern border regions, although not predominantly 
+agricultural areas, were able to cope better through border 
+trade with China. 
+ 
+------------------------------------- 
+WHAT ASSISTANCE DOES THE DPRK EXPECT? 
+------------------------------------- 
+ 
+¶15. (C) Commenting on last year's floods, Pommyon said that 
+DPRK officials had made clear to him in the fall of 2007 that 
+they expected massive international assistance after they 
+released footage of flood damage.  Expecting hefty food 
+assistance, DPRK authorities asked Join Together Society (an 
+NGO connected with Good Friends) to provide construction 
+materials instead.  They were disappointed at the limited 
+response, leading some senior DPRK officials to conclude that 
+Kim Jong-il was right to keep DPRK completely closed. 
+ 
+¶16. (C) KSM's Lee said that in early 2008 meetings with DPRK 
+officials, he was asked what President Lee Myung-bak's 
+government had in mind in terms of assistance.  He assessed 
+that the officials were passively waiting to see what the 
+ROKG would offer.  Lee reiterated what MOU's Yoon told us 
+about the importance of fertilizer assistance for the spring 
+planting/fall harvest, noting that DPRK authorities also are 
+used to getting large quantities of vinyl sheeting used to 
+make greenhouses to shield rice seedlings and potato seeds, 
+among other crops. 
+ 
+¶17. (C) Cho said he wanted to take advantage of the presence 
+of U.S. officials to say that the U.S. and ROK should both 
+provide humanitarian assistance to North Korea, to open the 
+door for improved relations and to lower North Koreans' 
+suspicions about Americans.  But he was pessimistic that the 
+DPRK would allow effective monitoring. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶18. (C) From the range of meetings and information reported 
+here, it is clear that the DPRK again faces a difficult food 
+situation, but it is not clear to what degree it is more 
+difficult than in recent years.  ROK observers report on 
+coping mechanisms that North Koreans have developed -- 
+private production of crops and animals, trading in local 
+markets and across the Chinese border -- but do not know to 
+what extent these methods can overcome food production and 
+aid deficiencies or whether those techniques work all over 
+North Korea.  In addition to pressing for monitoring of food 
+aid deliveries to North Korea, we should push for credible 
+surveys of agricultural conditions and nutritional status 
+(last surveyed by UNICEF and WFP in 2002) to determine what 
+help North Korea needs most. 
+ 
+---- 
+DATA 
+---- 
+ 
+¶19. (SBU) Table 1.  ROKG estimates of DPRK food shortfall (in 
+million metric tons; Imports include aid and trade) 
+ 
+Year   Demand    Production  Imports   Total   Shortfall 
+ 
+1991    6.05      4.02         1.29     5.26    -0.74 
+1992    6.11      4.43         0.83     5.26    -0.85 
+1993    6.11      4.27         1.09     5.36    -0.75 
+1994    6.16      3.88         0.49     4.37    -1.79 
+1995    6.20      4.13         0.96     5.09    -1.11 
+1996    6.18      3.45         1.05     4.50    -1.68 
+1997    6.17      3.69         1.63     5.32    -0.85 
+1998    5.83      3.49         1.04     4.53    -1.30 
+1999    5.91      3.89         1.07     4.96    -0.95 
+2000    6.06      4.22         1.23     5.45    -0.61 
+2001    6.13      3.59         1.40     4.99    -1.14 
+2002    6.26      3.95         1.07     5.02    -1.24 
+2003    6.32      4.13         1.14     5.27    -1.05 
+ 
+2004    6.39      4.25         0.76     5.01    -1.38 
+2005    6.45      4.31         1.18     5.49    -0.96 
+2006    6.51      4.54         0.60     5.14    -1.37 
+2007    6.50      4.48         0.70     5.18    -1.32 
+2008    6.50      4.01         0.84*    4.85    -1.65 
+ 
+*Assumes 0.5 million MT of food assistance from the ROK; 0.1 
+million MT from the WFP; and 0.24 million MT of commercially 
+purchased grain from China (MOU footnote). 
+Source: MOU 
+ 
+STANTON
+</file>

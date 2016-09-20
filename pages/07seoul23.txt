@@ -1,0 +1,273 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL23  |  2007-01-04 04:22  |  기밀  |  주한미국대사관  |  {{tag>PARM PREL KS KN }}  |
+====== 제 목: 국방 개혁과 2007 국방 예산 ======
+  * 기 밀 SEOUL 000023 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 01/02/2017 
+  * 태그: PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)]))
+  * 제 목: 국방 개혁과 2007  국방 예산
+  * 참조: [[06seoul4328|SEOUL 4328]] 
+  * 참조하는 전문: [[08seoul1107|08 SEOUL 1107]]
+  * 분류자: 공관 차석 대리((A/DCM Joseph Y. Yun.))  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/01/01 04:49//
+===== 요점 =====
+
+1. (기밀) 요점. 한국 국회는 2020년도까지 621조 원 비용을 들여 한국군을 현대화하기 위해 설계된 국방개혁 법안을 승인하였다. 군현대화 계획의 동기 요인은 북한의 위협을 막는 것을 비롯해 역내 군사 위협에 (특히 일본) 맞서고, 한반도 상에 한국군의 전시 작전통제권 환수를 대비하는 데 있다. 계획된 개혁은 병력 수준을 38퍼센트 감축을 비롯해, 지휘통제와 정보감시정찰 능력,((C2 ISR)) 그리고 정밀타격 능력을 강화하기 위한 야심 찬 획득 및 조달 사업을 포함한다. 12월 27일에 국회가 승인한 회계연도 2007년 국방 예산은 국방부가 제안한 9.9퍼센트에 조금 못 미치는 8.8퍼센트 인상을 담고 있는데, 2020년까지 지속적으로 기금을 마련하는 게 하나의 도전임을 보여준다.
+
+2. (기밀) 다른 군사 관련 지출을 보면, 2007년 회계연도의 용산기지이전사업은 완료일자가 지연됨으로 말미암아 다음 해까지 필요하지 않을 거로 결정된 이후에 1,231억 원 (미화 1억 3천3백 달러) 정도 삭감되었다. 2006년 12월에 미국과 한국이 서명하였고, 2월에 국회가 다시 소집되면 국회를 통과할 것으로 예상하는 2007년~2008년 방위비 분담 특별협정으로 한국정부의 올해 방위비 분담금 지원분은 451억 원 정도 (미화 3,990만 달러) 인상될 예정이다. 국회는 레바논 임시 주둔 유엔군으로 파병되는 한국 부대를 위해 370억 원도 역시 승인하였다.// 요점 끝.//
+===== 국방개혁2020 =====
+
+3. (미분류) 12월 1일에 2020년까지 한국군의 종합적인 현대화를 담고 있는「국방개혁에 관한 법률」이 국회에서 의결되었다. 이 법안은 국방부의 국방개혁 2020에 대한 법제화를 마련하도록 2005년 말에 발의하였다. 국방개혁안은 자주국방의 달성을 위해 노무현 대통령이 국방부에 지시가 그 추동력이 되었는데, 한국군이 다양한 안보 위협에 자주적인 억제력 및 방어력 유지가 그 의의라 하겠으며, 또한 국내 활발한 국방산업의 뒷받침을 받았다. 2005년 4월 한국군 재정비라는 전재를 바탕으로 프랑스의 국방 개혁을 심도있게 조사하라고 국방부에 지시하였다. 미국의 국방 개혁도 한국 국방개혁에 크게 영향을 미쳤다.
+ 
+4. (미분류) 국방개혁2020의 핵심은 다음과 같다:
+  * 2020년까지 현 68만 병력수준을 50만으로 감축. 육군은 548,000명에서 371,000명으로 3분의1로 감축될 예정이고, 해군은 68,000명에서 64,000명으로 줄고, 공군은 65,000명을 꾸준히 유지할 예정이다. 최첨단 무기체계의 확충, 정보감시정찰, 실시간 지휘통제, 기동성과 정밀타격 능력 등의 개선으로 인력감축을 보완할 예정이다. 예비군은 2020년까지 절반이 준 150만이 될 예정이다.
+
+  * 2009년까지 국방부에 공무원의 비율을 52퍼센트에서 71퍼센트까지 높임으로써 국방정책 입안 과정을 //“문민화”//한다. 또한, 국방개혁안은  핵심적 군 요직 및 합동 참모 본부(이하 합참) 의장에 대한 국회 청문회 도입 요구를 담고 있다.
+
+  * 연합 전투력과 의사결정의 역할 강화, 그리고 육군에 비교해서 해군과 공군에 대한 자원 할당을 강화하기 위해 합동 참모 본부 중심의 강화된 작전 수행 체계를 확립한다.  합참 각군 지휘관 수준 이상의 편성 비율은 육해공군 2:1:1로 예정되었다((번역 주:이명박의 2009년 수정안에선 육군의 비율을 늘리거나 원래 지휘관의 수를 유지하는 방향으로 변질되었다.)).
+
+  * 기술중심 군사력을 달성하기 위한 국방예산 증강. 전군을 망라해 지휘통제와 정보감시정찰, 정밀유도타격 능력을 강화하려는 목적으로 야심 찬 획득 및 조달 사업을 국방개혁에 담고 있다.
+5. (미분류) 국방개혁안은 3번의 5개년 단계로 나뉘고, 그 구상의 상당수가 첫 5년에 시작하는 걸로 잡혀 있다. 2006년 7월 국방개혁의 첫 단계를 공개하였고, 2007~2011년 국방중기계획에는 151조의(미화 1,621억 달러) 군사 지출 요구를 담고 있다. 2011년까지의 방위력 개선 비용은 25.8퍼센트에서 35.9퍼센트로 늘리도록 잡혀있다. 국내 방위산업 발전을 촉진하고 기술을 개선을 위한 연구 개발 목적의 국방 예산은 5.5퍼센트에서 6.7퍼센트로 늘릴 예정이다. 정찰부대와 원격지의 지휘본부, 그리고 야전 대대 대대급 부대 간의 실시간 정보 공유를 가능하게 해주는 디지털 전쟁 네트워크 지휘통제체계를 2011년까지 완성하라는 요구가 국방중기계획에 담겨있다. 또한, 장거리 타격력을 강화하기 위한 K1A1 탱크와 K-9 자주포, 다연장 로켓포 체계, 이지스 구축함, 중형 잠수함, 그리고 함대함 유도탄을 비롯해 다양한 항공기(F-15K, T-50, TA-50) 구매를 계획하고 있다.
+===== 기금개혁: 2007 국방예산 =====
+
+6. (미분류) 2006년~2020년까지 국방개혁 기간의 전체 국방예산의 평가액은 621조 원이다. (미화 6,677억 달러) 이와 같은 개혁을 달성하기 위해서는 한국 국방예산은 첫 단계에서 매년 9퍼센트 이상 늘려야만 하고, 2011년~2015년까지는 7.8퍼센트, 그리고 2015년~2020년까지는 1퍼센트가 되어야만 한다. 2011년까지는 국방예산은 국민총생산 대비 2.76퍼센트, 2015년까지는 3퍼센트, 2020년까지는 2.3퍼센트로 예상한다.
+
+7. (미분류) 한국정부의 2007년 회계연도예산안은 국방개혁 목표를 뒷받침하였다. 국방부는 전체적으로 9.9퍼센트 증액된 24조 7천억 원을 (미화 266억 달러) 요한다. 국방부 예산안을 보면, 방위력 개선 기금은 전체 17.5퍼센트가 증액될 예정이며, 새로운 정보감시정찰 사업 및 지휘통제체계 능력을 취득하는데 초점을 둘 것이다. 군함과 항공기, 그리고 순항 미사일을 구매할 계획도 있다. 2007년 연구 개발비용은 34.5퍼센트로 증액될 예정이다. 장병 사기복지 증진에 역점을 둔 경상운영비용은 7퍼센트로 증액될 것이다((번역 주: 국방예산은 방위력 개선 분야인 방위사업청의 예산과 병력 운영과 전력 유지 분야인 국방부 예산으로 구성돼 있다.)).
+
+8. (미분류) 12월 2일 법정시안을 넘긴 국회는 12월 27일에 국회예산을 승인하였다. 승인 예산은 24조 5천억 원으로(미화 264억 달러), 전년 대비 8.8퍼센트 증가하였지만, 요청한 9.9퍼센트에는 못 미쳤다. 가장 많이 삭감된 기금은 용산기지이전사업과 연합토지관리계획으로 각각 831억 원과(미화 898억 달러) 400억 원(미화 432억 달러)이 삭감되었다. 용산기지이전사업과 연합토지관리계획 기금은 사업의 완성연도가 2008년에서 2013년으로 늦춰졌다는 이유로 다음 해까지 많은 돈이 필요하지 않다는 결정 이후에 삭감되었다. 최종적으로 2007년 회계연도에 용산기지이전사업은 3,003억 원의(미화 3억 2,740만 달러) 기금을 산정하였고, 연합토지관리계획은 1,765억 원(미화 1억 9,070만 달러)의 기금을 산정하였다.
+
+9. (미분류) 국회는 북한의 10월 핵실험 이후 탄도미사일 조기경보시스템과 ‘벙커 버스터’ 폭탄의 구매를 위해 1,463억 원(미화 4,210만 달러)을 책정하였다. 방위비 분담 특별협정에 따른 비인적 주둔 비용에 대한 한국정부의 2007년 지원분은 450억 원(미화 4,850만 달러) 인상안도 포함되었다. (주석: 방위비 분담 특별협정은 2007년 2월 국회가 다시 소집되면 승인될 걸로 보고 있다. 주석 끝.) 한국의 레바논 임시 주둔 유엔군 파병을 위한 370억 원(미화 3,990만 달러)도 역시 추가되었다.
+===== 논평 =====
+
+10. (기밀) 국회의 강력한 반대에 대한 대응으로, 국방부는 국방개혁 실천을 위한 매해 예산 인상에 대한 평가를 하향 조정 하였다. 국방개혁안은 매년 9.9퍼센트의 증액을 요하지만, 7.1퍼센트  인상한다 해도 개혁 기간 중 국내총생산 대비 균형을 이룬다면 충분할 거라고 국방부 개혁 입안자는 대사관 정치 담당관에게 말하였다. 그러나 현 정치 풍토에서 7.1퍼센트 인상된 국방비 지출안이라도 달성할 수 있을지는 불분명하다. 국방개혁의 첫해인 2006년부터 국방개혁은 이행하도록 예정되어 있지만, 국회는 단 6.7퍼센트 인상을 승인하였고, 국방부가 제안한 10.5퍼센트에는 훨씬 못 미치는 수준이다. 2007년 예산안은 상대적으로 괜찮지만, 정치적 동기의 예산안 책정은 국방 개혁의 이행 기금을 충당할 능력에 계속 영향을 미칠 공산이 크다.
+
+11. (기밀)  국방부는 북한 위협에 대한 억제력만이 국방개혁안의 유일한 동기가 아님을 분명히 하였다. 신임 국방장관 김장수는 국회 인사청문회에서 국방 개혁의 목적은 //“우리 군의 독자적인 방위 기획과 작전수행 능력을 가일층 강화하여 한반도에서의 전쟁억제력을 확보하는 한편, 어떠한 유형의 군사 위협에도 대처할 수 있는 확고한 군사대비태세를 확립”//하기((번역 주: (김장수의 인사청문회 발언은 국방장관이 되면, 어떻게 국방력을 튼튼히 하겠다는 일반적인 내용이며, 국방개혁2020과 직접 연결된다고 규정지을 수는 없는 발언이다. 그러나 미 대사관은 국방개혁2020에 대한 내용인 듯 말하고 있다.) 김장수의 인사청문회 실재 발언을 그대로 인용)) 위함이라고 말하였다. 북한, 중국, 일본과 러시아를 포함하는 모든 주요 국가들의 군사력이 현저해지고 있다고 국회와 한국민에게 국방개혁안을 설명하였다. 특히 일본이 한국의 매해 국방예산의 거의 두 배를 지출하고 있을 뿐만 아니라, 일본이 훨씬 첨단기술의 군사력을 유지하고 있다는 사실을 국방개혁안에 적시하고 있다. 국방개혁안에는 일본군의 특정 정찰위성과 이지스 군함, 그리고 공중급유기를 비롯한 일본군의 현대화 노력이 적시되어 있다. 한국은 국방개혁안에 따라 일본군 현대화에 필적할만한 무기 확충을 계획하고 있다.
+
+12. (미분류) 전시 작전통제권한의 이양을 눈앞에 둔 상황도 국방개혁안의 분명한 동기 요인이다. 북방개혁은 개혁안은 공고한 한미동맹의 바탕 하에 시행될 것임을 적시하긴 하지만, 작전통제권이 ‘자주국방’ 확충에서 핵심 이슈 중 하나임을 확인해 준다. 합동참모본부의 강화와 같은 예고된 개혁안의 다수는 한국군이 전시 작전통제권 환수를 잘 대비하도록 도와줄 것이다.
+스텐튼
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://ow.ly/gsERm|국방개혁 2020 수정안 허실]]  //서울신문//
+  - [[http://ow.ly/gsELT|국방개혁안 원안과(노무현) 수정안비교(이명박)]] //다음아고라//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL23.rtf>
+C O N F I D E N T I A L SEOUL 000023 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/02/2017 
+TAGS: PARM [Arms Controls and Disarmament], PREL [External Political Relations], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: ROK DEFENSE REFORM AND THE 2007 NATIONAL DEFENSE 
+BUDGET 
+ 
+REF: SEOUL 4328 
+ 
+Classified By: A/DCM Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+¶1. (C) Summary.  The ROK National Assembly (NA) has approved 
+the Bill on Defense Reform designed to modernize the ROK 
+military by the year 2020 at the cost of Won 621 trillion 
+(USD 667.7 billion).  Motivating factors behind the military 
+modernization plan include deterring the North Korean threat, 
+countering regional military threats (particularly from 
+Japan), and preparing the ROK military to assume wartime 
+operational control on the Peninsula.  The planned reforms 
+include a 38 percent reduction in troop levels and an 
+ambitious acquisition and procurement program to strengthen 
+command and control, surveillance and reconnaissance, and 
+precision-guided strike capabilities.  The FY 2007 defense 
+budget, approved by the NA on December 27, includes a 8.8 
+percent increase, falling slightly short of the 9.9 percent 
+increase proposed by the Ministry of National Defense (MND), 
+and indicating that continued funding through 2020 will be a 
+challenge. 
+ 
+¶2. (C) In other military related spending, funding for 
+Yongsan relocation was cut by Won 123.1 billion (USD 133 
+million) in FY 2007, after it was decided that the bulk of 
+the funds would not be needed until later years due to delays 
+in the project completion date.  The 2007-2008 Special 
+Measures Agreement (SMA), signed by the U.S. and ROK in 
+December 2006 and expected to pass the National Assembly when 
+it reconvenes in February, will increase the ROKG 
+burdensharing contribution by Won 45.1 billion (USD 48.5 
+million) this year.  The National Assembly also approved Won 
+37 billion (USD 39.9 million) for the ROK's troop dispatch to 
+UNIFIL.  End Summary. 
+ 
+The 2020 Defense Reform Plan 
+---------------------------- 
+ 
+¶3. (U) On December 1, the NA approved the Bill on Defense 
+Reform that outlines the comprehensive modernization of the 
+ROK military by the year 2020.  The Bill was submitted to the 
+NA in late 2005 to provide legislative force for the MND,s 
+2020 Defense Reform Plan (DRP).  The impetus for the DRP was 
+President Roh Moo-hyun,s directive to the MND to achieve a 
+ self-reliant defense.,  This means that the ROK military 
+maintains its own deterrence and defense capabilities against 
+a range of security threats, and is supported by a robust 
+domestic defense industry.  In April 2005, Roh ordered the 
+MND to conduct a thorough examination of France's defense 
+reform as a basis for an overhaul of the ROK military.  The 
+ROK DRP is also heavily influenced by U.S. defense reforms. 
+ 
+¶4. (U) Highlights of the DRP include: 
+ 
+- Reduction in troop levels from the current 680,000 to 
+500,000 by 2020.  The army will be reduced by a third, from 
+548,000 to 371,000, the navy will decrease from 68,000 to 
+64,000, and the air force will remain steady at 65,000.  The 
+reduction in manpower will be offset by the acquisition of 
+high-technology weapons systems and improvement in 
+intelligence, surveillance, real-time command and control, 
+and mobility and precision strike capabilities.  Reserve 
+forces will also be reduced by half to 1.5 million by 2020. 
+ 
+- "Democratization" of the defense policymaking process by 
+raising the ratio of civil servants in MND from 52 percent to 
+71 percent by 2009.  The DRP also calls for the introduction 
+of National Assembly hearings of key military appointees and 
+the JCS Chairman. 
+ 
+- Establishing a strengthened Joint Chiefs of Staff 
+(JCS)-centric operational execution system to improve joint 
+fighting capabilities and strengthen the decisionmaking role 
+and resource allocation for the Navy and Air Force vis-a-vis 
+the Army.  Service representation in the JCS will be at a 
+ratio of 2(Army):1(Navy):1(Air Force) at the division 
+director level and above. 
+ 
+- Increasing defense budgets to achieve a technology-centered 
+force.  The DRP includes ambitious acquisition and 
+procurement programs in order to strengthen command and 
+control, surveillance and reconnaissance, and 
+ 
+precision-guided strike capabilities across the services. 
+ 
+¶5. (U) The DRP is divided into three five-year phases, with 
+the bulk of initiatives slated to begin in the first phase. 
+In July 2006, the MND unveiled the first phase of the DRP, 
+the 2007-2011 Mid-term Defense Plan, which calls for military 
+expenditures of Won 151 trillion (USD 162.1 billion).  Force 
+Improvement Programs (FIP), designed to enhance defense 
+capabilities, are set to increase from 25.8 percent to 35.9 
+percent of the defense budget by 2011.  R&D will increase 
+from 5.5 to 6.7 percent of the defense budget to improve 
+technology and facilitate the development of the domestic 
+defense industry.  Specifically, the Mid-term Defense Plan 
+calls for the completion by 2011 of the C4I digital warfare 
+network system to allow real-time information sharing among 
+reconnaissance units, headquarters located remotely, and 
+battalion-class units on the battlefield.  The ROK also plans 
+to acquire a variety of aircraft (F-15K, T-50, TA-50) and 
+other equipment, including K1A1 tanks, K-9 self-propelled 
+artillery, MLRS systems, Aegis-equipped destroyers, mid-sized 
+submarines, and convey vessels, to enhance long-range strike 
+and force capabilities. 
+ 
+Funding Reform: The 2007 National Defense Budget 
+--------------------------------------------- --- 
+ 
+¶6. (U) The estimated total defense budget during the reform 
+period of 2006 to 2020 is Won 621 trillion (USD 667.7 
+billion).  In order to achieve this, the ROK defense budget 
+must increase over 9 percent annually in the first phase, 7.8 
+percent from 2011 to 2015, and one percent from 2016 to 2020. 
+ The Defense Budget as a percentage of GDP will be 2.76 
+percent through 2011, 3 percent in 2015, and 2.3 percent in 
+2020. 
+ 
+¶7. (U) The ROKG,s FY 2007 defense budget proposal supported 
+the DRP goals.  MND's proposed budget called for an overall 
+increase of 9.9 percent to Won 24.7 trillion (USD 26.6 
+billion).  Under the proposed budget, funding for FIP would 
+rise 17.5 percent overall and would focus on acquiring new 
+intelligence, surveillance and reconnaissance programs and 
+C4I capabilities.  It also included plans to acquire 
+warships, aircraft, and cruise missiles.  R&D expenditures 
+would rise by 34.5 percent in 2007.  Operation and management 
+costs would increase by 7 percent, focusing on improvements 
+in soldier morale and working conditions. 
+ 
+¶8. (U) Weeks after the December 2 deadline, the National 
+Assembly approved the 2007 National Budget on December 27. 
+The approved budget is Won 24.5 trillion (USD 26.4 billion), 
+an increase of 8.8 percent over 2006, but less than the 9.9 
+percent requested.  Over Won 345 billion (USD 371 million) of 
+MND's proposed budget was cut by the National Assembly.  The 
+largest cuts were in funds for the Yongsan Relocation Program 
+(YRP) and Land Partnership Plan (LPP), cut by Won 83.1 
+billion (USD 89.8 million) and Won 40 billion (USD 43.2 
+million), respectively.  The YRP and LPP funds were cut after 
+it was decided that the bulk of the money would not be needed 
+until later years, due to a five year delay in the project 
+completion date (from 2008 to 2013).  In the end, YRP was 
+funded at Won 303 billion (USD 327.4 million) and LPP at Won 
+176.5 billion (USD 190.7 million) for FY 2007. 
+ 
+¶9.  (U)  The NA also added projects worth Won 146.3 billion 
+(USD 157.3 million) to the 2007 defense budget.  Won 39.2 
+billion (USD 42.1 million) was earmarked for acquisition of 
+'bunker buster' bombs and ballistic-missile early warning 
+system following the North's October nuclear test.  The 
+expected increase of Won 45.1 billion (USD 48.5 million) for 
+the ROKG's 2007 contribution to non-personnel stationing 
+costs under the SMA was also included.  (Note: The SMA is 
+expected to be approved in February 2007 when the NA 
+reconvenes.  End Note.)  Won 37 billion (USD 39.9 million) 
+was also added for the ROK's 2007 UNIFIL dispatch. 
+ 
+Comment 
+------- 
+ 
+¶10. (C) In response to strong opposition in the National 
+Assembly, MND has revised downward its estimates for annual 
+budgetary increase requirements to carry out the DRP.  While 
+the DRP called for annual increases of 9.9 percent, MND 
+ 
+reform planners have told PolOff that increases of even 7.1 
+percent, on par with the expected GDP growth over the reform 
+period, would be sufficient.  However, it is unclear whether 
+even that lower level of increases in defense spending is 
+attainable in the current political climate.  In 2006, the 
+first year the DRP was to be implemented, the NA approved 
+only a 6.7 percent increase, falling far short of the 10.5 
+percent increase proposed by MND.  The 2007 budget proposal 
+fared better, but politically motivated spending decisions 
+will likely continue to impact the ability to fully fund the 
+implementation of the DRP. 
+ 
+¶11. (C) MND has made clear that deterrence of the North 
+Korean threat is not the only motivating factor behind the 
+DRP.  In his National Assembly confirmation testimony, the 
+new Defense Minister, Kim, Jang-soo, stated that the purpose 
+of the DRP is to "strengthen independent defense planning and 
+independent warfighting capabilities to secure war deterrence 
+on the Peninsula, and establish a firm defense posture 
+capable of countering any military threats."  In explaining 
+the DRP to the public and National Assembly, the force 
+capabilities of all its neighbors, including North Korea, 
+China, Japan, and Russia, figure prominently.  In particular, 
+the DRP notes that Japan spends nearly twice the amount the 
+ROK does every year on its defense budget, as well as the 
+fact that Japan maintains significantly more high-tech force 
+capabilities.  The DRP outlines Japan's force modernization 
+efforts, including its acquisition of specific reconnaissance 
+satellites, AEGIS warships, and airborne tankers.  The ROK 
+planned acquisitions under the DRP track with those of Japan. 
+ 
+¶12. (U) The prospect of transfer of wartime operational 
+command authority is also clearly a motivating factor in 
+MND's reform plan.  The DRP states that the reform plan will 
+be carried out within the context of a strong U.S.-ROK 
+Alliance, but also acknowledges that OPCON transfer is one of 
+the key issues involved in attaining a 'self-reliant 
+defense.'  Many of the planned reforms, such as strengthening 
+the JCS, will help better prepare the ROK military to assume 
+wartime operational command. 
+STANTON
+</file>

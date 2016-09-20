@@ -1,0 +1,212 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL1727  |  2007-06-07 05:24  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>ECON EFIN EINV ETRD KS }}  |
+====== 제 목: 금융 당국, 원화 안정 도모 ======
+  * 기 밀 SEOUL 001727 의 3분의 1부분
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 국무부 경제국, 경제에너지비지니스국((번역 주:  E, EEB)), 그리고 동아시사태평양/한국과,  뉴욕 연방준비은행으로((번역 주:  FEDERAL RESERVE BANK)) 전달 - 최 및 부지 귀하
+  * 재무부 오시아/폿지 그리고 하사저((번역 주:  HAARSAAGER )) 귀하 
+  * 국가안전보장회의 통김((번역 주: Tong, 김동현(통킴) 존스홉킨스대 교수, 자문위원 및 통역)) 귀하
+  * 행정명령 12958: 비밀해제: 06/07/2017 
+  * 태그: ECON(([Economic Conditions])), EFIN(([Financial and Monetary Affairs])), EINV(([Foreign Investments])), ETRD(([Foreign Trade])), KS(([Korea (South)]))
+  * 제 목: 금융당국, 원화 안정 도모
+  * 참 조: SEOUL 1490 
+  * 분류자: 경제 참사관 대행 마이크 스팽글러((번역 주:  A/ECON MIKE SPANGLER)) 근거 1.4 B&D.
+  * 번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/23 19:57//
+===== 요점 =====
+1.(기밀) 6월 1일 일본 엔화 대비 한국 원화가 9년만에 최고치를 경신하면서 산업자원부14가 재정경제부15에 //“통화안정과 수출력 강화를 지속시키라고”// 공식적으로 요구하고 나섰다. 한국정부가 일본 및 중국의 당사자들과 5월 초에 도쿄에서 갖은 아세안+3 경제장관회의에서 원화절상은 한국의 중심의제가 됐다. 원화는 과거 2년간 달러대비 8.3퍼센트 절상된 반면 엔화 대비 18.5퍼센트 상승했다. 몇몇 재정경제부 관리들은 원/엔 추세가 부분적으로 통화량 증가 및 외국계 은행의 환투기 때문으로 간주하고 있다. 그리고 수반되는 단기 외환차입금16의 급증을 우려하고 있다. 이러한 부담들의 결과로, 재정경제부는 외환시장의 감독을 강화하겠지만 비시장적 경제 통제를 삼가할 것이다. //요점 끝.//
+===== 외환시장개입 =====
+2.(민감하지만비분류) 은행들에게 외환매입에 관한 몇 가지 질의를 한 후에, 재정경제부는 5월 17일에 외환시장에 개입했다. 재정경제부 및 한국은행은 최근의 원화절상을 중단시키기 위한 의도임을 공식 발표했고, 미화 5억 달러 상당의 달러화 및 엔화를 매입했다. 신속히 실천한 개입 이후에, 원화는 달러 당 4.10원 절하된 928.1원으로 전날 마감했고, 엔화 당 7.7원으로 약세이다. 이 조치는 2006년 12월 6일 이래 재정경제부의 첫 번째 개입이다. 5월 17일 이래 원달러 및 원엔 환율은 각각 927원 및 7.7원에 머무르고 있으며, 예전의 최고율과 큰 격차가 없다. 시장 분석가들은 한국은행의 5월에만 17차례의 시장개입은 현재까지는 추가적 원화절상을 억제하고, 원/엔 등락을 좁은 범위로 유지하는데 도움이 됐다고 인정했다. 그러나 분석가들은  원화의 강세흐름은 다시 불거질 것인데, 이유인즉 시장 참여자들이 일본의 금리 인상의 가능성을 낮게 보는 것 같기 때문이다.
+===== 아세안+3 경제장관회의 =====
+3.(기밀) 미국과의 논의에서, 한국 금융당국은 원화의 최근 엔화 대비 가치상승의 유지는 근본적인 경제 인자 측면에서 정당화될 수 없다고 했다. 당국 관리들은 일본과의 만성적인 한국의 커다란 무역적자가 원화의 지속적인 절상에 정면으로 배치되는 주요 인자라고 지적했다. 아마도 더 중요한 것은, 엔화 절하는 한국의 일본 수출에 피해를 주고, 반면에 한국의 일본 기계 및 부품 수입에 대한 의존도는 강화되면서, 2007년 첫 사사분기에 10,8퍼센트 수입이 증가했다.
+
+4.(기밀) 이런 배경을 등에 업고, 5월 초 아시아개발은행 회의 한켠에서 갖은 한국정부와 일본 및 중국의 당사자들과의 삼자경제장관회의에서 원화절상은 한국의 중심의제가 됐었다. 김윤경 재정경제부 국제금융국 과장은((번역 주: 국제금융국 금융협력과 과장 이 정식명칭, 이명박 정부의 G20 준비위 대변인도 역임)) 일본 오미 재무부장관이 엔화가치가 시장에 의한 것이라며 //“일본 엔 차입 거래의((번역 주: Yen carry trade, 일본의 금리가 낮을 때 각광받던 투자기법이다. 낮은 금리로 엔화를 빌려 상대적으로 수익률이 높은 나라의 화폐 자산을 매입하여 수익을 내는 것이다)) 숨통을 푸는데 협조”//하기를 거부한 것에 한국정부는 //“크게 낙담”//했다고 최근에 대사관에 말했다.
+
+5.(비분류) 그럼에도 불구, 5월 제4차 아세안+3 경제장관회의 중국, 일본, 한국의 경제장관이 지역적 통화시장의 협력강화에 합의했으며, 새 아시아 채권 시장의 출범을 도모하기로 했다. 세 명의 장관은 지역 금융의 변동성에 대한 정보교환을 강화하기로 했다. 이들은 또한 치앙마이이니셔티브((번역 주: Chiang Mai Initiative (CMI))) 협정하의 양자 외환스왑 태세를 미화 800억 달러로 신장하기로 했다.\\ 서 울 00001727 003 중의 002 \\ 
+(주석: 치앙마이이니셔티브(CMI)란 지역협정으로, 태국 치앙마이에서 열린 아세안+3 회의 중에 채택된  통화위기를 막기 위한 지역협정이다. 이 협정의 목적은 회원국 간의 통화스왑계약의 연결망을 설립해서 금융위기에서 탈피하자는 것이다. //주석 끝.//)
+===== 외국계 은행 =====
+6.(민감하지만비분류) 한국의 복잡한 외환상황은 이 곳의 외국계 은행들의 역할에 대한 집중조명을 하게 했다. 4월 19일 한국은행은 한국 내 36개의 영업 중인 외국계 은행에 대해 외환 차입을 감소할 것을 촉구했고, 특히 일본 엔 차입을 줄일 것을 주장했다. 한국은행은 은행의 단기 외환부채가 2006년 말에 미화 1,136 억 달러를 기록해서, 2005년 대비 72퍼센트가 증가됐고 사상 처음으로 미화 1000억 달러를 넘어섰음을 지적했다. 단기 부채가 ( 1년 또는 미만 만기) 모든 외환 차입의 43.1퍼센트에 달했고, 2005년 말 대비 34.7퍼센트 증가한 것이다. 은행들이 첫 사사분기의 신규 대출을 미화 127억 원으로 증대시키면서  이런 추세는 2007년에도 지속되고 있는데, 이는 외국계 은행들이 보유한 미화 113억 달러도 해당된다. 대사관측의 재정경제부 접선책은 외화 대출의 증가는 부분적으로 엔 차입 거래의 탓으로 봤는데, 예로 엔화를 매입해 한화로 환전해서 이자가 붙는 유가증권에 투입하고 계속되는 원화절상을 예상하고 투기를 하는 것이다.
+
+7.(기밀) 조직적 관점에서, 재경부 관리들은 단기 외환차입 흐름을 조사하면서 외국계 은행 지점들에 집중하는 모습인데 이유인즉:
+  * 한국의 조선회사의 영수증을 둘러싼 환율방어 측면에 설명될 수있는 것은 28퍼센트에 정도만 해당된다. 한국의 조선회사들은 달러 환노출에 대한((번역 주: 환율변동은 기업경영에 많은 불확실성을 가져다 주는데 기업이 이 환율변동 위험에 노출(exposed)된다 해서 이를 환노출(foreign exchange exposure)이라고 합니다.)) 70-80퍼센트 정도의 헤지비율로((번역 주: 헤지비율 70-80퍼센트란 말은 환율변동에 70-80퍼센트 약속에 의해 보전된단 말, 20-30%는 환노출 위험, 자세한 내용은 이 번역의 범주를 벗어남.)) 방어에 나섰고, 이는 2006년 2007년 공히 미화 400억 달러에 상당한다.
+
+  * 국내 일반은행은 외국환 유동자산비율 영향 하에 있으며, 이것은 기본적으로 자신의 외국환 총 오픈포지션에((번역 주: 오픈포지션이란 투자자가 유가증권 또는 외국환을 매입하고 매도하지 않은 상태를 말한다.)) 제한을 두는 것으로 지나친 위험감수를 하지 않도록 보장하는 것이다.
+8.(기밀)  그러나, 외국계 은행지점은 상기한 규제에 영향을 받지 않는다. 이를 자본은 해외에 귀속되고, 이 은행들의 외환리스크는 자신들이 귀속된 국가가 규제한다. 외국계 은행지점은 단기 채무 증대를 주로 주도하기 때문에 재정경제부 및 한국은행은 지금 한층 더 이들 은행의 외국환 포지션에((번역 주: 외국환 포지션이란 투자자가 유가증권 및 외국환을 매입 그리고 매도하는 일련의 상황을 말함.)) 관한 정보를 요청하는 것이다. 재정경제부는 외국계 은행이 외국환을 낮은 금리비용에 매입해서, 한국 국채에 분산투기하고 있다고 믿고있다. 덧붙어서, 재정경제부 관리들은 스왑된 엔화의 일부가 대출형태로 중소기업에 투입된 것으로 의심하고 있다. 이런 고로 시장 전반에 과도한 위험부담에 대한 한국은행의 우려가 깊어지고 있다. 국제통화기금의 4 조항 팀이 현재 서울에서 이들 및 다른 쟁점들에 대해 6월 15일 까지 조사를 벌이고 있다.
+===== 논평 =====
+9.(기밀) 대사관은 재정경제부의 외국계 은행에 의한 단기 외환 차입금 급증에 대한 우려가 어떤 정책 변화의 전조는 아닐 것으로 믿고 있다. 재정경제부 및 한국은행은 외환 차입금을 직접적으로 감축할 것은 아닐 텐데, 이유인즉 시장경제에 대한 자국의 강력한 공적 약속을 거스르길 꺼리기 때문이다. 그러나 한국은행은 아마도 필요에 따라서 외환시장에 직접 개입을 계속할 것이다. 최근의 단기 외환 차입금은 풍부한 유동성 및 강한 수출에 힘입은 한국경제에 대한 합리적 기대감이 더해 지고, 이에 엔 차입 거래의 국제적 추세가 맞물리는 자연스런 반응이다. 다가올 2007년 12월에 대통령 선거를 볼 때, 한국은행은 어떤 과열된 신호를 예의 주시하면서, 경제를 활성화하는 충분한 유동성을 제공하는 완만한 통화정책 기조에 조심스런 줄타기를 유지 할 것으로 예상할 수 있다. //요약 끝.//
+서울 00001727  003 중의 003 
+//스탠튼//
+[[https://sites.google.com/site/poirotkr/7/07seoul1841|프와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL1727.rtf>
+C O N F I D E N T I A L SECTION 01 OF 03 SEOUL 001727 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR E, EEB, AND EAP/K, PASS TO FEDERAL RESERVE BANK 
+OF NEW YORK - CHOI & BOEGE, 
+TREASURY FOR OASIA/POGGI AND HAARSAAGER 
+NSC FOR TONG 
+ 
+E.O. 12958: DECL: 06/07/2017 
+TAGS: ECON [Economic Conditions], EFIN [Financial and Monetary Affairs], EINV [Foreign Investments], ETRD [Foreign Trade], KS [Korea (South)] 
+SUBJECT: FINANCE AUTHORITIES SEEK WON STABILITY 
+ 
+REF: SEOUL 1490 
+ 
+Classified By: A/ECON CHIEF MIKE SPANGLER FOR REASONS 1.4 B&D. 
+ 
+SUMMARY 
+-------- 
+¶1.  (C)  The Korean won hit a nine-year high versus the 
+Japanese yen on June 1, prompting the Ministry of Commerce, 
+Industry, and Energy publicly to ask the Ministry of Finance 
+and Economy (MOFE) "to pursue currency stability and 
+strengthen export supports."  Earlier in May, the won's 
+appreciation took center stage for the ROKG at its Trilateral 
+Finance Ministerial with Japanese and Chinese counterparts in 
+Kyoto.  The won has climbed 18.5 percent against the yen over 
+the past two years compared to an 8.3-percent appreciation 
+relative to the dollar.  Some MOFE officials attribute the 
+won/yen trend partly to increased currency and interest rate 
+speculation by foreign banks here and are concerned about a 
+concomitant spike in short-term foreign exchange (FX) 
+borrowing.  As a result of these pressures, MOFE is likely to 
+step up FX market monitoring but avoid imposing non-market 
+controls.  END SUMMARY. 
+ 
+Foreign Exchange Intervention 
+------------------------------------ 
+¶2.  (SBU)  Following several queries to banks about their FX 
+acquisitions, MOFE intervened in the FX market on May 17. 
+MOFE and the Bank of Korea (BoK) publicly announced their 
+intention to halt the recent won appreciation and bought 
+dollars and yen worth about USD 500 million. After the 
+rapidly executed intervention, the won weakened by 4.10 won 
+per dollar to 928.1 won from the previous day, while 
+softening to 7.7 won per yen. This was MOFE's first 
+intervention since December 6, 2006.  Since May 17, the 
+won-dollar and won-yen rates have hovered around 927 won and 
+7.7 won, respectively, not far from previous highs. Market 
+analysts acknowledge the BoK's May 17th intervention seems to 
+have helped curb further appreciation for now, keeping the 
+won/yen in a tight range.  However, they argue the won's 
+strengthening trend could reassert itself since market 
+participants appear to be discounting the possibility of 
+Japanese interest rate hikes. 
+ 
+Trilateral 
+--------- 
+¶3.  (C)  In discussions with us, Korean finance authorities 
+maintain the won's recent gains against the yen are 
+unjustifiable in terms of fundamental economic factors.  They 
+point to Korea's chronically large trade deficit with Japan 
+as the main factor that flies in the face of the won's 
+continued appreciation. Perhaps more importantly, the 
+depreciating yen hurts Korean exports to Japan, while 
+bolstering Korean dependence on Japanese machinery and part 
+imports, up 10.8 percent in the first four months of 2007. 
+ 
+¶4.  (C)  Against this backdrop, the won's appreciation took 
+center stage for the ROKG at its Trilateral Finance 
+Ministerial with Japanese and Chinese counterparts on the 
+fringe of the Kyoto Asian Development Bank meeting in early 
+May.  MOFE International Finance Bureau Director Kim 
+Yoon-Kyung recently told us the ROKG is "extremely 
+frustrated" by Japanese Finance Minister Omi's insistence 
+that the Yen's value is market-determined and his refusal to 
+"help untie the choking knot of the Japanese yen carry 
+trade." 
+ 
+¶5.  (U)  Nonetheless, the May 4th Trilateral Ministerial did 
+see the Chinese, Japanese, and Korean finance ministers agree 
+to enhance cooperation in regional currency markets, and to 
+promote a new Asian bond market initiative.  The three 
+ministers undertook to strengthen information exchanges on 
+regional financial volatility. They also boosted their 
+bilateral FX swap arrangements to USD 80 billion under the 
+ 
+SEOUL 00001727  002 OF 003 
+ 
+ 
+Chiang Mai Initiative (CMI) system.  (Note:  The CMI is a 
+regional accord to fend off currency crises, adopted during 
+the ASEAN-plus-three meeting held in Chiang Mai, Thailand in 
+2000. It aims at lifting member nations out of financial 
+crisis by establishing a network of currency swap contracts 
+among member countries. End note.) 
+ 
+Foreign Banks 
+-------------- 
+¶6.  (SBU)  Korea's complex FX situation has also put a 
+glaring spotlight on the role of foreign banks here.  On 
+April 19, the BoK urged thirty-six foreign banks operating in 
+Korea to reduce their FX borrowing, particularly in Japanese 
+yen. The BoK noted short-term FX bank debt stood at a record 
+USD 113.6 billion in late 2006, up 72 percent from 2005 and 
+exceeding USD 100 billion for the first time.  Short-term 
+debt (maturing in one year or less) accounted for 43.1 
+percent of all FX borrowing, up from 34.7 percent in late 
+2005.   This trend persists into 2007, as banks ramped up 
+$12.7 billion in new loans in the first quarter of the year, 
+including USD 11.3 billion assumed by foreign banks. Our MOFE 
+contacts attribute the FX loan rise partly to the yen carry 
+trade, i.e., borrowing yen, converting it into won, and 
+parking it in interest-bearing securities to speculate on 
+continued won appreciation. 
+ 
+¶7.  (C)  From a systemic perspective, finance authorities 
+seem to be focusing on foreign bank branches in their 
+investigation of short FX debt flows because: 
+ 
+--only about 28 percent can be explained in terms of hedging 
+activity surrounding Korean ship-builder receipts.  Korean 
+shipbuilders are believed to hedge around 70-80 percent of 
+their dollar exposure, amounting to about USD 40 billion in 
+both 2006 and 2007. 
+ 
+--domestic commercial banks are subject to FX liquid asset 
+ratios, which basically limit their net open positions in FX 
+and ensure they do not assume excessive risk. 
+ 
+¶8.  (C)  However, foreign bank branches are not subject to 
+the same regulations.  Their capital is incorporated abroad 
+and their FX risks regulated by the country in which they are 
+incorporated.  Since foreign bank branches are mainly driving 
+the increase in short-term debt, MOFE and the BoK are now 
+more frequently requesting information from the branches on 
+their FX positions.  MOFE apparently believes foreign banks 
+are borrowing FX at lower interest-rate costs and exploiting 
+the spread on Korean treasuries.  In addition, MOFE officials 
+suspect some of the yen swapped into won may be channeled 
+into on-lending to small- and medium-sized enterprises, 
+thereby raising BoK concerns about excessive risk-taking in 
+the market as a whole.  The IMF's Article IV team is 
+currently in Seoul investigating these and other issues till 
+June 15. 
+ 
+COMMENT 
+------------- 
+¶9.  (C)  We believe MOFE's concern about the sharp increase 
+in short-term FX borrowing by foreign banks does not portend 
+any policy change.  MOFE and BoK are unlikely to curtail FX 
+borrowing directly because they are reluctant to go against 
+their strong public commitments to the market mechanism. 
+However, the BoK will probably continue to intervene 
+indirectly in the FX market, as needed.  Recent short-term FX 
+borrowing is a natural reaction to global trends in the Yen 
+carry trade coupled with rational expectations of the Korean 
+economy backed by ample liquidity and strong exports.  In 
+light of the upcoming December 2007 Presidential election, 
+the BoK can be expected to keep walking a fine line on its 
+soft monetary policy, providing sufficient liquidity to 
+stimulate the economy, while watching for any signs of 
+overheating.  END COMMENT. 
+ 
+SEOUL 00001727  003 OF 003 
+ 
+ 
+STANTON
+</file>

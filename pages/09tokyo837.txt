@@ -1,0 +1,489 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09TOKYO837  |  2009-04-13 07:53  |  비밀(2급)  |  주일 미국 대사관  |  {{tag>PREL PARM MARR KN KS JA }}  |
+====== 제 목: 한·미·일 3자 안보 협력에 관한 일본과 한국 관리와 학계의 견해 ======
+비 밀 TOKYO 000837 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국무부 동아태/일본과, 동아태/한국과((STATE FOR EAP/J, EAP/K))
+국방부 국방장관실/아시아태평양보안과―세드니/헬비/베이슬라/아르클리언((DOD FOR OSD/APSA – SEDNEY /HELVEY/BASALLA/ARAKELIAN))
+태평양사령부 J00/J01/J5((PACOM FOR J00/J01/J5))
+주일미군 J00/J01/J5((USFJ FOR J00/J01/J5 ))
+주한미군 J00/J01/J5((USFK FOR J00/J01/J5))
+행정명령 12958: 비밀해제: 한국 통일 이후 
+태그: PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), MARR(([Military and Defense Arrangements])), KN(([Korea (North)])), KS(([Korea (South)])), JA(([Japan; Okinawa; Ryukyu Islands])) 
+제 목: 한·미·일 3자 안보 협력에 관한 일본과 한국 관리와 학계의 견해
+참조: 08 SECDEF 8291 
+분류자: 제임스 줌월트 잠정적 대사 직무 대행((James P. Zumwalt, Charge d'Affaires, a.i.))  근거 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/05/22 00:37//
+===== 요약 =====
+1. (비밀) 일본 정부 관리들과 학자들은 모든 수준에서 미·일·한 삼자 안보 대화 추진에 대해 강한 관심을 표명하였다. 일정 부분 일본의 방어태세를 증강함에 더해 국제 평화 활동의 확대를 위함이지만, 주로 일본과 한국 양국 간 방위 협력을 개선하기 위함이다. 그들은 미합중국과의 삼자 대화가 진전되면 북한 관련 우발사태 관련 한일 양국 간의 대화로 이어질 수 있다고 믿고 있다. 다만 양국 정부가 역사와 영토 문제를 뒤로 제쳐 놓는다는 전제가 있다. 그러나 일본 내 남한 연락선은(정보원) 지적하길: 한국은 미국을 포함하는 삼자 대화에만 마지못해 참가한다; 대부분의 한국 정부 관리들은 일본과의 안보 및 방위 협력에 대해 경계하고 있다; 그리고 안보 및 방위 문제 면에서 상호 신뢰라는 근본적인 문제는 역사나 영토 분쟁을 단순히 “극복해야 할” 문제로 치부해서는 해결될 수 없다.
+
+2. (비밀) 논평: 한미일 삼자 안보 및 방위 대화는 양국을 상대로 미국의 면밀한 감독과 적극적인 참여를 요한다. 미국 정부는 한국과 일본 정부 간의 현재의 긍정적인 분위기에 따른 기회를 이용해 두 동맹국이 양자 무대나 삼자 무대에서 공히 상호 신뢰가 강화되도록 도울 필요가 있다. 최근 북한의 대포동2 탄도 미사일 발사 사건 전후로 일본과 한국 정부가 증명해 보인 긴밀한 협력은 양국 사이의 장벽이 깨질 수 있다는 하나의 정황이다. 다양한 모든 형태의 삼자 대화는―특별히 삼자 합동참모-계획 통제형 전략회의―그런 절차상에 도움이 될 수 있다. 논평 및 요점 끝.
+===== 배경 =====
+3. (비밀) 한일 양국의 복잡한 관계는 두 동맹국과 함께하는 삼자 방위 및 안보 협력 강화라는 미국의 목표에 하나의 도전을 던져 준다. 2008년 남한 정부의 교체 이후 최근 한일 관계가 개선되었지만, 두 이웃 국가 사이에 양자 안보 대화의 영역은 평범한 수준이며 반면에 미국과 함께하는 삼자 대화는 미국 정부의 적극적인 지도력이 계속 요구되고 있다. 주일 미국 대사관은 미국과 일본, 한국 사이에 삼자 방위 및 안보 협력의 전망에 대해 양국 정부와 학계에 속한 몇몇 일본인과 한국인 대화 상대역의 견해를 조사해 보았다.
+===== 일본은 한국과의 안보 대화를 모색 =====
+4. (비밀) 일본 정부 관리들과 학자들은 미국과 한국이 함께하는 삼자 방위 및 안보 대화에 대해 폭넓은 지지를 표명했다. 일본의 방어태세 강화에 더해 지역 안정을 해치는 북한의 행위나 북한 정권 붕괴 등을 일본이 한미 양국 정부와 함께하는 양자/삼자 안보 대화나 정책 단계 대화 추진에 찬성하는 근거로 삼는다. 아베 노리아키 외무성 일·미안전보장조약 과장 보좌는 일본과 한국정부 사이 한반도 우발사태에 관한 정책과 작전 또는 심지어 학술 단계의 대화도 부족한 관계로 한반도 유사시에 일본 자위대 자산을 활용해서 남한에서 일본 시민을 효과적으로 대피시키려는 계획에 차질을 빚고 있다고 주일 미국 대사관에 말했다. 일본 정부는 우발사태 때 소개자(紹介者)를 대피시키기 위해 사용이 가능한 시설과 비전투원 집결지와 더해 비전투원을 대비시키기 위해 사용되는 이·착륙장과 항만 시설에 대한 정보를 한국 정부로부터 받을 필요가 있다. 더 중요한 것은 대피 각본에 따른 자위대 항공기와 선박이 남한을 출입할 수 있게 한국 정부의 허가가 필요할 것이다―한국 정부가 아직 허가하지 않는 부분이다. 미국과 함께하는 삼자 논의를 지렛대로 삼는다면 한국 정부가 일본과의 양자 대화에 대해 더 전향적으로 나서길 촉구하기 위한 유용한 방식이 될 것이라고 아베는 말했다.
+
+5. (기밀) 내각관방 안전보장위기관리 담당 참사관 보좌였으며 현 일본 정책연구대학원대학 교수인 미치시타 나루시게는 미국과 일본, 한국 사이 종합적인 삼자 안보 협력은 일본의 국가 안보 이해관계 측면과 아울러 삼국의 국제 안보 기여 측면에서도 바람직하다고 단언했다. 비록 삼국 정부가 6자회담 과정에서 삼자 협력을 유지할 뿐만이 아니라 삼자 정책 기획 회담도 지속하고 있지만, 방위와 작전 문제에 초점을 맞춘 삼자 대화는 최근 수년간 눈에 띄게 실종됐다. 예를 들면, 삼국은 역내 재난 구호 훈련에서 삼국의 역량을 제공하거나 각국의 전문 기술을 대량살상무기 확산방지구상에(PSI) 접목할 방안을 모색할 수 있다. 삼국은 통일 한국 각본에 따른 안정화 노력, 군비 축소, 법 집행 등 각자 가능한 역할이나 임무에 대한 연구도 시작할 수도 있다. 삼국의 역량을 결집하면 자위대의 부족한 부분을 해소하는 데 도움이 될 것이다―기본적으로 위력을 배가 하게 될 거라고 미치시타는 주장했다.
+===== 당장은 현재의 정부 사이 및 반민반관 대화에 만족 =====
+6. (비밀) 일본 정부 관리들은 주요 안보 이해관계에 직접 영향을 미칠 현안에 대해 한국의 상대역들과 함께 활발한 교섭에 나서길 간절히 바라고 있지만, (당분간은) 대화를 살려 나가기 위해서라도 완만한 속도로 진행할 용의가 있다. 일본 정부 관리들은 이명박 정부부터 한국 정부가 안보 문제와 관련 일본을 따뜻하게 상대하기 시작한 관계로 야심 찬 의제를 너무 서둘러 추진함으로써 아직은 형성 단계의 관계가 망가지길 원하지 않는다. 나카지마 고이치로 방위성 전략기획실장은 방위성 고위 관리들은 2008년 11월 후쿠오카 한·일 안보정책협의회 결과에 더해 한미일 삼자 방위 회담의(한·미·일 안보토의) 활성화 삼자 합동참모-계획 통제형 전략회의, 그리고 진행 중인 삼국의 방위 분야 싱크탱크가 참여하는 삼자 "반민반관" 논의 등에 대체로 만족했다고 말했다. 특히 2008년 후쿠오카 한일 회담에서는 한국이 주재한 전년도의 제주 회담 일정 이후 경험했던 느낌보다 훨씬 더 낙관적인 느낌을 지니고 끝마쳤다.
+
+7. (비밀) 그러나 나카지마는 분위기가 눈에 띄게 개선되긴 했지만, 논의 자체는 2007년 회담 내용 이상으로 발전되지 않았다고 지적하였다. 일본측은 한국이 개재된 미래 안보 포럼에서 평화유지군, 역내 위험 평가, 재난 구호, 해적소탕 등 정치적으로 중립적인 문제를 점차 탈피하도록 힘쓸 것이며 한반도 우발사태에 대해 모든 참가국이 솔직히 대화를 할 수 있도록 할 것이다. 일본 정부는 한국 정부가 그런 논의에 참여토록 하려면 시간이 걸릴 것임을 깨달았지만, 일본 정부는 기회가 닿을 때마다 남한 사람들을 설득할 거라고 나카지마는 말했다.
+===== 전반적으로 한일 관계가 개선된 느낌 =====
+8. (비밀) 나카지마는 한·일 안보 회담(국방부는 `한·일 안보정책협의회'라고 칭함) 분위기 개선은 새로운 남한 정부가 출범한 이후 전반적인 양국 관계 개선을 반영한다고 단언하였다. 오랜 역사 및 영토 문제가 긴밀한 협력 수준에 도달하기까지 남아 있는 유일한 장애물이라고 지적했다. 만일 일본과 한국이 역사와 영토 문제를 넘어선다면 10년 전 동티모르 유엔 평화유지군 임무 중 한국군과 일본 자위대 사이 협력의 역사를 볼 때 양국 정부 사이에 긴밀한 방위 관계 달성은 어렵지 않을 것이다. 2008년 합동 탐색 및 구조 연습에 한일 양국 병력이 참가한 일은 방위 협력의 또 다른 좋은 사례이다. 핵심은 한일 군사적 참여를 뛰어넘는 협력을 제도화하는 것이라고 나카지마는 지적했다. 그러나 노무현 정부 시절 거의 전무했던 방위 및 안보 회담을 양국이 만회해서 한일 양국 정부가 방위 및 안보 관계 개선하려면 여전히 시간과 노력이 소요될 것이라고 지적하였다. 특히 양국 정부 간 호의(好意)가 제각기 관료주의를 관통하려면 시간이 걸릴 것이라고 나카지마는 지적했다.
+===== 양자 회담 개선되는 듯, 그러나.. =====
+9. (비밀) 타카미자와 노부시게 방위성 방위정책국장은 한일 안보관계와 미국과의 삼자 회담과 관련해서 기대 수준을 높게 잡지 말라고 최근에 아시아태평양안보연구소 방문 연구원들에게 말했다. 미국과 함께하는 삼자 협력이 한일 간의 논의 활성화할 수 있지만, 한국이 유의미한 안보 대화를 망설이는 까닭에 한미일 삼자 대화에 거듭 지장(支障)을 초래할 것이다. 타카미자와는 남한이 한미일 삼자 국방 회담에서(당시 국방부는 '한·미·일 안보토의'라 칭함) 미국과의 여타 삼자 대화에 참여하는 수준을 격상하겠다는 의중을 보였다는 점을 인정했지만, 한국이 어느 정도나 해당 논의를 발전시킬 준비가 되어 있는지는 의문을 제기하였다.
+===== 어디부터 시작하나: 방위성 견해 =====
+10. (비밀) 타카미자와는 미합중국과 한국과 함께하는 한반도 우발사태 계획은 일본정부의 장기적인 목표라고 강조했다. 그렇긴 하지만, 삼국 협력의 물꼬를 트기 위한 실질적 영역으로 재난 구조를 그는 지목했다. 관건은 상호 신뢰를 쌓고 양자나 삼자 안보 대화를 통해 공동 전략 및 작전 목표를 타결 짓고 다양한 반민반관 논의를 통해 정보력을 키워가는 것에 있다. 과도기에는 삼자 재난 구호와 평화유지군 협력에 초점을 맞추는 것이 일본이나 한국을 위해 좋은 “타개책”이었다. 재해구호작전은 특히 일본에 유용한 협력 분야인 까닭은 자위대와 민간 정부기관의 실질적인 경험과 노하우를 해당 논의로 끄집어낼 수 있고 일본 대중도 자위대의 재해구호작전 참여를 지지하기 때문이다. 한국 정부도 정치적 문제를 유발할 가능성도 최소화할 수 있어 다른 어떤 안보 이슈보다도 더욱 지속 가능한 공동 노력이 된다고 타카미자와는 말했다.
+
+11. (비밀) 타카미자와는 방위성이 한미일 삼자 재난 구호 협력에서 상당한 성과를 기대하고 있다고 말했다: 각국의 재해 응답 시간에 대한 정보 교환; 군 병력의 재난 발생 지역 파견에 관한 각 정부의 요건 또는 제약 사항에 대한 상호 이해; 필요한 장비와 통신 등 국제 협력을 위한 요구 사항을 식별; 각국의 역할, 임무, 능력 등 재난에 대처하는 한미일 삼국의 계획 초안; 그리고 정보 공유 약정 등이다. 삼국은 재건 및 안정화 관련 각국의 경험을 공유할 수도 있으며 노동 분담의 가능성도 설계할 수 있다. 일본이 그런 논의로부터 얻을 것이 많다고 타카미자와는 덧붙였다. 왜냐면 자위대의 부족한 부분인 분쟁 이후 재건 및 안정화 작업을 지원할 역량을 한국군이 보유하고 있기 때문이라고 타카미자와는 덧붙였다.
+===== 일본은 어디까지 원하나 =====
+12. (비밀) 타카미자와는 자위대는 한국군에 대해 화학·생물·방사능·핵무기(화생방 및 핵무기) 공격을 대비한 합동 연습에 참가하라고 설득하고 있다고 지적하였다. 방위성은 그런 협력을 최우선 과제로 간주한다. 왜냐면 만일 북한이 무력 충돌 시 화생방 및 핵무기 공격을 사용한다면 상당한 부수적 피해를 당할 것이 자명하기 때문이다. 쌍방은 재난 구호와 평화유지군, 테러리스트 공격에 관한 양자나 삼자 논의에 이어 차후에 화생방 및 핵무기 공격에 관한 협력과 관련 상세한 논의를 해야 한다. 그런 논의의 성과를 쌓아가다 보면 미래 어느 시점에는 삼국 모두가 한반도 우발사태를 대비한 계획도 솔직한 논의가 가능해질 수 있다. 비록 자위대 소속 많은 인사가 우발사태 계획에 대해 조속히 논의하자고 한국을 압박하고 싶은 충동이 있지만, 방위성은 단계적인 접근 방식을 선호한다고 타카미자와는 말했다.
+===== 한국은 전적으로 미국의 요구로 참가 =====
+13. (비밀) 남한 대화 상대역들은 우리 일본 연락선과는 대조적으로 한일 양자 안보 대화의 현황과 아울러 한·미·일 방위 및 안보 대화에 대한 전망에도 더 어두운 진단을 제공하고 있다. 주일 한국 대사관 김태진 참사관은 2008년 11월 워싱턴 삼자 국방 회담에(국방부는 `한·미·일 안보토의'라고 칭함) 한국 정부가 참여한 것은 전적으로 미국 정부의 강력한 압박 때문이었다고 주일 일본 대사관에 말했다. 한국의 정치 지도자들이 한국의 11월 삼자 국방 회담 참여를 지지했지만, 정부 부처는 시작 단계부터 통일된 입장이 없었다. 정책 조율이 보통 때보다 상당히 오래 걸린 까닭에는 다양한 요인이 있다.―북한이 개재된 우발사태 계획과 관련 일본 정부의 관여에 대해 한국 관료의 조직적인 저항은 말할 것도 없다. 남한 관리들은 일본이 개재된 삼자 국방회담과 기타 삼자 안보 대화를 대개는 “미국 주도 계획”으로 간주하며 한국의 국가 안보 이해관계 측면에서는 거의 또는 전혀 혜택이 없다고 치부한다고 김태진은 덧붙였다.
+
+14. (비밀) 김 참사관은 이명박 대통령이 개인적으로 미국과 일본이 함께하는 강력한 삼자 안보 협력을 희구하고 있지만, 정치적 입지가 약화된 상태라 드러내 놓고 협력할 수는 없다고 지적하였다. 김 참사관에 의하면 한국 내부 방위 문제와 관련 일본과의 협력에 대한 국민적 지지는 거의 없다. 한국 외교통상부가 실무 수준으로 제한에 삼자 국방 회담 참여하는 까닭은 바로 이런 이유 때문이라고 김태진은 강조하였다. 삼국의 상대 국방 장관들 사이 행사로 대중에게 대게 인식되는 포럼 형식이 말하자면 외교통상부가 주도하는 행사보다는 덜 민감하다고 김태진은 설명했다.
+===== 한국은 순응적이지만, 정치적 지뢰밭을 가까스로 헤쳐나가 =====
+15. (비밀) 김 참사관은 한국 정부는 계속 한미일 삼자 국방 회담에 참가할 거라고 설명했다. 삼자 안보 협력을 발전시키려는 미국의 바람은 외교통상부의 견지에서는 이해할 수 있다. 그러나 미국 정부는 한일 관계의 특수성을 고려한다면 삼자 국방 회담에 대한 기대치를 관리해야 한다. 김 참사관은 11월 삼자 국방 회담 산하 한일 양자 회의 중에 일본의 대표적인 안보 도전 과제로 통일 한국과 다케시마/독도 영토 분쟁을 나열한 실수로 노출된 일본 대표단의 프리젠테이션 슬라이드 초안을 언급하면서 일본측은 한국 정치 실정에 대해 현실감이 없다고 주장하였다. “신뢰 구축은 괴리 상태에서 이뤄지지 않는다”고 그는 강조했다. 그런 배경에서 한국 관리들이 그들 자신의 신뢰성 훼손을 무릅쓰고 한일 안보 관계 강화를 옹호할 의사가 있는 한국 관리들은 거의 없다고 김태진은 말했다.
+===== 일본의 근본적인 오해 =====
+16. (기밀) 일본 방위성 방위연구소 객원 연구원이며 한국 국방연구원의 선임 연구원인 김창수 박사는 미국과 일본의 삼자 안보 협력에 대해 많은 한국인이 공감하지 못하는 데에는 여러 가지 이유가 있다고 주일 미국 대사관에 말했다. 주된 이유를 꼽자면 일본에 대한 한국민의 불신은 특히 군사 혹은 안보 문제와 관련 그 뿌리가 깊다. 더 구체적으로 보면 정부와 군, 학계 전반에 거쳐서 양자든 다른 식이든 일본이 개재된 한반도 우발사태 논의의 필요성을 느끼지 못하고 있다. 또한, 한국이 보기에 보안이 철저한 비밀 중에 속하는 것을―한미 동맹이란 양자 맥락에서만 공유할 용의가 있는―일본이 관심을 두는 저의를 의심한다.
+===== 자위대의 군악대를 반대할 정도로 불신 =====
+17. (기밀) 김창수 박사는 일본 정부 관리들과 학자들은 일본과 안보 이슈와 관련해서 남한의 정치 지형에 대해 지나치게 단순한 견해를 갖고 있다고 언급했다. 김창수에 의하면 한일 양국 정부가 역사와 영토 문제를 단지 “극복해야 할” 필요가 있다는 일본의 진단은 한일 관계의 성격에 대한 양국의 인식이 현격하게 차이가 있음을 그대로 드러내고 있다. 한국 내부의 문제는 제도적이고 동시에 감정적이라고 김창수는 주장하였다. 외교통상부와 국방부를 비롯한 한국의 국가 안보 기관은 국민의 반발이 두려워 일본과의 보안 및 방위 협력에는 적당히 거리를 두는 경향이 수년간에 걸쳐 형성되어 왔다. 일본 자위대가 개재된 사업이 특히 한국 정부 관리에겐 매력이 없을 수밖에 없다. 왜냐면 한국민의 머릿속에 식민지 시대 억압과 2차 세계대전 중 한국 남성들을 일본제국 군대로 강제 징용했던 여러 기억을 불러일으키기 때문이다.
+
+18. (기밀) 김창수는 일본에 대한 한국 내 불신과 민감함을 설명하면서, 남한의 항구도시 진해의 지역 공동체가 4월 3~5일 진해세계군악의장페스티벌에 자위대의 참가에 반대하며 시위한 사례를 거론하였다. 진해시 지방자치 정부 홈페이지가 자위대 밴드의 참가를 반대하는 헤아릴 수 없는 숫자의 이메일을 받았고 몇 시간 동안 네트워크망이 마비되었다. 만일 한국민이 음악 페스티벌에 자위대 밴드의 참가 승인마저 용인하지 않는데 하물며 한반도 우발사태 문제를 놓고 일본 정부와 협력하는 일은 있을 수 없다고 김창수는 결론 내렸다.
+===== 도움이 안 되는 점: 일본 민·군 공감대가 부족 =====
+19. (기밀) 일본 민간 관료와 제복 차림의 자위대 관료 사이 한국과의 협력 분야와 그 필요성에 대한 공감대가 없는 점도 일본과 한국 사이 효과적인 안보 대화에 있어 또 다른 장애가 되고 있다. 일본 정책연구대학원대학 교수 미치시타는 내각 관방에서 근무 당시 자신이 한국과의 양자 군사 협력에 대해 더 전향적으로 나설 것을 촉구했을 때 많은 고위 자위대 관료들이 회의감을 표명했다고 지적하였다. 많은 일본 해상자위대 관리들은 특히 상대적으로 한국의 후진 해군과 일대일 협력해서 별로 얻을 것이 없다고 믿는다. 한일 협력에 대해 그 밖에 사람들은 해상자위대의 여타 사업에 사용될 수 있는 자원과 인력이 제한되어 있다고 우려를 표명한다. 미치시타는 한국군이 자체 능력을 빠르게 끌어 올리고 있고, 비록 한국 해군이 구축함과 호위함, 기타 해양 자산에서 수적으로 일본에 뒤처져 있지만, 일본 해상자위대보다 더 많은 인력을 보유하고 있다는 점을 거듭 지적하였다. 게다가 2020까지 대양 해군으로 도약을 모색하고 있는 한국군은 해상자위대의 노하우나 그 능력을 보고 참여하고 싶은 생각이 굴뚝 같을 것이다. 미치시타는 한국이 계속해서 대잠수함 전투 및 이지스 급 시스템을 구매함에 따라 한일 양국 병력 사이에 상호 운용 능력의 잠재성이 증가한다는 점도 해상자위대 관계자들에게 강조해왔다고 덧붙였다.
+줌월트
+[[https://sites.google.com/site/poirotkr/tokyo/09tokyo837|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[http://www.pressian.com/article/article.asp?article_num=30120516121600|미국에 했던 이상득의 그 말은 빈말이 아니었다]] //프레시안//
+  - [[http://www.viewsnnews.com/article/view.jsp?seq=8933|내년초 일본 방위청, 방위성으로 승격]] //뷰스앤뉴스//
+  - [[http://www.mofat.go.kr/webmodule/htsboard/template/read/korboardread.jsp?typeID=24&boardid=11659&seqno=113|제 목 : 제8차 한·일 안보정책협의회 결과 ]]  //외교통상부 보도자료//
+===== 관련 참조 동영상 =====
+{{youtube>vCKzKiQX-3c|리셋 KBS 뉴스 8회 _ 2. 한일 군사 협정...미일 압력 때문?}}
+===== 원본 내려받기 =====
+<file rtf 09TOKYO837.rtf>
+S E C R E T TOKYO 000837 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/J, EAP/K 
+DOD FOR OSD/APSA - SEDNEY/HELVEY/BASALLA/ARAKELIAN 
+PACOM FOR J00/J01/J5 
+USFJ FOR J00/J01/J5 
+USFK FOR J00/J01/J5 
+ 
+E.O. 12958: DECL: AFTER KOREAN REUNIFICATION 
+TAGS: PREL [External Political Relations], PARM [Arms Controls and Disarmament],
+MARR [Military and Defense Arrangements], KN [Korea (North)], KS [Korea (South)], JA [Japan; Okinawa; Ryukyu Islands] 
+SUBJECT: JAPANESE, ROK OFFICIALS' AND ACADEMICS' VIEWS ON 
+U.S.-JAPAN-ROK TRILATERAL SECURITY COOPERATION 
+ 
+REF: 08 SECDEF 8291 
+ 
+Classified By: James P. Zumwalt, Charge d'Affaires, a.i.; reasons 1.4 ( 
+b/d) 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (S) Japanese government officials and academics express 
+strong interest in pursuing U.S.-Japan-ROK trilateral 
+security dialogues at all levels, partly to augment Japan's 
+defense posture and international peace activities, but 
+mainly to improve bilateral defense cooperation between Japan 
+and the ROK.  They believe that progress in trilateral 
+dialogue with the United States can lead eventually to 
+bilateral dialogue between Japan and the ROK on contingency 
+planning with respect to North Korea, so long as both 
+governments put history and territorial issues behind them. 
+However, South Korean contacts in Japan point out that: the 
+ROK only participated reluctantly in trilateral dialogue 
+involving the United States; most ROK government officials 
+remain wary of security and defense cooperation with Japan; 
+and the fundamental issue of mutual trust in terms of 
+security and defense issues cannot be resolved simply by 
+"moving beyond" history and territorial disputes. 
+ 
+¶2. (S) COMMENT: Trilateral security and defense dialogue with 
+the Japan and ROK will require close U.S. supervision and 
+proactive engagement with both governments.  The U.S. 
+Government needs to use the opportunity provided by the 
+current positive atmosphere between Tokyo and Seoul to help 
+the two allies strengthen mutual trust, both in trilateral 
+and bilateral settings.  The close coordination demonstrated 
+by the Japanese and ROK governments in the events leading up 
+to, and following the recent Taepodong-II ballistic missile 
+launch by the DPRK is an indication that some of the barrier 
+between the two neighbors can be broken down.  Trilateral 
+dialogue in all its various forms -- especially the 
+trilateral J-5 strategy talks -- can be helpful in this 
+process.  End Comment and Summary. 
+ 
+---------- 
+BACKGROUND 
+---------- 
+ 
+¶3. (C) The complicated bilateral relationship between Japan 
+and the Republic of Korea (ROK) presents a challenge to U.S. 
+goals of enhancing trilateral defense and security 
+cooperation with the two allies.  Despite recent improvements 
+in Japan-ROK relations since the change in South Korea's 
+administration in 2008, the scope of bilateral security 
+dialogue between the two neighbors remains modest, while 
+trilateral security talks with the United States continue to 
+require active leadership by the U.S. Government.  Embassy 
+Tokyo surveyed the views of several Japanese and South Korean 
+interlocutors from government and academia on the prospects 
+for trilateral defense and security cooperation among the 
+United States, Japan, and the ROK. 
+ 
+-------------------------------------- 
+JAPAN SEEKS SECURITY DIALOGUE WITH ROK 
+-------------------------------------- 
+ 
+¶4. (S) Japanese government officials and academics expressed 
+broad support for trilateral defense and security dialogue 
+with the United States and the ROK.  Enhancing Japan's 
+defense posture and responding to destabilizing acts by the 
+DPRK or regime collapse in North Korea features prominently 
+in their reasoning supporting Japan's pursuit of 
+policy-level, bilateral and trilateral security talks with 
+ 
+the two governments.  Ministry of Foreign Affairs (MOFA) 
+Japan-U.S. Security Treaty Division Deputy Director Noriaki 
+Abe told Embassy Tokyo that the current lack of dialogue 
+between the Japanese and ROK governments on Korean Peninsula 
+contingencies at the policy, operational, or even academic 
+levels has hamstrung efforts to plan effectively for 
+evacuating Japanese citizens from South Korea using Japan 
+Self Defense Force (JSDF) assets in the event of a crisis on 
+the Korean Peninsula.  The Japanese government needs 
+information from the ROK on possible noncombatant assembly 
+points, facilities to be used for sheltering evacuees in a 
+contingency, and airfields and ports to be used for 
+evacuating noncombatants. More importantly, it would need 
+permission from the ROK government to allow JSDF aircraft and 
+vessels to enter South Korea in evacuation scenarios -- 
+something Seoul has yet to agree to grant.  Leveraging the 
+trilateral discussions with the United States would be a 
+useful way to urge the ROK government to be more 
+forward-leaning in its bilateral talks with Japan, Abe said. 
+ 
+¶5. (C) National Graduate Institute for Policy Studies (GRIPS) 
+Professor Narushige Michishita, a former Assistant Councilor 
+for National Security and Crisis Management at the Cabinet 
+Secretariat, asserted that comprehensive trilateral security 
+cooperation among the United States, Japan, and the ROK is 
+desirable both in terms of Japanese national security 
+interests, as well as the three countries' contribution to 
+international security.  Although the three governments have 
+maintained trilateral coordination in the Six-Party process, 
+as well as in the trilateral policy-planning talks, a 
+trilateral dialogue focusing on defense and operational 
+issues has been conspicuously missing in recent years.  The 
+three countries could, for example, find ways to provide 
+trilateral capabilities in regional disaster relief 
+exercises, or bring their respective expertise to 
+Proliferation Security Initiative (PSI) exercises.  They 
+could also begin studying their possible roles and missions 
+in a unified Korea scenario, including stabilization efforts, 
+disarmament, and law enforcement.  Combining the three 
+countries' capabilities would also help address some of the 
+JSDF's shortfalls -- in essence, act as a force-multiplier, 
+Michishita asserted. 
+ 
+--------------------------------------------- -------- 
+CURRENT TRACK 1, TRACK 1.5 TALKS SATISFACTORY FOR NOW 
+--------------------------------------------- -------- 
+ 
+¶6. (S) Japanese government officials are anxious to engage in 
+robust discussion with their ROK counterparts on issues that 
+directly affect Japan's salient security interests, but are 
+willing to proceed at a moderate pace (for the time being) in 
+order to keep the dialogue alive.  They believe the ROK 
+government is beginning, after the Roh administration, to 
+warm up to Japan on security issues and do not want to 
+jeopardize the still-forming relationship by pushing too 
+early for an ambitious agenda.  Ministry of Defense (MOD) 
+Strategic Planning Office Director Koichiro Nakajima said 
+senior MOD officials are pleased in general with the results 
+of the November 2008 senior-level bilateral security talks 
+with the ROK in Fukuoka, the reinvigorated Defense Trilateral 
+Talks (DTT) among the United States, Japan, and the ROK 
+(reftel), the trilateral J-5 strategy talks, and the ongoing 
+"track 1.5" trilateral discussions involving defense 
+think-tanks from all three countries.  In particular, 
+Japanese participants came away from the 2008 bilateral talks 
+in Fukuoka with a greater sense of optimism than they did 
+after the previous year's round hosted by the ROK in Jeju. 
+ 
+¶7. (S) Nakajima pointed out, however, that the substance of 
+the discussion did not progress much beyond that of the 2007 
+round of talks despite the visible improvement in atmosphere. 
+ 
+ The Japanese side will work to move future security forums 
+involving the ROK gradually beyond politically-neutral issues 
+-- peacekeeping operations (PKO), regional assessments, 
+disaster relief, anti-piracy -- and allow all sides to have 
+frank exchanges about Korean Peninsula contingency issues. 
+While Tokyo realizes that preparing Seoul to engage in such 
+discussion will take time, the Japanese government will use 
+every opportunity to persuade the South Koreans, Nakajima 
+said. 
+ 
+--------------------------------------------- --- 
+OVERALL, A SENSE OF IMPROVED JAPAN-ROK RELATIONS 
+--------------------------------------------- --- 
+ 
+¶8. (S) Nakajima asserted that the improved atmosphere in the 
+bilateral security talks reflects an overall improvement in 
+bilateral relations since the beginning of the new South 
+Korean administration.  Long-standing history and territorial 
+issues are, he noted, the only remaining barriers to a closer 
+level of cooperation.  If Japan and the ROK move beyond 
+history and territorial issues, Nakajima argued, achieving 
+closer defense ties between the two governments should not be 
+difficult, given the history of cooperation between the Japan 
+Self Defense Force (JSDF) and the ROK military during their 
+UN PKO missions to East Timor a decade ago.  The two forces' 
+participation in the 2008 joint search and rescue exercise 
+(SAREX) is another good example of defense cooperation.  The 
+key, Nakajima noted, is to institutionalize such cooperation 
+beyond military-to-military engagement.  Still, he noted, 
+improving the defense and security relationship will take 
+time and effort for both governments to make up for the 
+near-absence of defense or security talks under the Roh 
+Moo-hyun government.  Specifically, it will take time for the 
+good will between the governments to work its way through 
+their respective bureaucracies, Nakajima noted. 
+ 
+------------------------------------- 
+BILATS APPEAR TO BE IMPROVING, BUT... 
+------------------------------------- 
+ 
+¶9. (S) MOD Defense Policy Bureau Director General Nobushige 
+Takamizawa recently told visiting researchers from the 
+Asia-Pacific Center for Security Studies (APCSS) to keep 
+their expectations modest with respect to the Japan-ROK 
+security relationship and trilateral talks with the United 
+States.  While trilateral cooperation with the United States 
+could help facilitate discussion between the ROK and Japan, 
+the three-way dialogue will repeatedly be hampered by the 
+ROK's hesitation to pursue meaningful security dialogue. 
+Takamizawa acknowledged that South Korea appears to be 
+willing to raise its level of participation in the Defense 
+Trilateral Talks (DTT) and other trilateral dialogue with the 
+United States, but questioned the extent to which the South 
+Koreans are prepared to advance the discussion. 
+ 
+-------------------------- 
+WHERE TO START: MOD VIEWS 
+-------------------------- 
+ 
+10 (S) Takamizawa stressed that planning for Korean Peninsula 
+contingencies with the United States and the ROK is a 
+long-term goal for the Japanese government.  That said, he 
+singled out disaster relief as a good starting point for the 
+three countries to explore real areas for cooperation.  The 
+key, Takamizawa noted, is to build mutual confidence and 
+hammer out common strategic and operational objectives 
+through bilateral and trilateral security dialogue, building 
+on input from the various track 1.5 discussions.  Focusing on 
+trilateral disaster relief and PKO cooperation in the interim 
+is a good "ice breaker" for Japan and the ROK.  Disaster 
+relief operations (DRO) is especially useful as an area of 
+ 
+cooperation for Japan because the JSDF and civilian agencies 
+can bring substantial experience and know-how to the 
+discussion, and because the Japanese public supports JSDF 
+involvement in DRO.  It also stands the least chance of 
+causing political problems for the ROK government, making it 
+a more sustainable collaborative effort than any other 
+security issue, Takamizawa said. 
+ 
+¶11. (S) Takamizawa stated that MOD expects a number of 
+deliverables from trilateral disater relief cooperation: 
+information exchange on each country's response time for 
+disasters; common understanding among all three parties on 
+each government's requirements for, or restrictions on troop 
+deployment to disaster-hit areas; identified requirements for 
+international cooperation, including equipment, communication 
+needs, etc; a draft trilateral plan for responding to 
+disasters by all three parties, including roles, missions, 
+and capabilities; and information sharing arrangements.  The 
+three countries could also share their experiences on 
+reconstruction and stabilization and map out possible 
+division of labor.  Takamizawa added that Japan stands to 
+gain a lot from such discussion, as the ROK military has the 
+capacity to support post-conflict reconstruction and 
+stabilization operations that the JSDF currently lacks. 
+ 
+----------------------- 
+WHERE JAPAN WANTS TO BE 
+----------------------- 
+ 
+¶12. (S) Takamizawa pointed out the JSDF is trying to persuade 
+the ROK military to participate in a joint exercise for 
+chemical, biological, radiological, and nuclear (CBRN) 
+attacks.  MOD considers such cooperation to be a top 
+priority, as Japan stands to suffer considerable collateral 
+damage if the DPRK were to use CBRN weapons in the event of a 
+conflict.  Both sides should discuss CBRN cooperation in 
+detail subsequent to bilateral and trilateral discussions on 
+disaster relief and PKOs, followed by responding to terrorist 
+attacks.  Building on the success of these discussions, it 
+may be possible at some point in the future for all three 
+countries to have frank discussions on planning for a Korean 
+Peninsula contingency.  Although many members of the JSDF 
+feel compelled to push the ROK for early discussion on 
+contingency planning, MOD prefers to take a phased approach, 
+Takamizawa said. 
+ 
+------------------------------------------ 
+ROK PARTICIPATION ENTIRELY AT U.S. BEHEST 
+------------------------------------------ 
+ 
+¶13. (S) South Korean interlocutors, in contrast to our 
+Japanese contacts, provide a more somber assessment of the 
+state of Japan-ROK bilateral security talks, as well as 
+prospects for the U.S.-Japan-ROK defense and security 
+dialogue.  ROK Embassy Counselor Kim Tae-jin told Embassy 
+Tokyo that ROK government participation in the November 2008 
+Defense Trilateral Talks (DTT) held in Washington was 
+entirely due to strong U.S. Government pressure.  While the 
+ROK's political leaders supported South Korea's participation 
+in the November DTT, government agencies did not have a 
+unified position at the outset.  Policy coordination took 
+considerably longer than usual because of a number of factors 
+-- not the least of which is the ROK bureaucracy's 
+institutional resistance to engaging the Japanese government 
+on contingency planning involving North Korea.  South Korean 
+officials widely regard the DTT and other examples of 
+trilateral security dialogue involving Japan as "U.S. 
+initiatives" that present little to no benefit in terms of 
+the ROK's national security interests, Kim added. 
+ 
+¶14. (S) Counselor Kim pointed out that President Lee 
+ 
+Myung-bak personally desires stronger trilateral security 
+cooperation with the United States and Japan, but is unable 
+in his weakened political position to show an overt display 
+of cooperation.  There is, according to Kim, nearly no public 
+support for working with Japan on defense issues in South 
+Korea.  This, Kim stressed, is why the ROK Ministry of 
+Foreign Affairs and Trade (MOFAT) limits its participation in 
+the DTT to the working level.  A forum perceived by the 
+public to be an event primarily among defense ministry 
+counterparts from the three countries is less sensitive than 
+if MOFAT were to take the lead, Kim explained. 
+ 
+--------------------------------------------- ------------ 
+ROK OBLIGING, BUT MANEUVERING THROUGH POLITICAL MINEFIELD 
+--------------------------------------------- ------------ 
+ 
+¶15. (S) Counselor Kim stated the ROK government will continue 
+to participate in the DTT.  The U.S. desire to advance 
+trilateral security cooperation is understandable from 
+MOFAT's point of view.   Washington should, however, manage 
+its expectations about the DTT, given the unique nature of 
+ROK-Japan relations.  Citing the Japanese delegation's draft 
+presentation slide that listed a unified Korea and the 
+Takeshima/Dokdo territorial dispute as major Japanese 
+security challenges that was shown mistakenly during the 
+ROK-Japan bilateral session of the November DTT, Kim argued 
+that the Japanese side is simply out of touch with the ROK's 
+political reality.  "Confidence building does not happen in a 
+vacuum," he stressed.  Against such backdrop, few ROK 
+officials are willing to advocate on behalf of enhanced 
+Japan-ROK bilateral security relations risking their own 
+credibility, said Kim. 
+ 
+-------------------------------------- 
+FUNDAMENTAL MISINTERPRETATION BY JAPAN 
+-------------------------------------- 
+ 
+¶16. (C) Dr. Kim Changsu, Visiting Research Fellow at the 
+National Institute for Defense Studies (NIDS) and Senior 
+Research Fellow at the Korea Institute for Defense Analysis 
+(KIDA), told Embassy Tokyo that trilateral security 
+cooperation with the United States and Japan fails to 
+resonate with many South Koreans for a number of reasons. 
+Chief among them, Kim pointed out, is the deep-seated Korean 
+distrust toward the Japanese, particularly on military or 
+security issues.  More specifically, Koreans across the 
+entire spectrum of government, military, and academia either 
+fail to see the need to discuss Korean Peninsula 
+contingencies with Japan, bilaterally or otherwise, or 
+question Japan's possible ulterior motive for being 
+interested in what the ROK considers to be one of its most 
+closely-guarded secrets -- an issue it is willing to share 
+with the United States only in a bilateral alliance context. 
+ 
+--------------------------------------------- --------- 
+DISTRUST TO THE POINT OF PROTESTING JSDF MILITARY BAND 
+--------------------------------------------- --------- 
+ 
+¶17. (C) Dr. Kim noted that Japanese government officials and 
+academics have an overly simplistic view of the South Korean 
+political landscape as it relates to Japan and security 
+issues.  According to Kim, Japanese assessments that the ROK 
+and Japanese governments need merely to "move beyond" history 
+and territorial issues demonstrate a significant gap in 
+understanding between the two countries on the nature of the 
+bilateral relationship.  The problem in Korea, Kim argued, is 
+both institutional and emotional.  ROK government national 
+security agencies, including MOFAT and the Ministry of 
+National Defense (MND), have developed over the years a 
+tendency to keep at arms length security and defense 
+engagement with Japan for fear of public backlash.  Projects 
+ 
+involving the JSDF are especially unattractive to ROK 
+government officials, as they evoke in the Korean public's 
+mind memories of colonial oppression and forced conscription 
+of Korean men into the Imperial Army during World War II. 
+ 
+¶18. (C) Dr. Kim, explaining the sensitivity and distrust in 
+Korea toward Japan, raised the recent protestations by the 
+local community in the South Korean port city of Jinhae to 
+JSDF participation in the April 3-5 Jinhae World Military 
+Band and Color Guard Festival.  The Jinhae City Municipal 
+Government homepage received a staggering number of protest 
+emails opposing the participation of the JSDF band, crippling 
+the network for hours.  If the Korean public is unwilling to 
+allow the JSDF band from participating in a music festival, 
+there is no way it would tolerate collaboration with the 
+Japanese government on Korean Peninsula contingency issues, 
+Kim concluded. 
+ 
+--------------------------------------------- ---------- 
+THE UNHELPFUL:  INSUFFICIENT JAPANESE CIV-MIL CONSENSUS 
+--------------------------------------------- ---------- 
+ 
+¶19. (C) Lack of consensus between Japanese civilian 
+bureaucrats and uniformed JSDF officers on the need for, as 
+well as the scope of cooperation with the ROK, presents yet 
+another hurdle to effective security dialogue between Japan 
+and the ROK.  GRIPS' Michishita noted that many senior JSDF 
+officers expressed skepticism when he had urged them during 
+his time in the Cabinet Secretariat to be more 
+forward-leaning on bilateral military cooperation with the 
+ROK.  Many Japan Maritime Self Defense Force (JMSDF) 
+officers, in particular, did not believe they would gain much 
+from navy-to-navy cooperation with the comparatively 
+less-developed ROK Navy.  Others, while generally positive 
+toward bilateral cooperation, expressed concerns about 
+limited resources and manpower that could be better used on 
+other JMSDF endeavors.  Michishita said he had pointed out 
+repeatedly that the ROK Navy was rapidly upgrading its 
+capabilities and had significantly more personnel than the 
+JMSDF, even if it trailed Japan in terms of the number of 
+destroyers, frigates, and other maritime assets.  Moreover, 
+the ROK Navy, which sought to have a blue-water navy by 2020, 
+was eager to engage the JMSDF for their know-how and their 
+capabilities.  Michishita added that he had stressed to the 
+JMSDF that the potential for interoperability between the two 
+forces increased as the ROK Navy continued to acquire 
+anti-submarine warfare and Aegis capabilities. 
+ZUMWALT
+</file>

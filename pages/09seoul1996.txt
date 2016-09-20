@@ -1,0 +1,56 @@
+^  참조문서번호   ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1996  |  2009-12-23 08:25  |  기밀  |  주한 미국 대사관  |  {{tag>KTFN PTER PINR PREL SA YM UN KS KN }}  |
+====== 제 목: 한국 정부, 유엔 안전보장이사회 결의안 1267 공동 제안 ======
+기 밀 SEOUL 001996 
+국방부망 배포 
+[[http://www.state.gov/s/ct/ | 국무부 대테러 조정 센터]]((번역 주: S/CT : the Office of the Coordinator for Counterterrorism )) 제이슨 브레이제키스((번역 주: JASON BLAZAKIS))
+
+행정명령 12958: 비밀해제: 09/17/2039 
+태그: KTFN (([Terrorism Finance Traffic])), PTER (([Terrorists and Terrorism])), PINR (([Intelligence])), PREL (([External Political Relations])), SA (([Saudi Arabia])), YM (([Yemen])), UN (([United Nations])), KS (([Korea (South)])), KN (([Korea (North)])) 
+제 목: 한국 정부, 유엔 안전보장이사회 결의안 1267 공동 제안
+참조: SECSTATE 129597 
+분류자: 정치 참사관 제임스 웨이만((번역 주:POL M/C James. L. Wayman.))  JWAYMAN FOR REASONS 1.4 (B/D) 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/24 06:55//
+
+1. (기밀) 대사관 정무 직원은 12월 23일 참조전문 (외교)전환책을 외교통상부 국제안보과 박치영에게 전달하고, 미국은 예맨에 근거지를 둔 알카에다 아라비아반도 지부와((번역 주: [AQAP] Al Qaeda in Arabian Peninsula )) 동 단체 소속 지도자 나시르 알-와하이시((번역 주: Nasir al-Wahishi))와 알리 알-셰리((번역 주: Ali al-Shihri)) 2명을 유엔 1267 제재위원회로 하여금 오사마 빈 라덴과 탈레반 혹은 알카에다 구성원들과 연계된 개인이나 법인에 관한 동 제재위원회의 제재 대상 명단에 등재하도록 요청할 의향임을 한국 정부에 통지하였다.
+
+2. (기밀) 박치영은 과거 알카에다 아라비아반도 지부(支部)의 남한 시민에 대한 공격을 언급하면서, 한국정부가 "필히 그런 계획을 지지할 것"이라고 언급했다. 그러나 외교통상부는 공식적인 결정에 앞서 유관 부서 장관들과 상의해야 한다고 설명하였다. 박치영은 가까운 장래에 유엔 1267 제재 대상 명단에 따라 단행하게 될 한국 정부의 조치에 대해 전달할 예정이며, 공사(公私)를 불문하고 1267 위원회 제재 대상 명단을 공개하지 않기로 합의한다고 말하였다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/09seoul1996|포와로 탐정의 번역]] (c) 무단 복제나 전재를 금지합니다.
+====== 원본 내려받기 ======
+<file rtf 09SEOUL1996.rtf>
+C O N F I D E N T I A L SEOUL 001996 
+ 
+SIPDIS 
+ 
+S/CT JASON BLAZAKIS 
+ 
+E.O. 12958: DECL: 09/17/2039 
+TAGS: KTFN PTER PINR PREL SA YM UN KS KN
+SUBJECT: ROKG CO-SPONSORSHIP FOR UPCOMING UNSCR 1267 
+ 
+REF: SECSTATE 129597 
+ 
+Classified By: POL M/C JWAYMAN FOR REASONS 1.4 (B/D) 
+ 
+¶1. (C) Poloff delivered reftel demarche on December 23 to 
+Park Chi-young of MOFAT's International Security Affairs 
+Division, notifying the ROKG that the U.S. intends to request 
+the UN 1267 Sanctions Committee to add Yemen-headquartered 
+al-Qa'ida in the Arabian Peninsula (AQAP) and two of its 
+leaders, Nasir al-Wahishi and Ali al-Shihri, to the 
+Committee's list of individuals and entities associated with 
+Osama bin Laden or its members of the Taliban or al-Qaida, 
+and seek ROK co-sponsorship of the listing. 
+ 
+¶2. (C) Noting the AQAP attacks against South Korean citizens 
+in the past, Park stated that the ROKG "would most likely 
+support such an initiative," but explained that MOFAT would 
+have to confer with other relevant ministries before an 
+official decision could be made.  Park said she will convey 
+any ROKG actions undertaken as a result of the UN 1267 
+listing in the near future and agreed not to disclose, 
+publicly or privately, the proposed 1267 Committee listing. 
+ 
+STEPHENS
+</file>

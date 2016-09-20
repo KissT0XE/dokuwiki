@@ -1,0 +1,299 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SHENYANG119  |  2009-07-08 04:46  |  기밀(3급)  |  주선양 미국 영사관  |  {{tag>CH ECON KN KS PGOV PREF PREL RS }}  |
+====== 제 목: 탈북자: 다양한 사회 계층, 엘리트, 그리고 브로커에 의존 ======
+기 밀 SECTION 01 OF 03 SHENYANG 000119 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+모스크바 대사관은 블라디보스톡에 전달((MOSCOW PASS TO VLADIVOSTOK )) 
+
+행정명령: 12958: 비밀해제: 한국 통일 이후 10년((TEN YEARS AFTER KOREAN UNIFICATION ))
+태그: CH(([China (Mainland)])), ECON(([Economic Conditions])), KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREF(([Refugees])), PREL(([External Political Relations])), RS(([Russia; Wrangel Islands]))
+제 목: 탈북자: 다양한 사회 계층, 엘리트, 그리고 브로커에 의존
+참조: [[09seoul179|가. SEOUL 179]]  [[06seoul4283|나. 06 SEOUL 4283]]  [[09seoul129|다. SEOUL 129]]  [[07seoul1141|라. 07 SEOUL 1141]] [[09shenyang76|마. SHENYANG 76]]
+분류자: 스티븐 비 위크맨 총영사((CONSUL GENERAL stephen b. wickman)).  근거 1.4(B/D). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/25 17:24//
+===== 요점 =====
+
+1. (기밀) 요점: 한국의 여러 접선책에 따르면, 탈북자는 갈수록 다양해지고, 엘리트도 많아지고 있으며, 잘 조직된 브로커 네트워크망에 의지하고 있다. 브로커 네트워크는 국경을 넘는 탈북자의 중국 횡단 발걸음을 재촉하는 시장을 독점하고 있는데, 북한과 중국 사이 뚜렷해지는 탈북 동향을 더욱 지하 세계로 내몰고 있다. 전통적으로 중국 북동지역 상황 정보의 가장 좋은 원천인 민간단체와 선교단체 접선책들은 탈북자와 상시적인 연락 유지에 대한 관심은 줄어든 반면에 북중 국경 양단의 인도주의 원조 사업에 더욱 집중하고 있다고 말하였다. 요점 끝.
+
+2. (미분류) 선양 총영사는 주한미국대사관의 소개로 중국 북동지역 탈북자와 관계된 세부적인 현안을 논의하기 위해 5월 25~27일 북한에 집중하는 한국 소재의 다양한 단체와 회동하였다. 해당 단체들은 한겨레 학교, ([[09seoul179|참조전문 가]], [[06seoul4283|나]]) NK지식인연대, ([[06seoul4283|참조전문 나]]) 북한민주화네트워크, ([[09seoul129|참조전문 다]]) 등을 포함하였다. 6월 18일~24일 선양 총영사는 두만강 북중 국경 지역을 따라 벌어지는 상황을 관찰하기 위해서 연변 조선족 자치구를 방문하였다.
+===== 탈북자 숫자는 계속 상승세: 브로커는 조용히 움직여 =====
+
+3. (기밀) 선양 총영사는 지난 2008년 3월에 회동한 이후 북중 국경 지역에 현 상황에 대한 인상을 공유하기 위해 한겨레 중고등학교 교장인 곽종문과 (보호요) 회동하였다. (주석 한겨레는 탈북자만을 대상으로 개설된 학교이다.)
+
+4. (기밀) 곽종문는 2009년 일사분기 탈북자의 숫자는 2008년 동기보다 더 늘어났으며, 중국 당국자들도 과거에 비해 탈북자를 찾아 체포하는 일에 집중도가 덜해졌다고 했다. 그는 올해 한겨레 학교가 처리한 중고등학생을 살펴보면, 2009년이 가장 바쁜 한해였고, 기록상으로도 //“가장 흥미로운”// 한 해였다고 말하였다. 곽종문은 초기 탈북자 어린이에게 필요했던 재교육이 더는 필요치 않은 교육받은 엘리트를 비롯해 더 많은 다양한 사회계층의 탈북자가 한겨레 학교를 다니고 있다고 설명하였다. 그는 탈북자들이 북중 국경에 인접한 지역만이 아닌 북한 전역 출신이며, 그들은 중국에서 머무르긴 하지만, 아주 적은 시간만 보내며 꼭 동남 아시아를 통한 전통적인 경로를 경유하지만은 않는다.
+
+5. (기밀) 곽종문은 그러한 모든 요인에는 결속력과 경험을 갖춘 브로커 네트워크의 출연이 아니고서는 설명할 수 없다고 말하였다. 곽종문은 자신의 학교에 도착하는 새로 유입된 거의 모든 소수 탈북자는 유능하고, 신중한 이윤추구가 목적인 브로커 네트워크를 통해 막힘없이 움직였으며, 민간단체나 선교사가 같은 외부인이 발견하기 어려울 거라고 말하였다. 곽종문은 최근 탈북자의 대다수는 남한으로 탈출에 성공한 탈북자의 딸린 식구들이며, 가격만 맞으면 연줄이 좋은 브로커가 몇 주안에 사람들을 북한에서 빼내어 한국에 가도록 할 수 있다고 말하였다. 곽종문은 남한 정보국에게는 이들 브로커 네트워크를 단속하기 어려운데, 탈북자들은 이들 브로커의 이름을 절대 공개하지 않으며, 되려 정보를 무덤까지 안고 간다고 단언하였다.
+
+6. (기밀) 곽종문은 현재 //“제대도 된”// 연줄과 상당한 뇌물을 지불하지 않고는 누구도 북한을 빠져 나올 수 없다는 점을 고수하였다. 북한 국경 경비대는 귀빈 탈북 예정자에게는 국경을 가로지르는 길을 밝혀주는  등불이 되어 줄뿐이다. 곽종문은 얼마나 브로커 네트워크가 잘 조직되었는지 그 사례를 들었는데, 한밤 중에 두만강을 횡단하던 한 사람이 외딴 자갈길에서 오토바이를 타고 기다리던 사람의 환영을 받았는데, 그는 남한행이 필요한 사람에게 편의를 제공할 준비가 된 사람이었다고 이야기를 전했다. 심지어 탈북자도 쉽게 브로커를 발견할 수 있어 놀란다고 한다. \\ SHENYANG 00000119  002 OF 003 \\ 국경 횡단에 성공하더라도 중국에서 실제하는 인신매매 위험과 다른 난관을 비롯해 브로커 사업의 이윤추구 성격도 지금은 북한 탈북자도 알고 있다고 곽종문은 말하였다. 브로커가 보통 이상의 많은 대가를 받는 경우를 제외하곤, 거의 모든 여성 탈북자는 일정 형태의 성적 학대의 대상이 된다고 곽종문은 말하였다.
+
+7. (기밀) 곽종문은 국경을 넘는 탈북자의 수가 증가하고 있고, 탈북 동기가 더는 굶주림이 아니며, 가족 상봉 및 이념이 그 동기라고 전번 보고의 (참조전문 가, 나) 말을 거듭 반복하였다. 곽종문은 남한이나 여타 제3국의 연고가 없는 사람이 식량을 구하러 국경을 넘는 경우에 형벌은 가벼운 강제 노역 2년 형을 받는 다고 말하였다. 남한이나 여타 제삼국에 연고가 있는 사람은 더욱 엄한 형벌에 처해지며, 반면 종교에 연루되었거나 전향자의 형벌은 사형이다.
+===== NK지식인연대―우리 가족은 브로커를 통해 남한에 도착 =====
+
+8. (기밀) 선양 총영사는 2004년 탈북한 함흥 출신 김책공업대학을 졸업한 김흥광 NK지식인연대 대표와 5월 26일 회동하였다. (이 조직에 대해 더 많은 정보는 참조전문 라를 보라) 스티븐스 선양 총영사는 단체 형식으로 다른 10명의 탈북자와도 그 뒤에 회동하였다.
+
+9. (기밀) 김흥광은 브로커의 도움으로 아내와 딸이 북한을 빠져 나올 수 있었다고 말하였다. 그는 미화 3만 달러 상당의 대가를 브로커에게 치러야했으며, 함흥에서 옌뼨으로 이동해서 중국에서 서울행 비행기에 탑승하였는데, 이 모든 것이 일 중일 상관에 이루어 졌다. 김흥광은 북한을 떠난 탈북자의 수는 전체적으로 하락했지만, 자신과 같은 사회적 지위와 학력을 가진 사람들은 지난 10년 동안에 남한행 탈출에 성공하면서, 그 증가세를 부축이고 있다고 생각하였다. (주석: 김흥광와 여타 탈북자들이 거액의 착수금, 그리고 비밀 유지를 마다하지 않는 모습에서 탈북자의 수가 확연히 줄었지만, 탈북자의 남한에 입성 성공률이 높은 현상을 아마도 설명해주고 있다.)
+
+10. (기밀) 단체 회동에 참여한 모든 참여자들은 화교를 싫어하는 이유를 화교가 브로커 네트워크를 진두지휘하고 있기 때문이라고 말하였다. 그러나 브로커 네트워크는 화교의 서비스 없이는 작동할 수 없다고 인정하였다. 김흥광과 그의 동료는 죽음의 북한 수용소와 심한 고문 이야기는 대단히 과장되었다고 이의를 제기했다. 그는 제한적이긴 하지만 북한 당국자들이 극악무도한 학대를 저지른 경우가 있었다는 점에 이의를 제기하지는 않겠지만, 일상적인 관행의 형태는 아니라고 단언하였다.
+===== 데일리NK―한국정부는 우리 기사를 검열하지만, 탈북자는 덜해 =====
+
+11. (기밀) 북한민주화네트워크의 김윤태 사무총장은 1990년대 초 평양을 방문한 경험이 있는 //“주체파”//와 연루되었던 북한에 동조한 학생 운동가의 한 사람으로 남한사람이다. (참조전문 마) 북한민주화네트워크는 주요 온라인 언론사 중 하나인 데일리NK를 설립해서 북한 문제를 다루며, 직원으로 전직 탈북자를 고용하고 있다. 김윤태는 남한 정보기관은 빈번히 데일리NK 기사를 정독하며, 여러 기사에 대해 자주 전화해 질문을 하거나 해명을 요청하고 이의를 제기한다고 말하였다. 그는 데일리NK가 전체적인 북한의 모습이 아닌 접근이 가능한 북한의 여타 지역과 국경 사회의 제한적인 단면만을 제공하는 점은 인정하였다. 계속 추궁하자 김윤태는 국경을 넘는 탈북자와 관련된 중국 국경의 상황이 일부 기사에서 묘사하는 만큼 대단히 심각하지는 안다고 인정하였다.
+
+12. (기밀) 그의 단체가 어떤 방법을 사용해서 정보를 수집하는지 묻자, 김윤태는 자세한 이야기를 하려고 들지 않은 체, 단지 저녁에 산비탈에 휴대폰을 묻어둔다고만 언급하였다. 단둥 같은 장소나, 국경 인근 길림성은 국경횡단 휴대전화 통화를 위한 자연적인 집결지이며, 동시에 회합 장소이기도 하다고 말하였다. 그는 자신과 일부 동료는 과도한 중국과 북한의 감시를 피하고자 남한 정보기관이 사용한 1980년~90년대식 따돌리기 전략에 기대고 있다고 설명하였다. 김윤태는 브로커 단체의 구성원에 대해 더 이상 발설하면 자신의 네트워크를 위태롭게 한다고 말하였다. \\ SHENYANG 00000119  003 OF 003 \\ 그는 정보를 위해 다양한 개인들의 모임에 의존하며, 중국정부는 일부 단체가 중국에 재입국하는 걸 금지하였다고 말하였다. (예로 탈북자 김윤태는 지금은 남한 여권을 소지하고 있다.) 김윤태는 화교를 믿을 수 없는 관계로 화교가 운영하는 브로커 네트워크도 믿을 수 없다고 덧붙였다.
+
+13. (기밀) 김윤태는 자신의 데일리NK 기사가 대의명분을 앞세우다 보니 우스꽝스럽거나 선동적인 듯 보인다면 사과한다고 했다. 총영사가 3월 중순 두 명의 미국 언론인의 억류 이후에 공안의 압력이 증가함에 따라 탈북자를 //“숨겨주는”// 영변 화교 //“도우미”//에 대한 최근 기사를 특정해 제기하자, 김윤태는 해당 기사는 단순히 한 개인의 설명이란 맥락에서 소화해야만 하며, 한 가지 사례로 큰 흐름을 추정해서는 안 된다고 강조하였다. 계속 추궁하자, 김윤태는 자신과 북한민주화네트워크는 솔직히 탈북자 소식은 대게 들은 바 없으며, 3월 중순 미 언론인 억류 이후에 더욱 그렇다고 응답하였다.
+===== 두만강 주변 국경 최신소식 =====
+
+14. (기밀) 6월 18일~24일 총영사와 함께한 대화에서, 몇몇 정규적인 영사관 연길 접선책은 최근 국경 횡단 활동과 관련해 별로 아는 게 없다는 실토가 계속되고 있는데, 국경 횡단 활동이 공개된 이후로 수년 째 그렇다고 말하였다. 대신에 이들 접선책들은 그들은 북한 내부에 식량 원조와 다양한 개발 노력에 집중하고 있다며, 그런 작업은 북한 함경도와 라선특별시 등지에는 줄지 않았다고 말하였다. 우리 영사관 접선책은 두 명의 미 언론인에 대한 상세한 소식을 아는 바 없다면, 억류 상황에 대해 총영사에게 질문을 하였다.
+
+15. (기밀) 6월 22일 두만강 국경에는 공안의 모습은 전번 방문과 다름없이 변화가 없었다. (참조전문 마) 두만강/남양 땅을 횡단하는 서양인을 비롯한 외국인 관광객은 보이지만, 중국인 관광객과는 달리 다리 위로 빠져 나가는 거는 허용되지 않는다. 총영사가 상류로 더 올라가자, 6명의 무장한 인민군 경찰 호위대가 6월 16일 조선중앙통신이 미 언론인을 체포했다던 장소로 가까이 있는 대로를 서서 감시하는 모습을 발견하였다. 당일 오후 두만강에서 작은 판지 상자를 한 가득 실은 채 북한쪽으로 횡단하는 북한 트럭을 지켜보았다.
+
+16. (기밀) 최근 폭우로 두만강/남양과 개산툰/삼봉리 사이 국경을 따라 여러 지역에서 산사태가 발생하였다. 20명 가량의 인원의 작업반이 북한 쪽 비탈을 보강하고 있었다. 중간 지점에서는 평상시 말라있는 강바닥의 대부분을 두만강이 지금은 점유하고 있고, 강한 유속은 여러 분기 지점에 급류를 만들어 강을 건너기 어렵게 만들고 있었다.
+//위크맨//
+[[https://sites.google.com/site/poirotkr/secretary-of-state/09shenyang119|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SHENYANG119.rtf>
+C O N F I D E N T I A L SECTION 01 OF 03 SHENYANG 000119 
+ 
+SIPDIS 
+ 
+ 
+MOSCOW PASS TO VLADIVOSTOK 
+ 
+E.O. 12958: DECL: TEN YEARS AFTER KOREAN UNIFICATION 
+TAGS: CH [China (Mainland)], ECON [Economic Conditions], KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREF [Refugees], PREL [External Political Relations], RS [Russia; Wrangel Islands] 
+SUBJECT: DPRK REFUGEES: MORE DIVERSE, ELITE, AND RELIANT 
+UPON BROKERS 
+ 
+REF: A. SEOUL 179 
+     B. 06 SEOUL 4283 
+     C. SEOUL 129 
+     D. 07 SEOUL 1141 
+     E. SHENYANG 76 
+ 
+Classified By: CONSUL GENERAL STEPHEN B. WICKMAN. REASONS 1.4(B/D). 
+ 
+¶1. (C) SUMMARY: DPRK refugees are increasingly diverse, 
+elite, and reliant upon well-connected broker networks, 
+according to ROK contacts.  The network of brokers had 
+cornered the market on facilitating the trans-China leg of 
+North Korean border-crossers, driving the most obvious 
+evidence of DPRK-PRC movement further underground.  Back in 
+China, contacts in NGOs and missionary groups who have 
+traditionally been the best source of information on the 
+situation in Northeast China said they are focusing less on 
+maintaining constant communication with border-crosser 
+networks and more on humanitarian aid projects on both sides 
+of the border.  END SUMMARY. 
+ 
+¶2. (U) With meetings arranged via Embassy Seoul, ConGenOff 
+met with various DPRK-focused groups in the Republic of 
+Korea May 25-27 to discuss specific Northeast China-related 
+issues involving border-crossers.  These groups included the 
+Hangyeore School (Ref A & B,) North Korean Intellectuals 
+Solidarity (NKIS) (Ref C,) and NKnet (Ref D.) ConGenOff 
+visited the Yanbian Autonomous Korean Prefecture June 18-24 
+to observe developments along the PRC-DPRK border on 
+the Tumen River. 
+ 
+DEFECTOR NUMBERS CONTINUE TO RISE: BROKERS MOVE SILENTLY 
+--------------------------------------------- ----------- 
+¶3. (C) ConGenOff met with Hangyeore Middle/High School 
+principal Kwak Jong-moon (protect) on May 25 to share 
+impressions of the current situation on the PRC-DPRK border 
+since a previous meeting held in March 2008.  (NOTE: 
+Hangyeore is a school that was opened specifically for 
+defectors.) 
+ 
+¶4. (C) Kwak suggested that the number of border-crossers in 
+the first quarter of 2009 was higher than during the same 
+period in 2008 and prior years and that Chinese authorities 
+were focusing less on rounding up or hunting North Korean 
+border-crossers than in the past.  He said that when looking 
+at the middle/high school students the school had processed 
+this year, 2009 was one of the busiest and "most interesting" 
+years on record.  Kwak explained that there are more defectors 
+from more diverse social strata attending the school, including 
+educated elites who no longer require the remedial education 
+that earlier defector children needed. He reported that they 
+hailed from regions all around North Korea, not just from 
+those adjacent to the PRC-DPRK border, that they had spent 
+very little time in China, if at all, and had not necessarily 
+transited the traditional routes through Southeast Asia. 
+ 
+¶5. (C) Kwak said that all of these factors could only be 
+explained by the emergence of a solid, experienced network 
+of brokers.  Kwak said that almost all of the new influx of 
+defector-minors arriving at his school moved seamlessly 
+through a profit-motivated broker network that was 
+efficient, discreet, and likely difficult for outsiders such 
+as NGOs and missionaries to detect.  Kwak said that many of 
+the recent defectors were dependants of those who had 
+successfully defected to South Korea and if the price was 
+right, a well-connected broker could get people out of the 
+DPRK to the ROK within weeks.  Kwak said that cracking this 
+broker network was difficult for South Korean intelligence, 
+asserting that defectors would never reveal the name of 
+their broker, rather carrying this information to the 
+grave. 
+ 
+¶6. (C) Kwak maintained that presently nobody was getting out 
+of North Korea without the "right" connections and paying 
+substantial bribes.  DPRK border guards would literally 
+light a path across the border for would-be VIP border- 
+crossers.  To give an example of how well-coordinated the 
+broker network was, Kwak related the story of one person who 
+had crossed the Tumen River in the middle of the night and 
+had been greeted on a deserted stretch of gravel road by a 
+man who had been waiting on a motorcycle ready to offer his 
+services to anyone who might need transit to South Korea. 
+Even the defector had been surprised by the ease of finding 
+ 
+SHENYANG 00000119  002 OF 003 
+ 
+ 
+a broker.  Kwak said that DPRK border-crossers were now 
+aware of the profit-driven nature of the broker business, 
+including the real risk of human-trafficking and other 
+hardships on the Chinese side, even in the event of a 
+successful crossing.  With the exception of instances where 
+brokers received extraordinarily large payments, Kwak said 
+that almost all female border-crossers were subject to some 
+form of sexual abuse. 
+ 
+¶7. (C) Kwak said that the number of border-crossers was on 
+the rise and reiterated previous reports (Ref A and B) that 
+they were no longer motivated by hunger but by family 
+connections and/or ideology.  Kwak said that the penalty for 
+a border-crosser who sought food but who had no contact with 
+South Koreans or other third-country nationals was a two- 
+year sentence at a light labor camp.  The penalty for  one 
+who had contact with South Koreans or other third-country 
+nationals was much more severe, while the penalty for anyone 
+involved with religion or proselytizing was death. 
+ 
+NKIS ELITE - MY FAMILY GOT HERE VIA BROKERS 
+------------------------------------------- 
+¶8. (C) ConGenOff met with NKIS Representative Kim Heung- 
+kwang, a 2004 defector, Hamheung native, and graduate of 
+Kimchaek Engineering University on May 26 (see Ref D for 
+more information on this organization.)  ConGenOff 
+subsequently met with ten other North Korean defectors in a 
+group setting. 
+ 
+¶9. (C) Kim said he had been able to get his wife and 
+daughter out of DPRK through the aid of a broker.  He said 
+he had paid the equivalent of USD 30,000 to the broker and 
+that his family had journeyed from Hamheung to Yanbian and 
+taken a flight from China headed to Seoul - all within the 
+span of a week.  Kim thought the number of defectors leaving 
+North Korea was down overall, but that people sharing his 
+higher social status and educational background were fueling 
+the increase in successful defections to South Korea over 
+the last couple of years. (NOTE: Kim and other defectors' 
+willingness to front large amounts of money and maintain 
+secrecy might explain the phenomenon of visibly fewer North 
+Korean border-crossers but higher defector entry into South 
+Korea.) 
+ 
+¶10. (C) Most participants in the group session said they 
+disliked Sino-Koreans because they spearheaded the broker 
+networks.  They acknowledged, however, that the network 
+could not operate without the services of the Sino-Koreans. 
+Kim and his colleagues alleged that claims of North Korean 
+death camps and extreme torture were greatly exaggerated. 
+He did not dispute the existence of limited occasions where 
+North Korean authorities had committed heinous abuses, but 
+he averred that they did not form a regular practice. 
+ 
+DAILY NK - ROKG VETS OUR ARTICLES, LESS DEFECTORS 
+--------------------------------------------- ---- 
+¶11. (C) NKnet's Secretary General Kim Yun-tae is a South 
+Korean who was previously a North Korean-sympathizer student 
+activist associated with the "Juchepa" (Juche Group) in the 
+early 1990s who had prior travel experience to Pyongyang 
+(Ref E.)  NKnet publishes the Daily NK, one of the main 
+online publications covering North Korean issues and staffed 
+by former North Korean defectors.  Kim said that South 
+Korean intelligence frequently perused the Daily NK and 
+regularly called to seek clarification and question or 
+dispute many of their articles.  Kim admitted that his 
+organization provided only limited snapshots of border 
+society and other areas of the DPRK to which they had access 
+rather than the complete picture.  When pressed, Kim 
+acknowledged that the situation on the Chinese side of the 
+border with respect to border-crossers was not as dire as 
+some reports depicted it. 
+ 
+¶12. (C) When asked what methods his group used to gather 
+information, Kim would not go into much detail, only 
+mentioning the burying of cell phones on hillsides for 
+people to dig up at night.  He said that places like Dandong 
+and along the border in Jilin province were natural 
+gathering points for cross-border cell phone communication 
+and for meeting sources.  He explained that he and some of 
+his colleagues relied upon their 1980s/1990s tactics of 
+evading South Korean intelligence to avoid excessive PRC and 
+DPRK surveillance.  Kim said he would not compromise his 
+ 
+SHENYANG 00000119  003 OF 003 
+ 
+ 
+network by telling ConGenOff more about the group's 
+composition.  He said he relied upon a diverse group of 
+individuals for information and that the Chinese government 
+had banned some of his staff from re-entering China (e.g. 
+North Korean defectors now in possession of South Korean 
+passports.)  Kim added that Sino-Koreans were not to be 
+trusted as the broker networks were run by Sino-Koreans. 
+ 
+¶13. (C) Kim apologized if any of his group's articles seemed 
+to be inflammatory or hysterical, as if they were trying to 
+push a cause.  When ConGenOff specifically raised a recent 
+article about a Yanbian Sino-Korean "helper" of refugees who 
+had gone "into hiding" due to increased Chinese public 
+security pressure since the mid-March detainment of two 
+American journalists, Kim stressed that such articles should 
+be taken in context as merely one person's account and that 
+a larger trend should not be extrapolated from one case. 
+When pressed further, Kim responded that he and NKnet had 
+honestly not heard much about defectors in general and not 
+that much since the mid-March detainment of the 
+journalists. 
+ 
+BORDER UPDATE ALONG THE TUMEN RIVER 
+----------------------------------- 
+¶14. (C) In conversations with ConGenOff June 18-24, several 
+regular Consulate contacts in Yanji continued to profess a 
+lack of knowledge regarding recent border-crosser activity, 
+saying that it had been several years since such activity 
+was out in the open.  Instead, these contacts said they 
+focus their efforts on various development and food aid 
+projects within North Korea, most of which continue to 
+operate unabated in North Hamgyeong Province and Rason.  Our 
+Amcit contacts asked ConGenOff about the circumstances 
+surrounding the original detainment of the two American 
+journalists, saying they were unaware of any details in the 
+case. 
+ 
+¶15. (C) At Tumen on June 22, the Chinese security posture on 
+the border remained unchanged from previous visits (Ref E.) 
+Foreign tourists, including Westerners, were seen at the 
+Tumen/Namyang land crossing but were not allowed to go out 
+onto the bridge, unlike Chinese tourists.  Further upstream, 
+ConGenOff noticed six armed People's Armed Police guards 
+standing watch on the main road closest to the point where 
+the June 16 Korean Central News Agency report placed the 
+journalists' arrest.  Back in Tumen that afternoon, 
+ConGenOff observed one North Korean truck crossing over to 
+North Korea carrying a full load of small cardboard boxes. 
+ 
+¶16. (C) Recent heavy rains had caused landslides in several 
+areas along the border between Tumen/Namyang and 
+Kaishantun/Sambong, with work crews of up to 20 individuals 
+working to shore up hillsides on the North Korean side.  In 
+its middle reaches, the Tumen River now occupies most of its 
+usually-dry riverbed, and the strong current created rapids 
+in several stretches, making crossing the river difficult. 
+ 
+WICKMAN
+</file>

@@ -1,0 +1,237 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2648  |  2007-08-31 07:04  |  기밀/외국전파금지  |  주한미국대사관  |  {{tag>PREL MARR KS KN }}  |
+====== 제 목: 한국 정부, 북방한계선(이하 NLL) 문제로 내부 논쟁. 남북 정상회담 안건이 될 것인가? ======
+기 밀 SEOUL 002648
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+외국전파금지((NOFORN ))
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 한국 통일 이후
+태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국 정부, 북방한계선(이하 NLL) 문제로 내부 논쟁. 남북 정상회담 안건이 될 것인가?
+분류자: 공관차석 대리 조셉 윤((AA/DCM Joseph Y. Yun)). 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/21 01:33//
+===== 요점 =====
+
+1. (기밀/외국전파금지) 요점: 10월 2~4일 정상회담에서 어떻게 북방한계선(이하 NLL)을 다뤄야 할지가 남한정부와 언론이 몰두하는 주요 사안이다. 이 문제가 중요한 이유는 북한이 NLL이 해결되기 전까지는 북한이 남북 간에 산적한 군사 문제를 남한과 논의하길 확고부동하게 거부해왔기 때문이다. 이재정 통일부 장관의 NLL을 재고할 수 있다는 발언은 정부 내에서 보수군단의 신랄한 비난을 초래했고, 과거 NLL을 지키려다 북한과의 교전으로 (1999년에 9명 부상 그리고 2002년 6명 사명) 몇몇 군 장병을 읽었던 국방부가 특히 그렇다. 김만복 국정원장은 NLL은 한국의 주권 문제라고 말하면서 이재정 장관의 발언에 신속히 반박하였다. 김장수 국방장관은 그런 와중에 NLL 문제를 정상회담에서 제외하자고 공개 촉구하고 나섰고, 만일 북한이 남북 장관급 회담 개최에 동의한다면, 북한 측에서 제기할 수 있다고 했다. 송민순 외교부 장관은 대사와 함께한 8월 20일 회동에서 언론의 추정 보도를 일축하면서, NLL은 정상회담에서 크게 논의되지 않을 거라고 시사했다. 그러나 김정일이 NLL 문제를 제기할 때 노 대통령이 정확히 어떻게 대응할지는 매우 분명하지 않다. //요점 끝.//
+
+===== 북방한계선 배경지식 =====
+
+2. (기밀/외국전파금지) 1953년 7월 유엔사령부와 조선인민군 간의 정전 협정은 남북한 사이 육상 국경선을 따라 군사분계선을 설정하였다. 정전 협정에서 해상 분계선은 그와 유사하게 다루지 못하였다. 동해에는 38선 북쪽 해상을 가로질러 군사분계선을 확장해 설정하였다; 그 경계는 북한이 이의를 제기하지 않았다. 그러나 서해의 NLL은 해묵은 서해·경기 지역 경계를(보통 A-B 라인으로 통칭) 시점으로 하는 NLL 서북 지역 대부분 섬을 북한에 양보하였고, 다만 서북5개도서 만이 유엔사령부가 통제하는 도서군이다. 북한은 유엔사령부의 통제로 남겨진 해당 도서군에 대해 북한은 전혀 분쟁을 벌인 바 없지만, 해당 섬 주변 수역의 통제를 주장해왔다.
+
+3. (기밀/외국전파금지) NLL이 표면상으로 해상 분계선 역할을 했고, 서북5개도서의 안보를 용이하게하였고, 대항군 사이에 완충지를 제공하였다. 정전 협정이 서명될 당시 남한이 한강 양쪽 강기슭을((번역 주: 정전 협정 1조5항에는 ‘강안’이란 표현을 사용한다.)) 점유하고 있었기 때문에 얄궂게도 NLL은 처음에 북한을 보호해 주었다. 비록 북한은 인정하지 않지만, 북한은 (1992년 기본합의서라고도 알려진) 1992년 남북한 사이의 화해와 불가침 및 교류 협력에 관한 합의서가 서명될 당시 암묵적으로 인정해왔다. 남북 기본합의서는 남과 북은 //“지금까지 쌍방이 관할하여 온 구역”//을 존중한다라고 되어 있다. 비록 이러한 공식적인 양해에도, 북한은 유엔사령부의 일방적 NLL 설정은 국제 해상법과는 불합치한다고 주장하고 있다. 현재 NLL을 횡단하는 해상 교통은 그 자체만으로 정전협정 위반에 상당하지 않는다.
+
+4. (기밀/외국전파금지) 그 이후로 줄곧 서해 상의 NLL은 논란의 근원이 되어왔다. 매해 꽂게 철마다 최대 어장의 주도권 다툼을 벌이면서, 북한의 순시선을 동반한 북한 어선이 NLL을 빈번히 넘어오는 결과를 낳았다. 1999년 서해 해상에서 남북한이 충돌하면서 대략 30명의 북한 해군이 목숨을 잃고 북한 순시선 한 정을 소실하는 결과를 가져왔다. 2002년에는 이 지역에서 또다시 남과 북의 해군이 교전을 벌여, 한국 해군 장병 6명이 죽고 말았다. 2002년 사고 이후로, 남과 북은 서해 상의 긴장을 완화하고, 신뢰 구축 조치를 추구하기 위해서 6차례 장성급 회담을 열었지만, 매 회담은 NLL이란 덫에 걸려 결렬되고 말았다. 남과 북은 NLL의 민감성을 인식하면서, 향후 NLL 분쟁에 대처하기 위해 //“직통전화”// 채널을 설정하자고 2004년에 합의를 했지만, 해당 합의는 전혀 이행되지 않았다. NLL 북쪽의 여하한 어장의 공동 이용 제안도 없는 체 NLL 남쪽 10km까지 공동 어장을 설립하자는 북한의 NLL 구획 재설정 요구는 이 문제의 해결에 진전을 가로막고 있다. 
+
+===== 남북정상회담 상의 NLL 논쟁 =====
+
+5. (기밀/외국전파금지) 그렇긴 하지만, 남북 정상회담의 발표 이후로 몇 주 만에 한국언론매체의 강한 의혹 제기, 그리고 한국정부가 곧 있을 정상회담에서 NLL을 다룰 것인지, 다룬다면 어떻게 다룰지 정부 내부에 논쟁이 심화하고 있다. NLL //“재고”//를 요구하는 이재정 통일부 장관의 발언으로 촉발되어 NLL의 성격을 놓고 내부 논란이 격렬해졌다. 이재정 통일부 장관이 8월 10일 국회통일외교통상위원회 전체회의에 출석해 NLL과 관련 //“영토의 개념이 아니라 군사적 충돌을 막는 안보적 개념에서”// 설정되었다고 말하였는데, 많은 이들은 그 설명을 한국정부가 다가올 정상회담에서 NLL을 재협상을 북측에 제안하는 것을 시사한다고 여기고 있다. 김만복 국정원장은 즉각 반박하길, NLL은 물론 “영토 개념” 일뿐만 아니라, 한국의 주권 문제라고 말하였다.((번역 주: 이 문장은 미대사관의 헛소리다. 김만복의 정확한 발언은 “북방한계선(NLL)이 영토주권 개념과 관련이 있다고 생각한다”이다. 비교해 보라. 이런걸 마사지라고 부른다. 자세한 내용은 바깥 고리 동아 일보 기사를 보라.)) 김 국방장관은 NLL은 장관급 회담에서만 논의되어야 한다는 국방부의 해묵은 입장을 되풀이하였고, 북한이 1992년 남북 기본합의서를 준수하라고 요구하였다.
+
+6. (기밀/외국전파금지) 한나라당 나경원 대변인은 일본과의 오래된 (그리고 감정적인) 영토 분쟁의 주제인 독도를 포기하는 것에 빗대어 //“NLL을 놓고 북한에 양보하는 것은 반역행위에 버금간다.”//라고 말하였다. NLL 문제를 놓고 이견이 공개적으로 터져 나온 이후로, 한국정부는 마찰을 완화하려고 한국정부 측에서 일부 노력이 있었다. 청와대 대변인 천호선의 공개석상 발언이 이에 해당하는데, 상반되어 보이긴 하지만, 이재정과 김만복 국정원장의 발언은 NLL 관련 한국정부의 입장과 다른 해석이 아니라고 했다. 그러나 외교통상부와 국방부는 //“NLL은 한국전쟁 이래로 남북 간의 무력충돌을 방지하는 실질적인 해상 경계선 역할을 해왔다.”//라고 강조하며, 북한에 현재 NLL을 수용하고 1992년 기본합의서 이행을 요구하는 식의 공통된 어조로 말하기 시작하였다. 그러나 국방부 당국자들은 한국정부 내에서 충분한 공감대가 형성되기 전까지는 이 주제가 남북 정상회담에서 제기되지 말아야 한다고 계속 고집한다.
+
+7. (기밀/외국전파금지) 8월 20일 대사와 함께한 회동에서, 송민순 외교부 장관은 NLL이 정상회담에서 실질적으로 논의될 거라는 언론의 추정 보도를 일축하였다. 송민순은 //“2002년 서해교전은((번역 주: 2008년 4월 9일 국방부는 정식 명칭을 제2연평해전으로 바꾸었다.)) 방법론에 있어서 우리가 한 번 더 반성해봐야 할 과제”//라는 이 장관의 발언은 전혀 신빙성이 없다고 말하였다. 한국정부는 NLL 문제가 1992년 남북 기본합의서의 이행과 연계해서만 논의될 수가 있다고 북한에 수차례 걸쳐 분명히 밝혀왔다고 송민순은 말하였다. 그런 이유로, 한국정부는 기본합의서에 관한 남북장관급 회담을 계속 추진할 예정이다. NLL 문제 관련 마지막으로 평하길, 영토 및 영해 문제는 함께 다루어져야 할 필요가 있다고 말하였다.
+
+===== 논평 =====
+
+8. (기밀/외국전파금지) 남한 병사 6명이 사망한 2002년 서해 교전은 여전히 많은 한국군 지도부의 뇌리에 생생한데, 보수세력들은 국가 안보 문제에서 어떻게 노무현 정부를 신뢰할 수 없는지 그 사례로 이재정의 발언을 덧칠하는데 신속히 나섰다. 그러므로 노무현 정부가 불난데 기름 붓는 격으로 진보 대선 후보의 대권 열망에 피해를 배가시킬 위험을 무릅쓸 공산은 크지 않다. 외교통상부와 국방부 대화 상대역들은 정상회담 의제에서 NLL 문제를 제외하려는 강한 바람을 또한 표명하였다. 여전히 이런 점이 희망 사항 그 이하도 이상도 아닌지 의심스러운 이유는 김정일이 어떻게 해서든 북한의 NLL 재설정 요구를 관철하기 위해 노 대통령에게 촉구할 기회를 그냥 지나치길 바라지 않기 때문이다. 아마도 이재정 통일부 장관이 대놓고 공개 발언을 한 게 그런 이유일 공산이 크다.
+
+9. (기밀/외국전파금지) 노 대통령이 김정일의 그런 요청에 대해 어떻게 반응할지는 대게 모를 일이다. 만일 2000년 남북 정상회담이 일종의 지표가 된다면, 남북 정상은 몇 차례 긴 회의를 하고, 거의 모든 걸 비공개로 할 것이다. 남과 북은 각기 자체 우선 과제를 전달하고, 숙제를 챙겨 돌아가 시간을 두고 다양한 기회를 통해 천천히 공개하게 될 거다. 그러므로 우리가 최대로 추측하건대 NLL 관련 정상회담 논의가 있을 것이지만, 공개적인 타결이 될 공산은 거의 없는데, 그 이유는 단순히 말해서 남한 국민에게 용인되지 않을 것이기 때문이다. 쌍방 간의 최상의 결과는 기준을 제시하고, 국방장관이 문제를 살펴보도록 하거나, 문제를 해결하도록 하는 식으로 말하자면 한국의 현재 입장과 비슷하면서도, 북한의 궁극적인 목적인 NLL 재획정에도 부응하는 식이 될 수 있다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/8/07seoul2648|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://t.co/jlJlBQ2V|김만복 국정원장 “NLL, 영토주권 개념”]]  //동아일보//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL2648.rtf>
+C O N F I D E N T I A L SEOUL 002648 
+ 
+SIPDIS 
+ 
+NOFORN 
+SIPDIS 
+ 
+E.O. 12958: DECL: AFTER KOREAN UNIFICATION 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: ROKG INTERNAL WRANGLING OVER NLL, A NORTH-SOUTH 
+SUMMIT ITEM? 
+ 
+ 
+Classified By: AA/DCM Joseph Y. Yun, Reasons 1.4 (b,d). 
+ 
+¶1.  (C/NF) SUMMARY.  How the October 2-4 North-South summit 
+should deal with the Northern Limit Line (NLL) is a major 
+preoccupation for the South Korean government and the press. 
+The issue is significant because the North has steadfastly 
+refused to discuss a laundry list of military-to-military 
+issues with the South until the NLL is resolved.  Minister of 
+Unification (MOU) Lee Jae-Joung's August 10 comment that the 
+ROK could "reconsider" the NLL drew harsh criticism from more 
+conservative arms of the government, particularly the ROK 
+military, which lost several service members who were 
+defending the line in past skirmishes with North Korea (9 
+wounded in 1999 and 6 killed in 2002).  National Intelligence 
+Service (NIS) chief Kim Man-bok quickly rebutted Minister Lee 
+by saying the NLL is a matter of ROK sovereignty.  Defense 
+Minister Kim Jang-soo meanwhile publicly urged that the issue 
+be left out of the summit and that the DPRK side could raise 
+it if it agreed to hold a meeting of the two defense 
+ministers.  Foreign Minister Song Min-soon dismissed the 
+media speculation during his August 20 meeting with the 
+Ambassador, indicating the NLL would not be discussed 
+substantively at the summit.  But exactly how President Roh 
+will respond in the likely event of Kim Jong-il raising the 
+issue is far less clear.  END SUMMARY. 
+ 
+-------------- 
+NLL BACKGROUND 
+-------------- 
+ 
+¶2.  (C/NF) The July 1953 Armistice Agreement between the 
+United Nations Command (UNC) and the North Korea People's 
+Army (KPA) established the Military Demarcation Line (MDL) 
+along the land border between the two Koreas.  The Armistice 
+did not similarly address the line at sea.  In the East Sea, 
+the NLL was established by extending the MDL out across the 
+water north of the 38th parallel; this demarcation has not 
+been contested by the North.  In the West Sea, however, the 
+NLL begins at the old Hwanghae-Kyonggi provincial border 
+(commonly referred to as Line A-B) and most of the islands 
+north and west of this line were ceded to the North, with the 
+exception being five northwest island groups that remained 
+under UNC control.  The North has never disputed UNC control 
+of these islands but has argued for control of the waters 
+surrounding these islands. 
+ 
+¶3.  (C/NF) The NLL ostensibly served as a maritime control 
+line, facilitated security of the 5 northwest island groups 
+and provided a buffer between the opposing forces. 
+Ironically, initially the NLL offered protection to the North 
+because when the Armistice was signed the South held both 
+banks of the Han River.  Although the DPRK does not admit it, 
+the North had tacitly recognized the NLL when it subsequently 
+signed the 1992 Agreement on Reconciliation, Nonaggression, 
+and Exchanges and Cooperation between South and North Korea 
+(also known as the 1992 Basic Agreement), which specified 
+that the two Koreas will respect "the areas that each side 
+has exercised jurisdiction over until the present time." 
+Despite this formal understanding, North Korea maintains that 
+the UNC's unilateral establishment of the NLL was not in 
+accordance with international maritime law.  Currently, 
+maritime traffic traversing over the NLL does not, in of 
+itself, represent an armistice violation. 
+ 
+¶4.  (C/NF) The NLL in the West Sea has been the source of 
+controversy ever since, as each crabbing season fishermen vie 
+for the best fishing grounds, frequently resulting in 
+Northern fishing vessels and their accompanying DPRK patrol 
+boats traversing the NLL.  In 1999, North and South Korean 
+naval forces clashed in the West Sea, resulting in the 
+estimated loss of 30 North Korean sailors and one North 
+Korean patrol boat.  In 2002, North and South Korean navies 
+fought again in this region, resulting in six ROK sailors 
+killed.  Since the 2002 incident, the North and South have 
+held six rounds of General Officer (GO) talks to ease 
+ 
+tensions in the West Sea and pursue confidence building 
+measures, but each round of talks has ground to a halt over 
+the NLL impasse.  Recognizing the sensitivity of the NLL, the 
+two sides reached a 2004 agreement to establish a 
+communications "hotline" for dealing with future NLL 
+disputes, but that agreement was never implemented.  The 
+DPRK's demand to redraw the NLL to establish a common fishery 
+area up to 10 kilometers south of the NLL without offering to 
+share any fishing grounds to the north of it, has prevented 
+any progress to resolve the issue. 
+ 
+-------------------------------------- 
+DEBATE OVER NLL FOR NORTH-SOUTH SUMMIT 
+-------------------------------------- 
+ 
+¶5.  (C/NF) Nevertheless, in the weeks since the North-South 
+summit was announced, there has been intense speculation from 
+the ROK media and debate within the ROKG about whether, and 
+how, the NLL would be addressed in the upcoming summit.  The 
+fierce internal debate centers on the nature of the NLL, 
+spurred by MOU Minister Lee Jae-joung's comments calling for 
+&reconsideration8 of the NLL.  At the National Assembly on 
+August 10, Minister Lee said that the NLL was demarcated as a 
+"security concept to prevent armed conflict," and "not as a 
+territorial concept," a description that many perceived to 
+imply that the ROKG would offer to renegotiate the NLL at the 
+upcoming Summit.  NIS Chief Kim Man-bok immediately 
+countered, saying that the NLL was of course a "territorial 
+concept" and a matter of ROK sovereignty.  Defense Minister 
+Kim reiterated the long-held MND position that the NLL should 
+be discussed only at ministerial-level talks and called for 
+the North to abide by the 1992 Basic Agreement. 
+ 
+¶6.  (C/NF) The GNP's party spokeswoman said, "Concession to 
+North Korea over the NLL is tantamount to an act of 
+treachery," comparing it to giving up Dokdo island, the 
+subject of a long-term territorial (and emotional) dispute 
+with Japan.  Since disagreement over the NLL issue erupted 
+into the open, there has been some effort on the part of the 
+ROKG to smooth over the signs of friction.  This included 
+Blue House Spokesman Chun Ho-Sun,s public statement that 
+despite appearances to the contrary, the comments by Minister 
+Lee and NIS Chief Kim somehow did not offer different 
+interpretations of the ROKG position on the NLL.  ROKG 
+officials from MOFAT, Blue House, and MND have, however, now 
+begun to speak in common terms, emphasizing that "the NLL has 
+served as an actual maritime borderline to prevent a 
+North-South armed clash since the Korean War" and calling on 
+the North to accept the current NLL and implement the 1992 
+Basic Agreement.  However, MND officials continue to insist 
+that the topic not be raised at the summit until there is 
+sufficient consensus within the ROKG. 
+ 
+¶7.  (C/NF) In an August 20 meeting with the Ambassador, 
+Foreign Minister Song Min-soon dismissed media speculation 
+that the NLL would be discussed substantively at the summit. 
+He said that Minister Lee's statement that the ROK should 
+reexamine the 2002 naval clash near the NLL to see if the 
+South was at fault had no credibility.  The ROKG had made 
+clear many times to the DPRK that the NLL issue could be 
+discussed only in connection with implementation of the 1992 
+Basic Agreement, Song said.  For that reason, the ROKG would 
+continue to push for Defense Minister talks about the Basic 
+Agreement.  As a final comment on the issue, Song said the 
+issues of land and sea needed to be dealt with together. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶8.  (C/NF) With the 2002 naval clash, during which six South 
+Korean sailors died, still fresh in the minds of many 
+military leaders, conservatives have been quick to paint 
+Minister Lee's comments as an example of how the Roh 
+Administration cannot be trusted on matters of national 
+ 
+security.  It is thus unlikely the Roh administration will 
+risk further damaging the presidential aspirations of 
+progressive candidates by throwing more fuel on this fire. 
+Our interlocutors from MOFAT and MND have also expressed 
+their strong desire to keep the issue off the summit agenda. 
+Still, it is doubtful whether this is more than wishful 
+thinking, because Kim Jong-il will not want to pass up the 
+opportunity to urge President Roh to somehow accommodate the 
+DPRK request to redraw the line.  This is most probably why 
+MOU Minister Lee made his forthcoming public comments. 
+ 
+¶9.  (C/NF) How President Roh responds to such a request from 
+Kim Jong-il is largely unknown.  If the previous North-South 
+summit in 2000 is any guide, the two leaders will have 
+several long sessions, almost all of it off the record.  Each 
+side will convey their priorities, which they will take back 
+as homework, to be revealed slowly over time in various 
+venues.  Therefore, our best guess is that there will be a 
+summit discussion on NLL, but that a public breakthrough is 
+highly unlikely, as that simply will not be acceptable to the 
+South Korean public.  The best outcome for both sides is to 
+put down a marker asking the defense minister to look into or 
+even resolve the issue, which is similar to the current 
+position of the ROK, but still meets the DPRK's objective of 
+ultimately redrawing the line. 
+VERSHBOW
+</file>

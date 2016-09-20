@@ -1,0 +1,165 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2694  |  2007-09-05 08:24  |  2011-08-30 01:44  |  기밀  |  주한미국대사관  |  {{tag>PARM PREL MNUC KS KN }}  |
+====== 제 목: 남북정상회담, 어떻게 성사되었나? ======
+기 밀 SEOUL 002694 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 09/04/2017 
+태그: PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), MNUC(([Military Nuclear Applications])), KS(([Korea (South)])), KN(([Korea (North)])) 
+제 목: 남북정상회담, 어떻게 성사되었나? 
+분류자: 공관 차석 직무 대리 조셉 윤((A/DCM Joseph Y. Yun.))  근거 1.4 (b/d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/26 01:29//
+<WRAP right round box 30%>//**딱 걸렸다!**//이 전문은 박선원 청와대 통일외교안보전략비서관과 주한미국대사관 대리 대사의 대화 내용이다. 그렇다면 당연히 청와대 접선책(연락선, 접촉선, 정보원)은 바로 이 전문의 유일한 등장인물인 박선원 통일외교안보전략비서관이 되는 것이다.</WRAP>
+===== 요점 =====
+1. (기밀) 청와대 고위 참모가 말한 바로는, 노무현 정부는 남북정상회담을 몇 년에 걸쳐 모색해왔지만, 2달 전까지 소용이 없었다고 한다. 정상회담 협상은 국정원과 국가안전보장회의 참모에 의해 수행되었다. 내각 구성원인 송민순 외교부 장관, 이재정 통일부 장관, 김장수 국방장관은 이른 아침 8월 8일 공개석상 발표가 있기 전까지 전혀 모르고 있었다. 노 대통령에겐 김정일과 대화하는 게 중요한 목표이다. 대화 자체를 제외하곤 노무현이 건 기대는 북한의 비핵화 진전과 군사적 긴장완화을 위한 일부 상징적인 조처에 국한되어 있었다. <wrap hi>우리 청와대 접선책이 말한 바로는</wrap> 경제적, 재정적 약속은 국회의 동의를 요하기 때문에 매우 제한적이다. //요점 끝.//
+
+===== 정상회담 성사과정 =====
+
+2. (기밀) 11월 4일 공관 차석 대리 대사와 함께한 오찬 회동에서, 박선원 청와대 통일외교안보전략비서관은 노무현 정부는 수년 동안 남북정상회담을 모색해왔다고 말하였다. 소규모 //“성사”//단은 처음에 4년 전 청와대에 꾸려졌는데, 이종석 국가안전보장회의 사무차장과 박선원 본인, 그리고 서훈 국정원 직원으로 구성되어 있었다. 첫 정상회담 제의는 2005년에 이루어졌는데, 당시 정동영 통일부 장관이 평양을 방문해 김정일과 회동했을 때이다. 그러나 정동영이 2000년 정상회담 당시 김정일의 남한 답방 약속을 상기시키자, 김정일의 응답은 미적지근하였다.
+
+3. (기밀) 2006년 송민순이 통일외교안보정책실장이 되었을 당시에 남북정상회담 계획은 보류되었다. 북한의 비핵화 문제에 어느 정도 진전이 있어야만 한다는 게 송민순의 입장이었다. 송민순은 남북정상회담 준비는 미국정부와 조율되어야 한다는 뜻을 굽히지 않았다고 박선원은 말한다.
+
+4. (기밀) 올 5월 송민순이 더는 청와대에 없는 상태에서, 백종천 통일외교안보정책 실장은 노 대통령의 임기가 얼마 남지 않았다는 인식을 하게 되었다. 그래서 백종천은 비밀리에 정상회담 성사 모임을 꾸렸는데, 국가안전보장회의 소속 백종천과 박선원, 그리고 김만복 국정원장과 서훈이 그 당사자들이다. 해당 모임은 노 대통령의 지침을 구했고, 노 대통령은 6자 회담에 어느 정도 진전된 후에나 다시 남북 정상회담을 시도하고 싶다고 응답하였다. 그래서 성사 모임은 6월에 방코 델타 아시아 문제가 해결되기 전까지 기다린 후에 북한 사람들에게 접근하였다.
+
+5. (기밀) 공식적인 대북 접근 방식은 평양의 상대역인 김양건에게 보낸 김만복 국정원장의 서신이었다. 박선원은 자신을 포함한 성사 모임의 누구도 긍정적인 답변을 기대하지 않았는데, 그래서 백종천과 자신이 피랍자 석방 협상을 위해 아프간에 간 것이다. 남북정상회담 일자를 잡는 데 꽤 시간이 걸렸다. 애초에 한국 측은 7월을 제안했지만, 북한 측 사람이 7월은 이르다고 판단하였다. 8월 6일 북한정부가 마침내 8월 말에 남북정상회담을 개최하기로 합의하였다. 한국정부의 모든 고위 당국자들은 8월 8일 남북정상회담 개최 발표가 있기 전까지, 남과 북이 정상회담에 합의했다는 사실을 전혀 알지 못하였다. 박선원은 외교부 장관과 국방부 장관, 그리고 통일부 장관도 사전에 그 사실을 알고 있지 못했다고 말하였다.
+
+===== 남북정상회담의 의제 =====
+
+6. (기밀) 정상회담 의제에 대해 질문을 받자, 박선원은 아래와 같은 식견을 제공하였다:
+  * 비핵화. 노 대통령은 틀림없이 비핵화 쟁점을 제기할 예정이었다. 노무현은 남한이 북한 핵무기의 위협 아래에서 살 수 없다는 뜻을 굽히지 않았다.
+
+  * 북방한계선(이하 NLL). 노무현이 NLL를 재획정하기로 동의하는 건 상상도 못 할 일이다. NLL은 영토자주권을 유지하도록 하는 한국 헌법의 구속을 받는 영토 문제이다. 노무현이 가장 할만한 내용은 분쟁 어로수역에 공동이용이라는 문제를 협의하는 정도일 거다. 북한은 매우 적은 어선을 보유하고 있기 때문에 공동어로 수역에 대한 합의는 해당 지역을 사실상 남한이 통제하는 결과이며, 지금도 그렇듯이 NLL아래 지역을 계속해서 순시하게 될 거라고 박선원은 말하였다.
+
+  * 신뢰 구축 조치. 박선원이 말한 바로는 노무현이 가장 추구할 공산이 클 걸로 보이는 군사적 신뢰구축방안은 현재 비무장지대에 있는 140개가 넘는 경계 초소의 해체나 철수를 요구하는 것이다. 한국은 대략 그런 경계초소를 60개 유지하고 있다고 그는 말하였다.
+
+===== 김정일의 동기 =====
+
+7. (기밀) 박선원 본인은 김정일이 남북정상회담에 합의할 거라고 예상하지 못했다며, 김정일이 다양한 선택 옵션을 궁리하고 있다고 추정하였다. 북한 사람들은 방코 델타 아시아 계좌가 동결될 당시 그들이 적어도 미합중국과의 관계 개선이 없이는 생존할 수 없다는 교훈을 얻었다. 더구나, 김정일의 건강이 좋지 않다고 박선원은 추정하였다. 김정일이 김일성과 마찬가지로 심장이 허약하며, 최근 스텐트를((번역 주: 혈관 폐색 등을 막기 위해 혈관에 주입하는 시술)) 주입하는 수술을 했다는 보도가 있다. 박선원은 아마 김정일이 김정일 사후 북한에 대해 생각하기 시작했다고 제시하였다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/8/07seoul2694|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL2694.rtf>
+C O N F I D E N T I A L SEOUL 002694 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 09/04/2017 
+TAGS: PARM [Arms Controls and Disarmament], PREL [External Political Relations], MNUC [Military Nuclear Applications], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: SUBJECT: NORTH-SOUTH SUMMIT: HOW IT CAME ABOUT 
+ 
+ 
+Classified By: A/DCM Joseph Y. Yun.  Reasons 1.4 (b/d). 
+ 
+¶1.  (C) Summary:  According to a senior Blue House staffer, 
+the Roh Administration had been pursuing a North-South summit 
+for several years, but to no avail until two months ago.  The 
+negotiations were conducted by NIS (National Intelligence 
+Service) and NSC staff.  Cabinet members, including Foreign 
+Minister Song, Unification Minister Lee and Defense Minister 
+Kim, were kept in the dark until the early morning of the 
+public announcement on August 8. For President Roh having a 
+dialogue with Kim Jong-il was an important goal.  Beyond 
+that, Roh's expectations were limited to making progress on 
+denuclearizing North Korea and perhaps some symbolic measures 
+on military tension reduction.  Economic and financial 
+commitments would be very limited, as they required National 
+Assembly consent, according to our Blue House contact.  End 
+Summary. 
+ 
+-------------- 
+Road to Summit 
+-------------- 
+ 
+¶2.  (C) During a September 4 dinner meeting with A/DCM, Park 
+Sun-won, Secretary to the President for National Security 
+Strategy, said that the Roh Administration had been pursuing 
+a North-South summit for several years.  A small "enabling" 
+group was initially formed in the Blue House four years ago 
+consisting of the then-National Security Advisor Lee 
+Jong-seok, Park himself, and NIS staffer Suh Hoon.  The first 
+overture was made in 2005 when then-Unification Minister 
+Chung Dong-young visited Pyongyang and met with Kim Jong-il 
+(KJI).  However KJI's response was lukewarm when  Chung 
+reminded him that during the 2000 summit he had promised a 
+reciprocal visit to South Korea. 
+ 
+¶3.  (C) When Song Min-soon became national security advisor 
+in 2006, the summit initiative was put on the back burner. 
+Song's position was that there had to be some progress in 
+denuclearizing North Korea.  Song was also quite adamant that 
+a North-South summit had to be prepared in coordination with 
+Washington, according to Park. 
+ 
+¶4.  (C) In May this year, with Song no longer in the Blue 
+House, National Security Advisor Baek Jong-chan came to the 
+view that President Roh's time was running out.  Baek, 
+therefore, brought the secretive enabling group together -- 
+Baek and Park from the NSC and NIS chief Kim Man-bok and Suh 
+Hoon.  The group sought guidance from President Roh, who 
+responded that he would like to try again, but not before 
+some progress in the Six Party Talks.  Therefore, the group 
+waited until the resolution of the Banco Delta Asia issue in 
+July to approach the North Koreans. 
+ 
+¶5.  (C) The formal approach was a letter from NIS Kim Man-bok 
+to his counterpart in Pyongyang, Kim Yang-gun.  Park said 
+that nobody in his group expected a positive response, which 
+was why Baek and he went to Afghanistan to negotiate the 
+hostage release.  The agreement on a date took some time to 
+reach.  Initially, the ROK side proposed the of July, but the 
+North Koreans thought that was to early.  On August 6 
+Pyongyang finally agreed to hold the summit at the end of 
+that month.  All senior ROKG officials were completely 
+unaware that North and South had reached an agreement to meet 
+until the announcement was made on August 8th.  Park said 
+that the Foreign Minister, Defense Minister and Unification 
+Minister did not know about it in advance. 
+ 
+--------------------- 
+Agenda For N-S Summit 
+--------------------- 
+ 
+¶6.  (C) Asked about the agenda items for the summit, Park 
+Sun-won provided the following insights: 
+ 
+-- Denuclearization.  President Roh would definitely raise 
+the denuclearization issue with Kim Jong-il.  Roh was adamant 
+that South Korea could not live under the threat of North 
+Korean nuclear weapons. 
+ 
+-- NLL.  Park said that it was unthinkable that Roh would 
+agree to redraw the Northern Limit Line. The NLL was a 
+territorial issue for the ROK which was bound by its 
+constitution to maintain sovereign control. The most Roh 
+could do would be to discuss issues such as joint use of the 
+disputed fishing areas.  Because the DPRK had so few fishing 
+vessels, Park said such an agreement would result in de facto 
+control of the area by the South, which would continue to 
+patrol the area below the NLL as it does today. 
+ 
+-- CBMs.  According to Park, the military confidence building 
+measure Roh was most likely to pursue would be to call on the 
+DPRK to dismantle or pull back some of its 140-plus guard 
+posts (GPs) currently positioned within the DMZ.  The ROK 
+maintains approximately 60 such guard posts, he said. 
+ 
+----------- 
+KJI Motives 
+----------- 
+ 
+¶7.  (C) Emphasizing that he did not expect KJI to agree to a 
+summit, Park speculated that KJI was exploring various 
+options.  North Koreans learned a lesson when their BDA 
+accounts were frozen; they could not survive without at least 
+minimally better relations with the United States.  Moreover, 
+Park speculated, KJI's health was not good.  There were 
+reports that he had a weak heart, like his father, and that 
+he recently had an operation to insert a stent.  Park offered 
+that perhaps KJI had begun to think about a post-KJI North 
+Korea. 
+VERSHBOW
+</file>

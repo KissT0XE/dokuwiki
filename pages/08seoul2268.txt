@@ -1,0 +1,47 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2268  |  2008-11-25 07:51  |  기밀  |  주한미국대사관  |  {{tag>UNESCO PRES KS }}  |
+====== 제 목: 서울 문화재 환수 전문가 회의에 관한 외교 문서 ======
+기 밀 SEOUL 002268 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+국무부 국제기구국/유네스코 미국위원회 (그리츠, 로라), 국무부 교육문화국/P/C  (마리아 커로퍼스)((IO/UNESCO (GRITZ, LAURA), ECA/P/C (kouroupas, maria) ))
+행정명령 12958: 비밀해제: 11/25/2018 
+태그: UNESCO(([UN Educational Scientific and Cultural Organization])), PRES, KS(([Korea (South)])) 
+제 목: 서울 문화재 환수 전문가 회의에 관한 외교 문서
+ 
+참조: STATE 123973 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun)).  근거 1.4(b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/11/07 13:43//
+
+(기밀) 참조 외교 문서에 대한 응답으로 권영대 외교통상부 문화외교정책과 과장은 11월 26일 <wrap hi>전문가 회의의 채택된 초안</wrap>과 관련 미국의 우려를 이해하며, 최종안은 의견이 일치된 내용을 반영해서 다시 작성될 거라고 말하였다. 그는 한국정부는 제안된 초안 작성에 관여하지 않았으며, 미국과 일본, 그리고 프랑스 등 여타 국가의 반대를 무릅쓰고 제안된 초안의 채택을 지지하지 않는다고 덧붙였다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/12/08seoul2268|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round tip 90%>//**서울선언 채택**// 26일 서울 신라호텔에서 열린 유네스코 산하 ‘문화재 반환 촉진 정부간 위원회(ICPRCP)’ 전문가 회의에서 채택한 '서울선언'을 말한다. 동 회의에서는 1866년 병인양요 당시 프랑스가 약탈해간 외규장각 도서의 반환 문제가 제기되기도 했다. 자세한 내용은 [[https://www.evernote.com/shard/s258/sh/8e900385-fff4-4b51-b62d-96d810dbd5ed/caec3933dc82091d8318a46360ebfabd|“불법적으로 약탈한 문화재 원소유국으로 되돌려줘야”]] //중앙일보// 기사를 읽어보라. 실제 전문가 회의에서 채택한 서울선언과는 다르게 미국, 일본, 프랑스가 반대한 내용을 한국정부가 그대로 수용하는 장면이 이 기밀전문 내용이다. ◆서울선언 채택 내용: ▶대체할 수 없는 문화 유산에 접근하고, 이를 향유하는 것은 모든 민족 주권의 특성이며 ▶이전된 문화재의 반환은 민족 유산 및 정체성을 복원하고 재건하는 수단이며 ▶이와 관련한 문제를 해결하기 위해 가능한 최선의 노력을 다하는 것은 모든 국가의 책임이라는 내용을 담았다.</WRAP>
+===== 원본 내려받기 =====
+<file rtf 08SEOUL2268.rtf>
+C O N F I D E N T I A L SEOUL 002268 
+ 
+SIPDIS 
+ 
+IO/UNESCO (GRITZ, LAURA), ECA/P/C (KOUROUPAS, MARIA) 
+ 
+E.O. 12958: DECL: 11/25/2018 
+TAGS: UNESCO PRES KS
+SUBJECT: DEMARCHE ON RETURN OF CULTURAL PROPERTY MEETING IN 
+SEOUL 
+ 
+REF: STATE 123973 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4(b/d) 
+ 
+(C) In response to reftel demarche, MOFAT's Director of the 
+Cultural Policy Division Kwon Young-dae said he understood 
+U.S. concerns regarding the draft summary of conclusions of 
+the November 26 experts meeting and that the final draft 
+would be rewritten to reflect a consensus opinion.  He added 
+that the ROKG was not involved with drafting the proposed 
+summary and did not support adopting the proposed summary 
+over the objections, among others, of the U.S., Japan, and 
+France. 
+STEPHENS
+</file>

@@ -1,0 +1,568 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL864  |  2006-03-16 08:45  |  미분류/공무외 사용금지  |  주한 미국 대사관  |  {{tag>ETRD KIPR ECON KS }}  |
+====== 제 목: 2006년 3월 한·미 통상현안 분기별 점검회의: 의제설정 ======
+비분류 SEOUL 000864 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+민감함
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+미 무역대표부 커틀러, 오거롯, 키 등에 전달((번역 주: PASS USTR FOR CUTLER, AUGEROT AND KI)) 
+국무부 동아태/한국과 그리고 경제기업국, 무역정책 및 프로그램, 양자무역과((번역 주: Bureau of Economic and Business Affairs, Trade Policy and Programs, Bilateral Trade Affairs[ EB/TPP/))
+상무부 4431/국제무역행정청/시장접근 및 이행감시국/동아태/듀튼((번역 주: COMMERCE FOR 4431/ITA/MAC/EAP/DUTTON {{http://trade.gov/mac/about.asp|About MAC}}))
+농무부 동식물건강검사청 알펠라((번역 주: USDA FOR APHIS/ALFALLA))
+농무부 해외농업국/국제무역정책과 클로스 및 구른펠러((번역 주: USDA ALSO FOR FAS/ITP/CLAUS AND GRUNENFELDER<독일이름은 발음 틀릴 수있음.))
+행정명령 12958: 해당없음
+태그: ETRD(([Foreign Trade])), ECON(([Economic Conditions])), KS(([Korea (South)])) 
+제 목: 2006년 3월 한·미 통상현안 분기별 점검회의: 의제설정
+번역자: PoirotKr(트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/01 03:39//
+===== 요점 =====
+1. (민감하지만 미분류) 2006년 첫 통상현안 분기별 점검회의가 3월 3일 서울에서 개최됐다. 획기적인 진전은 없었지만, 회의는 건설적이었고 새로 등장한 문제는 없었다. 한국정부는 보안소프트웨어 판매에 대한 정부 규제와 관련된 잠재적으로 심각한 문제를 비롯해 미국정부의 우려 사항을 해결할 의지가 있음을 시사했다. 미국 대표단은 한국의 법원이 특히 특허 및 지적 재산권에 관련된 소건에서 금지명령구제를((번역 주: 현행법상으로 //“침해정지청구”//와 비슷한 개념인 것 같다.)) 제공하길 꺼리는 점은 도움이 되지 않는다고 이의를 제기했다. 해묵은 방송 및 약제비 및 급여 문제((번역 주: 보험료 급여를 말한다. 참조> 실거래가 상환제도(‘99,1,1) 요양기관(병ㆍ의원, 약국 등)의 약제비용상환은 상한금액범위 내에서 요양기관이 실제 구입한 가격으로 상환))들은 꽤 자세히 논의되었지만, 이후로는 한미 FTA 협상에서 다뤄질 것이다. 우리는 특히 온주 밀감과 삼계탕과 같은 한국 정부에 상징적인 가치가 있는 쟁점사안에 대한 양보를 거듭 요청받았다. 한국정부는 분기별 점검회의를 올해 FTA 협상 내내 계속하기로 다짐했지만, 한미 FTA에 막대한 업무량을 참작해 통상현안 분기별 점검회의에 쏟는 관심과 관련 미국정부의 기대치를 줄이려고 하고 있다. 요점 끝.
+
+2. (미분류) 미 무역대표부 스콧 키 한국 담당 수석 과장이 이끄는 대표단은 상무부의 제프리 듀튼, 농무부의 셰릴 클로스, 국무부의 스티븐 챈 등이 동행했다. 4시간의 점검회의 논의 중의 다양한 부분에서 대충 20명의 대사관 직원이 참여했다. 한국은 이성호 외교통상부 북미통상과장이 수석대표를 맡았고 외교통상부 동료와 재정경제부, 농림부, 정보통신부, 보건복지부, 한국특허청, 식품의약품안전청, 방송위원회, 그리고 기타 한국정부 관계자 등의 지원을 받았다. 외교통상부와 미 무역대표부는 한미 FTA 협상 중에는 분기별 점검회의를 일시적으로 국장급에서 과장급으로 지휘 수준을 잠시 옮겼다.
+
+3. (민감하지만 미분류) 통상현안 분기별 점검회의 의제의 구성은:
+  * 농업: 쇠고기 소 이외의 반추 동물 상품을 포함한 쇠고기 시장 진출에 대한 후속조치; 세계무역기구 쌀 협정 이행 관련 현안; 가공한 유기농 식품 속 유전자변형식품의 비의도적 혼입 허용 수준
+
+  * 쟁점 규제 사안: 보안 소프트웨어 판매 규정; 우체국 보험 규정; 인공위성 재송신상의 재녹음 및 광고 제한; 규제개혁위원회와의 협력;
+
+  * 의약품과 의료기기: 약제비 결정을 위한 핵심 기준 마련에서 진전과 A7((번역 주:  A7 외국 7개국 : 미국, 영국, 독일, 프랑스, 이태리, 스위스, 일본)) 약값 결정에((번역 주: 자세한 내용은 참조 링크의 //한겨레//의 관련 기사를 참조하라.)) 대한 보건복지부의 검토 관련 최신 정보; 독립적인 재심 제도나 가격 결정을 위한 개선된 문서 증명을 개발을 위한 산업계와의 협력 구상; 리리카 약제비 급여 지침; 이전 분기별 점검회의에서 한국정부에 제출된 의료기기 급여율에 대한 산업계 백서에 따른 후속조치; 약제비 급여 지침에 관한 해명;
+
+  * 지적 재산권: 특허 침해 사례와 금지명령구제의 결여; 한국특허청의 결정을 특허 법원에서 번복;
+
+  * 한국의 쟁점사안: 온주 밀감; 삼계탕; 미국 병원에서 일할 한국 간호사 대상 비자; 다이아몬드 톱날 미국 반덤핑 조사.
+
+===== 통상현안 분기별 점검회의 지속 어렵되 필요  =====
+4. (민감하지만 미분류) 이건태 외교통상부 지역통상국장의 예방에 뒤 이어 공식적인 논의가 있었다. 이 국장은 2월 2일 FTA 협상 개시 발표로 가능 과정의 일 처리에 만족을 표했다. 분기별 점검회의로 인적 자원의 부담이 되지만, 다가올 FTA 협상에서 다루기에 부적합할 수 있는 무역 현안을 해결하기 위해 병행할 유용한 절차를 제공하기에 외교통상부가 동 회의를 유지하게 되어 기쁘다고 긍정하였다. 이 국장은 중단된 한일 FTA 협상 사례를 언급했다; 일본과 한국은 주기적인 양자 통상 논의가 한미 협상의 도래로 중단되었고, 현재 한일 양측은 비 FTA 통상 논의 재계를 위해 애를 먹고 있다. 키 과장은 분기별 점검회의와 FTA 협상 과정을 동시에 유지함에 한국 정부와 미국 정부의 자원에 가중되는 부담을 인정하면서, 미국정부가 분기별 점검회의의 방식과 장소에 대해서 아마도 향후 FTA 협상 일정의 테두리 내에서 정하는 등 융통성을 유지할 예정이라고 설명했다.
+===== 농업 =====
+6. (민감하지만 미분류) 분기별 회의의 논의를 개시하면서, 양측은 다가올 FTA 협상의 중요성과 FTA 협상발표를 앞두고 쇠고기, 스크린쿼터, 그리고 자동차를 포함하는 주요 통상현안에 진전이 있었음을 확인했다. 이 과장은 미국이 해묵은 현안인 한국산 파프리카(후추)의 미국 시장 진출을 해결해준 점에 감사했다.
+
+7. (민감하지만 미분류) 쇠고기: 키 과장은 미국산 쇠고기 한국 수출이 재계 되도록 현재까지 진전된 상황에 대해 한국에 감사했다. 그는 한국 전문가에 의한 미국산 육류 가공 공장의 감사 일정을 잡기 위해서 긴밀한 협력이 중요함을 또한 언급했고, 한국의 조속한 감사를 촉구하였다. 추가로 찰스 램버트((번역 주: Charles “Chuck” Lambert, 찰스 램버트, 척 램버트 동일인이다. )) 미 농무부 마케팅 및 규제 담당 부차관이 \\ \\ 국방부망 배포\\  해당 공장 감사 절차를 해명하기 위해 3월 6일 방한하리라 예상한다고 지적했다. 이 과장은 “행정적인” 문제로 인해 감사 일정을 정하는 데 다소 지연되고 있다고 알렸다. 미국산 쇠고기가 안전한지 여전히 한국 소비자들이 다소 우려하는 관계로 한국은 순차적인 접근 방식을 바라고 있음을 시사했다.
+
+8. (민감하지만 미분류) 쌀: 키 과장은 2005년 최소 시장 접근 쌀 입찰의 미국 할당량을 완수해준 점에 대해 한국 측에 감사했다. 이성호 과장은 2006년 입찰은 모든 해당 국가의 2005년 입찰 결과를 바탕으로 정해질 것이라며 그 아직 작업이 아직 완결되지 않았다고 응답했다. 윤동진 농림부 통상협력과장은 미합중국의 인내심을 요청했는데, 그 이유로 한국 소비자에게 노출된 외국산 쌀은 이번이 처음이기 때문이라고 했다. 키 과장은 2006년 입찰에 대한 가능한 시간표를 계속 요구했다. 그리고 분기별 점검회의 한국 대표단은 2005년 입찰과정이 (2006년) 시간표가 잡히기 전에 완결돼야 한다고 재차 응답했다.
+
+9. (민감하지만 미분류) 키 과장은 2005년 입찰 조건에 대해 미국정부의 우려를 표명했는데, 이는 당해 미국 쿼터의 거의 95%가 “미국산 1등급” 품질로 불리기보다는 “미국산 3등급 또는 상위 등급” 불리고 있는 점이다. 키 과장은 미합중국은 3등급 쌀이 있다 쳐도 거의 미비한 수준이라고 설명했다. 미국의 수출업자들은 선택의 여지 없이 1등급 쌀에 대한 입찰의향서를 제출해야 하는데, 이는 해당 입찰이 높은 가격으로 인해 한국에 의해 거부당할 위험성을 높인다고 설명했다. 키 과장은 한국이 입찰된 쌀에 대한 최고가 한계를 결정하는데 사용되는 메커니즘에 대해 해명을 또한 요청했다.
+
+10. (민감하지만 미분류) 농림부 윤 과장은 미국의 우려를 알고 있지만, 각국의 우려 사안은 수입 쌀에 대한 한국 소비자의 반응을 확인하기까지는 처리하지 않을 거라고 했다. 외교통상부 이 과장은 미국이란 특정 쿼터를 허용해서 일괄 할당제로 돌아가는 일은 한국의 득이 되지 않는다는 점을 외교통상부가 파악했다고 키 과장에 재차 설명하였다. 이 과장은 이 문제에 대한 한국의 다짐을 강조하면서, 미국이란 특정 쿼터를 완수하는데 어떤 문제를 예상하고 있지 않다고 했다. 키 과장은 미국 쌀이 “3등급 혹은 그 이상”으로 표기될 것인지 아니면 “1등급” 품질로 표기될 수 있을지 여부를 물었다. 처음에는 등급 표시 요건은 없다고 한 이후에, 등급 표시 요건은 입찰에 포함된 조건에 근거할 예정이라고 해명했다. 윤 과장은 2005년 쿼터에 대한 입찰 공고에 특정된 등급 표시 요건을 변경하는 일은 어려울 것이라고 했지만, 미국의 우려 사안은 2006년 쿼터에는 고려의 대상이 될 거라고 말했다.
+
+11. (민감하지만 미분류) 비의도적 유전자변형식품(GMO)의 혼입: 유기가공식품 안에 비의도적 유전자변형식품(GMO)의 혼입은 전혀 용인하지 않는 한국의 현 규제에 대한 미국의 우려에 대해, 외교통상부 이 과장과 이 문제를 다루는 식품의약품안전청 대표들은 <wrap hi>“아직 까지는”</wrap> 한국의 제도를 바꿀 계획이 없다고 했다. 이들은 가까운 장래에 가공 과정에 기초한 유기농 인증 절차의 구현을 고려하고 있다고 덧붙였다. 식품의약품안전청 관계자들은 유전자 변형 물질이 조금이라도 포함된 가공식품은 유기농이란 표기를 할 수 없도록 규정한 조항을 재차 언급했다. 식품의약품안전청은 만일 세계적 표준이 고안된다면, 그들도 표기 기준의 변경을 고려할 거라고 덧붙였다. <WRAP center round tip 80%>//**2012년 2월 현재는 비의도적 함량 3% 미만은 GMO 표시의무제외이며, 간장 식용유 등 가공식품은 전면 표시대상제외**// “아직 까지는”에 왜 인용표시를 해서 강조했을까? 이 전문 내용인 통상현안 분기별 점검회의가 2006년 3월에 있었습니다. 이때까지는 GMO를 비의도적 GMO 혼입을 허용하지 않았는데, 2012년 2월 현재는 비의도적 함량 3% 미만은 표시의무제외이며, 간장 식용유 등 가공식품은 전면 **표시대상제외**입니다. 결과적으로 우리가 먹은 간장,식용유 대부분의 GMO란 얘기입니다. 그렇다면 GMO 수입 대국인 한국은 얼마나 많은 수입을 했을까요? 전체 옥수수의 50%, 콩의 78% 수입 //식약청, 2010, 8월 기준// 그 내용이 고스란히 담긴 EBS 동영상 약 4분가량 [[http://youtu.be/y9aN1VYx0Kw|지식채널ⓔ (739) GMO]] 영상입니다8-)
+</WRAP>
+===== 농업: 한국의 현안들 =====
+12. (민감하지만 미분류) 온주 밀감: 외교통상부 이 과장은 한국이 요청한 온주 밀감의 알래스카 진출의 추이에 관한 최신 정보를 물었다. 이 과장은 “실제 알래스카 수출 약속은 없었지만”, 이 문제가 한국의 FTA 이해 당사자들에게는 “중요한 상징성"을 띄게 되었다고 말했다. 미국정부의 동식물검역소 대표는 알래스카 수출 온주 밀감에 대한 위험평가를 완수하겠다는 미국측의 약속을 확인해줬다.
+
+13. (민감하지만 미분류) 삼계탕: 이 과장은 한국이 삼계탕 문제를 제기한지 12년이 되었다고 지적하면서, 국제수역사무국의 준칙에 보면 조리해 멸균 처리된 가금육을 허용하는데 미국은 이 건에서는 국제수역사무국의 준칙을 이용하지 않느냐고 했다. (배경 설명: 비록 한국이 삼계탕 미국 수출에 대한 관심을 1994년에 처음 제기했지만, 장황한 규제 상의 요구로 인해 해당 노력을 포기했었다. 한국이 2004년에 이 문제를 다시 제기했다.)이 과장은 쇠고기 무역에 대해선 미국은 국제수역사무국의 준칙을 따르라고 강조하면서 한국의 요구 사항인 삼계탕 미국 시장 수출에 대해선 국제수역사무국의 준칙을 따르지 않느냐고 지적했다. 이 과장은 이 쟁점이 한국 국회에서 논의된 사안이고, 또한 국회의원들은 미국의 현안 처리에 한국이 최선을 다해야 한다고 믿고 있는데 미국은 이에 화답이 없다고 했다. 키 과장은 한국에 중요한 쟁점 사안을 미국이 인지하고 있고, <wrap hi>실제 삼계탕 문제를 해결하기 위해 “최선을 다할”거라고 대답했다</wrap>.<WRAP center round help 80%>
+//**삼계탕, 미국·중국 수출 수개월째 감감…왜?**// 2009년 11월 16일 [[09seoul1813|미 대사관 전문]]에 보면 2009년에도 해결이 않되 장대평 장관이 따지는 내용이 나온다. 그 뒤에 농림수산식품부는 2013년 대미 삼계탕 수출 개시한다고 선전했지만, 2014년 현재도 [[http://agrinet.co.kr/news/news_view.asp?idx=118281&category1=%BC%F6%C3%E2&main_link=1|삼계탕, 미국·중국 수출 수개월째 감감…왜?]] //한국농어민신문//
+</WRAP>
+ 
+===== 규제문제 =====
+14. (민감하지만 미분류) 정보기술보안상품: 키 과장은 한국의 국정원이 지나치게 보호석인 정보기술규제를 고안했다는 사실에 심대한 우려를 제기했는데, 그렇게 함으로써 보안 장치가 포함된 미국의 정보통신 기술 상품 판매에 부정적인 영향을 끼치고 있다. 키 과장은 보안 장치가 포함된 정보통신 상품 조달 관련 한국정부 정책을 완결짓기에 앞서 미국정부가 제공하는 워싱턴 양국 브리핑에 참석할 것을 설득했다. 이에 대해, 국정원 대표는 계획된 3월 행사에 참석할 수 없다고 했지만, 4월 중에 방문은 가능할 것이라고 제시했다. 미국 대표단은 3월 말에 정보통신 보안 상품 지침을 어떻게 구현하느냐에 관련해 국정원이 “이행 매뉴얼”를 발표할 계획 중이기 때문에, 4월로 행사 일정을 변경하는 것은 너무 늦을 거라고 우려를 표명했다. 국정원은 워싱턴에 정보 브리핑에 참석한 이후로 “이행 매뉴얼” 배포를 연기해도 아무 문제가 없을 것이라고 대답했다.
+
+15. (민감하지만 미분류) 공통평가기준에((번역 주: 자세한 내용은 [[wp>Common_Criteria| 공통평가기준]]을 보라.)) 한국이 가입한 후로 한국정부의 정책이 소스코드 검토에 관련해서 공통평가기준 규정에 맞도록 변경될 예정이라고 국정원 대표는 말했다. (배경 설명: 공통평가기준 규정을 따르는 문제와 더불어서, <wrap hi>중요한 것은 민간 부분 금융회사가 국정원 시스템에 따라 철저한 점검을 받은 정보통신 보안 제품만을 구매하도록 금융감독원의 규제상에 요구되고 있다는 점이다</wrap>. 또한, 그 심사에 따라야 할 “정부 기관”의 범주와 관련된 우려 사안도 있다. 배경 설명 끝.)
+
+16. (민감하지만 미분류) 우정사업본부: 키 과장은 우정사업본부가 은행 및 보험 부문에 참여하는 문제는 한국에서 민감한 사항임을 미국 측이 파악했다고 서두를 꺼냈다. 그러나 미국 보험, 은행 그리고 금융 서비스 기업체들은 우정사업본부가 불공정하게 규제 상의 이점이나 실리적인 이점을 누리면서, 민간 업체를 희생양으로 삼아 그런 이점들을 (우체국이) 한국시장에서 앞서나가는데 이용하고 있다고 설명하였다. 우정사업본부는 한국의 공기업으로 한국 내 네 번째 큰 생명보험업자이고 여덟 번째 큰 은행이다. 키 과장은 2003년에 발표된 우정사업본부 민영화 대책반을 지정한다는 계획을 구현하는데 어떤 진전이 있는지 물었다.
+
+17. (민감하지만 미분류) 우체국 보험기획팀 강성태 과장은 우체국의 금융사업은 한국정부 사회복지제도의 “비영리” 부문이라고 방어하면서, 원래 한국 시골에 가난하고 외진 시골 인구를 도우려고 만들어졌다고 방어했다. 우체국은 실제 금융감독원이 아니라 정보통신부의 감독을 받고 있지만, 그점도 천천히 바뀌고 있다고 강 과장은 지적했다. 2005년 12월에 정보통신부가 금융감독원으로부터 감독 지원을 요청할 수 있도록 새 법안이 통과됐다. 우정사업본부의 민영화 여부는 2007년 이후로 다시 밀려났으며, 정보통신부와 금융감독원 간에 “그 시점 이후에는 협상 대상"이 될 것이다.
+
+18. (민감하지만 미분류) 한국 대표단의 단장인 이성호 과장은 미국과 한국 사이 우체국의 비 우편 사업에 대한 인식의 차이를 요약했다: “당신은 우체국 업무의 이런 측면을 금융 기관으로 생각하겠지만, 우리는 복지 제도의 방편으로 해당 사업을 생각하고 있다.” 그렇긴 하지만, 한국 측은 미국의 우려 사항을 인지하고 있고, 장래에 이 문제를 다시 다룰 것이라고 했다. 이에 대한 응대로, 키 과장은 미국의 우려는 순전히 통상에 제한한 논쟁에 근거를 둔 것임을 강조했다. 민간 금융 부문이 불공정한 경연장에서 우체국에 맞서 경쟁하고 있다. 민영화는 못되더라도 우체국이 최소한 민간 부문 은행, 보험 업체와 다르지 않게 금융 상품과 건전성 규제 대상이 돼야만 할 것이다.
+
+19. (민감하지만 미분류) 규제 개혁 협력: 키 과장은 진행 중인 규제 계획 점검의 일환으로 미 상공회의소와 미국 대사관이 함께하는 세부적인 의사소통을 위한 정기적인 채널 설치를 마다치 않은 한국 당국자들을 칭송하였다. 이에 응답으로 국무조정실 정상봉 과장은((번역 주: 이름은 ‘정상봉’이 맞으나 확인은 못했다. 국무조정실 과장은 맞는 것 같다.)) 협력은 지속되어야 한다고 말했다. 그러나 한국정부는 한미 통상정책과정의 일환이 아니라 규제 개혁상의 공헌 차원으로 협력을 견지한다고 강조했다.
+===== 의약품 및 의료기기 =====
+20. (민감하지만 미분류) 상무부 듀튼은 <wrap hi>2005년 분기별 점검회의 이후에 한국이 실행한 A7 가격 결정 검토에서 어떤 진척이 있는지 최신 정보를 요청하였다.</wrap> 보건복지부 보험급여과 박 과장은 보건복지부가 여전히 2000년 이후 만들어진 A7 가격 결정을 현재 검토하는 중이라며, 검토해야 할 많은 의약품과 많은 양의 자료가 있기 관계로 시간이 꽤 걸릴 거라고 말했다. 2005년 분기별 점검회의에서 보건복지부가 약속한 대로 박 과장은 검토가 완료되면, 문화부가 A7 가격 기준과 관련해 산업계와 협의할 예정이라고 말했다.<WRAP center round info 80%>//** ‘A7조정 평균값’→‘A7변동률’ 방식으로 변경되었나?**// …(중략) 약값 재평가 제도는 2002년 건강보험의 재정 악화를 줄이고 소비자 부담을 덜기 위해 도입된 것이다. 현행 약값 재평가는 3년마다 선진 7개국(A7)의 평균 도매 약값에 일정한 유통 이윤을 붙인 ‘A7조정 평균값’이 한국의 약값보다 싸졌을 경우 이에 맞춰 내리는 방식이다. 그러나 이는 A7조정 평균값이 한국의 약값보다 싸졌을 때만 약값을 내릴 수 있다는 한계가 있었다. 정부는 이에 따라 해당 약의 A7조정 평균값이 한국보다 비싸더라도 3년 동안 크게 떨어진 경우에는 그 비율만큼 한국에서 약값을 내리는 ‘A7변동률’ 방식을 적용한 개정안을 추진했다. ‘A7변동률’ 방식은 초기에는 약값이 비싸지만 시간이 지날수록 약값 하락률이 커지는 신약에 특히 불리한 제도여서, 신약 개발을 주도하고 있는 미국 등 다국적 제약업체들이 강하게 반발한 것으로 보인다. (중략)… [[http://www.hani.co.kr/popups/print.hani?ksn=106389|미국 압력에 ‘약값 인하’도 중단]] //한겨레// ←기사 제목과 내용 일부를 수정해야 한다. 동 기사 중간에 보면 …(중략) 미국 무역대표부(USTR)가 연방의회조사국(CRS)에 제출한 ‘한미 관계-에프티에이를 위한 협력·마찰·전망’ 보고서도 “2005년 10월 열린 한미 통상현안 점검회의에서 한국정부가 가까운 장래에는 <wrap hi>약값 재조정 제도</wrap>를 도입하지 않기로 미국 정부에 약속했다”고 밝힌 것으로 확인됐다.(중략)… 이 내용은 그냥 미 무역대표부의 일방적인 주장임이 동 전문에서 상술된 하이라이트 부분에 나와있다. 이런 부분이 신문을 읽는 독자가 간파하기 힘든 부분인 것이다.
+</WRAP>
+
+21. (민감하지만 미분류) <wrap hi>듀튼은 약제 가격과 급여비 결정에 대한 독립적인 재심 기구 설립 문제를 제기했다. 한국정부는 2005년 분기별 점검회의에서 그런 절차 개발에 대해 지지를 선언했었다.</wrap> 박 과장은 지난 분기별 점검회의 이후 독립적인 재심 제도 개발에서 실질적인 진척이 없었다고 대답했다. 그는 보건복지부가 내부적으로 여전히 어떤 일이 가능한지 검토 중이라고 말했다. 그러나 박 과장은 현재 약재비와 급여 결정에 대한 서면 증명을 위한 견본 체계 완성을 목전에 두고 있으며, 보건복지부는 조만간 산업계의 의견 개진을 위해 해당 서면 증명 내용을 곧 공유할 준비가 될 것이다. 키 과장은 보건복지부는 재심 제도 개발에((번역 주: 결국 독립적 재심 기구가 한미 FTA안에 포함되게 되었다. 약값 및 보험료 급여에 제약업체가 개입하게 된 것이다. [[pharmaceuticals#주요_문제| 미 의회 조사국 보고서 해당 내용을 참조하라]] 미국 땅에선 해당사항 없다.[추적 60분 참조 링크를 보라])) 박차를 가해야 하며, 그 과정 전반에서 산업계와 긴밀하게 협력해야 한다고 강조했다.
+
+22. (민감하지만 미분류) 듀튼은 미국 업체가 개발한 신경병증의 고통 관련 의약품 리리카의 (급여비 관련) 상태와 대해 묻으며, 특히 급여비 지침이 설정되었는지 특정해 질의했다. 박 과장은 리리카는 3월 1일 이후로 급여 대상이 되었으며, 관련 과정에 검토가 계속되고 있다고 했다. 박 과장은 더 자세한 사항은 미국 회사와 “우리 측”의 해당 기관에서 다루어질 것이라고 대답했다.
+
+23. (민감하지만 미분류) 정해진 안건에서 벗어나, 키 과장은 최근 보건복지부가 국민건강보험의 급여목록에 대한 “선별 등재(포지티브 리스트)” 시스템으로 전환할 것을 고려 중이란 보건복지부의 발표에 대해 최근 산업계의 우려를 제기했다. 보건복지부는 그러한 선별등재시스템을 언제 어떻게 구현할지 구체적인 결정이 나지 않았다고 응답했다. 보건복지부는 급여대상품목에서 많게는 2만 개의 약재가 중복되는 기능 및 효능을 갖고 있어, 제도 관리상에 불필요한 혼선을 준다고 설명했다. 박 과장은 선별 등재 시스템이 어떤 특정 기업에 불이익을 줄 것으로 믿지 않는다고 덧붙였다. 그러나 보건복지부는 그런 제도 변경은 모든 업체에 미칠 영향을 인지하고 있기 때문에, 보건복지부는 산업계와 긴밀히 협의할 계획이라고 미국 측을 안심시켰다. 키 과장과 경제 공사 참사관은 “포지티브 리스트” 급여 제도로 전환한다는 여하한 구체적 계획은 의약품 수입업자들에겐 극심한 걱정거리임에 틀림없다고 분연히 강조했다.
+
+24. (민감하지만 미분류) 의료 기기: 듀튼은 의료기기에 대한 급여 정책 문제를 제기하면서, 저번 분기별 점검회의에서 제공된 산업계 백서를 살펴보았는지 물었다. 동 문서는 대부분의 경우에 수입된 의료기기가 국내 제작된 기기보다 더 낮은 급여비를 받고 있음을 보여준다. 보건복지부 통상협력담당관 배 과장은 그 사항은 의제에 포함되지 않은 관계로 보건복지부는 그 질문에 대한 대답 준비를 할 수 없었기에 이번에 응답할 수 없다고 대응했다. 듀튼은 의료 기기에 대한 보건복지부의 새 급여 지침에 대한 최신 정보를 요구했다. 배 과장은 지침내용은 실상 새로운 것이 아니며, 현존하는 지침서에서 “공식화”된 것이라고 했다. 배 과장은 보건복지부는 급여 지침을 연구하는 대책반을 만들 것이며 5월 중에 첫 대책회의를 소집할 계획이라고 말했다.
+===== 지적재산권 =====
+25. (민감하지만 미분류) 키 과장은 한국에서 지적재산권 단속을 개선하는 일은 오랜 세월 중요한 쟁점이었음을 강조했다. 그러나 모든 지적 재산권이 중요하지만, 지재권 보호에 단 두 가지 측면 만을 이번 분기회의 중에 논의할 예정이다. 두 가지는 금지명령구제의 미흡, 그리고 한국특허청의 결정을 특허 법원이 번복하면서 특허권자에게 끼친 피해이다.
+
+26. (민감하지만 미분류) 미국 측은 한국 당국이 행정적인 창구인 한국특허청을 통한 특허권 분쟁에서 금지명령구제를 제공할 수 없는 것인지(하지 않는 것인지) 산업계 불만 건수가 갈수록 늘고 있다며 우려를 표명했다. 비슷하게 심지어 권한 당국이 존재함에도 한국 민사 법원은 금지명령구제를 전혀 제공하지 않는 것처럼 보인다. 키 과장은 미국 기업들은 특허권 분쟁 중에 보호를 받지 못하고 있다고 우려를 표명했는데, 그 이유는 특허 위반자가 문제의 침해 행위 지속을 금하지 않기 때문이다. 금지명령구제가 없는 상황에서는 하급심에서 특허권 보호에 유리한 결정이 나와도 피고가 자신의 특허침해행위를 계속하기 위해서 단순히 진정을 내었다는 사실만으로 해당 보호조치가 종종 무효가 된다고 그는 지적했다. 키 과장은 한국정부의 “지적재산권 종합추진계획” 상에 한가지 수정을 포함해 달라고 한국 대표단에 당부했는데, 이는 최소한 특허권에 관련된 사건 만큼은 금지명령구제 발동하도록 한국의 행정 법원에 권한을 위임하는 필요한 관련 법령을 만들라는 내용이다.
+
+27. (민감하지만 미분류) 이에 대한 응대로 한국특허청 대표는 미국의 우려 사안이 금지명령구제를 이용할 수 없다는 것인지, 아님 제공되지 않았다는 뜻인지 해명을 요청했다. 미국정부는 두 가지 다 걱정하고 있다고 미국 대표단은 대답했을 때, 한국 대표단은 한국의 특허제도가 미국의 제도와 거의 동일하다고 설명하면서, 특허법원은 금지명령구제를 발동할 권한이 없다고 단언하였다. 그 말은 대사관 조사 내용이 반대이고, 특허 분쟁에 미국의 이해를 대변하는 한국 법률 사무소의 조사가 시사하는 점과도 반대이다. 양측은 해당 문제의 추가적 연구를 진행해 다음 분기별 점검회의에서 문제를 제기하기로 했다.
+===== 다른 현안들 =====
+28. (민감하지만 미분류) 간호사 대상 비자: 외교통상부 이성호 과장은 H1-B 비자 쿼터와 H1-C 분류에서 대도시를 제외한 점이 한국 간호사가 미국서 일하기 위해 미국 취업 비자를 획득하는 데 문제를 발생한다고 설명했다. 이 과장은 H1-B 및 H1-C 요건에 변경을 촉구하면서, 한국정부는 이 문제를 한미 FTA에 포함하고 싶다고 말했다. 키 과장은 미 무역대표부는 비자 문제에 권한을 갖고 있지 않으며, 미 의회만이 비자 요건을 변경하는 권한을 보유하고 있다고 설명했다. 대사관 직원은 휴스턴 주재 한국 총영사관이 비자 문제에 관련해 텍사스 주 의회 사무실과 협력하고 있다고 지적했고, 그 창구를 통해서 문제를 계속 도모하라고 촉구했다. 이 과장은 비자 문제는 양측에게는 “윈윈”하는 것이고, 그렇게 함으로 미국은 질 높은 간호사를 얻어 늘어나는 수요를 충족하고, 한국민은 그러한 움직임을 긍정적인 시선으로 보게 될 거라고 결론지었다.
+
+29. (민감하지만 미분류) 다이아몬드 톱날 반덤핑 조사: 이 과장은 한국정부는 한국의 다이아몬드 톱날 제조사에 대한 처분이 중국과 비교해서 부당한 일로 여기고 있는 점을 미국 정부가 주의해 달라고 요청하였다. 이 과장은 또한 미국정부의 반덤핑 절차를 통과하는 일이 대부분이 영세 혹은 중소기업인 한국 제조사엔 고된 일이라고 역시 지적하였다.
+버시바우
+[[https://sites.google.com/site/poirotkr/1/06seoul864|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 참조 링크 =====
+  - [[09seoul1813|제 목:장대평 농림수산식품부 장관, 고위급 협의와 삼계탕 문제 진전 촉구]]
+  - [[http://youtu.be/y9aN1VYx0Kw|지식채널ⓔ (739) GMO]]//왜 문제인가? 꼭 봐보세요★★//
+  - [[http://www.hani.co.kr/popups/print.hani?ksn=106389|미국 압력에 ‘약값 인하’도 중단]]//한겨레//
+  - [[http://newsface.kr/news/news_print.htm?news_idx=4097|송기호 “美, 자기들 법 안 맞는 한미FTA는 무효로 규정”]]//뉴스페이스//
+  - [[http://www.newswire.co.kr/newsRead.php?no=253226|문화관광부, 한미 FTA 협정문상 저작권 신규 쟁점 사항 관련 설명]]//뉴스와이어//
+  - [[http://article.joinsmsn.com/news/option/article_print.asp?ctg=13&total_id=2529731|몬태나 한·미 FTA 협상 주변에서 이런 일이 …]]
+  - [[http://www.pressian.com/article/article_print.asp?article_num=30060402124536|통상교섭본부는 '소가 웃을 주장' 하지 말라]]
+  - [[http://dric.sookmyung.ac.kr/fdd/fdd.html|의약품정보 검색]]
+  - [[http://weekly.khan.co.kr/khnm.html?mode=view&artid=14156&code=115&s_code=ns016|[우정이야기]FTA폭풍 비껴간 우체국보험]]//주간경향//
+===== 원본 다운로드 =====
+<code - 06SEOUL864.rtf>
+UNCLAS SEOUL 000864 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+PASS USTR FOR CUTLER, AUGEROT AND KI 
+STATE FOR EAP/K AND EB/TPP/BTA 
+COMMERCE FOR 4431/ITA/MAC/EAP/DUTTON 
+USDA FOR APHIS/ALFALLA 
+USDA ALSO FOR FAS/ITP/CLAUS AND GRUNENFELDER 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD [Foreign Trade], ECON [Economic Conditions], KS [Korea (South)] 
+SUBJECT: MARCH 2006 QUARTERLY TRADE MEETING: AGENDA-SETTING 
+ 
+ 
+SUMMARY 
+------- 
+ 
+¶1. (SBU) The first Quarterly Trade Meeting (QTM) for 2006 
+was held in Seoul on March 3.  While there were no 
+breakthroughs, the meeting was constructive and identified 
+no new problems.  The Korean government indicated a 
+willingness to address USG concerns, including a potentially 
+serious problem related to government regulation of secure 
+software sales.  The U.S. delegation flagged the 
+unhelpfulness of Korean courts' unwillingness to provide 
+injunctive relief, especially in cases related to patents 
+and IPR.  Our long-standing broadcasting and pharmaceuticals 
+pricing and reimbursement concerns were discussed in some 
+detail, but will henceforth be handled in the FTA 
+negotiations.  We received repeated calls for concessions on 
+issues holding symbolic value for the Korean government, 
+especially unshu oranges and ginseng chicken soup.  The 
+Korean government committed to continue the QTM process 
+throughout this year's FTA neotiations, but sought to 
+tamper USG expectations concerning the amount of attention 
+the QTM would receive given the heavy FTA workload. End 
+Summary. 
+ 
+¶2. (U) The U.S. delegation was led by USTR Senior Director 
+for Korea Scott Ki, who was accompanied by Jeffrey Dutton 
+from Commerce, Cheryl Claus from USDA and Steven Chan from 
+State.  Roughly twenty Embassy staff participated in various 
+segments of the four-hour QTM discussion.  The Korean 
+delegation was led by MOFAT North American Trade Division 
+Director Lee Seong-ho, who was supported by colleagues from 
+MOFAT, Ministry of Finance and Economy (MOFE), Ministry of 
+Agriculture and Forestry (MAF), Ministry of Information and 
+Communication (MIC), Ministry of Health and Welfare (MHW), 
+Korean Intellectual Property Office (KIPO), Korea Food and 
+Drug Administration (KFDA), Korean Broadcasting Commission 
+(KBC) and other ROKG offices.  MOFAT and USTR have 
+temporarily shifted their leads for the QTM from the 
+Director-General level to the Director level for the 
+duration of the U.S.-Korea FTA negotiations. 
+ 
+¶3. (SBU) The QTM agenda comprised: 
+ 
+-- Agriculture: Follow-up on access for beef including non- 
+beef ruminant products; concerns related to implementation 
+of the WTO rice agreement; threshold levels for adventitious 
+presence of genetically modified organisms (GMOs) in 
+processed organic foods; 
+ 
+-- Regulatory Issues: Regulation of sales of secure 
+software; Korea Post insurance regulation; dubbing and 
+advertising restrictions in satellite retransmissions; 
+cooperation with Regulatory Reform Committee; 
+ 
+-- Pharmaceuticals and Medical Devices: Update on MHW review 
+of A7 pricing decisions and progress toward identifying core 
+criteria for pricing decisions; follow-up on MHW plans to 
+work with industry to develop independent appeals system and 
+improved written justification for pricing decisions; Lyrica 
+reimbursement guidelines; follow-up on the industry paper on 
+reimbursement rates of medical devices submitted to the ROKG 
+in previous QTM; clarification on reimbursement guidelines; 
+ 
+-- Intellectual Property Rights: Patent infringement cases 
+and lack of injunctive relief; KIPO decisions being 
+overturned by Patent Court; 
+ 
+-- Korean Issues: Unshu oranges; ginseng chicken soup; visas 
+for Korean nurses working in U.S. hospitals; and diamond saw 
+blade U.S. anti-dumping investigation. 
+ 
+CONTINUING THE QTM PROCESS: DIFFICULT, BUT NECESSARY 
+--------------------------------------------- ------- 
+ 
+¶4. (SBU) The formal discussions were preceded by a courtesy 
+call on MOFAT Director-General for Bilateral Trade Lee Geun- 
+tae.  DG Lee expressed satisfaction with the handling of 
+events leading up to the announcement of FTA talks on 
+February 2.  Lee confirmed that MOFAT is happy to maintain 
+the QTM process, despite the human resource cost, as it 
+provides a useful, parallel process to resolve trade 
+concerns that might not fit into the context of upcoming FTA 
+negotiations.  Lee cited the example of the stalled Korea- 
+Japan FTA negotiations; Japan and Korea suspended their 
+periodic bilateral trade discussions with the advent of 
+those negotiations, and now both sides are struggling to 
+resume non-FTA trade discussions.  Acknowledging the strain 
+that would be placed upon both ROKG and USG resources in 
+maintaining the QTM and FTA processes simultaneously, Ki 
+explained that the USG will remain flexible on the venue and 
+manner of future QTM discussions, perhaps arranging them 
+around the margins of future FTA rounds. 
+ 
+AGRICULTURE 
+----------- 
+ 
+¶6. (SBU) To open discussion at the QTM meeting itself, each 
+side acknowledged both the importance of the upcoming FTA 
+negotiations, and the progress made on key trade issues 
+leading up to the FTA announcement -- including beef, screen 
+quotas, and automobiles.  Director Lee thanked the U.S. for 
+resolving the longstanding issue of access for Korean 
+paprika (peppers) to the U.S. market. 
+ 
+¶7. (SBU) Beef: Ki thanked Korea for the progress made so far 
+on the resumption of beef exports to Korea.  He also noted 
+the importance of cooperating closely to arrange for the 
+auditing of U.S. meat processing plants by Korean experts, 
+and urged Korea to begin the audits as soon as possible.  In 
+addition, Ki noted that Charles Lambert, Acting Under 
+Secretary for Marketing and Regulatory Programs at USDA, was 
+ 
+SIPDIS 
+expected to come to Korea on March 6 to clarify the audit 
+process.  Director Lee acknowledged that there had been some 
+delay in arranging the audits due to "administrative" 
+issues.  He indicated that Korea wished to take a step-by- 
+step approach since there was still some concern on the part 
+of Korean consumers about the safety of U.S. beef. 
+ 
+¶8. (SBU) Rice: Ki thanked the Korean side for completing the 
+U.S. portion of the 2005 minimum market access rice tenders 
+and asked for details on the 2006 tenders.  Lee Seong-ho 
+responded that the 2006 tenders would be drawn up based upon 
+the results of the 2005 tenders, for all countries, a task 
+which has not yet been completed.  Yoon Dong-Jin, Director 
+of MAF's Bilateral Cooperation Division, asked that the 
+United States be patient, since this will be the first time 
+that foreign rice will be available to the Korean consumer. 
+Ki pressed for a possible timeline for the 2006 tender, and 
+the Korean representatives at the QTM responded by 
+reiterating that the 2005 tender process must be completed 
+before a timeline can be set. 
+ 
+¶9. (SBU) Ki noted USG concerns about the terms of the 2005 
+tender, in which nearly 95 percent of the U.S.-specific 
+quota called for "U.S. Grade 3 or better" quality rather 
+than "U.S. Grade 1" quality.  Ki explained that the United 
+States produces little, if any, Grade 3 quality rice.  U.S. 
+exporters had no choice but to submit bids for Grade 1 rice, 
+which raised the risk that the bids might be rejected by 
+Korea due to the higher price.  Ki also asked for 
+clarification regarding the mechanism Korea uses to 
+determine price ceilings on tendered rice. 
+ 
+¶10. (SBU) MAF's Director Yoon acknowledged the U.S. 
+concerns, but stated that individual country concerns would 
+not be addressed until the Korean consumer response to the 
+imported rice could be gauged.  MOFAT Director Lee reassured 
+Ki that MOFAT recognizes that it would not be to Korea's 
+benefit to allow the United States' country-specific quota 
+to revert to global quota.  Lee underlined Korea's 
+commitment to the issue, and stated that he did not 
+anticipate any problems in filling the country specific 
+quota for the United States.  Ki asked if U.S. rice would 
+have to be labeled as "Grade 3 or better," or if it could be 
+labeled as "Grade 1" quality.  After first suggesting that 
+there were no labeling requirements, the Korean delegation 
+clarified that labeling requirements would be based on the 
+terms included in the tender.  Yoon stated that it would be 
+difficult to change the labeling requirements specified in 
+the tender invitation for the 2005 quota, but said that the 
+U.S. concerns would be taken into account for 2006 quota. 
+ 
+¶11. (SBU) Adventitious Presence of GMO's: Commenting on U.S. 
+concerns that Korea's current regulations allow no tolerance 
+for adventitious presence of genetically-modified (GM) 
+material in processed organic food producQ, MOFAT's 
+Director Lee and representatives of KFDA (which handles 
+processed organic food issues) stated that there are 
+currently no plans to change Korea's system "so far."  They 
+added that Korea is considering Qplementation of a process- 
+based organic certification process in the near future. 
+KFDA officials also reiterated that regulations stipulate 
+that processed food can not be labeled as organic if it 
+contains any traces of GM material.  KFDA added that if a 
+global standard were to be devised, they would consider 
+revising their labeling criteria. 
+ 
+AGRICULTURE: KOREAN CONCERNS 
+---------------------------- 
+ 
+¶12. (SBU) Unshu Oranges: MOFAT Director Lee asked for an 
+update on the status of Korea's request for access for 
+Korean unshu oranges to Alaska.  Lee said while there is "no 
+real commitment to export to Alaska," this issue has become 
+a "symbolic importance" for the Korean FTA stakeholders. 
+The USG APHIS representative confirmed our commitment to 
+complete the risk assessment for unshu oranges to Alaska. 
+ 
+¶13. (SBU) Ginseng Chicken Soup: Director Lee pointed out 
+that it has been 12 years since Korea first raised the issue 
+of Korean ginseng chicken soup, stating that although the 
+World Organization for Animal Health (OIE) guidelines permit 
+the trade of cooked, sterilized poultry meat, the United 
+States is not using the OIE guidelines in this case. 
+(Background Note: Although Korea first raised its interest 
+in exporting ginseng chicken soup to the United States in 
+1994, it abandoned its efforts due to lengthy regulatory 
+requirements.  Korea raised the issue again in 2004). 
+Director Lee pointed out that the United States emphasizes 
+following OIE guidelines for the beef trade, but has not 
+followed OIE guidelines in the case of Korea's request to 
+export ginseng chicken soup to U.S. markets.  Lee added that 
+this issue had been discussed in Korea's National Assembly 
+and that Assembly members believe Korea to be trying its 
+best to address U.S. concerns, but that the U.S. is not 
+reciprocating.  Ki replied that the United States recognized 
+the importance of the issue to Korea and that we would 
+indeed "do our best" to resolve the ginseng chicken soup 
+issue. 
+ 
+REGULATORY ISSUES 
+----------------- 
+ 
+¶14. (SBU) Information Technology Security Products: Ki 
+outlined grave USG concerns over the fact that Korea's 
+National Intelligence Service (NIS) has drafted overly- 
+protective information technology regulations, which is 
+negatively affecting sales of U.S. I.T. products containing 
+security features.  Ki urged NIS officials to attend 
+bilateral briefings in Washington offered by the USG, before 
+finalizing relevant ROKG policies on government procurement 
+of I.T. products containing security features.  In response, 
+an NIS representative stated that NIS representatives could 
+not attend the March session as planned, but indicated that 
+a trip in April would be possible.  The U.S. delegation 
+raised concerns that, since NIS was planning to issue its 
+"implementation manual" regarding how to properly implement 
+I.T. security product guidelines at the end of March, 
+rescheduling the session to April would be too late.  NIS 
+replied that it would be no problem to delay release of its 
+"manual" until after it had attended the information session 
+in Washington. 
+ 
+¶15. (SBU) The NIS representative also said that following 
+Korea's accession to the Common Criteria Recognition 
+Arrangement (CCRA), ROKG policies would be changed to be 
+made in line with CCRA tenets concerning source code review. 
+(Background Note: In addition to the question of following 
+CCRA tenets, also important are the Financial Supervisory 
+Service's regulations requiring that private sector 
+financial firms only purchase IT security products that have 
+been vetted according to the NIS system.  There also 
+continue to be concerns related to the breadth of the 
+"government agencies" that should abide by the program.  End 
+Background Note.) 
+¶16. (SBU) Korea Post: Ki prefaced that the U.S. side 
+realizes that the issue of participation by Korea's post 
+office in the banking and insurance sectors remains a 
+delicate one for Korea.  But he explained that U.S. 
+insurance, banking and financial services firms continue to 
+complain that Korea Post enjoys unfair practical and 
+regulatory advantages, and uses those advantages to advance 
+in the Korean market at the expense of private providers. 
+Korea Post, a Korean government enterprise, is now the 
+fourth-largest life insurer and eighth-largest banking 
+entity in Korea.  Ki asked what progress had been made in 
+implementing the plan to appoint a Task Force to explore 
+Korea Post's privatization, which had been announced in 
+2003. 
+ 
+¶17. (SBU) Deputy Director Kang Sung-tae of Korea Post's 
+Postal Insurance Planning Division defended the postal 
+service's financial businesses as a "not-for-profit" part of 
+the ROKG social welfare system, originally set up to assist 
+Korea's urban poor and far-flung rural populations.  Kang 
+indicated that while Korea Post is indeed supervised by the 
+Ministry of Information and Communications (MIC) rather than 
+the Financial Supervisory Service (FSS), this was slowly 
+changing.  In December 2005 a new law was passed that allows 
+MIC to request oversight assistance from the FSS.  The 
+timeline to explore any privatization of Korea Post, 
+however, has been pushed back until after 2007, and would be 
+"subject to negotiations after that time" between MIC and 
+the FSS. 
+ 
+¶18. (SBU) Korean Head of Delegation Lee Seong-ho summed up 
+the difference between U.S. and Korean perceptions of Korea 
+Post's non-postal businesses: "You think of this side of 
+Korea Post's work as a financial institution, while we think 
+of it as a part of our welfare system."  That said, Lee 
+indicated the Korean side had taken notice of U.S. concerns 
+and would revisit the issue in the future.  Ki, in response, 
+underscored that U.S. concern is based on a solid trade- 
+limiting argument.  Korea Post competes against the private 
+sector on a non-level playing field.  Short of 
+privatization, at a minimum, Korea Post should be subject to 
+the same product and prudential regulations as private 
+sector banking and insurance institutions. 
+ 
+¶19. (SBU) Regulatory Reform Cooperation: Ki applauded Korean 
+officials for their willingness to set up a regular channel 
+for detailed communication with the American Chamber of 
+Commerce in Korea and the U.S. Embassy, as part of the 
+ROKG's ongoing regulatory reform review.  In response, 
+Government Policy Coordination Deputy Director Jung Sang- 
+bong said that cooperation should continue.  But he also 
+stressed that the ROKG views the cooperation as a 
+contribution to regulatory reform, rather than as a part of 
+the U.S.-Korea trade policy process. 
+ 
+PHARMACEUTICALS AND MEDICAL DEVICES 
+----------------------------------- 
+ 
+¶20. (SBU) DOC Dutton asked for an update on any progress 
+Korea has made in carrying out its review of A7 pricing 
+decisions, following the October 2005 QTM.  MHW Health 
+Insurance Reimbursement Division Director Park said that his 
+ministry is currently still reviewing the A7 pricing 
+decisions made since 2000, but said the process would take 
+some time since there are many products and a large amount 
+of data to review.  As promised by MHW at October 2005 QTM, 
+Director Park said that once the review was complete, MHW 
+would consult with industry concerning A7 pricing criteria. 
+ 
+¶21. (SBU) Dutton also raised the issue of setting up an 
+independent appeals process for pricing and reimbursement 
+decisions.  The ROKG had declared its support of developing 
+such a process at the October 2005 QTM.  Park replied that 
+there has been no substantive progress since the last QTM in 
+developing an independent appeals system.  He said that MHW 
+was still reviewing internally what could be done.  Park 
+assured Ki, however, that MHW was currently close to 
+completing a template for a written justification for 
+pricing and reimbursement decisions that the ministry would 
+soon be ready to share with industry for comments.  Ki 
+emphasized that MHW should expedite its development of the 
+appeals system and work closely with industry throughout the 
+process. 
+ 
+¶22. (SBU) Dutton also asked about the status of Lyrica, a 
+neuropathic pain medication developed by a U.S. company, 
+specifically inquiring about whether reimbursement 
+guidelines had been set.  Park said that Lyrica has been 
+eligible for reimbursement since March 1, and that there is 
+a continuing review of related processes.  Park replied that 
+any further details will be handled by the U.S. company and 
+the corresponding organization "on our side." 
+ 
+¶23. (SBU) Departing from the set agenda, Ki raised recent 
+industry concerns about MHW's announcement that it was 
+considering a switch to a "positive list" system for the 
+National Health Insurance's reimbursement list.  MHW 
+responded that there had been no concrete decision made on 
+when or how to implement such a positive list system.  MHW 
+explained that many of the over 20,000 drugs on the 
+reimbursement list had overlapping functions and efficacies, 
+and needlessly complicated management of the system.  Park 
+added that he did not believe a positive list system would 
+disadvantage any specific company.  However, since MHW 
+recognizes that such a switch would affect all companies, he 
+assured us that MHW planned to consult closely with 
+industry.  Ki and EconMinCouns emphasized strongly that any 
+concrete plan to switch to a "positive list" reimbursement 
+system was certain to intensively worry pharmaceuticals 
+importers. 
+ 
+¶24. (SBU) Medical Devices: Dutton also raised the issue of 
+reimbursement policies for medical devices, asking if the 
+Korean side had looked into the industry paper -- provided 
+at a previous QTM -- that showed that in most instances 
+imported medical devices receive a lower reimbursement rate 
+than domestically-manufactured ones.  MHW Trade Cooperation 
+Division Director Bae responded that since this item had not 
+been included on the agenda, MHW had not been able to 
+prepare an answer to this question and could therefore not 
+respond at this time.  Dutton asked for updates on MHW's new 
+reimbursement guidelines for medical devices. Bae noted that 
+the guidelines were in fact not new, but were made 
+"official" from the existing guidelines. Bae said MHW will 
+create a task force to study the reimbursement guidelines 
+and plas to convene the first task force meeting in May. 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+---------------------------- 
+ 
+¶25. (SBU) Ki emphasized to the ROKG delegation that 
+improving IPR enforcement in Korea has been an important 
+issue for a long time.  However, while all intellectual 
+property issues are important, only two aspects of IPR 
+protection would be discussed during this session of the 
+quarterlies -- the lack of injunctive relief, and the harm 
+caused to patent holders by the Patent Court overturning 
+KIPO rulings. 
+ 
+¶26. (SBU) The U.S. side expressed concern about an 
+increasing volume of industry complaints that Korean 
+authorities could not (or would not) provide injunctive 
+relief in patent disputes through administrative channels, 
+such as the Korea Intellectual Property Office.  Similarly, 
+Korean civil courts appear to never provide injunctive 
+relief, even though that authority exists.  Ki expressed 
+concern that U.S. companies were not being protected during 
+patent disputes because the alleged infringers were not 
+being prohibited from continuing the action in question. 
+Absent injunctive relief, he pointed out that even when 
+protection was afforded by a favorable decision at lower 
+levels, that protection was often negated by the fact that 
+the defendant merely had to file an appeal in order to 
+continue the infringing behavior.  Ki encouraged the Korean 
+delegation to consider including a fix in the ROKG's "IPR 
+Master Plan," constructing the relevant statutes necessary 
+to authorize Korea's administrative courts -- at least in 
+cases related to patents -- to issue injunctive relief. 
+ 
+¶27. (SBU) In response, a KIPO representative asked for 
+clarification whether our concern was that injunctive relief 
+was not available, or that it was not given.  When the U.S. 
+delegation replied that the USG was concerned about both, 
+the Korean delegate described the Korean patent system as 
+being the same as in the United States, and asserted that 
+the Patent Court does have the authority to order injunctive 
+relief.  This is contrary to what Embassy research -- and 
+that of Korean law firms representing U.S. interests in 
+patent disputes -- indicates.  Both sides undertook to 
+research the matter further and to raise the issue in 
+subsequent meetings. 
+ 
+OTHER ISSUES 
+------------ 
+ 
+¶28. (SBU) Visas for Nurses: MOFAT Director Lee noted that H1- 
+B visa quotas and the exclusion of big cities from the H1-C 
+category create problems for Korean nurses in obtaining 
+visas to work in the U.S.  Lee urged changes in the H1-B and 
+H1-C requirements, and said that the ROKG would like to see 
+this issue included in the FTA negotiations.  Ki explained 
+that USTR does not have authority in visa issues and that 
+only Congress has the authority to make changes in visa 
+requirements.  Embassy staff noted that the Korean Consulate 
+General in Houston has been working with Congressional 
+offices in Texas on the visa issue, and urged them to 
+continue working on this issue through that channel. 
+Director Lee concluded that the visa issue is a "win-win" 
+situation for both sides, whereby the U.S. gets qualified 
+nurses to meet a growing demand and the Korean public would 
+view such a move in a positive light. 
+ 
+¶29. (SBU) Diamond Saw Blade Anti-Dumping Investigation: 
+Director Lee asked that the USG take note that the Korean 
+government considers our treatment of Korean manufacturers 
+of diamond saw blades to be unfair, compared to China.  Lee 
+also noted in passing that USG anti-dumping procedures are 
+onerous for ROK manufacturers, most of which are small or 
+medium-sized enterprises. 
+ 
+VERSHBOW
+</code>

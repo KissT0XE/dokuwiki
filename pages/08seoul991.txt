@@ -1,0 +1,43 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL991  |  2008-05-15 04:25  |  미분류  |  주한미국대사관  |  {{tag>KDEM PHUM PREL EUN CU KS }}  |
+====== 제 목: 5월 21일 쿠바인 연대의 날 ======
+  * 미분류 SEOUL 000991 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 행정명령 12958: 해당없음((N/A))
+  * 태그: KDEM(([Democratization])), PHUM(([Human Rights])), PREL(([External Political Relations])), EUN(([European Union])), CU(([Cuba])), KS(([Korea (South)]))
+  * 제 목: 5월 21일 쿠바인 연대의 날
+
+  * 참조: SECSTATE 45792 
+  * 참조하는 전문: [[08seoul1008|08SEOUL1008]], [[08seoul1371|08SEOUL1371]]
+  * 변역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/22 02:12//
+1. (미분류) 5월 14일 이용준 외교부 차관보와 함께한 회동에서, 미 대사관 공관차석은 외교통상부가 쿠바인 연대의 날을 홍보해달라고 강력히 촉구하며 참조전문의 논지를 전달하였다. 이용준은 쿠바에 관한 한국정부의 입장은 미국정부의 입장에 매우 가깝다. 남한은 쿠바와의 관계를 절대 정상화하지 않을 것이다; 이스라엘과 미국은 마찬가지로 쿠바와 국교 정상화를 하지 않은 유일한 나라다. 이용준은 한국정부가 쿠바인 연대의 날을 홍보할 수 있는 방법에 대해 자신의 동료들과 논의할 거라고 말했지만, 이 사안에 대해 국민적 관심이 전혀 없다고 지적하였다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul991|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.jabo.co.kr/sub_read.html?uid=24789|ARF '망신외교' 실무 책임자는 '이용준 차관보']]  //대자보//
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000904276|오늘 '쿠바인 연대의 날'에 즈음하여]] //오마이뉴스―버시바우 대사 기고문//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL991.rtf>
+UNCLAS SEOUL 000991 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KDEM, PHUM, PREL, EUN, CU, KS 
+SUBJECT: MAY 21 - DAY OF SOLIDARITY WITH THE CUBAN PEOPLE 
+ 
+REF: SECSTATE 45792 
+ 
+(U) In a May 14 meeting with ROK Deputy Foreign Minister Lee 
+Yong-joon, DCM conveyed reftel points, strongly urging MOFAT 
+to promote Cuba Solidarity Day.  Lee said that ROKG's 
+position on Cuba was very close to that of the USG.  South 
+Korea never normalized relations with Cuba; Israel and the 
+U.S. are the only other countries similarly without normal 
+relations with Cuba.  Lee said he would discuss with his 
+colleagues on how the ROKG could promote Cuba Solidarity Day, 
+but noted that there was no public interest in this issue. 
+VERSHBOW
+</file>

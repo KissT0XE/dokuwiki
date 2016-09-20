@@ -1,0 +1,149 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL3191  |  2007-10-26 06:59  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 법원 판결, 성희롱을 근절하려는 법적 노력에 찬물 끼얹어 ======
+  * 기 밀 SEOUL 003191 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 12/10/2014 
+  * 태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+  * 제 목: 법원 판결, 성희롱을 근절하려는 법적 노력에 찬물 끼얹어
+  * 분류자: 정치 참사관 조셉 윤((POL Joseph Y. Yun.))   근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/07/11 02:44//
+===== 요점 =====
+1.(기밀) 요점: 한국정부는 성희롱 문제를 해결하는데 일부 진전을 이루었지만, 최근의 유죄선고를 뒤집은 여러 판결은((번역 주: 서울행정법원이 2004년 2월 “사회공동체의 건전한 상식과 관행으로 볼 때 술자리에서 지켜야 할 예절로서 아랫사람이 윗사람에 대한 술 따르기로 보고 용인될 수 있다”고 판결한 것을 말한다. 해당 여교사가 계속 항소를 제기했으나 2005년 5월 서울고등법원도, 2007년 6월 대법원도 원고 패소판결을 내렸다―성희롱예방교육센터 사이버연수원)) 직장에서 여성을 비하하는 행위에 대한 사회 전반의 문화적 관용을 돌아보게 한다. 얄궂게도 원고나 다른 여성 동료가 가해자의 입장에서 로비를 한 이후에 상당수의 판결들이 뒤집혔다. 노동인구상에 여성의 수가 증가함에도 불구하고, 한국의 성별권한척도는((번역 주: gender empowerment measure, GEM))―여성의 정치·경제 참여 및 경제적 자원에 대한 권한을 측정―경제협력개발기구 국가들 중에서 두 번째로 낮은 등급의 국가로 한국이 평가되었는데, 유일하게 터키를 제꼈다. 양성평등이란 쟁점의 진척은 한국이 줄고있는 인구에 대처하고, 선진국가 위상을 굳히기 위해 애쓰는 상황에서 느리긴 하지만 필요한 과정이다. //요점 끝.// 
+===== 간단한 연혁 =====
+2.(민감하지만비분류) 한국은 1987년 고용평등을 보장하는 최초의 법을 통과시켰다. 『남여고용평등법』은 성희롱을 방지하도록 하는 고용자의 책임을 설명하고있다. 1993년 서울대학교 조교로 일하던 여학생이 한국에서 성적차별을 인권의 침해로써 인정하는 첫 소송에서 승소했다.이 소건은 성희롱을 사회적인 이슈로써 조명하는데 도움이 되었지만, 법률은 그에 못 미치고 있다. 1999년에 국회는 『남녀차별금지및구제에관한법률』을 통과시켰는데, 이 법은 성적 굴욕감을 주거나 성적 요구에 대한 불응을 이유로 고용상의 불이익을 협박하는 행위를 성희롱으로 정의하고 있다((번역 주: 남녀차별금지및구제에관한법률 제1장 2조 2항 "성희롱"이라 함은 업무, 고용 기타 관계에서 공공기관의 종사자, 사용자 또는 근로자가 그 지위를 이용하거나 업무등과 관련하여 성적 언동등으로 성적 굴욕감 또는 혐오감을 느끼게 하거나 성적 언동 기타 요구등에 대한 불응을 이유로 고용상의 불이익을 주는 것을 말한다.)). 그러나 한국 정부는 지침서에서는((번역 주: 어떤 지침서인지 확인을 못했다.)) 소건이 충분한 근거를 확보하기 위해서는 //“피해자의 문제가 되는 행위로 인해 근무 여건상에 부정적인 영향을 미쳤는지 충분한 증명”//을 제공해야만 한다고 명기하고 있다.
+
+3.(민감하지만비분류) 한국 2005년 정부는 국가인권위원회를 설립해 성희롱 관련 진정을 조사하고 구제하는 메커니즘을 제공하고 있다. 인권위는 2005년 이래로 226개의 진정을 받았으며, 10월에 인권위는 역대 가장 큰 3,000만 원의 피해보상액 권고를 발표했다. 인권위는 간접적인 성희롱을 또한 인정했는데, 예로 회사 회식자리에서 음식이나 술을 강요받는 것을 포함해 상업적인 성적 행위가 제공되는 장소에서는 특히 그렇다.
+===== 법률적 퇴보 =====
+4.(민감하지만비분류) 일련의 사법부의 판결은 가해자에 대한 형량을 감형시켜왔다. 2007년 6월 항소심 재판부는 하급심 재판부의 한 국회의원의 성희롱에 대한 유죄 판결을 뒤집었는데, 그 이유는 부분적으로 원고가 가해자의 입장에서 선처를 호소했기 때문이다. 항소심 재판부는 최연희 전 한나라당 국회의원에게 벌금 5백만 원(미화 5,300달러)의 선고를 하면서, 징역 6개월의 유죄를 선고한 하급심 재판부 판결을 보류시켰다. 이것은 사실상 무죄판결을 의미하며, 최연희는 국회 의원을 유지하게 되었다.
+
+5.(민감하지만비분류) 2006년 3월에 학교 여행 중에, 고등학교 남성 교사는 밤에 여학생 숙소에 몰래 들어가 만지고 애무했다. 그는 또한 버스에서 학생들에게 춤추도록 시키고, 여학생들이 거부함에도 다리를 만졌다. 그 교사는 교육부의 결정으로 학교에서 해임되었다. 해당 교사가 해고를 취하해 달라고 소를 제기했을 때, 재판부는 교사가 복귀하도록 허용하고, //“그가 자신의 잘못을 반성하고 소임을 다하도록 하겠다”//고 하면서 동의해 줬다.
+
+6.(민감하지만비분류)  2003년 한 대기업 간부는 부하직원들을 사무실 안팎에서 부적절한 신체접촉을 하는 등 성희롱으로 유죄 선고를 받았다.  또한, 그는 밤 늦게 부하직원들에게 전화해서, 자신의 집으로 초대했다. 상급심 재판소는 해당 선고를 뒤집으면서 주장하길, 그가 단순히 //“직장 내 친목과 단합된 기분을 내려고 한”// 단순한 해프닝이라고 했다.
+===== 논평 =====
+7.(기밀) 남한의 가부장 문화는 여성에 대한 부적절한 행동을 관용하고, 여성들이 고소할 의지를 꺾도록 하는 분위기를 조성한다. 피해자는 스스로 성희롱 행위로 불이익을 받았는지를 증명해야만 하고, 또한 가해자에 대한 사회의 관대한 태도를 극복해야한다. 많은 사람들은 (성희롱과 관련된) 법률 위반이 의도하지 않은, 우발적으로 일이라고 주장한다. 그리고 재판부는 법을 몰랐다는 주장이 효과적인 변호라는 생각을 더욱 심화시켰다. 한국인들은 직장에서 여성의 처우에 대한 국제적인 규범에 갈수록 노출되고 있고, 또한 양성평등에 대한 기대가 의심할 바없이 커지고 있음에 따라서, 사법 개혁에 대한 대중적 이해와 사법부의 지지를 조성하는 작업이 이미 진행되고 있다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/8/07seoul3191|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[http://m.law.go.kr/MOB/SmgRetrieve.laf?csmSeq=574&ccfNo=2&cciNo=1&cnpClsNo=2&qaNo=5474|‘국제 성평등 지수’란 무엇인가요?]]  //찾기 쉬운 생활법령정보//
+  - [[http://www.skywoman.co.kr/data/board_view.php?board_name=DataB&page=4&page_start=1&number=130|성희롱에 대한 질문과 답]]  //민들레법률사무소//
+  - [[http://oneclick.law.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=279&ccfNo=2&cciNo=2&cnpClsNo=3|국가인권위원회에 대한 구제신청]] //찾기 쉬운 생활법령정보//
+  - [[http://www.ausung.or.kr/bbs/board.php?bo_table=menu04005&wr_id=1&page=3|우리나라 성희롱 사건의 시작과 변천사]]  //성희롱예방교육센터 사이버연수원//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL3191.rtf>
+C O N F I D E N T I A L SEOUL 003191 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: COURT RULINGS UNDERMINE LEGAL PROGRESS IN FIGHTING 
+SEXUAL HARASSMENT 
+ 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: The ROKG has made some progress in 
+addressing sexual harassment, but recent court rulings 
+overturning convictions point to an underlying cultural 
+tolerance for demeaning behavior toward women in the 
+workplace.  Ironically, a number of convictions were reversed 
+after the complainant or other female coworkers lobbied on 
+the perpetrator's behalf.  Despite the increasing number of 
+women in the workforce, Korea's gender empowerment measure 
+(GEM) rank - measuring women's economic and political 
+participation and power over economic resources -- is the 
+second lowest among OECD countries, outranking only Turkey. 
+Progress on gender equality issues is a slow but necessary 
+process as Korea struggles to cope with its shrinking 
+population and solidify its advanced nation status.  End 
+Summary. 
+ 
+--------------- 
+A BRIEF HISTORY 
+--------------- 
+ 
+¶2.  (SBU) Korea passed its first law guaranteeing equal 
+employment in 1987.  The Sexual Equality Employment Act 
+described the responsibility of employers to prevent sexual 
+harassment.  In 1993 a female student working as a teaching 
+assistant at Seoul National University won the first case in 
+Korea that recognized sexual discrimination as a human rights 
+violation.  This case helped shed light on sexual harassment 
+as a social issue, but the law lagged behind.  In 1999, the 
+National Assembly passed the Gender Discrimination Prevention 
+and Relief Act, which defined sexual harassment as sexual 
+humiliation or threatening to penalize employees for refusing 
+to comply with sexual demands.  However, the Korean 
+government stipulates in the guidelines issued to explain the 
+law that in order to have grounds for a case, the victim must 
+provide "sufficient proof that the behavior in question has 
+had a negative effect on his or her working conditions." 
+ 
+¶3.  (SBU) In 2005 the Korean Government established the 
+National Human Rights Commission of Korea (NHRCK) to provide 
+a mechanism to investigate and remedy sexual harassment 
+complaints.  The Commission received 226 complaints since 
+2005, and in October NHRCK issued its highest ever 
+recommendation for damages of 30 million won (USD 33,000). 
+The commission also acknowledges indirect types of sexual 
+harassment, such as being forced to eat and drink at company 
+dinners, especially at places where commercial sexual 
+activities are being offered. 
+ 
+-------------- 
+LEGAL SETBACKS 
+-------------- 
+ 
+¶4.  (SBU) A series of legal rulings have reduced the 
+sentences for offenders.  In June 2007 an appellate court 
+overturned a lower court ruling convicting a National 
+Assembly representative of sexual harassment, in part because 
+the complainant appealed on behalf of the offender.  The 
+appellate court fined Choi Yeon-hee, former Grand National 
+Party Secretary General, five million won (USD 5,300), 
+suspending the lower court's conviction, which sentenced him 
+to six months in prison.  In effect, this meant a verdict of 
+not guilty and allowed Choi to keep his seat in the National 
+Assembly. 
+ 
+¶5.  (SBU) In March 2006 during a school trip, a male high 
+school teacher snuck into the female students' room at night 
+to touch and tickle them.  He also made the students dance on 
+the bus and touched the legs of those who refused.  The 
+teacher was dismissed by the school in a decision upheld by 
+the Ministry of Education.  When the teacher filed suit to 
+cancel the dismissal, the court agreed saying that it would 
+allow the teacher to be reinstated "so that he could reflect 
+on his wrongs and carry out his duties." 
+ 
+¶6.  (SBU) In 2003 a supervisor in a large corporation was 
+found guilty of sexually harassing female subordinates by 
+touching them inappropriately both in and out of the office. 
+He would also call late at night and invite them to his 
+house.  A higher court overturned the decision claiming that 
+he was merely trying to "give a sense of familiarity and 
+unity in the workplace." 
+ 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶7.  (C) South Korea's patriarchal culture creates an 
+environment that tolerates inappropriate behavior towards 
+women and discourages them from filing complaints.  Victims 
+have to prove they have been disadvantaged by the actions and 
+overcome a social attitude lenient towards offenders.  Many 
+claim that violations of the law are inadvertent and 
+unintentional, and the courts have reinforced the idea that 
+ignorance of the law is an effective defense.  As Koreans are 
+increasingly exposed to international norms on the treatment 
+of women in the workforce, expectations of gender equality 
+will undoubtedly rise, creating public understanding and 
+judicial support for the legal reforms already underway. 
+VERSHBOW
+</file>

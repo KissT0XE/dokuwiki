@@ -1,0 +1,194 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2940  |  2007-09-27 06:20  |  2011-08-30 01:44  |  기밀  |  주한미국대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 정세현 전 통일부 장관, 10월 정상회담 언급 ======
+  * 기 밀 SEOUL 002940 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 12/10/2014 
+  * 태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])) 
+  * 제 목: 정세현 전 통일부 장관, 10월 정상회담 언급
+  * 분류자: 정치 참사관 대리 대사 브라이언 맥피터스((A/POL Brian Mcfeeters.))  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/25 02:10//
+===== 요점 =====
+<WRAP column 70% justify>
+1. (기밀) 요점: 11월 14일 정치 담당관과 함께한 회동에서, 정세현 통일부 장관은 (2002년~2004년 6월) 곧 있을 10월 2~4일 남북정상회담은 경제에 집중할 거라고 말하였다. 정세현은 한국의 대표적인 재벌 중에 (삼성, 엘지, 현대, 등) 한 기업이 북한에 투자하겠다는 약정이 정상회담에서 나올 것이며, 중요한 조치에 상당한다고 말하였다. 북방한계선(이하 NLL)은 북한이 제기할 경우에만 협의할 거다. 정상회담에서 평화 선언이나 평화 체제 논의는 심각하게 받아들이지 말아야 한다: 모두가 평화를 지지하며, 어떤 성명이든 단순히 말일뿐이다. 정세현은 47명의 비정부 대표단의 일원으로 남북 정상회담에 참석할 예정이라며, 노무현은 6자 회담 과정을 지지하라고 김정일을 압박할 것이며, 김정일이 비핵화한다는 선언과 일부 군사 신뢰구축조치 합의를 예상한다고 말하였다. 그렇지 않으면, 남북정상회담은 사진 찍기 정상회담이라고 한국언론의 공격을 받게 된다. //요점 끝.//
+</WRAP>
+===== 경제적 가능성 =====
+<WRAP column 70% justify>
+2. (기밀) 정세현은 대통령을 수행하는 자신과 그 밖의 그룹이 실질적인 협의를 할 거라는 높은 기대를 하지 않는 이유는 대부분의 북한 상대역이 외국 대표단과의 회동의 책임을 진 “얼굴마담”이라고 했다. 그렇긴 하지만 경제적인 측면에서 만일 삼성, LG 또는 SK 등이 정상회담 결과의 하나로 북한에서 대규모 사업 등을 약정한다면, 다른 한국 기업들도 그 뒤를 따라 투자할 가능성이 있다.
+
+3. (기밀)  영향력이 큰 남한 실업계 출신 (삼성, 현대, 엘지, 포스코, 에스케이 등등) 지도자들이 남북정상회담을 위해 북한에 가기 때문에, 일부 중요한 경제적 사업거래가 있을 가능성이 있다. 그러나 한국 실업계 지도자들이 참석할 회동이 중요도가 떨어지는 데, 그 이유는 북한의 상대역들이 실업계 인사들이 아니라 의전 담당관이기 때문이다. 그렇긴 하지만, 일부 대규모 사회간접자본 거래는 이번 정상회담에서 원칙적인 합의가 있을 수 있다.
+
+4. (기밀) 노무현 대통령의 첫 번째 통일부 장관을 역임한 정세현은 남북 경제 협력을 증대한다는 노무현의 미래지향적인 기조에 자신도 견해를 같이 한다면서, 경제적 통합이 한반도 평화를 보장하는 최선의 조치라고 말하였다. 평화 선언은 단순히 문서이지만, 남한 대기업들이 북한에서 대규모 사업을 시작하자마자, 충돌 위협은 진정 사라질 거다. 그러므로 이번 정상회담의 초점은 얼마 큼의 경제 협력을 이룰 수 있는가에 전적으로 두어야만 한다; 평화 체제에 대한 초점은 추후에 집중하잔 말이다.
+</WRAP>
+===== NLL 논란 =====
+<WRAP column 70% justify>
+5. (기밀) <wrap hi><wrap em>NLL을 남북정상회담에서 논의할 수도 있다는 문재인 청와대 비서실장의 9월 13일 외통위 발언 논란은((번역 주: 심재철의 발언 인용 "문재인 후보는 지난 2007년 9월 13일에 국회 외통위에서 '정상회담에서 북한 측이 북방한계선 이야기를 꺼내면 우리는 공동관리구역으로 설정하겠다'고 했다"―심재철의 이 새빨간 거짓말 발언 내용은 바깥 고리를 보라.)) 전후 맥락을 무시한 내용이라고 정세현은 말하였다. 문재인의 발언은 만일 북한이 그 문제를 꺼내면, 노 대통령이 NLL 문제를 논의하도록 준비하겠다는 것이지 그 이상이 아니다.</wrap></wrap> 정세현이 8월 29일 청와대 누리집에 게시한 공개 서한에서 말하길, NLL 문제는 남북 군사 협력의 전체적인 틀 안에서 협의할 필요가 있는 구조상의 문제라고 했다.
+<WRAP center round info>
+//**심재철이 말하는 문재인 후보의 NLL 발언은 새빨간 거짓말**// [[http://j.mp/S7xwlf|2012년 10월 17일 노컷뉴스에 나온]] <wrap hi><wrap em>심재철의 발언을 보면 "문재인 후보는 지난 2007년 9월 13일에 국회 외통위에서 '정상회담에서 북한 측이 북방한계선 이야기를 꺼내면 우리는 공동관리구역으로 설정하겠다'고 했다"라고 말했는데, 이는 새빨간 거짓말이다.</wrap></wrap> 문재인 당시 비서실장의 실재 발언은 다음과 같다. ◯남북정상회담추진위원장 문재인 우선 의제에 관해서 말씀드리면 우리가 희망하는 의제가 있고요, 그다음에 또 우리가 희망하든 희망하지 않든 북측이 제기할 것으로 예상하는 의제가 있겠습니다. 그리고 <wrap hi><wrap em>NLL 같은 경우는 우리가 희망하지 않더라도 북측이 제기할 가능성이 있다고 보고요. 그다음에 북측이 제기를 해 올 경우에 우리는, 아까 이화영 위원께서 말씀하신 바와 같은 또는 장영달 위원님께서 말씀하신 바와 같은 그런 복안으로 임할 그런 계획을 갖고 있는 것입니다.</wrap></wrap>
+</WRAP>
+</WRAP>
+===== 비밀 유지의 힘 =====
+<WRAP column 70% justify>
+6. (기밀) 북한은 남북정상회담을 준비하기에 유리한 입장인 이유는 북한의 의제와 의도는 알려지지 않지만, 한국언론과 전문가, 그리고 정부 당국자들은 정상회담 전략과 급선무를 계속 공개적으로 토론해야 하기 때문이다. 남북 정상회담 중에 비핵화를 논의하지 않을 수도 있다는 9월 11일 노무현의 발언은 정책적이나 전략적 관점에서 좋지 않은 행보이다. 정세현은 자신이 노무현과 다음에 회동하게 되면, //“생각을 대놓고 밝히지”//말 것을 노무현에게 요청할 거라고 말하였다. 북한은 미국과의 거래시도에서 이러한 비밀 유지 전략을 마찬가지로 활용한 바 있다.―미국 정책에 대한 공개적인 보고 내용을 분석하고 나서야 자체적인 전략을 개발한다. 1990년 적십자 회담에 참석한 자리에서 북한 대표단은 베이징을 거쳐 팩스로 전달된 남한 일간지를 연구한 이후 다음날 회동에서 북한의 전술을 결정하겠다고 정세현 본인에게 말한 바 있다고 했다.
+</WRAP>
+===== 권력 승계 문제 =====
+<WRAP column 70% justify>
+7. (기밀) 정세현은 김정일이 스웨덴이나 태국을 모델로 삼아 안정적인 입헌 군주 정체로 북한을 탈바꿈하길 원할 수도 있다는 믿음이 있다고 정세현은 말하였다. 아들이나 누가 됐건 전체 권력을 넘기는 시도보다는 자신의 가족이 왕실처럼 생활하도록 보장하는 가운데 시간을 두고 정부를 개방하도록 하는 게 김정일의 목표일 수도 있다.
+</WRAP>
+===== 신뢰 구축 조치 =====
+<WRAP column 70% justify>
+8. (기밀) 정세현은 만일 정상회담에서 군사 합의를 도출하지 못한다면, 남북정상회담은 모든 남한 전문가들과 언론 매체의 공격을 받을 거라고 말하였다. 그러므로 일부 신뢰 구축 조치나 방위 협정이 남북정상회담에서 마련될 가능성이 있다. 만일 그렇지 못하다면, 앞으로 국방장관회담이 (비무장지대) 판문점이라는 전통적인 장소 대신에 평양과 서울에서 열릴 수도 있다.
+</WRAP>
+===== 미국정부에 권고 =====
+<WRAP column 70% justify>
+9. (기밀) 정세현은 북한과의 협상에서 가장 경험이 풍부한 협상가인 정세현은 김정일이 그의 핵 사업의 포기를 원할 것인지 의구심을 갖는 대신에,  미군은 김정일은 비핵화 이외에는 다른 선택이 없다고 김정일에게 보장해야만 한다고 말하였다. 그렇게 하려면 미국이 먼저 미국의 약속을 실행에 옮기겠다는 미국의 의향을 북한에 보장하는 행보를 계속 취해야만 한다. 그렇게 함으로써 신뢰를 쌓고, 북한이 호혜적인 조처를 하도록 할 거다. 만일 북한이 비핵화하고 미국이 북한과의 외교 관계를 설립한다면, 김정일이 중국의 모델에 따라 북한경제와 사회를 개발할 거라고 낙관한다고 정세현은 말하였다.
+//스텐튼//
+프와로 탐정의 번역 © 무단복제나 전제를 금지합니다.
+</WRAP>
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL2940.rtf>
+C O N F I D E N T I A L SEOUL 002940 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: FORMER UNIFICATION MINISTER JUNG SE-HYUN ON 
+OCTOBER SUMMIT 
+ 
+Classified By: A/POL Brian Mcfeeters.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: In a September 14 meeting with poloff, 
+former Unification Minister (Jan. 2002-Jun. 2004) Jung 
+Se-hyun said that the upcoming October 2-4 North-South summit 
+would focus on the economy.  Jung said that a commitment by 
+one of the major ROK chaebols (Samsung, LG, Hyundai, etc.) to 
+invest in North Korea could emerge from the summit, and would 
+amount to a significant step.  The Northern Limit Line (NLL) 
+would only be discussed if the DPRK raised it.   Any talk of 
+a peace declaration or peace regime at the summit should not 
+be taken seriously:  everyone was for peace and any statement 
+would be just words.  Jung, who will participate in the 
+summit as part of the 47-member non-governmental delegation, 
+said Roh would pressure Kim to support the Six-Party process 
+and that he expected a declaration by Kim Jong-il of his 
+commitment to denuclearization and an agreement on some 
+military confidence building measures.  Otherwise the summit 
+would be attacked by the Korean press as a photo-op summit. 
+End Summary 
+ 
+---------------------- 
+Economic Possibilities 
+---------------------- 
+ 
+¶2. (C) Jung did not have high expectations that he and other 
+groups accompanying the President would have substantive 
+discussions since most of the DPRK counterparts would likely 
+not be decision makers, but simply those "face people" 
+responsible for meeting with foreign delegations.   That 
+said, on the economic front, there was a possibility that if 
+Samsung, LG, Hyundai or SK committed to some big projects in 
+North Korea as a result of this summit, other ROK companies 
+would follow suit with investments. 
+ 
+¶3.  (C) Since there would be a high-powered group of South 
+Korean business leaders going North for the summit from the 
+leading conglomerates (Samsung, Hyundai, LG, POSCO, SK and 
+others), there was a chance for some significant economic 
+deals.  However, the meetings the ROK business leaders would 
+likely attend would lack significance because the DPRK 
+counterparts would not be businesspeople but rather protocol 
+officials.  That said, some large social overhead capital 
+deals could be approved in principle at the summit. 
+ 
+¶4. (C) Jung, President Roh Moo-hyun's first Minister of 
+Unification, indicated his agreement with Roh's 
+forward-leaning stance on increased economic engagement, 
+saying that economic integration was the best guarantor for 
+peace on the Peninsula.  A declaration of peace was just 
+paper, but once the South Korean conglomerates began 
+extensive business in North Korea, the threat of conflict 
+would truly evaporate.  Therefore, the focus of this summit 
+should be entirely on how much economic cooperation can be 
+achieved; a focus on a peace regime should come later. 
+ 
+--------------- 
+NLL Controversy 
+--------------- 
+ 
+¶5.  (C) Blue House Chief of Staff Moon Jae-in's controversial 
+comments at a September 13 National Assembly hearing that the 
+NLL might be discussed at the summit were taken out of 
+context, Jung said.  Moon's statement implied that if the 
+DPRK brought up the subject, President Roh would be ready to 
+discuss the issue and nothing more.  In an open letter Jung 
+posted August 29 on the Blue House web site, Jung stated that 
+the NLL issue was a structural issue that needed to be 
+discussed within the overall North-South military cooperation 
+framework. 
+ 
+---------------- 
+Power of Secrecy 
+---------------- 
+ 
+¶6.  (C) The DPRK had the advantage in preparing for the 
+summit since their agenda and intentions were unknown whereas 
+the Korean press, experts and government officials continued 
+to openly debate summit strategy and priorities.  Roh's 
+remarks on September 11 that denuclearization may not be 
+discussed during the summit was a bad move -- both in policy 
+terms and strategically.  Jung said he would ask Roh to 
+refrain from "thinking aloud" when he next met Roh.  DPRK 
+ 
+used this strategy of secrecy when dealing with the U.S. as 
+well -- developing their strategy only after analyzing open 
+source reporting on U.S. policy.  In a 1990 Red Cross meeting 
+Jung attended, the DPRK delegation told him they decided on 
+their tactics for the next day's meetings after studying 
+South Korean newspapers that were faxed to them via Beijing. 
+ 
+---------------- 
+Succession Issue 
+---------------- 
+ 
+¶7.  (C) Jung said he believed that Kim Jong-il might want to 
+transform North Korea into a stable constitutional monarchy 
+on the model of Sweden or Thailand.  Rather than attempting 
+to pass complete power to anyone -- either a son or someone 
+else -- Kim's goal might be to guarantee his family could 
+live on as the royal family while allowing the government to 
+open up over time. 
+ 
+---------------------------- 
+Confidence Building Measures 
+---------------------------- 
+ 
+¶8.  (C) Jung stated that if no military agreement comes out 
+of the summit, the meeting would be attacked by all South 
+Korean pundits and media outlets.  Therefore, it was likely 
+that some confidence building measures or defense agreements 
+would come out of the summit.  If nothing else, future 
+defense minister meetings could be held in Pyongyang and 
+Seoul instead of at the traditional site of Panmunjum (in the 
+demilitarized zone). 
+ 
+--------------------- 
+Recommendation to USG 
+--------------------- 
+ 
+¶9. (C) Jung, one of the most experienced negotiators with 
+North Korea, said that instead of wondering if Kim Jong-il 
+wanted to give up his nuclear program, the U.S. should ensure 
+Kim had no other choice but to denuclearize.  To do this, the 
+U.S. should continue to take the first move to reassure the 
+DPRK of U.S. intentions to deliver on its promises.  This 
+would build trust and allow the DPRK to take reciprocal 
+actions.  If the DPRK denuclearized and the U.S. established 
+diplomatic ties with the DPRK, Jung said he was optimistic 
+Kim would open up the North Korean economy and society along 
+the PRC model. 
+STANTON
+</file>

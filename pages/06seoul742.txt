@@ -1,0 +1,45 @@
+^  문서참조번호  ^  생성일  ^  비밀 등급  ^  출처  ^  태그  ^
+|  06SEOUL742  |  2006-03-08 08:14  |  비밀  |  주한 미국 대사관  |  {{tag>MARR MASS PARM VE KS }}  |
+====== 제 목: 베네수엘라에 대한 한국 무기 판매 제한에 관한 추가 정보 전달 ======
+비 밀 SEOUL 000742
+국방부망 배포
+국방부망 배포
+
+행정명령12958: 비밀해제: 03/07/2016
+태그 MARR MASS PARM VE KS
+제 목: 베네수엘라에 대한 한국 무기 판매 제한에 관한 추가 정보 전달
+참조: 가. STATE 36506 [[06seoul474|나. SEOUL 474]] 다. STATE 18378
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/06 01:35//
+
+(비밀) 3월 7일 대사관 정무 직원은 김병준 남미과 과장 직무 대행에게 참조 가의 논지를 전달하였다. 김병준은 유관 부서와의 조율에 들어갔으며, 외교통상부가 4월 중순까지 공식적인 응답을 제공할 처지가 되길 바란다고 했다.
+버시바우
+
+[[https://sites.google.com/site/poirotkr/1/06seoul742|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 06SEOUL742.rtf>
+S E C R E T SEOUL 000742 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/07/2016 
+TAGS: MARR MASS PARM VE KS
+SUBJECT: ADDITIONAL INFORMATION ON RESTRICTING ROK ARMS 
+SALES TO VENEZUELA DELIVERED 
+ 
+REF: A. STATE 36506 
+ 
+     ¶B. SEOUL 474 
+     ¶C. STATE 18378 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(S) On March 7, poloff delivered ref A talking points to 
+MOFAT South America Division Deputy Director Kim Byung-jun. 
+ Kim undertook to begin coordination and expressed hope that 
+MOFAT would be in a position to provide an official response 
+by the middle of April. 
+VERSHBOW
+</file>

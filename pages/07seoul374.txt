@@ -1,0 +1,53 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL374  |  2007-02-07 08:13  |  기밀  |  주한미국대사관  |  {{tag>KS PARM PREL }}  |
+====== 제 목: 한국 정부, 오슬로 집속탄 회의에 참가하지 않기로 ======
+기 밀 SEOUL 000374 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+한국 서울 병참기지는 군사정보참모부, 작전기획참모부, 그리고 연합합동참모비서실로 전달 바람((번역 주:LCC SEOUL SEOUL KOREA PLEASE PASS TO J2, J5 AND SCJS ))
+행정명령 12958: 비밀해제: 02/07/2017 
+태그: KS(([Korea (South)])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])) 
+제 목: 한국 정부, 오슬로 집속탄 회의에 참가하지 않기로
+참조: 가. STATE 6667  [[07seoul219|나. SEOUL 219]] 
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d).
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/23 11:44//
+
+1. (기밀) 참조 전문 외교문서 관련 후속 대화에서, 외교통상부 군축비핵산과 김혜진은 한국정부가 노르웨이가 주최하는 2월 22~23일 집속탄 회의에 참석하지 않기로 하였다고 대사관 정무 직원에게 말하였다. 김혜진은 한국정부의 결정은 영국과 미합중국이 참석하지 않기로 한 판단에 근거한 결정이라고 김해진은 말하였다. 김혜진은 일본이 참석할 수도 있겠지만, 한국정부는 정부의 결정을 재고할 의향이 없다는 게 그녀의 판단이라고도 말하였다. 
+버시바우
+[[https://sites.google.com/site/poirotkr/5/07seoul374|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.withoutwar.org/bbs/view.php?id=war_profiteer&page=8&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=450|2007 오슬로 협약 선언문 번역]] //무기제로//
+  - [[http://wzero.org/?p=314|[질의서] 집속탄금지협약 2차 당사국회의 참석에 대한 외교통상부의 입장]] //무기제로//
+  - [[http://j.mp/VDWzOm|노르웨이 이니셔티브 (The Norwegian Initiative)]] //노르웨이대사관//
+  - [[http://www.womennews.co.kr/news/view.asp?num=50322|외교부 김혜진씨, 미 국무부 첫 파견]] //여성신문//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL374.rtf>
+C O N F I D E N T I A L SEOUL 000374 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+LCC SEOUL SEOUL KOREA PLEASE PASS TO J2, J5 AND SCJS 
+ 
+E.O. 12958: DECL: 02/07/2017 
+TAGS: KS [Korea (South)], PARM [Arms Controls and Disarmament], PREL [External Political Relations] 
+SUBJECT: ROKG WILL NOT ATTEND OSLO CM CONFERENCE 
+ 
+REF: A. STATE 6667 
+     B. SEOUL 219 
+ 
+Classified By: POL Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+¶1.  (C) In a follow-up conversation regarding reftel 
+demarche, Kim Hye-jin of the Disarmament and Nonproliferation 
+Division, Ministry of Foreign Affairs and Trade told poloff 
+that the ROKG had decided against attending the 
+Norwegian-sponsored Oslo Conference on Cluster Munitions 
+February 22-23.  Kim said that the ROKG decision was based on 
+their understanding that the United Kingdom and the United 
+States would not attend.  Kim also said it is her 
+understanding that Japan may still attend, but that the ROKG 
+did not intend to reconsider their decision. 
+VERSHBOW
+</file>

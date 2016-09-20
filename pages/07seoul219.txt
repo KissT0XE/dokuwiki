@@ -1,0 +1,86 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL219  |  2007-01-23 08:28  |  기밀  |  주한미국대사관  |  {{tag>MOPS PARM PREL KS }}  |
+====== 제 목: 한국 정부, 집속탄에 대한 미국 입장 지지 ======
+기 밀 SEOUL 000219 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+한국 서울 병참기지는 군사정보참모부, 작전기획참모부, 그리고 연합합동참모비서실로 전달 바람((번역 주: LCC SEOUL SEOUL KOREA PLEASE PASS TO J2, J5 AND SCJS ))
+
+행정명령 12958: 비밀해제: 01/23/2017 
+태그: MOPS(([Military Operations])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), KS(([Korea (South)]))
+제 목: 한국 정부, 집속탄에 대한 미국 입장 지지 
+참조: SECSTATE 6667 
+참조하는 전문: [[07seoul374|07seoul374]]
+분류자: 공관차석 대리 대사 조셉 윤.  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/23 10:09//
+
+1. (미분류) 이 전문은 행동 요청이다. 4문단을 보세요.
+
+2. (기밀) 1월 23일 대사관 정무 직원은 참조 전문 외교문서를 외교통상부 군축비핵산과 김혜진에게 전달하였다. 김혜진은 집속탄을 제한하는 어떤 논의도 이미 설립된 특정재래식 무기금지협약을 통해서 실천되어야 한다고 말하였다. 한국정부의 부처 간 논의가 진행되고 있음을 강조하면서, 김혜진은 외교통상부 국방부 모두 집속탄 금지가 국방력에 부정적인 영향을 미치고, 그 이행에도 비용이 클 것에 대해 크게 우려하고 있다. 김혜진은 한국정부는 집속탄 관련 (한미) 군사 간의 향후 논의를 환영한다고 말하였다.
+
+3. (기밀) 김혜진은 한국정부가 2월 오슬로 회의에 참석하도록 초청받았다며, 노르웨이 정부가 한국정부에 참관인석을 제공하였다고 확인해 주었다. 김혜진은 집속탄 문제가 대인지뢰금지 오와타 프로세스와 연관되어 선정되었기 때문에 한국정부가 참석을 고려하고 있다고 김혜진은 말하였다. 그러나 한국정부는 유일한 비가입 참석국가가 되길 원하지 않는다는 의중을 내비치며, 이번 오슬로 회의의 목표에 찬성하는 것으로 잘못 해석될 수 있기에 걱정이라고 했다. 김혜진은 이번 주 제네바에서 계획된 오슬로 집속탄 회의에 대한 한·미·일·핀란드 회동을 지적하면서, 특히 참관인을 파견하는 한국정부의 결정은 미합중국과 다른 국가, 예로 일본의 참석 여부에 따라 크게 달라질 거라고 했다.
+
+4. (기밀) 행동 요청: 대사관은 국무부가 오슬로 회의에 참석 예정인 국가와 한국정부와 함께할 참관 국가의 목록을 제공해주길 요청한다. //행동 요청 끝.//
+스탠튼
+[[https://sites.google.com/site/poirotkr/5/07seoul219|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.withoutwar.org/bbs/view.php?id=war_profiteer&page=8&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=450|2007 오슬로 협약 선언문 번역]] //무기제로//
+  - [[http://wzero.org/?p=314|[질의서] 집속탄금지협약 2차 당사국회의 참석에 대한 외교통상부의 입장]] //무기제로//
+  - [[http://j.mp/VDWzOm|노르웨이 이니셔티브 (The Norwegian Initiative)]] //노르웨이대사관//
+  - [[http://www.womennews.co.kr/news/view.asp?num=50322|외교부 김혜진씨, 미 국무부 첫 파견]] //여성신문//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL219.rtf>
+C O N F I D E N T I A L SEOUL 000219 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+LCC SEOUL SEOUL KOREA PLEASE PASS TO J2, J5 AND SCJS 
+ 
+E.O. 12958: DECL: 01/23/2017 
+TAGS: MOPS [Military Operations], PARM [Arms Controls and Disarmament], PREL [External Political Relations], KS [Korea (South)] 
+SUBJECT: ROKG SUPPORTIVE OF US POSITION ON CLUSTER MUNITIONS 
+ 
+REF: SECSTATE 6667 
+ 
+Classified By: A/DCM Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+¶1.  (U) This is an action request.  Please see para 4. 
+ 
+¶2.  (C) On January 23, Poloff delivered reftel demarche to 
+Kim Hye-jin of the Disarmament and Nonproliferation Division 
+of the Ministry of Foreign Affairs and Trade (MOFAT).  Kim 
+said that the Republic of Korea (ROK) agreed that any 
+discussions about restricting cluster munitions (CM) should 
+be carried out through the already-established Convention on 
+Certain Conventional Weapons (CCW) framework.  While 
+emphasizing that ROKG interagency discussions are ongoing, 
+Kim said that both MOFAT and the Ministry of National Defense 
+are very worried that a CM ban would negatively impact 
+military defense capabilities and would be costly to 
+implement.  Kim said that the ROKG would welcome future 
+military-to-military discussions on CM. 
+ 
+¶3.  (C) Kim confirmed that the ROKG had not been invited to 
+attend the February Oslo conference, but that the Government 
+of Norway had offered the ROKG an observer seat.  Kim said 
+that the ROKG is considering attending because they are 
+concerned that the CM issue will be co-opted just as the 
+landmine issue was in the Ottawa process.  However, Kim 
+indicated that the ROKG does not wish to be the only 
+non-participating attendee and is concerned that ROKG 
+presence could be incorrectly interpreted as support for the 
+goals of the Oslo conference.  In particular, Kim said that 
+the ROKG decision to send an observer will depend heavily on 
+whether the United States and other countries such as Japan 
+attend, and noted that a ROK-Japan-U.S.-Finland meeting about 
+the Oslo CM conference was planned for later this week in 
+Geneva. 
+ 
+¶4.  (C) Action Request: Post requests that Department provide 
+a list of countries that plan to attend the Oslo conference 
+as participants and as observers to share with the ROKG as 
+soon as available.  End Action Request. 
+STANTON
+</file>

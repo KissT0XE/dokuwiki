@@ -1,0 +1,101 @@
+^  고유 문서 번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  1974SEOUL04656_b  |  1974 July 18, 09:16 (Thursday)  |  기밀  |  주한 미국 대사관  |  {{tag>PINT PINS KS }}  |
+====== 제 목: 유보선에 대한 비상군법회의 재판 ======
+
+기 밀 SEOUL 4656
+
+행정명령 11652: GDS
+태그: PINT((Political Affairs--Internal Political Affairs)) PINS((Political Affairs--Internal Security)) KS((Korea (South)))
+제 목: 유보선에 대한 군법회의 재판
+번역자 제공 참조: [[1974seoul04582_b|1974SEOUL04582_b]], [[1974seoul04619_b|1974SEOUL04619_b]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/11/15 14:57//
+
+1. 윤보선 전 대통령과 그의 3명의 공동 피고인을 상대로 한 비상군법회의가 7월 16일 열렸다. 이번 재판은 보도에 따르면 4시간 동안 계속되었다. 재판 도입부에 윤보선이 긴급조치를 비판하였고, 학생 대모를 지원하기 위해 박형규 목사에게 돈을 제공했다고 자백을 유도하길 원했던 (군) 검사에 심문을 받았다.
+
+2. 처음에는 80세의 나이라 기억력이 그리 또렷하지 않다고 말하며 군 검사의 심문을 거부하였다. 그러나 그는 시위를 인정하면서도, 민주주의에서는 학생이 시위할 권리를 가지고 있으며, 학생들을 두들겨 패는 건 결코 민주주의 실천일 수 없다고 반항적으로 검사와 재판부에 말하였다.
+
+3. 긴급조치가 요구하는 대로 학생들이 데모할 의사를 알고도 보고하지 않은 이유를 묻는 질문에 응답하길, 그는 학생들의 계획이 옳고, 정당하며, 좋은 일로 믿는다고 공언하였다.
+
+4. 윤보선에 뒤이어 박형규 목사에 대한 심문이 이어졌다. 심문 과정에서 그는 일부는 빌리고 일부는 자신의 돈으로 학생들에게 55만 원을 (미화 1,375 달러) 제공했다고 시인하였다. 약 천 달러는 그의 친구 윤보선에게서 빌렸다.
+
+5. 첫 심리 말미에 재판장은 윤보선에게 가택연금 형을 내려 언론에 말할 수 없도록 하였다. 공판을 하루 앞두고 윤보선을 보았던 뉴욕타임스 특파원은 공판 이후에 인터뷰를 거부당하였다.
+하비브
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1974071600209201006&editNo=2&printCount=1&publishDate=1974-07-16&officeId=00020&pageNo=1&printNo=16243&publishType=00020|보통군재 윤보선씨 구속]] //동아일보//
+===== 원본 내려받기 =====
+<file rtf 1974seoul04656_b.rtf>
+CONFIDENTIAL
+
+PAGE 01  SEOUL 04656  182216Z
+
+70
+ACTION EA-14
+
+INFO  OCT-01  ISO-00  SAJ-01  IO-14  CIAE-00  DODE-00  PM-07  H-03
+
+INR-11  L-03  NSAE-00  NSC-07  PA-04  RSC-01  PRS-01  SP-03
+
+SS-20  USIA-15  NIC-01  DRC-01  /107 W
+---------------------     039802
+R 180916Z JUL 74
+FM AMEMBASSY SEOUL
+TO SECSTATE WASHDC 4914
+INFO AMEMBASSY TOKYO
+CINCPAC
+
+C O N F I D E N T I A L SEOUL 4656
+
+E.O. 11652: GDS
+TAGS: PINT PINS KS
+SUBJECT:  THE COURT-MARTIAL TRIAL OF YUN PO SUN
+
+1.  THE EMERGENCY COURT-MARTIAL TRIAL OF EX-PRESIDENT
+YUN PO SUN AND HIS THREE CO-DEFENDANTS OPENED ON JULY 16.
+SESSION REPORTEDLY LASTED FOR FOUR HOURS.  AT OPENING
+OF TRIAL YUN WAS QUESTIONED BY PROSECUTOR WHO WANTED
+TO ELICIT ADMISSION THAT YUN HAD CRITICIZED EMERGENCY
+MEASURES AND HAD GIVEN MONEY TO REV. PARK HYOUNG KYU
+IN ORDER TO SUPPORT STUDENT DEMONSTRATIONS.
+
+2.  INITIALLY YUN REJECTED THE QUESTIONING OF THE
+PROSECUTOR, SAYING THAT AT THE AGE OF 80 HIS MEMORY WAS NOT
+ALL THAT SHARP.  HOWEVER, HE ADMITTED DEMONSTRATIONS.
+BUT HE DEFIANTLY TOLD PROSECUTOR AND COURT THAT INDEED
+IN A DEMOCRACY STUDENTS HAD RIGHT TO PROTEST AND THAT
+IT WAS HARDLY A DEMOCRATIC PRACTICE TO BEAT-UP
+STUDENTS.
+
+3.  RESPONDING TO THE QUESTION OF WHY HE HAD NOT
+REPORTED INTENTION OF STUDENTS TO DEMONSTRATE AS
+REQUIRED UNDER EMERGENCY LAW, HE DECLARED THAT HE
+BELEIVED THAT THE STUDENTS' PLANS WERE RIGHT, JUST
+CONFIDENTIAL
+
+CONFIDENTIAL
+
+PAGE 02  SEOUL 04656  182216Z
+
+AND GOOD.
+
+4.  REV. PARK'S INTERROGATION FOLLOWED THAT OF YUN.
+UNDER QUESTIONING HE ADMITTED TO HAVE GIVEN STUDENTS
+WON 550,000 (US $1,375) SOME OF IT BORROWED AND SOME
+OF IT HIS OWN.  ABOUT $1,000 HAD COME FRROM HIS FRIEND
+YUN.
+
+5.  AT END OF FIRST SESSION JUDGE PLACED YUN UNDER
+HOUSE ARREST SO THAT HE COULD NOT TALK TO THE PRESS.
+NEW YORK TIMES CORRESPONDENT WHO SAW YUN DAY BEFORE
+OPENING TRIAL SESSION WAS DENIED INTERVIEW
+AFTERNOON FOLLOWING SESSION.
+HABIB
+
+
+CONFIDENTIAL
+
+
+
+
+NNN
+</file>

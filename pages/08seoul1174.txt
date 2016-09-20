@@ -1,0 +1,246 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL1174  |  2008-06-11 08:18  |  기 밀  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 촛불 집회 황금기를 지나? 이명박 "새 출발"을 다짐 ======
+기 밀 SEOUL 001174 
+국방부망 배포((번역 주:SIPDIS, Siprnet Distribution)) 
+미국 무역대표부 커틀러, 트릭 그리고 유 등에게 전달((PASS USTR FOR CUTLER, TRICK AND YOO))
+
+행정명령 12958: 비밀해제: 04/10/2018 
+태그: PGOV (([Internal Governmental Affairs])), PREL (([External Political Relations])), PINR (([Intelligence])), KN (([Korea (North)])), KS (([Korea (South)]))
+제 목: 촛불 집회 황금기를 지나? 이명박 "새 출발"을 다짐
+참조: [[08seoul1145|SEOUL 001145]]
+분류자: 공관차석 대리 조셉 윤((번역 주: 공관차석은 부대사와 동일 Assistance/deputy chief of mission [A/DCM])) 근거 1.4 (b,d). 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/19 01:21//
+===== 요약 =====
+1. (기밀) 요약: 1987년 6.10 민주화 운동을 기념하는 날에 벌어진 시위에는 기록적인 인파가 모였다. 그들은 미국산 쇠고기의 수입 금수 조치를 해제하기로 한 합의의 재협상을 요구하였다. 시위자들은 한국정부의 간청에 더해 노무현, 김대중 두 전임 대통령의 비폭력 권고에 부응하여 평화로운 시위를 펼쳤다. 시위자들의 요구는 이명박을 겨냥한 것이고, 일반적으로 많은 이들이 두려워했던 반미주의는 피해갔다. 이명박은 물러나라는 요구는 야당을 견인하지는 못했고, 정치권 명사의 조롱을 받았다. 이명박 대통령은 내각과 청와대 참모진의 개편을 준비하고 있는데, 그가 국민의 요구에 귀 기울이고 있다고 증명하려는 조치다. 그러는 동안 18대 국회는 다음 주에 마침내 개회할 것 같다. 요약 끝. 
+===== 시위 규모는 크고, 평화적 =====
+2. (민감하지만 미분류) 또다시 미국산 소고기의 수입과 이명박 정부에 반대하는 역대 가장 큰 촛불 집회에 수십만 명의 시위자들이 거리로 쏟아져 나왔는데, 6월 10일 전국적으로 80개의 도시에 걸쳐 발생한 시위는 1987년 6.10 민주 항쟁의 21주기를 기념일이기도 했다. 서울에만 대략 (경찰 추산) 8만 명에서 (시위 주체측 추산) 70만 명의 시민이 미국산 소고기와 이명박 대통령에 반대하며 촛불 집회에 참석했다. 참석자들과 경찰 모두 폭력을 대체로 삼갔다. 다만 2명의 시위자가 납 배관으로 경찰을 공격했단 이유로 체포되었다. 익명의 경찰관은 실제 시위 참가자의 수는 아마도 최소 20만 명 정도이고, 노무현 대통령 탄핵에 반대한 2004년 촛불 집회(13만)보다 큰 규모였다고 말했다.
+
+3. (민감하지만 미분류)광우병 국민대책회의는 19시 30분부터 개최한 집회에서 쇠고기 합의를 완전히 철회하고 즉각적인 재협상과 이명박 정부에 대한 심판을 요구하였다. 정운천 농림부 장관은 19:00에 시위 장소에 모습을 드러냈고 거칠게 밀쳐지면서도 열변을 토했지만, 쇠고기 합의에 대해 그를 비난하던 화난 시위 군중으로부터 쫓겨나와야만 했다. 반면 보수단체 뉴라이트 연합은 집회를 열어 질서의 회복과 조속한 한미 FTA 승인을 요구하였다. 경찰에 의하면 동 시위자들이 7,000명이 넘었다고 했다.
+
+4. (민감하지만 미분류) 경찰은 시위 참가자가 가능하면 늘어나지 않도록 별도의 사전 대비책을 세웠다. 예를 들면, 경찰은 전례 없던 조치로 미 대사관 앞 간선도로를 가로지르고, 청와대로 연결된 모든 도로 상에 수송 컨테이너를 2단으로 쌓아 20피트 높이의 방어벽을 세웠다. 집회 참가자는 방어벽에 분무기를 사용해 그라피티를 했고, 방어벽에 올라타 현수막과 깃발을 펼쳤지만, 그들은 지난날에 버스를 움직였던 것처럼 방어벽을 움직일 수 없었다. (컨테이너를 고강도 철근으로 길에 빗장을 지르고 서로 용접을 했다) 청와대와 대사관으로 가는 간선도로인 세종로는 15: 30분경부터 차량 통행이 차단됐고, 4만 명의 경찰이 서울의 주요 시위 장소에 집결했다. 시위 군중이 부상당했다는 보도는 없었다. 
+
+===== 반미주의 아직은 아니다 ===== 
+5. (기밀) 시위대는 계속해서 반미주의를 피했다. 야당인 통합민주당에서 가장 목청을 높이는 이들 중의 한 명인 조경태 의원은 정치 참사관에게 6월 10일 점심 동안 반복적으로 말하길 시위대가 반미가 아니라고 했다. 조경태는 자신은 한미 FTA에 찬성하지만, 민주당 지지자들을 만족하게 하려면 쇠고기 재협상 혹은 추가적인 조치가 필요하다고 했다. 81명 전체 통합민주당 의원들이 시위대에 합류하기 위해 시청에 모습을 드려냈다.
+
+6. (기밀) 그렇긴 하지만 여당 한나라당 의원들은 한미 관계에 미칠 잠재적인 충격에 대해 다소 우려를 표명했다(참조 전문). 전문가와 국회 접선책은 6월 말에는 시위가 사그라질 것으로 예상한다고 했다. 
+
+===== 노무현: 이명박의 마지막 지지자?  =====
+7. (민감하지만 미분류) 집회 참가자들은 이명박이 대통령직에서 물러나라는 요구를 하지만, 야권은 그런 요구에 합세하기를 꺼렸다. 전 진보 대통령 노무현은 주 초에 집회 참여자들의 요구가 "비민주적"이고 "위헌"이라고 했다. 6월 10일 시위에 참석한 몇몇 접선책들에 의하면, 일부 의욕적인 노동조합 대표들을 제외하고 집회 참가자들은 이상하리만큼 열기가 없었다고 한다. 6월 7~8일 한길리서치의 여론조사는 50%의 응답자가 이명박이 물러나길 희망했다고 했지만, 이명박을 대통령직에서 면직하려면 선행돼야 할 탄핵 소추를 위한 정치적인 의지도 (필요한 표도) 없다. 
+
+===== 몇 놈은 보내버리겠어  =====
+8. (기밀) 이명박은 국민의 신뢰를 어느 정도 회복하길 바라며 인적 쇄신의 길을 찾고 있다. 청와대의 접선책에 의하면, 새 내각은 상황이 진정되고 난 뒤 인선 가능한 후보군 검증 직후에 발표될 예정이다. 청와대 대통령 측근 보좌관은 이명박은 여전히 그가 국민의 지지를 되찾아 올 수 있다고 확신하고 있지만, 그렇게 많은 시위 참가자들이 그와 그의 정책에 반대하고 있다는 것을 인지한 마당에 반드시 큰 변화를 기해야 한다고 대사관 정무 직원에게 말했다. 청와대 직원의 인사 변화에 더해, 경상도 출신 부유한 장관들이 지나치게 많은 그의 내각은 전문가의 손쉬운 표적으로 만들었고, 새 내각의 진용은 지역적, 경제적으로 균형을 맞춰야 한다.
+
+9. (기밀) 6월 11일 여타 청와대 소식통은 몇몇 미국에 있는 청와대의 비서관들이 한국으로 모두 귀국한 이후 개각이 예정되어 있다고 대사관 정무 직원에게 말했다. 소식통에 의하면 7명의 고위급 비서관과 4개 부서의 장관들이 해임될 예정이라고 한다. 현재까지 김병국 외교안보수석이 해임 대상 목록에 올랐고, 유명환 장관의 생존 가능성은 50% 미만이다. 
+
+===== 이명박의 불운 =====
+10. (기밀) 이명박의 보잘것없는 정치적 본능은 시기적 악재가 겹치면서 악화일로가 되어왔다. 조경태 의원에 의하면 한국인들은 이명박 내각에 대해 이렇게 빨리 좌절감을 맛본 이유는 그의 내각에 대해 불만이 쌓인 탓이라고 했다. 5년 동안에 노무현은 국민에 귀 기울이지 않았는데, 이젠 이명박 역시 국민의 목소리에 유의하는 데 관심이 없어 보인다고 조경태는 말했다. 조경태는 6월 11일 회견에서 이 대통령이 일반 국민과 대통령이 직접 접촉할 수 있는 핫라인을 확립하라고 제안한 바 있다. 
+
+===== 다시 여의도정치! =====
+11. (기밀) 6월 10일 이회창은 자유 선진당이 전선을 국회로 옮겨가겠다고 발표했는데, 18대 국회 개원을 돕겠다는 이러한 행보는 자유선진당 소식통에 의하면 이회창이 이명박을 기꺼이 돕겠다는 신호라고 한다. 통합민주당 접선책들과 언론 보도로는 통합민주당도 국회를 개원할 태세임을 곧 발표할 예정이다. 시위 이후에, 통합민주당이 제18대 국회 개원을 계속 막을 명분이 없는 까닭은 모든 정당은 국민의 일상생활에 도움이 될 법률을 통과시킬 책임이 있기 때문이라고 조경태 의원은 대사관 정무 직원에게 말했다.
+
+12. (민감하지만 미분류) 국회 개원 일자를 결정하기 위해 6월 12일에 원내총무 회담이 있을 것이다. 30일간의 임시국회 회기는 국회의 개원 이후 바로 시작될 것이다. 이번 회기 동안에 새 장관들이 확정되고, 상임위원회 위원장도 채워질 것이다.
+
+===== 논평 =====
+13. (기밀) 6월 10일 대규모 시위는 남한 정부가 상당 기간 한국민의 요구를 무시해 온 것에 쌓인 감정을 반영하는 것이다. 그리고 이명박은 최전방에서 대중의 집중된 불만을 견디고 있다. 상황을 해소할 이명박의 능력 부재와 그의 참모진이 대중의 호감을 얻기에는 경험이 부족했음을 보여준다. 이런 “광기”가 끝낼 가능성은 있다. 제18대가 국회가 개원하면, 관심이 이명박에서 여의도로 옮겨갈 것이다. 일각에서는 몇 개월이 지나면 국회가 업무를 시작함에 따라 이명박이 자연스레 인기를 회복할 것으로 예상한다. 시위대가 전반적으로 반미 색채를 뛰지는 않았지만, 한국 정부는 그런 추세가 반미 색채로 뒤집힐까 두려운 관계로 당분간 한미동맹 문제에 대해 이렇다 할 행보를 취할 수 없을 것이다. 얼마나 오래 시위가 계속될지 여부는 2002년 미군 복무자가 운행하던 차량에 치여 숨진 두 여중생의 기념일인 6월 13일이 그 시험 무대가 될 것이다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul1174|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 08seoul1174.rtf>
+C O N F I D E N T I A L SEOUL 001174 
+ 
+SIPDIS 
+ 
+PASS USTR FOR CUTLER, TRICK AND YOO 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations]
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: PROTESTS PAST PRIME? LEE VOWS "FRESH START" 
+ 
+REF: SEOUL 001145 
+ 
+Classified By: A/DCM Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary:  The June 10 anniversary of the 1987 
+pro-Democracy protests drew record numbers of crowds 
+demanding a renegotiation of the agreement to lift the ban on 
+imports of U.S. beef.  The demonstrators remained peaceful, 
+heeding the pleas of the ROKG and former Presidents Roh 
+Moo-hyun and Kim Dae-jung who urged non-violence.  The 
+demands of the protestors were aimed at the Lee Myung-bak 
+administration and generally avoided the anti-Americanism 
+that many feared.  Calls for President Lee to step down have 
+not gained traction with the opposition parties and have been 
+derided by political luminaries.  President Lee Myung-bak is 
+preparing to shuffle the cabinet and Blue House staff in a 
+bid to demonstrate that he is listening to the people's 
+demands.  Meanwhile, the 18th National Assembly is likely to 
+finally open for business next week.  End Summary. 
+ 
+------------------------ 
+Protests Large, Peaceful 
+------------------------ 
+ 
+¶2.  (SBU) The largest candlelight demonstrations yet against 
+the import of U.S. beef and the Lee government brought 
+hundreds of thousands of protesters to the streets in over 80 
+cities nationwide on June 10, the 21st anniversary of the 
+beginning of the 1987 pro-democracy uprising.  In Seoul, 
+approximately 80,000 (police estimate) to 700,000 (protestors 
+estimate) citizens participated in the candlelight protests 
+against U.S. beef and the Lee Administration.  Both the 
+participants and police largely refrained from using 
+violence, although two protestors were arrested for attacking 
+police with lead pipes.  An anonymous police officer 
+commented that the actual number of protesters was probably 
+at least 200,000, larger than the 2004 candlelight protests 
+against the presidential impeachment of Roh Moo-hyun 
+(130,000). 
+ 
+¶3.  (SBU) The People's Association for Measures Against Mad 
+Cow Disease held a vigil from 19:30 to call for a complete 
+withdrawal of the beef agreement, an immediate 
+re-negotiation, and judgment on the Lee Myung-bak 
+Administration.  Agriculture Minister Chung Woon-chun showed 
+up at the protest at 19:00 but was jostled, harangued and had 
+to be ushered away from the angry protestors who blame him 
+for the agreement.  Meanwhile, conservative groups including 
+the New Right National Union held rallies calling for 
+restoration of order and quick approval of the KORUS FTA. 
+According to police, these protesters numbered over 7,000. 
+ 
+¶4.  (SBU) The police took extra precautions to ensure the 
+protests were as contained as possible.  For example, in an 
+unprecedented move, the police erected a 20-foot tall 
+barricade out of shipping containers stacked two high across 
+major roads in front of the Embassy and on all roads leading 
+to the Blue House.  Protestors sprayed graffiti on the 
+barriers, climbed the barricades and unfurled banners and 
+flags, but they were unable to move them as they have moved 
+buses in the past (the containers were bolted to the street 
+with rebar and welded to each other).  Sejong-ro -- the main 
+road to the Blue House and Embassy -- was closed to vehicular 
+traffic from about 15:30, and there were 40,000 police 
+deployed at major protest sites in Seoul.  There were no 
+reports of protestors injured. 
+ 
+--------------------- 
+Not Anti-American Yet 
+--------------------- 
+ 
+¶5.  (C) The protests continue to avoid anti-Americanism.  One 
+of the most vocal opposition United Democratic Party (UDP) 
+lawmakers, Cho Kyung-tae, told poloff repeatedly over a June 
+10 lunch that the protests were not anti-U.S.  Cho said he 
+was in favor of the KORUS FTA but that renegotiation of beef, 
+or at least additional measures, were needed to satisfy UDP 
+supporters.  All 81 UDP lawmakers showed up at City Hall to 
+join the protests. 
+¶6.  (C) Nevertheless, ruling Grand National Party (GNP) 
+lawmakers have expressed some worries about the potential 
+impact on U.S.-ROK relations (reftel).  Pundits and Assembly 
+contacts expect the protests to peter out in late June. 
+ 
+------------------------------------ 
+Roh Moo-hyun: The Last MB Supporter? 
+------------------------------------ 
+ 
+¶7.  (SBU) Despite protestors demands that Lee Myung-bak be 
+removed from office, opposition groups have avoided joining 
+in that call.  Earlier in the week, former progressive 
+President Roh Moo-hyun called these demands "undemocratic" 
+and "unconstitutional."  According to several contacts who 
+attended the June 10 protests, aside from some motivated 
+labor union representatives, the protests were oddly without 
+fervor.  While a June 7-8 poll Hangil Research Poll noted 
+that 50 percent of respondents hoped Lee Myung-bak would step 
+down, there is no political will (nor the necessary votes) 
+for impeachment, which would have to precede Lee's removal 
+from office. 
+ 
+--------------- 
+Heads Will Roll 
+--------------- 
+ 
+¶8.  (C) Lee is looking to make personnel changes in hope of 
+regaining some of the public's trust.  According to Blue 
+House contacts, a new cabinet will be announced once the 
+situation quiets down and possible candidates are being 
+vetted.  A Blue House aide to the President told poloff that 
+Lee was still confident he could win back public support but 
+recognized that after such a large turnout against him and 
+his policies, he must make significant changes.  In addition 
+to changes in the Blue House staff, the surfeit of rich 
+ministers from the Gyeongsang provinces has made the cabinet 
+an easy target for pundits and the new lineup should be more 
+regionally and economically balanced. 
+ 
+¶9.  (C) Another Blue House source told poloff June 11 that 
+the Blue House secretaries would be shuffled as soon as all 
+returned to Korea (several are now in the U.S.)  Four of 
+seven senior secretaries and four ministers are set to be 
+sacked, according to the source.  Currently, NSA Kim 
+Byung-kook is on the list to leave; FM Yu is given less than 
+a 50 percent chance of surviving. 
+ 
+------------------- 
+Tough Break for Lee 
+------------------- 
+ 
+¶10.  (C) Lee Myung-bak's poor political instincts have been 
+compounded by bad timing.  According to Representative Cho, 
+the reason Koreans were frustrated so quickly with Lee was 
+due to a built up frustration with the office of the 
+president.  For five years, Cho said, Roh did not listen to 
+the people and now Lee also appears disinterested in paying 
+attention to the voice of the people.  In a June 11 
+interview, Cho suggested Lee establish a hotline so common 
+people could contact the President directly. 
+ 
+-------------- 
+Back To Yoido! 
+-------------- 
+ 
+¶11.  (C) On June 10, Lee Hoi-chang announced his Liberty 
+Forward Party (LFP) would take the fight to the National 
+Assembly and this move to help start the 18th session 
+signaling Lee's willingness to help Lee Myung-bak, according 
+to LFP sources.  UDP contacts and press reports note that the 
+UDP will soon announce they will also move to start the 
+Assembly.  After the protests, there would be no reason for 
+the UDP to continue to block the start of the 18th National 
+Assembly since all parties had a responsibility to pass laws 
+to help improve people's daily lives, Rep. Cho Kyung-tae told 
+poloff. 
+ 
+¶12.  (SBU) There will likely be a floor leaders meeting on 
+June 12 to decide on a start date for the Assembly.  A 30-day 
+temporary session would begin soon after the opening of the 
+Assembly that would carry into July.  During this session, 
+new ministers could be confirmed and heads of committees 
+could be assigned. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶13.  (C) The large-scale June 10 protest reflects a growing 
+sentiment that the South Korean Government is -- and has been 
+for some time -- ignoring the demands of the South Korean 
+people, and Lee Myung-bak is bearing the brunt of public 
+dissatisfaction.  His inability to defuse the situation 
+reflects his and his advisers' inexperience in appealing to 
+the public.  There is a possible end to the "madness."  Once 
+the 18th Assembly opens, focus will shift away from Lee and 
+toward Yoido.  Some expect that after several months Lee will 
+naturally regain some popularity as the Assembly gets to 
+work.  The protests have not generally taken on an 
+anti-American tone, but the ROKG will be unable for some time 
+to make serious moves on alliance issues for fear of 
+reversing that trend.  The next test of how long the protests 
+will last will be June 13, the anniversary of the death of 
+two middle school girls who were struck by a vehicle operated 
+by U.S. servicemen in 2002. 
+VERSHBOW
+</file>

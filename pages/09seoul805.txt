@@ -1,0 +1,43 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL805  |  2009-05-20 06:32  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>MARR MCAP PARM KPAL KS }}  |
+====== 제 목: 한국 정부 순항미사일 비행 시험 연기 통보 참조 SEOUL750 ======
+
+비 밀 서울 000805
+국방부망 배포
+
+국무부 국제안보·비확산국 미사일위협제거청
+
+행정명령12958: 비밀해제: 05/20/2019
+태그: MARR MCAP PARM KPAL KS
+제 목: 한국 정부 순항미사일 비행 시험 연기 통보 참조 [[09seoul750|SEOUL750]]
+분류자: 공관차석 직무 대행 조셉 윤. 근거 1.4 (b,d).
+참조 : [[09seoul750|09SEOUL750]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/19 00:46//
+
+1. (비밀) 외교통상부 한미안보협력과 박소연은 참조 전문에 언급된 해성-2 순항미사일 비행 시험 계획이 5월 21일 5월 22일로 하루 연기되었다고 5월 20일 미 대사관에 통보하였다. 이제 해성-2 순항미사일의 비행 시험 계획은 5월 22일로 일정이 잡혔다. 참조 전문의 여타 정보는 변경되지 않았다.
+스탠튼
+포와로 탐정의 번역 © 무단 복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL805.rtf>
+S E C R E T SEOUL 000805 
+ 
+SIPDIS 
+ 
+STATE FOR ISN/MTR 
+ 
+E.O. 12958: DECL: 05/20/2019 
+TAGS: MARR MCAP PARM KPAL KS
+SUBJECT: ROKG NOTIFICATION OF DELAY OF UAV FLIGHT TEST 
+ 
+REF SEOUL 750 
+ 
+Classified By: A/DCM Joseph Yun for reasons 1.4 (b,d) 
+ 
+¶1.  (S)  Park So-yeon of the ROK-U.S. Security Cooperation 
+Division on May 20 notified post that the planned flight test 
+of the Haeseong-II UAV in reftel was delayed one day from May 
+21 to May 22.  The planned flight test of the Haeseong-II UAV 
+is now scheduled for May 22.  All other information in reftel 
+remains unchanged. 
+STANTON
+</file>

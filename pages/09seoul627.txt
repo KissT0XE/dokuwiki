@@ -1,0 +1,43 @@
+^  문서참조번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL627  |  2009-04-16 07:54  |  미분류  |  주한 미국 대사관  |  {{tag>PHUM PREL KS }}  |
+====== 제 목: 한국정부, 미국 유엔 인권이사회 상임이사국 진출 지지 재언명 ======
+미분류 SEOUL 000627 
+국방부망 배포
+
+행정명령 12958: 해당 없음((N/A)) 
+태그: PHUM PREL KS
+제 목: 한국정부, 미국 유엔 인권이사회 상임이사국 진출 지지 재언명
+참조: 가. STATE 36629 나. [[09seoul543|SEOUL 00543]] 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/12/28 11:57//
+
+1. (기밀) 4월 16일 대사관 정무 직원은 참조 전문의 외교 문서와 인권 서약을 외교통상부 인권사회과에 전달하였다. 정진호 2등 서기관은 유엔 인권이사회 상임이사국 진출에 대해 한국정부는 “무조건 지지”한다고 재언명하였다. 미국의 유엔 인권이사회 참여는 “매우 중요하다.” 인권이사회 회원국인 한국은 유엔 인권이사회에서 미국과의 협력을 고대한다. 미국의 상임이사국 진출에 대해 한국의 지지를 표명하는 외교통상부의 외교 문서가 주한 미국 대사관에 조만간 전달될 예정이다.
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/15/09seoul627|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://h21.hani.co.kr/arti/special/special_general/27408.html|한국, 유엔 인권이사회에서 퇴출되나]] //한겨레21//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL627.rtf>
+UNCLAS SEOUL 000627 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PHUM PREL KS
+SUBJECT: ROKG REAFFIRMS SUPPORT FOR U.S. UN HRC MEMBERSHIP 
+ 
+REF: A. STATE 36629 
+     ¶B. SEOUL 00543 
+ 
+¶1.  (C) PolOff delivered reftel diplomatic note and human 
+rights pledge to the ROK Ministry of Foreign Affairs and 
+Trade (MOFAT) Human Rights and Social Affairs Division on 
+April 16.  Second Secretary Jung Jin-ho reaffirmed the ROKG's 
+"unconditional support" for U.S. membership in the UN Human 
+Rights Council.  U.S. participation in the UN HRC was "very 
+important."  A member itself, the ROK looked forward to 
+working with the U.S. in the UN HRC.  A diplomatic note from 
+MOFAT expressing the ROKG's support for U.S. membership would 
+be delivered to Embassy Seoul soon. 
+STEPHENS
+</file>

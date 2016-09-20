@@ -1,0 +1,246 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL2081  |  2007-07-11 08:10  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>MCAP MARR PREL PARM KS }}  |
+====== 제 목: 국회, 주한미군 기지 반환 문제를 제대로 처리하지 못했다며 한국 정부 비난 ======
+기 밀 서울 002081
+
+국방부망 배포
+
+국방부망 배포
+
+행정명령 12958: 비밀해제: 07/11/2017
+태그: MCAP MARR PREL PARM KS
+제 목: 국회, 주한미군 기지 반환 문제를 제대로 처리하지 못했다며 한국 정부 비난
+
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/08/28 10:51//
+===== 요약 =====
+
+1. (미분류) 요약. 6월 25~26일 국회 환경노동위원회 주관으로 열린 ‘주한미군 반환기지 환경치유에 관한 공청회’에서 국회의원들은 반환된 미군기지의 환경 상태에 대하여 맹비난하였다. 송민순 외교통상부 장관, 김장수 국방부 장관을 비롯해 증인으로 출석한 한국 정부의 전•현직 고위 관료들은 한국 정부는 한미 주둔군 지위 협정에(이하 SOFA) 따른 요구 사항에 구속되어 있다고 주장하며, 계속해서 논란이 커지고 있는 관계로 한미동맹이 피해를 보지 않도록 기지 반환 절차를 처리했다고 방어했다. 환경노동위원회는 29일 발간한 공청회 결과 보고서를 통해 반환기지 처리 과정에서 “문제”가 되는 지역들을 적시하였으며 추후 반환될 미군 기지에는 SOFA 규정보다는 한국 국내법 기준을 적용할 것과 SOFA의 환경 처리 규정을 개정할 것을 촉구했다. 보고서의 권고 사항은 법적 구속력이 없지만, 한국 정부는 앞으로 기지 반환의 추진 방법이 복잡해질 공산이 크다. 요약 끝.
+===== 국방부와 외교부는 미군 기지 반환을 방어 =====
+
+2. (미분류) 윤광웅 전 국방 장관과 김장수 현 국방 장관이 6월 25일 공청회에서 증언하였다. 이날 우원식 의원은 (최근 열린우리당을 탈당해 현재 무소속) 한국에 반환된 23개의 기지 중 10곳에서 예로 기준치를 초과한 유독성 폴리염화바이페닐(PCB)이 전자 변압기 잔해에 남아 있다고 주장하였다. 폴리염화바이페닐은 미군이 기지 반환 이전에 정화하기로 공언했던 유독성 화학물질 목록에 속한다고 역시 주장하였다. 지금까지 가장 목청 높인 비판이다. 우 의원은 SOFA 세부 규정에 위배되기 때문에 한-미 안보정책구상회의에서의 미군기지 반환 논의 자체가 무효라고 혐의를 제기하였다. 그는 기지 반환 협정을 무효화 하고 다시 협상해야 한다고 주장했다.
+
+3. (민감하지만 미분류) 김장수 국방 장관은 기지 반환을 수용하고, 한국이 추가 환경 치유 비용을 수용한 것은 기지 반환 문제로 한미동맹이 추가로 피해를 보지 않도록 하기 위한 그의 개인적인 결정이란 견지를 유지했다. 국회의원들과 국방부 관계자 사이 공방은 공청회 과정 내내 긴장감을 더해 갔다. 한때 국회의원들이 국방부 관계자들이 "무식"하다고 주장하기도 했다. 또한, 국회의원들은 기지 정화 비용에 "천문학적인" 비용이 소요됨을 알고도 국방부가 미국의 요구에 영합해 미국의 일방적인 환경 사업을 밀어붙였다고 혐의를 제기했다.
+
+4. (민감하지만 미분류) 송민순 외교통상부 장관과 조병제 외교통상부 북미국장(SOFA 한국위원회 한국 측 위원장)이 6월 26일 증언대에 올랐다. 송 장관은 서두에 그간 한국민의 요구에 따라 어떻게 SOFA가 개정됐는지 등 주둔군 지위 협정의 변천 과정을 서술하였다. (주석: 2001년 환경에 관한 특별양해각서 관한 구속력 없는 양해각서를 포함한다. 그 내용은 주한미군에 의하여 야기되는 인간 건강에 대한 <q>"공지의 급박하고 실질적인 위험을"</q> 초래하는 오염의 치유를 신속하게 수행하며, 그리고 인간 건강을 보호하기 위하여 필요한 추가적 치유 조치를 검토하기 위한 것이다.) 송 장관은 모두 발언에서 미군 측의 환경 오염 치유의 결과가 한국 기준을 만족하지는 못하지만, 미국 정부가 미군 기지 환경 치유를 제공하기 위해 자체 예산에서 기금을 투자한 나라는 한국이 유일하다는 점이 더 중요한 대목이라고 강조하였다. 그는 한국이 파병할 때도 파병 병력이 현지 법을 엄격히 준수할 거라고 기대하지 않는 관계로 미국이 환경 치유를 위해 한국 국내 기준을 따르라고 기대하는 건 합리적이지 않다고 언급했다. 그보다는 양국이 이미 합의한 내용을 준수하는 것이 더 적절하다고 언급했다. 송 장관은 한국 정부가 기지 반환을 담보하기 위해 최선을 다했다고 강조했으며 그는 특별양해각서와 미국의 8개항+α 조치를 거론하며 미군이 주둔하고 있는 다른 어느 국가에서보다 미국이 한국에서 환경 치유를 더 잘 처리하였다고 강조하였다. (주: 8개항+α 조치는 미국이 유류저장탱크, 중고 변압기, 냉/난방 시스템을 포함한 8개 유형의 설비/시설을 정화한다는 규정을 말하고 알파는 바이오슬러핑 공법으로 지하수에 "부유" 기름을 시추공을 통해 제거하는 작업을 뜻한다.)
+
+5. (미분류) 외교통상부는 국회의원들에게 미군기지 반환에 대한 SOFA 합동위원회 문건을 공청회에서 검토할 수 있도록 제공하고 공청회가 끝날 때 전부 회수하였다. 홍준표 환경노동위원회 위원장(한나라당 대통령 후보자)은 외교통상부가 SOFA 문건을 “공개”하지 않은 것은 의문이지만 “제공”하였으므로 국회가 환경노동위원회의 검토를 위해 해당 문건을 제시하라는 요구에 충족하는 것으로 해석할 수 있다고 인정하였다.
+
+6. (기밀) 후속 질의응답 시간에 외교통상부 송 장관은 한미SOFA합동위원회에서 1) SOFA 문건의 일반 공개를 위해서는 양측의 사전 동의가 필요하다는 1967 한미합동위원회 및 분과위원회 운영 절차 개정; 2) 환경보호에 관한 2001 특별양해각서에 명시된 미군기지 반환을 위한 환경기준의 선명성 확보; 3) 향후 미군기지 반환을 위해 해당 기지의 환경 상태를 확인하기 위해 사전에 한국 정부 기관이 추가 방문할 수 있도록 명시하는 부속서 A 절차 개선을 위한 외교통상부의 몇 가지 새로운 제안들을 참고하여 협의를 요청하였다. 외교통상부 접선책들은 제시된 조치들이 법적 강제력이 없어 “구속력이 없지만" 국회의 성명이 있으면 정부 부처들은 해당 조치들을 따라야 할 의무감을 느끼게 될 것이라고 인정하였다. 송 장관은 몇몇 국회의원들의 SOFA 개정에 대한 질문들의 답변으로 그와 같은 시도는 비현실적이라고 언급함으로써 바로 해당 질문들을 일축하였다.
+
+7. (기밀) 하지만, 국회 환경노동위원회는 6월 29일 미군기지 환수에 대한 한국 정부의 시책을 비판하는 보고서를 발표하였다. 이 보고서는 향후 미군기지 반환 협상을 위한 세 가지 목표를 서술하고 있다: 1) 한국 국내 환경기준을 기초로 한국 정부의 검증 하에 기존 SOFA 환경조항에 따라 미군기지 환경 치유 실행; 2) SOFA 개정을 위한 한국 정부의 조속한 재협상 개시; <wrap hi>3) 이미 반환된 미군기지 복원 비용을 한국 정부의 방위비분담특별혐정 지원금에서 공제.</wrap> 이 보고서는 법적 구속력이 없고 국회 전체의 의견이 아니라 15명으로 구성된 환노위 위원 대다수의 의견일 뿐이다. 외교통상부 SOFA 운영팀 연락선에 의하면 이 보고서는 일시적으로 기존 SOFA 조항에 따라 지속적인 기지 반환이 허용되지만, 외교통상부는 결국 국회를 달래기 위해 SOFA 개정 제안을 위한 절차를 밟아야 할 필요가 있을 수 있다.<WRAP center round info 90%>//**공제는 커녕 방위비 분담금 빼돌려 7천억 이자 놀이하고, 7년간 은폐한 미국**// …(중략) 한미 양국은 지난 2002년 발효된 LPP(한미 연합토지관리계획) 협정에 따라 미 2사단 이전비용은 미국이 부담하기로 했다. 그런데 미국은 이 협정을 위반하여 미 2사단 이전비용으로 쓰기 위해 방위비분담금을 빼돌려서 은행에 예치시켜 놓았고, 이 돈으로 돈놀이를 해온 것이다. (질문 하나. 오염된 반환 기지를 환경 치유에 사용할 돈은 없다는 미국 엘리트들은 방위비 분담금 빼돌려 이자놀이할 돈은 있단 말인가?)[[http://www.ohmynews.com/nws_web/view/at_pg.aspx?CNTN_CD=A0001951566|7천억 이자놀이 7년간 은폐
+"방위비분담금 거짓말 들통, 꼼수 안돼"]] //오마이뉴스// [[http://www.tongilnews.com/news/articleView.html?idxno=105788|방위비분담금 이자소득, 미국 정부가 얻었다]] //통일뉴스//
+</WRAP>
+===== 제한적인 보도 =====
+
+8. (민감하지만 미분류) 반환된 미군기지들의 환경 상태에 대한 한국 국민들의 관심은 국회의원들이 반환 기지 한 곳 토양에서 발견된 기름 속에 묻혀 있던 나뭇가지에 불을 붙이는 비디오 영상으로 절정에 이르렀다. 국회 공청회로 가기까지 언론 보도를 보면 한국 정부가 환경 치유 흥정을 끝내겠다는 주한미군의 의사를 지키도록 강제하기보다는 미국이 한미 안보정책구상회의에서 강제로 요구 받은 사항을 순순히 따랐다고 암시하며 국방부와 외교통상부가 미국을 달래기 위해 미군기지 반환을 일방적으로 수용하였다고 묘사하고 있다. 공청회 이후로 이 문제에 대한 주류 언론의 보도는 제한적이었다. 최근 코리아타임즈는 사설을 통해 한국 정부의 미군기지 환수 결정으로 인한 재정적 여파에 대해 비판적이었으며, 좌파 성향의 한겨레 신문은 주한미군기지의 환경 치유의 수준을 국내 기준에 맞추도록 SOFA 협정문을 정비하라고 주문했다. 그리고 한겨레 사설은 미군이 한강에 독성 화학물질을 (가정) 폐기한 이후에 돌연변이 괴물이 서울을 위협한다는 내용의 “괴물”이라는 성공한 한국영화의 이미지를 되새기며 주한미군을 환경 오염 범죄자로 그려냈다. 최근 실행된 여론조사에서도 한국 국민 51.3%는 미군기지의 환경 치유 비용을 미국이 부담해야 한다고 대답했다.
+===== 논평 =====
+
+9. (기밀) 국방부와 외교통상부 당국자들은 미군기지 환수 과정에 대한 그들 부처 기관의 일 처리를 방어하면서, 완전한 수준에는 훨씬 못 미치지만, 부분적으로나마 국회의원들과 주한미군을 모두를 만족할 수 있는 중도 전략을 끌어내었다. 김장수 국방 장관은 “한미동맹을 지키기” 위해 개인적인 책임을 회피하지 않고 가열된 기지 반환 논란을 온 몸으로 맞서겠다는 앞선 약속에 부응했다. 또한, 그는 국회에 한국 정부가 반환 미군 기지에 대한 책임을 수용하는 일 말고는 더 나은 선택은 없다고 국회의원들에게 말했다. 송민순 외교부 장관은 미군기지 반환에 적용되는 SOFA 문건에 대한 구체적인 개관을 제시함으로써 더 법률적 접근이라고 하겠지만, 미군기지 반환이 SOFA에 설명된 대로 필요한 환경 절차를 준수해 처리된다는 점을 아주 명시적으로 인정하지는 않았다. 전체적으로 한국 정부와 국회 환노위가 비난 세례의 대상으로 삼은 건 SOFA 그 자체였다. 이제 우리는 외교통상부 간부들이 국회의 비난을 무마하기 위해 최소한 SOFA 개정을 추진하거나 미군기지 반환을 구현하는 과정을 개선하도록 행동에 나설 거라고 예상할 수 있다. 논평 끝.
+버시바우
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+====== 원문 내려받기 ====== 
+<file rtf 07SEOUL2081.rtf>
+C O N F I D E N T I A L SEOUL 002081 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 07/11/2017 
+TAGS: MCAP MARR PREL PARM KS
+SUBJECT: NATIONAL ASSEMBLY CRITICIZES ROKG FOR MISHANDLING 
+USFK CAMP RETURNS 
+ 
+Classified By: Pol M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+¶1.  (U) Summary.  On June 25-26, the ROK National Assembly's 
+Committee on Environment and Labor held a hearing on the 
+clean up of returned USFK bases, expressing strongly critical 
+views on the environmental conditions of those bases. 
+Current and former top officials from the ROKG, including 
+Foreign Minister Song Min-soon and Defense Minister Kim 
+Jang-soo, defended their handling of the camp returns 
+process, arguing that the ROKG had been bound by requirements 
+of the SOFA agreements and desired to avoid damaging the 
+U.S.-ROK Alliance with continued, contentious debate.  The 
+National Assembly released a report on the hearing on June 
+29, identifying "problem" areas in the camp return process 
+and calling on the ROKG to pursue future returns based on 
+domestic ROK environmental standards, rather than the SOFA, 
+and revise the SOFA environmental procedures.  Although the 
+report's recommendations are not legally-binding on the ROKG, 
+they are likely to complicate the way forward on future camp 
+returns.  END SUMMARY. 
+ 
+-------------------------------------- 
+MND AND MOFAT DEFEND USFK CAMP RETURNS 
+-------------------------------------- 
+ 
+¶2. (U) Former Defense Minister Yoon Kwang-Woong and current 
+Defense Minister Kim Jang-soo testified on June 25. 
+Representative Woo Won-shik (an independent lawmaker who 
+recently left the pro-government Uri party) claimed that 10 
+of the 23 U.S. bases returned to Korea had the remains of 
+electronic transformers containing levels of toxic chemicals 
+such as polychlorinated biphenyls (PCBs) exceeding the 
+nation's environmental standards.  Woo also argued that PCBs 
+were included in a list of toxic chemicals USFK had pledged 
+to clean up before the bases were returned.  The most vocal 
+critic to date, Woo then charged that camp return discussions 
+in the Security Policy Initiative (SPI) forum were invalid as 
+they violated SOFA agreements.  He called for nullifying the 
+base return pact and renegotiating the matter. 
+ 
+¶3. (SBU) DM Kim Jang-soo maintained that it was his personal 
+decision to accept the returned camps, as well as any ROKG 
+costs for additional environmental remediation, in order to 
+prevent the camp returns issue from causing further damage to 
+the U.S.-ROK Alliance.  The discourse between National 
+Assembly lawmakers and MND officials became increasingly 
+tense through the course of the hearings, with lawmakers at 
+one point calling MND officials "ignorant."  NA lawmakers 
+also accused MND of pushing a unilateral environmental deal 
+with the U.S. and pandering to U.S. demands despite what they 
+deemed to be an "astronomical" cost involved in cleaning up 
+the camps. 
+ 
+¶4. (SBU) Foreign Minister Song and DG Cho Byung-jae testified 
+on June 26.  FM Song's introductory remarks delineated the 
+evolution of the SOFA, including how the original agreements 
+had been amended to account for the changing needs of the 
+South Korean public.  (NOTE: This includes the non-binding 
+2001 Memorandum of Special Understandings (MOSU) on 
+Environmental Protection which confirms U.S. policy to 
+promptly undertake to remedy contamination caused by U.S. 
+Armed Forces in Korea that poses a "KISE," or "Known, 
+Imminent and Substantial Endangerment" to human health, and 
+to consider additional measures required to protect human 
+health.)  Song, in his introduction, emphasized that while 
+the results of contamination remediation on the U.S. side did 
+not satisfy the standards set by South Korean laws, it was 
+more important to note that the ROK is unique in that the 
+U.S. government invests funds from its own budget into 
+providing environmental remediation at its bases.  He noted 
+as an example that South Korea would not send troops to a 
+country and expect its troops to comply strictly with 
+domestic law, so it is therefore not reasonable to expect the 
+U.S. to comply with the ROK domestic standard for 
+environmental remediation.  Rather, Song noted, it is more 
+appropriate for the two countries to comply with their 
+established agreements.  FM Song emphasized that the ROKG had 
+done its best to secure the return of the camps.  He stressed 
+that the U.S. had done more in terms of environmental 
+remediation in Korea than in any other country where the U.S. 
+forces were located, referring specifically to the MOSU and 
+ 
+the 8  alpha items conducted by the U.S. (NOTE: 8  alpha 
+refers to the stipulation that the U.S. clean up eight types 
+of equipment/facilities, including oil storage tanks, used 
+transformers, and air conditioning/heating systems, while the 
+alpha refers to bioslurping, or eliminating petroleum "free 
+product" floating on underground water.) 
+ 
+¶5. (U) MOFAT provided copies of the SOFA Joint Committee 
+documents on the camp returns for the National Assembly 
+members to review at the hearing and retrieved all of the 
+copies at the end.  The Committee Chair Hong Jun-pyo (a GNP 
+presidential candidate) acknowledged that while MOFAT did not 
+"release" the SOFA documents in question, they did "provide" 
+them, which could be interpreted to have sufficed for the NA 
+requirement calling for the production of such documents for 
+Committee examination. 
+ 
+¶6. (C) In the following Q&A session, FM Song referred to 
+several new MOFAT proposals, requesting consultations in the 
+Joint Committee to 1) revise the 1967 Procedures for 
+Operation of the Joint Committee and Subcommittees, which 
+require both sides' prior agreement to publicly release SOFA 
+documents; 2) clarify the environmental standards for camp 
+returns as specified in the 2001 Memorandum of Special 
+Understandings on Environmntal Protection; and 3) improve 
+the Tab A process for future camp returns, specifying that 
+ROK agencies be allowed an additional pre-return ROKG visit 
+to confirm the environmental condition of camps.  MOFAT 
+contacts characterized their proffered actions as 
+"non-commitments" because of the lack of legal force, but 
+recognized that ROK ministries would feel obligated to comply 
+if it was a NA statement.  In response to several lawmakers, 
+questions about revising the SOFA, Song immediately dismissed 
+the inquiries by stating it would be unrealistic to attempt 
+to do so. 
+ 
+¶7. (C) However, the National Assembly's Environment and Labor 
+Committee released a report on June 29 that criticized ROKG 
+handling of camp returns.  The report also outlined three 
+objectives for future negotiations on camp returns, calling 
+for 1) remediation of U.S. bases to be conducted in 
+accordance with current SOFA environmental provisions based 
+on ROK domestic environmental standards and subject to ROKG 
+verification; 2) the ROKG to begin negotiations for SOFA 
+revision as soon as possible; and 3) the costs for 
+remediation of the already returned camps to be deducted from 
+ROKG contributions to the Special Measures Agreement (SMA). 
+The report is not legally binding and is not the view of the 
+entire National Assembly, only that of a majority of the 
+15-member committee.  According to MOFAT SOFA Affairs 
+Division contacts, the report temporarily allows for 
+sustained camp returns under the current SOFA provisions, but 
+MOFAT may eventually need to take steps toward proposing SOFA 
+revisions to placate the National Assembly. 
+ 
+---------------------- 
+LIMITED PRESS COVERAGE 
+---------------------- 
+ 
+¶8. (SBU) The South Korean public's attention to the 
+environmental condition of the returned camps was piqued most 
+recently with video clips of National Assembly lawmakers 
+igniting wooden sticks that had been dipped in oil found in 
+the ground at one of the returned camps.  In the lead up to 
+the NA hearings, the press reports portrayed MND and MOFAT as 
+unilaterally accepting the camp returns to appease the U.S., 
+implying that the ROKG was compelled to acquiesce to U.S. 
+demands in the SPI, instead of forcing USFK to keep up its 
+end of the bargain on environmental remediation.  Since the 
+hearings, mainstream press coverage of the issue has been 
+limited.  A recent Korea Times editorial was critical of the 
+financial repercussions of the ROKG's decision to accept 
+return of the camps, and an editorial in the left-leaning 
+Hankyoreh newspaper called for an overhaul of the SOFA 
+agreement that would require USFK environmental remediation 
+to the level of ROK domestic standards; the Hankyoreh 
+editorial painted USFK as a criminal polluter by resurrecting 
+images from the hit South Korean film "The Host," in which a 
+mutant monster terrorizes Seoul after the U.S. military 
+(allegedly) dumped toxic chemicals into the Han River.  A 
+recent public opinion poll also indicated that 51.3 percent 
+ 
+of the ROK public believes that the U.S. should pay the cost 
+of environmental remediation at the camps. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶9. (C) MND and MOFAT officials managed to pull off a 
+middle-of-the-road strategy, defending their agencies' 
+handling of the camp returns process, making both lawmakers 
+and USFK partially, but far from completely, satisfied.  In 
+taking personal responsibility for the "sake of the 
+Alliance," DM Kim lived up to earlier promises to the U.S. to 
+take the heat on camp returns, but also told the NA that the 
+ROKG had no better choice than to accept the responsibility 
+for the camps.  FM Song's approach was more legalistic, 
+giving a detailed overview of the SOFA documents governing 
+camp returns, but not quite explicitly acknowledging that the 
+camp returns were handled in compliance with the required 
+environmental procedures as outlined in the SOFA.  Overall, 
+the SOFA itself was given the bulk of the blame by the ROKG 
+and the NA Committee.  We can now expect MOFAT officials to 
+at least go through the act of pursuing SOFA revisions or 
+improvements in the implementation of the camp returns 
+process in order to placate National Assembly critics.  END 
+COMMENT. 
+VERSHBOW
+</file>

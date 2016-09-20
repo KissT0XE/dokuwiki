@@ -1,0 +1,54 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1404  |  2009-09-02  |  미분류  |  주한미국대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 001404
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US
+제 목: 서울, 언론 반응
+작성자: PoirotKr (트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/12/13 04:31//
+===== 일본 총선 =====
+
+**[[http://news.chosun.com/site/data/html_dir/2009/09/01/2009090101838.html|[사설]아시아로 돌아서려는 일본 새 정권을 보며]]**
+
+보수 조선일보 사설 9월 2일: "일본 새 정권의 아시아 중시론은 본질적으로 중국의 급격한 부상(浮上)이 낳은 변화로 봐야 한다. …중국과 일본이 아시아 헤게모니 쟁탈전에 다시 나서게 된다면 그 파고(波高)는 한반도로 직접 밀려들게 될 것이다. …일본이 미국을 벗어나 독자적 아시아 전략을 펴겠다는 것은 일본의 재무장과 군사대국화라는 흐름을 강화할 소지가 없지 않다. 우리는 시장(市場)은 중국에, 기술은 아직 일본에 의존하고 있는 처지다. …일본 새 정권의 출범은 한국이 중·장기적 국가 전략을 서둘러 가다듬어야 한다는 재촉의 소리다."
+
+토콜라
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL1404.rtf>
+UNCLAS SEOUL 001404 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US 
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+SUBJECT: MEDIA REACTION; SEOUL 
+------------------------------ 
+ 
+Japan's Election 
+ 
+"New Japanese Government Heralds Changes for Korea" 
+ 
+Conservative Chosun Ilbo editorialized (09/02): "The Democratic 
+Party of Japan's emphasis on Asia should be seen as related to 
+China's sudden rise to power.  In a few years, China will overtake 
+Japan in terms of economic size. ...  If China and Japan once again 
+engaged in a hegemonic struggle in Asia, it would have direct 
+repercussions for the Korean Peninsula. ...  Japan's move to end its 
+dependence on the U.S. and to carry out an independent Asia strategy 
+may lead to the country's rearmament and a revival of Japanese 
+militarism.  We are dependent on China for exports and on Japan for 
+technology.  The launch of a new Japanese administration is a signal 
+that Korea must waste no time in defining its mid-and long-term 
+national strategies." 
+ 
+ 
+TOKOLA 
+</file>

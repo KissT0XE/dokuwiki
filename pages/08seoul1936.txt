@@ -1,0 +1,73 @@
+^  문서참조번호 ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL1936  |  2008-10-02 09:01  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>EAID PREL KS  AF }}  |
+====== 제 목: 아프간국군 증강을 위해 한국 정부에 전달된 분명히 정리된 요구 사항 ======
+비 밀 서울 001936 
+ 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution)) 
+행정명령 12958: 비밀해제: 10/06/2018 
+태그: EAID(([Foreign Economic Assistance])), PREL(([External Political Relations])), KS(([Korea (South)])), AF(([Afghanistan])) 
+제목: 한국 정부에 전달된 아프간국군 증강를 위한 분명히 정리된 요구사항
+참조: 가. STATE 97592 나. STATE 103482
+번역자: @PoirotKr (번역 주: 트위터 사용자 이름) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/04 06:28//
+
+
+
+
+1. (기밀) 10월 30일 화요일에 대사관 정무 직원은 참조전문 나 외교 문서를 한미안보협력과 일등 서기관 김현두에게 전달했다. 정무 직원은 참조전문 가에 담겨있는 한국 정부가 아프간 국군 증강을 지원해 달라는 미국 정부의 요청에 관한 문구를 분명하게 정리하였다. 대사관 정무 직원은 한국 정부가 아프간 국군 증강을 위해서 추가적인 5억 달러를 제공해 줄 것을 미국이 요청하고 있음을 김현두에게 알렸다(2010년부터 2014년까지 매해 1억 달러씩). 김현두는 우리가 요청하는 지원액을 앞서 분명하게 밝힌 관계로 수정된 액수를 무리 없이 받아들였다. 정무 직원은 이번 요청은 지난번 한국에 요청한 대아프가니스탄 원조를 대체하는 것이 아니라 함께 연계된 사안임을 강조했다.
+
+2. (기밀) 언제 어떻게 한국 정부가 관계 부처 합동으로 결정할지 묻자 김현두는 외교통상부가 앞장서겠지만, 한국 정부가 내릴 결정에 따라 상황은 달라질 수 있다고 말했다. 그는 응답 일시를 제공하지는 않았지만, 한국 정부의 국회 예산 심의 과정에서 앞으로 험난한 여정이 펼쳐질 거라고 말하였다.
+
+3. (기밀) 만일 아프간 원조가 승인된다면, 정부 예산안이 국회 예결위에 상정될 것이다. 해당 예산 요구서가 2009년 상반기에 예산 심의 일정에 포함돼야 하는데, 그럼으로써 승인이 될 수 있고 (예산 집행) 목표 날짜에 늦지 않게 집행될 것이다. 정기 국회가 9월에 소집되지만, 예산 책정 결정이 종종 심사 일정을 넘겨 12월 말까지 가곤 한다. <wrap hi>그는 답변을 언제쯤 내놓게 될지 확언은 못 하지만, 예산요구서가 2009년 6월 경이면 관계 부처 승인 절차를 통과할지 아닐지 예상하는 일은 무리가 없을 거라고 지적하였다. 그러나 2009년 마지막 4/4분기 때까지는 확정적인 예산안 형태나 규모가 파악되지는 않을 것이다.</wrap>
+스티븐스
+[[https://sites.google.com/site/poirotkr/seoul/08seoul1936|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round info 90%>//**결국 2009년 4/4분기에 "예비비" 꼼수로 미국에 5억 달러 상납**// 
+…(중략) 또한, 한국은 아프간 국군을 재정적으로 지원하기 위해 미화 5억 달러를 (5년간 매년 1억 달러씩) 약속한 바 있습니다. 한국 정부의 고위 관리들은 5억 달러 지원은 순조롭게 진행 중이며, 국회의 승인이 필요하지 않은 한국 정부의 “예비비”에서 충당할 예정이라고 우리를 안심시켜 주었습니다. 그러나 한국 정부는 국내 정치상의 이유로 아프간 지원 요청이 (미국이 아닌) 새로 선출된 아프간 정부가 한국에 대해 요청한 것으로 하는 게 필수적이라고 믿고 있습니다.[[09seoul1529|제 목: 12월 29-30일 국무부 부장관의 남한 방문을 위한 무대연출]] //주한 미국 대사관 전문//
+</WRAP>
+===== 원본 내려받기 =====
+<file rtf 08SEOUL1936.rtf>
+S E C R E T SEOUL 001936 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 10/06/2018 
+TAGS: EAID [Foreign Economic Assistance], PREL [External Political Relations], KS [Korea (South)], AF [Afghanistan] 
+SUBJECT: CLARIFIED REQUEST FOR AFGHAN NATIONAL ARMY 
+EXPANSION DELIVERED TO REPUBLIC OF KOREA 
+ 
+REF: A. STATE 97592 B. STATE 103482 
+ 
+Classified By: DCM Bill Stanton, Reasons 1.4 (b), (d) 
+ 
+¶1. (C) On Tuesday, October 30, Poloff delivered ref B 
+demarche to First Secretary Kim, Hyun-du in the ROK-U.S. 
+Security Cooperation Division of MOFAT.  Poloff clarified the 
+language in ref A on the USG's request for ROKG support for 
+the expansion of the Afghan National Army.  Poloff informed 
+Kim that the U.S. was requesting that the ROKG provide an 
+additional $500 million ($100 million per year from 2010 to 
+2014) to expand the Afghan National Army.  Mr. Kim took the 
+revised figure in stride as we had earlier clarified the 
+amount of support we were requesting.  Poloff stressed that 
+this request was in conjunction with, not in place of, 
+previous requests for ROK assistance to Afghanistan. 
+ 
+¶2. (C) When asked how and when the ROKG interagency decision 
+would be made, Mr. Kim stated that MOFAT would probably take 
+the lead but that this could change depending on the decision 
+the ROKG made.  He gave no time frame for a response, but 
+said that the ROKG's National Assembly's (N.A.) budget 
+approval process would provide a rough road map to follow. 
+ 
+¶3. (C) If the aid was approved, it would be placed on the 
+N.A.'s budget docket.  The request would have to be included 
+in the budget approval schedule during the first half of 
+2009, so that it could be approved and implemented in time 
+for the 2010 target date.  While the N.A. convened in 
+September, decisions on budget allocations often strayed well 
+into late December.  While he was unable to say when a 
+response would be forthcoming, he noted it would not be 
+unreasonable to see whether or not the request had made its 
+way out of the interagency approval process by June, 2009. 
+The definitive shape and size of the package would not be 
+known, however, until the last quarter of 2009. 
+STEPHENS
+</file>

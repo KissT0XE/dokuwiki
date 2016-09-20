@@ -1,0 +1,51 @@
+^  참조문서번호  ^  생성일  ^   비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL2779  |  2006-08-16 09:08  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KNNP MNUC PARM PREL }}  |
+====== 제 목: 리딩 에지 PSI 연습에 참가 요청서 전달함 ======
+기 밀 SEOUL 002779 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 04/21/2014 
+태그: KNNP(([Nuclear Non-Proliferation])), MNUC(([Military Nuclear Applications])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations] ))
+제 목: 리딩 에지 PSI 연습에 참가 요청서 전달함
+참조: STATE 131944 
+분류자: 공관 차석 대리 조셉 윤((A/DCM Joseph Y. Yun.))  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/09/08 19:41//
+
+8월 16일, 공관 차석 대리와 정치군사팀장은 리딩 에지 연습 참가 요청에 관한 참조 전문의 논지를 조태영 외교통상부 북미 국장에게 전달하였다. 조태영은 미국정부의 요청을 알고 있었다면서, 그의 상관에게 전달하겠다고 말하였다. 추가로 조태영은 한국정부의 입장은 대량살상무기 확산방지구상에 대한 현재 접근 방식의 “흐름을 유지하는 것”이라고 언급하면서, 한국정부는 해당 연습 참가에 긍정적으로 기울었지만, <wrap hi>PSI 차단 원칙</wrap>을 승인하지는 않을 듯하다는 뜻을 내비쳤다. 대사관은 한국의 결정과 어떤 상황 전개에 대한 후속 보고를 할 것임.
+스탠튼
+
+[[https://sites.google.com/site/poirotkr/3/06seoul2779|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round info 80%>
+//**PSI 차단원칙이란 무엇인가요?**// PSI 차단원칙(Statement of Interdiction Principles)은 PSI의 기본 정신과 WMD 확산 방지를위해 협조하겠다는 회원국들의 공약을 명시한 PSI의 기본 문서입니다. 따라서, PSI 차단원칙은 조약이나 법률은 아닙니다. PSI 차단원칙의 주요 내용을 살펴보면, PSI 회원국은 (1) 단독으로 또는 외국과 협조하여 WMD의 이전 및 운송을 차단하고(2) 신속한 정보 협조 채널을 구축하며(3) △WMD 운송 의심을 받고있는 //“자국 선박”//을 승선ㆍ검색하고, 의심 화물이 적발될 경우 압류하고, △WMD 운송 의심선박에 대해 타국이 승선ㆍ검색을 요청할 경우, 해당 선박의기국(flag state)은 이를 진지하게 검토해야 하며, △WMD운송 의심을 받고 있는 자국령 안의 선박이나 항공기,환적 화물을 검색하고, 의심화물 적발시 압류조치를취합니다
+</WRAP>
+===== 원본 내려받기 =====
+<file rtf 06SEOUL2779.rtf>
+C O N F I D E N T I A L SEOUL 002779 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/21/2014 
+TAGS: KNNP [Nuclear Non-Proliferation], MNUC [Military Nuclear Applications], PARM [Arms Controls and Disarmament], PREL [External Political Relations] 
+SUBJECT: PSI: INVITATION TO ATTEND EXERCISE LEADING EDGE 
+DELIVERED 
+ 
+REF: STATE 131944 
+ 
+Classified By: A/DCM Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+On August 16, A/DCM and Pol-Mil Chief delivered reftel points 
+regarding invitation to attend exercise Leading Edge to Cho 
+Tae-Yong, Director General of North American Division, 
+Ministry of Foreign Affairs and Trade (MOFAT).  Cho stated 
+that he has noted USG request and would pass to his 
+superiors.  Additionally, Cho commented that the ROKG 
+position is to "stay the course" on its current approach to 
+PSI, indicating the ROKG is positively inclined to 
+participate in the exercise, but is unlikely to endorse the 
+statement of interdiction principles.  We will follow-up and 
+report on the ROK's decision and any developments. 
+STANTON
+</file>

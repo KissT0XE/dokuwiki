@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 801 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3539_a.html| 07SEOUL3539 ]] | [[/07SEOUL3539]] | 외무장관과 미 대사, 노무현 정부 말기에 한미 이슈 처리에 관해 논의 | 2007-12-14 | 기밀 | 완료 |
+| 802 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3540_a.html| 07SEOUL3540 ]] | [[/07SEOUL3540]] | 박진 한나라당 의원, 이명박 외교 정책팀 논평 | 2007-12-14 | 기밀 | 완료 |
+| 803 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3550_a.html| 07SEOUL3550 ]] | [[/07SEOUL3550]] | KBS 민경욱 기자, 이명박은 실용주의적이고 소심한 성격이라고 논평 | 2007-12-17 | 기밀 | 완료 |
+| 804 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3551_a.html| 07SEOUL3551 ]] | [[/07SEOUL3551]] | 한국, 유엔 총회에서 더반 검토서에 반대표 던지기로 | 2007-12-17 | 미분류 | |
+| 805 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3552_a.html| 07SEOUL3552 ]]| [[/07SEOUL3552]] | 여론조사 전문가들, 최후의 공격에도 불구하고 이명박의 대승을 예측 | 2007-12-17 | 기밀 | 완료 |
+| 806 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3554_a.html| 07SEOUL3554 ]] | [[/07SEOUL3554]] | 한국, 해성-II 함대함 미사일 시험 발사 취소 | 2007-12-17 | 비밀 | 완료 |
+| 807 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3555_a.html| 07SEOUL3555 ]] | [[/07SEOUL3555]] | BBK, 이명박 당선자를 따라다닐 것인가? | 2007-12-17 | 기밀 | 완료 |
+| 808 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3561_a.html| 07SEOUL3561 ]] | [[/07SEOUL3561]] | “불도저” 이명박은 정치판에서 사이좋게 지내는 방법을 익혀야 | 2007-12-18 | 기밀 | 완료 |
+| 809 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3573_a.html| 07SEOUL3573 ]] | [[/07SEOUL3573]] | 한국 정부, 미국 정부의 집속탄 정책 계속 지지 | 2007-12-19 | 기밀 | |
+| 810 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3574_a.html| 07SEOUL3574 ]] | [[/07SEOUL3574]] | 이명박, 압도적 승리 | 2007-12-19 | 비밀 | 완료 |
+| 811 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3575_a.html| 07SEOUL3575 ]] | [[/07SEOUL3575]] | 이명박 당선자는 어떤 인물인가? | 2007-12-19 | 기밀 | 완료 |
+| 812 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3576_a.html| 07SEOUL3576 ]] | [[/07SEOUL3576]] | 미합중국의 우선과제에 한국 신임 지도자 참여시키기 | 2007-12-19 | 비밀 | 완료 |
+| 813 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3577_a.html| 07SEOUL3577 ]] | [[/07SEOUL3577]] | 핵밀거래방지구상: 미국 에너지부와 한국 간 양해각서 체결 | 2007-12-20 | 미분류 | |
+| 814 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3578_a.html| 07SEOUL3578 ]] | [[/07SEOUL3578]] | 이명박, 전라도를 제외한 전국에서 압승 거둬 | 2007-12-20 | 기밀 | 완료 |
+| 815 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3579_a.html| 07SEOUL3579 ]] | [[/07SEOUL3579]] | ‘노무현과는 정반대’ 이명박 당선을 결정 | 2007-12-20 | 기밀 | 완료 |
+| 816 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3581_a.html| 07SEOUL3581 ]] | [[/07SEOUL3581]] | 미 대사, 이명박 대통령 당선자 예방 | 2007-12-20 | 기밀 | 완료 |
+| 817 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3595_a.html| 07SEOUL3595 ]] | [[/07SEOUL3595]] | 이명박의 외교정책팀: 이 대통령은 강한 한미동맹과 동일체 | 2007-12-26 | 기밀 | 완료 |
+| 818 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3596_a.html| 07SEOUL3596 ]] | [[/07SEOUL3596]] | 정당 간 분쟁 때문에 핵심 입법이 난항을 겪어 | 2007-12-26 | 기밀 | 완료 |
+| 819 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3608_a.html| 07SEOUL3608 ]] | [[/07SEOUL3608]] | 이명박 대통령 당선자, 인수위원 지명 | 2007-12-28 | 미분류 | 완료 |
+| 820 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3610_a.html| 07SEOUL3610 ]] | [[/07SEOUL3610]] | 한러, 가스관 조사키로 | 2007-12-28 | 대외비 | |
+| 821 | [[https://www.wikileaks.org/plusd/cables/07SEOUL3616_a.html| 07SEOUL3616 ]] | [[/07SEOUL3616]] | 김성민 자유북한방송 대표, 정부 보조금 횡령 혐의로 기소 | 2007-12-31 | 미분류 | 완료 |
+| 822 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2_a.html| 08SEOUL2 ]] | [[/08SEOUL2]] | 한국, 쿠르드 지방 정부와의 유전개발협약에 대한 이라크의 경고에 대해 출처 확인 시도 | 2008-01-01 | 대외비 | 완료 |
+| 823 | [[https://www.wikileaks.org/plusd/cables/08SEOUL7_a.html| 08SEOUL7 ]] | [[/08SEOUL7]] | 북한, 이산가족 상봉을 지원 대가로 여겨 | 2008-01-02 | 기밀 | |
+| 824 | [[https://www.wikileaks.org/plusd/cables/08SEOUL9_a.html| 08SEOUL9 ]] | [[/08SEOUL9]] | 동북아시아 에너지 협력을 위한 지역적 접근이 서서히 진행 중 | 2008-01-02 | 대외비 | |
+| 825 | [[https://www.wikileaks.org/plusd/cables/08SEOUL13_a.html| 08SEOUL13 ]] | [[/08SEOUL13]] | 대한항공, T-36M 통신·항법 장치 수령: 허가 05-0007000호에 따른 선적 후 최종 사용 검사 | 2008-01-03 | 미분류 | |
+| 826 | [[https://www.wikileaks.org/plusd/cables/08SEOUL14_a.html| 08SEOUL14 ]] | [[/08SEOUL14]] | 대한항공, T-36M 통신·항법 장치 수령: 허가 05-0007000호에 따른 선적 후 최종 사용 검사 | 2008-01-03 | 미분류 | |
+| 827 | [[https://www.wikileaks.org/plusd/cables/08SEOUL20_a.html| 08SEOUL20 ]] | [[/08SEOUL20]] | 이명박 대통령 당선자 보좌진, 텔레비전 토크쇼에 출연해 햇볕정책 거부 | 2008-01-04 | 대외비 | |
+| 828 | [[https://www.wikileaks.org/plusd/cables/08SEOUL21_a.html| 08SEOUL21 ]]| [[/08SEOUL21]] | 한국 정부, 이라크 정부에 병력호송장갑차 판매 고려 | 2008-01-04 | 기밀 | |
+| 829 | [[https://www.wikileaks.org/plusd/cables/08SEOUL22_a.html| 08SEOUL22 ]] | [[/08SEOUL22]] | 한국 정부, 미국이 제안한 글로벌 이니셔티브(이하 GI) 모델 지침서 지지 | 2008-01-04 | 기밀 | |
+| 830 | [[https://www.wikileaks.org/plusd/cables/08SEOUL37_a.html| 08SEOUL37 ]] | [[/08SEOUL37]] | 이명박 대통령 당선자, 전 미국 정부 관료들과 만나 북한 및 한미 동맹 논의 | 2008-01-07 | 기밀 | 완료 |
+| 831 | [[https://www.wikileaks.org/plusd/cables/08SEOUL43_a.html| 08SEOUL43 ]] | [[/08SEOUL43]] | 생존 가능하고 전략적인 한미 동맹을 위한 비전 2020(1부. 이명박 정부를 새로운 “전략적 동반자 관계”에 참여시킬 방안) | 2008-01-08 | 기밀 | 완료 |
+| 832 | [[https://www.wikileaks.org/plusd/cables/08SEOUL45_a.html| 08SEOUL45 ]] | [[/08SEOUL45]] | 생존 가능하고 전략적인 한미 동맹을 위한 비전 2020(2부. 이명박 정부를 새로운 “전략적 동반자 관계”에 참여시킬 방안) | 2008-01-09 | 기밀 | 완료 |
+| 833 | [[https://www.wikileaks.org/plusd/cables/08SEOUL55_a.html| 08SEOUL55 ]] | [[/08SEOUL55]] | 한국 정부, 중국의 위성요격(이하 ASAT) 시험에 대한 압박 계속 | 2008-01-09 | 비밀 | |
+| 834 | [[https://www.wikileaks.org/plusd/cables/08SEOUL62_a.html| 08SEOUL62 ]] | [[/08SEOUL62]] | 인수위원회 방미 대표단 단장 정몽준, 대통령을 꿈꾸다 | 2008-01-11 | 기밀 | 완료 |
+| 835 | [[https://www.wikileaks.org/plusd/cables/08SEOUL67_a.html| 08SEOUL67 ]] | [[/08SEOUL67]] | 포기는 없다—이재정 통일부 장관, 퇴임하면서도 3국 정상회담 주장 | 2008-01-13 | 기밀 | 완료 |
+| 836 | [[https://www.wikileaks.org/plusd/cables/08SEOUL68_a.html| 08SEOUL68 ]] | [[/08SEOUL68]] | 외무장관 후보자들, 작전통제권(OPCON), 북한, 정상회담 논의 | 2008-01-13 | 기밀 | 완료 |
+| 837 | [[https://www.wikileaks.org/plusd/cables/08SEOUL80_a.html| 08SEOUL80 ]] | [[/08SEOUL80]] | 이경숙, 인수위원회의 우선적 고려 사항 논의 | 2008-01-15 | 기밀 | 완료 |
+| 838 | [[https://www.wikileaks.org/plusd/cables/08SEOUL96_a.html| 08SEOUL96 ]] | [[/08SEOUL96]] | 대통합민주신당, 싸워보지도 않고 무릎 꿇다 | 2008-01-17 | 기밀 | 완료 |
+| 839 | [[https://www.wikileaks.org/plusd/cables/08SEOUL102_a.html| 08SEOUL102 ]] | [[/08SEOUL102]] | 이명박 대통령 당선자, FTA와 비자면제협정에 대한 상원의 지지 요청 | 2008-01-17 | 기밀 | 완료 |
+| 840 | [[https://www.wikileaks.org/plusd/cables/08SEOUL107_a.html| 08SEOUL107 ]] | [[/08SEOUL107]] | 마약법: 한국 정부, 국제마약단속위원회(INCB) 사전 통지 체제 참여 | 2008-01-18 | 미분류 | |
+| 841 | [[https://www.wikileaks.org/plusd/cables/08SEOUL111_a.html| 08SEOUL111 ]] | [[/08SEOUL111]] | 이명박 대통령은 한국을 어떻게 변화시킬 것인가?(1부) | 2008-01-18 | 기밀 | 완료 |
+| 842 | [[https://www.wikileaks.org/plusd/cables/08SEOUL112_a.html| 08SEOUL112 ]] | [[/08SEOUL112]] | 이명박의 핵심 보좌진, 신임 대통령이 새로운 대한민국을 이끌 거라 믿어 | 2008-01-18 | 기밀 | 완료 |
+| 843 | [[https://www.wikileaks.org/plusd/cables/08SEOUL126_a.html| 08SEOUL126 ]] | [[/08SEOUL126]] | 이명박 대통령은 한국을 어떻게 변화시킬 것인가?(2부) | 2008-01-22 | 기밀 | 완료 |
+| 844 | [[https://www.wikileaks.org/plusd/cables/08SEOUL127_a.html| 08SEOUL127 ]] | [[/08SEOUL127]] | 성과 발표를 한 달 앞둔 이명박 인수위원회 | 2008-01-22 | 기밀 | 완료 |
+| 845 | [[https://www.wikileaks.org/plusd/cables/08SEOUL139_a.html| 08SEOUL139 ]] | [[/08SEOUL139]] | 크리스토퍼 힐 동아시아태평양 담당 차관보, 1월 9일에 박근혜 한나라당 의원 면담 | 2008-01-24 | 기밀 | 완료 |
+| 846 | [[https://www.wikileaks.org/plusd/cables/08SEOUL140_a.html| 08SEOUL140 ]] | [[/08SEOUL140]] | 노무현 대통령, 크리스토퍼 힐 동아시아태평양 담당 차관보와 김정일, 6자 회담, 상호주의 논의 | 2008-01-24 | 기밀 | |
+| 847 | [[https://www.wikileaks.org/plusd/cables/08SEOUL144_a.html| 08SEOUL144 ]] | [[/08SEOUL144]] | 한국 정부, 탄도미사일 확산 방지를 위한 헤이그 지침(이하 HCOC) 연례 선언을 적시에 제출할 계획 | 2008-01-24 | 기밀 | |
+| 848 | [[https://www.wikileaks.org/plusd/cables/08SEOUL155_a.html| 08SEOUL155 ]] | [[/08SEOUL155]] | 이명박 보좌진, 상호주의를 정의 | 2008-01-25 | 기밀 | 완료 |
+| 849 | [[https://www.wikileaks.org/plusd/cables/08SEOUL162_a.html| 08SEOUL162 ]] | [[/08SEOUL162]] | 유력한 장관 후보자들 | 2008-01-25 | 기밀 | 완료 |
+| 850 | [[https://www.wikileaks.org/plusd/cables/08SEOUL163_a.html| 08SEOUL163 ]] | [[/08SEOUL163]] | 해양수산부, 뒤숭숭한 분위기 | 2008-01-25 | 대외비 | 완료 |
+| 851 | [[https://www.wikileaks.org/plusd/cables/08SEOUL176_a.html| 08SEOUL176 ]]| [[/08SEOUL176]] | 세드니 국방부 부차관보 현 정부관리 및 대통령직 인수위원회와 동맹, 전시작전권 이양, 아프간 문제를 논의 | 2008-01-28 | 기밀 | 완료 |
+| 852 | [[https://www.wikileaks.org/plusd/cables/08SEOUL178_a.html| 08SEOUL178 ]] | [[/08SEOUL178]] | 한승수, 이명박 정부 초대 총리로 발탁 | 2008-01-28 | 대외비 | 완료 |
+| 853 | [[https://www.wikileaks.org/plusd/cables/08SEOUL221_a.html| 08SEOUL221 ]] | [[/08SEOUL221]] | 당내 분쟁에도 불구하고 한나라당의 4월 총선 전망은 어둡지 않아 | 2008-02-01 | 기밀 | 완료 |
+| 854 | [[https://www.wikileaks.org/plusd/cables/08SEOUL243_a.html| 08SEOUL243 ]] | [[/08SEOUL243]] | 한국 정부 조사단, 한국 기업이 공작기계를 북한에 수출하지 않았음을 확인 | 2008-02-05 | 비밀 | |
+| 855 | [[https://www.wikileaks.org/plusd/cables/08SEOUL244_a.html| 08SEOUL244 ]] | [[/08SEOUL244]] | 한국, 해성-II 함대함 미사일 시험 발사 3월 27일로 예정 | 2008-02-05 | 비밀 | |
+| 856 | [[https://www.wikileaks.org/plusd/cables/08SEOUL262_a.html| 08SEOUL262 ]] | [[/08SEOUL262]] | 청와대 수석비서관 인선 발표 | 2008-02-11 | 미분류 | 완료 |
+| 857 | [[https://www.wikileaks.org/plusd/cables/08SEOUL287_a.html| 08SEOUL287 ]]| [[/08SEOUL287]] | 선적 전 최종 사용 검사 신청 05-050082328에 대한 반응 | 2008-02-13 | 미분류 | |
+| 858 | [[https://www.wikileaks.org/plusd/cables/08SEOUL291_a.html| 08SEOUL291 ]] | [[/08SEOUL291]] | SHIELD S08F-05: 한국 기업들, 이중 용도 장비 이란에 판매 | 2008-02-13 | 비밀 | |
+| 859 | [[https://www.wikileaks.org/plusd/cables/08SEOUL292_a.html| 08SEOUL292 ]] | [[/08SEOUL292]] | 한국, 코소보 독립을 인정하겠지만 (노무현과 이명박 중) 어느 대통령이? | 2008-02-13 | 기밀 | 완료 |
+| 860 | [[https://www.wikileaks.org/plusd/cables/08SEOUL295_a.html| 08SEOUL295 ]] | [[/08SEOUL295]] | 한국 정부, IAEA 이란 수출 거부 공유 체계에 만족 | 2008-02-14 | 기밀 | 완료 |
+| 861 | [[https://www.wikileaks.org/plusd/cables/08SEOUL297_a.html| 08SEOUL297 ]] | [[/08SEOUL297]] | 내각 개편 난항 | 2008-02-14 | 미분류 | 완료 |
+| 862 | [[https://www.wikileaks.org/plusd/cables/08SEOUL317_a.html| 08SEOUL317 ]] | [[/08SEOUL317]] | 부산의 한나라당 공천을 놓고 경쟁이 치열 | 2008-02-18 | 미분류 | 완료 |
+| 863 | [[https://www.wikileaks.org/plusd/cables/08SEOUL327_a.html| 08SEOUL327 ]] | [[/08SEOUL327]] | 북한에 송환된 사람들의 운명은 한국 정부가 인권 문제에 실패했음을 보여줌 | 2008-02-19 | 기밀 | |
+| 864 | [[https://www.wikileaks.org/plusd/cables/08SEOUL329_a.html| 08SEOUL329 ]] | [[/08SEOUL329]] | 올바른 방향 설정: 이경숙 인수위원장과 김병국 외교안보수석 지명자의 전망 | 2008-02-20 | 기밀 | 완료 |
+| 865 | [[https://www.wikileaks.org/plusd/cables/08SEOUL330_a.html| 08SEOUL330 ]] | [[/08SEOUL330]] | 한국, 코소보 독립에 대한 지지를 거듭 천명했으나 독립 인정은 신임 대통령이 할 예정 | 2008-02-20 | 기밀 | |
+| 866 | [[https://www.wikileaks.org/plusd/cables/08SEOUL336_a.html| 08SEOUL336 ]] | [[/08SEOUL336]] | 이스라엘의 주스칸스 그룹 정식 가입에 대한 한국의 입장은 변화 없음 | 2008-02-20 | 대외비 | |
+| 867 | [[https://www.wikileaks.org/plusd/cables/08SEOUL341_a.html| 08SEOUL341 ]] | [[/08SEOUL341]] | 블루랜턴 3단계 허가 05-050050727에 대한 반응 | 2008-02-21 | 미분류 | |
+| 868 | [[https://www.wikileaks.org/plusd/cables/08SEOUL342_a.html| 08SEOUL342 ]] | [[/08SEOUL342]] | 블루랜턴 3단계 허가 05-0055232에 대한 반응 | 2008-02-21 | 미분류 | |
+| 869 | [[https://www.wikileaks.org/plusd/cables/08SEOUL343_a.html| 08SEOUL343 ]] | [[/08SEOUL343]] | 무대 연출: 이명박, 한미 관계 개선 약속 | 2008-02-21 | 기밀 | 완료 |
+| 870 | [[https://www.wikileaks.org/plusd/cables/08SEOUL347_a.html| 08SEOUL347 ]] | [[/08SEOUL347]] | 협상 타결: 정부 규모 축소 법안 통과 예정 | 2008-02-21 | 대외비 | 완료 |
+| 871 | [[https://www.wikileaks.org/plusd/cables/08SEOUL349_a.html| 08SEOUL349 ]] | [[/08SEOUL349]] | 답신: 미국 위성 사업에 대한 국제 통보 | 2008-02-21 | 대외비 | |
+| 872 | [[https://www.wikileaks.org/plusd/cables/08SEOUL362_a.html| 08SEOUL362 ]] | [[/08SEOUL362]] | 이란 행 미국산 상업 항공기 보류 요청에 대한 한국 반응 | 2008-02-25 | 비밀/외국전파금지 | 완료 |
+| 873 | [[https://www.wikileaks.org/plusd/cables/08SEOUL365_a.html| 08SEOUL365 ]] | [[/08SEOUL365]] | 노무현 대통령, 격동의 임기: 역사들의 평가는 후할 것 | 2008-02-25 | 기밀 | 완료 |
+| 874 | [[https://www.wikileaks.org/plusd/cables/08SEOUL379_a.html| 08SEOUL379 ]] | [[/08SEOUL379]] | 외교문서에 대한 한국 반응: 쿠바 변화에 대한 미국 입장 제시 | 2008-02-26 | 기밀 | |
+| 875 | [[https://www.wikileaks.org/plusd/cables/08SEOUL390_a.html| 08SEOUL390 ]] | [[/08SEOUL390]] | 이명박 신임 대통령에 대한 열렬한 지지가 수그러들어 | 2008-02-27 | 기밀 | 완료 |
+| 876 | [[https://www.wikileaks.org/plusd/cables/08SEOUL392_a.html| 08SEOUL392 ]] | [[/08SEOUL392]] | 정치적 대결은 계속, 총리 인준은 아직 | 2008-02-27 | 기밀 | 완료 |
+| 877 | [[https://www.wikileaks.org/plusd/cables/08SEOUL442_a.html| 08SEOUL422 ]] | [[/08SEOUL422]] | 이란 행 747 항공기에 대한 한국의 추가 정보 | 2008-03-04 | 비밀/외국전파금지 | |
+| 878 | [[https://www.wikileaks.org/plusd/cables/08SEOUL453_a.html| 08SEOUL453 ]] | [[/08SEOUL453]] | 선거 전망: 한나라당 강세, 진보 진영 패배의 먹구름 | 2008-03-07 | 기밀 | 완료 |
+| 879 | [[https://www.wikileaks.org/plusd/cables/08SEOUL454_a.html| 08SEOUL454 ]] | [[/08SEOUL454]] | 김하중 신임 통일부 장관: 외교통상부에서 잔뼈가 굵은 동북아시아 전문가 | 2008-03-07 | 기밀 | |
+| 880 | [[https://www.wikileaks.org/plusd/cables/08SEOUL455_a.html| 08SEOUL455 ]] | [[/08SEOUL455]] | 신임 국방장관, 공동의 이익을 규정하는 것이 한미 동맹 강화의 핵심이라고 주장 | 2008-03-07 | 비밀 | 완료 |
+| 881 | [[https://www.wikileaks.org/plusd/cables/08SEOUL459_a.html| 08SEOUL459 ]] | [[/08SEOUL459]] | 통일부 관료, 북한 비핵화 진척을 남북 관계의 조건으로 내걸어 | 2008-03-10 | 기밀 | 완료 |
+| 882 | [[https://www.wikileaks.org/plusd/cables/08SEOUL474_a.html| 08SEOUL474 ]] | [[/08SEOUL474]] | 비정부 기구 연락선, 국가별 인권상황 정례검토 절차에 대해 몰라 | 2008-03-11 | 미분류 | |
+| 883 | [[https://www.wikileaks.org/plusd/cables/08SEOUL488_a.html| 08SEOUL488 ]] | [[/08SEOUL488]] | 김병국 외교안보수석, 생산적인 정상회담을 예상하고 짧은 성명 옹호 | 2008-03-12 | 기밀 | 완료 |
+| 884 | [[https://www.wikileaks.org/plusd/cables/08SEOUL496_a.html| 08SEOUL496 ]]| [[/08SEOUL496]] | 부산은 의외로 북한과 가깝다 | 2008-03-13 | 미분류 | |
+| 885 | [[https://www.wikileaks.org/plusd/cables/08SEOUL499_a.html| 08SEOUL499 ]]| [[/08SEOUL499]] | 한국 비정부 기구들, 북한에서 어려움 겪어 | 2008-03-13 | 미분류 | |
+| 886 | [[https://www.wikileaks.org/plusd/cables/08SEOUL502_a.html| 08SEOUL502 ]] | [[/08SEOUL502]] | 한국, 이란 의회 선거에 대한 미국의 견해에 동의하지만 성명에 대해서는 신중한 입장 | 2008-03-14 | 기밀 | |
+| 887 | [[https://www.wikileaks.org/plusd/cables/08SEOUL513_a.html| 08SEOUL513 ]] | [[/08SEOUL513]] | 손학규, 대통합민주신당이 패배의 충격을 겪지 않도록 지휘 | 2008-03-17 | 기밀 | |
+| 888 | [[https://www.wikileaks.org/plusd/cables/08SEOUL530_a.html| 08SEOUL530 ]] | [[/08SEOUL530]] | 한나라당 현직 의원 기록적인 공천 탈락 | 2008-03-18 | 기밀 | 완료 |
+| 889 | [[https://www.wikileaks.org/plusd/cables/08SEOUL555_a.html| 08SEOUL555 ]] | [[/08SEOUL555]] | 참을성 있는 박근혜, 한나라당 정치 역학과 북한 정책 논의 | 2008-03-20 | 기밀 | 완료 |
+| 890 | [[https://www.wikileaks.org/plusd/cables/08SEOUL560_a.html| 08SEOUL560 ]] | [[/08SEOUL560]] | 한국, 5월 버마 국민 투표 참여율 제고 요청을 지지하기로 | 2008-03-20 | 기밀 | 완료 |
+| 891 | [[https://www.wikileaks.org/plusd/cables/08SEOUL561_a.html| 08SEOUL561 ]] | [[/08SEOUL561]] | 한국, 북한과 버마에 대한 인권위원회 특별 명령 지지 | 2008-03-20 | 기밀 | 완료 |
+| 892 | [[https://www.wikileaks.org/plusd/cables/08SEOUL562_a.html| 08SEOUL562 ]] | [[/08SEOUL562]] | 미국 주최로 열린 2008년 첫 아시아태평양민주주의협력체(APDP) 회의에서 한국이 인도네시아에 합동 외교문서 전달을 고려하기로 | 2008-03-20 | 기밀 | |
+| 893 | [[https://www.wikileaks.org/plusd/cables/08SEOUL566_a.html| 08SEOUL566 ]] | [[/08SEOUL566]] | 미 대사, 권종락 외무차관 면담 | 2008-03-20 | 기밀 | 완료 |
+| 894 | [[https://www.wikileaks.org/plusd/cables/08SEOUL573_a.html| 08SEOUL573 ]] | [[/08SEOUL573]] | 보잉 747 항공기를 마한 항공(이란 항공사)에 인도하지 말라는 임시수출금지명령(이하 TDO)에 대한 한국 정부의 반응 | 2008-03-21 | 비밀/외국전파금지 | |
+| 895 | [[https://www.wikileaks.org/plusd/cables/08SEOUL574_a.html| 08SEOUL574 ]] | [[/08SEOUL574]] | 송민순 전 외무장관, 대통합민주신당 후보로 국회의원 출마 선언 | 2008-03-21 | 기밀 | 완료 |
+| 896 | [[https://www.wikileaks.org/plusd/cables/08SEOUL575_a.html| 08SEOUL575 ]] | [[/08SEOUL575]] | 한승주 외무장관, 이명박의 외교 정책 혹평 | 2008-03-21 | 기밀 | 완료 |
+| 897 | [[https://www.wikileaks.org/plusd/cables/08SEOUL576_a.html| 08SEOUL576 ]] | [[/08SEOUL576]] | 대한항공, 이란 행 747 항공기에 대한 TDO 준수에 동의. 추가 확인 요청했음 | 2008-03-22 | 비밀/외국전파금지 | 할당 |
+| 898 | [[https://www.wikileaks.org/plusd/cables/08SEOUL583_a.html| 08SEOUL583 ]] | [[/08SEOUL583]] | 블루랜턴 3단계 허가 05-050031252에 대한 한국 반응 | 2008-03-24 | 미분류 | |
+| 899 | [[https://www.wikileaks.org/plusd/cables/08SEOUL592_a.html| 08SEOUL592 ]] | [[/08SEOUL592]] | 무대연출자: 3월 26일 한국정부 외교통상부 장관 유명환과 회의 | 2008-03-25 | 비밀 | 완료 |
+| 900 | [[https://www.wikileaks.org/plusd/cables/08SEOUL594_a.html| 08SEOUL594 ]] | [[/08SEOUL594]] | 05-050090721호 및 05-050090722호에 따른 블루랜턴 3단계 허가 전 최종 사용 검사 | 2008-03-25 | 미분류 | |
+</sortable>

@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 1101 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2119_a.html| 08SEOUL2119 ]]| [[/08SEOUL2119]] | 한미 정책기획협의: 유명환 한일 간의 유대관계 강조; 외교통상부 당국자들을 G20 정상회담을 고대 | 2008-10-29 | 기밀 | 완료 |
+| 1102 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2120_a.html| 08SEOUL2120 ]]| [[/08SEOUL2120]] | 국회 통일외교통상위원회, 대북 정책과 한미 FTA, 테러 지원국 명단 숙의 | 2008-10-30 | 대외비 | 완료 |
+| 1103 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2130_a.html| 08SEOUL2130 ]]| [[/08SEOUL2130]] | 한국, NHK-II 지대지 미사일 시험 발사 | 2008-10-30 | 비밀 | 완료 |
+| 1104 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2137_a.html| 08SEOUL2137 ]]| [[/08SEOUL2137]] | 미사일 기술 통제 체제(MTCR): ‘사히드 바케리 인더스트리얼 그룹(SBIG), 환경 시험기 조달 시도: 사례 연구’ | 2008-11-02 | 비밀 | |
+| 1105 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2154_a.html| 08SEOUL2154 ]]| [[/08SEOUL2154]] | 제19차 안보정책구상 총회 | 2008-11-04 | 기밀 | 완료 |
+| 1106 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2155_a.html| 08SEOUL2155 ]]| [[/08SEOUL2155]] | 한국, 한중일 국방 회의 개최에 대해 미국의 견해 타진 | 2008-11-04 | 기밀 | 완료 |
+| 1107 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2160_a.html| 08SEOUL2160 ]]| [[/08SEOUL2160]] | 이란 금융제재 조치에 대한 한국 반응 | 2008-11-04 | 미분류 | 완료 |
+| 1108 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2166_a.html| 08SEOUL2166 ]]| [[/08SEOUL2166]] | 한국, 첫 APDP 고위급 회의(SOM)를 주관하는 임무 받아들여 | 2008-11-05 | 미분류 | |
+| 1109 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2168_a.html| 08SEOUL2168 ]]| [[/08SEOUL2168]] | 금융조치대책기구(FATF) 지침에 대한 한국 정부의 반응 | 2008-11-05 | 미분류 | |
+| 1110 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2176_a.html| 08SEOUL2176 ]]| [[/08SEOUL2176]] | 미 대사와 노동부 장관, 노동자에게 미치는 경제적 영향 논의 | 2008-11-06 | 기밀 | |
+| 1111 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2177_a.html| 08SEOUL2177 ]]| [[/08SEOUL2177]] | 외교통상부와 미국 서반구국, 한국과 라틴아메리카의 관계 확대에 대해 협의 | 2008-11-06 | 기밀 | |
+| 1112 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2178_a.html| 08SEOUL2178 ]]| [[/08SEOUL2178]] | 대북 전단 살포 계속 | 2008-11-07 | 기밀 | 완료 |
+| 1113 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2182_a.html| 08SEOUL2182 ]]| [[/08SEOUL2182]] | 유엔 제3위원회(사회적·인도적·문화적 의제를 다룬다) 결의안에 대한 한국 정부 반응 | 2008-11-07 | 기밀 | 완료 |
+| 1114 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2191_a.html| 08SEOUL2191 ]]| [[/08SEOUL2191]] | 한국 언론의 반응 | 2008-11-10 | 미분류 | 완료 |
+| 1115 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2192_a.html| 08SEOUL2192 ]]| [[/08SEOUL2192]] | 언론 브리핑—2008년 11월 10일 | 2008-11-10 | 미분류 | |
+| 1116 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2103_a.html| 08SEOUL2203 ]]| [[/08SEOUL2203]] | 미 대사, 박근혜 한나라당 대표 면담 | 2008-11-13 | 기밀 | 완료 |
+| 1117 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2106_a.html| 08SEOUL2206 ]]| [[/08SEOUL2206]] | 북한의 국경 제한 선언에 대해 한국 정부, 차분한 대응 | 2008-11-13 | 기밀 | 완료 |
+| 1118 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2218_a.html| 08SEOUL2218 ]]| [[/08SEOUL2218]] | 한승수 총리, 한미 FTA와 관련 기다릴 채비, 북한의 강경 기조의 배경엔 내부 문제가 | 2008-11-14 | 기밀 | 완료 |
+| 1119 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2231_a.html| 08SEOUL2231 ]]| [[/08SEOUL2231]] | 못타키 이란 총리, 아프가니스탄과 이라크 문제에 협력할 수 있어. 대북 군사 협력은 “불필요” | 2008-11-18 | 기밀 | |
+| 1120 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2248_a.html| 08SEOUL2248 ]]| [[/08SEOUL2248]] | 한국 정부, 최근 버마 군부의 자국민 탄압에 소극적 대처 | 2008-11-21 | 기밀 | 완료 |
+| 1121 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2250_a.html| 08SEOUL2250 ]]| [[/08SEOUL2250]] | 한국, 해성-2 순항미사일 비행 시험 시행 | 2008-11-21 | 비밀 | 완료 |
+| 1122 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2251_a.html| 08SEOUL2251 ]]| [[/08SEOUL2251]] | 니카라과의 정치 상황, 한국 정부에 근심거리 | 2008-11-21 | 기밀 | |
+| 1123 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2252_a.html| 08SEOUL2252 ]]| [[/08SEOUL2252]] | 이라노 힌드(이란 해운사) 외교문서에 대한 한국 정부의 반응 | 2008-11-21 | 비밀 | 완료 |
+| 1124 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2261_a.html| 08SEOUL2261 ]]| [[/08SEOUL2261]] | 12월 15~19일 지적 재산권 관리 프로그램 대상자 | 2008-11-24 | 미분류 | |
+| 1125 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2265_a.html| 08SEOUL2265 ]]| [[/08SEOUL2265]] | 한국 언론의 반응 | 2008-11-24 | 미분류 | |
+| 1126 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2268_a.html| 08SEOUL2268 ]]| [[/08SEOUL2268]] | 서울 문화재 반환 회의에 대한 외교문서 | 2008-11-25 | 기밀 | 완료 |
+| 1127 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2270_a.html| 08SEOUL2270 ]]| [[/08SEOUL2270]] | 북한의 개성 공단 압박이 가중되는 것에 대한 한국 정부의 반응 | 2008-11-25 | 기밀 | 완료 |
+| 1128 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2275_a.html| 08SEOUL2275 ]]| [[/08SEOUL2275]] | 미 대사, 광주 방문: 정치적으로는 진보적, 경제적으로 퇴행적 | 2008-11-26 | 기밀 | 완료 |
+| 1129 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2278_a.html| 08SEOUL2278 ]]| [[/08SEOUL2278]] | 이란에 대한 금융조치대책기구(FATF) 성명에 대한 한국 정부의 대응 추가 정보 | 2008-11-26 | 미분류 | |
+| 1130 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2279_a.html| 08SEOUL2279 ]]| [[/08SEOUL2279]] | 언론 브리핑—2008년 11월 26일 | 2008-11-26 | 미분류 | |
+| 1131 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2281_a.html| 08SEOUL2281 ]]| [[/08SEOUL2281]] | 미 대사, 이용준 외교통상부 차관보 면담: 기지 반환, 작전통제권(OPCON), 미 대사관 신축 부지(NEC) 문제 논의 | 2008-11-26 | 기밀 | 완료 |
+| 1132 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2282_a.html| 08SEOUL2282 ]]| [[/08SEOUL2282]] | 통일부 장관, 북한 국경 제한 조치 언급 | 2008-11-26 | 기밀 | |
+| 1133 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2285_a.html| 08SEOUL2285 ]]| [[/08SEOUL2285]] | 반북 민간단체 전단 살포 계속한다고 공언 | 2008-11-28 | 기밀 | 완료 |
+| 1134 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2286_a.html| 08SEOUL2286 ]]| [[/08SEOUL2286]] | 언론 브리핑—2008년 11월 26일 | 2008-11-28 | 미분류 | |
+| 1135 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2289_a.html| 08SEOUL2289 ]]| [[/08SEOUL2289]] | 재닛 옐런 샌프란시스코 연방준비은행 총재, 2008년 11월 17~19일 방한 | 2008-12-01 | 대외비 | |
+| 1136 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2293_a.html| 08SEOUL2293 ]]| [[/08SEOUL2293]] | 한국 경제 브리핑—2008년 11월 | 2008-12-01 | 미분류 | |
+| 1137 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2304_a.html| 08SEOUL2304 ]]| [[/08SEOUL2304]] | 한국, 아세안지역포럼(ARF) 재난 구호 연습 | 2008-12-02 | 대외비 | |
+| 1138 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2305_a.html| 08SEOUL2305 ]]| [[/08SEOUL2305]] | 탈북자 지원: 민간 지원으로 한국 정부 프로그램 보완 | 2008-12-02 | 기밀 | 완료 |
+| 1139 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2306_a.html| 08SEOUL2306 ]]| [[/08SEOUL2306]] | 자유북한캠페인, 지금껏 알려지지 않은 북한 포로 수용소의 인권 침해 실태 폭로 | 2008-12-02 | 미분류 | |
+| 1140 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2307_a.html| 08SEOUL2307 ]]| [[/08SEOUL2307]] | 한미 방위비 분담 (잠정) 특별협정 | 2008-12-02 | 기밀 | 완료 |
+| 1141 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2332_a.html| 08SEOUL2332 ]]| [[/08SEOUL2332]] | 이스라엘 반대 유엔 총회 결의안에 대한 한국의 태도는 바뀌지 않을 듯 | 2008-12-05 | 기밀 | |
+| 1142 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2333_a.html| 08SEOUL2333 ]]| [[/08SEOUL2333]] | 외교문서 요청—한국의 에르빌 지역재건단(RRT) 참여 | 2008-12-05 | 미분류 | |
+| 1143 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2335_a.html| 08SEOUL2335 ]]| [[/08SEOUL2335]] | 국회의원, 남북 관계에 대해 견해차 | 2008-12-05 | 기밀 | 완료 |
+| 1144 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2336_a.html| 08SEOUL2336 ]]| [[/08SEOUL2336]] | 외교부 장관과 통일부 장관, 남북의 경색 국면 언급 | 2008-12-05 | 기밀 | |
+| 1145 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2340_a.html| 08SEOUL2340 ]]| [[/08SEOUL2340]] | 이명박 대통령, 인기가 없지만 야당보다는 나아 | 2008-12-08 | 기밀 | 완료 |
+| 1146 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2341_a.html| 08SEOUL2341 ]]| [[/08SEOUL2341]] | 언론 브리핑—2008년 12월 8일 | 2008-12-08 | 미분류 | |
+| 1147 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2354_a.html| 08SEOUL2354 ]]| [[/08SEOUL2354]] | 아세안지역포럼(ARF) 재난 구호 연습: 한국 정부는 예산 사정으로 참가에 제약 | 2008-12-09 | 미분류 | |
+| 1148 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2355_a.html| 08SEOUL2355 ]]| [[/08SEOUL2355]] | 한국, 해적 행위 근절 권고 및 계획 | 2008-12-09 | 기밀 | 완료 |
+| 1149 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2361_a.html| 08SEOUL2361 ]]| [[/08SEOUL2361]] | 외교문서 응답: 레이시 법 수정안 이행 | 2008-12-10 | 미분류 | |
+| 1150 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2363_a.html| 08SEOUL2363 ]]| [[/08SEOUL2363]] | 유럽연합의 승인 기관 규제에 대한 한국 정부의 반응 | 2008-12-11 | 미분류 | |
+| 1151 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2382_a.html| 08SEOUL2382 ]]| [[/08SEOUL2382]] | 탈북 지식인, 북한 엘리트가 변화의 열쇠라고. 북중 관계 강화될 거로 예상 | 2008-12-12 | 기밀 | 완료 |
+| 1152 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2383_a.html| 08SEOUL2383 ]]| [[/08SEOUL2383]] | 중국의 부상에 대한 한국의 견해 | 2008-12-12 | 기밀 | 완료 |
+| 1153 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2387_a.html| 08SEOUL2387 ]]| [[/08SEOUL2387]] | 아프리카 해적 행위: 연락그룹 구성 | 2008-12-12 | 미분류 | |
+| 1154 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2388_a.html| 08SEOUL2388 ]]| [[/08SEOUL2388]] | 한국 기업과 파키스탄 미사일 계획 관련 기관의 협력 지속 | 2008-12-12 | 비밀 | 보완 |
+| 1155 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2389_a.html| 08SEOUL2389 ]]| [[/08SEOUL2389]] | 정기국회에서 처리된 법안은 7.5퍼센트. 임시국회도 마찬가지일 듯 | 2008-12-12 | 기밀 | 완료 |
+| 1156 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2390_a.html| 08SEOUL2390 ]]| [[/08SEOUL2390]] | 탈북자동지회, 탈북자의 지위 향상과 결속력 추구 | 2008-12-12 | 기밀 | 완료 |
+| 1157 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2396_a.html| 08SEOUL2396 ]]| [[/08SEOUL2396]] | 한국, 북한 선박이 이란에 무기를 수송한다고 의심 | 2008-12-15 | 비밀 | |
+| 1158 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2399_a.html| 08SEOUL2399 ]]| [[/08SEOUL2399]] | 한국 언론의 반응 | 2008-12-15 | 미분류 | |
+| 1159 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2400_a.html| 08SEOUL2400 ]]| [[/08SEOUL2400]] | 최장집: 한국은 아직 성숙한 민주주의 사회가 아니다 | 2008-12-15 | 기밀 | |
+| 1160 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2401_a.html| 08SEOUL2401 ]]| [[/08SEOUL2401]] | 언론 브리핑—2008년 12월 15일 | 2008-12-15 | 미분류 | |
+| 1161 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2402_a.html| 08SEOUL2402 ]]| [[/08SEOUL2402]] | 탈북자의 삶: 결혼, 증언, 고난, 희망 | 2008-12-15 | 미분류 | |
+| 1162 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2403_a.html| 08SEOUL2403 ]]| [[/08SEOUL2403]] | 2009년 예산 국회 통과. 더 많은 충돌이 남아 있어 | 2008-12-15 | 기밀 | 완료 |
+| 1163 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2408_a.html| 08SEOUL2408 ]]| [[/08SEOUL2408]] | 북한 경제 브리핑—2008년 11월 | 2008-12-16 | 미분류 | 할당 |
+| 1164 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2409_a.html| 08SEOUL2409 ]]| [[/08SEOUL2409]] | 한국 정부, 단호한 대북 기조 유지키로 | 2008-12-16 | 기밀 | 완료 |
+| 1165 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2411_a.html| 08SEOUL2411 ]]| [[/08SEOUL2411]] | 한국 언론의 반응 | 2008-12-16 | 미분류 | |
+| 1166 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2423_a.html| 08SEOUL2423 ]]| [[/08SEOUL2423]] | 언론 브리핑—2008년 12월 17일 | 2008-12-17 | 미분류 | |
+| 1167 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2427_a.html| 08SEOUL2427 ]]| [[/08SEOUL2427]] | 한국 언론의 반응 | 2008-12-18 | 미분류 | |
+| 1168 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2428_a.html| 08SEOUL2428 ]]| [[/08SEOUL2428]] | 유네스코 사무총장 선거 | 2008-12-18 | 기밀 | |
+| 1169 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2429_a.html| 08SEOUL2429 ]]| [[/08SEOUL2429]] | 한미 방위비 분담금 특별협정 발의 | 2008-12-18 | 미분류 | 완료 |
+| 1170 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2431_a.html| 08SEOUL2431 ]]| [[/08SEOUL2431]] | 한국, 언론이 반기지 않아도 아프가니스탄 지원하기로 계획 | 2008-12-18 | 기밀 | |
+| 1171 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2433_a.html| 08SEOUL2433 ]]| [[/08SEOUL2433]] | 후쿠오카 한중일 정상회담의 경제적 측면에 대한 한국 정부의 견해 | 2008-12-18 | 대외비 | |
+| 1172 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2441_a.html| 08SEOUL2441 ]]| [[/08SEOUL2441]] | 허가 050108473호에 따른 블루랜턴 3단계 선적 후 최종 사용 검사 | 2008-12-19 | 미분류 | |
+| 1173 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2444_a.html| 08SEOUL2444 ]]| [[/08SEOUL2444]] | 환경부 장관, 기후 변화와 주한미군 기지 반환, 차량 배기가스 규제 언급 | 2008-12-19 | 기밀 | |
+| 1174 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2446_a.html| 08SEOUL2446 ]]| [[/08SEOUL2446]] | 북한 인권 및 탈북자 문제에 대한 한국 전문가 | 2008-12-22 | 기밀 | |
+| 1175 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2447_a.html| 08SEOUL2447 ]]| [[/08SEOUL2447]] | 보호무역 거부에 관한 G-20 외교문서: 한국은 미국과 관심사를 공유하며 새로운 G-20 실무 감시 그룹을 설립하자고 제안 | 2008-12-22 | 기밀 | |
+| 1176 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2448_a.html| 08SEOUL2448 ]]| [[/08SEOUL2448]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2008년 11월 | 2008-12-22 | 미분류 | |
+| 1177 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2452_a.html| 08SEOUL2452 ]]| [[/08SEOUL2452]] | 미 대사, 법무부 장관과 상견례 | 2008-12-22 | 미분류 | |
+| 1178 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2453_a.html| 08SEOUL2453 ]]| [[/08SEOUL2453]] | 언론 브리핑—2008년 12월 22일 | 2008-12-22 | 미분류 | |
+| 1179 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2457_a.html| 08SEOUL2457 ]]| [[/08SEOUL2457]] | 제승완 민정1비서관실 선임행정관, FTA 및 주요 법안이 통과될 것이라 밝혀 | 2008-12-22 | 기밀 | 완료 |
+| 1180 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2458_a.html| 08SEOUL2458 ]]| [[/08SEOUL2458]] | 영남: 한나라당 지지와 지역주의가 아직도 기승을 부려 | 2008-12-23 | 기밀 | 완료 |
+| 1181 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2461_a.html| 08SEOUL2461 ]]| [[/08SEOUL2461]] | 한러 전략 대화가 긴밀해진 관계 위에 구축 | 2008-12-23 | 기밀 | |
+| 1182 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2464_a.html| 08SEOUL2464 ]]| [[/08SEOUL2464]] | 미국 행정명령 13382호에서 지정한 이란 기관에 대한 외교문서 전달 | 2008-12-24 | 대외비 | 완료 |
+| 1183 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2485_a.html| 08SEOUL2485 ]]| [[/08SEOUL2485]] | 김진선 강원도지사, 관광과 북한 문제, 기후 변화 언급 | 2008-12-30 | 기밀 | |
+| 1184 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2487_a.html| 08SEOUL2487 ]]| [[/08SEOUL2487]] | 언론 브리핑—2008년 12월 30일 | 2008-12-30 | 미분류 | |
+| 1185 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1_a.html| 08SEOUL1 ]]| [[/08SEOUL1]] | 1월 8일 국무부 장관 방한을 위한 무대연출 | 2008-12-31 | 기밀 | 완료 |
+| 1186 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2496_a.html| 08SEOUL2496 ]]| [[/08SEOUL2496]] | 한국, 소말리아해적퇴치연락그룹(CGSP)에 대표 파견하기로 | 2008-12-31 | 미분류 | |
+| 1187 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2499_a.html| 08SEOUL2499 ]]| [[/08SEOUL2499]] | 이란에 대한 압박을 가중하는 것에 대한 한국 정부의 견해 | 2008-12-31 | 기밀 | |
+| 1188 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2502_a.html| 08SEOUL2502 ]]| [[/08SEOUL2502]] | 1월 8일 국무부 장관 방한을 위한 무대연출 | 2008-12-31 | 기밀 | 완료 |
+| 1189 | [[https://www.wikileaks.org/plusd/cables/08SEOUL2_a.html| 09SEOUL2 ]]| [[/09SEOUL2]] | 한국 경제 성장이 둔화되고 있음—2009년 상반기 전망 어두워 | 2009-01-01 | 대외비 | |
+| 1190 | [[https://www.wikileaks.org/plusd/cables/08SEOUL3_a.html| 09SEOUL3 ]]| [[/09SEOUL3]] | 언론 브리핑—2008년 12월 31일 | 2009-01-01 | 미분류 | |
+| 1191 | [[https://www.wikileaks.org/plusd/cables/08SEOUL4_a.html| 09SEOUL4 ]]| [[/09SEOUL4]] | 2008~2009년 남북한 국제마약단속전략 보고서(INCSR) | 2009-01-02 | 미분류 | |
+| 1192 | [[https://www.wikileaks.org/plusd/cables/08SEOUL7_a.html| 09SEOUL7 ]]| [[/09SEOUL7]] | 언론 브리핑—2008년 12월 31일 | 2009-01-02 | 미분류 | |
+| 1193 | [[https://www.wikileaks.org/plusd/cables/08SEOUL8_a.html| 09SEOUL8 ]]| [[/09SEOUL8]] | 한국 언론의 반응 | 2009-01-02 | 미분류 | |
+| 1194 | [[https://www.wikileaks.org/plusd/cables/08SEOUL10_a.html| 09SEOUL10 ]]| [[/09SEOUL10]] | 언론 브리핑—2009년 1월 2일 | 2009-01-02 | 미분류 | |
+| 1195 | [[https://www.wikileaks.org/plusd/cables/08SEOUL12_a.html| 09SEOUL12 ]]| [[/09SEOUL12]] | 한국 언론의 반응 | 2009-01-05 | 미분류 | |
+| 1196 | [[https://www.wikileaks.org/plusd/cables/08SEOUL15_a.html| 09SEOUL15 ]]| [[/09SEOUL15]] | 한국: 2008년 테러 보고서 | 2009-01-05 | 미분류 | |
+| 1197 | [[https://www.wikileaks.org/plusd/cables/08SEOUL18_a.html| 09SEOUL18 ]]| [[/09SEOUL18]] | 언론 브리핑—2009년 1월 5일 | 2009-01-05 | 미분류 | |
+| 1198 | [[https://www.wikileaks.org/plusd/cables/08SEOUL22_a.html| 09SEOUL22 ]]| [[/09SEOUL22]] | 한국 언론의 반응 | 2009-01-06 | 미분류 | |
+| 1199 | [[https://www.wikileaks.org/plusd/cables/08SEOUL26_a.html| 09SEOUL26 ]]| [[/09SEOUL26]] | 언론 브리핑—2009년 1월 6일 | 2009-01-06 | 미분류 | |
+| 1200 | [[https://www.wikileaks.org/plusd/cables/08SEOUL29_a.html| 09SEOUL29 ]]| [[/09SEOUL29]] | 언론 브리핑—2009년 1월 7일 | 2009-01-07 | 미분류 | |
+</sortable>

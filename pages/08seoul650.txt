@@ -1,0 +1,62 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL650  |  2008-04-01 07:25  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>IR KNNP PARM PREL KS }}  |
+====== 제 목: 멜라트 은행을 이용한 이란의 핵확산 활동에 대한 한국의 반응 ======
+비 밀 SEOUL 000650 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국무부 산하 국제안보·비확산국 - 뉴 및 샬머스 귀하, 전략국, 근동국, 국제국/평화제재대테러과, 동아시아태평양국/한국과
+재무부 산하 해외자산통제실
+
+행정명령 12958: 비밀해제: 04/01/2018 
+태그: IR (([Iran])), KNNP (([Nuclear Non-Proliferation])), PARM (([Arms Controls and Disarmament])),    PREL (([External Political Relations])), KS (([Korea (South)])) 
+제 목: 멜라트 은행을 이용한 이란의 핵확산 활동에 대한 한국의 반응
+참 조: [[08state30274|STATE 30247]]
+분류자: 경제 참사관 앤드류 퀸((번역 주: EMIN ANDREW J. QUINN)) 근거 1.4 (B&D)
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/24 22:51//
+
+1. (비밀) 외교통상부 군축비확산과 이장균 과장은 대사관 경제과 직원의 상세하고, 종합적인 외교 문서와 논-페이퍼 문서에 대해 감사하였다. 해당 문서들은 멜라트 은행 서울 지점의 확산 활동의 윤곽을 제시한 문서다([[08state30274|참조 전문]]). 그는 한국 정부가 4월 말까지 진행 중인 멜라트 은행에 대한 조사를 완료한다는 약속을 재천명하였다.
+
+2, (비밀) 이장균은 이번 회동을 앞두고 비공식 문서를 검토했다. 그런 그가 2007년 11월 이후 멜라트 은행의 수상한 활동은 전혀 발견하지 못했다고 했다. 이장균은 11월 중순 레비 재무부 차관의 서울 방문 이후 현지 은행 업계가 멜라트 은행과의 영업에 연루되는 걸 극도로 경계한다는 점과 멜라트 은행 서울 지점의 활동이 현저하게 감소한 점 모두가 이 같은 결과에 반영된 듯이 보인다고 말했다. 이장균은 한국 정부 몇몇 기관들이 지금 멜라트 은행 조사에 관여하고 있다고 덧붙였다. 그래서 모두들 미국 정부가 멜라트 은행에 대해 심각히 우려한다는 점을 유념하고 있다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul650|포와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 08SEOUL650.rtf>
+S E C R E T SEOUL 000650 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR ISN - NEW & CHALMERS, T, NEA, IO/PSC, AND EAP/K 
+TREASURY FOR OFAC 
+ 
+E.O. 12958: DECL: 04/01/2018 
+TAGS: IR [Iran], KNNP [Nuclear Non-Proliferation], PARM [Arms Controls and Disarmament], PREL [External Political Relations],
+KS [Korea (South)] 
+SUBJECT: SEOUL RESPONSE: IRAN'S USE OF BANK MELLAT FOR 
+PROLIFERATION ACTIVITIES 
+ 
+REF: STATE 30247 
+ 
+Classified By: EMIN ANDREW J. QUINN FOR REASONS 1.4 (B&D). 
+ 
+¶1.  (S)  On April 1, Ministry of Foreign Affairs and Trade 
+(MOFAT) Disarmament and Non-proliferation Division Director 
+Lee Jang-kuen thanked Econoff for the detailed, comprehensive 
+demarche/non-paper outlining Bank Mellat's proliferation 
+activities in Seoul (reftel).  He reaffirmed the ROKG's 
+commitment to complete its ongoing investigation into Mellat 
+by the end of April. 
+ 
+2,  (S)  Having reviewed the non-paper before the meeting, 
+Lee observed that it did not identify any questionable Mellat 
+activities after November 2007.  He said this appears to 
+reflect both the significant decline in Bank Mellat's 
+activities in Seoul and the extreme caution that the local 
+banking community attaches to doing business with Mellat, 
+following U/S Levey's mid-November visit To Seoul.  Lee added 
+several ROKG agencies are now engaged in the Mellat 
+investigation, and all had taken note of the USG's serious 
+concerns about Mellat. 
+VERSHBOW
+</file>

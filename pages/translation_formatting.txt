@@ -1,0 +1,234 @@
+^  문서번호  ^  작성일  ^  공개일자  ^  분류  ^  출처  ^
+|  08SEOUL1207  | 2008-06-17 04:48  |  2011-08-30 01:44  |  비밀  |  주한 미국 대사관  |
+
+<code>
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHUL #0498/01 0882225
+ZNY CCCCC ZZH
+P 292225Z MAR 09
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC PRIORITY 3802
+INFO RUEHBJ/AMEMBASSY BEIJING 5533
+RUEHMO/AMEMBASSY MOSCOW 9427
+RUEHKO/AMEMBASSY TOKYO 5627
+RUEHIN/AIT TAIPEI 3106
+RHHMUNA/CDR USPACOM HONOLULU HI
+RUALSFJ/COMUSJAPAN YOKOTA AB JA
+RUACAAA/COMUSKOREA INTEL SEOUL KOR
+RHMFISS/COMUSKOREA J5 SEOUL KOR
+RHMFISS/COMUSKOREA SCJS SEOUL KOR
+RHEHNSC/NSC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC//OSD/ISA/EAP//
+</code>
+
+====== 문서 제목. 되도록이면 목록에 있는 제목과 일관성을 유지하는 것을 추천. ======
+
+1. (U) 문서 형식의 통일을 위해 평어체로 번역하는 것을 추천합니다. 이 아래는 평어체로 기술하겠습니다.
+
+2. (U) 단락의 번호와 보안 등급 분류는 그대로 유지한다. 다음 소단락에서는 보안 등급에 대해 설명한다.
+
+===== 소단락 제목. 보안 등급에 대한 설명 =====
+
+3. (U) Unclassified의 약자.
+
+5. (SBU) Sensitive But Unclassified의 약자.
+
+6. (C) Confidential의 약자. 대외비.
+
+7. (S) Secret의 약자. 기밀.
+
+===== 기타 약어에 대한 설명. =====
+
+8. (U) SIPDIS: SIPRNet distributed; SIPRNet(미 국방부 인트라넷)에 배포됨
+
+9. (U) NOFORN: Not releasable to Foreign Nationals; 외국에 배포 금지.
+
+NAME_OF_DOCUMENT_WRITER
+
+
+====== 원문 ======
+
+<code>
+C O N F I D E N T I A L SEOUL 000498 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/27/2019 
+TAGS: KS KN PGOV PREL
+SUBJECT: BIG NAMES IMPLICATED IN UNFOLDING BIPARTISAN 
+BRIBERY SCANDAL 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY: Korea's latest political corruption scandal, 
+slowly growing for months, picked up speed this week with the 
+arrest of Democratic Party (DP) lawmaker Lee Kwang-jae and 
+summonses issued for a number of politicians including Grand 
+National Party (GNP) lawmaker Park Jin.  The allegations 
+revolve around a Busan businessman, Park Yeon-cha, and his 
+alleged illegal campaign contributions and bribes to some of 
+Korea's most powerful politicians and tax and law enforcement 
+officials.  At first the investigation appeared to be focused 
+on politicians close to former President Roh Moo-hyun, but 
+the scope of the investigation has expanded to as many as 70 
+politicians from both sides of the political divide, 
+including some close to President Lee Myung-bak.  How 
+culpable many of the accused -- including Foreign Affairs 
+Committee Chair Park Jin -- are remains unclear, but these 
+allegations will not soon be put to rest and will likely 
+unsettle the National Assembly -- and Korean politics -- for 
+some time.  END SUMMARY. 
+ 
+----------------------------- 
+Background Notes on a Scandal 
+----------------------------- 
+ 
+¶2.  (SBU) The scandal started in the summer of 2008 with a 
+tax probe into Busan-based shoe manufacturer Taekwang 
+Industrial and its Chairman Park Yeon-cha, who made his 
+fortune by supplying athletic shoes to Nike.  In July, tax 
+investigators raided Park's office and confiscated 
+confidential documents and account books.  One of Park's 
+secretaries provided details on his meetings, telephone 
+conversations, and secret deals with some of the country's 
+most influential men.  Also uncovered was a document 
+recording a loan of 1.5 billion Korean won from Park to 
+former President Roh Moo-hyun.  In November the National Tax 
+Service handed the case over to prosecutors, asking that Park 
+be indicted for tax evasion and insider trading. 
+ 
+----------------------- 
+Progressives Fall First 
+----------------------- 
+ 
+¶3.  (SBU) As the investigation progressed, aides to former 
+president Roh Moo-hyun were implicated, and Park is now 
+believed to have been one of Roh's major financial sponsors; 
+the two men hail from Busan and have been close associate for 
+decades.  On March 25, prosecutors arrested Roh's former Vice 
+Minister of Public Administration Chang In-tae for allegedly 
+taking 800 million won (USD 587,251) in illegal political 
+funds from Park for Chang's 2004 South Gyeongsang Province 
+gubernatorial bid.  Park claimed that Roh's elder brother, 
+Roh Gun-pyeong (also under arrest), called Park to request 
+assistance with Chang's campaign.  On March 23 Roh's former 
+Senior Secretary for Civil Affairs Park Jung-kyu was detained 
+for questioning and later placed under arrest for accepting 
+100 million won (USD 73,421) in gift certificates while 
+working for President Roh.  Other progressive politicians 
+under investigation include: 
+ 
+--Lee Kwang-jae, DP lawmaker with close ties to Roh Moo-hyun, 
+detained for receiving illegal political funds worth over 200 
+million won (USD 146,842); 
+--Suh Gap-won, DP representative and Senior Vice-Floor 
+Leader, alleged to have received tens of thousands of dollars 
+in illicit funds; 
+--Choi Cheol-kook, DP lawmaker, alleged to have received 
+illicit funds; 
+--Kim Hyuck-kyu, former South Gyeongsang governor; 
+--Lee Jeong-wook, former Korea Maritime Institute head, 
+detained for receiving illicit funds. 
+ 
+----------------------------- 
+Conservatives Far From Immune 
+----------------------------- 
+ 
+¶4.  (C) What originally seemed like a probe targeting only 
+the progressives, soon included allegations directed at a 
+number of high-profile GNP politicians.  Most notably was the 
+prosecutors' summons on March 26 of Park Jin, GNP 
+Representative and Chair of the Foreign Affairs, Trade and 
+ 
+Unification (FATU) Committee.  Park Jin's Chief of Staff 
+(COS) confirmed on March 27 that the prosecutor's office had 
+summoned Park Jin for questioning with regard to the 
+unfolding bribery scandal.  Park's COS told poloff that the 
+allegations against Park Jin were unfounded, and the COS was 
+confident that Park Jin had nothing to worry about.  The FATU 
+Committee's COS said he spoke to Park Jin March 27 and 
+described him as angry at being summoned for questioning but 
+resolute in denying involvement in the scandal. 
+Representative Park apparently plans to file defamation 
+charges.  The FATU COS was, nevertheless, concerned by the 
+potential for the scandal to ensnare the committee's chairman. 
+ 
+¶5.  (SBU) Also on March 26, prosecutors announced that they 
+were investigating former GNP lawmaker and current Ambassador 
+to Japan Kwon Chul-hyeon.  Kwon served three terms 
+representing Busan, and is known to be a strong supporter of 
+President Lee.  Cho Boo-kil, a former public relations 
+secretary for both President Lee and his older brother, 
+Representative Lee Sang-deuk, was arrested on charges of 
+taking money from Park and for trying to halt the tax probe 
+into Park's company.  Other conservative politicians under 
+investigation include: 
+ 
+--Huh Tae-yeol, GNP Representative, alleged to have received 
+illicit funds; 
+--Kwon Kyung-seok, GNP Representative, alleged to have 
+received illicit funds; 
+--Song Eun-bok, former Gimhae Mayor, detained for receiving 
+illicit funds. 
+ 
+---------------- 
+Busan Connection 
+---------------- 
+ 
+¶6.  (C) The scandal primarily involves politicians grounded 
+in South Gyeongsang Province and Busan, but an unconfirmed 
+news report claims the investigation is targeting as many as 
+70 people, including several former and incumbent 
+prosecutors.  An aide to GNP Representative Chung Doo-hwan 
+told poloffs that everyone in Busan, regardless of party 
+affiliation, is involved in this scandal.  In fact, the 
+contact noted, Park was more tied to the conservatives, but 
+supported Roh and the DP when it was in power until last 
+year.  Overseas locations are also involved, and prosecutors 
+allege that many politicians -- including Park Jin and Lee 
+Kwang-jae -- accepted money through a New York restaurateur. 
+Some politicians are alleged to have also received funds in 
+Vietnam. 
+ 
+----------------------------- 
+Political Motivation Unlikely 
+----------------------------- 
+ 
+¶7.  (C) Speculation is swirling about possible political 
+motivations for the investigation.  The DP has claimed that 
+the probe is part of a Blue House effort to eradicate pro-Roh 
+elements of the opposition.  These allegations have failed to 
+gain momentum, however, as prosecutors began to implicate 
+conservative politicians.  Some within the GNP think the Blue 
+House is trying to undermine supporters of the President's 
+conservative rival Park Geun-hye and claim that both Lee 
+Sang-deuk and Kim Young-ho also received money but are not 
+being investigated because of their close ties to the 
+administration.  With the number and range of politicians 
+involved, however, it is doubtful that any one party or 
+faction will emerge from this scandal unscathed. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8.  (C) Korean politics is no stranger to corruption, but the 
+Park Yeon-cha scandal is the largest and most wide-ranging in 
+quite some time.  One politician -- Lee Kwang-jae -- has 
+already fallen victim and more are sure to follow.  While it 
+is likely the probe started with former President Roh's 
+aides, it is also likely that nobody, not even the Blue 
+House, could control the investigation once it was underway. 
+Now that it is the top news story, prosecutors are forced to 
+follow through and the Blue House cannot appear to be 
+ 
+intervening.  Undoubtedly, the scandal will dominate the next 
+National Assembly session set to start on April 2.  In fact, 
+between the scandal and the upcoming by-elections -- not to 
+mention ongoing discussions about media reform and KORUS FTA 
+-- it is difficult to see how politicians will find the time 
+to focus on legislation. 
+STEPHENS
+</code>

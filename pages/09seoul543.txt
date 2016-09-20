@@ -1,0 +1,45 @@
+^  문서참조번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL543  |  2009-04-03 07:34  |  기밀  |  주한 미국 대사관  |  {{tag>PHUM PREL KS }}  |
+====== 제 목: 한국, 미국의 유엔 인권 이사회 상임이사국 진출을 지원 ======
+기 밀 SEOUL 000543 
+국방부망 배포
+ 
+행정명령 12958: DECL: 04/03/2019 
+태그: PHUM PREL KS
+제 목: 한국, 미국의 유엔 인권 이사회 상임이사국 진출을 지원 
+참조: STATE 031175 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun)).  근거 1.4 (b/d).
+번역자 제공 참조: [[09SEOUL627|09SEOUL627]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/12/26 21:56//
+
+1. (기밀) 한국 외교통상부 인권사회과 2등 서기관 정진호는 한국정부가 미국의 유엔 인권이사회 상임이사국((역주: 유엔안보리 상임이사국과는 다르다. 3년 임기의 2차례 연임만이 허용된다. 1차례[3년] 쉬고 또다시 인권이사회 상임이사국이 될 수 있다.)) 진출을 호의적으로 보고 있다고 대사관 정무 직원에게 말하였다. 뉴질랜드가 중도에 출마를 포기함에 따라 미국, 벨기에, 노르웨이가 서유럽 기타 그룹에 남아 있는 3개 공석을 채우게 되어 있다며, 그래서 미국의 상임이사국 진출이 사실상 확정되었다고 지적하였다. 유엔 인권이사회 회원국인 한국은 유엔 인권이사회에서 미국과의 협력을 고대한다.
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/14/09seoul543|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://h21.hani.co.kr/arti/special/special_general/27408.html|한국, 유엔 인권이사회에서 퇴출되나]] //한겨레21//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL543.rtf>
+C O N F I D E N T I A L SEOUL 000543 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/03/2019 
+TAGS: PHUM PREL KS
+SUBJECT: ROK SUPPORTS U.S. UNHRC MEMBERSHIP 
+ 
+REF: STATE 031175 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4 (b/d). 
+ 
+¶1.  (C) ROK Ministry of Foreign Affairs and Trade (MOFAT) 
+Human Rights and Social Affairs Division Second Secretary 
+Jung Jin-ho told Poloff that the ROKG looked favorably upon 
+U.S. candidacy for membership in the UN Human Rights Council. 
+ As New Zealand had dropped out of the running, Jung noted, 
+only the U.S., Belgium, and Norway remained to fill the three 
+vacancies in the Western Group, so U.S. membership was 
+virtually assured.  As a UNHRC member state, the ROK looked 
+forward to working with the U.S. on the Council. 
+STEPHENS
+</file>

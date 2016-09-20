@@ -1,0 +1,141 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  [[https://wikileaks.org/cable/2008/12/08SEOUL2403.html|08SEOUL2403]]  |  2008-12-15 08:28  |  기밀  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 2009년 예산 국회 통과, 추가 충돌 예상 ======
+기 밀 SEOUL 002403 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+행정명령 12958: 비밀해제: 04/10/2018 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)])) 
+제 목: 2009년 예산 국회 통과, 추가 충돌 예상
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/08 04:57//
+===== 요점 =====
+1. (기밀) 요약: 12월 13일 야당인 민주당과 민주 노동당 의원들의 투표 참여 거부한 가운데 집권당인 한나라당은 보수적인 자유 선진당과 함께 내년도 예산안을 통과시켰다. 전문가 대다수와 국회 소식통은 집권당이 강제로 예산안을 통과시킨 것에 대해 많은 비난을 받지는 않을 것이라고 언급한다. 그러나 대부분의 언론 매체는 남은 임시 국회 30일 동안에 있을 정당 간의 “전쟁”을 예상하는 마당에 논란을 사는 나머지 법안을 통과시키기가 그리 쉽지는 않을 것이다. 요약 끝.
+===== 2009년 예산안 통과 =====
+2. (기밀) 12월 13일에 김형오 국회 의장은 사전에 예결 특위를 통과시키지 않고 정부 예산을 본회의 표결에 부칠 것을 주문했다. 이것은 주요 야당 국회의원이 부재한 채로 예산안이 통과된 것은 2005년 이후로 처음이다. 284조 5천억원(2068억 달러)의 예산은 2008년도 예산에서 11.05%가 증액된 내용이며 일자리 창출과 국가 차원의 경제 위기 대응 방안이 포함되었다. 정부는 새로운 예산으로 공공 근로, 도로, 사회 기반 시설에 대한 지출을 늘릴 예정이며 현재 해당 예산에 따른 경기부양 덕분에 2009년도에는 2~3% 성장률을 점치고 있다. 모든 주요 일간지들은 예산안 통과 후에 정당들은 이제 “전쟁” 혹은 “충돌 코스”에 돌입했다고 지칭했다.
+===== 이명박의 낮은 지지율로 인해 일이 어렵다 =====
+3. (기밀) 손꼽히는 한나라당 국회의원 정두언은 한나라당이 원내 다수당이긴 하지만, 대통령의 인기가 너무 낮아서 예산안을 통과와 같은 방식으로 논란을 사는 법안을 통과시키기가 매우 어려울 것이라고 대사관 정무 직원에게 12월 15일에 말했다. 예산안은 필수적이라고 모두가 인정했기 때문에 민주당은 해당 안의 통과를 물리적으로 제지하지 않았다. 그러나 다른 법안들 예로 한미 FTA나 미디어 법과 감세 법안, 기타 여당 주도의 입법안 등은 예산안과 같은 만장일치는 구경할 수 없을 것이다.
+===== 여론 조사 기관의 진단 =====
+4. (기밀) 손꼽히는 여론 조사 회사인 한국사회여론연구소 소속 한귀영 수석연구원은 집권당인 한나라당이 여론조사에서 꾸준히 35~40%대의 지지율을 유지하고 있지만, 그녀의 회사가 실시한 가장 최근 여론조사에서는 단지 18%만이 한나라당이 일을 잘한다고 판단했다고 대사관 정무 직원에게 12월 15일에 지적하였다. 높은 정당 지지율은 단순히 야권 정당의 지지부진한 성적표의 결과라고 그녀는 설명했다. 이번 낮은 지지율은 한나라당이 통상정인 상임위 표결을 생략한 체 정치 절차를 벗어나 편법으로 정부 발의 입법안을 통과시킬 경우 추가로 지지율이 하락할 것이다.
+
+5. (기밀) 손꼽히는 정치 컨설턴트인 박성민 대표는 예산안의 강제 통과의 배경 논리에는 논란을 사는 여타 법안을 연말이나 임시 국회 회기 막판에 관철할 수 있다는 생각이 깔려 있다고 생각했다. 그는 한나라당이 연말에 강제로 법안들을 관철시킬 수 있다면서 한귀영과는 의견을 달리했다. 그 결과 사람들이 특정 법안이 자기들한테 어떤 의미인지 모르는 상태에서 한꺼번에 아주 많은 법안이 통과되기 때문에 한나라당이 이 나라의 경제 위기 극복하기 위해 힘을 보탰다는 공로를 인정받을 수도 있다고 지적했다.
+
+6. (기밀) 박성민은 민주당과 민주 노동당이 대안도 없이 한나라당을 반대함으로써 한나라당의 전략에 말려들고 있어 야당과 국민과의 관계는 더욱 벌어지고 있다고 말했다. 또한 박성민은 한나라당이 12월에 강제로 법안을 통과시킬 경우 4월 29일 보궐 선거 때쯤이면 그 강압적인 조치는 유권자의 머리 속에는 이미 “고대” 역사가 되었을 거라고 지적했다. 그런 강압 조치가 유권자의 생각에서 더욱 멀어지도록 하기 위해 청와대가 1월에 청와대 수석 비서진을 개편하고, 2월 중엔 내각 개편이 이어지면서 언론의 초점은 강제 통과된 논란을 사는 법안의 아닌 청와대에 지속적으로 맞춰질 거라고 말했다.
+===== 논평 =====
+7. (기밀) 야당이 배제된 체 예산안을 통과시키는 일은 한국에서 통상적으로 작동하는 정치 절차 방식은 아니지만, 청와대가 기를 쓰고 예산안 뿐만 아니라 여타 논란을 사는 법안도 통과시키고자 몸이 달아 올랐고 야당은 힘도 전략도 국민적 성원도 없다. 그 결과가 예산안 직권 상정 표결이었고 기타 표결도 뒤따를 공산이 크다. 여당 한나라당은 국회를 통해 너무 많은 법을 강제로 통과시킴으로써 지지율을 잃지 않도록 조심해야 한다. 이렇게 될 경우 예기치 않은 부작용이 생길 수 있다. 야당이 입법부에서 아무런 목소리도 없다고 느낄 경우 대규모 시위의 형태로 쟁점 사안을 거리로 가져 나올 수가 있는 것이다.
+스티븐스
+===== =====
+[[https://sites.google.com/site/poirotkr/12/08seoul2403|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+===== 원본 다운로드 =====
+<file rtf 08SEOUL2403.rtf>
+C O N F I D E N T I A L SEOUL 002403 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: 2009 BUDGET PASSES NA; MORE CLASHES TO COME 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: On December 13, the ruling GNP along with 
+the conservative Liberty Forward Party (LFP) passed the 
+annual budget bill while the opposition Democratic Party (DP) 
+and Democratic Labor Party (DLP) members boycotted the vote. 
+Most pundits and Assembly sources note that the ruling party 
+will not take much heat over the forced passage of the 
+budget.  Remaining controversial bills will not be so easy to 
+pass, however, with most press outlets predicting a "war" 
+between the parties for the rest of the 30-day temporary 
+legislative session.  End Summary. 
+ 
+------------------ 
+2009 Budget Passes 
+------------------ 
+ 
+¶2.  (SBU) On December 13, National Assembly Speaker Kim 
+Hyung-o called a plenary vote on the government-introduced 
+budget plan without the bill first passing through the budget 
+committee.  This was the first time since 2005 the budget was 
+passed with the main opposition party's lawmakers absent. 
+The budget of 284.5 trillion won (206.8 billion USD) 
+represents an 11.05 percent increase from the 2008 budget and 
+includes spending to create jobs and help the country deal 
+with the economic crisis.  The government will increase 
+spending on public works, roads, and infrastructure with the 
+new budget and now predicts a 2-3 percent growth rate in 2009 
+thanks to the economic stimulus from the budget.  All major 
+dailies referred to the "war" or "collision course" that the 
+political parties were now on after the budget passage. 
+ 
+------------------------------------ 
+MB's Low Ratings Make Work Difficult 
+------------------------------------ 
+ 
+¶3.  (C) Because the president was so unpopular, leading GNP 
+lawmaker Chung Doo-un told poloff on December 15 that it 
+would be very difficult for the GNP, despite its large 
+majority, to pass controversial legislation in the same 
+manner they passed the budget.  All acknowledged the budget 
+was necessary so the DP did not make an attempt to physically 
+block its passage, but no such unanimity would be found over 
+other bills such as the FTA or bills related to media reform, 
+tax reduction or other ruling party initiatives. 
+ 
+----------------------- 
+Pollsters Prognosticate 
+----------------------- 
+ 
+¶4.  (C) Director Han Kwi-young of KSOI, a leading polling 
+firm, pointed out to poloff on December 15 that while the 
+ruling GNP held steady at 35-40 percent support rating in 
+polls, in the most recent poll her firm conducted, only 18 
+percent thought the GNP was doing a good job.  The higher 
+party support rating was simply a result of the abysmal 
+performance of the opposition parties, she explained.  This 
+low approval rating would go further down if the GNP chose to 
+circumvent the normal political process to pass 
+government-sponsored legislation without passing through 
+committee vote. 
+ 
+¶5.  (C) Leading political consultant Park Sung-min told 
+poloff that the logic behind the forced passage of the budget 
+was, he thought, so that other controversial bills could be 
+pushed through at the end of the year or at the end of the 
+special session.  He disagreed with Han, pointing out that 
+the GNP could force through bills at the end of the year and 
+as a result, since people did not really know what the 
+specific laws meant for them and there would be so many laws 
+passed at once, the GNP might get credit for trying to help 
+the country get through the economic crisis. 
+ 
+¶6.  (C) Park said the DP and DLP were playing into the GNP 
+strategy by opposing the GNP without offering any 
+alternative, thus alienating people further from the 
+opposition.  Also, Park pointed out, if the GNP forced laws 
+through in December, by the time of the April 29 
+by-elections, the strong-armed action would already be 
+"ancient" history in the minds of voters.  To put such 
+actions further in the back of voters' minds, Park said he 
+believed the Blue House would shuffle the Blue House Senior 
+Secretary lineup in January followed by a cabinet shakeup in 
+February to keep media focus on the Blue House and not on the 
+forced passage of controversial laws. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶7.  (C) Passing the budget without the opposition is not how 
+the political process is supposed to work in Korea, but with 
+an eager Blue House chomping at the bit to pass not only the 
+budget but other controversial bills and an opposition 
+lacking power, support and strategy, the result is a direct 
+vote on the budget and likely other votes to follow.  The 
+ruling GNP has to watch out that it does not lose its support 
+by forcing too many laws through the assembly.  An undesired 
+side effect of this could be that if the opposition feels it 
+has no voice in the legislature, it could take its issues to 
+the streets in large-scale protests. 
+STEPHENS
+</file>

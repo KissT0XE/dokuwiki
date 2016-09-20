@@ -1,0 +1,184 @@
+^  문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL728  |  2008-04-10 09:37  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 국회의원 선거: 이명박에겐 비싼 대가 치른 승리 ======
+기 밀 SEOUL 000728 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+행정명령12958: 비밀해제: 04/10/2018 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)]))
+제목: 국회의원 선거: 이명박에겐 비싼 대가 치른 승리
+분류자: 정치 참사관 조셉 윤.   근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/03/19 18:14//
+===== 요점 =====
+1. (민감하지만 미분류) 요점: 유권자들이 총 299개 국회 의석의 주인을 뽑은 4월 9일 총선에서 집권당인 한나라당이 153석으로 약소한 과반 의석을 확보하였다. 그렇긴 하지만, 한나라당의 다수 의석은 무소속으로 출마한 보수 후보들과 소수 정당 후보들이 보여준 놀라운 약진과 결합하면서 국회가 진보에서 보수로의 이념적 전환이 이루어지는 주요한 신호탄이다. 그러나 한나라당 내부의 다툼은 시작에 불과할 수 있다. 이 대통령은 최측근을 잃었지만, 그의 정치 라이벌인 박근혜의 지지자들은 대략 50석 정도 당선되었고 그중 다수는 한나라당을 탈당한 자들이다. 한나라당의 빈약한 다수당이 의미하는 바는 이명박이 법안을 통과시키기 위해선 친박계와 여타 보수 세력과 타협해야 한다는 의미다.
+
+2. (민감하지만 미분류) 선거 결과는 한국 내 지역주의가 살아있으며, 건재함을 역시 증명해주고 있다. 통합민주당은 전라도 지역을 싹쓸이했으며, 한편 한나라당은 경상도 지역 대다수를 당선시켰다. 충청도 지역 역시 자체적인 지역 정당의 태동을 목도하였다: 이회창의 자유선진당. 계파와 지역 간에 다툼은 머리기사를 장식하고, 정치적인 쟁점 혹은 정치 토론에 대한 여지는 전혀 없다. 예상한 대로 유권자들의 관심은 제한적이었으며 투표율은 최하를 기록했는데(46.1%), 지난 17대 국회의원 선거(60.6%)보다 14.6% 하락했다. 요약 끝.
+===== 진보세력의 쇠락 =====
+3. (미분류) 야당인 통합민주당은 최대 타격을 입었는데, 단 81석을 얻어 이전 선거 의석수의 절반에 머물렀다. 극좌 소수당 역시 타격을 입어서―민주노동당은 5석으로 역시 현재의 9석의 절반에 해당한다. 그리고 자체 분파인 진보신당은 단 1석도 당선시키지 못했다. 또한, 진보 진영 문국현의 창조한국당은 3석을 얻었다.
+
+4. (미분류) 한나라당은 153석으로 자체 목표에 한참 못 미쳤는데, 전문가들은 160~180석을 예견해왔기 때문이다. 그러나 보수진영 무소속 후보들과 소수 정당도 깜짝 승리로 두각을 보였다. 한나라당 깃발 아래 출마가 좌절된 박근혜의 지지자들로 구성된 친박연대는 14석을 얻었다; 여타 12명의 친박계 후보들도 무소속으로 당선되었다. 또한, 세 차례의 대통령 후보를 지낸 이회창의 자유선진당도 18석으로 보수진영의 견고함을 확인해 줬다. 그렇게 해서 보수 세력이 총 299석 국회에서 압도적인 200석 정도를 통제하게 되었는데, 지난 총선에서 당선되었던 130석을 한참 웃도는 수치다.
+===== 지방 권력 =====
+5. (민감하지만 미분류) 한국의 뿌리 깊은 지역주의는 여전히 견고하다. 한나라당 소속이(혹은 보수 무소속) 사실상 영남인 경상도 지역을 싹쓸이했는데, 총 68개 지역구 중에서 단 일부 지역에서만―부산에 조경태(민), 김해에 최철국(민), 사천에 강기갑(노), 창원에 권영길(노)―진보진영 후보가 당선되었다. 그와 대척점에 있는 통합민주당은 전통적인 진보 지역 전라도 지방에서 큰 승리를 거뒀다; 전라도 지역에서 한나라당은 한 후보도 승리하지 못했다. 양당의 전통적인 싸움터인 충청도 지역은 그 고장 출신 이회창의 신당 자유선진당을 뒷받침해 주며 충청도 자체의 길을 선택했다. 자유선진당은 충청도와 대전 16개 지역구에서 13개를 차지했다.
+===== 권력 다툼 =====
+6. (민감하지만 미분류) 4월 9일 선거는 이 대통령에게는 양질의 승리이다. 총선 결과로 100인의 “친이계” 국회의원을 배출했지만, 친이계는 원내 다수를 구성하려면 상당한 도움이 필요할 것이다. 게다가 이재오와 이방호 같은 이명박의 핵심 측근 중 일부의 놀랄만한 패배는 친이계 내부의 개편으로 이어질 수 있다. 청와대 소속 한 접선책은 낙선한 두 이씨와 여타 핵심 측근들은 행정부에서 다른 자리를 꿰찰 게 분명하다고 언급했다.
+
+7. (기밀) 이명박계 핵심 지도자들이 패배한 중요한 이유는 박근혜인데, 그녀가 공천에서 이재오와 이방호가 그녀의 지지자들을 제물로 삼았다고 혐의를 제기했었다. 박근혜는 대구의 자택에서 칩거하면서, 어떤 후보의 선거운동도 거부했었다. 그러나 그녀의 지지자들은 정치적 명분에 동조하면서, 심지어 친박연대란 신당을 출범하였다. 그들은 핵심 친박계 인사들을 홍보하고, 이명박 진영의 지명도 있는 의원들을 표적으로 삼았는데, 그렇지 않았으면 손쉬운 선거전을 치렀을 해당 의원 중 다수가 낙선했다.
+
+8. (기밀) 박근혜의 지지자들은 56개 지역구에서 당선됐는데―한나라당 당내에 30명과 무소속 12명, 친박연대 후보 14명 등이다. 그래서 전체 공천과 선거 과정은 박근혜가 대표적인 정치계 인물로서 크게 보면 국회의원과 국민 사이에서 충분한 지지를 받고 있음을 입증했다. 게다가, 그녀는 적어도 더는 국회에서 친이계 국회의원인 이재오나 이방호, 박형준 등과 씨름하지 않아도 된다. 그들은 모두 의원직을 잃었다.
+
+9. (기밀) 통합민주당의 결과는 진보진영에서 두려워했던 만큼의 재앙은 아니었다. 진보 진영의 81석은 민주당이 대선에서 보여준 처참한 결과 이후 모두가 예상했던 것보다는 많은 의석을 당선시켰다. 비주류 좌파 정당들의 지원을 받아서 정당한 진보 정치 세력으로 기능할 수 있을 것이다. 여전히 고위 당직자 중 대 다수는―김근태, 한명숙, 유인태, 신기남―거기에 주요한 386 의원들은―임종석, 최재천, 우상호―아마도 자신들의 목소리 내려는 시도가 더욱 어려워지면서, 5월 말에 예정된 통합민주당 전당대회를 앞두고 추가적인 내분을 촉발할 수도 있다.
+===== 논평 =====
+10. (기밀) 이번 총선에서 두 가지 분명한 승자가 있다: 박근혜와 한국 내 보수 세력이다. 보수 지도자 이 대통령과 박근혜가 서로 함께 일을 모색할 방안을 찾는 와중에 권력 쟁탈을 위한 공작이 많아질 것이다. 물론 이명박이 대통령인 만큼 모든 권력을 조정하는 재량권을 보유하고 있다. 그러나 그는 단임제 대통령이고 반면에 박근혜는 차기 청와대의 주인으로 점쳐지는 등 한국 유권자 사이 확실히 선호 후보로 부상하였다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul728|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 내부 고리 =====
+  - [[07SEOUL3465#이명박_대_이회창|제 목:지역주의 살아나, 요동치는 충청도에서 기승을 부려]]
+===== 원본 내려받기  =====
+<file rtf 08SEOUL728.rtf>
+C O N F I D E N T I A L SEOUL 000728 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: NATIONAL ASSEMBLY ELECTION: COSTLY WIN FOR 
+PRESIDENT LEE 
+ 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (SBU) SUMMARY: In the April 9 general elections, in which 
+voters threw in their ballot for all 299 seats in the 
+National Assembly, the ruling Grand National Party (GNP) 
+gained a small majority with 153 seats.  Nevertheless, the 
+GNP majority combined with the surprisingly good showing by 
+independent conservative candidates and those from minor 
+parties signals a major parliamentary ideological shift from 
+progressive to conservative.  Within the GNP, however, the 
+battles may only be beginning.  President Lee lost his 
+closest confidants while supporters of his political rival 
+Park Geun-hye won about 50 seats, many out of GNP.  The slim 
+GNP majority means that President Lee will have to make 
+compromises with the Park group and/or other conservatives in 
+order to get his legislation through. 
+ 
+¶2.  (SBU) The election outcome also demonstrated that 
+regionalism in Korea is alive and well in South Korea.  The 
+United Democratic Party cleaned up in the Jeolla Provinces 
+while the GNP won most of the seats in the Gyeongsang 
+Provinces.  The Chungcheong region also saw the birth of its 
+own regional party: Lee Hoi-chang's Liberty First Party. 
+With factional and regional fight making headlines, there was 
+no room for political issue or policy debate. Predictably, 
+voters showed limited interest; voter turnout was record low 
+(46.1 percent), down by 14.6 percent from the previous 17th 
+National Assembly election (60.6 percent).  END SUMMARY. 
+ 
+------------------- 
+Progressives Perish 
+------------------- 
+ 
+¶3.  (U) The opposition UDP (United Democratic Party) was the 
+big loser, gaining only 81 seats, about half the number in 
+the previous election.  The extreme left minor parties also 
+took hits - the Democratic Labor Party (DLP) got 5 seats, 
+again only half its current 9 seats, and its splinter New 
+Progressive Party (NPP) failed to win any.  Also in this camp 
+is Moon Kuk-hyun's Renewal of Korea Party, which won three 
+seats. 
+ 
+¶4.  (U) The GNP's 153 seats fell well short of its goal, 
+because pundits had been predicting 160-180 seats.  Still, 
+independent conservative candidates and minor conservative 
+parties chalked up surprising wins.  The Pro-Park Alliance 
+(PPA), comprised of Park Geun-hye supporters controversially 
+prevented from running under the GNP banner, earned 14 seats; 
+another 12 pro-Park Geun-hye candidates won as independents. 
+Also solidly in the conservative camp is three-time 
+presidential contender Lee Hoi-chang's Liberal Forward Party 
+(LFP) with 18 seats.  Thus the conservatives control around 
+200 seats, a commanding presence in the 299-seat chamber and 
+well above the 130 seats they won in the last election. 
+ 
+---------------- 
+Provincial Power 
+----------------- 
+ 
+¶5.  (SBU) Korea's deep-seated regionalism remained intact. 
+The GNP (or conservative independents) practically swept the 
+southeast Gyeongsang region, with only a handful of the 68 
+districts -- Cho Kyung-tae (UDP) won in Pusan, Choi Chul-kuk 
+(UDP) in Gimhae, Kang Ki-gap (DLP) in Sacheon, and Kwon 
+Young-ghil (DLP) in Changwon -- going to liberal/progressive 
+candidates.  Correspondingly, the UDP won big in the 
+traditionally liberal Jeolla region; no GNP candidate won in 
+Jeolla.  The Chungcheong region, the traditional battle 
+ground of the two major parties, decided to go its own way, 
+backing its native son Lee Hoi-chang's new party, the LFP, 
+which took 13 out of the 16 South Chungcheong and Daejeon 
+districts. 
+ 
+--------------- 
+Power Jockeying 
+--------------- 
+ 
+¶6. (SBU) The April 9 election was a qualified victory for the 
+President.  The election outcome puts about 100 "Pro-Lee" 
+lawmakers in place, but they will need significant help to 
+form a majority.  Moreover, the surprising defeat of some of 
+ 
+President Lee's key confidants like Lee Jae-o and Lee Bang-ho 
+could lead to a reshuffling within the pro-Lee faction.  One 
+Blue House contact noted the Lees and other key aides would 
+surely find other positions in the Administration. 
+ 
+¶7.  (C) An important reason for the defeat of key Lee 
+Myung-bak faction leaders is Park Geun-hye, who had accused 
+them of victimizing her own supporters in the nomination. 
+Staying put in her Daegu home, Park refused to campaign for 
+any candidate.  However, her supporters rallied to her cause, 
+even starting a new party, the Pro-Park Alliance.  They 
+promoted key Park faction members and also targeted the high 
+profile legislators from the Lee camp, many of whom lost what 
+would have been easy races. 
+ 
+¶8.  (C) Park supporters won 56 districts -- 30 within the 
+GNP, 12 independents, and 14 Pro-Park Alliance candidates. 
+The whole nomination and election process, therefore, 
+validated Park as a major political figure with deep support 
+among lawmakers and the public at large.  Moreover, she no 
+longer has to contend, at least in the National Assembly, 
+with pro-Lee lawmakers like Lee Jae-o, Lee Bang-ho and Park 
+Hyung-joon who all lost their seats. 
+ 
+¶9. (C) The outcome for the UDP was not quite a disaster the 
+liberals had feared.  Certainly, with 81, the liberals won 
+many more seats than what anyone had expected after the UDP's 
+disastrous showing in the presidential election.  The UDP, 
+with support from the fringe left-leaning parties, will be 
+able to function as a legitimate progressive political force. 
+ Still, the of many of the senior party members -- Kim 
+Geun-tae, Han Myoung-sook, Yoo In-tae, Shin Ki-nam -- as well 
+as prominent 386ers -- Im Jong-seok, Choi Jae-cheon, Woo 
+Sang-ho -- might make their attempts to find their voice more 
+difficult and could spark more infighting in the run-up to 
+the UDP party convention likely at the end of May. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶10. (C) There were two clear winners in the National Assembly 
+elections: Park Geun-hye and conservatives in Korea.  There 
+will be plenty of power-politicking as the conservative 
+leaders, principally President Lee and Park Geun-hye, try to 
+find a formula to work with each other.  Lee, of course, has 
+all the power levers associated with being the president. 
+His, however, is a single-term presidency, while Park has 
+emerged as the clear favorite among the Korean voters as the 
+most likely occupant of the Blue House next time around. 
+VERSHBOW
+</file>

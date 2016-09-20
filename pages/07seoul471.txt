@@ -1,0 +1,51 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL471  |  2007-02-15 08:53  |  미분류/공무외 사용금지  |  주한미국대사관  | {{tag>PREL PARM KNNP KS KN }}  |
+====== 제 목: 한국정부 다음 대북 조치와 관련 긴밀한 협력 모색 ======
+
+미분류 SEOUL 000471 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+민감함
+국무부 산하 동아시아태평양국, 국제안보·비확산국, 테러국, 검증·준수·이행국((DEPARTMENT FOR EAP, ISN, VCI, AND T ))
+
+행정명령 12958: 해당없음((N/A)) 
+태그: PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), KNNP(([Nuclear Non-Proliferation])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국정부 다음 대북 조치와 관련 긴밀한 협력 모색
+참조: STATE 18387 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/08/14 05:27//
+
+(민감하지만 미분류) 2월 14일 공관차석 대리 대사는 6자 회담에서 도출한 2.13 초기조치 합의에 대한 핵심 성과와 자세한 내용에 관한 참조 전문의 논지를 조태용 외교통상부 북미 국장에게 전달하였다. 공관차석 대리 대사는 6자 회담에서 성과를 내도록 한미 공조를 구축하는 게 중요하다고 강조하였다. 조병제는 동의하면서 송민순 외교부 장관은 라이스 국무부 장관과의 긴밀하고 빈번한 협의를 소중히 여긴다고 지적하였다. 2.13 초기조치는 한미 간의 조율이 요구되는 북한의 핵무장 해제로 가는 오랜 여정의 출발점일 뿐이라고 조병제는 말하였다. 
+버시바우
+[[https://sites.google.com/site/poirotkr/5/07seoul471|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL471.rtf>
+UNCLAS SEOUL 000471 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+DEPARTMENT FOR EAP, ISN, VCI, AND T 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PARM KNNP KS KN
+SUBJECT: ROKG SEEKS CLOSE COORDINATION ON NEXT STEPS WITH 
+NORTH KOREA 
+ 
+REF: STATE 18387 
+ 
+(SBU) On February 14, A/DCM delivered reftel points on the 
+key outcomes and details of the February 13 agreement reached 
+at the Six Party Talks to Cho Byung-jae, Director-General for 
+the North America Affairs Bureau at the Ministry of Foreign 
+Affairs and Trade.  A/DCM emphasized that it was important to 
+build on the U.S.-ROKG coordination that helped achieve 
+progress at the Six Party Talks.  Cho agreed and noted that 
+Foreign Minister Song valued his close and frequent 
+consultations with Secretary Rice.  The February 13 agreement 
+was just the beginning of a long road to the denuclearization 
+of North Korea that would require full USG-ROK coordination, 
+Cho said. 
+VERSHBOW
+</file>

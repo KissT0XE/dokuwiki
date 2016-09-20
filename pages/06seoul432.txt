@@ -1,0 +1,58 @@
+^  문서참조번호  ^  생성일  ^  비밀 등급  ^  출처  ^  태그  ^
+|  06SEOUL432  |  2006-02-07 08:40  |  비밀  |  주한 미국 대사관  |  {{tag>MARR MASS PARM PREL VE KS }}  |
+====== 제 목: 베네수엘라에 대한 무기 판매 제한을 요청하는 외교문서 한국 정부에 전달 ======
+비 밀 서울 000432
+국방부망 배포
+국방부망 배포
+미국 태평양 사령부 후소 외교 정책 보좌관
+주한미군 벨 장군과 태센 소장에게
+합동참모 근동/남아시아 데일 중령
+국방장관실 국제안보국/한국과 마이클 피네건 중령
+
+행정명령12958: 비밀해제: 04/21/2014
+태그: MARR, MASS, PARM, PREL, VE, KS
+제 목: 베네수엘라에 대한 무기 판매 제한을 요청하는 외교문서 한국 정부에 전달
+참조 하는 전문: [[06seoul1398|06SEOUL1398]], [[06seoul474|06SEOUL474]]
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/05 23:02//
+
+(비밀) 2월 7일 대사관 정치·군사 팀장은 베네수엘라에 대한 엄격한 무기 이전 정책을 채택할 것을 한국에 요청하는 참조 전문 메시지를 민경호 외교통상부 북미3과장에게 전달하였다. 민경호는 동 문제에 대한 중요성을 언급하며 한국정부 유관 당국자들과 함께 미국의 요청에 대한 논의를 착수하였다. 대사관은 앞으로 수일 안으로 외교통상부 남미 부서와 여타 유관 기관의 조치에 대한 후속 보고를 할 예정이다.
+버시바우
+
+[[https://sites.google.com/site/poirotkr/1/06seoul432|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 국립민주주의기금과 미국국제개발처(USAID)의 정체는? =====
+
+베네수엘라 차베스 대통령 축출을 위한 반 차베스 세력의 쿠데타 계획을 몇 달 앞두고 부시 정부는 [[wp>USAID|미국국제개발처]]와 [[wp>National_Endowment_for_Democracy|국립민주주의기금(NED)]]을 통해서 쿠데타를 일으킨 차베스 반대 세력에게 수백만 달러를 지원했으며((번역 주: 다큐멘터리 "War on Democracy")), [[08seoul2285|반북 전단살포 탈북자 단체인 자유북한연합]]에 2008년까지 135만 달러를 지원한 바 있다. 가장 최근의 국제 뉴스를 보면 볼리비아 대통령이 미국국제개발처(USAID)가 야당을 지원한다며 추방하기도 했다.((번역 주:알자리라 INSIDE))
+===== 걸작 다큐멘터리, 민주주의에 대한 전쟁 =====
+{{vimeo>16724719?400x300}}
+===== 원문 내려받기 =====
+<file rtf 06SEOUL432.rtf>
+S E C R E T SEOUL 000432 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+PACOM FOR FPA HUSO 
+USFK FOR GEN BELL AND MG THIESSEN 
+JOINT STAFF FOR NESA-LTC DEALE 
+OSD FOR ISA/KOREA LTC FINNEGAN 
+ 
+E.O. 12958: DECL: 04/21/2014 
+TAGS: MARR MASS PARM PREL VE KS
+SUBJECT: DEMARCHE ON RESTRICTING VENEZUELA'S ACCESS TO ARMS 
+DELIVERED TO ROKG 
+ 
+REF: STATE 18378 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(S) On February 7, Pol-Mil Chief conveyed reftel message 
+requesting the ROK to adopt a strict arms transfers policy 
+for Venezuela to MOFAT North American Division III Director 
+Min Kyung-ho.  Noting the importance of the issue, Min 
+undertook to discuss the U.S. request with relevant ROKG 
+officials.  Post will follow up with MOFAT South American 
+Division and other relevant agencies in the coming days. 
+VERSHBOW
+</file>

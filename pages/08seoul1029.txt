@@ -1,0 +1,455 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1029  |  2008-05-20 08:19  |  기밀  |  주한미국대사관  |  {{tag>PREL MARR PARM PGOV KS }}  |
+====== 제 목: 한·미 기지 반환 협상 재계 ======
+  * 기 밀 SEOUL 001029 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 행정명령 12958: 비밀해제: 05/20/2018 
+  * 태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), PARM(([Arms Controls and Disarmament])), PGOV(([Internal Governmental Affairs])), KS(([Korea (South)]))
+  * 제 목: 한·미 기지 반환 협상 재계
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun,)).  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/20 13:05//
+===== 요점 =====
+
+1. (기밀) 한국 외교통상부는 한미 주둔군 지휘 협정에(이하 소파) 의거한 기지반환 개선 방법을 논의하기 위해 교체 대표((번역 주: 교체대표는 대표의 부재시 또는 특별한 사정이 있을때 대표를 대리하여 활동하고 투표할 권한을 가진다.)) 수준의 주둔군 지휘 협정 특별합동위원회를 소집하였다. 이번 회의에서, 당사자 양측은 양국의 국민과 입법부에 시각으로 보면 한미동맹 이미지에 손상을 입히는 주한미군 기지 반환을 둘러싸고 논란이 심한 환경문제 해결에 대한 희망을 강조하였다. 미국 대표단은 주한미군 전략기획참모부장 프랭크 펜터를 수석 대표로 미 대사관, 소파 사무국, 그리고 주한미군 법무감 대표부가((Judge Advocate General representation)) 함께 하였다. 한국 대표단은 (교체 대표단을 수석 대표로, 외교통상부 북미국심의관 장호진과 함께 국방부와 환경부의 실장급 인사들이 동참) 캠프 하야리아 기지에 대한 환경부의 조사 연장을 비롯해 공동 환경실태조사에 대한 이행합의서와 2001년 소파 「환경보호에 관한 특별양해각서」(이하 “환경양해각서”)에 근거한 사후 오염치유 및 환경실태조사의 시간표와 환경 개선 표준에 대한 조정 요구를 담은 통일된 한국정부 입장을 제시하였다. 한국 측은 세부적인 환경 개선((번역 주: '오염치유'로 번역할 수도 있다)) 표준 설정을 위한 세 가지 제안도 제시하였다. 이에 미국 측은 검토해서, 다음 달 전에 열릴 특별합동의원회에서 회답하기로 동의하였다.
+
+2. (기밀) 분위기와 논평: 이번 회의는 당사자 양측 모두 긍정적이고 건설적인 태도로 임한 게 그 특징을 이룬다. 기지 반환을 두고 논란이 심했던 작년 협상과는 대조를 이루면서, 한국 측이 부처 간 조율된 입장을 개발하기 위해 열심히 작업했음이 분명하다. 그리고 장호진 북미국심의관의 지휘 하에 외교통상부는 한국의 입장 정리에 대한 확실한 책임을 위임받았다. 7월 정상회담 이후 현 조병제 국장이 자리를 비우면 차기 북미국장이 될 거라는 소문의 당사자인 장 심의관은 이번 협상에 대한 실용적인 접근 방식의 실례를 제시하였다. 특별합동위원회 포럼과 정규적인 미국 측과의 //“비공식”// 회동의 중요성을 강조하면서, 그는 일의 진척을 이루도록 개인적인 권한을 부여받은 듯 보였다. 이번 주 한 차례 해당 비공식 회동에서, 장호진은 환경부의 10가지 요구 사항을 4가지로 //“삭감”//했다고 지적하면서, 한국의 제안 중 핵심 사안에 집중하기로 했다고 팬터 소장과 대사관 직원 데이비드 울프에게 말하였다. 해당 비공식 회동에서, 장호진은 특별합동위원회는 환경부가 환경분과위원회 수준에서 계속 논의해야 하는 기술적이고 환경적인 사안을 다루지 않을 것이라고 장호진은 강조하였다. 또 다른 사례를 보면 이번 회의 말미에 언론 보도자료 조정과정에서, 장호진은 언론 지침에서 //“환경현안”//이란 용어를 삭제하라는 미국의 요구에 분명하게 반대하던 환경부 대표단을 성공적으로 단속하였다. 한편, 외교통상부 지도부 아래에 건설적인 한국정부의 어조와 한풀 꺾인 요구는 긍정적이며, 원활한 협상 과정의 토대를 놓을 수 있는 상황전개이지만, 이번 회의도 역시 골 깊고 실질적인 견해차가 상존하고 있음이 드러났다. 가장 두드러진 차이 중의 하나는 치유 범위이다; 한국 측은 남은 전체 42개 기지 반환에 적용될 “보편적인” 해결책이 필요하다고 계속 강조하였지만, 미국은 올해 9개 시설 반환, 그리고 사안별로 나머지 대상 기지에 세부 사정에 따른 처리에 의한 진전을 모색하고 있다. 나머지 견해차는 특별합동위원회가 계속 논의됨에 따라 더 확연하게 드러날 공산이 크지만, 특별합동위원회에 한국정부의 전체 부처가 참석하는 합동의 장에 더해지면 해결의 접점이 용이해 질 거라고 희망한다. //논평 끝.//
+===== 분위기 조성: 단계별 격차 완화 =====
+
+3. (기밀) 그는 장 심의관은 모두 발언에서 2007년 기지 반환을 두고 부정적인 여론과 험악한 분위기로 한미동맹에 손상을 막기 위해서 당사자 양측이 주한미군 기지 반환을 둘러싼 어려움 문제들을 //“가능한 한 조속히”// 해결하도록 요청하였다. 그러기 위해선, 장호진은 당사자 양측이 //“유연하고 합리적인 태도”//에 따른 협상을 해주길 희망한다고 강조하면서, 당사자 양측의 견해차를 좁히기 위해서 쌍방이 역제안을 제안하고 신중히 검토하기 위한 일련의 회동을 통해서 이 현안을 해결하도록 하는 게 상책일 수 있다고 지적하였다. 그는 특정 환경 문제에 관한 기술적인 논의는 환경분과위원회에서 계속하기로 하고, 특별합동위원회 회의는 일반적인 기지 반환 문제를 처리할 거라고 말하였다. 팬터 소장은 당사자 양측이 수용할만한 해결책과 건설적인 논의에 대한 장 심의관의 바람을 제창하였다. U.S. 미국은 소파에 근거해 제시된 현재의 기지 반환 과정이 충분하다고 보고 있지만, 한미 동맹의 강화라는 이해관계를 위해 미국 측은 한국의 제안을 주의 깊게 경청하고, 내용을 검토하고, 다음 특별합동위원회 회의에서 대답을 제공할 거라고 팬터 소장은 말하였다. 장 심의관과 팬터 소장은 모두 이 현안을 둘러싼 민감성을 고려할 때, 미국과 한국은 언론 보도지침에 관하여 사전에 협의하기로 견해를 같이하였다.
+
+4. (기밀) 미국 측이 9개 주한미군 시설 상황에 대한 최신소식을 제공한 이후에, 장 심의관은 한국정부가 특별합동위원회에서 다루길 희망하는 네 가지 영역을 제시하였다. 1) 적용 가능한 환경 개선 표준을 구분; 2) 환경 실태조사 기간 조정; 3) 캠프 하야리아 기지에 대한 환경 실태조사 재계; 그리고 4) 사후 오염치유 검증 절차의 설립. 장호진은 한국 측은 첫 특별합동위원회 회의에서 첫 3가지 항목에 집중할 것이고, 향후 회의에서는 오염치유 검증 절차와 관련해 한층 상세한 제안을 제시할 거라고 지적하였다. 
+===== 환경 개선 표준에 관한 한국의 제안 =====
+
+5. (기밀) 장 심의관은 한국정부의 우선 과제는 반환된 기지에 대해 국회와 국민을 상대해 방어하고 더 손쉽게 설명할 수 있도록 더 분명한 환경 개선 표준을 설정하는 것이다. 해당 제안은 2001년 소파 「환경보호에 관한 특별양해각서」에서 합의한 한국 측이 말하는 //“KISE 표준”//을((인간건강에 널리 알려진 급박하고 실질적인 위험)) 어떻게 세부적으로 구별하는 데 초점을 두었다. 석유와 중금속 오염 사례에 대한 KISE 표준을 한국의 환경법에 제시된 //“가장 관대한”// 기준으로 KISE 표준을 설정하는 것이다. 두 번째 제안은 반환되는 시설의 유형에 기초한 환경 개선 표준을 요구하는데, 예로 주거시설과 상업 시설은 한 부류의 기준에 대상이 될 것이며, 인구 밀집 지역과 멀리 떨어진 시설에는 다른 류의 기준이 적용될 것이다. 세 번째 제안은 KISE 표준을 반환되는 시설에 적용할지 사안별로 한·미 공동 전문가 조사단을 소집해 결정하자고 요구한다.
+
+6. (기밀) 팬터 소장은 한국정부가 사용하는 //“KISE 표준”//이란 용어에 대한 질문으로, KISE 그 자체가 하나의 표준이 아니라고 지적하였다. 오히려 전 세계 미국 사령관들은 KISE 혹은 //“인간건강에 널리 알려진 급박하고 실질적인 위험”//을 생활 공간과 근무 시설에서 개인이나 가족의 보호하기 위해 하나의 척도로써 오염치유가 필요한지를 결정하는 데 사용하고 있다. KISE는 고려를 위한 하나의 척도이지, 한 종류의 구체적인 기준이 아니라고 주의를 당부하였다. 그렇긴 하지만 팬터 소장은 미국은 한국정부의 제안을 신중히 검토할 것이고, 차기 특별합동위원회 회의에서 미국의 응답을 제공하겠다고 장 심의관에게 보장하였다. 한국 정부의 제안 내용은 아래와 같다.
+ 
+7. 제안 내용 시작.
+
+환경 개선 표준(한국정부 1안)
+아래 각호를 통하여 KISE 표준을 명시한다.
+  * 토양환경보전법에 따라 //"B지역 활동 등급"//으로 적절한 개선 등급을 제정한다.
+
+  * 유류의 경우 토양환경보전법에 따라 //“B지역 활동 등급”//의 오염수치는  5,000ppm으로 한다.
+
+  * 기타 개선 대상이 되는 항목(중금속, 페놀, 카드뮴 등)의 경우 동 법의 규정과 동일한 //“B지역 활동 등급”//을 적용할 수 있다.
+(*토양환경보전법에 따른 개선 등급과 활동 등급, 그리고 (A, B)지역에 대한 설명
+  * 개선 등급((번역 주:토양환경보전법 상의 토양오염우려기준)):  인간의 건강과 재산상의 위해가 될 뿐만 아니라 동식물의 성장에도 위해 가능성이 큰 오염 등급이다.
+
+  * 활동 등급((번역 주: 토양환경보전법 상의 토양오염대책기준)): 상기한 //“개선 등급”//을 초과하는 인간의 건강과 재산상에 위해가 될 뿐만 아니라 동식물의 성장에도 위해 가능성이 큰 오염 등급이다.
+
+  * A지역은 논과 밭, 과수원, 동물농장, 숲, 학교, 강, 공원, (조림 제한구역) 체육시설, 사적지, 주거 시설은 'A'지역에 속한다.
+
+  * B지역은 공장 부지, 도로, 철도, 등 산업적 용도 지역은 'B'지역에 속한다.)
+
+환경 개선 표준(한국정부 2안)
+아래 각호를 통하여 KISE 표준을 명시한다. 
+  * 기지의 특성과 위치 등에 따른 분류를 토대로 적절한 개선 수준에 대해 합의한다.
+
+  * 오염 규모가 크고 심각하며, 도시에 근접하고 기름에 오염된 기지의 경우,   “‘B’지역 활동 등급”을 적용할 수 있다.
+
+  * 훈련장과 상대적으로 규모가 작고 중금속에 오염되고, 심각하게 오염되지 않은 기타 기지의 경우에는 당사자 양측이 개선 수준에 대해 합의를 도출할 수 있다.  
+
+환경 개선 표준(한국정부 3안)
+아래 각호를 통하여 KISE 표준을 명시한다. 
+  * 양측으로 구성되는 전문가 그룹을 통하여 기지가 KISE 표준에 해당되는지에 대한 한미 합동 평가
+
+  * 한미 합동 전문가 그룹을 설립하여 기지/지역에 대해 위험기반 평가를 합동으로 수행하여 해당 지역이 KISE 표준에 해당되는지 판단한다.
+===== 환경실태조사와 환경개선검증 =====
+
+8. (기밀) 첫 특별합동위원회 회의의 최우선 과제가 환경 개선 표준이지만, 향후 논의에서는 한국정부가 반환되는 시설에 대한 환경부의 환경실태조사에 할애할 시간을 결정하는 바람직한 방법을 찾길 희망한다고 장 심의관은 지적하였다. (2002년 환경 정보 공유 및 접근 절차 마련, 그리고 2003년 미군반환·공여지 환경조사와 오염치유 협의를 위한 절차합의서 //“부속서 A”//에 따라서) 현재 할당된 50일의 기간은 하나의 시설에 잠재적인 오염원의 크기와 수치를 고려하지 않았다고 장 심의관은 강조하였다. 관련해 한국정부는 캠프 하야리아의 환경실태조사에 할당된 50일의 기간이 조사를 끝내기에 불충분하므로 조사 //“재계”//를 요청한다고 재차 반복하였다. 국방부는 토양과 지하수 표본 추출이 마무리되지 않은 부분을 나타내는 (이메일을 통해 전송된) 하야리아 기지의 상세 지도를 제시하였다.
+
+9. (기밀) 팬터 소장은 //“재조사”// 건의는 확보된 자료를 소파에 의거하여 필요한 요건이 아니라 환경개선 작업이 한국의 국내 환경기준에 부합하지 않음을 입증하기 위해 고안된 게 아닌지 우려를 표명하면서, 추가 시간과 확보된 결과가 어떻게 사용될지 더 분명하게 설명해 달라고 장 심의관에게 요청하였다. 장 심의관은 미국의 우려를 이해한다며, 한국정부는 주한미군 기지 반환에 국내 환경 표준을 적용하지 않을 거라고 보장하였다. 
+===== 언론 지침의 조율 =====
+
+10. 미국과 한국 측은 첫 특별합동회의에 관한 언론의 질문에 대한 답변으로 아래와 같은 조율된 언론 보도지침에 합의하였다. 
+본문 시작
+
+2008년 5월 15일 특별합동회의 결과
+2008년 5월 15일 개최된 소파 특별합동회의에서는 한미 합동 방어력과 부지의 효과적인 활동, 그리고 주한미군의 효과적인 관리의 목적으로 기획된 주한미군 재배치 사업의 원활한 이행을 위해서 주한미군 기지반환 및 관련 현안을 논의하였다. 
+양측 당사자는 건설적인 협의를 하였고, 본 회의에서 논의된 내용에 대한 철저한 검토를 바탕으로 논의를 계속하기로 견해를 같이 하였다.
+
+본문 끝.
+===== 미국 대표단 =====
+ 
+Major General Frank Panter, USFK ACoS, J5, Alternate U.S. 
+Representative 
+Mr. Joseph Y. Yun, Minister-Counselor for Political Affairs, 
+U.S. Embassy, Seoul 
+Mr. David Wolff, Chief of Political-Military Affairs, U.S. 
+Embassy, Seoul 
+Ms. Jessica Wolf-Hudson, Political Military Affairs Officer, 
+U.S. Embassy, Seoul 
+Colonel Dan Russell, USFK ACoS, Engineer (Chair FASC, 
+Environment, LPP, YRP Subcommittees) 
+Mr. Robert T. Mounts, Secretary, United States Component, 
+U.S.-ROK Joint Committee 
+Mr. David Rathgeber, Special Advisor, USFK Office of the 
+Judge Advocate 
+Mr. Malcolm H. Perkins, Asst Secretary, United States 
+Component, U.S.-ROK Joint Committee 
+Commander Janine Avant, USFK Real Estate Officer (FASC 
+Alternate Chair) 
+Mr. Robert Dalzell, USFK Environmental Officer (Environmental 
+Subcommittee Alternate Chair) 
+Major Richard E. McGlamory, Policy Officer, USFK, J5 
+Ms. Jina Lee, Interpreter/Translator 
+===== 한국 대표단 =====
+
+Mr. Chang Hojin, Dep DG, North American Affairs Bureau, 
+Alternate ROK Representative, MOFAT 
+Mr. Park Chong-suk, Dir, SOFA Affairs Division, MOFAT 
+Ms. Kang Pil-ho, Dep Dir, SOFA Affairs Division, MOFAT 
+BG Choi Ik bong, Dep DG, International Policy Bureau, MND 
+Mr. Yi Myung Hwan, Dir, Government Properties Division (FASC 
+Chair), MND 
+Mr. Yoo Dong joon, Dep Dir, Environmental Preservation 
+Division, MND 
+CDR Lee Bong chu, Action Officer, U.S. Policy Division, MND 
+Mr. Choi Sung jun, Dep Dir, Government Properties Division 
+(FASC Alternate Chair), MND 
+Mr. Jeong Jong-seon, Dir, Soil and Groundwater Division, 
+Water Supply and Sewage Bureau, MOE 
+Mr. Kang Seuk-Woo, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Maen Hak-Kyun, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Jeon Kwon-Ho, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Jeong Jang-Sik, Dir, Environmental Management 
+Corporation, MOE 
+ 
+Ms. Kim Hyun-kyung, Interpreter 
+VERSHBOW
+프와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1029.rtf>
+C O N F I D E N T I A L SEOUL 001029 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 05/20/2018 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], PARM [Arms Controls and Disarmament], PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: NEW START FOR U.S.-ROK BASE RETURN NEGOTIATIONS 
+ 
+Classified By: POL M/C Joseph Y. Yun, Reasons 1.4 (b,d). 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (C) The ROK Ministry of Foreign Affairs and Trade (MOFAT) 
+convened a SOFA Special Joint Committee (SJC) meeting at the 
+Alternate Representative level on May 15 to discuss how to 
+improve the camp returns process under the U.S.-ROK Status of 
+Forces Agreement (SOFA).  At the meeting, both sides stressed 
+a desire to resolve the contentious environmental issues 
+surrounding USFK camp returns that had soured the Alliance's 
+image in the eyes of both countries' publics and 
+legislatures.  The U.S. delegation was led by USFK Assistant 
+Chief of Staff, J-5 Major General Frank Panter, with Embassy, 
+SOFA Secretariat, and Judge Advocate General representation. 
+The ROK delegation, chaired by ROK Alternate Representative 
+(and MOFAT North American Affairs Deputy Director General) 
+Chang Ho-jin with deputy DG-level representation from both 
+the Ministry of National Defense (MND) and the Ministry of 
+Environment (MOE), presented a unified ROKG position calling 
+for adjustments to the remediation standards, time frame for 
+environmental surveys, and the post-remediation verification 
+procedures under the 2001 SOFA Memorandum of Special 
+Understanding on Environmental Protection (MOSU) and certain 
+implementing agreements for environmental joint surveys, as 
+well as an extension of MOE's survey of Camp Hialeah.  The 
+ROK side also presented three proposals to establish specific 
+remediation standards, which the U.S. side agreed to take 
+under review and provide a response at the next Special Joint 
+Committee meeting to be held within the next month. 
+ 
+¶2. (C) Atmospherics and Comment: The meeting was 
+characterized by a positive and constructive attitude on both 
+sides.  In contrast to last year's contentious negotiations 
+over camp returns, it was clear that the ROK side had worked 
+hard to develop a coordinated interagency position and that 
+MOFAT, under DDG Chang's leadership, had assumed clear 
+responsibility for organizing the ROK position.  DDG Chang, 
+rumored to be the next North American Affairs DG when the 
+current DG Cho Byung-jae leaves his post after the July 
+Presidential Summit, demonstrated a measured and practical 
+approach to the negotiations.  Emphasizing the importance of 
+both the Special Joint Committee forum and regular "informal" 
+meetings with the U.S. side, he appeared personally invested 
+in making progress.  In one such informal meeting earlier in 
+the week, Chang told MajGen Panter and Emboff David Wolff 
+that he was determined to focus the ROK's proposals on key 
+concerns, noting he had "whittled down" MOE's demands from 
+ten to just three or four.  At the meeting, Chang emphasized 
+that the Special Joint Committee would not address technical, 
+environmental issues, which MOE would have to continue to 
+discuss at the Environmental Subcommittee level.  In another 
+instance, during coordination of a press release at the end 
+of the meeting, Chang successfully reigned-in MOE 
+representatives who clearly objected to the U.S. request to 
+remove the term "environmental issues" from the press 
+guidance.  While the constructive tone and pared-down ROKG 
+agenda under MOFAT leadership represent positive, welcome 
+developments that could pave the way for a smoother 
+negotiation process, the meeting also revealed that deep 
+substantive divides remain.  One of the most significant 
+differences is the scope; the ROK side continued to emphasize 
+the need for a "universal" solution that would apply to all 
+42 remaining camp returns, while the U.S. seeks to make 
+progress returning nine facilities this year and addressing 
+specific conditions for others on a case-by-case basis.  The 
+remaining differences are likely to emerge even more 
+prominently as discussions in the SJC continue, but the hope 
+is that the addition of the SJC venue with full ROKG 
+interagency participation will itself facilitate their 
+resolution.  End Comment. 
+ 
+--------------------------------------------- - 
+SETTING THE TONE: NARROW THE GAPS STEP-BY-STEP 
+--------------------------------------------- - 
+ 
+¶3. (C) In his opening remarks, DDG Chang called for both 
+sides to resolve difficulties surrounding the return of USFK 
+bases "as quickly as possible" to prevent damaging the 
+Alliance as had happened with the acrimony and negative 
+publicity over the camp returns in 2007.  To do so, Chang 
+emphasized his desire to conduct negotiations characterized 
+by "flexible and reasonable attitudes" on both sides, noting 
+that the issues could best be resolved through a series of 
+meetings with each side carefully reviewing and providing 
+counterproposals in order to narrow the gap between the two 
+sides.  He said that the SJC meeting would address general 
+base return matters, while technical discussions, 
+particularly on specific environmental issues, would continue 
+in the Environmental Subcommittee.  MajGen Panter echoed DDG 
+Chang's hopes for constructive talks and resolution 
+acceptable to both sides.  He emphasized that the U.S. 
+considered the current camp returns process as outlined under 
+the SOFA sufficient, but in the interest of strengthening the 
+Alliance, the U.S. side would listen carefully to the ROK 
+proposals, take them under review, and provide a response at 
+the next SJC meeting.  Both DDG Chang and MajGen Panter 
+agreed that given the sensitivities surrounding the issues, 
+the U.S. and ROK would seek prior consultation on any press 
+releases. 
+ 
+¶4. (C) After the U.S. side provided an update on the status 
+of the nine USFK faciities to be returned in 2008, DDG Chang 
+outlined four areas that the ROKG hoped to address in the 
+SJC, including 1) clarifying the applicable remediation 
+standards; 2) adjusting the environmental survey time frame 
+allotted; 3) restarting the environmental survey at Camp 
+Hialeah; and 4) establishing post-remediation verification 
+procedures.  Chang noted that the ROK side would focus on the 
+first three items in the first SJC meeting and would present 
+more detailed proposals regarding post-remediation 
+verification procedures in future meetings. 
+ 
+--------------------------------------- 
+ROKG PROPOSALS ON REMEDIATION STANDARDS 
+--------------------------------------- 
+ 
+¶5. (C) DDG Chang said that the first priority for the ROKG 
+was to establish clearer remediation standards for returned 
+camps that the ROK could more easily explain and defend to 
+the ROK National Assembly and public.  Chang presented three 
+separate proposals on how to clarify the remediation 
+standards for returned USFK facilities.  The proposals 
+focused on how to specifically identify what the ROK side 
+refers to as "the KISE standard" as agreed to in the 2001 
+MOSU.  The first proposal was to set the KISE standard for 
+instances of oil and heavy metal contamination to the "most 
+lenient" standards outlined in ROK domestic environmental 
+law.  The second proposal called for the remediation 
+standards to be based on the type of facility being returned, 
+for example, residential and commercial facilities would be 
+subject to one set of standards while a different set of 
+standards would apply to facilities far from population 
+centers.  The third proposal called for a joint U.S.-ROK 
+expert panel to convene and determine, on a case-by-case 
+basis, whether KISE standards applied to the facility to be 
+returned. 
+ 
+¶6. (C) MajGen Panter questioned the ROKG proposal's use of 
+the term "KISE standard," noting that KISE was not a standard 
+in of itself.  Rather, he stressed that U.S. commanders 
+around the world used the KISE or "Known, Imminent, and 
+Substantial Endangerment to human health" as a criteria to 
+determine whether remediation was required to protect 
+personnel and families living and working on facilities. 
+KISE was a criteria for consideration, not a set of specific 
+standards, he cautioned.  Nonetheless, MajGen Panter assured 
+DDG Chang that the U.S. would carefully review the ROKG 
+proposals and provide a U.S. response at the next Special 
+Joint Committee Meeting.  Text of the ROKG proposal follows. 
+ 
+¶7. BEGIN TEXT. 
+ 
+Environmental Remediation Standard (Proposal I by the 
+Republic of Korea) 
+ 
+Specify the KISE standard by: 
+- Establishing the appropriate level of remediation as 
+"Action Level for Area 'B'"* in accordance with the "Soil 
+Environmental Preservation Act" 
+- As for oil, the contamination level require "Action Level 
+for Area 'B'" would be the 5,000ppm according to the "Soil 
+Environmental Preservation Act" 
+- As for other items subject to remediation (heavy metals, 
+phenol, cadmium, etc.), the same "Action Level for Area 'B'" 
+as provided in the Act may apply. 
+ 
+(*Description on the Remediation Level, Action Level and 
+Areas (A, B) according to the "Soil Environmental 
+Preservation Act" 
+- Remediation Level: Contamination level which is likely to 
+hamper human health and property, as well as growth of 
+animals and plants. 
+- Action Level: Contamination level that hampers human health 
+and property, as well as growth of animals and plants in 
+excess of the 'Remediation Level' of the above, requiring 
+counter measures for coping with the contamination 
+- Area - 'A': Dried field, rice field, orchard, animal farm, 
+forest, school area, river, park, physical training area 
+(limited to areas with plantations), recreation resorts, 
+religious areas, historical site.  Residential properties 
+fall under area 'A' 
+'B': Factory site, Road, Railroad, etc.  Areas for industrial 
+use fall under area 'B') 
+ 
+Environmental Remediation Standard (Proposal II by the 
+Republic of Korea) 
+ 
+Specify the KISE standard by: 
+- Agreeing on the appropriate level of remediation based on 
+the categorization of bases according to their 
+characteristics, locations and so forth 
+- As for large/seriously contaminated/near city/oil 
+contaminated bases, "Action Level for Area 'B'" may apply 
+- As for training ranges and all other relatively small/heavy 
+metal contaminated/not seriously contaminated bases, a 
+separate agreement on the remediation level may be reach 
+between both sides 
+ 
+Environmental Remediation Standard (Proposal III by the 
+Republic of Korea) 
+ 
+Specify the KISE standard by: 
+- ROK-U.S. joint assessment on whether the bases fall within 
+the KISE standard through the experts group composed of both 
+sides 
+- A ROK-U.S. joint experts group may be established and the 
+group would jointly conduct the risk-based assessment for the 
+bases/areas in order to determine the areas falling within 
+the KISE standard 
+ 
+--------------------------------------------- ---- 
+ENVIRONMENTAL SURVEY AND REMEDIATION VERIFICATION 
+--------------------------------------------- ---- 
+ 
+¶8. (C) While remediation standards was the top priority for 
+the first meeting of the SJC, Chang also noted that in future 
+discussions, the ROKG hoped to find a better way of 
+determining the length of time allotted for the environmental 
+survey by MOE on facilities to be returned.  The current 
+allotment of 50 days (in accordance with the 2002 
+Environmental Information Exchange and Access Procedures and 
+2003 "TAB A" Procedures for Environmental Survey and 
+Consultation on Remediation for Facilities and Areas to be 
+Granted or Returned) did not take into account the size or 
+number of potential sources of contamination on a facility, 
+Chang emphasized.  In relation, Chang reiterated the ROKG 
+request to "restart" the environmental survey of Camp 
+Hialeah, for which the 50 days allotted had been insufficient 
+to complete.  MND presented a detailed map (transmitted via 
+email) of Camp Hialeah showing four sections where soil and 
+groundwater sampling had yet to be done. 
+ 
+¶9. (C) MajGen Panter asked DDG Chang to explain more clearly 
+how the extra time and the results obtained would be used, 
+expressing concern that the proposed "re-survey" was designed 
+to find data to demonstrate that remediation did not meet ROK 
+domestic environmental standards rather than the terms 
+required under the SOFA.  DDG Chang noted that he understood 
+the U.S. concern and offered his assurances that the ROKG did 
+not seek to apply ROK domestic environmental standards to 
+USFK base returns. 
+ 
+-------------------------- 
+COORDINATED PRESS GUIDANCE 
+-------------------------- 
+ 
+¶10. The U.S. and ROK side agreed on the following coordinated 
+press guidance for use in responding to media inquiries on 
+the first SJC meeting. 
+ 
+BEGIN TEXT. 
+ 
+Results of the Special Joint Committee Meeting (May 15, 2008) 
+ 
+-- The SOFA Special Joint Committee Meeting was held on May 
+15, 2008, to discuss USFK camp returns and its related issues 
+for the smooth implementation of USFK relocation project 
+which is planned for the reinforcement of ROK-U.S. combined 
+defense capabilities, efficient use of land, and effective 
+management of the USFK. 
+ 
+-- Both sides noted that they had a constructive consultation 
+and agreed to continue their discussions based on a thorough 
+review on what was discussed in the meeting. 
+ 
+END TEXT. 
+ 
+--------------- 
+U.S. DELEGATION 
+--------------- 
+ 
+Major General Frank Panter, USFK ACoS, J5, Alternate U.S. 
+Representative 
+Mr. Joseph Y. Yun, Minister-Counselor for Political Affairs, 
+U.S. Embassy, Seoul 
+Mr. David Wolff, Chief of Political-Military Affairs, U.S. 
+Embassy, Seoul 
+Ms. Jessica Wolf-Hudson, Political Military Affairs Officer, 
+U.S. Embassy, Seoul 
+Colonel Dan Russell, USFK ACoS, Engineer (Chair FASC, 
+Environment, LPP, YRP Subcommittees) 
+Mr. Robert T. Mounts, Secretary, United States Component, 
+U.S.-ROK Joint Committee 
+Mr. David Rathgeber, Special Advisor, USFK Office of the 
+Judge Advocate 
+Mr. Malcolm H. Perkins, Asst Secretary, United States 
+Component, U.S.-ROK Joint Committee 
+Commander Janine Avant, USFK Real Estate Officer (FASC 
+Alternate Chair) 
+Mr. Robert Dalzell, USFK Environmental Officer (Environmental 
+Subcommittee Alternate Chair) 
+Major Richard E. McGlamory, Policy Officer, USFK, J5 
+Ms. Jina Lee, Interpreter/Translator 
+ 
+-------------- 
+ROK DELEGATION 
+-------------- 
+ 
+Mr. Chang Hojin, Dep DG, North American Affairs Bureau, 
+Alternate ROK Representative, MOFAT 
+Mr. Park Chong-suk, Dir, SOFA Affairs Division, MOFAT 
+Ms. Kang Pil-ho, Dep Dir, SOFA Affairs Division, MOFAT 
+BG Choi Ik bong, Dep DG, International Policy Bureau, MND 
+Mr. Yi Myung Hwan, Dir, Government Properties Division (FASC 
+Chair), MND 
+Mr. Yoo Dong joon, Dep Dir, Environmental Preservation 
+Division, MND 
+CDR Lee Bong chu, Action Officer, U.S. Policy Division, MND 
+Mr. Choi Sung jun, Dep Dir, Government Properties Division 
+(FASC Alternate Chair), MND 
+Mr. Jeong Jong-seon, Dir, Soil and Groundwater Division, 
+Water Supply and Sewage Bureau, MOE 
+Mr. Kang Seuk-Woo, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Maen Hak-Kyun, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Jeon Kwon-Ho, Dep Dir, Soil and Groundwater Division, MOE 
+Mr. Jeong Jang-Sik, Dir, Environmental Management 
+Corporation, MOE 
+ 
+Ms. Kim Hyun-kyung, Interpreter 
+VERSHBOW
+</file>

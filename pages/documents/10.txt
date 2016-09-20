@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 901 | [[https://www.wikileaks.org/plusd/cables/08SEOUL596_a.html| 08SEOUL596 ]]| [[/08SEOUL596]] | 유명환 외무장관, 중국 방문 중에 6자 회담과 한중 대화 논의 | 2008-03-25 | 기밀 | 완료 |
+| 902 | [[https://www.wikileaks.org/plusd/cables/08SEOUL616_a.html| 08SEOUL616 ]]| [[/08SEOUL616]] | 개성 공단 폐쇄, 북한의 불만 표출 | 2008-03-27 | 기밀 | 완료 |
+| 903 | [[https://www.wikileaks.org/plusd/cables/08SEOUL617_a.html| 08SEOUL617 ]]| [[/08SEOUL617]] | 이 대통령 북한 관련 함의가 담긴 성명을 전달 | 2008-03-27 | 일반/공무외 사용금지 | 완료 |
+| 904 | [[https://www.wikileaks.org/plusd/cables/08SEOUL622_a.html| 08SEOUL622 ]]| [[/08SEOUL622]] | 한국 정관계, 학계, 비정부 기구, 북한 식량난이 심각하다고 생각 | 2008-03-28 | 기밀 | 완료 |
+| 905 | [[https://www.wikileaks.org/plusd/cables/08SEOUL623_a.html| 08SEOUL623 ]]| [[/08SEOUL623]] | 한국 정부, 북한의 스틱스 미사일 시험 평가절하 | 2008-03-28 | 기밀 | 완료 |
+| 906 | [[https://www.wikileaks.org/plusd/cables/08SEOUL629_a.html| 08SEOUL629 ]]| [[/08SEOUL629]] | 국회의원 선거철이 시작되다 | 2008-03-31 | 기밀 | 완료 |
+| 907 | [[https://www.wikileaks.org/plusd/cables/08SEOUL636_a.html| 08SEOUL636 ]]| [[/08SEOUL636]] | 한국 정부, 북한의 거친 언사에 차분히 대응 | 2008-03-31 | 기밀 | 완료 |
+| 908 | [[https://www.wikileaks.org/plusd/cables/08SEOUL644_a.html| 08SEOUL644 ]]| [[/08SEOUL644]] | 미 국방부의 중국 군사력 보고서에 대한 한국의 반응 | 2008-04-01 | 기밀 | |
+| 909 | [[https://www.wikileaks.org/plusd/cables/08SEOUL645_a.html| 08SEOUL645 ]]| [[/08SEOUL645]] | 로어배커 의원 방한 | 2008-04-01 | 대외비 | |
+| 910 | [[https://www.wikileaks.org/plusd/cables/08SEOUL650_a.html| 08SEOUL650 ]]| [[/08SEOUL650]] | 멜라트 은행을 이용한 이란의 핵확산 활동에 대한 한국의 반응 | 2008-04-01 | 비밀 | 완료 |
+| 911 | [[https://www.wikileaks.org/plusd/cables/08SEOUL682_a.html| 08SEOUL682 ]]| [[/08SEOUL682]] | 마지막 여론조사 한나라당 원내 다수당 전망 | 2008-04-04 | 일반 | 완료 |
+| 912 | [[https://www.wikileaks.org/plusd/cables/08SEOUL702_a.html| 08SEOUL702 ]]| [[/08SEOUL702]] | 블루 랜던 3단계 최종 사용 점검: 항목 05-050092404 | 2008-04-08 | 일반 | |
+| 913 | [[https://www.wikileaks.org/plusd/cables/08SEOUL706_a.html| 08SEOUL706 ]]| [[/08SEOUL706]] | 한나라당, 승리 목전에 두다 | 2008-04-08 | 기밀 | 완료 |
+| 914 | [[https://www.wikileaks.org/plusd/cables/08SEOUL707_a.html| 08SEOUL707 ]]| [[/08SEOUL707]] | 외교안보수석 김병국이 말하는 북한, 한미정상회담과 동맹 | 2008-04-08 | 기밀 | 완료 |
+| 915 | [[https://www.wikileaks.org/plusd/cables/08SEOUL719_a.html| 08SEOUL719 ]]| [[/08SEOUL719]] | 4월 9일 총선: 한나라당, 간신히 과반 의석 획득, 박근혜는 자신의 파워를 입증 | 2008-04-09 | 기밀 | 완료 |
+| 916 | [[https://www.wikileaks.org/plusd/cables/08SEOUL728_a.html| 08SEOUL728 ]]| [[/08SEOUL728]] | 총선: 승리하기는 했지만 이명박 대통령에게는 달갑지 않은 결과 | 2008-04-10 | 기밀 | 완료 |
+| 917 | [[https://www.wikileaks.org/plusd/cables/08SEOUL736_a.html| 08SEOUL736 ]]| [[/08SEOUL736]] | 한국, 유엔안보리 결의안 1737호, 1747호, 1803호 여행 금지 이미 시행 | 2008-04-11 | 기밀 | 완료 |
+| 918 | [[https://www.wikileaks.org/plusd/cables/08SEOUL737_a.html| 08SEOUL737 ]]| [[/08SEOUL737]] | 초조한 전 외무장관: 이명박정부 협력해서 일 처리? | 2008-04-11 | 기밀 | 완료 |
+| 919 | [[https://www.wikileaks.org/plusd/cables/08SEOUL738_a.html| 08SEOUL738 ]]| [[/08SEOUL738]] | 한국, 석유 투자를 노리고 이라크 채무의 80퍼센트 탕감 | 2008-04-11 | 기밀 | 완료 |
+| 920 | [[https://www.wikileaks.org/plusd/cables/08SEOUL773_a.html| 08SEOUL773 ]]| [[/08SEOUL773]] | 이명박 대통령, 한미 FTA와 경제 개혁을 논의할 임시 국회 얻어내 | 2008-04-16 | 기밀 | 완료 |
+| 921 | [[https://www.wikileaks.org/plusd/cables/08SEOUL774_a.html| 08SEOUL774 ]]| [[/08SEOUL774]] | 이명박 대통령의 대북 정책: 기본 원칙을 새로 정립 | 2008-04-16 | 기밀 | 완료 |
+| 922 | [[https://www.wikileaks.org/plusd/cables/08SEOUL776_a.html| 08SEOUL776 ]]| [[/08SEOUL776]] | 이명박 정치적 풍파를 견디고, 우호적 국회를 맞이 | 2008-04-17 | 기밀 | 완료 |
+| 923 | [[https://www.wikileaks.org/plusd/cables/08SEOUL796_a.html| 08SEOUL796 ]]| [[/08SEOUL796]] | 오준 외교통상부 다자외교실장, 이란 행 747 항공기 보류의 국제법적 근거 요청 | 2008-04-18 | 비밀/외국에 공개 금지 | |
+| 924 | [[https://www.wikileaks.org/plusd/cables/08SEOUL804_a.html| 08SEOUL804 ]]| [[/08SEOUL804]] | 아프가니스탄 원조국 회의에 대한 한국 반응 | 2008-04-21 | 대외비 | |
+| 925 | [[https://www.wikileaks.org/plusd/cables/08SEOUL806_a.html| 08SEOUL806 ]]| [[/08SEOUL806]] | 김성 동아시아태평양/한국 담당 차관보 및 대표단에게 한국 체류 허가 | 2008-04-21 | 대외비 | |
+| 926 | [[https://www.wikileaks.org/plusd/cables/08SEOUL831_a.html| 08SEOUL831 ]]| [[/08SEOUL831]] | 북한 경제: 개성 공단 현황 | 2008-04-25 | 기밀 | |
+| 927 | [[https://www.wikileaks.org/plusd/cables/08SEOUL833_a.html| 08SEOUL833 ]]| [[/08SEOUL833]] | 한국은 양심수 선언을 후원할 수 없어 | 2008-04-25 | 기밀 | 완료 |
+| 928 | [[https://www.wikileaks.org/plusd/cables/08SEOUL849_a.html| 08SEOUL849 ]]| [[/08SEOUL849]] | 한국, 해성-II 함대함 미사일 시험 발사 | 2008-04-28 | 비밀 | 완료 |
+| 929 | [[https://www.wikileaks.org/plusd/cables/08SEOUL853_a.html| 08SEOUL853 ]]| [[/08SEOUL853]] | 세드니 동아시아태평양 담당 부차관보, 한국 정부 면담: 말뿐 아니라 행동에서도 더 강력한 한미 동맹 | 2008-04-28 | 기밀 | 완료 |
+| 930 | [[https://www.wikileaks.org/plusd/cables/08SEOUL856_a.html| 08SEOUL856 ]]| [[/08SEOUL856]] | SPI 17: 제17차 한미 안보정책구상 회의(1/2부) | 2008-04-28 | 비밀 | 완료 |
+| 931 | [[https://www.wikileaks.org/plusd/cables/08SEOUL857_a.html| 08SEOUL857 ]]| [[/08SEOUL857]] | SPI 17: 제17차 한미 안보정책구상 회의(2/2부) | 2008-04-28 | 비밀 | 완료 |
+| 932 | [[https://www.wikileaks.org/plusd/cables/08SEOUL862_a.html| 08SEOUL862 ]]| [[/08SEOUL862]] | 김영삼 전 대통령, 여전히 현안에 밝아: 한나라당의 혼란과 현안 언급 | 2008-04-29 | 기밀 | 완료 |
+| 933 | [[https://www.wikileaks.org/plusd/cables/08SEOUL877_a.html| 08SEOUL877 ]]| [[/08SEOUL877]] | 전문 분류 하향 조정 요청 | 2008-04-29 | 일반 | |
+| 934 | [[https://www.wikileaks.org/plusd/cables/08SEOUL878_a.html| 08SEOUL878 ]]| [[/08SEOUL878]] | 한국정부 유엔 인권이사회 이사국 선거 재선을 목표로 미국의 지지 요청 | 2008-04-29 | 대외비 | 완료 |
+| 935 | [[https://www.wikileaks.org/plusd/cables/08SEOUL879_a.html| 08SEOUL879 ]]| [[/08SEOUL879]] | 동영상이 인터넷에 떠돌면서 중국 학생들의 폭력 시위에 대한 한국인의 분노 커져 | 2008-04-29 | 기밀 | |
+| 936 | [[https://www.wikileaks.org/plusd/cables/08SEOUL881_a.html| 08SEOUL881 ]]| [[/08SEOUL881]] | 북한, 의약품과 장비가 부족하여 전염병 대처에 어려움 겪어 | 2008-04-30 | 대외비 | |
+| 937 | [[https://www.wikileaks.org/plusd/cables/08SEOUL896_a.html| 08SEOUL896 ]]| [[/08SEOUL896]] | 한국의 역내 관점: 동북아시아평화안보메커니즘과 탈북자 정책 | 2008-05-01 | 기밀 | 완료 |
+| 938 | [[https://www.wikileaks.org/plusd/cables/08SEOUL903_a.html| 08SEOUL903 ]]| [[/08SEOUL903]] | 국무부 부장관의 5월 7~8일 서울 방문을 위한 무대 연출 | 2008-05-01 | 기밀 | 완료 |
+| 939 | [[https://www.wikileaks.org/plusd/cables/08SEOUL917_a.html| 08SEOUL917 ]]| [[/08SEOUL917]] | 한국, 버마 국민 투표의 문제점에 대해 공개 성명 고려 | 2008-05-02 | 기밀 | 완료 |
+| 940 | [[https://www.wikileaks.org/plusd/cables/08SEOUL918_a.html| 08SEOUL918 ]]| [[/08SEOUL918]] | NPT 준비위원회 외교문서에 대한 한국 반응 | 2008-05-02 | 대외비 | |
+| 941 | [[https://www.wikileaks.org/plusd/cables/08SEOUL919_a.html| 08SEOUL919 ]]| [[/08SEOUL919]] | 한일 정상회담 후속 조치: 미래를 내다보지만 발을 내디디지는 않아 | 2008-05-02 | 기밀 | 완료 |
+| 942 | [[https://www.wikileaks.org/plusd/cables/08SEOUL926_a.html| 08SEOUL926 ]]| [[/08SEOUL926]] | 김성 동아시아태평양/한국 담당 차관보 및 대표단에게 한국 체류 허가 | 2008-05-06 | 대외비 | |
+| 943 | [[https://www.wikileaks.org/plusd/cables/08SEOUL928_a.html| 08SEOUL928 ]]| [[/08SEOUL928]] | 한국, 네그로폰테 부장관과 회동 이후 버마 국민 투표에 대해 성명 발표 | 2008-05-06 | 기밀 | 완료 |
+| 944 | [[https://www.wikileaks.org/plusd/cables/08SEOUL936_a.html| 08SEOUL936 ]]| [[/08SEOUL936]] | 소말리아 해적에 대한 유엔 안전보장이사회 결의안을 접한 한국의 반응 | 2008-05-07 | 기밀 | |
+| 945 | [[https://www.wikileaks.org/plusd/cables/08SEOUL952_a.html| 08SEOUL952 ]]| [[/08SEOUL952]] | 박근혜와 한나라당 의원들, 소고기 논쟁과 국내 정치, 새 대사관 공관 문제 언급 | 2008-05-09 | 기밀 | 완료 |
+| 946 | [[https://www.wikileaks.org/plusd/cables/08SEOUL974_a.html| 08SEOUL974 ]]| [[/08SEOUL974]] | 블루랜턴 3단계 허가 05-00005069에 대한 후속 반응 | 2008-05-13 | 일반 | |
+| 947 | [[https://www.wikileaks.org/plusd/cables/08SEOUL976_a.html| 08SEOUL976 ]]| [[/08SEOUL976]] | 통일부: 한국 정부, 원칙이 확고부동; 대화와 인도적 원조는 유연하게 대처 | 2008-05-13 | 기밀 | 완료 |
+| 948 | [[https://www.wikileaks.org/plusd/cables/08SEOUL977_a.html| 08SEOUL977 ]]| [[/08SEOUL977]] | 야당 의원 김부겸, 소고기와 FTA, 대통합민주신당의 미래 언급 | 2008-05-13 | 기밀 | 완료 |
+| 949 | [[https://www.wikileaks.org/plusd/cables/08SEOUL987_a.html| 08SEOUL987 ]]| [[/08SEOUL987]] | 파리에서 열린 아프가니스탄 지원 회의의 약속에 대한 한국 반응 | 2008-05-14 | 대외비 | |
+| 950 | [[https://www.wikileaks.org/plusd/cables/08SEOUL988_a.html| 08SEOUL988 ]]| [[/08SEOUL988]] | 이라크 정부와의 국제 협약 참여에 대한 한국 반응 | 2008-05-14 | 대외비 | |
+| 951 | [[https://www.wikileaks.org/plusd/cables/08SEOUL991_a.html| 08SEOUL991 ]]| [[/08SEOUL991]] | 5월 21일 쿠바인 연대의 날 | 2008-05-15 | 일반 | 완료 |
+| 952 | [[https://www.wikileaks.org/plusd/cables/08SEOUL993_a.html| 08SEOUL993 ]]| [[/08SEOUL993]] | 한국, 유엔 인권위원회 선거에서 미국과 서구에 득표 활동 | 2008-05-15 | 기밀 | |
+| 953 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1000_a.html| 08SEOUL1000 ]]| [[/08SEOUL1000]] | 정치 컨설턴트 박성민, 대통령의 지지율 추락에 대해 논평 | 2008-05-16 | 기밀 | |
+| 954 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1004_a.html| 08SEOUL1004 ]]| [[/08SEOUL1004]] | 월드비전, 북한에서 환영 받아 | 2008-05-16 | 기밀 | |
+| 955 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1007_a.html| 08SEOUL1007 ]]| [[/08SEOUL1007]] | 한국 정부, 쿠바와 영사 관계 모색 | 2008-05-16 | 기밀 | 완료 |
+| 956 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1008_a.html| 08SEOUL1008 ]]| [[/08SEOUL1008]] | 5월 21일 쿠바인 연대의 날(2부) | 2008-05-16 | 기밀 | 완료 |
+| 957 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1010_a.html| 08SEOUL1010 ]]| [[/08SEOUL1010]] | 한국의 교회 재단, 북한 주민이 한국에서 새 삶을 시작하도록 도와 | 2008-05-16 | 일반 | |
+| 958 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1020_a.html| 08SEOUL1020 ]]| [[/08SEOUL1020]] | 북한 주재 영국 대사: 북한은 변화하고 있다 | 2008-05-20 | 기밀 | 완료 |
+| 959 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1021_a.html| 08SEOUL1021 ]]| [[/08SEOUL1021]] | 주한 미국 대사관, 한국 비정부 기구들은 추방된 버마 민주화 운동가들에게 연대감 표시 | 2008-05-20 | 기밀 | |
+| 960 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1029_a.html| 08SEOUL1029 ]]| [[/08SEOUL1029]] | 한미 기지 반환 협상 재개 | 2008-05-20 | 기밀 | 완료 |
+| 961 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1033_a.html| 08SEOUL1033 ]]| [[/08SEOUL1033]] | 블루랜턴 1단계 선적 후 최종 사용 검사 허가 050047010에 대한 반응 | 2008-05-21 | 일반 | |
+| 962 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1039_a.html| 08SEOUL1039 ]]| [[/08SEOUL1039]] | 보수적 학자들, 남북의 서먹한 관계에 우려 표명 | 2008-05-21 | 기밀 | 완료 |
+| 963 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1045_a.html| 08SEOUL1045 ]]| [[/08SEOUL1045]] | 이회창, 소고기 문제 해결 방안 모색 | 2008-05-22 | 기밀 | 완료 |
+| 964 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1056_a.html| 08SEOUL1056 ]]| [[/08SEOUL1056]] | 블루랜턴 3단계 선적 후 최종 사용 검사 허가 050064399에 대한 반응 | 2008-05-23 | 일반 | |
+| 965 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1058_a.html| 08SEOUL1058 ]]| [[/08SEOUL1058]] | 송민순 전 외교통상부 장관, 쇠고기 문제의 최상의 해결책은 단계적 접근 | 2008-05-23 | 기밀 | 완료 |
+| 966 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1060_a.html| 08SEOUL1060 ]]| [[/08SEOUL1060]] | 한국, 버마 지원에 관하여 미국과 같은 입장 | 2008-05-23 | 기밀 | |
+| 967 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1061_a.html| 08SEOUL1061 ]]| [[/08SEOUL1061]] | 한중 정상회담 및 공동 성명 사전 검토 | 2008-05-23 | 기밀 | 완료 |
+| 968 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1077_a.html| 08SEOUL1077 ]]| [[/08SEOUL1077]] | 쿠바와의 관계 개선: 해방법 3장 유보 검토에 대한 한국 반응 | 2008-05-28 | 기밀 | |
+| 969 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1078_a.html| 08SEOUL1078 ]]| [[/08SEOUL1078]] | 한국, NHK-II 지대지 미사일 시험 발사 일정 변경 | 2008-05-28 | 비밀 | 완료 |
+| 970 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1085_a.html| 08SEOUL1085 ]]| [[/08SEOUL1085]] | 이란의 불법 조달 활동 제한 요청에 대한 한국 반응 | 2008-05-28 | 일반 | |
+| 971 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1086_a.html| 08SEOUL1086 ]]| [[/08SEOUL1086]] | 국가인권위원회, 마지못해 북한 인권 문제 맡아 | 2008-05-28 | 기밀 | |
+| 972 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1087_a.html| 08SEOUL1087 ]]| [[/08SEOUL1087]] | 이상득, 소고기 문제와 이명박 대통령의 잘못 언급 | 2008-05-29 | 기밀 | 완료 |
+| 973 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1089_a.html| 08SEOUL1089 ]]| [[/08SEOUL1089]] | 한국, 국제이주기구 사무총장 후보 윌리엄 스윙 대사 지지 | 2008-05-29 | 기밀 | |
+| 974 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1104_a.html| 08SEOUL1104 ]]| [[/08SEOUL1104]] | 한국의 세대별 민족주의 | 2008-05-30 | 대외비 | 보완 |
+| 975 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1107_a.html| 08SEOUL1107 ]]| [[/08SEOUL1107]] | 2009년 국방 개혁 예산 | 2008-05-30 | 기밀 | 완료 |
+| 976 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1113_a.html| 08SEOUL1113 ]]| [[/08SEOUL1113]] | 5월 7~9일 평양 회담에 대한 캐나다 전언 | 2008-06-02 | 기밀 | |
+| 977 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1114_a.html| 08SEOUL1114 ]]| [[/08SEOUL1114]] | 세계핵테러방지구상(GICNT) 행동 요청에 대한 한국 반응 | 2008-06-02 | 일반 | |
+| 978 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1120_a.html| 08SEOUL1120 ]]| [[/08SEOUL1120]] | 17대 국회, 초라하게 마무리: 요약 | 2008-06-03 | 일반 | 완료 |
+| 979 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1122_a.html| 08SEOUL1122 ]]| [[/08SEOUL1122]] | 한국의 시위 문화, 더 유연해져 | 2008-06-03 | 기밀 | 완료 |
+| 980 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1141_a.html| 08SEOUL1141 ]]| [[/08SEOUL1141]] | 유엔 평화유지 활동 서울 회의 초청 | 2008-06-05 | 기밀 | |
+| 981 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1142_a.html| 08SEOUL1142 ]]| [[/08SEOUL1142]] | 6월 10~11일 6자 회담 경제 및 에너지 실무 그룹에 한국 체류 허가 | 2008-06-05 | 대외비 | |
+| 982 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1144_a.html| 08SEOUL1144 ]]| [[/08SEOUL1144]] | 한나라당의 재보선 패배는 국민적 불안을 반영 | 2008-06-05 | 대외비 | |
+| 983 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1145_a.html| 08SEOUL1145 ]]| [[/08SEOUL1145]] | 한나라당 지도부 쇠고기 건으로 미국측에 연락을 취하다 | 2008-06-05 | 기밀 | 완료 |
+| 984 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1149_a.html| 08SEOUL1149 ]]| [[/08SEOUL1149]] | 김성 동아시아태평양/한국 담당 차관보 및 처크 루츠에게 한국 체류 허가 | 2008-06-08 | 대외비 | |
+| 985 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1153_a.html| 08SEOUL1153 ]]| [[/08SEOUL1153]] | 시위는 계속되고, 청와대는 해결책 모색에 안간힘을 쓰다 | 2008-06-09 | 기밀 | 완료 |
+| 986 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1172_a.html| 08SEOUL1172 ]]| [[/08SEOUL1172]] | 미 대사, 김숙 6자 회담 수석 대표 면담: 여러 면에서 최초 | 2008-06-11 | 기밀 | 완료 |
+| 987 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1174_a.html| 08SEOUL1174 ]]| [[/08SEOUL1174]] | 시위대 황금기를 지나? 이 "새 출발"을 맹세 | 2008-06-11 | 기밀 | 완료 |
+| 988 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1182_a.html| 08SEOUL1182 ]]| [[/08SEOUL1182]] | 한국 정부 조사 결과: 타이에서 이란으로 선적된 불화수소, 중국에서 생산되었을 수도 | 2008-06-12 | 비밀 | |
+| 989 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1187_a.html| 08SEOUL1187 ]]| [[/08SEOUL1187]] | 월터 샤프 주한미군 사령관, 이상희 국방장관과 상견례 | 2008-06-13 | 기밀 | 완료 |
+| 990 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1201_a.html| 08SEOUL1201 ]]| [[/08SEOUL1201]] | 한국, APDP 지원 | 2008-06-16 | 기밀 | |
+| 991 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1204_a.html| 08SEOUL1204 ]]| [[/08SEOUL1204]] | 이 대통령의 격동의 시기 : 그가 극복할까? | 2008-06-16 | 기밀 | 완료 |
+| 992 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1207_a.html| 08SEOUL1207 ]]| [[/08SEOUL1207]] | 이란 금융 거래 및 멜랏 은행 서울 지사에 대한 한국 반응/조치 요청 | 2008-06-17 | 비밀 | 할당 |
+| 993 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1209_a.html| 08SEOUL1209 ]]| [[/08SEOUL1209]] | 블루랜턴 3단계 선적 전 최종 사용 검사 허가 050102491에 대한 반응 | 2008-06-17 | 일반 | |
+| 994 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1215_a.html| 08SEOUL1215 ]]| [[/08SEOUL1215]] | 한국, 한국인을 비롯한 구호 활동가를 수용하라고 버마에 촉구 | 2008-06-18 | 기밀 | |
+| 995 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1231_a.html| 08SEOUL1231 ]]| [[/08SEOUL1231]] | 한국 정부, P5+1 패키지 지지, 이란 접촉하기로 | 2008-06-20 | 기밀 | |
+| 996 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1243_a.html| 08SEOUL1243 ]]| [[/08SEOUL1243]] | 한국정부 아프간재건 지원을 검토 | 2008-06-23 | 기밀 | 완 료 |
+| 997 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1244_a.html| 08SEOUL1244 ]]| [[/08SEOUL1244]] | 국무장관의 6월 26~27일 서울 방문을 위한 무대연출 | 2008-06-23 | 기밀 | 완료 |
+| 998 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1245_a.html| 08SEOUL1245 ]]| [[/08SEOUL1245]] | 김성 동아시아태평양/한국 담당 차관보 및 폴 핸리에게 한국 체류 허가 | 2008-06-23 | 대외비 | |
+| 999 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1248_a.html| 08SEOUL1248 ]]| [[/08SEOUL1248]] | 청와대 진용 갖춰: 경험 우대, 교수 배제 | 2008-06-24 | 기밀 | 완료 |
+| 1000 | [[https://www.wikileaks.org/plusd/cables/08SEOUL1253_a.html| 08SEOUL1253 ]]| [[/08SEOUL1253]] | 이라크 파병 연장에 대해 결정된 바 없음. 유엔 안전보장이사회 결의안 이후의 법적 요구 사항에 대한 일정 없음 | 2008-06-24 | 비밀 | 완료 |
+</sortable>

@@ -1,0 +1,146 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL534  |  2009-04-02 08:31  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL KS KN }}  |
+====== 제 목: 한국 정부, 미사일 발사 이후 대응 순서 상세히 설명 ======
+기 밀 SEOUL 000534 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+행정명령 12958: 비밀해제: 04/02/2019 
+태그: PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국 정부, 미사일 발사 이후 대응 순서 상세히 설명
+참조: [[09state29932|STATE 29932]]
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun.)). 근거 1.4 (b/d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/10/03 02:43//
+===== 요약 =====
+
+1. (기밀) 요약: 한국 외교통상부 황준국 북핵외교기획단장은 북한의 대포동 2 발사 이후에 이어질 한국의 일 처리 순서에 관해서 4월 2일 대사관 정치 공사 참사관에게 브리핑하였다. 청와대는 우선 미사일 발사가 있었다는 확인 발표를 하고 이명박 대통령이 주재하는 고위급 당국자 회의를 소집하게 된다. 유명환 외교부 장관이 이 회의 이후에 한국 정부를 대신해서 성명을 내고 언론의 질문을 받는다. 이어 유 장관은 클린턴 국무장관과 전화 통화를 한다. 외교통상부 대변인이 아마도 같은 날 개별적으로 대량살상무기 확산방지구상에(이하 PSI) 한국이 전면 참여한다는 발표를 하게 된다. 요약 끝.
+<WRAP center round info 90%>
+북한이 5일 인공위성 `광명성 2호'를 성공적으로 지구궤도에 진입시켰다고 주장한 데 비해 버락 오바마 미국 대통령은 북한이 발사한 로켓을 `대포동 2호 미사일'이라고 규정해 주목된다. 특히 오바마 대통령의 이같은 성격 규정은 북한의 이번 발사를 `인공위성 발사 시도'로 언급한 유명환 외교통상부 장관의 발언과도 다소 거리가 있는 것이어서 앞으로 한미간 조율 결과가 주목된다. [[http://media.daum.net/politics/view.html?cateid=1046&newsid=20090405200407774&p=yonhap|오바마, 北로켓 `미사일' 규정..논란일 듯(종합)]] //연합뉴스//
+</WRAP>
+
+===== 유 장관 성명 내용 =====
+
+2. (기밀) 4월 2일 정치 공사 참사관과 함께한 회동 자리에서 외교통상부 황준국 북핵외교기획단장은 [[09state29932|참조 전문]]의 나온 논지에 대해 전적으로 뜻을 같이한다고 말했다. 황준국은 한국 정부에서 이뤄질 아래와 같은 내용을 제시하였다.
+  * 대포동2 발사를 확인한 즉시 청와대는 이 대통령이 주재하는 국가안보회의를 소집하게 된다. 청와대 회의 참석자들이 대포동 2 발사에 대해 논의할 예정이라는 간단한 언론 발표가 있을 것이다.
+
+  * 청와대 회의 마치고 나서 한국 정부를 대신해 유명환 외교부 장관이 성명을 발표하게 된다.
+
+  * 유명환 장관의 성명은 아래와 같은 요소로 구성되게 된다: “장거리 로켓”의 발사가 있었고, 한국 정부는 더 자세한 내용과 관련 자료를 확인하기 위해 미국과 긴밀히 협의하고 있다; 이번 발사는 유엔안보리 결의안 1718호 위반이며, 동북아 안정에 부정적이고 심각한 영향을 미치는 도발적인 행동이다; 한국 정부는 북한이 국제 사회의 경고를 무시하고 로켓 발사를 강행한 것에 심각히 우려하고 있다; 그리고 한국 정부는 유엔, 미국 등 관련 국가와의 협의를 위한 준비를 강화할 예정이다.
+
+  * 한국 정부는 북한에 대해 추가적인 도발을 중단할 것과 남북 대화를 재개하려는 노력에 대해 긍정적으로 호응해 줄 것을 촉구하는 내용을 해당 성명에 포함할지는 결정하지 않았다.
+
+  * 한국 정부는 아마도 같은 날 개별적인 성명에서 대량살상무기 확산방지구상에 전면적 참여를 발표할 공산이 크다.
+3. (기밀) 유 외교부 장관은 한국 정부 전체를 대표해서 발언할 거라고 황준국은 말하였다. 한국 국방부의 성명은 전혀 없을 것이다. 유 장관의 성명 속에 6자 회담 과정에 관한 언급은 없을 것이지만, 한국 정부 당국자는 한국이 6자 회담 재개를 전적으로 지지한다는 점을 계속해서 분명히 밝힐 예정이다.
+
+===== 너는 “미사일”, 난 “로켓”이라 불러 =====
+
+4. (기밀) 황 단장은 “미사일”이 아닌 “로켓”이란 용어를 사용하기로 한 이유는 한국에서 미사일이 무기라는 뜻을 내포하고 있기 때문이라고 말하였다. 실제 인공위성으로 판명이 난다면 한국어 표기상에 “미사일”이라는 잘못된 용어 사용으로 인해 혼동을 야기하게 될 것이다. 성명에 뒤이어질 질의 응답 시간에 유 외교부 장관은 명명법과는 관계없이 로켓 발사에 수반된 기술이 미사일 개발에 사용하는 것과 동일한 것임을 강조할 것이다. 황준국은 영어에서는 미사일이 단순히 발사체를 가리킨다고 언급하며 한국 정부는 미국 정부가 “미사일”이란 용어를 사용하는 것에 반대하지 않는다고 말하였다.
+
+===== 유 외교부 장관은 어느 곳에? =====
+
+5. (기밀) 유 외교부 장관은 4월 4일 오전 10시에 G20 회담에서 서울로 복귀할 예정이라고 황 단장은 말하였다. 필요하다면, 비행기 안에서 성명을 발표할 수도 있다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul534|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://www.tagstory.com/100163951|北로켓발사 관련, 외교통상부 긴급 브리핑 동영상]]  //유 장관 긴급 브리핑 동영상//
+  - [[http://bit.ly/QO4W7R|유명환 외교장관 "인공위성 발사 시도한 듯"]]  //SBS//
+  - [[http://media.daum.net/politics/view.html?cateid=1046&newsid=20090405200407774&p=yonhap|'대포동 2호미사일' 규정… 北 '인공위성' 주장과 대립]]  //한국일보//
+  - [[http://bit.ly/PVPCE0|칼럼-‘南北 미사일戰力 갭 극복노력 필요하다’]] //뉴스와이어//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL534.rtf>
+C O N F I D E N T I A L SEOUL 000534 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/02/2019 
+TAGS: PREL [External Political Relations], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: ROKG DETAILS POST-LAUNCH RESPONSE SEQUENCE 
+ 
+REF: STATE 29932 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4 (b/d). 
+ 
+¶1. SUMMARY (C) ROK Ministry of Foreign Affairs and Trade 
+(MOFAT) North Korean Nuclear Affairs Bureau Director General 
+Hwang Joon-kook briefed POL M/C April 2 on the sequence of 
+events that Seoul would follow immediately after North 
+Korea's TD-2 launch.  The Blue House would first announce the 
+launch upon confirmation that it had taken place and call a 
+meeting of senior officials chaired by President Lee 
+Myung-bak.  After the meeting, Foreign Minister Yu Myung-hwan 
+would make a statement on behalf of the ROKG and take 
+questions from the press.  Following this, FM Yu would 
+telephone Secretary Clinton.  Separately, perhaps later the 
+same day, a MOFAT spokesperson would announce Seoul's full 
+participation in the Proliferation Security Initiative (PSI). 
+ End Summary. 
+ 
+----------------------------- 
+Elements of FM Yu's Statement 
+----------------------------- 
+ 
+¶2. (C) In a April 2 meeting with POL M/C, MOFAT North Korean 
+Nuclear Affairs DG Hwang Joon-kook said that the ROK was in 
+full agreement with the reftel points.  On Seoul's part, 
+Hwang outlined the following: 
+ 
+-- Immediately upon confirmation of a TD-2 launch, the Blue 
+House would convene a national security meeting chaired by 
+President Lee.  There would be a simple press announcement 
+that the Blue House meeting participants would discuss the 
+TD-2 launch. 
+ 
+-- Upon concluding the Blue House meeting, Foreign Minister 
+Yu would make a public statement on behalf of the ROKG. 
+ 
+-- FM Yu's statement would consist of the following elements: 
+the launch of a "long-range rocket" had taken place and the 
+ROKG was consulting closely with the U.S. to confirm further 
+details and relevant data; the launch was a violation of 
+UNSCR 1718 and a provocative act that would have a serious 
+negative impact on regional stability; the ROKG had serious 
+concerns that the DPRK had ignored warnings of the 
+international community and proceeded with the launch; and, 
+the ROKG would take measures to strengthen its preparedness 
+in consultation with the UN, U.S., and others. 
+ 
+-- The ROKG was undecided on whether to include in the 
+statement language urging the DPRK to cease further 
+provocations and respond positively to efforts to resume 
+inter-Korean dialogue. 
+ 
+-- In a separate statement, perhaps on the same day, the ROKG 
+was likely to announce its full participation in the 
+Proliferation Security Initiative. 
+ 
+¶3. (C) FM Yu would speak for the entire ROKG, Hwang said. 
+There would be no statement from the Ministry of National 
+Defense.  While there would be no reference to the Six-Party 
+process in FM Yu's statement, ROKG officials would continue 
+to make it clear that Seoul was fully behind 
+resumption of the Six-Party Talks. 
+ 
+--------------------------------- 
+You Say "Missile", I Say "Rocket" 
+--------------------------------- 
+ 
+¶4. (C) The decision to use the term "rocket" rather than 
+"missile" was made because the latter connoted a weapon in 
+Korean, DG Hwang explained.  If it turned out in fact to be a 
+satellite, this would create complications as "missile" -- as 
+rendered in Korean -- would be the wrong term.  During the 
+question and answer session following the statement, FM Yu 
+would emphasize that regardless of the nomenclature, the 
+technology employed in the launch was the same as that used 
+to develop missiles.  Noting that in English it referred 
+simply to a delivery system, Hwang said the ROKG had no 
+objections to USG use of the term "missile." 
+ 
+-------------------- 
+Where Will FM Yu Be? 
+-------------------- 
+ 
+¶5. (C) FM Yu was scheduled to return to Seoul from the G-20 
+at 10 a.m. April 4 Seoul time, said DG Hwang.  If necessary, 
+he might make his statement from the airport. 
+STEPHENS
+</file>

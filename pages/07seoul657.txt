@@ -1,0 +1,50 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL657  |  2007-03-06 07:39  |  기밀  |  주한미국대사관  |  {{tag>MTCRE PARM PREL ETTC KSCA MNUC TSPA KS }}  |
+====== 제 목: 한국은 무인항공기/순항미사일에 관한 미국의 미사일기술통제체제 수정 제안을 지지 ======
+기 밀 SEOUL 000657 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+ 
+행정명령 12958: 비밀해제: 03/05/2017 
+태그: MTCRE(([Missile Technology Control Regime])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), ETTC(([Trade and Technology Controls])), KSCA(([Science Counselors and Attach&eacute;s])), MNUC(([Military Nuclear Applications])), TSPA(([Space Activities])), KS(([Korea (South)])) 
+제 목: 한국은 무인항공기/순항미사일에 관한 미국의 미사일기술통제체제 수정 제안을 지지
+참조: STATE 23826 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun)).  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/08/16 22:10//
+
+(기밀) 3월 2일 대사관 정무 직원은 미국의 무인항공기/순항미사일 체계 제안에 관한 참조 전문의 논지를  연종권 외교통상부 군축비확산과 과장 직무 대리에게 전달하였다. 연종권은 3월 기술전문가회의에서 한국정부가 <wrap hi>무인항공기/순항미사일</wrap>에 관한 통제체제를 변경하기 위한 미국의 수정된 미사일기술통제체제 채택을 지지할 예정이라고 3월 6일 확인하였다.
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+<WRAP center round info 80%>//**무인항공기 체제에 속한 순항미사일**//
+무인항공기 체제에는 순항 미사일 체계, 표적기(target drones), 무인 정찰기가 포함이 포함된다. 무인항공기와 순항미사일의 차이는 탄두에 무기 장착 여부로 구분된다. 보통 주한 미국 대사관이 "UAV"라고 지칭하는 건 보통 순항미사일 비행 시험을 말하는 것이다.
+</WRAP>
+
+===== 바깥 고리 =====
+  - [[wp>한미NMG개정]] //위키백과//
+
+===== 원본 내려받기 =====
+<file rtf 07SEOUL657.rtf>
+C O N F I D E N T I A L SEOUL 000657 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/05/2017 
+TAGS: MTCRE PARM PREL ETTC KSCA MNUC TSPA KS
+SUBJECT: MTCR: ROK SUPPORT FOR THE U.S. UAV/CRUISE MISSILE 
+PROPOSAL (C) 
+ 
+REF: STATE 23826 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(C) On March 2, Poloff delivered reftel points on the U.S. 
+UAV/ Cruise missile proposal to Youn Jong Kwon, Deputy 
+Director of the Disarmament and Nonproliferation Division at 
+the Ministry of Foreign Affairs and Trade.  Youn confirmed on 
+March 6 that the ROKG would support the adoption of the 
+revised U.S. MTCR proposal to modify controls on UAVs and 
+cruise missiles at the March TEM. 
+VERSHBOW
+</file>

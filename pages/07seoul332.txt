@@ -1,0 +1,55 @@
+^  문서번호  ^  생성일  ^  분류  ^ 출처  ^  태그  ^
+|  07SEOUL332  |  2007-02-02 08:44  |  미분류  |  주한미국대사관  |  {{tag>PARM AORC EIND OPCW CWC CBW IR KS }}  |
+====== 제 목: 화학무기금지조약: 이란이 집행이사국이 되지 못하도록 한국의 지원 요청 ====== 
+미 분 류 SEOUL 000332 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+ 
+행정명령 12958: 해당없음((N/A))
+태그: PARM(([Arms Controls and Disarmament])), AORC(([International Organizations and Conferences])), EIND(([Industry and Manufacturing])), OPCW, CWC(([Chemical Weapons Convention])), CBW, IR(([Iran])), KS(([Korea (South)]))
+제 목: 화학무기금지조약: 이란이 집행이사국이 되지 못하도록 한국의 지원 요청 
+참조: SECSTATE 11293
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/08/14 04:28//
+
+1. (민감하지만 미분류) 1월 31일 대사관 정무 직원은 외교통상부 군축비확산과 김재우에게 참조 전문의 지시 사항을 전달하였다. 김재우는 헤이그 주재 한국 대사는 한국이 화학무기금지기구 집행이사국에 출마할 가능성에 대해 논의하지 않았다고 말하였다. 김재우는 한국정부가 최종적인 결정을 할 것이지만, 그런 도전은 헤이그 주재 한국 대사의 출사표에 의해 시작된다. 현재까지 한국대사는 집행이사국 후보에 대한 어떤 관심도 표명하지 않았다.
+ 
+2. (민감하지만 미분류) 김재우는 군축비확산과는 이란이 집행이사국 역할을 바라고 있는지 알지 못했다고 생각을 나누었다. 김재우는 //“잘 돌아가는 기계는 큰 관심을 요하지 않는다.”//라고 화학무기금지기구를 설명하였다. 김재우는 정보를 공유한 점에 감사하고, 헤이그 주재 동료를 비롯해 한국정부 관련 부서에 이 내용을 배포하겠다고 말하였다.
+버시바우
+[[https://sites.google.com/site/poirotkr/5/07seoul332|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.newswire.co.kr/newsRead.php?no=666520&ected=|화학무기금지기구(OPCW) 집행이사국으로 연속 선출]] //외교부//
+===== 원본 내려받기 =====
+<file rtf 07SEOUL332.rtf>
+UNCLAS SEOUL 000332 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PARM [Arms Controls and Disarmament], AORC [International Organizations and Conferences], EIND [Industry and Manufacturing], OPCW, CWC [Chemical Weapons Convention], CBW, IR [Iran], KS [Korea (South)] 
+SUBJECT: CWC: ROK SUPPORT REQUESTED TO BLOCK IRAN BECOMING 
+EXECUTIVE COUNCIL CHAIR 
+ 
+REF: SECSTATE 11293 
+ 
+¶1.  (SBU) On January 31, Poloff delivered reftel instructions 
+to Kim Jae-woo, Disarmament and Nonproliferation Division of 
+the Ministry of Foreign Affairs and Trade (MOFAT).  Kim 
+stated that the ROK Ambassador at the Hague did not discuss 
+the possibility of South Korea running for the Executive 
+Council Chair of the Organization for the Prohibition of 
+Chemical Weapons (OPCW).  Kim explained that while Seoul 
+would make the ultimate decision, any such bid would usually 
+be initiated  by the ROK Ambassador at the Hague.  To date, 
+the ROK Ambassador has not expressed any interest in the 
+candidacy. 
+ 
+¶2.  (SBU) Kim also shared that his office was unaware of 
+Iran's desire to serve as the Executive Council Chair.  Kim 
+described the OPCW as a "well-oiled machine which does not 
+require much attention."  Kim stated that he appreciated the 
+information shared and said he would distribute it to 
+relevant ROKG offices, including his colleagues at the Hague. 
+VERSHBOW
+</file>

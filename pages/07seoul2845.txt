@@ -1,0 +1,181 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2845  |  2007-09-17 09:11  |  기밀  |  주한미국대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 대통합민주신당의 첫 경선 이후 세 후보로 압축 ======
+  * 기 밀 SEOUL 002845 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 12/10/2014 
+  * 태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+  * 제 목: 대통합민주신당의 첫 경선 이후 세 후보로 압축
+  * 분류자: 정치 공사 참사관 조셉 윤.((POL Joseph Y. Yun.))  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/01/14 10:29//
+===== 요점 =====
+
+1. (기밀) 요점: 정동영 전 통일부 장관이 주중에 열린 네 차례의 대통합민주신당의 경선을 통해 3차례 1위 자리를 굳히면서 가장 커다란 승리를 거두었다. 전 경기도지사 손학규는  여론조사에서 높은 지지율에도 2위에 머물렀고; 유일한 “친노” 후보인 이해찬은 손학규에 약간 뒤진 3위를 차지했다. 대통합민주신당 경선은 10월 14일 서울 경선 일정을 끝으로 마감된다. 요점 끝.
+===== 대통합민주신당의 첫 경선 =====
+
+2. (기밀) 전 통일부 장관을 지내고 두 차례 열린우리당 의장을 역임한 정동영은 대통합민주신당의 경선 여정의 첫 관문에서 여론조사 선두주자인 손학규와 친노 후보 이해찬을 확실히 누르고 새로운 선두 주자로 등장하였다. 9월 15일에는 제주와 울산에서 경선이 열렸고, 9월 16일에는 충청북도와 강원도에서 개최되었다. 12곳이 넘는 곳에서 한 달간의 민주당의 경선이 열릴 것이다. 마지막 표결은 10월 14일 서울에서 있을 것이고, 민주당 대선 후보는 전당대회가 있을 10월 15일에 발표될 예정이다. 추가로, 10월 8일~13일 전화 여론 조사가 경선 결과에 추가되게 되며, 각 후보의 전체 득표율의 10퍼센트를 차지하게 된다. 정치 분석가들은 정동영의 깜짝 승리는 당내 공고한 지지 기반 탓이라고 추정하고 있다. 정동영은 사실상의 대통합민주신당 전신인 열린우리당 의장으로 공동창립자 중 한 명이다. 정동영은 제주와 울산, 그리고 충청북도에서 1위를 차지했고, 강원도에서는 3위로 결정되었다. 
+===== 메커니즘 =====
+
+3. (기밀) 대통합민주신당 경선 투표는 한국에서 최첨단 전자 투표 기계로 실행된 첫 선거이다. 그래서 각 경선 당일의 투표 결과가 투표소가 폐쇄된 이후 10분 만에 발표될 수 있었다. 제주 투표소에서 일부 중앙 선관위 직원은 첫 경선에서 매표행위가 한 건도 없었다고 대사관 정무 직원에게 말하였다. 전화 또는 문자 메시지 투표 독려는 있었겠지만, 거의 잡아내기 불가능하다. 유권자는 경선 참여가 개방되어 제한이 없었다―만일 선거인명부에 누구든 등록하게 되면 선거인단 구성원이 된다. 서울은 이미 50만 명이 참여하였으며, 추가 등록 가능성이 있다. 덧붙여서 10월 4일부터 13일까지 마지막 네 차례의 경선 중에 선거인단 구성원은 자신의 휴대전화를 활용해서 투표할 수 있도록 예정되어 있다. 경선의 마지막 일정은 10월 8~13일에 열릴 전화 여론조사가 예정되어 있다. 전신인 열린우리당이 했던 것처럼 대통합민주신당은 경선과정 개편에 성공했음에도, 낮은 투표율이 방증하듯 전국적인 흥행몰이를 하지 못하였다.<WRAP center round info 80%>
+//**최첨단 전자 투표 기계로 실행된 첫 선거다?**// '첫 선거'란 용어는 생략하는 게 낫겠다. 2002년 처음으로 한국에서 전자 개표기를 사용했다―자세한 내용은 [[http://j.mp/RTlgWb|선관위 선거사무 허점투성이…“부정선거 논란 자초”]] //신동아// 기사를 읽어보면 선관위 직원이 2002년부터 사용했다는 말이 나온다. 미 대사관의 실수이다. 전자 개표기(주: 선관위는 '투표 분류기'라고 주장하지만, '전자 개표기'가 여야 정치색을 떠나 한결같이 사용하는 정확한 국문 용어이다.) 재미있는 점은 미 대사관은 "electronic voting machines" '전자 투표기'란 표현을 사용하는 점이다. 미국의 선거는 종이 투표지를 사용해 전자 기기로 투표지를 읽어내는 방식과 터치 스크린을 사용하는 등 그 방식이 다양하다. 대개 '전자 투표기'란 용어를 사용한다.
+</WRAP>
+
+===== 손학규 =====
+
+4. (기밀) 손학규는 3월 15일 보수 한나라당을 탈당한 이후에 대중 여론조사에서 다른 모든 진보 후보를 한결같이 앞서왔다. 그러나 첫 주말 투표에서 부진한 이유는 두 가지다: 보수 한나라당과 연결되는 전력, 그리고 지역 지지와 조직에 대한 집중 부족. 손학규의 핵심 참모이자 동창인 서울대학교 장달중 교수는 손학규는 자신의 “메시지”가 유권자를 고무시킬 것으로 예상했고, 버스나 다른 지엽적인 노력으로 유권자를 투표소로 불러내는데 초점을 둘 필요성을 등한시하였다. 손학규는 4위로 마감한 울산을 제외한 4개 지역 경선에서 각각 2위를 차지하였다. 당원들은 손학규가 (3월 한나라당 경선에서 사퇴할 당시 3위로) 이명박을 이길 수 없었고 해서, 대선에서도 아마 승리할 수 없다는 점을 이유로 들어 손학규를 지원하는데 더디기만 했다. 손학규가 경선을 그만둘 수 있다는 소문이 있지만, 장달중에 의하면, 손학규가 자신의 반노 중도 메시지가 최선임을 여전히 확신하고 있고, 가장 인구가 많은 지역인 서울과 경기도에서 가장 높은 지지율을 예상하는 까닭에 경선에 잔류할 거라고 한다. 또한, 장달중에 의하면 전체의 10퍼센트를 차지하는 전화 여론조사는 손학규에 호의적일 거라고 한다.
+===== 친노 후보들은 단결 =====
+
+5. (기밀) 전 보건 복지부 장관이며 노무현의 절친한 친구인 류시민은 첫 경선 일정에서 18.5퍼센트 득표하면서, 네 후보 중에 4위로 결정되었다. 류시민의 아내가 제주도 출신이기에, 그곳의 승리를 활용해서 이해찬을 중도 하차시키고 유시민 지지를 설득하고자 희망하였다. 그러나 그렇게 되지 않았고, 유시민은 바로 경선을 그만둔 이후 제주 선거에서 이해찬 지지를 선언하였다. 그러나 유시민은 현재 이해찬의 선대위원장이다. 11월 14일, 한명숙 전 총리는 둘 간의 누가 출전해야만 할지를 결정하는 여론조사에서 이해찬에 밀려난 이후에 그를 돕기로 합의하였다. 이해찬은 첫날 경선에서 제주에서 3위, 울산에선 2위로 결정되었고, 둘째 날 경선에서 충청도는 3위 광주에서는 1위로 결정되었다. 
+===== 논평 =====
+
+6. (기밀) 만일 대통합민주신당이 인기 있는 한나라당 선두주자 이명박에 맞서 경쟁력을 갖추려면, 통합신당은 일정부분 국민의 관심을 이끌어 내야만 할 것이다. 그 점이 명문화된 국민경선 일정의 목표이긴 하지만, 전문가들은 등록한 유권자 중 20퍼센트 미만의 투표율은 통합신당 경선 전반에 걸친 관심 부족을 시사한다고 언급하였다. 통합신당 관계자들은 최근 태풍과 임박한 추석 일정이 낮은 투표율의 원인이라고 주장하고 있지만, 대부분 전문가는 일반 국민은 어떤 통합신당 후보에도 거의 관심이 없다고 추정하고 있다. 통합신당의 경선이 인구가 많은 지역으로 옮겨감에 따라 투표율이 증가할 가망이 커질 수 있지만, 진짜 문제는 남은 3명의 후보 중 누구에 대해서도 일반 유권자의 열광적은 반응을 이끌어 내는 일이다. 만일 통합신당 경선이 완전히 실패로 끝나면, 무소속 문국현 후보나 10월 16일에 결정될 민주당 후보와 같은 복병이 더 많은 지지를 얻을 수 있다.
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://j.mp/RTlgWb|선관위 선거사무 허점투성이…“부정선거 논란 자초”]] //신동아//
+  - [[http://j.mp/RTmpxd| 국민경선 흥행 제2의 주연, 전자투표 ]] //포항공대신문//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL2845.rtf>
+C O N F I D E N T I A L SEOUL 002845 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: THREE-MAN RACE EMERGES AFTER FIRST ROUND IN UNDP 
+PRIMARY 
+ 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: Former Unification Minister Chung Dong-young 
+was the big winner in the United New Democratic Party's four 
+primary elections held over the weekend, placing first in 
+three out of the four races.  Former Gyeonggi Province 
+Governor Sohn Hak-kyu came in second, despite his higher poll 
+numbers; Lee Hae-chan, the only remaining "pro-Roh" 
+candidate, was third, only slightly behind Sohn.  The UNDP 
+primaries conclude on October 14, with the Seoul primary. 
+End Summary 
+ 
+------------------------ 
+UNDP PRIMARY - ROUND ONE 
+------------------------ 
+ 
+¶2.  (C) Former Unification Minister and two-time Uri Party 
+Chairman Chung Dong-young emerged as the new frontrunner 
+after the first round of the UNDP's touring primary with a 
+convincing victory over poll-leader Sohn Hak-kyu and pro-Roh 
+candidate Lee Hae-chan.  Voting took place in Jeju and Ulsan 
+on September 15, and North Choongchung and Gangwon on 
+September 16.  Twelve more votes will be held in the party's 
+month-long primary.  The last vote will be in Seoul on 
+October 14 and the candidate will be announced October 15 at 
+a party convention.  Additionally, telephone polling to be 
+held October 8-13 will supplement the voting results and will 
+account for ten percent of each candidate's total.  Political 
+analysts speculate that Chung's surprising victory was due to 
+his solid support base in the party.  Chung was a cofounder 
+and Chairman of the Uri Party, the UNDP's de facto 
+predecessor.  Chung placed first in Jeju, Ulsan, and North 
+Choongchung, while finishing third in Gangwon. 
+ 
+--------- 
+MECHANICS 
+--------- 
+ 
+¶3.  (C) The voting for the UNDP primary is the first election 
+in Korea conducted with state-of-the-art electronic voting 
+machines, so the results of each day's vote can be announced 
+10 minutes after the polling booths close.  Several National 
+Voting Officials at the Jeju voting booth told poloff there 
+had been no instances of money-for-votes in the first round 
+of the primary.  Calling or text-messaging to encourage 
+people to vote were likely occurring, but almost impossible 
+to catch.  The electorate for the primary is open and 
+unlimited - if someone signs up to be in the electorate, they 
+then become a member of the Electoral College.  In Seoul, 
+there are already 500,000 signed up with the possibility of 
+more joining.  In addition, members of the Electoral College 
+during the last four rounds of the primary from October 4 to 
+13 will be able to vote using their cellphones.  The final 
+part of the primary will be the telephone poll held from 
+October 8-13.  While the UNDP has succeeded in revamping the 
+primary process, as did its predecessor Uri Party, for now 
+the new style of voting has not captured the nation's 
+imagination, as evidenced by such low voter turnout. 
+ 
+------------ 
+SOHN HAK-KYU 
+------------ 
+ 
+¶4.  (C) Sohn Hak-kyu has consistently led all other liberal 
+candidates in public opinion polls since his March 15 
+defection from the conservative GNP, but he fell short in the 
+first weekend of voting for two reasons: his prior 
+affiliation with the conservative Grand National Party (GNP) 
+and his lack of focus on local support and organization.  SNU 
+Professor Chang Dal-joong, a college classmate of Sohn and 
+one of Sohn's key advisors, told the DCM September 17 that 
+Sohn expected his "message" would motivate voters and 
+dismissed the need to focus on getting out the vote with 
+buses and other local efforts.  Sohn placed second in each of 
+the four regional votes except Ulsan, where he finished 
+fourth.  Party members have been slow to back Sohn, reasoning 
+that if Sohn could not beat Lee Myung-bak in the GNP primary 
+(he was third when he withdrew in March), then he probably 
+could not do it in the general election.  There are rumors 
+that Sohn may quit the race, but according to Chang, Sohn 
+will stay in since he still is confident his anti-Roh, 
+centrist message is the best and also expects strong support 
+from the two most populous regions, Seoul and Gyeonggi 
+ 
+Province.  Also, the telephone polls, which count for 10 
+percent of the total, should be favorable to Sohn, according 
+to Chang. 
+ 
+------------------------ 
+PRO-ROH CANDIDATES UNITE 
+------------------------ 
+ 
+¶5.  (C) Former Health and Welfare Minister and Roh confidante 
+Rhyu Si-min received 18.5 percent of the votes on the first 
+day of polling, coming in fourth out of four candidates. 
+Since Rhyu's wife is from Jeju, he hoped to use a victory 
+there to convince Lee Hae-chan to drop out and support him. 
+However, when this did not happen, Rhyu immediately dropped 
+out of the race and pledged his support to Lee Hae-chan at 
+the Jeju vote-counting event.  Rhyu is now Lee's campaign 
+manager.  On September 14, former Prime Minister Han 
+Myeong-sook agreed to back Lee Hae-chan after losing out to 
+Lee in polls to decide who should take the lead among the 
+two.  Lee finished third in Jeju and second in Ulsan on the 
+first day, and third in Choongchung and first in Gangwon on 
+the second day. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶6.  (C) If the UNDP is going to be competitive against the 
+popular GNP frontrunner Lee Myung-bak, then they will have to 
+generate some public interest.  While that was one of the 
+stated goals of the open, touring primary, pundits cited a 
+less-than-20 percent turnout rate of the registered 
+electorate as indicative of the lack of overall interest in 
+the UNDP primary.  UNDP officials claim that the recent 
+typhoon and planning for the upcoming Chuseok holiday caused 
+the low turnout, but most pundits speculate that the public 
+has little interest in any of the UNDP candidates.  Turnout 
+could increase and is likely to, as the primary heads to more 
+populous regions, but the real problem is getting the general 
+electorate excited about any of the three remaining 
+candidates.  If the UNDP primary falls flat, dark horses such 
+as independent candidate Moon Kuk-hyun and the Democratic 
+Party's candidate, to be decided October 16, could gain more 
+support. 
+VERSHBOW
+</file>

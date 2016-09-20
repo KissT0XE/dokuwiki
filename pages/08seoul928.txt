@@ -1,0 +1,69 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL928  |  2008-05-06 08:28  |  기밀  |  주한미국대사관  |  {{tag>KS PGOV PHUM BM }}  |
+====== 제 목: 한국, 네그로폰테 부장관과 회동 이후 버마 국민 투표에 대해 성명 발표 ======
+  * 기 밀 SEOUL 000928 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 동아시아태평양/동아시아본토 에런 코프; 국방부 직원 케이 리((EAP/MLS FOR AARON COPE; D FOR KAYE LEE ))
+
+  * 행정명령 12958: 비밀해제: 05/02/2018 
+  * 태그: KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PHUM(([Human Rights])), BM(([Burma]))
+  * 제 목: 한국, 네그로폰테 부장관과 회동 이후 버마 국민 투표에 대해 성명 발표
+
+  * 참조: 가. STATE 45471  [[08seoul917|나. SEOUL 917]] 
+
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun.)).   근거 1.4(b/d) 
+  * 번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/25 00:18//
+1. (기밀) 5월 6일 대사관 정무 직원과 함께한 회동에서, 외교통상부 한우용 동남아 심의관은 네그로폰테 부장관과 권종락 차관의 5월 8일 서울 회동 이후에 버마와 관련해 공식 성명을 발표할 예정이라고 말하였다. 해당 성명은 아래와 같은 두 가지 논지를 포함할 예정이다: (1) 미국과 한국은 5월 10일 신헌법 국민투표가 현재와 같이 설계된다면 자유롭고 공정한 선거 원칙에 부합하지 않음을 재확인한다; 그리고 (2) 미국과 한국 양국은 다양한 정치 정당 간의 진솔한 대화를 통해서만 달성될 수 있는 실질적인 민주화로 나아갈 행동을 채택할 것을 버마 정권에 촉구한다.
+
+2. (기밀) 한우용은 외교통상부 동남아국장이 버마 정권이 민주화를 향한 진정한 노력을 추구할 필요가 있다고 버마 외무부 상대역에게 촉구하였음을 또한 지적하였다.
+
+3. (기밀) 한우용은 최근 사이클론이 지나간 이후 한국이 버마에 재난 구호를 위해 미화 10만 달러를 제공할 예정임을 언급하였다. 다른 구호 방안도 검토하고 있다. 즉각적인 원조는 버마 정부에 현찰 선물의 모양새가 될 공산이 크다. 
+//버시바우//
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL928.rtf>
+C O N F I D E N T I A L SEOUL 000928 
+ 
+SIPDIS 
+ 
+EAP/MLS FOR AARON COPE; D FOR KAYE LEE 
+ 
+E.O. 12958: DECL: 05/02/2018 
+TAGS: KS [Korea (South)], PGOV [Internal Governmental Affairs], PHUM [Human Rights], BM [Burma] 
+SUBJECT: ROK TO ISSUE STATEMENT ON BURMESE REFERENDUM AFTER 
+DEPSEC NEGROPONTE MEETING 
+ 
+REF: A. STATE 45471 
+ 
+     B. SEOUL 917 
+ 
+Classified By: POL M/C Joseph Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) In a May 6 meeting with poloff, Han Woo-young, MOFAT 
+Deputy Director for Southeast Asian Affairs, said that the 
+ROKG will release a public statement concerning Burma after 
+Deputy Secretary Negroponte meets with Vice Foreign Minister 
+Kwon Jong-rak on May 8 in Seoul.  The statement will include 
+the following two points: (1) The U.S. and the ROK reaffirm 
+the international community's assessment that the May 10 
+constitutional referendum, as it is currently designed, fails 
+to meet the principle of free and fair elections; and (2) 
+both the U.S. and the ROK call upon the Burmese regime to 
+adopt actions that would lead to substantive democratization, 
+which can only be achieved through sincere dialogue among the 
+various political parties. 
+ 
+¶2. (C) Han also noted that MOFAT's Director General for 
+Southeast Asian affairs urged his Burmese Foreign Ministry 
+counterpart that the regime needed to pursue genuine efforts 
+toward democratization. 
+ 
+¶3. (C) Han mentioned that the ROK would provide 100,000 USD 
+for disaster aid to Burma following the recent cyclone. 
+Other aid options were also being explored.  The immediate 
+aid would likely take the form of a cash gift to the Burmese 
+government. 
+VERSHBOW
+</file>

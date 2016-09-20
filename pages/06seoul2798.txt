@@ -1,0 +1,47 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL2798  |  2006-08-17 08:46  |  기밀  |  주한미국대사관  |  {{tag>KNNP MNUC PARM PREL }}  |
+====== 제 목: 2006년 7월 싱가포르 운영전문가그룹 회의의 논지를 전달함 ======
+기 밀 SEOUL 002798 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+행정명령 12958: 비밀해제: 04/21/2014 
+태그: KNNP(([Nuclear Non-Proliferation])), MNUC(([Military Nuclear Applications])), PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])) 
+제 목: 2006년 7월 싱가포르 운영전문가그룹회의의 논지를 전달함
+참조: STATE 132249 
+분류자: 공관 차석 대리 조셉 윤.((A/DCM Joseph Y. Yun.))  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/09/08 20:31//
+
+1. (기밀) 8월 16일 공관차석 직무 대행과 정치군사 팀장은 2006년 7월 싱가포르 <wrap hi>운영전문가그룹회의</wrap>를 위한 대량살상방지 확산방지구상에 관한 참조 전문의 논지를 조태영 외교통상부 북미국장에게 전달하였다. 조태영은 동 정보에 감사하면서, 한국정부 관계 부서에 정보를 배포하겠다고 말하였다.
+//스탠튼//
+[[https://sites.google.com/site/poirotkr/3/06seoul2798|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+<WRAP center round info 80%>//**외교통상부 2010년 11월 1일 대변인 정례 브리핑**// 대한민국 외교통상부 2010년 11월 1일 대변인 정례 브리핑입니다. 11.1-2 동경에서 개최되고 있는 확산방지구상(PSI)의 __운영전문가그룹(OEG) 회의에서 우리의 OEG가입이 최종 승인되었습니다.__ 운영전문가그룹은 미국, 러시아, 영국, 프랑스, 일본, 싱가포르, 호주 등 PSI 확산방지 활동에 주도적으로 참여하고 있는 20개국으로 구성되어 있고, 우리는 21번째 회원국으로 참여하게 됩니다.</WRAP>
+<WRAP center round tip 80%>
+//**PSI에 참여하면 어떤 활동을 하나요?**// PSI 회원국들은 주요회의, 운영전문가그룹 회의, 차단훈련을 통해 WMD·미사일 확산 방지에관한 정보 및 경험을 공유하고 효율적인 합동 대응 능력을 향상시켜 갑니다. 주요회의는 대개 1년에 1회 또는 주요 계기(PSI 출범 기념 등)에 회원국 고위 관계자들이 모여 장기적인 PSI의운영 방안을 논의합니다. 대개의 경우 회원국들만 참석할 수 있으나, 간혹 비회원국들이 초청되는 경우도있습니다.운영전문가그룹(OEG) 회의는 1년에 수 차례 PSI 주요 회원국의 외교, 정보, 세관, 경찰, 군당국 전문가들이모여, 정보와 경험을 공유하고 구체적인 PSI 운영 방안을 논의합니다. <wrap hi>운영전문가그룹에는 PSI 회원국들만참석할 수 있습니다.</wrap> 차단훈련은 컨테이너나 선박 검색, 도상 훈련 등으로 구성되는데, 각 회원국들은 차단훈련을 통해 WMD확산 방지를 위한 합동 대응 능력을 발전시켜 나가게 됩니다. PSI 회원국 위주로 운영되지만, 비회원국들이훈련을 참관하도록 초청되기도 합니다.
+</WRAP>
+
+===== 원본 내려받기 =====
+<file rtf 06SEOUL2798.rtf>
+C O N F I D E N T I A L SEOUL 002798 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/21/2014 
+TAGS: KNNP [Nuclear Non-Proliferation], MNUC [Military Nuclear Applications], PARM [Arms Controls and Disarmament], PREL [External Political Relations] 
+SUBJECT: PSI: TALKING POINTS FOR JULY 2006 SINGAPORE OEG 
+MEETING DELIVERED 
+ 
+REF: STATE 132249 
+ 
+Classified By: A/DCM Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1. (C) On August 16, A/DCM and POL-MIL Chief delivered reftel 
+points regarding PSI talking points for July 2006 Singapore 
+Operational Experts Group (OEG) meeting to Cho Tae-yong, 
+Director General of North American Division, Ministry of 
+Foreign Affairs and Trade (MOFAT).  Cho stated that he 
+appreciated the information and said he would distribute it 
+to relevant ROKG offices. 
+STANTON
+</file>

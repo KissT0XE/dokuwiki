@@ -1,0 +1,511 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL1216  |  2007-04-26 08:19  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PARM PGOV PINS MARR MCAP KS KN CH JA }}  |
+====== 제 목: 한미 동맹의 정치학(3/3부) ======
+기 밀 SECTION 01 OF 07 SEOUL 001216 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+국무부는 동아태 힐 차관보 및 동아태 수석 부차관보 스티븐스에게 전달 바람((DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS))
+행정명령 12958: 비밀해제: 04/23/2017 
+태그: PREL(([External Political Relations])), PARM(([Arms Controls and Disarmament])), PGOV(([Internal Governmental Affairs])), PINS(([National Security])), MARR(([Military and Defense Arrangements])), MCAP(([Military Capabilities])), KS(([Korea (South)])), KN(([Korea (North)])), CH(([China (Mainland)])), JA(([Japan; Okinawa; Ryukyu Islands] ))
+제 목: 한미 동맹의 정치학(3/3부)
+참조: [[07seoul1211|가. SEOUL 01211]] [[07seoul1215|나. SEOUL 01215]] 
+분류자: 빌 스탠튼 대리대사((번역 주: chargé d´affaires[CDA] BILL STANTON))  근거 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/05/19 20:04//
+===== 요약 =====
+1. (기밀) 요점: 이 전문은 한미동맹과 정치 역학 관계에 관한 전문 시리즈 중 3번째이자 마지막 전문이다. [[07seoul1211|참조 전문 가]]에서는 대한민국이 자국의 안보 환경을 어떻게 보고 있는지를 탐구했다. [[07seoul1215|참조 전문 나]]에서는 한미동맹이 어떻게 한국의 안보 관점과 조화를 이룰지 살펴보았다. 이 마지막 보고는 한미 동맹 문제가 2007년 한국 대선 과정과 그 이후까지 어떤 양상으로 펼쳐질 가능성이 큰지 점검할 것이다. 한국 안보 전문가들과 함께한 논의에 기초해 볼 때 한미 동맹이 대선 기간에 정치 쟁점화될 가능성이 작다. 왜냐면 한미동맹이 현재 호의적으로 비치고 있으며 대선 이후에 더 개선될 것으로 기대되기 때문이다. 그러나 많은 부분 6자회담의 진전 여하에 따라 달라질 것이다. 미국 정부와 한국 정부 사이 이해의 정도 역시 그 어느 때보다도 중요하다. 왜냐면 미군 주둔이 계속 변혁할 것이고 한국 사회도 계속 변하고 있기 때문이다. 요약 끝.
+====== 보고 3: 한미동맹의 변화 ======
+===== 국내 경제 문제가 대선을 지배할 것 =====
+2. (기밀) 이번 일련의 보고서를 위해 자문받은 대부분의 남한 안보 전문가들은 한국 정치 경험이 풍부하다. 그들이 공감대를 형성한 의견은 한미 동맹이 한국의 국가 안보에 중요하다고 하나 2007년 한국 대선 캠페인에서 크게 주목받지는 않을 가능성이 크다는 점이다. 그들은 예견하길 대선 후보들이 그대신 예로 서울의 부동산 가격 급등과 한국인 실업률 상승 등 한국 국내 경제 문제에 초점을 맞출 것이다. 한미 FTA와 한국 교육 시스템 개혁 역시 대선에서 크게 주목받을 것으로 기대된다. 교육은 남한 사회에서 신분 상승의 주요한 수단이며 주택은 대표적인 부의 상징이라 유권자들에게 두 가지 모두가 중요하다.
+ 
+3. (기밀) 우리가 자문한 몇몇 전문가들은 한미 FTA가 다가올 선거에서 가장 논란이 양산될 가능성이 크다고 지적했다. 강원택 숭실대학교 정치학 교수는 경제, 민족주의, 사회복지 등 몇몇 중요한 전선에서 대선 후보의 입장에 대해 많은 것을 말해줄 이슈가 한미 FTA라고 말했다. 한미 FTA 이슈는 세계화의 혜택과 외세의 위험 사이 논쟁 대결을 불러올 수 있기에 한미 관계를 대하는 태도의 적나라한 속살이 고스란히 담겨있다. “내가 만일 집권당 대선 캠프 선거 관계자 중 한 명이라면 우리 후보자를 후보군 가운데 돋보이게 하는 수단으로 이용할 수 있게 한미 FTA에 반대하라고 조언할 것이다"라고 강 교수는 말했다.
+===== 현재 한미동맹에 대한 시각은 호의적 =====
+4. (기밀) 2월 미국 정부는 한미 안보정책구상을 통해 중요한 동맹 현안 다수에 관한 합의를 위해 한국과 협상을 벌였다. 2월 23일 게이츠 국방부 장관과 김장수 한국 국방부 장관이 승인한 동 합의로 전시 작전통제권의 한국 이양을 놓고 벌어진 말 많은 논란을 해결했다. 2012년 4월 17일까지 작통권 이양을 연기하자는 한국인 선호하는 주장에 따르는 대가로 남한 정부는 주한 미군을 평택에 있는 새 사령부로 신속히 이전하기로 약속함에 더해 용산기지이전 사업과 연합토지관리계획 이행을 통해 한반도에 주둔한 미군의 재배치 사업(주한미군 변혁 사업)도 돕기로 약정했다. 또한, 한국 정부는 한미 주둔군 지위협정에 따른 처리 과정을 통해 주한 미군 기지 23곳의 폐쇄와 반환을 실행에 옮기기로 합의했다.
+
+5. (기밀) 이러한 사업은 한미 동맹을 과거 냉전의 산물로부터 더 건강하고, 더 정치적으로 지속 가능한 미래 안보 동반자 관계로 변모시키려면 중요한 요소들이다. 동맹변환 계획은 주한 미군의 발자취를 25,000명까지 병력을 감축함으로써, 또한 가장 눈에 띄는 미군 주둔을(주한미군 사령부) 이전해 한때 일본 점령군이 사용했던 서울의 중심부에 자리한 최상의 부동산 부지에서 벗어나도록 함으로써, 서울 서남 지역에 통폐합된 새 주한미군 사령부 시설을 건설함으로써, 대구에 개선된 병참 지원 허브를 건설함으로써 달성될 것이다. 미국 정부는 수년 전에 상술(上述)한 모든 것을 하기로 한국 정부와 이미 합의한 바 있다. 그러나 2월 23일 합의로 양국은 이제 이행할 책무가 있으며 협조적인 태도로 일을 진행한다는 양해가 이뤄졌다. 이러한 선의의 노력이 지켜진다면, 4년간의 논란 많던 협상 이후에 한미동맹의 체질이 크게 개선된다는 말이 된다. 또한, 한국의 남은 대선 기간 한미동맹이 정치의 영향력을 벗어나도록 도와서 “우리”가 “그들”의 선거에 쟁점이 될 가능성을 줄이도록 해야 한다.
+===== 내년엔 더 좋아질 것으로…=====
+6. (기밀) 이 보고서 작성을 위해 인터뷰한 인사들은 수년간의 경색된 한미 관계 이후 한미동맹이 화해의 새 시대로 접어들었다고 견해를 같이했다. 한미 동맹의 상승세는 한미 양국이 한미 FTA가 합의에 이르렀을 당시인 4월 2일에 확연해졌다. 우리 대화 상대역들은 올해 말 새 한국 대통령이 선출된 이후에 한층 근본적인 관계 개선이 있을 것이라고 한목소리로 예견했다. 또한, 그들은 누가 당선되건 거의 무관하게 그렇게 될 것으로 예상했다. 숭실대학교의 강 교수는 노 대통령과 소위 “386세대” 정치인들이 표방한 독립적인 견해는 한국을 위한 하나의 통과의례였으며, 이는 15년 전에 일본에서 “아니라고 말할 수 있는 일본”의 발행과 더불어 터져 나온 유사한 정서와 비유할 수 있다고 말했다. <wrap hi>서울대학교 대외협력 본부장 노경수 박사는 남한 전교조를 장악하고 있는 두 세대에 걸친 “무식한 진보 세력”의 탓으로 돌렸다. “그들이 한미동맹에 손상을 입혔다. 왜 미국이 실망하고 배신감을 느꼈는지 그 이유를 난 이해할 수 있다”고 노경수는 말했다</wrap>. 고려대학교 동아시아 연구원 원장 김병국 박사는 한미관계가 안 좋은 시절을 살아남긴 했지만, 어느 정치권에 속한 한국 사람이건 노 대통령이 한미동맹을 잘못 취급했다고 믿는다고 평가했다. 그런 이유로 좌파, 우파 진영 정치인 모두는 그들 자신이 한미동맹을 지키는 사람들로 비치길 원하는 까닭에 대선에서 (한미 동맹을) 정치적으로 쟁점화하려 들지 않을 것이라고 김병국은 예견했다.<WRAP center round info 90%>//**"미모의 여배우의 술접대 향응 받는 전 국무총리 아들 노경수"**//
+입 놀리는 게 예사롭지 않아 검색을 해보니 아니나 다를 까 영화배우 박현진의 술접대 향응을 받아 YTN,KBS를 통해 톡톡히 망신을 당한 전 국무총리((노신영))의 아들이 바로 ‘노경수’라는 소문이 파다하다―미대사관도 알고 있는지 궁금하다. 미 대사관 비밀 전문이 갑자기 연예 잡지가 된 기분이 든다―참 웃지 못할 세상이다. [[http://www.koreadaily.com/news/read.asp?art_id=1177592|연예인 술접대 파문 “영화배우 P양, 前국무총리 아들 룸살롱 술접대”]] //중앙일보// [[http://www.ytn.co.kr/_ln/0103_201104010223373575| "대기업 회장도 접대...청와대 인사가 협박']]  //YTN// [[https://www.evernote.com/shard/s258/sh/edd5b5fe-176c-4741-8994-748da2236c54/de56876a4055033e5c0e05359f0633f4|前총리아들 서울대 교수 노경수 박현진 접대 나탈리 박현진 노출 영화배우]] //블로그 사본// [[https://www.evernote.com/shard/s258/sh/cf3b50fb-8517-4c24-b10b-316988f93e6a/d15e0f104f5a41c55e20bc3b57268b32|박현진, 서울대 교수 노경수 "술접대 의혹"마음이 아프다 ]] //블로그 사본//
+</WRAP>
+
+7. (기밀) 또한, 미 대사관은 차기 한국 정부와의 관계가 개선될 것으로 낙관한다. 그러나 12월 대선 선거일까지는 갈 길이 멀다. 게다가 한국 대선 캠페인 와중에 한미동맹이 어느 정도나 정치적으로 쟁점화될지는 누가 선두 주자로 부상하는가에 따라 좌우될 것이다. 예를 들면 우파 진영 후보가 박근혜가 된다면 주한 미군이 좌파 진영의 표적이 될 가능성이 더 커진다. 그렇게 보는 까닭은 그들이 그녀의 부친인 전임 독재자 박정희의 이력을―그의 군부 통치 기간 중 미합중국과의 긴밀한 유대를 만끽했던―문제 삼는 선거 운동을 할 가능성이 크기 때문이다. 그러한 공격의 성공 여부는 다양한 요인에 좌우되겠지만, 오히려 역효과를 낼 수도 있다. 왜냐면 박정희의 통치 기간에 이뤄졌던 고도 경제성장에 대한 향수가 상당 부분 존재하기 때문이다. 다른 한편으로 이명박이 한나라당 선두 후보로 유지된다면 안보 문제보다는 경제 문제가 지배하는 대선 캠페인이 될 것이다. 이명박 전 서울 시장은 그의 경제/행정 리더쉽이 주목할만한 성과를 냈다고 가장 잘 알려졌다. 박근혜와 이명박 모두 한미동맹에 대해 강력한 지지 목소리를 표명해왔다.
+
+8. (기밀) 한나라당 후보 누가 됐건 대통령에 당선된다면 한미동맹 관계가 개선될 것이라는 전망에 더해 상당수 관측통은 심지어 좌파 진영의 후보들도 한국의 정치, 경제, 안보 문제에서 미국이 핵심 파트너란 사실을 알고 있어 한미 관계 개선에 나설 것이다. 그게 아니더라도 국민대학교의 안드레이 란코프 교수의 말을 빌리자면: “심지어 남한 진보 세력도 노무현의 반복을 원하지 않는다.”
+===== 그러나 기대에 못 미칠 수도…=====
+9. (기밀) 그렇긴 하지만, 우리가 자문한 란코프와 다른 인사들은 대선 이후 고대했던 한미 관계 개선 전망이 많은 사람이 기대했던것 보다는 다소 미흡하게 끝날 수도 있다고 경고했다. 란코프는 “올드 라이트”는 한국에서 생을 마감하고 있다고 언급했다. 그리고 “뉴라이트”가 등장하고 있지만, 그들은 올드라이트보다는 미국의 정책을 전적으로 따를 가능성이 덜하다. 최근에 그런 사례를 엿볼 수 있는데 한나라당 일부에서 대북 강경 정책 접근을 완화하려는 시도가 그것이다. 외교안보연구원 최강 박사는 한나라당 내부 수구 세력은 한미동맹이 변하지 말아야 한다는 생각을 하고 있지만, 현재 당내 영향력을 키우고 있는 젊은 보수 세대 정치인들은 현재 벌어지고 있는 변화를 지지하는 경향이 있다. 몇몇은 미국이 좌파 “386세대”의 정치적 영향력을 저평가하고 있다면서 비슷하게 우파 진영의 변화를 저평가하는 우를 범하지 말라고 경고했다. 왜냐면 오늘날 남한 인구의 50% 이상이 30세 미만이기 때문이다. 한 전문가는 미국이 신세대 한국인을 좌파나 우파로 생각하기보다는 민족주의자라고 생각한다면 한국 내 정치 지형의 변화를 더 잘 이해하게 될 거라고 충고한다. 왜냐면 신세대들의 지지 기반은 철 지나고 평가절하된 사회주의나 쇄국주의 이념의 추구에서 기인하는 게 아니라 더 강력하고 독립성을 갖춘 한국을 희구하는 데서 기인하기 때문이다.
+===== 많은 부분 6자 회담의 진전에 좌우 =====
+10. (기밀) 한미동맹 관련 노 대통령의 핵심 조언자였던 문정인 교수에 의하면 2002년 반미 감정이 고조된 것은 56번 국도 사고 때문이 아니라고 한다. “그것은 단지 기름에 성냥불을 그었을 뿐이다”고 그는 말했다. 문 교수와 몇몇 다른 유명 한국 정치 전문가에 의하면 부시 대통령의 2002년 연두교서에 등장한 “악의 축” 발언은 상당히 많은 한국민 사이 광범한 우려를 야기했다. 남한 사회에 그토록 반미주의가 만연했던 적이 없었지만, 지금은 안 그렇다고 문 박사는 단언했다. 그러나 미국의 특정한 외교 정책이나 정책 입안자들이 가끔 “반미” 감정에 불을 지피곤 한다. 지금은 그 반대의 경우라고 그는 말했다. 한반도에 항구적인 평화체제를 수립하길 원한다는 부시 대통령의 발언, 미국의 방코 델타 아시아 문제의 해결 방침, 북한과의 직접 협상 등은 한국 전역에 걸쳐 환영을 받았다. 북한 핵 문제 해결과 관련해 미국이 건설적인 역할을 수행하는 것으로 한국 사람들이 판단하는 한 반미 감정은 한국 대통령 선거에서 어떤 요인이 되지 않을 것이라고 예견했다.
+
+11. (기밀) 현인택은 일민국제관계연구원 원장이며 한나라당 대선 후보 이명박의 외교정책 참모이다. 그도 견해를 같이한다. 그는 미국 정부가 “이번 선거에서 한미동맹 문제를 크게 드러내지 않고 한국의 상황을 이해하고 지원하는 등 처신을 잘하고 있다”고 말했다. 고려대학교의 김병국은 미국이 현재 한미동맹 관리를 “매우 잘하고”있다고 말했지만, 미국이 “더 온건한 접근”을 채택하는 것이 역내에서 영향력을 유지하는 최상의 길이라고 강조했다.
+===== 통찰력이 핵심 =====
+12. (기밀) 우리가 자문한 한국 전문가 중 상당수는 오늘날 한국 사회를 제대로 이해하는 미국 관리의 숫자가 너무 적고, 너무 자기 틀에 박혀 있다고 생각했는데 정신이 번쩍 드는 예기였다. 김태호 성균관대 정치학과 교수는 양국이 상호 이해를 강화할 것을 주문하였다. 많은 미국 내 한국 전문가들이 실제로는 일본이나 중국에 더 초점을 맞추고 있으며 한국은 “부업”으로 다룬다고 주장했다. 동시에 “한국도 역시 제대로 된 미국 전문가가 없어 피해를 보고 있다”고 김 교수는 주장했다. 다른 인사들은 미국 전문가들이 대게 미국 유학파에 영어를 구사하는 친미 대화 상대역의 견해에 과도하게 의존하는 경향이 있다면서 한국 정부에서 이제는 그런 인사들이 대사(大事)를 좌지우지하지 않는다고 지적하였다.
+
+13. (기밀) 많은 이들은 미국 정부 관리들이 한국 사회의 변화에 대해 “과잉반응”하지 말라고 촉구하면서 변화는 신생 민주주의 국가가 정상적으로 진화하는 과장의 일부라고 지적하였다. 한국 사회의 변화는 놀랄 일이 아니다. 왜냐면 미국 학회에서 “수정주의”가 인기를 끌던 당시를 포함해 미국도 비슷한 진화 과정을 경험했기 때문이라고 그들은 말한다. 그들은 한국의 정치적 식견이 점진적으로 성숙하고 있다고 우리를 안심시켰다. 한국민이 여전히 미국과의 안보 관계와 강력한 경제적 유대, 친선 관계 등을 대단히 소중히 여긴다는 점에는 확실히 공감대가 형성되어 있다. 그들이 현재 추구하는 것은 포괄적인 의미의 한미동맹 개발이다. 즉 지속적인 동북아 평화와 안정을 제공할 뿐만 아니라, 세계 속 한국의 이미지를 제고해 주는 평화 유지와 재난 구호 노력 등 한국이 국제사회의 일원으로 자리를 잡는 데 도움이 되는 한미 동맹을 말한다. 우리가 이야기를 나눈 모든 사람은 남한의 국제적인 역할 확대에 대해 지지하고 있지만, 상당수 한국인은 자청하지도 않은 무력 충돌에 휘말릴 것을 걱정한다고 그들은 말한다.
+
+14. (기밀) 김경원은 전 주미 대사로 현 동아일보의 선임 논설위원이다. 그는 냉전 종식 이후에 북대서양조약기구(나토)가 변혁했듯이 한미동맹도 변혁해야 한다고 판단한다. 그는 한미 동맹이 변할 필요가 있으며 대북 안보 태세에 손상을 주지 않으면서도 변화를 감당할 수 있을 만큼 한미 동맹이 공고하다는 것이 한국 내 부상하고 있는 중도파 사이 형성된 공감대라고 말했다. 그러나 그러한 변화는 새로운 의무나 책무를 한국 사람들에게 강요하거나 한국에 대한 미국의 (한국 수호) 다짐을 완화하려 든다는 느낌이 들지 않도록 "하나씩 차곡차곡" 매우 신중하게 이뤄질 필요가 있다고 주의를 당부하였다.
+===== 본 전문 시리즈의 결론 =====
+15. (기밀) 본 전문 시리즈 작성을 위해서 15명이 넘는 한국의 정치, 안보 전문가를 인터뷰했다. 미 대사관은 한미동맹의 전망이 긍정적이며, 한미동맹이 요절할 거라는 루머는 크게 과장되었다는 공감대에 견해에 같이하였다. 이와 반대로 이백만 한국인이 현재 미국에서 일하거나 거주하고 있다. 적지 않은 비율의 한국인 가구가(한국 정부 관리는 더 큰 비율로) 직계존속이나 친인척들이 미국에서 유학하거나 거주하고 있다. 미국 이민·세관 단속국은 현재 세계에서 다른 어떤 국가보다도 많은 한국 학생이 미국 학교에서 유학하고 있다고 최근 보고서에서 밝히고 있다. 미국인의 생활 방식이 한국인의 삶 일부가 되었고, 평범한 한국인들은 미국인을 좋아하고 미국과의 지속적인 동맹이 필요함을 충분히 이해하고 있다.
+
+16. (기밀) 그렇긴 하지만, 한국은 현재 상당한 변화를 겪고 있는 나라이다. 모든 민주주의 국가와 비슷하게 한국의 정치판 진자(振子)도 좌측으로 우측으로 흔들린다. 현재 이 진자((振子, 흔들이))가 중도로 복귀할 채비이며 아마도 2008년이 되면 중도 우파까지 흔들릴 것으로 우리는 믿는다. 그렇게 된다면 한미동맹의 유지 관리가 더 쉬워지겠지만, 그 진자((振子))가 한국의 미래를 향해 뻗은 철로를 따라 움직이고 있는―딱히 미국이 나아갈 방향으로만 내달린다고 할 수 없는―객차 꼭대기에 놓여 있다고 시각화하는 것이 중요하다. 간단히 말하면, 한국인들은 지속적이고도 긴밀한 한미 관계를 원하지만, 이제는 갈수록 더 자주 자기 뜻을 관찰하는 동반자 관계를 선호하고 있다.
+
+17. (기밀) 한국군도 현대화가 상당 기간 진행되고 있지만, 정치적으로 말해 한국군이 혼자 힘으로 북한군의 위협에 대응할 태세를 갖추지 못했다. 특히 현재 북한이 핵무기를 개발한 상태이다. 국회가 국방비를 연 9% 인상해서 국방개혁 2020 계획 기금으로 충당하기로 했지만, 남한의 군사 규모는 북동아시아에서 가장 작다. 그러니 한국은 향후 수년 또는 아마도 몇십 년 동안은 미국과의 동맹이 계속 필요할 것이다. 대다수 한국인은 그 점을 이해하며 지금의 이런 정세를 편하게 받아들인다.
+
+18. (기밀) 그럼 2020년에 한미동맹은 어떤 모습일까? 우리가 자문한 이들의 견해를 수렴해 보면 서울에 새 미국 대사관 공관이 들어설 것이다. 시장 개방이 확대되고 한미 FTA 아래에서 자유 무역이 확대되는 결과로 더 많은 미국인이 한국 경제 전반에서 활약할 것이다. 강대한 미 공군과 해군이 한반도 안팎으로 주둔하고 있을 것이지만, 한국 땅에 주둔하고 있는 병사는 더 줄어들 것이다. 이는 올바른 역사의 편에 서 있는 다른 강력한 파트너 국가들과의 협력으로 가능한 것이다. 동북아 역내 사람들이 소중히 여기는, 투쟁으로 쟁취한 평화와 번영을 죽어가는 북한 정권이 망치지 못하게 성공적으로 방어해 왔다. 그런 밝은 미래 안에서 남한 사람들은 미국을 만만한 샌드백으로 생각하기보다는 평화의 동반자로 보게 될 것이다. 결론 끝.
+===== 전문가 명단 =====
+19. (민감하지만 미분류) 본 보고서 시리즈를 위해서 다음과 같은 정치, 안보 정책 전문가가 인터뷰에 참여했다.
+
+1. 이홍구 박사는 전 총리로 주미 대사와 서울국제포럼 이사장, 중앙일보 고문이다.
+2. 윤영관 박사는 전 외교통상부 장관을 역임했고 현 서울대학교 교수다.
+3. 문정인 박사는 전 대통령자문 동북아시아시대위원회 위원장을 역임했고 현 연세대학교 교수이며 외교통상부 국제안보대사이다.
+4. 김성한 박사, 외교통상부 외교안보연구원 미주연구부 부장이며 교수이다.((번역 주: 대사관에서 착오로 최강을 김성한으로 잘못 기재한 것 같다. 김성한은 전문에 이름이 단 한 번도 등장하지 않지만 최강은 등장한다. 두 사람 공히 외교안보연구원 미주연구부장 을 역임한 사실에서 온 착오 같다.))
+5. 김병국 박사, 고려대학교 정치학 교수로 동아시아 연구원 원장이다.
+6. 김경원 박사는 전 주미 대사를 역임했고 현 중앙일보 선임 논설위원이다.
+7. 박세일 박사는 전 한나라당 의원이며 현 서울대학교 국제대학원 교수이다.
+8. 노경수 박사는 서울대학교 행정대학원 교수로 대외협력 본부장이다.
+9. 김태효 박사는 성균관대학교 정치학 교수이다.
+10. 김근식 박사는 경남대학교 정치학 교수이다.
+11. 안드레이 란코프 박사는 국민대학교 역사학 교수이다.
+12. 정세현 박사는 전 통일부 장관을 역임했고 현 이화여대 교수로 민족화해협력범국민협의회 상임의장이다.
+13. 김연철 박사는 고려대학교 아세아문제연구소 연구교수이다.
+14. 전봉근 박사는 외교안보연구원 교수이다.
+15. 강원택 박사는 숭실대학교 정치학 교수이다.
+16. 현인택 박사는 일민국제관계연구소 원장이며 고려대학교 정치학 교수이다.
+//스탠튼.//
+[[https://sites.google.com/site/poirotkr/6/07seoul1216|프와로 탐정의 번역]](c)무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[http://blog.naver.com/PostView.nhn?blogId=anlichol&logNo=150105821235| 전직 총리아들 노경수 교수 여배우 술접대 추문]] //블로그 홍길동...//
+  - [[http://www.horse.or.kr/bbs/board.php?bo_table=qna&wr_id=15868&page=10|사회지도층의 불량한 삶은 참으로...]]  //대한승마경영자협회 개시판//
+  - [[http://www.ytn.co.kr/_ln/0103_201104010223373575| "대기업 회장도 접대...청와대 인사가 협박']]  //YTN news//
+  - [[http://news.donga.com/Series/List_70040100000095/3/70040100000095/20070629/8460272/1|[김경원 칼럼]지도자의 독선이 나라를 망친다]]  //동아일보//
+===== 원본 내려받기 =====
+<file rtf 07SEOUL1216.rtf>
+C O N F I D E N T I A L SECTION 01 OF 07 SEOUL 001216 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT PLEASE PASS TO EAP A/S HILL AND EAP PDAS STEPHENS 
+ 
+E.O. 12958: DECL: 04/23/2017 
+TAGS: PREL [External Political Relations], PARM [Arms Controls and Disarmament],
+PGOV [Internal Governmental Affairs], PINS [National Security], MARR [Military and Defense Arrangements], 
+MCAP [Military Capabilities], KS [Korea (South)], KN [Korea (North)], CH [China (Mainland)],
+JA [Japan; Okinawa; Ryukyu Islands] 
+SUBJECT: THE POLITICS OF ALLIANCE RELATIONS (3 OF 3) 
+ 
+REF: A. SEOUL 01211 
+     B. SEOUL 01215 
+ 
+Classified By: CDA BILL STANTON.  REASONS 1.4 (b/d) 
+ 
+¶1.  (C) SUMMARY:  This is the third and final cable in a 
+series reporting on the politics of U.S.-ROK Alliance 
+relations.  Reftel A explored how the Republic of Korea views 
+its security environment.  Reftel B looked at how the 
+U.S.-ROK Alliance fits with ROK security perspectives.  This 
+final report examines how Alliance issues are likely to play 
+out during the 2007 ROK presidential election and beyond. 
+Based on our discussions with Korean security experts, we 
+think that Alliance issues are unlikely to be politicized 
+during the election because U.S.-ROK relations are currently 
+being viewed more favorably and are expected to improve 
+further after the election.  However, much will depend on 
+progress in the Six-Party Talks.  The level of understanding 
+between Washington and Seoul will also be more important than 
+ever, as the U.S. military presence continues to transform 
+and Korean society continues to change.  END SUMMARY 
+ 
+--------------------------------- 
+REPORT 3: CHANGES IN THE ALLIANCE 
+--------------------------------- 
+ 
+Domestic Economic Concerns Will Dominate Election 
+--------------------------------------------- ---- 
+ 
+¶2.  (C) Many of the South Korean security experts consulted 
+for this series of reports have extensive experience in 
+Korean politics.  Their consensus opinion was that U.S.-ROK 
+Alliance issues were unlikely to figure prominently in the 
+2007 ROK presidential campaign, despite their importance to 
+the Republic's national security.  They predicted the 
+candidates would focus instead on domestic Korean economic 
+issues, such as surging real estate prices in Seoul and the 
+rise in South Korean unemployment.  The U.S.-Korea Free Trade 
+Agreement (KORUS FTA) and reform of the South Korean 
+educational system were also expected to figure prominently 
+in the election.  Education is the primary vehicle for 
+upward-mobility in South Korean society, while housing is a 
+major status symbol, hence the importance of both to the 
+electorate. 
+ 
+¶3.  (C) Several experts we consulted pointed to the KORUS FTA 
+as the issue most likely to generate controversy in the 
+upcoming election.  Soongsil University political science 
+professor Kang Won-taek said it is an issue that tells a lot 
+about a candidate's stance on several important fronts, 
+including economics, nationalism and social welfare.  Since 
+the issue invites a debate on the benefits of globalization 
+vs. the dangers of foreign influence, it also contains strong 
+undertones of attitudes toward relations with the United 
+States.  "If I were one of the ruling camp's presidential 
+campaign staff, I would advise my candidate to use this issue 
+as a means to stand out from the crowd by opposing the 
+agreement," Professor Kang said. 
+ 
+The Alliance Is Now Viewed More Favorably 
+ 
+SEOUL 00001216  002 OF 007 
+ 
+ 
+----------------------------------------- 
+ 
+¶4.  (C) In February, the USG negotiated an agreement with 
+South Korea on a number of important Alliance issues through 
+the Security Policy Initiative (SPI) process.  That 
+agreement, approved by Defense Secretary Gates and ROK 
+Defense Minister Kim Jang-soo on February 23, resolved the 
+contentious debate over the transition of wartime operational 
+control (OPCON) to the Korean government.  In exchange for 
+acceding to the ROK preference to delay the transition until 
+April 17, 2012, the South Korean government pledged to 
+accelerate the movement of U.S. Forces Korea (USFK) to a new 
+headquarters in Pyongtaek, and to help transform the U.S. 
+military presence on the peninsula through implementation of 
+the Yongsan relocation and land partnership plans (YRP and 
+LPP).  The ROKG also agreed to work through the Status of 
+Forces Agreement (SOFA) process to carry out the closure and 
+return of 23 USFK camps in the ROK. 
+ 
+¶5.  (C) These are all important elements in transforming the 
+Alliance from its past Cold War construct into a healthier 
+and more politically sustainable security partnership for the 
+future.  This will be accomplished by reducing our military 
+footprint in Korea via a drawdown to 25,000 troops, moving 
+our most visible military presence (USFK Headquarters) away 
+from prime real estate in the center of Seoul once used by 
+Japanese occupation forces, and constructing a new 
+consolidated headquarters facility Southwest of Seoul, and 
+building an improved logistical support hub in Daegu.  The 
+USG had already reached agreement with the ROKG to do all of 
+the above several years ago.  With the February 23 agreement, 
+however, we now have a commitment to implementation and an 
+understanding that we will proceed in a cooperative manner. 
+If this good faith effort holds, it will represent a 
+significant improvement in the complexion of the U.S.-ROK 
+Alliance after four years of contentious negotiations.  It 
+should also help to depoliticize Alliance issues during the 
+remaining months of the ROK presidential election season, 
+thereby making it less likely that "We" will become the issue 
+in "Their" campaign. 
+ 
+Further Improvement Expected Next Year... 
+----------------------------------------- 
+ 
+¶6.  (C) Those interviewed for this report agreed that after 
+years of strained ties the U.S.-ROK Alliance had entered a 
+new period of reconciliation.  That upswing was clearly 
+evident on April 2 when the U.S. and ROK reached agreement on 
+the KORUS FTA.  With one voice our interlocutors predicted 
+that a more fundamental improvement would come after the 
+election of a new ROK president at the end of this year. 
+They also predicted that would be the case almost regardless 
+of who won the election.  Professor Kang of Soongsil 
+University said that the independent views expressed by 
+President Roh and others of the so-called "386 generation" 
+had been a rite of passage for Korea that could be likened to 
+similar sentiments that erupted in Japan fifteen years ago 
+with publication of "The Japan That Can Say No."  Seoul 
+National University Vice Chancellor for International Affairs 
+Dr. Lho Kyong-soo faults two generations of "uninformed 
+ 
+SEOUL 00001216  003 OF 007 
+ 
+ 
+liberals" who dominated South Korea's teachers unions.  "They 
+have done damage to the Alliance.  I can understand why the 
+United States feels disappointed and betrayed," Lho said. 
+Dr. Kim Byung-kook, Director of the East-Asia Institute at 
+Korea University, assessed that U.S.-ROK relations had 
+survived a bad phase, but that Koreans from across the 
+political spectrum believed President Roh had mishandled the 
+Alliance.  Because of this, politicians on both the left and 
+the right want to be seen as preserving the Alliance, and so 
+would not seek to politicize it in the election, Kim 
+predicted. 
+ 
+¶7.  (C) Post also sees favorable prospects for improved 
+relations with the next ROK administration.  It is, however, 
+a long way to election day in December.  Furthermore, the 
+degree to which Alliance issues may be politicized during the 
+ROK presidential campaign will largely depend on which 
+candidates emerge as the front runners.  For example, the 
+U.S. military presence in Korea is more likely to be used as 
+a target by the left if the candidate on the right is Park 
+Geun-hye.  That is because they are likely to campaign 
+against the record of her father, former strong man Park 
+Chung-hee, who enjoyed close ties with the United States 
+during his military rule.  The success of such attacks will 
+depend on various factors, and could even backfire as there 
+is significant nostalgia in Korea for the rapid economic 
+development that occurred during Park's rule.  On the other 
+hand, economic rather than security issues will be more 
+likely to dominate the campaign if Lee Myung-bok remains the 
+leading Grand National Party (GNP) candidate.  Lee, a former 
+mayor of the city of Seoul, is best known for the notable 
+accomplishments of his economic and administrative 
+leadership.  Both Park Geun-hye and Lee Myung-bok have voiced 
+strong support for the U.S.-ROK Alliance. 
+ 
+¶8.  (C) In addition to predicting that Alliance relations 
+will improve if either GNP candidate should win the 
+presidency, many observers also believe that even the 
+candidates from the left would take steps to improve Seoul's 
+relations with Washington, aware as they are that the United 
+States is the ROK's key political, economic and security 
+partner.  Or as Kookmin University professor Andrei Lankov 
+put it:  "Even South Korean liberals don't want a repeat of 
+Roh." 
+ 
+...But Not As Much As Hoped 
+--------------------------- 
+ 
+¶9.  (C) That said, Professor Lankov and others we consulted 
+have warned that the anticipated post-election improvement in 
+U.S.-ROK relations may end up being somewhat less than many 
+might hope or expect.  Lankov noted that the "Old Right" was 
+dying off in Korea.  And while a "New Right" was emerging, 
+its members were less likely than their predecessors to align 
+squarely with U.S. policies.  A recent indication of this was 
+seen in attempts by some in the GNP to soften its hard-line 
+policy approach toward North Korea.  Dr. Choi Kang of the 
+Institute for Foreign Affairs and National Security (IFANS) 
+pointed out that while old guard GNP members still held the 
+view that the Alliance should not change, the younger 
+ 
+SEOUL 00001216  004 OF 007 
+ 
+ 
+generation of conservative politicians currently gaining 
+influence in the party tended to support the changes that 
+were occurring.  Several said the U.S. Government 
+underestimated the political power of the left-wing "386 
+generation" and warned against similar underestimation of 
+changes on the right since today over 50% of the South Korean 
+population is under 30 years of age.  One expert advised that 
+Washington would better understand the changing political 
+landscape in Korea if it thought of newer generation Koreans 
+as nationalists, rather than as being on the left or the 
+right, because they largely derived their support from calls 
+for greater Korean strength and independence, rather than 
+from the pursuit of outdated and largely discredited 
+socialist or isolationist ideals. 
+ 
+Much Depends On Progress in the Six-Party Talks 
+--------------------------------------------- -- 
+ 
+¶10.  (C) According to Professor Moon Chung-in, a key advisor 
+to President Roh on Alliance issues, it wasn't the Hwy 56 
+accident that gave rise to anti-American sentiments in 2002. 
+"That was only the match to the fuel," he said.  According to 
+Moon and several other prominent Korean political experts, 
+the "Axis of Evil" line in President Bush's 2002 State of the 
+Union address caused widespread concern among a large segment 
+of the Korean public. Anti-Americanism has never been 
+prevalent in South Korean society, and is not now, Dr. Moon 
+asserted.  Nonetheless, strong reactions to certain aspects 
+of U.S. foreign policy and specific policy-makers had 
+occasionally given rise to "anti-USG" feelings.  The opposite 
+was now the case, he said.  President Bush's stated desire to 
+establish a permanent peace on the Korean Peninsula, and U.S. 
+decisions to resolve the BDA issue and negotiate directly 
+with the DPRK have been greeted with widespread approval in 
+Korea.  As long as Koreans saw the United States as playing a 
+constructive role in resolving the DPRK nuclear issue, he 
+predicted that anti-U.S. sentiments would not be a factor in 
+the ROK presidential campaign. 
+ 
+¶11.  (C) Hyun In-taek, Director of the Ilmin International 
+Relations Institute and a foreign policy advisor to GNP 
+presidential candidate Lee Myung-bak, agreed.  He said the 
+USG was "handling itself well in this election year, keeping 
+alliance issues low-key and being supportive and 
+understanding of Korea's situation."  Kim Byung-kook of Korea 
+University said the United States was currently doing "a very 
+good job" of managing the Alliance, but emphasized that U.S. 
+influence in the region could best be sustained by adopting 
+"a softer power approach" in the region. 
+ 
+Insight Is Key 
+-------------- 
+ 
+¶12.  (C) Soberingly, many of the Korean experts we consulted 
+felt that the number of U.S. officials who truly understand 
+Korean society today are far too few and too set in their 
+ways.  Professor Kim Tae-hyo, a political scientist from 
+Sungkyunkwan University, called on both countries to 
+intensify their understanding of one another.  Many of the 
+Korea experts in the United States he claimed were actually 
+ 
+SEOUL 00001216  005 OF 007 
+ 
+ 
+more focused on Japan or China, with Korea as their "side 
+job."  At the same time, "Korea too lacks true U.S. expertise 
+and suffers for it," Professor Kim opined.  Others said 
+American experts tended to rely too heavily on the views of 
+largely U.S.-educated, English-speaking, pro-American 
+interlocutors, and pointed out that such people are no longer 
+calling the shots in Seoul. 
+ 
+¶13.  (C) Many urged USG officials not to "over-react" to the 
+changes that have occurred in Korean society, pointing out 
+that change is a part of the normal evolution of a new 
+democracy.  That should not be surprising, they said, because 
+the United States has itself experienced similar phases in 
+its evolution, including a period when "revisionism" became 
+popular in American academic circles.  They assured us that 
+ROK political views are gradually maturing.  The clear 
+consensus was that Koreans still greatly value their security 
+relationship, strong economic ties and close friendship with 
+the United States.  What they seek now is to develop a more 
+broadly defined Alliance with the United States that not only 
+provides for continued peace and stability in Northeast Asia, 
+but also helps further integrate the ROK into international 
+peace-keeping and disaster relief efforts that enhance 
+Korea's image in the world.  All those we spoke with were 
+supportive of South Korea playing a more global role, 
+although many Koreans they said worry about being dragged 
+into conflicts not of their choosing. 
+ 
+¶14.  (C) Dr. Kim Kyung-won, a former ROK Ambassador to the 
+United States who is now a senior editorial writer for 
+JoongAng-ilbo, believes the Alliance must transform as NATO 
+transformed following the end of the Cold War.  He said a 
+centrist consensus was emerging in Korea that the U.S.-ROK 
+Alliance needed to change and was strong enough to endure 
+such change without damaging the security posture vis--vis 
+the North Korean threat.  He cautioned, however, that such 
+changes needed to be done very carefully - "brick-by-brick" - 
+so the Korean people did not feel the United States was 
+forcing them into a new set of duties and responsibilities, 
+or reducing its commitment to Korea. 
+ 
+----------------- 
+SERIES CONCLUSION 
+----------------- 
+ 
+¶15.  (C) More than fifteen Korean political and security 
+experts were interviewed for this cable series.  Post agrees 
+with their consensus view that the outlook for the U.S.-ROK 
+Alliance is positive, and that rumors of its imminent demise 
+were greatly exaggerated.  On the contrary, two million 
+Koreans currently live and work in the United States.  A 
+large percentage of Korean households (and an even larger 
+percentage of Korean government officials) have immediate 
+family members and/or relatives visiting, studying or living 
+in the States.  U.S. ICE has recently reported that the ROK 
+now has the more students than any other country in the world 
+studying at American schools.  American ways are a part of 
+Korean life, and the average Korean likes Americans and fully 
+understands the need for a continuing Alliance with the 
+United States. 
+ 
+SEOUL 00001216  006 OF 007 
+ 
+ 
+ 
+¶16.  (C) Nonetheless, South Korea is a country undergoing 
+significant change.  Like all democracies, it has a political 
+pendulum that swings right and left.  We believe it is 
+currently poised to swing back toward the center, perhaps 
+even the center-right, by 2008.  While that will make 
+Alliance maintenance easier, it is important to visualize 
+that pendulum as sitting atop a railroad car that is moving 
+down the tracks toward the Korean future, and not necessarily 
+going all the way in our direction.  In short, Koreans want a 
+close continuing relationship with the United States, but now 
+prefer it be a partnership in which they too more often get 
+their way. 
+ 
+¶17.  (C) The ROK military is also undergoing a significant 
+period of modernization, but politically-speaking is not 
+equipped to single-handedly counter the North Korean military 
+threat, especially now that Pyongyang has developed nuclear 
+weapons.  Even if the National Assembly chooses to fund the 
+approximately 9 percent annual increases in ROK defense 
+spending called for in the DR 2020 plan, the South Korean 
+military will be smallest in Northeast Asia.  The ROK will 
+thus continue to need its alliance with the United States for 
+many years, perhaps even decades, to come.  Most Koreans 
+understand this and are comfortable with that state of 
+affairs. 
+ 
+¶18.  (C) So what will the Alliance look like in 2020?  The 
+composite view of those we consulted is that there will be a 
+new U.S. Embassy facility in Seoul.  More American business 
+people will be working throughout the Korean economy as a 
+result of more open markets and an expansion in free trade 
+under the KORUS FTA.  A robust American air and naval 
+presence will remain in and around the peninsula, but there 
+will be fewer American soldiers stationed on Korean soil. 
+This will be possible because by working with other powerful 
+partners on the right side of history, the Alliance will have 
+succeeded in preventing a dying North Korean regime from 
+spoiling the hard fought peace and prosperity that are so 
+deeply valued by the peoples of the region.  In such a bright 
+future, the United States would be seen by the South Korean 
+people less as a convenient punching bag, and more as a 
+partner in peace.  END CONCLUSION. 
+ 
+List of Experts 
+--------------- 
+ 
+¶19.  (SBU) The following political and security policy 
+experts participated in interviews for this series of reports: 
+ 
+¶1.  Dr. Lee Hong-koo, Former Prime Minister and ROK 
+Ambassador to the U.S.  Current Chair Seoul Forum for 
+International Affairs and advisor to JoongAng-Ilbo. 
+¶2.  Dr. Yoon Young-kwan, Former Foreign Minister.  Current 
+professor at Seoul National University. 
+¶3.  Dr. Moon Chung-in, Former Chair of Presidential Committee 
+on East Asia Regional Issues.  Current professor at Yonsei 
+University and Ambassador-at-large for International Security 
+Affairs. 
+¶4.  Dr. Kim Sung-han, Professor and Director General for 
+ 
+SEOUL 00001216  007 OF 007 
+ 
+ 
+American Studies at Institute of Foreign Affairs and National 
+Security (IFANS). 
+¶5.  Dr. Kim Byung-kook, Professor of Political Science at 
+Korea University and Director of the East-Asia Institute. 
+¶6.  Dr. Kim Kyung-won, Former Ambassador to the U.S.  Current 
+JoongAng-Ilbo senior editorial writer. 
+¶7.  Dr. Park Se-il, Former GNP lawmaker.  Current professor 
+at Seoul National University Graduate School of International 
+Studies. 
+¶8.  Dr. Lho Kyong-soo, Professor of International Politics 
+and Dean of the Office of International Affairs at Seoul 
+National University. 
+¶9.  Dr. Kim Tae-hyo, Professor of Political Science at 
+Sungkyunkwan University. 
+¶10. Dr. Kim Geun-sik, Professor of Political Science at 
+Kyungnam University. 
+¶11. Dr. Andrei Lankov, Professor of History at Kookmin 
+University. 
+¶12. Dr. Jeong Se-hyun, Former Unification Minister.  Current 
+professor at Ewha University and Chair of the Korean Council 
+of Reconciliation and Cooperation (KCRC). 
+¶13. Dr. Kim Yeon-chul, Research professor, Institute for 
+Asian Issues, Korea University. 
+¶14. Dr. Jeon Bong-keun, Professor at Institute of Foreign 
+Affairs and National Security (IFANS). 
+¶15. Dr. Kang Won-taek, Professor of political science at 
+Soongsil University. 
+¶16. Dr. Hyun In-taek, Director Ilmin International Relations 
+Institute and Professor of Political Science at Korea 
+University. 
+STANTON
+</file>

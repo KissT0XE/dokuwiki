@@ -1,0 +1,83 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 1901 | [[https://www.wikileaks.org/plusd/cables/10SEOUL69_a.html| 10SEOUL69 ]]| [[/10SEOUL69]] | 언론 브리핑—2010년 1월 19일 | 2010-01-19 | 일반 | 완료 |
+| 1902 | [[https://www.wikileaks.org/plusd/cables/10SEOUL75_a.html| 10SEOUL75 ]]| [[/10SEOUL75]] | 신동익 외교통상부 국제기구국장, 2월 1~2일 핵확산금지조약(NPT) 워크숍 참석 차 필리핀 방문 | 2010-01-20 | 대외비 | 완료 |
+| 1903 | [[https://www.wikileaks.org/plusd/cables/10SEOUL80_a.html| 10SEOUL80 ]]| [[/10SEOUL80]] | 언론 브리핑—2010년 1월 20일 | 2010-01-20 | 일반 | 완료 |
+| 1904 | [[https://www.wikileaks.org/plusd/cables/10SEOUL81_a.html| 10SEOUL81 ]]| [[/10SEOUL81]] | 영국 관측통, 북한이 세 자릿수 인플레이션을 기록할 것이라 밝혀 | 2010-01-21 | 기밀 | 할당|
+| 1905 | [[https://www.wikileaks.org/plusd/cables/10SEOUL82_a.html| 10SEOUL82 ]]| [[/10SEOUL82]] | 국회의원 보좌관 송창욱, 장영일, 구희권, 이란과 아프가니스탄 문제 언급 | 2010-01-21 | 대외비 | |
+| 1906 | [[https://www.wikileaks.org/plusd/cables/10SEOUL83_a.html| 10SEOUL83 ]]| [[/10SEOUL83]] | 언론 브리핑—2010년 1월 21일 | 2010-01-21 | 일반 | |
+| 1907 | [[https://www.wikileaks.org/plusd/cables/10SEOUL86_a.html| 10SEOUL86 ]]| [[/10SEOUL86]] | 한국 정부, 대만의 미국산 소고기 제한 조치 면밀히 검토 | 2010-01-21 | 기밀 |완료 |
+| 1908 | [[https://www.wikileaks.org/plusd/cables/10SEOUL89_a.html| 10SEOUL89 ]]| [[/10SEOUL89]] | 언론 브리핑—2010년 1월 21일 | 2010-01-22 | 일반 | |
+| 1909 | [[https://www.wikileaks.org/plusd/cables/10SEOUL90_a.html| 10SEOUL90 ]]| [[/10SEOUL90]] | 아시아태평양 다자간 협력에 대한 장관 연설을 들은 한국 반응 | 2010-01-22 | 기밀 | 완료 |
+| 1910 | [[https://www.wikileaks.org/plusd/cables/10SEOUL91_a.html| 10SEOUL91 ]]| [[/10SEOUL91]] | 언론 브리핑—2010년 1월 25일 | 2010-01-25 | 일반 | |
+| 1911 | [[https://www.wikileaks.org/plusd/cables/10SEOUL92_a.html| 10SEOUL92 ]]| [[/10SEOUL92]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 12월 | 2010-01-25 | 일반 |할당|
+| 1912 | [[https://www.wikileaks.org/plusd/cables/10SEOUL94_a.html| 10SEOUL94 ]]| [[/10SEOUL94]] | 언론 브리핑—2010년 1월 26일 | 2010-01-26 | 일반 | |
+| 1913 | [[https://www.wikileaks.org/plusd/cables/10SEOUL95_a.html| 10SEOUL95 ]]| [[/10SEOUL95]] | 북한 경제 브리핑—2010년 1월 | 2010-01-26 | 대외비 | 완료|
+| 1914 | [[https://www.wikileaks.org/plusd/cables/10SEOUL99_a.html| 10SEOUL99 ]]| [[/10SEOUL99]] | 한국, 평화 유지군(PKO) 임무에 앞서 조사단을 아이티에 파견 | 2010-01-26 | 기밀 |완료 |
+| 1915 | [[https://www.wikileaks.org/plusd/cables/10SEOUL101_a.html| 10SEOUL101 ]]| [[/10SEOUL101]] | 언론 브리핑—2010년 1월 27일 | 2010-01-27 | 일반 | |
+| 1916 | [[https://www.wikileaks.org/plusd/cables/10SEOUL106_a.html| 10SEOUL106 ]]| [[/10SEOUL106]] | 한국 경제 브리핑—2010년 1월 | 2010-01-28 | 대외비 | |
+| 1917 | [[https://www.wikileaks.org/plusd/cables/10SEOUL107_a.html| 10SEOUL107 ]]| [[/10SEOUL107]] | 언론 브리핑—2010년 1월 28일 | 2010-01-28 | 일반 | |
+| 1918 | [[https://www.wikileaks.org/plusd/cables/10SEOUL109_a.html| 10SEOUL109 ]]| [[/10SEOUL109]] | 한국 정부, 이란 국가별 정례검토(UPR) 계획 ‘숙고’ | 2010-01-28 | 기밀 | |
+| 1919 | [[https://www.wikileaks.org/plusd/cables/10SEOUL129_a.html| 10SEOUL129 ]]| [[/10SEOUL129]] | 한국 정부, 미국 정부의 아이티 구호 노력 적극 지원 | 2010-01-29 | 대외비 | |
+| 1920 | [[https://www.wikileaks.org/plusd/cables/10SEOUL133_a.html| 10SEOUL133 ]]| [[/10SEOUL133]] | 한국 정부, 핵안보 정상회의에서 적극적 역할 맡기로 | 2010-01-29 | 일반 | |
+| 1921 | [[https://www.wikileaks.org/plusd/cables/10SEOUL134_a.html| 10SEOUL134 ]]| [[/10SEOUL134]] | 언론 반응 | 2010-01-29 | 일반 | |
+| 1922 | [[https://www.wikileaks.org/plusd/cables/10SEOUL135_a.html| 10SEOUL135 ]]| [[/10SEOUL135]] | 언론 브리핑—2010년 1월 29일 | 2010-01-29 | 일반 | |
+| 1923 | [[https://www.wikileaks.org/plusd/cables/10SEOUL136_a.html| 10SEOUL136 ]]| [[/10SEOUL136]] | 비정부 기구, 북한 정권이 인플레이션과 매점매석에 당면하여 탄압의 강도를 높였다고 말해 | 2010-01-29 | 기밀 | |
+| 1924 | [[https://www.wikileaks.org/plusd/cables/10SEOUL137_a.html| 10SEOUL137 ]]| [[/10SEOUL137]] | 개헌에 대한 개요 | 2010-01-29 | 기밀 | 할당 |
+| 1925 | [[https://www.wikileaks.org/plusd/cables/10SEOUL141_a.html| 10SEOUL141 ]]| [[/10SEOUL141]] | 언론 브리핑—2010년 2월 1일 | 2010-02-01 | 일반 | |
+| 1926 | [[https://www.wikileaks.org/plusd/cables/10SEOUL143_a.html| 10SEOUL143 ]]| [[/10SEOUL143]] | 언론 반응 | 2010-02-01 | 일반 | |
+| 1927 | [[https://www.wikileaks.org/plusd/cables/10SEOUL146_a.html| 10SEOUL146 ]]| [[/10SEOUL146]] | 언론 브리핑—2010년 2월 2일 | 2010-02-02 | 일반 | |
+| 1928 | [[https://www.wikileaks.org/plusd/cables/10SEOUL149_a.html| 10SEOUL149 ]]| [[/10SEOUL149]] | 언론 브리핑—2010년 2월 3일 | 2010-02-03 | 일반 | |
+| 1929 | [[https://www.wikileaks.org/plusd/cables/10SEOUL152_a.html| 10SEOUL152 ]]| [[/10SEOUL152]] | 언론 브리핑—2010년 2월 4일 | 2010-02-04 | 일반 | |
+| 1930 | [[https://www.wikileaks.org/plusd/cables/10SEOUL170_a.html| 10SEOUL170 ]]| [[/10SEOUL170]] | 한중일 FTA에 대한 한국 정부의 견해 | 2010-02-05 | 기밀 | 할당 |
+| 1931 | [[https://www.wikileaks.org/plusd/cables/10SEOUL174_a.html| 10SEOUL174 ]]| [[/10SEOUL174]] | 원로 정치인 고건 전 총리, 한국의 사회적 변화 언급 | 2010-02-05 | 기밀 | |
+| 1932 | [[https://www.wikileaks.org/plusd/cables/10SEOUL175_a.html| 10SEOUL175 ]]| [[/10SEOUL175]] | 언론 브리핑—2010년 2월 5일 | 2010-02-05 | 일반 | |
+| 1933 | [[https://www.wikileaks.org/plusd/cables/10SEOUL176_a.html| 10SEOUL176 ]]| [[/10SEOUL176]] | 한국 정부, 이란 핵 문제를 다룰 새로운 전력 고려. 재계 동원 | 2010-02-05 | 기밀 | |
+| 1934 | [[https://www.wikileaks.org/plusd/cables/10SEOUL177_a.html| 10SEOUL177 ]]| [[/10SEOUL177]] | 한국의 2010년 G-20 목표 | 2010-02-07 | 기밀 | 할당 |
+| 1935 | [[https://www.wikileaks.org/plusd/cables/10SEOUL181_a.html| 10SEOUL181 ]]| [[/10SEOUL181]] | 언론 반응 | 2010-02-08 | 일반 | |
+| 1936 | [[https://www.wikileaks.org/plusd/cables/10SEOUL182_a.html| 10SEOUL182 ]]| [[/10SEOUL182]] | 언론 브리핑—2010년 2월 8일 | 2010-02-08 | 일반 | |
+| 1937 | [[https://www.wikileaks.org/plusd/cables/10SEOUL187_a.html| 10SEOUL187 ]]| [[/10SEOUL187]] | 커트 캠벨 차관보, 2월 3일에 이용준 외교통상부 차관보 면담 | 2010-02-08 | 기밀 | |
+| 1938 | [[https://www.wikileaks.org/plusd/cables/10SEOUL192_a.html| 10SEOUL192 ]]| [[/10SEOUL192]] | 한국 정부 메가포트 논의 고려 | 2010-02-09 | 대외비 | 완료 |
+| 1939 | [[https://www.wikileaks.org/plusd/cables/10SEOUL195_a.html| 10SEOUL195 ]]| [[/10SEOUL195]] | 언론 브리핑—2010년 2월 9일 | 2010-02-09 | 일반 | |
+| 1940 | [[https://www.wikileaks.org/plusd/cables/10SEOUL200_a.html| 10SEOUL200 ]]| [[/10SEOUL200]] | 노동부의 한국 강제 노동 사용 정보 요청에 대한 응답 | 2010-02-09 | 일반 | |
+| 1941 | [[https://www.wikileaks.org/plusd/cables/10SEOUL202_a.html| 10SEOUL202 ]]| [[/10SEOUL202]] | 마이클 시퍼 부차관보: 국회의원들, 햇볕정책과 작전 통제(OPCON) 연기, FTA 조치 제기 | 2010-02-10 | 기밀 | 완료 |
+| 1942 | [[https://www.wikileaks.org/plusd/cables/10SEOUL204_a.html| 10SEOUL204 ]]| [[/10SEOUL204]] | 미 대사, 대검찰청 방문 | 2010-02-10 | 대외비 | |
+| 1943 | [[https://www.wikileaks.org/plusd/cables/10SEOUL205_a.html| 10SEOUL205 ]]| [[/10SEOUL205]] | 언론 브리핑—2010년 2월 10일 | 2010-02-10 | 일반 | |
+| 1944 | [[https://www.wikileaks.org/plusd/cables/10SEOUL207_a.html| 10SEOUL207 ]]| [[/10SEOUL207]] | 메테 에케로트 대사관 정치자문, 북한의 식량 부족과 화폐 혼란 언급 | 2010-02-10 | 기밀 | |
+| 1945 | [[https://www.wikileaks.org/plusd/cables/10SEOUL215_a.html| 10SEOUL215 ]]| [[/10SEOUL215]] | 대통령의 형, 한국의 국제적 역할 증대를 설명 | 2010-02-11 | 기밀 | |
+| 1946 | [[https://www.wikileaks.org/plusd/cables/10SEOUL216_a.html| 10SEOUL216 ]]| [[/10SEOUL216]] | 김문수 경기도지사, 기지 이전 계획 요구. 미국이 중국에 더 주의를 기울이도록 촉구 | 2010-02-11 | 기밀 | |
+| 1947 | [[https://www.wikileaks.org/plusd/cables/10SEOUL218_a.html| 10SEOUL218 ]]| [[/10SEOUL218]] | 언론 브리핑—2010년 2월 11일 | 2010-02-11 | 일반 | |
+| 1948 | [[https://www.wikileaks.org/plusd/cables/10SEOUL219_a.html| 10SEOUL219 ]]| [[/10SEOUL219]] | 언론 반응 | 2010-02-11 | 일반 | |
+| 1949 | [[https://www.wikileaks.org/plusd/cables/10SEOUL226_a.html| 10SEOUL226 ]]| [[/10SEOUL226]] | 언론 브리핑—2010년 2월 12일 | 2010-02-12 | 일반 | |
+| 1950 | [[https://www.wikileaks.org/plusd/cables/10SEOUL234_a.html| 10SEOUL234 ]]| [[/10SEOUL234]] | 부주의 운전 관련 외교문서에 대한 반응 | 2010-02-16 | 일반 | |
+| 1951 | [[https://www.wikileaks.org/plusd/cables/10SEOUL238_a.html| 10SEOUL238 ]]| [[/10SEOUL238]] | 언론 브리핑—2010년 2월 16일 | 2010-02-16 | 일반 | |
+| 1952 | [[https://www.wikileaks.org/plusd/cables/10SEOUL239_a.html| 10SEOUL239 ]]| [[/10SEOUL239]] | 작전통제권(OPCON) 반환의 정치적 측면 | 2010-02-16 | 기밀 | 완료 |
+| 1953 | [[https://www.wikileaks.org/plusd/cables/10SEOUL240_a.html| 10SEOUL240 ]]| [[/10SEOUL240]] | 한국 아이티 평화 유지군, 충분히 자급 가능 | 2010-02-16 | 일반 | |
+| 1954 | [[https://www.wikileaks.org/plusd/cables/10SEOUL244_a.html| 10SEOUL244 ]]| [[/10SEOUL244]] | 언론 브리핑—2010년 2월 17일 | 2010-02-17 | 일반 | |
+| 1955 | [[https://www.wikileaks.org/plusd/cables/10SEOUL248_a.html| 10SEOUL248 ]]| [[/10SEOUL248]] | 커트 캠벨 차관보, 전문가들과 북한의 미래 논의 | 2010-02-18 | 기밀 | |
+| 1956 | [[https://www.wikileaks.org/plusd/cables/10SEOUL252_a.html| 10SEOUL254 ]]| [[/10SEOUL254]] | 커트 캠벨 차관보, 2월 4일에 유명환 외무장관, 위성락 대사 면담 | 2010-02-18 | 기밀 | |
+| 1957 | [[https://www.wikileaks.org/plusd/cables/10SEOUL255_a.html| 10SEOUL255 ]]| [[/10SEOUL255]] | 비정부 기구들, 북한에 대한 개입 강화 촉구 | 2010-02-18 | 대외비 | |
+| 1958 | [[https://www.wikileaks.org/plusd/cables/10SEOUL258_a.html| 10SEOUL258 ]]| [[/10SEOUL258]] | 커트 캠벨 차관보, 이혜민 통상교섭본부 FTA 기획단장 면담 | 2010-02-19 | 기밀 | 완료 |
+| 1959 | [[https://www.wikileaks.org/plusd/cables/10SEOUL261_a.html| 10SEOUL261 ]]| [[/10SEOUL261]] | 미 국무부 국제여성국(S/GWI) 사업 제안: “여성 탈북자 대상 직업, 창업, 지도력 훈련 프로그램” | 2010-02-19 | 일반 | |
+| 1960 | [[https://www.wikileaks.org/plusd/cables/10SEOUL263_a.html| 10SEOUL263 ]]| [[/10SEOUL263]] | 언론 브리핑—2010년 2월 19일 | 2010-02-19 | 일반 | |
+| 1961 | [[https://www.wikileaks.org/plusd/cables/10SEOUL264_a.html| 10SEOUL264 ]]| [[/10SEOUL264]] | 김양 국가보훈처장, 한국전쟁 60주년 기념식 계획 언급 | 2010-02-19 | 대외비 | |
+| 1962 | [[https://www.wikileaks.org/plusd/cables/10SEOUL271_a.html| 10SEOUL271 ]]| [[/10SEOUL271]] | 언론 브리핑—2010년 2월 22일 | 2010-02-22 | 일반 | |
+| 1963 | [[https://www.wikileaks.org/plusd/cables/10SEOUL272_a.html| 10SEOUL272 ]]| [[/10SEOUL272]] | 천영우 외교통상부 차관, 북중 관계 언급 | 2010-02-22 | 비밀 | 완료 |
+| 1964 | [[https://www.wikileaks.org/plusd/cables/10SEOUL273_a.html| 10SEOUL273 ]]| [[/10SEOUL273]] | 천영우 외교통상부 차관, 한미 민간핵협력협정 협상이 양국 관계에 중대한 영향을 미칠 수 있다고 경고 | 2010-02-22 | 비밀 | 할당 |
+| 1965 | [[https://www.wikileaks.org/plusd/cables/10SEOUL287_a.html| 10SEOUL287 ]]| [[/10SEOUL287]] | 언론 브리핑—2010년 2월 23일 | 2010-02-22 | 일반 | |
+| 1966 | [[https://www.wikileaks.org/plusd/cables/10SEOUL289_a.html| 10SEOUL289 ]]| [[/10SEOUL289]] | 오카다 외무상 방한 관련 추가 전망 | 2010-02-22 | 기밀 | |
+| 1967 | [[https://www.wikileaks.org/plusd/cables/10SEOUL290_a.html| 10SEOUL290 ]]| [[/10SEOUL290]] | 커트 캠벨 차관보, 2월 3일에 김성환 외교안보수석 면담 | 2010-02-22 | 기밀 | 완료 |
+| 1968 | [[https://www.wikileaks.org/plusd/cables/10SEOUL294_a.html| 10SEOUL294 ]]| [[/10SEOUL294]] | 외교문서 전달: 한국, 군축회의(CD)에 “돌파구가 필요하”다는 데 동의 | 2010-02-23 | 기밀 | |
+| 1969 | [[https://www.wikileaks.org/plusd/cables/10SEOUL297_a.html| 10SEOUL297 ]]| [[/10SEOUL297]] | 언론 브리핑—2010년 2월 24일 | 2010-02-23 | 일반 | |
+| 1970 | [[https://www.wikileaks.org/plusd/cables/10SEOUL309_a.html| 10SEOUL309 ]]| [[/10SEOUL309]] | 한국, 골드스톤 보고서 채택 다시 기권할 듯 | 2010-02-24 | 일반 | |
+| 1971 | [[https://www.wikileaks.org/plusd/cables/10SEOUL310_a.html| 10SEOUL310 ]]| [[/10SEOUL310]] | 박선영 의원, 국회 북한인권법은 상징적이지만 통과되기 힘들 것이라고 | 2010-02-24 | 기밀 | 완료 |
+| 1972 | [[https://www.wikileaks.org/plusd/cables/10SEOUL311_a.html| 10SEOUL311 ]]| [[/10SEOUL311]] | 언론 브리핑—2010년 2월 25일 | 2010-02-24 | 일반 | 할당 |
+| 1973 | [[https://www.wikileaks.org/plusd/cables/10SEOUL312_a.html| 10SEOUL312 ]]| [[/10SEOUL312]] | 한국 경제 브리핑—2010년 2월 | 2010-02-25 | 대외비 | 할당 |
+| 1974 | [[https://www.wikileaks.org/plusd/cables/10SEOUL314_a.html| 10SEOUL314 ]]| [[/10SEOUL314]] | 외교통상부와 우즈베키스탄 대사, 카리모프 우즈베키스탄 대통령 방한 논의 | 2010-02-25 | 기밀 | 완료 |
+| 1975 | [[https://www.wikileaks.org/plusd/cables/10SEOUL318_a.html| 10SEOUL318 ]]| [[/10SEOUL318]] | 북한 경제 브리핑—2010년 2월 | 2010-02-25 | 대외비 | 할당 |
+| 1976 | [[https://www.wikileaks.org/plusd/cables/10SEOUL319_a.html| 10SEOUL319 ]]| [[/10SEOUL319]] | 언론 반응 | 2010-02-25 | 일반 | 도움요청 |
+| 1977 | [[https://www.wikileaks.org/plusd/cables/10SEOUL320_a.html| 10SEOUL320 ]]| [[/10SEOUL320]] | 언론 브리핑—2010년 2월 26일 | 2010-02-25 | 일반 | 할당 |
+| 1978 | [[https://www.wikileaks.org/plusd/cables/10SEOUL321_a.html| 10SEOUL321 ]]| [[/10SEOUL321]] | 한국 정치 분야 요약 | 2010-02-25 | 기밀 | 할당 |
+| 1979 | [[https://www.wikileaks.org/plusd/cables/10SEOUL322_a.html| 10SEOUL322 ]]| [[/10SEOUL322]] | 외교문서 전달: 3월 국제원자력기구(IAEA) 이사회에서 시리아 관련 준비 | 2010-02-25 | 기밀 | |
+| 1980 | [[https://www.wikileaks.org/plusd/cables/10SEOUL323_a.html| 10SEOUL323 ]]| [[/10SEOUL323]] | 3월 유엔 인권위원회 회의에서 한국과 미국의 우선순위 일치 | 2010-02-25 | 대외비 | |
+</sortable>

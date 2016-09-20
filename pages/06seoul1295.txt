@@ -1,0 +1,182 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL1295  |  2006-04-19 09:26  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PINR KS}}  |
+====== 제 목: 한명숙 총리 인준 ======
+기 밀 SEOUL 001295 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+행정명령 12958: 비밀해제: 04/19/2016 
+태그: PGOV(([Internal Governmental Affairs])), PINR(([Intelligence])), KS(([Korea (South)]))
+제 목: 한명숙 총리 인준
+참조: [[06seoul973|SEOUL 973]] 
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b/d). 
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/25 14:51//
+===== 요점 =====
+1. (민감하지만 미분류) 요점: 국회는 4월 19일에 한명숙을 한국의 새 총리로 인준하면서, 국가의 서열 2위를 직책을 맡은 첫 번째 여성이 나오게 됐다. 반정부 인사로 전직 장관을((번역 주: 환경부 장관과 여성부 장관)) 두 차례 역임한 한명숙은 양극화 완화에 그녀의 임기를 사용하길 희망한다고 (인사청문회에서)동료 의원들에게 말했다. 그녀는 북한 주민의 인권을 비롯한 삶의 질을 개선하기 위한 수단으로 남북 경제 협력을 옹호했다. 한명숙은 한미 관계에 대해 "우리의 가장 중요한 나라”((번역 주: 버시바우는 ‘alley’란 동맹국이란 단어를 사용했지만, 실재 녹취록 발언상의 용어는 ‘나라’이다.))라고 칭하면서 지지를 표명했다. 그녀는 한미 FTA를 지지한다고 표명했지만 쌀은 제외시킬 것을 주문하였다. 요약 끝.
+===== 한명숙 인준 확정 =====
+2. (민감하지만 미분류) 반정부 인사였고 두 차례 장관을 역임한 한명숙은 찬성 182표, 반대 77표, 기권 3명의 국회 표결로 국회의 승인을 얻어 4월 19일 총리가 되었다. 이틀간의 인사청문회에 뒤이어 인준 표결이 이뤄졌다. 노 대통령은 이해찬을 교체하면서 4월 24일 그녀를 총리로 내정했었다.
+
+3. (기밀) 다른 때 같았으면, 그녀가 1970년대와 1980년대 민주화 운동에서 한국을 대표하는 여성 반체제 인사로 역사적으로 유명한 개인사가 있는 한명숙에 놓고 제1야당 한나라당이 맹렬한 공격을 퍼부었을 것이다. (참조 전문에서 보고 했듯이, 한명숙의 개인사는 박정희 정권에 대한 반대를 “교사(敎唆)”했다는 이유로 2년 이상 투옥된 일도 포함한다; 그녀의 남편 박성준은 동료 반정부 인사로 친북 통일혁명당에 소속되어 있다는 이유로 13년간의 옥고를 치렀다.)((번역 주: ◯주호영 위원 그런데 통혁당은 실체가 있는 것이라고 인정하고 있고, 다만 남편은 통혁당과 관계가 없는데 억울하게 처벌을 받았다 이런 주장 아닙니까? ◯국무총리후보자 한명숙 예. ◯이목희 위원 저는 지금부터 진행되는 청문회에서 통혁당 사건, 크리스찬아카데미사건, 너무나도 분명한…… 특히 크리스찬아카데미사건은 박정희 유신독재정권 말기에 조작한 용공조작사건입니다. 이것은 얘기하지 않으셨으면 좋겠습니다.)) 그러나 한나라당의 한 중진 의원의 성추행 사건과((번역 주: 최연희 의원을 말한다)) 다른 두 명의 뇌물수수 사건의 뒤끝이고 5월 31일 지방 선거를 목전에 둔 처라 그런지 한나라당이 한국의 첫 여성 총리가 될 사람을 너무 지나치게 공격하면 유권자의 표심과 멀어질까 경계 한 듯 보였다. 그래서, 한나라당 의원들은 자체적으로 한명숙을 상대로―그리고 노무현 정부의 연장선에서―어정쩡한 인신공격과 특히 남북 관계와 북한 인권 등 북한 관련 이슈에 대한 기조에 대해 <wrap hi>약소한 질문</wrap>으로 한정하였다.
+<WRAP center round info 90%>//**총 409건의 질문이 'a handful of question’ 약소한 질문?!**//
+'a handful of question’이란 약소한 질문(총 409건)으로 제한했다?! 청문회 띄엄띄엄 보았나? 실제 한명숙 인사 청문회의 녹취록에서 예를 들어 (북한)‘인권’이란 키워드를 검색하면 무려 315건, ‘탈북자’는 총 58건, ‘쌀’은(한나라당의 이른바 퍼주기 및 군량미 도용) 검색하면 총 29건의 내용이 검색된다. ‘비료’는 7건이 나온다. 이 정도면 적대적인 남북 관계를 선동했다고 해도 무방하다. 한편 당시 FTA 협상 개시를 선언한 직후라 한미 ‘FTA’도 100건이 검색된다. 315+58+29+7(409건) 대 100건 인 셈이다,  ‘FTA’ 키워드가 나오는 발언은 대부분 당시 집권당인 열린우리당과 민주노동당 소속의원들의 발언이다. 그러니까 한나라당 의원들에게는 소위 ‘반북기조’가 ‘FTA’보다 비교될 수 없을 만큼 훨씬 중요한 주제였던 것이다. (알버트 카뮈. "거의 예외 없이 세상에 존재하는 악은 무지에서 나오며 선의라도 이해가 결하면 악의만큼이나 많은 해악을 끼칠 수 있다.") 그리고 409건이 ‘약소한 질문’인가? 버시바우 대사 듣고 있나?
+</WRAP>
+
+===== 북한문제의 한명숙 답변 =====
+4. (민감하지만 미분류) 한명숙은 한국은 북한 경제가 외국인 투자에 대해 문호를 개방하도록 독려해서 북한 민중의 삶이 낳아지도록 일조해야 한다고 말하는 등 햇볕정책과 평화와 번영 정책에 대한 확고한 지지를 표명하였다. 그녀는 인권에 관해서는 남북 화해에 차질을 빚도록 인권 문제가 악용되지 않도록 주의를 당부하였다. 주목할만한 발언은 다음과 같다:
+  * “만일 북한이 화폐를 위조했다면 국제법 위반에 해당한다.”
+
+  * “(북한 인권을 해결하기 위해선) 말보다는 실질적인 도움이 필요합니다. 한국 정부는 말이 아닌 그러한 행동으로 인도적 지원을 확대해 왔습니다((○국무총리 후보자 한명숙 아까 여기 김재원 위원님께서 정말 비참한 모습을 많이 보여 주었는데 말보다는 행동으로 정부는 하고 있습니다. 저분들이 먹고살아야 되지 않겠습니까? 그래서 실제적으로 인도적인 지원을 했고, 탈북자가 지금 8000명이 있습니다. 인권 문제를 말하는 어느 나라가 우리의 탈북자를 먹여 살립니까? 이것 모두 우리가 하는 것입니다. 그리고 탈북자 중에 제가 보니까는 과반수 이상, 가족 동반자까지 합치면 거의 70% 이상이 못 먹어서 생계형 탈출입니다. 그러기 위해서 우리가, 정부가 인도적 지원을 통해서 지원하는 것도 생계를 위한 인권적 접근이라고 보고 여러 가지 경로를 통해서 북한의 인권 문제는 전달을 하고 있습니다. 저는 이번 18차 남북회담에서도 이런 문제가 좀 전달이 되기를 바라고 있습니다.))…북한 민중이 스스로의 인권을 지킬 수 있도록 도와서 생존하도록 하는 것이 중요합니다. "북한 인권문제를 해결하는데 지름길은 경제 교류협력을 통해 북한의 개방을 유도하는 것입니다."((○국무총리 후보자 한명숙 체제 변화를 요구하는 경우에 저는 극단적인 대결 형태로 갈 거라고 봅니다. 그렇게 되면 어떤 형태의 돌발사고가 일어날 수도 있고 위험에 처하게 된다고 봅니다. 그러면 우리는 또다시 남북관계가 대결 구도, 냉전 체제로 돌아가게 되고 그렇기 때문에 개혁․개방을 유도하고 경제협력을 통해서 스스로 자기네들의 인권을 자기네들 스스로가 해결할 수 있는 여건을 만들어 주는 방법이 가장 바람직하다고 저는 생각합니다.))
+  * “우리가 남북한이 여전히 대치한 상황이고 여전히 평화와 상호 신뢰가 충분히 확고하지 않은 만큼 북한의 인권을 대놓고 제기하는 것에는 조심해야 합니다.”((○국무총리 후보자 한명숙 제가 정부의 입장하고 같기 때문에 말씀 드리는 것인데, 정부의 입장은 정말 180만 병력이 대치되고 있는 이러한 상황을 안전하게 운용해야 되는 막중한 책임을 갖고 있습니다. 그리고 남북관계의 신뢰는 아직까지……))
+
+  * “한국정부는 우리 납북자가 귀환하도록 다각도로 노력할 것입니다. 납북자와 국군 포로 문제는 곧 있을 남북 장관급 회의에서 논의될 예정입니다.”((○국무총리 후보자 한명숙 북에 있는 김영남은 우리나라 납북자 관리 대상의 한 사람입니다. 485명 납북자 대상 중의 한 사람이기 때문에 김영남 씨를 포함해서 납북자 국군포로 송환 문제는 이번 18차 장관급회담에서도 거론이 될 것이고 역대 어느 정권도 납북자 국군포로 문제를 다루지 않았습니다. 그러나 참여정부는 지금 현재 김영남 씨를 포함해서 납북자 국군포로 문제를 의제에 올리고 이것을 위해서 다각도의 노력을 하고 있습니다. 재원을 쓰더라도 우리가 이 문제를 해결하겠다는 의지를 이미 국민들에게 말씀드린 적이 있습니다.))
+
+  * “김대중 전 대통령의 북한 방문은(6월 예정) 꽉 막힌 6자 회담에 돌파구를 제공할 수 있다는 점에서 그 의미가 있을 것입니다.”((○국무총리 후보자 한명숙 김대중 전 대통령의 방북은 상당한 의미를 지닌다고 봅니다. 왜냐하면 6․15공동선언을 함께 하신 분들이기 때문에 우선은 서로 신뢰가 있고 또 앞으로의 우리 민족과, 우리 민족의 평화와 통일을 위해서 함께 깊은 얘기까지 했던 분들이시기 때문에 특별히 지금의 상황이 6자회담도 막혀 있고 여러 가지 어려운 상황 속에서 그것을 함께 풀어갈 수 있는 해법을 만들어 낼 수 있지 않나 하는 의미가 있습니다만 다만 정부 차원이 아니고 개인적인 자격으로 가시기 때문에 한계는 있다고 봅니다.))
+===== 한미 관계와 FTA에 대한 한명숙의 발언 =====
+5. (민감하지만 미분류) 한명숙은 강력한 한미 관계와 한미 FTA에 대한 지지를 표명했다. 그러나 한미 FTA에서 쌀은 제외할 것을 주문하였다. 주목할만한 발언은 다음과 같다:
+  * “저는 자유민주주의와 시장경제를 신봉합니다. 저는 우리의 가장 중요한 동맹국인 미국과의 공조 하에 모든 일이 이루어 져야 한다고 믿습니다.”((○국무총리 후보자 한명숙 예, 저는 자유민주주의와 시장경제를 신봉하고 우리에게 있어서 가장 중요한 나라가 미국이며 미국과의 한미 공조 하에서 모든 일이 이루어져야 된다고 봅니다.))
+
+  * “미국과의 FTA는 피할 수 없다. 그러나 민감성이나 취약성을 고려해 쌀은 한미 FTA 협상에서 제외되어야 합니다. FTA협상이 진행 중인 만큼, 제가 농업 분야에 각별한 관심을 기울여 FTA로 영향을 받게 되는 부문에 대해 정책을 세우도록 힘쓸 것입니다.((○국무총리 후보자 한명숙 농업 분야가 종합적인 계획과 대책을 세워서 나가야 된다, 이런 원론적인 말씀을 드릴 수가 있고, 이번의 한미 FTA에서도 농업의 피해가 최소화될 수 있고…… 특별히 쌀의 경우는 제외시켜야 된다 하는 것이 제 생각입니다.)) 그러나 전체 과정을 큰 그림의 일부로 봐야 하며, 합리적으로 접근해야 합니다. FTA로 인해 전기, 도시가스, 철도 그리고 의료 서비스 등을 포함하는 공공 서비스의 붕괴로 이어지지 않도록 해야 합니다”((◯단병호 위원 그리고 한미 FTA 추진 시 큰 우려가 되는 부분 중에 또 하나가 전기․수도․도시가스․철도 등 공공서비스 부문의 민영화 문제입니다. 아시다시피 이 부문은 민영화될 경우 특히 규제가 힘든 미국 자본에 의해 영리 차원에서 운영될 경우 공공요금의 인상과 그로 인한 시민들의 고통은 불가피할 것입니다. 이 부분에 대한 총리의 입장은 어떻습니까? ◯국무총리후보자 한명숙 지금 이 부분이 언론에도 좀 나오고 그래서 상당히 걱정들을 많이 하고 있는데 공공서비스 체계의 근간을 흔드는 내용은 협상 과정에 수용할 수 없다는 것이 우리 정부의 기본 입장입니다))
+
+  * “비록 초등 교육 및 중등 교육은 한미 FTA에 포함시켜서는 안됩니다. 저는 대학 교육에 대해선 특정한 조건을 붙여서 협상할 수 있다고 생각합니다.”((◯단병호 위원 그 우려보다는 도리어 고등교육 이런 부분의 개방화에 대한 우려를 가지고 있는 거거든요. 누구든지 이 부분이 개방화될 거라고 보고 있고, 그것이 됐을 때 나타날 수 있는 문제에 대한 심각성을 우려하고 있는 겁니다. 그런데 정부의 입장도 고등교육 부분은 개방화에 대한 협상을 할 수 있다는 것 아닙니까? ◯국무총리후보자 한명숙 그러니까 초등학교, 중학교, 고등학교까지는 확실하게 우리가 지켜야 되나 대학의 경우는 어떤 수준에서…… 말하자면 침해를 당하지 않는 조건을 만들어 가지고 협상이 되어야 되지 않나 그런 생각입니다.))
+===== 논평 =====
+6. (기밀) 한국의 첫 여성 총리 한명숙은 역사 속에서 그녀의 입지를 인식하게 될 것이다. 노 대통령은 그녀가 전임 총리 이해찬에게 위임했던 것과 같은 범위의 국정 운영을 수행해주길 희망한다고 표명했다. 한 총리의 반정부 인사 시절에도 불구하고, 그녀가 정부 관리로 실무 경력이 제시하는 바는 그녀가 긴밀하게 청와대의 방침을 따를 것이며, 자신의 위치에서 안정된 국정 운영을 펼쳐줄 것으로 예상한다. 논평 끝.
+버시바우
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://likms.assembly.go.kr/cgi-bin/highlight.cgi?filename=/record/data2/259/pdf/259sp0002b.PDF&keyword=%C7%D1%B8%ED%BC%F7&page=1|국무총리(한명숙) 임명동의안 심사를 위한 인사청문회(1부)]] //회의록시스템// 
+  - [[http://likms.assembly.go.kr/cgi-bin/highlight.cgi?filename=/record/data2/259/pdf/259sp0003b.PDF&keyword=%C7%D1%B8%ED%BC%F7&page=58|국무총리(한명숙) 임명동의안 심사를 위한 인사청문회(2부)]] //회의록시스탬// 
+  - [[http://booyaso.tistory.com/261|다시보는 새누리당(한나라당) 성희롱, 성폭력 사건들]] //세상을 돌아보다//
+===== 원본 내려받기 =====
+<file rtf 06SEOUL.rtf>
+C O N F I D E N T I A L SEOUL 001295 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/19/2016 
+TAGS: PGOV [Internal Governmental Affairs], PINR [Intelligence],
+KS [Korea (South)] 
+SUBJECT: HAN MYUNG-SOOK CONFIRMED AS PRIME MINISTER 
+ 
+REF: SEOUL 973 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b/d). 
+ 
+¶1.  (SBU) SUMMARY:  The National Assembly April 19 confirmed 
+Han Myung-sook as Korea's new prime minister, making her the 
+first woman to assume the nation's number two job.  Han, a 
+two-time former Cabinet minister and former dissident, told 
+fellow lawmakers that she hoped to use her tenure to 
+ameliorate polarization.  She advocated North-South economic 
+cooperation as a means to improve the lives, including human 
+rights, of the North Korean people.  Han expressed support 
+for the U.S.-ROK relationship calling the United State's "our 
+most important ally."  She also expressed support for a 
+U.S.-ROK FTA but called for the agreement to exempt rice. END 
+SUMMARY. 
+ 
+HAN MYUNG-SOOK WINS CONFIRMATION 
+-------------------------------- 
+ 
+¶2.  (SBU) Han Myung-sook, a two-time former Cabinet minister 
+and former dissident, won the National Assembly's approval 
+April 19 to become prime minister by a vote of 182 in favor, 
+77 opposed, and 3 abstentions.  The vote followed two days of 
+hearings.  President Roh had nominated her March 24 to 
+replace Lee Hae-chan. 
+ 
+¶3.  (C) In different circumstance, the main opposition Grand 
+National Party (GNP) would have mounted a ferocious attack on 
+Han, who has a storied history as one of Korea's leading 
+female dissidents in the pro-democracy movement of the 1970s 
+and 80s.  (As reported REFTEL, Han's personal history 
+includes more than two years in jail for "agitating" against 
+the Park Chung-hee regime; her husband, fellow dissident Park 
+Seong-jun, spent 13 years behind bars for belonging to the 
+pro-Pyongyang Revolutionary Reunification Party.)  However, 
+in the wake of sexual harassment charges against one senior 
+GNP lawmakers and bribery charges against two others, and 
+with an eye on the May 31 regional elections, the GNP appears 
+to have been wary of alienating voters by too aggressively 
+attacking Korea's first would-be woman prime minister.  Thus, 
+the GNP limited itself to a few half-hearted ad hominem 
+accusations and a handful of questions aimed at Han's -- and 
+by extension the Roh Administration's -- stance on North 
+Korea-related issues, especially North-South engagement and 
+North Korea human rights. 
+ 
+HAN ON NORTH KOREA 
+------------------ 
+ 
+¶4.  (SBU) Han expressed unequivocal support for the Sunshine 
+and Peace and Prosperity Policies, stating that the ROK 
+should encourage the DPRK to open up its economy to foreign 
+investment and thus contribute to improving the lives of the 
+North Korean people.  With regard to human rights, she 
+cautioned against allowing concern over human rights abuses 
+to stymie North-South reconciliation.  Notable statements 
+follow: 
+ 
+- "If North Korea is counterfeiting currency, that would 
+constitute a violation of international law." 
+ 
+- "Practical help, not words, is what is needed (to address 
+North Korean human rights).  The ROKG is extending 
+humanitarian aid through action, not words...It is important 
+to help the North Korean people defend their right to 
+survival.  One shortcut to resolving the North Korean human 
+rights issue is to induce North Korea to open up through 
+economic exchange and cooperation." 
+ 
+- "We must be cautious about openly raising the North Korean 
+human rights issues at a time when the two Koreas are still 
+in confrontation, and peace and mutual trust are not yet firm 
+enough." 
+ 
+- "The ROKG will pro-actively endeavor to get our abductees 
+back.  The issue of abductees and POWs will be discussed at 
+the upcoming North-South ministerial meeting." 
+ 
+- "Former President Kim Dae-jung's (expected June) visit to 
+Pyongyang will be meaningful in that it could provide an 
+breakthrough in the stalled Six Party Talks." 
+ 
+HAN ON U.S.-ROK RELATIONS, FTA 
+------------------------------ 
+ 
+¶5.  (SBU) Han expressed support for strong U.S.-ROK relations 
+and the bilateral FTA.  However, she called for the FTA to 
+exempt rice.  Notable statements follow: 
+ 
+- "I believe in free democracy and market economics.  I 
+believe everything should be done in collaboration with the 
+United States, our most important ally." 
+ 
+- "An FTA with the United States is inevitable.  However, in 
+view of sensitivities and vulnerabilities, rice should be 
+excluded from the U.S.-ROK FTA negotiations.  As FTA 
+negotiations progress, I will pay greater attention to the 
+agricultural sector,..and will strive to set up policies for 
+those sectors to be affected by the FTA.  However, the while 
+process should be viewed as part of a bigger picture and 
+should be approached rationally.  The FTA should not lead to 
+the collapse of the public service system, including 
+electricity, gas, railroad, and medical services." 
+ 
+- "Although primary and secondary education must not be 
+included in the FTA, I think we can negotiate over college 
+education with certain conditions attached." 
+ 
+COMMENT 
+------- 
+ 
+¶6.  (C) As Korea's first female prime minister, Han will be 
+cognizant of her place in history.  President Roh has 
+expressed his hope that she will conduct the same scope of 
+state affairs that he had entrusted to her predecessor, Lee 
+Hae-chan.  Han's dissident days notwithstanding, her track 
+record as a government official suggests that she will hew 
+closely to the Blue House line and exercise a steady hand at 
+the helm. END COMMENT. 
+VERSHBOW
+</file>

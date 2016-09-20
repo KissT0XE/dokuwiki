@@ -1,0 +1,78 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1555  |  2009-09-28 08:44  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 001555
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL PGOV MARR ECON KPAO KMDR KS US
+제 목: 서울, 언론 반응
+
+제 목: 언론 반응; 서울
+ --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2015/03/20 11:19//
+===== G20 피츠버그 정상회담 =====
+
+**[[http://chinese.joins.com/portal/article.do?method=detail&total_id=3796890|G20 연례 정상회의, 세계경제 발전 초석 돼야]]**
+
+중도 우파 중앙일보는 9월 28일자 사설에서 이렇게 썼다. "지난해 벌어진 금융위기는 신흥경제권을 제외한 G8만으로는 세계적인 경제위기에 제대로 대처할 수 없음을 여실히 보여줬다. ... 이제 세계경제의 중심축이 G8에서 G20으로 옮겨가는 것은 기정사실이 되었다. ... 그러나 G20 체제의 장래는 아직 불투명하다. 사안마다 선진국과 신흥경제국 간의 입장 차이가 여전히 큰 가운데 20개국에 이르는 다양한 국가 간에 의사소통이 원활하게 이루어질 수 있을지도 미지수다. ... 이런 점에서 내년 11월 한국에서 열리는 회의가 G20 체제의 안정적인 발전 여부를 가르는 결정적인 분수령이 될 공산이 크다.
+
+**[[http://www.hani.co.kr/arti/opinion/editorial/379003.html|G20 정상회의, 실질 협력체제로 나아가야]]**
+
+좌파 성향의 한겨레 신문은 9월 28일자 사설에서 이렇게 말했다: "그러나 문제는 이들 합의의 상당 부분이 구체성이 없을 뿐 아니라 강제력을 확보하지 못한 점이다. 국제 경제 질서의 민주화와 직결된 국제통화기금과 세계은행의 지분구조 개선만 해도 그렇다. 중국 등은 이번 회의에서 이들 국제기구의 지분 문제를 해결할 것을 촉구했지만, 정상선언문은 통화기금 지분의 5%와 세계은행 지분의 3%를 과다보유 국가에서 과소보유 국가로 이전하는 방안을 지지한다는 정도로 마무리했다. ... 그렇다 하더라도 G20이 세계 최고의 경제협의체가 되려면 단순히 합의를 위한 합의에 만족해서는 안 된다. 세계경제 위기의 근원이 됐던 문제를 피하지 않고 해결하려는 용기가 필요하다.
+스티븐스
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1555.rtf>
+UNCLAS SEOUL 001555 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PGOV MARR ECON KPAO KMDR KS US
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+Subject: Media Reaction; Seoul 
+ 
+G20 PITTSBURGH SUMMIT 
+---------------------- 
+ 
+G-20 Summit Should Become the Cornerstone of World Economic Growth 
+ 
+Right-of-center JoongAng Ilbo editorialized (09/28): "Last year's 
+financial crisis clearly demonstrated that the G-8 countries alone, 
+without the emerging economies, cannot deal with global economic 
+crises properly.  ...  Now it has become an established fact that 
+the 'central axis' of the world economy has shifted from the G-8 to 
+the G-20. ...  However, the prospects of the G-20 system are still 
+unclear.  It is doubtful whether various countries can communicate 
+without difficulty since there are big differences of opinion 
+between developed countries and emerging economies on every issue. 
+...  In this sense, the G-20 Summit, which will take place in the 
+ROK next November, is highly likely to become a watershed in 
+determining the stable development of the G-20 system." 
+ 
+ 
+"G-20 as Democratic Global Economic Coordinator" 
+ 
+Left-leaning Hankyoreh Shinmun editorialized (09/28): "The problem 
+is, however, that many of the agreements made in the past few days 
+lack not only substance but also binding force.  This is the case 
+with the reorganization of country representation at the IMF and 
+World Bank, which is directly related to the democratization of the 
+global economic order.  China and other countries had pressed to 
+resolve the issue during this summit, but the summit declaration 
+ended only with support for, but no affirmative action towards, a 
+shift in quota share for the IMF and World Bank in which 5% and 3%, 
+respectively of the shares from over-represented countries would go 
+to under-represented countries. ...  The G-20 countries must refuse 
+to be satisfied with agreements made just for agreement's sake if 
+they want to become the world's top economic community.  The G-20 
+must not shy away from issues that were at the root of the world 
+economic crisis, and instead demonstrate the courage to resolve 
+them." 
+ 
+ 
+STEPHENS
+</file>

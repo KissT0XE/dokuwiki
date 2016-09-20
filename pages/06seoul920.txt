@@ -1,0 +1,61 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL920  |  2006-03-22 05:33  |  기밀  |  주한미국대사관  |  {{tag>PREL MARR MASS KS }}  |
+====== 제 목: 외교통상부에 전달된 노근리 추모 기금에 대한 반응 ======
+  * 기 밀 SEOUL 000920 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 국방장관실, 국방부 부차관, 국제안보국/아시아태평양 피네건 중령((OSD/ISA/AP FOR LTC FINNEGAN ))
+  * 합동 전략기획 참모/근동국 디얼 중령((JOINT STAFF J5/NEA FOR LTC DEALE ))
+  * 태평양사령부 미스터 휴고와 뮤니팔리 중령((PACOM FOR MR. HUGO AND LTC MUNIPALI ))
+  * 행정명령 12958: 비밀해제: 04/21/2014 
+  * 태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), MASS(([Military Assistance and Sales])), KS(([Korea (South)]))
+  * 제 목: 외교통상부에 전달된 노근리 추모 기금에 대한 반응
+  * 참조: 가. STATE 42915  [[06seoul646|나. SEOUL 646]] 
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun.)).   근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/12/14 05:01//
+(기밀) 3월 17일 대사관 정치 담당관은 노근리 추모 기금 관련 참조 가의 논지를 북미2과 행정관리담당관((번역 주: 심의관급)) 강대수에게 전달하였다. 본론에 들어가기에 앞서 외교통상부의 앞서 요청한(참조 나) 추모비 기금 종료 시안 연장 요구를 반복하였다. 그러나 노근리대책위의 입장이 이른 시일 내에 변동 가망이 적음을 인정하였다. 외교통상부와의 논의에서, 노근리 마을 대표는 노근리 대책위가 추모비 문구와 관련 대책위와 협의가 없었기 때문에 추모비의 디자인을 수용할 수 없다는 점과 (미국이 요구하는) 보통의 문구를 수용할 수 없음을 한결같이 지적하였다. 접수한 외교문서를 관계 부서에 보고할 책임을 맡으면서, 추모비 건설업자와 미국정부 간의 계약이 여전히 유효한지와, 노근리 피해자 자녀에 대한 장학금과 연구비가 어떤 식으로든 추모비 기금과 연계되어 있는지를 질문을 했다.
+//버시바우//
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://j.mp/QXb7ay|노근리 추모사업비 사흘 뒤 '증발' 위기]] //프레시안//
+===== 원본 및 내려받기 =====
+<file rtf 06seoul920.rtf>
+C O N F I D E N T I A L SEOUL 000920 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+OSD/ISA/AP FOR LTC FINNEGAN 
+JOINT STAFF J5/NEA FOR LTC DEALE 
+PACOM FOR MR. HUGO AND LTC MUNIPALI 
+ 
+E.O. 12958: DECL: 04/21/2014 
+TAGS: PREL [External Political Relations], MARR [Military and Defense Arrangements], MASS [Military Assistance and Sales], KS [Korea (South)] 
+SUBJECT: RESPONSE ON NOGUN-RI MEMORIAL FUNDING DELIVERED TO 
+MOFAT 
+ 
+REF: A. STATE 42915 
+ 
+     B. SEOUL 646 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(C) On March 17, poloff delivered ref A talking points on 
+Nogun-ri Memorial funding to Kang Dae-soo, Deputy Director of 
+North America Division II.  In a brief preliminary response, 
+Kang repeated MOFAT's previous request (ref B) for an 
+extension.  However, he acknowledged that a change in the 
+Nogun-ri group's position was unlikely in the near future, 
+even with the anticipated expiration of funding.  In 
+discussions with MOFAT, representatives of the Nogun-ri 
+villagers consistently have indicated that the group could 
+not accept the design of the memorial since they were not 
+consulted on the design, nor were they able to accept the 
+general inscription on the memorial.  Undertaking to report 
+the demarche to relevant offices, Kang asked if the contract 
+between the USG and the builder for the memorial remained 
+valid and whether the scholarship/fellowship for the children 
+of Nogun-ri was tied in any way to the memorial funding. 
+VERSHBOW
+</file>

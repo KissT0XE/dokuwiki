@@ -1,0 +1,56 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1008  |  2008-05-16 04:20  |  기밀  |  주한미국대사관  |  {{tag>KDEM PHUM PREL EUN CU KS }}  |
+====== 제 목: 5월 21일, 쿠바인 연대의 날 (2부) ======
+  * 기 밀 SEOUL 001008 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 행정명령 12958: 비밀해제: 05/15/2018 
+  * 태그: KDEM(([Democratization])), PHUM(([Human Rights])), PREL(([External Political Relations])), EUN(([European Union])), CU(([Cuba])), KS(([Korea (South)]))
+  * 제 목: 5월 21일, 쿠바인 연대의 날 (2부)
+
+  * 참조: 가. STATE 45792  [[08seoul991|나. SEOUL 991]] 
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun.)).   근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/22 02:27//
+1. (기밀) 5월 15일 두정수 외교통상부 중남미국장은 쿠바에 관한 한국정부의 의견을 추가로 논의하기 위해 (미 대사관) 정치 공사 참사관과 회동하였다. (주석: 정치 외교 참사관과 공관차석은 전날 이용준 차관보와 같은 주제로 회동한 바 있다 [[08seoul991|참조 전문 나]]를 보라.) 두 국장은 쿠바에 대한 미국의 입장, 그리고 쿠바 인권 상황에 대한 미국의 우려에 대해 한국은 전적으로 지지한다고 제차 언급하였다. 5월 21일 미국정부가 계획한 행사들을 고려한 이후에, 한국이 이번에는 쿠바에 관한 어떤 공개 성명도 하지 않기로 했다고 말하였다. 이용준 차관보의 전날 발언을 재창하며, 두 국장은 쿠바에 관한 성명은 한국인에게 어떤 영향을 미치지 않을 공산이 클 뿐만 아니라, 쿠바인에게도 도움이 될 게 없다고 두 국장은 말하였다. 정치 공사 참사관은 많은 역내와 그 밖의 국가들은 상대적으로 단기간에 튼튼한 민주 사회를 발전시켰기 대문에 한국을 성공담으로 간주하고 있다. (한국은) 성공적으로 민주주의를 성장시킨 한 국가로써, 다른 국가들이 한국의 사례와 지도력을 통해 배울 수 있고, 그런 이유로 우리는 한국정부에게 특별한 요청을 하고 있다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul1008|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000904276|오늘 '쿠바인 연대의 날'에 즈음하여]] //오마이뉴스―버시바우 대사 기고문//
+===== 원본 및 내려받기 =====
+<file rtf 08seoul1008.rtf>
+C O N F I D E N T I A L SEOUL 001008 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 05/15/2018 
+TAGS: KDEM, PHUM, PREL, EUN, CU, KS 
+SUBJECT: MAY 21 - DAY OF SOLIDARITY (PART II) 
+ 
+REF: A. STATE 45792 
+ 
+     B. SEOUL 991 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4(b/d) 
+ 
+(C) MOFAT Director General for Latin American and Caribbean 
+Affairs Doo Jung-soo met with POL M/C on May 15 to further 
+discuss the ROKG view on Cuba.  (Note: POL M/C and DCM met 
+the previous day with the Deputy Foreign Minister about the 
+same subject. See Ref B).  DG Doo reiterated the ROK's full 
+support for the US position toward Cuba and its concern for 
+the human rights situation there.  After considering USG 
+planned activities for May 21 Cuba Solidarity Day, DG Doo 
+said that the ROK had decided that it would not make any 
+public statements about Cuba at this time.  Echoing the DFM's 
+comment from the previous day, DG Doo said that a statement 
+about Cuba would not likely have an impact on Koreans nor do 
+anything to help Cubans.  POL M/C noted that many countries 
+in the region and beyond considered Korea a success story 
+because it developed a robust democratic society in a 
+relatively short period of time.  As a country who had 
+succeeded in fostering democracy, other countries could learn 
+through Korea's example and leadership, and it was for those 
+reasons that we were making a special appeal to the ROKG. 
+VERSHBOW
+</file>

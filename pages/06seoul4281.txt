@@ -1,0 +1,261 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL4281  |  2006-12-15 09:05  |  대외비(4급)  |  주한 미국 대사관  |  {{tag>PREF PHUM PGOV PREL KTIP KS KN }}  |
+====== 제 목: 한국의 탈북자 문제: 개관 ======
+미분류 SECTION 01 OF 03 SEOUL 004281 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포 
+민감함
+ 
+행정명령 12958: 해당없음((N/A))
+태그: PREF(([Refugees])), PHUM(([Human Rights])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), KTIP(([Trafficking in Persons])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국의 탈북자 문제: 개관
+참조: 가. SEOUL 1837  나. 05 SEOUL 666  다. SEOUL 4131  라. 05 SEOUL 77 
+참조하는 전문: [[07seoul194|07SEOUL194]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/07/01 16:25//
+===== 요점 =====
+
+1. (민감하지만 미분류) 한국 정부의 탈북자 정착 프로그램은 시간이 갈수록 탈북자 수가 증가하고 인구분포도 변화함에 따라 진화하였다. 남한 당국자와 전문가는 거의 만 명의 탈북자가 한국 재정착에 성공하도록 도와준 한국의 노력을 통일을 향한 첫 걸음이요, 시금석으로 보고 있다. 한국의 탈북자 프로그램은 다수의 정부 기관과 시민 사회 단체가 참여하는 금융, 교육, 고용 지원을 포함하고 있다. 요약 끝.
+
+2. (민감하지만 미분류) 이 전문은 한국에 있는 탈북자를 위한 재정착 프로그램과 생활 조건을 요약해 제시하는 일련의 전문 중의 첫 전문이다. 여기에 나오는 정보와 논평은 2006년 11~12월 사이 한국 정부 당국자와 학계 전문가, 민간단체 지도자, 그리고 한국에 재정착한 몇몇 탈북자와 함께한 회동을 통해 제공한다. 우리 대화 상대역은 외교통상부, 통일부, 노동부, 정착지원 시설인 하나원, 지역사회 관계자와 민간단체 소속 사람들이다.
+===== 재정착 프로그램의 역사 =====
+
+3. (민감하지만 미분류) 한국은 남한에 재정착한 탈북자가 만 명이란 이정표에 다가서고 있다. 탈북자 대다수는 1990년대 말 이래로 한국에 도착하였다. 한국 정부는 이들을 “새터민”으로 부른다. 달리 말해 신규 정착민이다; 한국민 대부분에게 그들은 “탈북자”로 통한다. 달리 말해 “북한을 탈출한 사람”이다. 전 하나원 원장을 역임했던 이강락 현 북한이탈주민정착지원사무소 소장은 1990년대 중반 이전에는 [국방부망 배포] 한국에 도착한 탈북자 대부분은 상대적으로 고위급으로 정치적 탈북자였기에 한국은 북한과의 경쟁 관계에서 그들을 정보 자산이나 대여론 외교의 도구로 간주했다고 보고하였다. 첫 탈북자 대상 정부 지원은 1962년「국가유공자 및 월남귀순자 특별원호법」에 따라 탈북자에게 대단위 현금 지원 제공이 이루어졌다.
+
+4. (민감하지만 미분류) 1990년에 한국에 도착하는 탈북자의 수가 증가함에 따라 그들 중 많은 이들은 소외된 계층 출신이었고 한국의 프로그램도 남한 사회 생활에 적응을 돕는다는 목표와 더불어 자활능력을 제공하는 쪽으로 전환되었다. 1997년은 한국은 한국에 재정착한 탈북자를 위한 한국 정부의 정책과 프로그램을 요약해 제시하는「북한이탈주민의 보호 및 정착지원에 관한 법률」을 통과시켰다. 한국은 제삼국에서 비호를 요청하는 탈북자 보호로 확장한 이 법률을 통해 보호를 허용하는 기준을 확립하고 탈북자의 권리와 의무를 규정하였다. 1997년 탈북자 보호법은 재정착 지원시설 설립과 직업훈련 및 주택 지원 프로그램을 허가하고 있으며 장기적 지원 프로그램에 대한 탈북자의 접근성을 요약해 제시하고 있다.
+
+5. (민감하지만 미분류) 관료주의적 측면에서 보자면 1997년 탈북자 보호법에선 비록 “국가 안보”가 개입될 때 국가정보원의 역할이 있지만, 탈북자 보호 여부를 결정하는 권한은 통일부에 부여되었다. 이 법률을 통해서 한국은 모든 탈북자에 대한 보호 기능을 부여한다. 다만 보호 대상 빠지는 경우는: 항공기 납치, 마약 밀매, 테러, 대량 학살 등 국제형사범죄자; 살인 등 중대한 비정치적 범죄자; 위장탈북 혐의자(사례: 간첩); 또는 다른 외국 국적을 습득했거나 상당한 기간 동안 여타 국가의 거소지에서 생활을 영위한 자; 또는 북한을 탈출한 이후에 다른 외국국적을 습득한 자. 북한인권정보센터장 윤여상과 몇몇 법률전문가는 1997년 탈북자 법은 어떤 북한 사람에 대해 한국 입국을 허용할지 말지 결정하는 능력을 한국에 부여하지 않았지만, 한국 정부는 탈북자의 제삼국 경유를 촉진하거나 보호금품 확대를 포함하는 등 누구를 보호할지 결정하는 권한을 정부에 부여하였다.
+===== 하나원 =====
+
+6. (민감하지만 미분류) 한국에 도착한 이후 탈북자는 여타 한국 시민으로 간주되며 여타 모든 남한 시민과 마찬가지로 사회 보장 혜택을 누릴 자격을 준다. 남한 생활 적응을 돕는 것 이외에도 한국은 재정착이 쉽도록 구체적인 지원 프로그램을 개발하였다. 한국의 탈북자 지원 프로그램의 핵심은 모든 탈북자가 사전 심사 과정을 마친 이후에 10주 동안 다니게 되는 정착 시설 하나원이다. 하나원은 교육 및 직업 훈련을 비롯해 민주주의, 시장경제 원칙과 인권 등 남한 사회에 대한 이해를 돕도록 탈북자에게 제공되는 프로그램이다(참조 전문 가 그리고 나).
+===== 정착금 지원 =====
+
+7. (민감하지만 미분류) 한국 정부는 한국에 유입되는 탈북자의 수가 증가함에 더해 전문가들이 탈북자 일괄 지원의 효용성을 더 많이 습득하게 됨에 따라 (탈북자 대상) 정착금 지원을 주기적으로 조정해왔다. 현재 한국 정부는 모든 탈북자에게 원화 1천만 원을 기본적으로 지급하고, 하나원 졸업과 동시에 3백만 원 지급, 그리고 남은 7백만 원은 2년 동안 3개월 분할로 지급한다. 한국 정부는 최고 1천540만 원까지 추가적인 장려금을 취업 훈련을 이수한(달리 말해 장기 안정 고용) 탈북자에게 제공된다. 고령자 장애인은 추가적인 기금으로 최고 1천540만 원까지 지급 받을 수 있다. 한국 정부는 탈북 정착민에게 주택임대비용으로 1천만 원을 제공한다. 이런 지원에 더해 기초생활보장제도, 실업수당, 고령연금, 의료 보험 및 혜택에 대한 접근권도 확보하게 된다. 통일부의 통계에 의하면 탈북자의 72%가 기초생활보장 수급자이며 80%는 건강보험 혜택을 받는 것으로 나타났다.
+===== 직업훈련 지원 =====
+
+8. (민감하지만 미분류) 노동부는 추가적인 직업훈련을 확충하고 취업을 돕도록 하는 취업보호담당관을 탈북자 한 명마다 할당하고 있다. 노동부는 탈북자를 고용하는 기업체를 모집하고, 2년 간 임금의 50%를 보조하고 있다. 25세 미만의 탈북자는 중학교와 고등학교 등록금이 면제되고, 35세 미만의 탈북자는 대학교 등록금을 무상 제공한다. 한국 정부는 탈북자들이 교육의 격차를 극복하고 공교육 제도로 잘 통합되도록 돕기 위해 탈북자를 대상으로 하는 특수 학교 설립하였다. (참조 전문 다) 한국은 대학 입학의 문턱을 낮추기 위해 탈북자 대상 쿼터도 역시 확립하였다.
+===== 현물 대 현금 지원 =====
+
+9. (민감하지만 미분류) 상기한 지원 정책은 2005년 이후에 마련되었는데, 당시 한국 정부는 많은 탈북자가 그들의 정착지원금 전부나 대부분을 남한 여정을 지원한 브로커에게 지급한다는 널리 알려진 불평을 해결하도록 선급 원조금액을 줄였다. (참조 전문 라) 일부 전문가들은 다른 데서 변화된 정책의 동기를 찾는다. 국민대학교 안드레이 란코프는 탈북자 정책 변화는 탈북자들이 가족 구성원을 한국으로 데려오기 위해 브로커에 정착 지원금을 지급하는 “연쇄 탈북”을 좌절시킴으로써 한국으로 오는 탈북자의 수를 감소시키려는 방안이라고 주장한다. 북한민주화네트워크 한기홍 대표는 한국 정부의 탈북자 돕기 목표는 장려책을 통해서 자립 형태가 되었다고 동의했지만, 선급 원조의 축소는 탈북자들이 가족 구성원을 한국으로 불러들이기 위해 브로커에 돈을 대는 걸 막으려는 동기도 일부 있다고 했다.
+
+10. (민감하지만 미분류) 직접 탈북자를 상대로 정착 업무를 하는 일부 종사자들은 정착지원금이 한층 더 자립 중심으로 개편해서 제공되어야 한다고 믿고 있다. 탈북자 대상으로 하는 가장 큰 민간 정착센터 중의 하나의 임원은 한국은 정착금 지원을 한층 단기간에 제공해서 탈북자들이 더 조속히 취업하도록 장려해야만 한다고 주장하였다.
+===== 인도적 목표 대 정치적 목표 =====
+
+11. (민감하지만 미분류) 한국 정부는 탈북자 프로그램의 인도적 측면과 정치적 측면의 균형을 지속하고 있다. 탈북자 재정착 프로그램의 목적은 탈북자의 한국 생활의 적응을 돕는 것이지만, 이들 탈북자 인구가 성공하도록 돕는 것은 한국이 탈북자를 한국의 일부로 규합하는 최상의 방법을 결정할 수 있으므로 통일 준비에서도 중요하다고 이강락은 말한다. 아시아재단 문천상 사업부장은 현재 복지 중심의 정착 방식을 뛰어넘는 사고를 해야 하며, 특히 탈북자를 대상으로 하는 선진 교육의 기회를 제공함으로써 통일 한국에서 탈북자들이 의미 있는 역할을 준비하도록 돕는 통일을 대비한 방안으로 나아가야 한다고 주장한다.
+버시바우
+[[https://sites.google.com/site/poirotkr/5/06seoul4281|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://legacy.www.hani.co.kr/section-003000000/2004/12/003000000200412231401001.html|통일부, 탈북자정착금 3분의 1로 축소]] //한겨레//
+  - [[http://www.hani.co.kr/arti/politics/defense/216383.html|탈북자 기초생활수급자 줄인다]] //한겨레//
+===== 원본 내려받기 =====
+<file rtf 06SEOUL428.rtf>
+UNCLAS SECTION 01 OF 03 SEOUL 004281 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: PREF [Refugees], PHUM [Human Rights], PGOV [Internal Governmental Affairs], PREL [External Political Relations], KTIP [Trafficking in Persons], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: NORTH KOREAN REFUGEES IN THE ROK: AN OVERVIEW 
+ 
+REF: A. SEOUL 1837 
+     B. 05 SEOUL 666 
+     C. SEOUL 4131 
+     D. 05 SEOUL 77 
+ 
+SUMMARY 
+------- 
+ 
+¶1. (SBU) The ROKG's resettlement programs for North Korean 
+refugees have evolved over time as the number of refugees has 
+grown and their demographics have changed.  South Korean 
+officials and experts see the ROK's efforts to help the 
+nearly 10,000 refugees successfully resettle in the ROK as 
+the first step toward, and a preview of, reunification.  The 
+ROK's programs include financial, educational, and employment 
+assistance, involving numerous government agencies and civil 
+society groups.  END SUMMARY. 
+ 
+¶2. (SBU) This is the first in a series of cables outlining 
+resettlement programs and conditions for North Korean 
+refugees in the ROK.  Information and comments were provided 
+through meetings in November and December 2006 with ROKG 
+officials, academic experts, NGO leaders, and several 
+resettled North Koreans.  Our interlocutors were from the 
+Ministry of Foreign Affairs and Trade (MOFAT), Ministry of 
+Unification (MOU), and Ministry of Labor (MOL), the Hanawon 
+resettlement facility, local community offices, and NGOs. 
+ 
+HISTORY OF RESETTLEMENT PROGRAM 
+------------------------------- 
+ 
+¶3. (SBU) The ROK is approaching a landmark of 10,000 
+resettled North Koreans, the vast majority of whom have 
+arrived since the late 1990s.  The ROKG calls them 
+"Saetomin," or new settlers; to most Koreans they are known 
+as "Thalbukja," or "people who have escaped the North."  Lee 
+Kang-rak, former Hanawon Director and current 
+Secretary-General of the Association of Supporters for 
+ 
+SIPDIS 
+Defecting North Korean Residents, reported that prior to the 
+mid-1990s, most North Korean refugees who came to the ROK 
+were political defectors of a relatively high level, whom the 
+ROK saw primarily as intelligence assets and public diplomacy 
+tools in its competition with the North.  Government 
+assistance to North Korean refugees was first directed under 
+the 1962 Special Relief Act for Patriots, Veterans, and North 
+Korean Refugees, which provided large amounts of cash 
+assistance to North Koreans. 
+ 
+¶4. (SBU) During the 1990s, as the number of North Korean 
+refugees arriving in the ROK increased, and more of them came 
+from marginalized classes, the ROK's programs shifted to 
+providing rehabilitation as well, with the goal of helping 
+them adjust to life in South Korean society.  In 1997, the 
+ROK passed the "Protection of Defecting North Korean 
+Residents and Settlement Support Act" (1997 Protection Act), 
+which outlined the Government's policies and programs for 
+North Koreans resettled in the ROK.  Through this law, the 
+ROK extends protection to North Koreans seeking protection in 
+third countries, establishes the criteria for protection to 
+be granted, and sets the rights and obligations of refugees. 
+The 1997 Protection Act authorizes the establishment of 
+resettlement facilities, training programs, and housing 
+assistance programs, and outlines North Koreans' access to 
+longer-term assistance programs. 
+ 
+¶5. (SBU) Bureaucratically, the 1997 Protection Act empowers 
+the Ministry of Unification (MOU) to grant protection to 
+North Koreans, although the National Intelligence Service 
+(NIS) also has a role if "national security" is involved. 
+Under this Act, the ROK grants protection to all North 
+ 
+SEOUL 00004281  002 OF 003 
+ 
+ 
+Koreans, unless they have: committed international criminal 
+offenses involving aircraft hijacking, drug trafficking, 
+terrorism or genocide; committed serious nonpolitical crimes, 
+such as murder; are suspected of disguised defection (i.e., 
+spies); or have earned a living in another country of 
+domicile for a considerable time period or acquired another 
+foreign nationality after defecting from North Korea.  NK 
+Database Center President Yoon Yeo-sang and several legal 
+experts explained that the 1997 Act does not give the ROKG 
+the ability to decide which North Koreans can or cannot enter 
+the ROK, but empowers the Government to decide who receives 
+protected status, including facilitating their transit from 
+third countries or extending financial assistance to them. 
+ 
+HANAWON 
+------- 
+ 
+¶6. (SBU) After their arrival, North Koreans are considered 
+ROK citizens, entitled to the same public assistance benefits 
+as all other South Koreans.  In addition, to help North 
+Koreans adjust to life in the South, the ROK has developed an 
+assistance program specifically to ease resettlement.  Key to 
+the ROK's program is the Hanawon resettlement facility, which 
+nearly all North Koreans attend for 10 weeks following 
+completion of a preliminary screening process.  Hanawon's 
+programs provide North Koreans with a basic understanding of 
+South Korean society, democratic and free market principles 
+and human rights, as well as educational and vocational 
+training (Refs A and B). 
+ 
+FINANCIAL ASSISTANCE 
+-------------------- 
+ 
+¶7. (SBU) The ROKG has periodically adjusted its assistance 
+package as the number of North Koreans entering the ROK 
+increased and as experts learned more about their 
+effectiveness.  At present, the ROKG provides all North 
+Korean refugees with a basic payment of KRW 10 million (about 
+USD 10,000), with KRW 3 million (USD 3,000) paid upon 
+graduation from Hanawon and the remaining KRW 7 million (USD 
+7,000) paid in three-month installments over two years.  The 
+ROKG provides additional incentive payments up to KRW 15.4 
+million (USD 15,400) for North Koreans who complete training 
+programs or obtain long-term stable employment.  Senior 
+citizens and persons with disabilities or long-term illness 
+are provided with up to KRW 15.4 million (USD 15,400) in 
+additional funds.  The ROKG provides North Korean resettlers 
+with public housing or with KRW 10 million (USD 10,000) for 
+leasing their own apartment.  In addition to this assistance, 
+North Korean refugees also have access to the ROK's Basic 
+Livelihood Security (or welfare) program, unemployment 
+assistance, old-age pension, and medical insurance and 
+benefits.  According to MOU statistics, 72 percent of North 
+Koreans receive Basic Livelihood Security Assistance and 80 
+percent receive health insurance benefits. 
+ 
+VOCATIONAL SUPPORT 
+------------------ 
+ 
+¶8. (SBU) The Ministry of Labor (MOL) assigns each North 
+Korean an employment protection officer, who helps them find 
+employment and obtain additional vocational training.  The 
+MOL recruits companies to hire North Korean resettlers, and 
+subsidizes 50 percent of their wages for two years.  North 
+Koreans under 25 are exempt from paying middle and high 
+school tuition fees, and those under 35 are provided with 
+free university tuition.  The ROKG has established special 
+schools for North Koreans to help them overcome educational 
+gaps and better integrate into the public education system 
+(Ref C).  The ROK has also established quotas for North 
+ 
+SEOUL 00004281  003 OF 003 
+ 
+ 
+Korean refugees at universities to ease the admission 
+process. 
+ 
+IN-KIND VS. CASH ASSISTANCE 
+--------------------------- 
+ 
+¶9. (SBU) The above package of assistance has been in place 
+since 2005, when the ROKG reduced the amount of up-front 
+assistance to address the prevailing complaint that many 
+North Koreans  paid most or all of their resettlement 
+assistance to brokers who assisted in their journey to the 
+South (Ref D).  Some experts ascribe different motives. 
+Kookmin University scholar Andrei Lankov argued that the 
+change was a way for the ROK to reduce the number of North 
+Koreans coming to the ROK by discouraging "chain defection," 
+in which North Koreans paid brokers to bring family members 
+to the ROK.  Han Ki-hong, President of NK Net, agreed with 
+the ROKG's goal of helping North Koreans become more 
+self-sufficient through incentive packages, but also thought 
+the reduction of up-front assistance was motivated in part to 
+keep refugees from giving money to brokers to bring their 
+family members to the ROK. 
+ 
+¶10. (SBU) Some practitioners who work directly with North 
+Korean refugees in the resettlement process believe that the 
+financial assistance provided should be further restructured, 
+however, with an even greater focus on self-sufficiency.  The 
+director of one of the largest private resettlement centers 
+for North Koreans argued that the ROK should provide 
+financial assistance for a shorter time period so refugees 
+are encouraged to obtain employment more quickly. 
+ 
+HUMANITARIAN VS. POLITICAL GOALS 
+-------------------------------- 
+ 
+¶11. (SBU) The ROKG continues to balance the humanitarian and 
+political aspects of its programs for North Korean refugees. 
+While the goal of the ROK's resettlement program is helping 
+North Koreans adjust to life in the ROK, Lee Kang-rak said 
+that helping this population succeed is an important 
+preparation for unification, allowing the ROK to determine 
+how best to integrate North Koreans.  Asia Foundation Program 
+Director Moon Chun-sang argued that the ROK should think 
+beyond its current welfare-focused approach to resettlement 
+and move toward a unification approach that would help 
+prepare North Koreans for a meaningful role in a unified 
+Korea, particularly by providing advanced educational 
+opportunities to refugees. 
+VERSHBOW
+</file>

@@ -1,0 +1,50 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL1570  |  2009-09-30 08:50  |  2011-08-30 01:44  |  비밀  |  서울대사관  |  {{tag>KNNP MNUC PARM  PREL IR UNSC KN KS ETTC  }}  |  
+====== 제 목: 우라늄 농축 시설과 우호국 회의에 대한 이란과 한국 정부의 반응 ======
+  *비 밀 SEOUL 001570 
+  *국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+  *국무부 산하 국제안보·비확산국((번역 주: ISN: Bureau of International Security and Non-proliferation ))/위험평가처((번역 주: Risk Assessment [RA])): 리차드 냅프 및 마이클 베드커((번역 주: RICHARD NEPHEW AND MICHAEL BEDKE )) 귀하
+  *행정명령 12958: 비밀해제: 09/17/2019 
+  *태그: KNNP (([Nuclear Non-Proliferation])), MNUC (([Military Nuclear Applications])), PARM (([Arms Controls and Disarmament])), PREL (([External Political Relations])), IR (([Iran])), UNSC (([UN Security Council])), KN (([Korea (North)])), KS(( [Korea (South)])), ETTC (([Trade and Technology Controls])) 
+  *제 목: 우라늄 농축 시설과 우호국 회의에 대한 이란과 한국 정부의 반응
+  *분류자: 정치 참사관 제임스 웨이만((번역 주:POL M/C James. L. Wayman.)) 근거 1.4 (B/D) 
+  *번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/20 22:54//
+
+----
+
+1.(**비밀**) 정치 참사관((번역 주:POL M/C))은 참조 전문 전환책을 9월 30일에 신동익 외교통상부 국제기구 국장((번역 주: Director-General of MOFAT's International Organizations Bureau ))에게 전달하면서, 이란 쿰에((번역 주: Qum))위치한 비밀 우라늄 농축시설을 알리고, 10월 7일 워싱턴 디시에서 열릴 우호국 회담에((번역 주: 이란에 같은 생각을 공유한 국가들 모임)) 대해 최신소식을 제공했다.
+
+2.(**비밀**) 신 국장은 이란 및 북한에 주어진 시간이 다해가고 있다고 하면서, 한국정부는 이란이 [[wp>IAEA |국제 원자력 기구]]((國際原子力機構, 영어: International Atomic Energy Agency,IAEA))의 조치를 수용하는 것을 전적으로 지지한다고 말했다. 그는 비록 서울에 있는 관리들이 장거리 여행이 힘들지만, 자신과 1-2명의 대표단이 10월 7일 회담에 참석할이 거의 분명하다고 알리면서,  신 국장은 한국정부의 확정될 참가자 명단을 다음주 초에 제출할 것에 동의했다.
+//스티븐스//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL1570.rtf>
+S E C R E T SEOUL 001570 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR ISN/RA: RICHARD NEPHEW AND MICHAEL BEDKE 
+ 
+E.O. 12958: DECL: 09/17/2019 
+TAGS: KNNP [Nuclear Non-Proliferation], MNUC [Military Nuclear Applications], PARM [Arms Controls and Disarmament], PREL [External Political Relations], IR [Iran], UNSC [UN Security Council], KN [Korea (North)], KS [Korea (South)], ETTC [Trade and Technology Controls] 
+SUBJECT: IRAN - ROKG RESPONSE TO URANIUM ENRICHMENT 
+FACILITY & LIKE-MINDED FRIENDS MEETING 
+ 
+Classified By: POL M/C JAMES L. WAYMAN. REASONS 1.4 (B/D) 
+ 
+¶1. (S) POL M/C delivered reftel demarche on September 30 to 
+Shin Dong-ik, Director-General of MOFAT's International 
+Organizations Bureau, informing the ROKG of Iran,s covert 
+uranium enrichment facility in Qom and updating them on the 
+October 7 meeting of Like-minded States on Iran to be held in 
+Washington, DC. 
+¶2. (S) DG Shin stated that &time is running out for Iran and 
+North Korea8 and that the ROKG was in full support of 
+Iran,s compliance with the IAEA.  He indicated that he, 
+along with a 1-2 person delegation, would most likely attend 
+the October 7 meeting, although the distance and travel for 
+Seoul-based officials would be difficult.  Shin,s office 
+agreed to forward a confirmed list of ROKG participants early 
+next week. 
+ # 
+STEPHENS
+</file>

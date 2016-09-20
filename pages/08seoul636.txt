@@ -1,0 +1,221 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL636  |  2008-03-31 10:36  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KS KN PGOV PREL }}  |
+====== 제 목: 남한정부, 북한의 거친 언사에 차분한 대응 ======
+기 밀 SEOUL 000636  
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))  
+국방부망 배포
+행정명령 12958: 비밀해제: 02/19/2017 
+태그: KS (([Korea (South)])), KN(( [Korea (North)])), PGOV(( [Internal Governmental Affairs])), PREL (([External Political Relations]))
+제목:  남한정부, 북한의 거친 언사에 차분한 대응  
+참조: [[08seoul616| 가.SEOUL 616]]  [[08seoul623| 나.SEOUL 623]]  
+분류자: 알렉산더 버쉬바우 대사. 근거 1.4(b/d)
+번역자: PoirotKr(번역주: 트위터 사용자이름)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/09/23 16:23//
+===== 요점 =====
+1. (기밀) 요약: 권종락 외교부 제1차관은 최근 북한의 거친 언사는 남한의 새 정부의 비핵화 다짐을 시험하려는 노력이지만, 남한 정부는 물러섬이 없이 “냉정히 대응”할 거라고 버시바우 대사에게 말하였다. 박찬봉 통일부 차관보는 북한 경제의 대남 의존성이 하나의 긴장 완화 요인임을 북한이 인식하고 있지만, 남북 관계의 구조적인 문제로 비핵화가 근본적인 문제임을 지적하였다. 권종락과 박찬봉은 남북 어느 쪽도 문제가 커지는 것을 원하지 않기 때문에 말싸움이 잦아들 것으로 예상하였다. 요점 끝.
+===== 남한의 성명―북한의 응대 =====
+2. (민감하지만 미분류) 2월 25일 이명박 대통령의 취임식 이후 “지켜보자”며 한 달을 침묵한 이후에, 3월 27일 북한은 한국 당국자 11명을 개성공업지구에서 추방하고(참조전문 가), 3월 28일에는 단거리 미사일을 시험 발사하였다. (참조전문 나)더욱 심사를 어지럽히는 점은 뒤따른 거친 언사였다:
+
+  * 3월 28일 북한군 해군사령부는 단거리 미사일 발사는 알리지도 않은 채 “북방한계선은 어떤 일이 있더라도 지켜내야 할 선”이라는 남한 신임 합동참모본부의장(이하 합참의장) 김태영 장군의 3월 26일 국회 발언에 거부 반응을 보이며, 북한중앙통신 명의의 성명을 발표하였다. 북한중앙통신은 NLL을 “유령선”으로 지칭하고, 남조선군 전투함정이 “북측 영해”를 침범했다고 혐의를 제기하며, 만일 그와 같은 행동을 반복할 시, 무력 충돌을 경고하였다. 김태영 남한 합참의장은 북한의 혐의 제기를 일축하며, “남한은 결코 NLL을 침범한 적이 없다”고 말하였다.
+
+  * 3월 29일 남북 장성급 군사회담 <wrap hi>북측 대표단장인 김영철 중장이 남측 수석 대표에게 통지문을 보냈다.</wrap> 동 통지문에서 만일 북한이 대남 핵 공격을 준비한다고 판단된다면 한국 정부는 관련 시설을 '선제 타격'하겠다는 김태영 합참의장의 3월 26일 국회 청문회 발언을 비난하였다. 동 통지문에서 세 가지를 지적하였다: 남측의 사소한 '선제타격' 움직임에 대해서도 “더 위력한” 대응을 할 것이다; 김태영이 발언을 취소하고 사과해야 한다; 사과하지 않을 경우, 북한은 “군부 인물들을 포함한 남측 당국자들의 군사분계선 통과를 전면 차단하는 단호한 조치를 취하게 될 것”이다.
+<WRAP center round info 90%>//**北 "김태영 '선제타격 폭언', 사과 않으면 남북관계 단절"**//…(중략) 김태영 합참의장은 26일 인사청문회에서 북한이 남한을 핵공격 할 경우 "적(북한군)이 핵(무기)을 가지고 있을 만한 장소를 확인해 타격하는 것이 제일 중요하다"고 말했으며 복수 군 관계자들도 사실상 '예방적 선제공격'을 시사하는 듯한 발언을 한 바 있다. 남북장성급군사회담 북측 대표단 단장은 이날 남측 대표단에 보낸 통지문에서 …(중략) 특히 남측이 김 합참의장의 발언을 취소.사과하지 않을 경우 "모든 북남대화와 접촉을 중단하려는 남측 당국의 입장으로 받아들일 것"이라면서 "우리 군대는 당면하여 군부인물들을 포함한 남측 당국자들의 군사분계선 통과를 전면 차단하는 단호한 조치를 취하게 될 것"이라고 밝혔다. [[http://www.vop.co.kr/A00000201114.html|北 "김태영 '선제타격 폭언', 사과 않으면 남북관계 단절"]] //민중의소리//
+
+김태영의 '핵공격시 선제 공격' 발언 이후 남북 관계는 [[http://www.vop.co.kr/A00000201044.html|개성 당국자 철수사태 이어 미사일 발사까지..北강력 경고]] 사태로 이어지고, 급기야 '금강산 피격 사건' 미스테리로 치닫는다. "모든 북남대화와 접촉을 중단하려는 남측 당국의 입장을 받아들일 것"이라는 북한의 발언은 허언이 아니었다. 약 3개월 후 고의적으로 '금강산 피살 사건'을 일으켜 응징했다고 보면 너무도 자연스럽다. 북한은 꺼낼 카드가 많다. 말은 거칠지만, 허언이 아니다. 한국의 '북한 비핵화' 주장은 겉만 번지르르한 뻥카에 불과하다. 생각이나 해봤는가?</WRAP>
+3. (민감하지만 미분류) 남한은 북한에 서면 답변을 보낼지 2~3일 이내에 결정할 거라고 하면서, 김태영 합참의장의 발언은 “사과할 내용도 아니다”라고 남한 국방부 한 고위 당국자가 3월 29일 발언한 이후 북한의 발언 수위는 더욱 높아졌다. 북한은 즉각 북한중앙통신을 통해 토요일 제기한 요구 사항을 반복하며, 만일 남한이 대북 선제공격을 개시할 조짐이 보인다면 “불바다 정도가 아니라 모든 것이 잿더미로 될 것”이라고 경고를 추가하였다. 3월 31일 한국 정부는 담화문에서 북한에 대해선 긴 안목으로 대처하겠다는 공개 성명으로 상황을 재차 진정시키려고 하였다.
+===== 외교통상부와 국방부 고위 당국자는 차분 =====
+4. (기밀) 3월 31일 버시바우 대사와 함께한 회동에서, 권종락 외교통상부 제1차관은 북한 당국자들에 대해 전 정부의 응석을 받다가 이제 새 학기를 맞아 변해야 하는 1학년생에 비유했다. 북한이 새 정부에 적응해야 하므로, 현재 학습 과정일 것이다. 최근 북한의 성명은 “우릴 겁주고 우리의 의지력을 시험하려는” 취지이지만, 북한 지역 내 경제 발전에 대한 한국의 우려로 말미암아 북한 핵 우려를 불식시킬 거라는 북한의 바람에도, 한국 정부의 비핵화 필요성에 대한 강조는 흔들림이 없을 것이다.
+
+5. (기밀) 권종락은 변화된 국제 정세를 언급하면서 북한은 “탈출구”가 없는 까닭은 중국이 6자 회담에 활발히 참여하고, 일본도 미국이나 한국처럼 확고부동하기 때문이다. 그러므로 핵심은 북한이 반항적이고, 도발적인 기조를 유지함으로써 오래도록 “스스로 고립시키지”는 않을 거라는 것이 권종락의 생각이다. 그는 북한의 도발적인 언사가 4월 9일 총선에 영향을 끼칠 거라고 보지 않는다.
+
+6. (기밀) 남한 정부는 북한을 자극하길 원하지 않지만, 북한은 상황이 변했음을 알아야 한다고 권종락은 말하였다. 북한의 언사와 행위는 일부 남한 민중을 긴장토록 했지만, 그런 도발에 직면했을 때에도 남한은 지속해서 “평화를 염두”에 두고 있다. 북한은 식량과 비료가 필요함을 알고 있으면서도, (권종락에 의하면 15만 톤의 옥수수 원조를 제안한) 미국이나 중국이 손을 내밀 거라는 기대로 말미암아 한국 정부에 지원 요청을 늦추는 게 가능해진다. 권종락은 북한이 인도적 지원을 요구하면 남한 정부는 대화할 용의가 있음을 북한에 전달했다고 말하였다.
+
+7. (기밀) 권종락은 그 밖에도 북한의 언사와 행동을 목격했지만, 3월 27~28일 판문점에서 열린 경제에너지 협력 남북 실무그룹 회담은 아무 문제 없이 진행되었다며, 그 이유는 북한이 남한의 에너지 지원이 절실하다는 점을 알고 있기 때문이라고 지적하였다. (주석: 외교통상부 김건 북핵협상과장 역시 3월 27~28일 회담은 사고 없이 직업 전문가답게 진행됐다고 3월 31일 우리에게 말하였다. 주석 끝.)
+
+8. (기밀) 통일부 차관보 박찬봉은((번역 주: 통일부 정책심의관(2006년), 통일부 상근회담대표(2008년) 한나라당 정책위원회 수석전문위원 출신, 민주평화통일자문회의(민주평통) 사무처장(차관급) (2013,6월 13일), 미 대사관 접선책)) 북한의 심한 언사는 오래가지는 않을 거라며, 그 이유는 남한 경제 원조에 북한이 의지할 수밖에 없다는 기본적인 사실을 인식하기 때문이라고 3월 31일 정치 공사 참사관에게 개별 회동에서 말하였다. 그런 까닭에 북한이 개성공단에서 신중을 기해 남한 민간 업체나 근로자는 그냥 나 두고, 남한 당국자만을 추방했다.
+
+9. (기밀) 권종락과는 다르게, 박찬봉은 남한 당국자들이 신중해야 한다는 주문이다. 합참의장 김태영의 선제공격발언은 “너무 노골적”이라 북한의 반발을 자극하게 되어 있다는 설명이다. 김태영은 국회에서 좀 요령 있게 답변했어야 했다.
+
+10. (기밀) 박찬봉은 앞으로 머지않아 상황이 개선될 것으로 보는 까닭은 남북 어느 쪽도 긴장 조성을 원하지 않기 때문이다. 그러나 구조적인 문제는 남아 있는데, 이명박 정부는 북한이 비핵화에 진전이 없는 한 남한은 남북 대화를 재개할 수 없다고 분명히 했기 때문이라고 박찬봉은 주장하였다. 남북 회담 현안과 관련해 현시점에서 고위급 회담은 계획된 게 없으며, 한국 정부가 행동에 나서도록 북한이 자청해 남북 회담을 요청해야 할 거라고 권종락은 버시바우 대사에게 말하였다.
+===== 논평 =====
+11. (기밀) 외교통상부 제1차관 권종락의 지나친 열정을 차치하더라도 남한정부 누구도 북한과의 긴장이 고조되길 원하지 않는다. 우리 추측이지만 합참의장 김태영 장군과 통일부 장관 김하중의 발언은 북한정부의 강한 반발을 야기했지만 대게 우연한 사고다. 북한 사람들이 미증유의 길로 방향을 꺾는다는 의미는 아니다. 단순하게 말해 한국 당국자들은 북한 관련 “만에 하나”란 가정에 대해 답하기가 녹록지 않다. 그러나 대사관 접선책의 말하는 남북 대화의 구조적 걸림돌로 말미암아 비핵화의 진전이 없다는 지적은 분명히 옳다. 그러므로 이명박 정부의 “상호주의” 정책이 시험에 들기까지는 아마도 단지 시간문제다. 그 시험이 이번에 단지 말 뿐이었다. 우린 쌍방 어느 쪽도 현재 상황을 더욱 악화시키진 않을 것으로 본다. 그러나 남한 정부가 상술한 구조적인 문제로 한층 심각한 대결 국면에 봉착하기까지는 아마도 단지 시간문제다. 북한의 핵 신고와 관련 답보 상태가 계속된다면 특히 그렇다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul636|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.vop.co.kr/A00000201114.html|北 "김태영 '선제타격 폭언', 사과 않으면 남북관계 단절"]]  //민중의소리//
+  - [[http://webcache.googleusercontent.com/search?q=cache:sSwY1iegcNsJ:blog.daum.net/_blog/hdn/ArticleContentsView.do%3Fblogid%3D0ANqy%26articleno%3D14978195%26looping%3D0%26longOpen%3D&hl=en&strip=1|北 "선제타격땐 모든게 잿더미 될것"]] //매일경제//
+===== 원본 내려받기 =====
+<file rtf 08SEOUL636.rtf>
+C O N F I D E N T I A L SEOUL 000636 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/19/2017 
+TAGS: KS [Korea (South)], KN [Korea (North)], PGOV [Internal Governmental Affairs], PREL [External Political Relations] 
+SUBJECT: ROKG'S CALM RESPONSE TO DPRK RHETORIC 
+ 
+REF: A. SEOUL 616 
+ 
+     B. SEOUL 623 
+ 
+Classified By: Ambassador Alexander Vershbow. Reasons 1.4(b/d) 
+ 
+¶1. (C) SUMMARY:  Vice Foreign Minister Kwon Jong-rak told the 
+Ambassador on March 31 that recent DPRK rhetoric was an 
+effort to test the new government's dedication to 
+denuclearization, but that the ROKG would "respond calmly" 
+without backing down.  Assistant Minister of Unification Park 
+Chang-bong pointed to the DPRK's recognition of its economic 
+dependence on the ROK as a mitigating factor, but he noted 
+the underlying issue of denuclearization as a structural 
+problem in the South-North relationship.  Both Kwon and Park 
+expected the rhetorical battle to subside, since neither side 
+wanted it to escalate further.  END SUMMARY. 
+ 
+--------------------------------- 
+ROKG STATEMENTS -- DPRK RESPONSES 
+--------------------------------- 
+ 
+¶2. (SBU) After a month of "wait-and-see" silence following 
+President Lee Myung-bak's February 25 inauguration, the DPRK 
+expelled 11 ROKG officials from the Kaesong Industrial 
+Complex on March 27 (ref A) and test-fired short-range 
+missiles on March 28 (ref B).  More disturbing was the 
+accompanying rhetoric: 
+ 
+-- On March 28, while not acknowledging the missile firings, 
+the DPRK Naval Command issued a statement carried by KCNA on 
+March 28 that rejected March 26 comments by ROKG General Kim 
+Tae-young, the new Chairman of the Joint Chiefs of Staff 
+(JCS) at the National Assembly, that "the NLL (Northern Limit 
+Line) is a line that we have to defend."  The KCNA statement 
+referred to the NLL as a "ghost line" and accused ROK 
+warships of violating "North Korean territorial waters," 
+warning of an armed clash if such actions were repeated.  The 
+ROK JCS in turn dismissed the DPRK accusation, saying that, 
+"South Korean Naval ships have never violated the NLL." 
+ 
+-- On March 29, the North Korea's chief military negotiator 
+with the ROKG, Major General Kim Young-chul, sent a letter to 
+his ROKG counterpart.  The letter criticized JCS Chairman Kim 
+for remarks that Kim also made on March 26 at the National 
+Assembly that if the DPRK were found to be preparing a 
+nuclear attack on the South, that the ROKG would undertake 
+"strikes in advance" on relevant facilities.  The letter made 
+three points: that the DPRK would respond "more powerfully" 
+to any ROKG sign of a preemptive strike; that the ROKG should 
+retract and apologize for Kim's statement; and that, if no 
+apology were forthcoming, the DPRK would take stern measures 
+by preventing ROKG officials and military personnel from 
+crossing the Military Demarcation Line. 
+ 
+¶3. (SBU) North Korea intensified this rhetoric on March 29 
+after a senior official at the ROK Ministry of Defense (MND) 
+remarked that JCS Chairman Kim,s remark was "not something 
+we have to apologize for," adding that the ROKG would make a 
+decision within two or three days on whether to send a 
+written response to the DPRK.  Immediately, the DPRK, through 
+a KCNA editorial, reiterated Saturday,s demands, adding a 
+warning that it would retaliate if South Korea showed any 
+sign of initiating a preemptive strike against the North, 
+"burning everything to ashes."  The ROKG again tried to calm 
+the situation with a public comment on March 31 that it was 
+taking a long view toward North Korea. 
+ 
+----------------------------------- 
+SENIOR MOFAT AND MOU OFFICIALS CALM 
+----------------------------------- 
+ 
+¶4. (C) In a March 31 meeting with the Ambassador, Ministry of 
+Foreign Affairs and Trade Vice Foreign Minister Kwon Jong-rak 
+likened North Korean authorities to new first grade students 
+who had to make the change from being coddled by the previous 
+ROK administrations.  There would now be a learning process, 
+since the DPRK had to adjust to the new environment.  The 
+recent DPRK statements were meant to "intimidate us and test 
+our will," but the ROKG would not be swayed from its emphasis 
+on the need for denuclearization, even though the DPRK hoped 
+that ROKG concern for economic progress in the North would 
+trump that concern. 
+ 
+¶5. (C) Commenting on the changed international environment, 
+Kwon said that the DPRK had "no escape route," because China 
+was now active in the Six-Party Talks process, and Japan, 
+like the U.S. and ROK, remained firm.  Hence, Kwon reasoned, 
+the bottom line was that the DPRK would not "isolate itself" 
+for long by maintaining its defiant, provocative stance. He 
+did not see a likelihood of the DPRK's provocative rhetoric 
+affecting the April 9 National Assembly elections. 
+ 
+¶6. (C) The ROKG did not want to provoke the DPRK, but the 
+DPRK needed to know that the situation had changed, Kwon 
+said.  The DPRK's rhetoric and actions caused some South 
+Koreans to be nervous, but even in the face of such 
+provocations, the ROK maintained "peace in our minds."  The 
+DPRK knew that it needed food and fertilizer assistance, but 
+it could be holding back from asking the ROKG for assistance 
+out of hope that either the USG or China (which Kwon said was 
+proposing 150,000 metric tons of maize assistance) would move 
+first.  Kwon said that the ROKG had previously conveyed to 
+the DPRK (nfi) that if the DPRK were to request humanitarian 
+assistance, the ROKG would be willing to talk. 
+ 
+¶7. (C) Kwon noted that ROKG-DPRK Energy and Economy 
+Cooperation Working Group talks had proceeded without a 
+problem in Panmunjom on March 27-28, despite the rhetoric and 
+actions seen elsewhere, because the DPRK soberly recognized 
+that it needed ROKG energy assistance.  (Note: MOFAT Nuclear 
+Negotiation Division Director Kim Gunn also told us on March 
+31 that the March 27-28 talks proceeded professionally 
+without incident.  End Note.) 
+ 
+¶8. (C) Separately, Assistant Minister of Unification Park 
+Chan-bong told Pol M/C on March 31 that he, too, saw the 
+North's harsh rhetoric as having limited duration, because 
+the North recognized the fundamental fact of its dependence 
+on South Korean economic assistance.  That was why the North 
+Koreans had carefully expelled only South Korean officials 
+from the KIC, but did nothing to ROK private companies and 
+workers there. 
+ 
+¶9. (C) Unlike Kwon, Park suggested that ROK officials should 
+react more carefully.  JCS Chairman Kim's remarks about an 
+advance strike were "too frank," and bound to provoke a 
+reaction from the DPRK.  Kim could have answered the 
+questions in National Assembly a lot more tactfully. 
+ 
+¶10. (C) Looking ahead, Park saw the situation improving soon 
+since neither the ROK nor DPRK were interested in escalating 
+the tensions.  However, Park argued, there remained a 
+structural problem, which was that the Lee administration had 
+said clearly that as long as the DPRK made no progress in 
+denuclearization, the ROK could not re-engage in South-North 
+dialogue.  On the issue of South-North meetings, Kwon told 
+the Ambassador that no high-level meetings were currently 
+planned, and that the DPRK would have to request such 
+meetings for the ROKG to act. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶11. (C) Leaving aside Vice Foreign Minister Kwon's excess 
+zeal, nobody in the ROKG wants an escalation in tensions with 
+North Korea.  Our guess is that the remarks by JCS General 
+Kim and MOU Minister Kim that triggered the sharp reaction 
+from Pyongyang were mostly accidental.  They did not mean to 
+veer off into the unknown.  Simply put, they are not used to 
+answering "what if" questions on North Korea.  Still, our 
+contacts are clearly right in pointing out the structural 
+impediment in the North-South dialogue: the lack of progress 
+in denuclearization.  It was, therefore, a matter of time 
+before the Lee administration's "reciprocity" policy was 
+tested.  This time, the test involved words only.  We don't 
+expect either side to further aggravate the situation now. 
+However, it is probably only a matter to time before the ROKG 
+is confronted more seriously over this structural issue in 
+the relationship, particularly if the deadlock over the 
+nuclear declaration continues. 
+VERSHBOW
+</file>

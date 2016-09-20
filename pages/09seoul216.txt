@@ -1,0 +1,66 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL216  |  2009-02-10 08:36  |  비밀/외국전파금지  |  주한미국대사관  |  {{tag>PINS PREL KS KN JA }}  |
+====== 제 목:정보 유출에 대한 외교문서 한국 정부에 전달 ======
+비 밀 SEOUL 000216 
+외국전파금지((번역 주: NOFORN ,no foreign dissemination allowed)) 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+행정명령 12958: 비밀해제: 02/10/2019 
+태그: PINS(([National Security])), PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)])), JA(([Japan; Okinawa; Ryukyu Islands]))
+제 목:정보 유출에 대한 외교문서 한국 정부에 전달
+참조:  SECSTATE 11328 
+참조하는 전문: [[09seoul222|09SEOUL222]]
+분류자: 공관차석((번역 주: 부대사, 혹은 차석대사 등으로 불리지만 주한미국대사관 사이트에서는 공관차석이란 공식용어를 사용한다.)) 빌 스탠튼 근거 1.4 (a,b,c,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/01/05 11:43//
+===== =====
+
+----
+
+1. (비밀/외국전파금지) 2월 9일에 공관차석은 참조전문 외교문서를 이용준 외교통상부 차관보에게 전해 주면서, 최근 인공위성사진을 바탕으로 그려진 북한 미사일사업에 대한 정보를 한국정부가 유출한 것에((번역 주: 지난 2009년 2월 3일 북한 대포동미사일의 이동을 촬영한 위성사진이 일본언론 산케이신문 등에 유출[[http://www.dailynk.com/korean/read.php?cataId=nk00100&num=67072|“대포동 2호 미사일 발사 움직임 포착”]] //데일리NK//)) 대해 미합중국 정부의 강한 우려를 전달하였다. 특히 한국정부가 미국 기밀정보를 누설한 경우가 이번이 처음이 아니므로 특히 그렇다. 공관차석은 일본에서 유출이 있었다고 한국 내의 유출을 정당화시킬 수 없음을 강조하였다.((번역 주: [[http://news.donga.com/3/all/20090203/8691411/1|北, 대포동2호 미사일 발사움직임]] //동아일보//))
+
+2. (비밀/외국전파금지) 정보 유출이 발생했던 일본과 한국의 신문기사들을 비교할 기회가 없었던 이 차관보는 미국정부의 우려 표명은 타당하며 필요하다고 말했다. 이번 정보유출의 출처가 국방부 내부라고 이 차관보는 의심을 표하면서, 미국정부가 다른 한국정부 기관에도 미국의 우려를 전달했는지 물었다. 공관차석은 전달했다고 했고, 한국정부는 정보에 관한 언론의 질문에 //“우리는 그런 문제에 대해서 논평하지 않는다.”//라는 미국정부의 현재 응답방식을 한국정부가 채택해야 한다고 덧붙였다. 이 차관보는 미국정부의 우려를 충분히 이해한다며, 자신이 강력한 외교문서를 받은 것에 감사하게 생각하는 이유는 외교통상부가 다른 한국의 기관들에 문제의 심각성을 이해시키는데 유용할 것이기 때문이라고 재차 언급하였다. 이 차관보는 이 문제를 해결하기 위해 취한 조처들을 공관차석에게 공지할 것을 약속했다.
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/13/09seoul216|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://news.donga.com/3/all/20090203/8691411/1|北, 대포동2호 미사일 발사움직임]] //동아일보//
+  - [[http://www.dailynk.com/korean/read.php?cataId=nk00100&num=67072|“대포동 2호 미사일 발사 움직임 포착”]] //데일리NK//
+  - [[http://shindonga.donga.com/docs/magazine/shin/2004/06/30/200406300500011/200406300500011_1.html|위성사진으로 분석한 2004년 5월 중순 대포동 미사일기지]] //신동아//
+
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL216.rtf>
+S E C R E T SEOUL 000216 
+ 
+NOFORN 
+SIPDIS 
+ 
+E.O. 12958: DECL: 02/10/2019 
+TAGS: PINS PREL KS KN JA
+SUBJECT: ROKG DEMARCHED ABOUT INTELLIGENCE LEAKS 
+ 
+REF: SECSTATE 11328 
+ 
+Classified By: DCM Bill Stanton for reasons 1.4 (a,b,c,d). 
+ 
+¶1.  (S/NF)  On February 9, the DCM delivered reftel demarche 
+to Deputy Foreign Minister Lee Yong-joon, conveying strong 
+USG concern about recent ROKG leaks of intelligence drawn 
+from satellite imagery of the North Korean missile program, 
+especially because this was not the first time the ROKG had 
+divulged classified U.S. information.  The DCM emphasized 
+that any leaks in Japan did not justify leaks in the ROK. 
+ 
+¶2.  (S/NF)  Lee, who had not had the chance to compare the 
+Japanese and Korean newspaper articles in which the leaks had 
+occurred, said the USG's expression of concern was warranted 
+and necessary.  Expressing his suspicion that the leak had 
+originated within the Ministry of National Defense, Lee asked 
+if the USG had also conveyed its concerns to other ROKG 
+agencies.  The DCM said we had, adding that the ROKG should 
+adopt the USG's response to press questions regarding 
+intelligence, which remained, "We don't comment on such 
+matters."  Lee reiterated that he fully understood USG 
+concerns and that he appreciated receiving the strong 
+demarche because it would be useful to MOFAT in getting the 
+message out to other ROKG agencies.  Lee also promised to 
+inform the DCM of steps taken to address this issue. 
+STEPHENS
+</file>

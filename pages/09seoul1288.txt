@@ -1,0 +1,151 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  [[https://www.wikileaks.org/plusd/cables/09SEOUL1288_a.html|09SEOUL1288]]  |  2009-08-13 08:47  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PREL KS KN }}  |
+====== 제 목: 대북전문가 이명박의 대북 정책에 대해 불만; 북한의 권력 승계자는 불투명 ======
+기 밀 SEOUL 001288 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+ 
+행정명령 12958: 비밀해제: 08/13/2019 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: (인수위 출신) 대북전문가 이명박의 대북 정책에 대해 불만; 북한의 권력 승계자는 불투명
+분류자: 정치 공사 참사관 제임스 웨이만((POL M/C James L. Wayman)).   근거 1.4(b/d)
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/27 14:15//
+최종 수정일:  --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/11/16 12:54//
+===== 요약 =====
+
+1. (기밀) 요약: 8월 10일 대사관 정무 직원은 이명박과 가까운 두 명의 북한 전문가와 회동하였다. 그들은 그 자리에서 이명박의 대북 정책에 대해 신랄하게 비판적이었다. 그들은 또 김정은이 그의 부친을 대신해 북한의 지도자로 권력을 승계할지는 아직 불투명하다는 점에 견해를 같이했다. 그들은 김정운(당시 표기 그대로)이 클린턴 전 대통령의 평양 방문을 총지휘했다는 언론 보도에 대해 일축하는 모습이다. 요약 끝.
+
+2. (기밀) 논평: 이명박 정부와 가까운 두 보수 학자가 이명박의 대북 정책에 대해 아주 비판적이란 점은 충격적이다. 아마도 이명박 정부의 접근 방식에 대해 좌절감이 확대되고 있음을 반영한다고 하겠다. 8월 13일 한국 시민 유씨가 북한의 구속 상태에서 풀려난 일을 계기로 더 유연한 대북 정책에 대한 국민적 요구가 증가할 듯하지만, 이명박이 (대북 정책의) 방향을 틀려는 의지가 있을지는 불분명하다. 논평 끝.
+===== 권력 승계는 여전히 미정 =====
+
+3. (기밀) 8월 10일 대사관 정무 직원은 북한 지도부 승계에 관한 의견을 구하러 저명한 북한 전문가인 류길재와 유호열 교수를 면담하였다. 류길재는 북한대학원대학교 교수로 극동문제연구소의 연구교수를 역임했다. <wrap hi>그는 김정운이 클린턴 방북에 개입했다는 한국의 언론 보도를 여지없이 일축하며 그런 루머는 “하나의 이론”일 뿐이라고 말하였다. 북한 당국자가 김정일에 대해 거론한 적도 없고</wrap> 김정일이 김정운을 후계자로 공식 내정하지도 않았다고 지적하며 권력 승계 문제는 여전히 불확실하다고 류길재는 말했다. 류길재에게 북한의 미래와 관련해 더 중요한 질문은 (후계자가) 누구냐가 아니라 북한의 미래가 어떤 모습이 되느냐이다.<WRAP center round info 90%>//**연합뉴스 소설의 주인공은 김정은이 아닌 김정운**//
+북한의 국가안전보위부가 미국 여기자 사건을 '간첩사건'으로 이름붙여 빌 클린턴 전 미국 대통령의 방북을 통한 해결을 김정일 국방위원장의 후계자로 내정된 셋째 아들 정운의 업적으로 찬양하고 있다고 한 대북 소식통이 9일 전했다. 최근 국가안전보위는 내부 강연회에서 이번 여기자 사건에 대해 "김정운 대장의 지략으로 클린턴 전 미국 대통령이 태평양을 건너와 장군님(김정일)에게 사죄했다"며 "이는 모두 김정운 대장의 비범한 예지와 탁월한 전술에 의해 마련된 것"이라는 내용의 강연회를 가진 것으로 알려져 이번 사건을 김정운의 치적이라고 선전하는 활동이 북한 사회 전반으로 퍼져나갈 것으로 보인다. [[http://www.yonhapnews.co.kr/politics/2009/08/08/0505000000AKR20090808057800014.HTML|北보위부, 여기자사건 "김정운 업적" 선전]] //연합뉴스// (역주: 상술한 기사에서 국가안전보위부 관계자의 발언을 "인용"했다는 내용에서 눈여겨볼 만한 부분은 "김정은"을 "김정운"이라고 지칭한 점이다. 당시 남한 언론은 모두 "김정은"이란 이름을 "김정운"으로 잘 못 알고 있었다. 그런데 우리로 치면 국정원에 해당하는 북한의 국가안전보위부가 "지도자 동지"의 이름도 잘 못 발음했다?고 하면 아마도 장택상 꼴 났을 것이다. 여기 등장하는 류길재(나중에 박근혜 정부 통일부 장관 역임)와 유호열 교수가 터무니없는 연합뉴스 소설 기사(상술)에 대해 바로 잡는 내용이 본 전문에서 비중있게 다뤄지고 있다. [[http://www.mediatoday.co.kr/news/articleView.html?idxno=122168|연합뉴스에 들어간 혈세 4300억원, 잘 쓰고 있습니까]] //미디어오늘//)
+</WRAP>
+
+4. (기밀) 유호열 고려대학교 교수도 유사하게 북한의 승계 과정이 불확실하다고 보면서 김정운에겐 지금이 결정적인 시기라고 덧붙였다. <wrap hi>유호열은 김정운이란 이름이 거론된 적이 없다는 것은 사실</wrap>이지만, 애매하게 “청년 대장”으로 지칭하는 것으로 보아 김정은의 “수험 기간”이 이어지고 있다고 풀이하였다. 김정운은 김정일을 계승할만한 다수의 잠재 후보군 중의 한 명으로 아직도 김정일과 다른 고위 지도자들의 테스트를 받고 있다. 유호열은 1994년 김정일의 권력 승계 직전의 70일 전투와 현재의 150일 전투 사이 유사점을 인정하였지만, “확실한 건 아무것도 없다”고 주장하였다. 클린턴의 방북을 김정운 지도력의 잠재성을 보여줄 하나의 본보기로 삼을 수 있지만, 두 학자 모두 이번 일의 배후는 아마도 다른 누구도 아닌 김정일 본인일 거라는 데 견해를 같이하였다.
+
+5. (기밀) 두 학자는 북한 당국자들이 권력 승계 문제와는 다르게 “강성대국”의 원년인 2012년의 중요성을 공개적으로 거듭 강조하고 있다고 지적하였다. 북한이 이러한 목표를 향해 어떤 행보에 나설지 지켜보는 것이 중요할 거라고 류길재는 말하였다. 그는 아울러 김정은이 실제 권력 승계자로 정해졌다면 2012년과 연계해 김정운의 권력 승계 발표가 이뤄질 거라고 예견하였다.
+===== 김정운은 북한에 좋지 않아 =====
+
+6. (기밀) 만약 김정운이 실제 김정일의 승계자로 지명된다면 김씨 정권에는 좋은 뉴스겠지만, 북한에는 좋지 않다고 유호열은 말한다. 김정운이 외국 경험과 서양식 교육을 받긴 했지만, 김정운 아래에서는 어떤 변화를 기대할 수 없다. 유호열은 김정은 치하의 북한은 실질적인 개혁에 대한 고려가 없는 김정일 시대로의 역행이 계속될 것으로 예견하였다. 또 한 차례의 세습은 북한의 번영 증대가 아니라 김씨 일가를 위한 체제 안정이 다른 무엇보다도 우선한다는 것을 입증해 준다.
+
+===== 보수 학자들마저 이명박의 정책에 대해 불만 =====
+
+7. (기밀) 류길재는 이명박 인수위원회에서 북한 문제 참모를 맡았지만, 이명박의 대북 강경 기조에 대해 우려를 표명하였다. 북한 전문가들이 정책 입안 과정에서 배제되면서 이 대통령이 북한 문제에 관한 “전권을 행사”할 수 있게 되었다고 류길재는 말한다. 류길재는 최근 경험한 사례를 거론하며 대북 쌀·비료 원조의 갑작스러운 중단은 이명박 정부 초기 대북 원조를 전혀 제공하지 않았던 것보다 더 문제라고 생각했다.
+
+8. (기밀) 유호열도 남한에서 북한 정책의 "탈정치화"를 주장하며 이명박 정부의 대북 정책에 대해서 (류길재와) 마찬가지로 불만스러워 했다. 유호열은 가까운 장래에 여야 정치권에 속한 모든 학자 사이 대화가 촉진되길 희망하였다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/seoul17/09seoul1288|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 어두운 세상을 밝히려면 후원자의 소중한 손길이 절실합니다 =====
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}
+===== 바깥 고리 =====
+  - [[http://www.yonhapnews.co.kr/politics/2009/08/08/0505000000AKR20090808057800014.HTML|<北보위부, 여기자사건 "김정운 업적" 선전>]] //연합뉴스//
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001835399|류길재, '안보관' 센 통일부 장관 되나?]]  //오마이뉴스//
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL1288.rtf>
+C O N F I D E N T I A L SEOUL 001288 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 08/13/2019 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: EXPERTS FRUSTRATED WITH LEE'S NORTH KOREA POLICY; 
+DPRK SUCCESSION UNCLEAR 
+ 
+Classified By: POL M/C James L. Wayman.  Reasons 1.4(b/d) 
+ 
+¶1.  (C) Summary:  In August 10 meetings with poloff, two 
+leading experts, each of whom is close to the Lee Myung-bak 
+Administration, were sharply critical of Lee's North Korea 
+policy.  They also agreed that the succession of Kim Jong-un 
+to his father's place as leader of North Korea is not yet 
+clear and were dismissive of media reports that Kim Jong-un 
+had orchestrated the DPRK's role in former President 
+Clinton's visit to Pyongyang.  End Summary. 
+ 
+¶2.  (C) Comment:  It is striking that two conservative 
+academics, each of whom is close to the Administration, would 
+be so critical of Lee's North Korea policy, and probably 
+reflects broader frustration with his approach.  The release 
+of ROK citizen Mr. Yoo from DPRK custody on August 13 is 
+likely to increase public demands for a more flexible policy 
+toward North Korea, but it is unclear if Lee is willing to 
+consider a change of course.  End Comment. 
+ 
+------------------------------ 
+Succession Still Up in the Air 
+------------------------------ 
+ 
+¶3.  (C) On August 10, poloff met with Professors Ryoo 
+Kihl-jae and Yoo Ho-ryul, prominent experts on the DPRK, to 
+solicit their views on the DPRK leadership succession.  Ryoo, 
+a faculty member at the University of North Korean Studies 
+and Institute for Far Eastern Studies, quickly dismissed ROK 
+media reports of Kim Jong-un's involvement in the Clinton 
+visit, stating that such a rumor is "just a theory." 
+Pointing out that Kim Jong-un had neither been mentioned by 
+DPRK authorities nor officially nominated by KJI; Ryoo stated 
+that the succession issue was still not certain.  For Ryoo, a 
+more important question regarding the future of North Korea 
+was not who, but what the future of North Korea would look 
+like. 
+ 
+¶4.  (C) Similarly, Yoo Ho-yeol of Korea University viewed the 
+DPRK succession as uncertain, adding that now was a critical 
+time for Kim Jong-un.  Yoo interpreted the fact that Kim 
+Jong-un has not been mentioned by name, but vaguely referred 
+to as the "young general," as a continuation of Kim Jong-un's 
+"trial period."  He is still being tested by KJI and other 
+senior leaders as one among many potential candidates to 
+succeed KJI.  Yoo acknowledged similarities between the 
+current 150-day march and the 70-day march in 1994 prior to 
+KJI's succession, but argued "nothing was certain."  The 
+Clinton visit would be an exemplary showcase for Kim 
+Jong-un's leadership potential, but both academics agreed 
+that the mastermind behind the scene was probably KJI 
+himself, not anyone else. 
+ 
+¶5.  (C) Both scholars pointed out that unlike the succession 
+issue, North Korean authorities have repeatedly and publicly 
+emphasized the importance of the year 2012, the target date 
+for the DPRK to become a "strong and prosperous nation." 
+Ryoo said it would be important to watch what steps North 
+Korea would take toward this goal, and predicted if Kim 
+Jong-un is indeed the designated successor, a formal 
+announcement of his succession would be related to 2012. 
+ 
+------------------------ 
+Kim Jong-un Bad for DPRK 
+------------------------ 
+ 
+¶6.  (C) If Kim Jong-un was in fact named as KJI's successor; 
+it would be good news for the Kim regime, but not for the 
+DPRK, according to Yoo.  No change could be expected under 
+Kim Jong-un, despite his overseas experience and western 
+education.  Yoo predicted North Korea under Kim Jong-un would 
+continue the backward ways of his father's time, with no 
+consideration for realistic reform.  Another hereditary 
+succession would prove that regime stability stands above all 
+else for the Kim family, not a more prosperous North Korea. 
+ 
+--------------------------------------------- -------- 
+Even Conservative Scholars Frustrated with LMB Policy 
+--------------------------------------------- -------- 
+ 
+¶7.  (C) Ryoo served as an advisor on North Korea to the Lee 
+Myung-bak presidential transition team, but expressed 
+concerns with Lee's hard line approach to North Korea. 
+According to Ryoo, North Korea experts had been shut out of 
+the policy-making process, allowing President Lee "to do 
+whatever" on North Korea.  Drawing from recent examples, Ryoo 
+thought abrupt discontinuation of rice and fertilizer aid to 
+North Korea was worse than not providing any aid from the 
+ 
+beginning of the Lee administration. 
+ 
+¶8.  (C) Yoo was equally discontent with the Lee 
+administration's handling of North Korea policy, arguing for 
+the "depoliticization" of North Korea policy in South Korea. 
+Yoo hoped to facilitate dialogue in the near future between 
+scholars on both ends of the political spectrum. 
+STEPHENS
+</file>

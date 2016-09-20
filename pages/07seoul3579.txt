@@ -1,0 +1,251 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL3579  |  2007-12-20 07:01  |  기밀(3급) |  주한 미국 대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: ‘노무현과는 정반대’ 이명박 당선을 결정 ======
+기 밀 SEOUL 003579 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 12/10/2014 
+태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+제 목: //‘노무현과는 정반대’// 이명박 당선을 결정
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/04/17 05:47//
+===== 요점 =====
+1. (기밀) 요점: 한나라당 이명박 후보는 12월 19일 대선에서 압도적인 승리를 거뒀다. 10명의 후보군이 겨룬 대선에서 49% 득표율로 승리를 거뒀고, 전라도 지역을 제외한 모든 지역을 휩쓸었다. 이명박이 승리를 휩쓸었던 이유로 전문가 사이 드러나는 강한 공감대는 아래와 같은 요인들이다:
+  * 유권자들 사이에서 "노무현과는 정반대" 분위기 혹은 노무현 대통령은 변화에 대한 열망에 부응하지 못한 실패한 대통령이라는 거의 만장일치의 평가.
+
+  * 다양한 이념적 스펙트럼에 걸쳐 경제를 살릴 수 있는 대통령이라는 인식이 광범위하게 퍼져 있었던 점이 너무 컸다.
+
+  * 2007년 내내 50%대의 일관된 지지율에서 나타나는 한나라당의 결집 능력, 그에 반해 열린우리당과 그 후속 정당인 대통합민주신당이 간신히 두자릿수 지지율을 돌파하는 데 그친 점. 요약 끝.
+===== 노무현과는 정반대 =====
+2. (기밀) 노무현이 실패한 대통령이라는 압도적인 정서 때문인지 유권자들은 무언가 다른 것을 원했고 이명박이 진정 노무현과는 정반대였다. 이명박이나 노무현 모두 가난하게 성장했고 말실수하는 성향으로 공히 유명하지만, 비교는 거기서 끝난다. 대통합민주신당 후보인 정동영은 노무현 정부에서 통일부 장관을 지낸 바 있어 노무현과의 연관성을 피해갈 수 없었으며, 정동영 정부가 노무현의 임기와는 크게 다를 거라고 유권자를 설득하는 데 실패했다. 주요 정치 분석가인 박성민은 이명박의 승리는 단지 경제 때문만이 아니라, “국민이 변화를 원했기 때문으로―국민들은 지난 10년과는 다른 무언가가 필요하다고 확신이 있었다”고 대사관 정무 직원에게 12월 18일 말했다. 12월 12일 리얼미터 여론조사는 노무현의 국정운영 전반에 대해 63%가 불승인했으며, 단 24%만이 노무현을 승인했다.
+
+3. (기밀) 한나라당 보수 후보 이명박은 중도적 공약을 내세우고, 유권자들에게 경제를 되살리겠다고 보장함으로써 승리를 담보하였다. 그는 더욱 시장이 추동하는 관리방식을 정부나 심지어 외교정책에 도입하겠다고 했지만, 가장 중요하게는 그가 노무현보다 더 나을 거라고 강조하였다. 이명박은 그의 경력 대부분을 건설 부문에서 보냈으며, 노무현은 시민권을 방어하며 보낸 지도자였다; 이명박은 이런 경험과 경영 방식의 차이점으로 인해 다른 정부가 나올 거라고 유권자들을 설득하였다.
+===== 문제는 경제 =====
+4. (기밀) 한국 경제는 노무현의 임기 동안에(2003~2008) 거의 5%대 성장을 했지만, 한국인 대부분은 노무현이 취임할 당시보다 지금 경제 상황이 나빠졌다고 느낀다. 11월 19일 경향신문 여론조사에서 33.9%의 응답자는 노무현 정부 임기 동안 생활 수준이 더 나빠졌다고 말했고, 57%는 실제 변화가 없었다고 말했고, 단지 8.5%만이 생활 수준이 나아졌다고 말했다. <wrap hi>심지어 2002년 노무현에게 투표했던 응답자 중에서도 25.3%가 자신의 생활 수준이 악화하였다고 느꼈다.</wrap> 경제에 대한 실망감이 지배적인 가운데, 이명박이 그런 정서를 효과적으로 이용했다.<WRAP center round help 80%>//** 버시바우 대사의 여론조사 침소봉대?**// 경향 신문의 11월 19일 여론조사를 실은 기사를 살펴보았지만, "노무현에게 투표했던 응답자 중에서도 25.3%…" 부분은 찾을 수 없었다. 버시바우가 상술한 33.9%를 활용해 침소봉대한 내용 같다. 꿀 먹은 벙어리가 아니라면 버시바우 전 대사 뭐라고 해명 좀 해보소. [[https://www.evernote.com/shard/s258/sh/1cb4cbc6-1e07-4762-ac43-8498b59212fe/c0ed6f99384c88a3b284eb546c8706ac|대선 D-30 국민에게 물었습니다 -경향.KSOI 여론조사 ]] //경향신문//
+</WRAP>
+
+===== 한나라당: 자리 맥임 =====
+5. (기밀) 노무현은 새천년 민주당의 후보로 대통령에 당선되었다; 그 뒤 2004년 국회의원 선거를 앞두고 열린우리당을 창당했으며, 종국에는 1년간의 정치적 내분 이후에 열린우리당은 2007년 8월에 해산되었다. 대통합민주신당은 민간단체, 정치 지도자, “일반” 국민 간의 새로운 정치 연합체로 구성되었다. 그러나 대통합민주신당이 단순히 열린우리당이 인기가 없고, 열린우리당 후보는 12월 선거에서 승산이 없어서 만들어졌다는 폭넓은 인식이 있다. 대통합민주신당 의원들은 막판에 만들어진 “신”당이 좋은 의도도 일부 있다고는 하지만, 실제는 유권자에게 무언가 새로운 정당이라는 확신을 심어주지 못한 정치적인 책략이라고 대사관 정무 직원에게 말했다.
+
+6. (기밀) 반면에 한나라당은 해산 없이 긍정적 변화에 변화를 거듭 도입했다. 처음으로 한나라당은 일부 비정당 구성원을 포함한 20만 명 정도가 한나라당 대권 후보자로 이명박을 선택하도록 참여할 수 있어지면서 "개방형" 국민경선제를 치렸다. 23일간의 대선 선거운동 중에 세 차례 공식 토론회보다 훨씬 정책 지향적인 토론을 7~8월 경선 기간 중에 치렀다. 박근혜는 이명박에게 아슬아슬하게 패한 이후에 그녀의 패배를 겸허하게 받아들였고 대선 선거기간 내내 이명박을 지원하였다. 이점이 특히 유의미한 이유는 한나라당 소속으로 출마했던 이인제가 1997년 이회창에게 패배한 이후에 자신의 정당을 창당하면서 보수 유권자 표를 갈라놓으면서 적잖게 분 김대중의 승리로 이어졌다. 과거 한나라당은 부패 스캔들로 몸살을 앓아왔다. 박근혜는 2004~2006년 당 대표로서 당을 개혁하고, 한나라당의 이미지를 청소하는데 성공하였다.
+===== 요인이 안 된 요인 =====
+7. (기밀) 이명박을 승리로 이끈 여러 요인 만큼이나 중요한 점은 요인이 안 된 요인들이다. 2002년 핵심 역할을 담당했던 여러 요인이 이번 대선에서 영향을 미치지 못했다. 2002 당시는 외교정책, 지역주의, 도덕성이 박빙의 선거전에서 중요한 쟁점들이었다. 올해는 이런 것들이 대선 결과를 결정짓는데 유의미한 역할을 하지 못했다.
+
+8. (기밀) 이명박의 승리는 강력한 지역 기반에서 나온 지지라는 점에서 과거 대선과는 다르게 수도권 지역에서의 압도적인 지지 때문이다. 이번 선거에서 “신지역주의”가 출현했고 대선에서 큰 영향을 미쳤다. 이명박은 인기 좋은 전 서울시장으로는 처음으로 전통적으로 좌파 성향의 수도권 지역에서 승리한 첫 보수 후보이다. 몇몇 정치 관측통은 지방의 유권자들이 수도권에 있는 가족들에게 영향을 끼치는 것과는 다르게 이번엔 이명박을 압도적으로 지지한 서울 유권자가 전국의 그 밖의 지역에 있는 가족들에게 영향을 미쳤다고 대사관 정치 담당관에게 말했다. 일련의 호남 대 영남 대항전 선거전 이후에 유권자가 풍부한 수도권 권역에서 (유권자의 47%) 이명박이 우세를 점하면서 새로운 지역 패러다임이 만들어졌다.
+
+9. (기밀) <wrap hi>2002년 당시 노무현은 미군 차량에 의해 죽은 두 여중생의 죽은 불행한 사건을 이용하면서, "반미주의자면 어떤가?"라고 말했고, 그의 태도는 심금을 울려 유권자들이 노무현을 지지하는 대규모 시위로 화답하며 미국을 비난하였다.</wrap> 올해 정동영과 이명박 모두는 한미 FTA를 지지하며, 둘 다 한미 관계를 강화하겠다고 공언하였다. 한미관계에 관한 주제는 단 하나의 주제도 심각한 토론 거리가 아니다.<WRAP center round info 80%>//** 버시바우 대사는 언제부터 "반한파 소설가"가 되었나?**// 상기에 하이라이트 된 부분은 버시바우 대사의 억지 주장이다. 일단 노무현의 "반미주의자면 어떤가?"란 발언은 2002년 9월 12일 대구 영남대 강연에서 나온 발언이다. 노무현의 동 발언이 나온 맥락은 차치하더라도 두 여중생 사망 사고로 인한 반미 감정으로 시위가 불붙기 시작한 시점은 2002년 11월 30일 이후다. 두 달 보름의 시차가 있어 버시바우의 말처럼 노무현의 발언이 "유권자의 심금을 울려" 대규모 시위가 발생했다는 말은 참으로 어이없기 짝이 없는 개탄스러운 망언이다.</WRAP><WRAP center round tip 80%>//**노무현이 "반미주의자면 어떤가"란 말이 나온 맥락은?**//…(중략) 지난 11일 대구 노무현 후보의 강연회가 끝난 후 한 측근은 우려를 표명했다. 노 후보의 발언도중 나온 '반미주의자'와 관련한 한 대목이 문제였다. 이 측근은 "결코 큰 의미가 없는 말이었음에도 일부 언론에서 이를 이용하지 않을까 우려된다"고 말했다. 당시 노 후보는 과거 조선시대의 '사대주의'를 언급하고 난 후 "국회 노동위에 들어간 후 누가 '미국에 갔다 왔느냐' 묻기에 '바빠서 못 갔소'라고 했다. 나는 노동위 의원이 굳이 외국 갈 일이 뭐가 있는가 싶고, 굳이 거기서 할 일도 없을 것 같아서 안 갔다"고 말했다. 이어 문제가 된 "그런데 미국 안 가서 반미주의자냐, 또 반미주의자면 어떤가"라고 말하자 몇몇 학생들이 "옳습니다"라고 답하고 곧 청중들은 박수와 환호를 보냈다. 하지만 곧 노 후보는 "'반미주의자면 어떤가' 이건 좀 곤란합니다. 그죠? 여러분은 관계가 없는지 몰라도 대통령이 되겠다는 사람이 반미주의자라는 것은 국익의 큰 문제가 될지도 모르겠다. 말을 하다보니 그렇게 됐다"며 설명을 덧붙였다.(중략)… [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000087623|'반미주의자면 어떤가' 발언의 실상]] //오마이뉴스//
+</WRAP>
+
+
+10. (기밀) 대선 후보자들은 거의 만장일치로 북한과의 교류는 계속돼야 한다는데 견해를 같이하였다. 첫 대선 토론회에서 후보자들은 대북 정책과 접근방식에서 미묘한 차이점을 설명했지만, 어떤 것도 대수롭지는 않았다. 더욱 중요한 점은 유권자들은 대북 정책의 차이에 대해 크게 의미를 부여하진 않았는데, 그 이유는 한국인 대부분은 남북 포용 정책을 지지하고, 지속할 거라고 간주하기 때문이다.
+
+11. (기밀) 2002년 5월 갤럽 여론 조사에서 응답자들은 능력보다는 도덕성이 대통령을 선택하는 가장 중요한 기준이라는 답변이 33% 대 36.5% 차이로 나타났다. 2007년 11월 같은 여론조사는 능력이 도덕성을 제치고 가장 중요한 대통령 선택 기준이라는 답변이 63% 대 25%의 차이가 났다.
+
+12. (기밀) 2002년 당시는 과거의 선거에서처럼 젊은 유권자들이 진보 후보를 압도적으로 지지했다. 2007년에는 연령이나 성별에 바탕으로 크게 분화되는 현상이 없다; 이명박은 모든 연령대의 지지를 받은 첫 대통령이다. 강원택 교수는 어떤 특정 계층이나 성별 혹은 연령대에 공통적인 불만이 적은 점이 대통합민주신당의 정동영이 김대중이나 노무현에게 너무나 성공적이었던 전통적인 진보―보수 분할을 이용하기가 어려워졌다고 대사관 정무 직원에게 말했다.
+===== 논평 =====
+13. (기밀) 통틀어 볼 때, 이명박은 운 좋은 사람이다. 이명박은 그의 경험과 능력을 강조하면서 경제를 되살리겠다고 하는 이명박의 선거 메시지는 한국 경제의 미래를 걱정하는 유권자들의 가려운 구석을 긁어줬다. 선거 외적으로도 많은 사건이 2006년 10월 이래로 대선 선거일까지 이명박이 선두를 유지하도록 도왔다. 이명박이 그를 겨냥한 많은 혐의 중 몇 가지로 인해 선두자리를 잃을만한 위기에 처했을 때 아프간 피랍사태나 신정아 청와대 스캔들이 등장해 유권자를 현혹했고, 더 중요하게는 언론들이 현혹되어 이명박을 공격하지 못했다. 독실한 기독교 신자인 이명박은 하늘 위 누군가가 그를 돌봐주고 있다고 믿을 만한 이유가 있다.
+버시바우
+===== =====
+[[https://sites.google.com/site/poirotkr/9/07seoul3579|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000087623|'반미주의자면 어떤가' 발언의 실상]] //오마이뉴스//
+  - [[http://h21.hani.co.kr/section-021005000/2007/05/021005000200705170660027.html|왜 이명박은 박근혜를 밀어붙이나]] //한겨레21 특집//
+===== 원본 내려받기 =====
+<file rtf 07SEOUL3579.rtf>
+C O N F I D E N T I A L SEOUL 003579 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: "ANYTHING BUT ROH" CARRIES THE DAY FOR 
+PRESIDENT-ELECT LEE MYUNG-BAK 
+ 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: GNP candidate Lee Myung-bak won a landslide 
+victory in the December 19 presidential election, winning 49 
+percent of the votes in a field of ten candiates and carrying 
+all regions except Jeolla Provinces.  Among pundits a strong 
+consensus is emerging that Lee's was able to sweep to victory 
+because of the following factors: 
+ 
+-- "Anything But Roh" mood among the voters, or the 
+near-unanimous evaluation that Roh Moo-hyun had failed as 
+president and the desire for a change. 
+ 
+-- A widespread acknowledgement, across the ideological 
+spectrum, that a leader who could revive the economy was 
+paramount. 
+ 
+-- GNP's ability to stay together, shown in its approval 
+ratings, consistently 50 percent support through 2007, while 
+the Uri Party and its successor UNDP barely managed to break 
+double figure support. End Summary 
+ 
+Anything But Roh 
+---------------- 
+ 
+¶2.  (C) Because of overwhelming sentiment that Roh Moo-hyun 
+had failed as a president, voters wanted something different 
+and Lee Myung-bak is indeed, anything but Roh.  While Lee and 
+Roh both grew up poor and are both known for their penchant 
+for misstatements, the comparison ends there.  United New 
+Democratic Party (UNDP) candidate Chung Dong-young, 
+Unification Minister under Roh, could not escape his 
+association with Roh and failed to convince voters a Chung 
+presidency would be much different from Roh's term.  Leading 
+political analyst Park Song-min told poloff December 18 that 
+Lee would win, not just because of the economy, but because, 
+"people wanted a change -- they are convinced the country 
+needs something different than the last 10 years."  A 
+December 12 RealMeter poll showed 63 percent disapproved of 
+Roh's overall performance, and only 24 percent approved of 
+Roh. 
+ 
+¶3.  (C) Lee, from the conservative GNP, secured the victory 
+by touting a centrist platform and guaranteeing voters he 
+would revive the economy.  He stated he would institute more 
+market-driven management practices to the government and even 
+to foreign policy but most importantly he emphasized he would 
+be better than Roh Moo-hyun.  Lee spent most of his career in 
+construction, Roh defending civil rights leaders; Lee 
+convinced voters that this difference in experience and 
+management style would result in a different kind of 
+government. 
+ 
+It's the Economy 
+---------------- 
+ 
+¶4.  (C) While the Korean economy grew at an almost five 
+percent clip during the Roh presidency (2003-2008), most 
+Koreans felt their economic situation was worse off now than 
+it was when Roh took office.  In a November 19 Kyunghyang 
+Newspaper poll, 33.9 percent of respondents said they had 
+become worse off during the Roh administration, 57 percent 
+said there was no real change and only 8.5 percent felt they 
+were better off.  Even among respondents who voted for Roh in 
+2002, 25.3 percent felt they were worse off.  Disappointment 
+in the economy ruled and Lee Myung-bak effectively 
+capitalized on this sentiment. 
+ 
+GNP: Staying Put 
+---------------- 
+ 
+¶5.  (C) Roh Moo-hyun was elected as the candidate for the 
+Millenium Democratic Party; he then created the Uri Party 
+ahead of the 2004 parliamentary elections and eventually the 
+Uri Party dissolved in August 2007 after a year of political 
+infighting.  The UNDP was formed to create a new political 
+union between NGOs, political leaders and "common" people. 
+However, the widely held perception was the party was created 
+simply because the Uri Party was unpopular and a Uri 
+candidate would have no chance in the December election. 
+UNDP lawmakers told poloff that the last-minute creation of 
+the "new" party, while done with some good intentions, was 
+ 
+indeed a political ploy that failed to convince voters it was 
+indeed something new. 
+ 
+¶6.  (C) The GNP, meanwhile, instituted positive change after 
+change without dissolving.  For the first time, the GNP had 
+an "open" primary where about 200,000 people, including some 
+non-party members, were allowed to participate in selecting 
+Lee as the party candidate.  Substantive debates held during 
+the July-August primary were much more policy-oriented than 
+the three official debates held during the 23-day 
+presidential campaign.  Park Geun-hye, after losing narrowly 
+to Lee Myung-bak, gracefully accepted her loss and supported 
+Lee throughout the campaign.  This is particularly 
+significant since the last GNP also-ran, Rhee In-je, after 
+losing to Lee Hoi-chang in 1997, formed his own party, split 
+the conservative vote and this, in no small part, led to Kim 
+Dae-jung's victory.  In the past, the GNP has been plagued by 
+corruption scandals.  Park Geun-hye, as the Chairman of the 
+GNP from 2004-2006 succeeded in reforming the party and 
+cleaning up the GNP's image. 
+ 
+Non-Factors 
+----------- 
+ 
+¶7.  (C) Almost as important as the factors that led to Lee's 
+victory were the non-factors.  Several factors that played a 
+key role in 2002 did not influence the election this year. 
+In 2002, foreign policy, regionalism and morality were 
+important issues in a tight campaign.  This year they did not 
+play a significant role determining the outcome of the 
+election. 
+ 
+¶8.  (C) Lee's victory was due to his overwhelming support in 
+the capital region, unlike past president-elects whose 
+support emanated from a powerful regional base.  During this 
+election a "new regionalism" emerged and had an important 
+effect on the election.  Lee Myung-bak, as the popular former 
+Mayor of Seoul, was the first conservative candidate to win 
+in the traditionally left-leaning metropolitan region. 
+Several political observers told poloff that instead of 
+voters in the regions affecting their family in the capital, 
+this time Seoul voters, who overwhelmingly support Lee, 
+influenced family in the rest of the country.  After a series 
+of elections that pitted the southwest vs. the southeast, 
+Lee's dominance of the voter-rich metropolitan area (47 
+percent of the electorate) has created a new regional 
+paradigm. 
+ 
+¶9.  (C) In 2002 Roh Moo-hyun exploited the unfortunate 
+accident by a U.S. military vehicle that killed two 
+schoolgirls and said, "What if I am anti-American?"  His 
+attitude struck a chord and voters responded with mass 
+demonstrations in support of Roh and condemning the U.S. 
+This year, Chung Dong-young and Lee Myung-bak both pledged 
+support for the KORUS FTA and that they would strengthen the 
+U.S.-ROK relationship.  Nothing about the relationship was 
+even a topic for serious debate. 
+ 
+¶10.  (C) Just as unanimously, candidates agreed that 
+engagement with North Korea should continue.  In the first 
+campaign debate, the candidates explained nuanced differences 
+in policy and approach toward North Korea, but none were 
+significant.  More importantly, voters did not attach much 
+significance to the difference in policies toward the North, 
+since most Koreans support engagement and assume it will 
+continue. 
+ 
+¶11.  (C) In a May 2002 Gallup poll, respondents indicated 
+that morality was the most important criteria in selecting a 
+president, leading over ability by a 36.5-33 margin.  In 
+November 2007, the same poll showed that ability was the most 
+important, outstripping morality by a 63-25 margin. 
+ 
+¶12.  (C) In 2002 as in past elections, young voters 
+overwhelmingly supported the liberal candidate.  In 2007, 
+there was no strong division in support based on age or 
+gender; Lee Myung-bak is the first president-elect to win all 
+age categories.  Professor Kang Won-taek told poloff that the 
+lack of common grievances among any particular class, age or 
+gender made it difficult for UNDP candidatge Chung to exploit 
+the traditional liberal-conservative split that was so 
+successful for Kim Dae-jung and Roh Moo-hyun. 
+ 
+ 
+Comment 
+------- 
+ 
+¶13.  (C) All in all, Lee Myung-bak is a lucky man.  Lee's 
+campaign message emphasizing his personal experience and 
+ability to revive the economy hit all the right notes with an 
+electorate worried about its economic future.  Many outside 
+events also helped Lee maintain his lead from October 2006 
+until election day.  Each time Lee appeared in danger that 
+some of the many allegations aimed at him would cause him to 
+lose his lead, something -- whether the Afghan hostage crisis 
+or the Shin Jeong-a-Blue House scandal  -- happened to 
+distract the electorate, and more importantly, the press, 
+from attacking Lee.  A devout Christian, Lee has reasons to 
+believe that someone above was looking out for him. 
+VERSHBOW
+</file>

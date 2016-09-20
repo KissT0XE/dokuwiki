@@ -1,0 +1,53 @@
+^  참조문서번호  ^  생성일  ^  비밀 등급  ^  출처  ^  태그  ^
+|  09SEOUL829  |  2009-05-26 08:01  |  기밀  |  주한 미국 대사관  |  {{tag>EAID PHUM PREF PK KS }}  |
+====== 제 목: 한국, 파키스탄 국내실향민에 미화 50만 달러 지원 ======
+기 밀 서울 000829
+국방부망 배포
+국무부 이민·난민·이주국/교육문화국 노만 해스팅과 에이미 웬에게 전달 바람.
+ 
+행정명령12958: 비밀해제: 05/26/2019
+태그: EAID PHUM PREF PK KS
+제 목: 한국 파키스탄 국내실향민에 미화 50만 달러 지원
+참조: STATE 50276
+ 
+분류자: 정치 공사 참사관 조셉 윤.  근거 1.4 (b/d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/05 18:04//
+
+(기밀) 한국의 최종문 외교통상부 남아시아태평양국장은 참조 전문의 외교문서에 대해 응답하였다. 최종문은 이슬라마바드 주재 한국 대사관이 파키스탄의 국내실향민((역주:국내 언론은 '내부 난민'이란 표현을 쓰기도함. 유엔서 사용하는 공식 명칭은 '국내실향민'입니다.)) 상황이 "매우 안 좋다"는 보고를 받았다고 5월 22일 미 대사관에 말했다. 한국 정부는 그곳의 위중한 상황을 덜어 주는 데 일조할 준비가 되어 있다며 우선 미화 500만 달러를 지원할 예정이라고 최 국장은 말하였다. 이번 지원이 양자적 지원인지 다자 형식의 지원인지는 아직 결정되지 않았다. 정치 공사 참사관은 미국이 미화 1억 천만 달러 지원을 추가로 약정했다고 언급하며 한국이 추가적인 지원을 고려할 것을 촉구하였다.
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/15/09seoul829|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다. 
+===== 바깥 고리 =====
+  - [[http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201505072138455&code=970100|내전·테러에 자국 내 떠도는 ‘내부 난민’ 급증… 하루 3만명 집 잃는다]] //경향신문// (2015.05.07)
+  - [[http://h21.hani.co.kr/section-021005000/2008/03/021005000200803200702009.html|50만여 내부난민에겐 지금 아무도 없다]] //한겨레21// (2008.03.20)
+===== 원본 다운로드 =====
+<file rtf 09SEOUL829.rtf>
+C O N F I D E N T I A L SEOUL 000829 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO PRM/ECA, NORMAN HASTINGS, AMY WENDT. 
+ 
+E.O. 12958: DECL: 05/26/2019 
+TAGS: EAID PHUM PREF PK KS
+SUBJECT: ROK TO CONTRIBUTE USD 500 THOUSAND FOR PAKISTAN 
+IDP ASSISTANCE 
+ 
+REF: STATE 50276 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4 (b/d). 
+ 
+(C) In response to the reftel demarche, ROK Ministry of 
+Foreign Affairs and Trade (MOFAT) Director General for South 
+Asian and Pacific Affairs Choi Jong-moon told Post on May 22 
+that the ROK Embassy in Islamabad had also reported that the 
+IDP situation in Pakistan was "very bad."  Seoul was prepared 
+to do its part to help alleviate the grave situation there 
+and would make an initial contribution of USD 500 thousand, 
+DG Choi said.  Whether this would take the form of bilateral 
+or multilateral assistance had not yet been determined.  Pol 
+M/C noted that the U.S. had committed to contributing an 
+additional USD 110 million and urged that Korea consider 
+further contributions. 
+STEPHENS
+</file>

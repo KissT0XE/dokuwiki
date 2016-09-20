@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 비밀등급 ^ 상태 ^
+| 1201 | [[https://www.wikileaks.org/plusd/cables/09SEOUL30_a.html| 09SEOUL30 ]]| [[/09SEOUL30]] | 폴리페서: 국회 갈등이 민주적 과정을 뒤엎어 | 2009-01-07 | 기밀 | 완료 |
+| 1202 | [[https://www.wikileaks.org/plusd/cables/09SEOUL34_a.html| 09SEOUL34 ]]| [[/09SEOUL34]] | 한국 언론의 반응 | 2009-01-08 | 미분류 | 완료 |
+| 1203 | [[https://www.wikileaks.org/plusd/cables/09SEOUL35_a.html| 09SEOUL35 ]]| [[/09SEOUL35]] | 언론 브리핑—2009년 1월 8일 | 2009-01-08 | 미분류 | 완료 |
+| 1204 | [[https://www.wikileaks.org/plusd/cables/09SEOUL38_a.html| 09SEOUL38 ]]| [[/09SEOUL38]] | 한국 정부에 전달한 외교문서: 국방부 핵무기 관리에 관한 국방장관 태스크포스 2단계 보고서 공개 | 2009-01-08 | 미분류 | |
+| 1205 | [[https://www.wikileaks.org/plusd/cables/09SEOUL39_a.html| 09SEOUL39 ]]| [[/09SEOUL39]] | 소말리아해적퇴치연락그룹(CGSP) 고려 사항에 대한 한국의 반응 | 2009-01-08 | 미분류 | |
+| 1206 | [[https://www.wikileaks.org/plusd/cables/09SEOUL45_a.html| 09SEOUL45 ]]| [[/09SEOUL45]] | 미 대사, 김성환 외교안보수석 면담 | 2009-01-09 | 기밀 | 완료 |
+| 1207 | [[https://www.wikileaks.org/plusd/cables/09SEOUL47_a.html| 09SEOUL47 ]]| [[/09SEOUL47]] | 언론 브리핑—2009년 1월 9일 | 2009-01-09 | 미분류 | |
+| 1208 | [[https://www.wikileaks.org/plusd/cables/09SEOUL48_a.html| 09SEOUL48 ]]| [[/09SEOUL48]] | 폴라 디서터 차관보, 군축과 핵확산 방지에 관한 7차 한미 합동위원회 참석 | 2009-01-09 | 기밀 | |
+| 1209 | [[https://www.wikileaks.org/plusd/cables/09SEOUL50_a.html| 09SEOUL50 ]]| [[/09SEOUL50]] | 국회 충돌 계속될 듯 | 2009-01-09 | 기밀 | 완료 |
+| 1210 | [[https://www.wikileaks.org/plusd/cables/09SEOUL53_a.html| 09SEOUL53 ]]| [[/09SEOUL53]] | 이란의 유엔개발계획 집행이사회 회장직 진출 반대 | 2009-01-09 | 기밀 | 완료 |
+| 1211 | [[https://www.wikileaks.org/plusd/cables/09SEOUL55_a.html| 09SEOUL55 ]]| [[/09SEOUL55]] | 언론 브리핑—2009년 1월 12일 | 2009-01-12 | 미분류 | |
+| 1212 | [[https://www.wikileaks.org/plusd/cables/09SEOUL57_a.html| 09SEOUL57 ]]| [[/09SEOUL57]] | 국회 충돌: 야당 민주당의 지지율이 이명박 대통령 앞질러 | 2009-01-12 | 기밀 | 완료 |
+| 1213 | [[https://www.wikileaks.org/plusd/cables/09SEOUL58_a.html| 09SEOUL58 ]]| [[/09SEOUL58]] | 북한 경제 브리핑—2008년 12월 | 2009-01-12 | 미분류 | |
+| 1214 | [[https://www.wikileaks.org/plusd/cables/09SEOUL59_a.html| 09SEOUL59 ]]| [[/09SEOUL59]] | 인접국에 대한 한국 외교 정책: 북한, 일본, 중국, 러시아 | 2009-01-12 | 기밀 | |
+| 1215 | [[https://www.wikileaks.org/plusd/cables/09SEOUL61_a.html| 09SEOUL61 ]]| [[/09SEOUL61]] | 한국 정부, 칸(‘핵폭탄의 아버지’ A. Q. 칸) 네트워크 제재 소식 환영 | 2009-01-13 | 기밀 | |
+| 1216 | [[https://www.wikileaks.org/plusd/cables/09SEOUL62_a.html| 09SEOUL62 ]]| [[/09SEOUL62]] | 남북 간 설전: 추운 한 해 | 2009-01-13 | 기밀 | |
+| 1217 | [[https://www.wikileaks.org/plusd/cables/09SEOUL63_a.html| 09SEOUL63 ]]| [[/09SEOUL63]] | 언론 브리핑—2009년 1월 13일 | 2009-01-13 | 미분류 | |
+| 1218 | [[https://www.wikileaks.org/plusd/cables/09SEOUL67_a.html| 09SEOUL67 ]]| [[/09SEOUL67]] | 국제재생에너지기구(IRENA) 관련 외교문서에 대한 한국의 잠정적 대응 | 2009-01-14 | 미분류 | |
+| 1219 | [[https://www.wikileaks.org/plusd/cables/09SEOUL68_a.html| 09SEOUL68 ]]| [[/09SEOUL68]] | 언론 브리핑—2009년 1월 14일 | 2009-01-14 | 미분류 | |
+| 1220 | [[https://www.wikileaks.org/plusd/cables/09SEOUL70_a.html| 09SEOUL70 ]]| [[/09SEOUL70]] | 국회, 오바마 대통령 당선 축하 | 2009-01-14 | 미분류 | |
+| 1221 | [[https://www.wikileaks.org/plusd/cables/09SEOUL71_a.html| 09SEOUL71 ]]| [[/09SEOUL71]] | 이명박–아소 정상회담 추가 정보: 아프가니스탄 공동 개발 사업 조만간 추진? | 2009-01-14 | 기밀 | |
+| 1222 | [[https://www.wikileaks.org/plusd/cables/09SEOUL81_a.html| 09SEOUL81 ]]| [[/09SEOUL81]] | 김형오 국회의장, 미 대사에게 오바마 당선 축하 메시지 전달 | 2009-01-15 | 대외비 | 완료 |
+| 1223 | [[https://www.wikileaks.org/plusd/cables/09SEOUL82_a.html| 09SEOUL82 ]]| [[/09SEOUL82]] | 한미 방위비분담특별협정(SMA) 서명 | 2009-01-15 | 미분류 | 완료 |
+| 1224 | [[https://www.wikileaks.org/plusd/cables/09SEOUL83_a.html| 09SEOUL83 ]]| [[/09SEOUL83]] | 언론 브리핑—2009년 1월 15일 | 2009-01-15 | 미분류 | |
+| 1225 | [[https://www.wikileaks.org/plusd/cables/09SEOUL85_a.html| 09SEOUL85 ]]| [[/09SEOUL85]] | 언론 브리핑—2009년 1월 16일 | 2009-01-16 | 미분류 | |
+| 1226 | [[https://www.wikileaks.org/plusd/cables/09SEOUL88_a.html| 09SEOUL88 ]]| [[/09SEOUL88]] | 한국의 유엔 평화유지군 활동: 과거, 현재, 미래 | 2009-01-16 | 대외비 | |
+| 1227 | [[https://www.wikileaks.org/plusd/cables/09SEOUL90_a.html| 09SEOUL90 ]]| [[/09SEOUL90]] | 한국 언론의 반응 | 2009-01-20 | 미분류 | |
+| 1228 | [[https://www.wikileaks.org/plusd/cables/09SEOUL91_a.html| 09SEOUL91 ]]| [[/09SEOUL91]] | 언론 브리핑—2009년 1월 20일 | 2009-01-20 | 미분류 | |
+| 1229 | [[https://www.wikileaks.org/plusd/cables/09SEOUL96_a.html| 09SEOUL96 ]]| [[/09SEOUL96]] | 한국 경제 브리핑—2009년 1월 | 2009-01-21 | 미분류 | |
+| 1230 | [[https://www.wikileaks.org/plusd/cables/09SEOUL99_a.html| 09SEOUL99 ]]| [[/09SEOUL99]] | 언론 브리핑—2009년 1월 21일 | 2009-01-21 | 미분류 | |
+| 1231 | [[https://www.wikileaks.org/plusd/cables/09SEOUL102_a.html| 09SEOUL102 ]]| [[/09SEOUL102]] | 한국 언론의 반응 | 2009-01-21 | 미분류 | 완료 |
+| 1232 | [[https://www.wikileaks.org/plusd/cables/09SEOUL104_a.html| 09SEOUL104 ]]| [[/09SEOUL104]] | 한국 아덴 만에 구축함 파견 | 2009-01-21 | 기밀 | 완료 |
+| 1233 | [[https://www.wikileaks.org/plusd/cables/09SEOUL105_a.html| 09SEOUL105 ]]| [[/09SEOUL105]] | 이명박의 1.19 개각, 북한 정책 기획자 발탁 | 2009-01-21 | 기밀 | 완료 |
+| 1234 | [[https://www.wikileaks.org/plusd/cables/09SEOUL115_a.html| 09SEOUL115 ]]| [[/09SEOUL115]] | 권종락 외무차관, 오바마 행정부에 FTA 및 북한 문제에 관심요청 | 2009-01-22 | 기밀 | 완료 |
+| 1235 | [[https://www.wikileaks.org/plusd/cables/09SEOUL116_a.html| 09SEOUL116 ]]| [[/09SEOUL116]] | 한국 언론의 반응 | 2009-01-22 | 미분류 | |
+| 1236 | [[https://www.wikileaks.org/plusd/cables/09SEOUL118_a.html| 09SEOUL118 ]]| [[/09SEOUL118]] | 언론 브리핑—2009년 1월 22일 | 2009-01-22 | 미분류 | |
+| 1237 | [[https://www.wikileaks.org/plusd/cables/09SEOUL119_a.html| 09SEOUL119 ]]| [[/09SEOUL119]] | 한국 정부, 2009년 4월에 세계핵테러방지구상(GICNT) 및 훈련계획그룹(EPG) 회의 주최하기로 | 2009-01-22 | 기밀 | |
+| 1238 | [[https://www.wikileaks.org/plusd/cables/09SEOUL120_a.html| 09SEOUL120 ]]| [[/09SEOUL120]] | 개념계획 5029, 방위비 분담 동의안, 아프가니스탄 문제 등에 대한 한국 정부의 견해 | 2009-01-23 | 비밀 | 완료 |
+| 1239 | [[https://www.wikileaks.org/plusd/cables/09SEOUL126_a.html| 09SEOUL126 ]]| [[/09SEOUL126]] | 언론 브리핑—2009년 1월 23일 | 2009-01-23 | 미분류 | |
+| 1240 | [[https://www.wikileaks.org/plusd/cables/09SEOUL129_a.html| 09SEOUL129 ]]| [[/09SEOUL129]] | 탈북자들의 향후 역할은 통일을 앞당기는 일? : 한국 당국자는 일축 | 2009-01-23 | 기밀 | 완료 |
+| 1241 | [[https://www.wikileaks.org/plusd/cables/09SEOUL132_a.html| 09SEOUL132 ]]| [[/09SEOUL132]] | 한국 언론의 반응 | 2009-01-28 | 미분류 | |
+| 1242 | [[https://www.wikileaks.org/plusd/cables/09SEOUL135_a.html| 09SEOUL135 ]]| [[/09SEOUL135]] | 언론 브리핑—2009년 1월 28일 | 2009-01-28 | 미분류 | |
+| 1243 | [[https://www.wikileaks.org/plusd/cables/09SEOUL146_a.html| 09SEOUL146 ]]| [[/09SEOUL146]] | 언론 브리핑—2009년 1월 29일 | 2009-01-29 | 미분류 | |
+| 1244 | [[https://www.wikileaks.org/plusd/cables/09SEOUL147_a.html| 09SEOUL147 ]]| [[/09SEOUL147]] | 미 대사, 김문수 경기도지사와 송명호 평택시장과 오찬 | 2009-01-30 | 기밀 | 완료 |
+| 1245 | [[https://www.wikileaks.org/plusd/cables/09SEOUL150_a.html| 09SEOUL150 ]]| [[/09SEOUL150]] | 언론 브리핑—2009년 1월 30일 | 2009-01-30 | 미분류 | |
+| 1246 | [[https://www.wikileaks.org/plusd/cables/09SEOUL156_a.html| 09SEOUL156 ]]| [[/09SEOUL156]] | 언론 브리핑—2009년 2월 2일 | 2009-02-02 | 미분류 | |
+| 1247 | [[https://www.wikileaks.org/plusd/cables/09SEOUL160_a.html| 09SEOUL160 ]]| [[/09SEOUL160]] | 이상희 국방장관, 남북 관계 악화 언급 | 2009-02-03 | 기밀 | 완료 |
+| 1248 | [[https://www.wikileaks.org/plusd/cables/09SEOUL161_a.html| 09SEOUL161 ]]| [[/09SEOUL161]] | 한국 언론의 반응 | 2009-02-03 | 미분류 | |
+| 1249 | [[https://www.wikileaks.org/plusd/cables/09SEOUL162_a.html| 09SEOUL162 ]]| [[/09SEOUL162]] | 언론 브리핑—2009년 2월 3일 | 2009-02-03 | 미분류 | |
+| 1250 | [[https://www.wikileaks.org/plusd/cables/09SEOUL175_a.html| 09SEOUL175 ]]| [[/09SEOUL175]] | 언론 브리핑—2009년 2월 4일 | 2009-02-04 | 미분류 | |
+| 1251 | [[https://www.wikileaks.org/plusd/cables/09SEOUL178_a.html| 09SEOUL178 ]]| [[/09SEOUL178]] | 재분류: 한국 정부, 2009년 4월에 세계핵테러방지구상(GICNT) 및 훈련계획그룹(EPG) 회의 주최하기로 | 2009-02-05 | 대외비 | |
+| 1252 | [[https://www.wikileaks.org/plusd/cables/09SEOUL179_a.html| 09SEOUL179 ]]| [[/09SEOUL179]] | 미 대사, 재정착 지원 기관인 하나원과 한겨레 중고등학교 방문—탈북자 재정착을 위한 실질적 첫걸음 | 2009-02-05 | 대외비 | 완료 |
+| 1253 | [[https://www.wikileaks.org/plusd/cables/09SEOUL182_a.html| 09SEOUL182 ]]| [[/09SEOUL182]] | 한국 언론의 반응 | 2009-02-05 | 미분류 | |
+| 1254 | [[https://www.wikileaks.org/plusd/cables/09SEOUL185_a.html| 09SEOUL185 ]]| [[/09SEOUL185]] | 언론 브리핑—2009년 2월 5일 | 2009-02-05 | 미분류 | |
+| 1255 | [[https://www.wikileaks.org/plusd/cables/09SEOUL186_a.html| 09SEOUL186 ]]| [[/09SEOUL186]] | 북한이 격한 논평을 쏟아내지만 한국은 차분하게 대응 | 2009-02-05 | 기밀 | 완료 |
+| 1256 | [[https://www.wikileaks.org/plusd/cables/09SEOUL187_a.html| 09SEOUL187 ]]| [[/09SEOUL187]] | 한국, G-20 노력을 경주. 미국과 조율 모색 | 2009-02-05 | 기밀 | |
+| 1257 | [[https://www.wikileaks.org/plusd/cables/09SEOUL192_a.html| 09SEOUL192 ]]| [[/09SEOUL192]] | 한국 언론의 반응 | 2009-02-06 | 미분류 | |
+| 1258 | [[https://www.wikileaks.org/plusd/cables/09SEOUL194_a.html| 09SEOUL194 ]]| [[/09SEOUL194]] | 미 의회 관계자 캐런 현, 2009년 2월 13~22일 체류 허가 | 2009-02-06 | 대외비 | |
+| 1259 | [[https://www.wikileaks.org/plusd/cables/09SEOUL200_a.html| 09SEOUL200 ]]| [[/09SEOUL200]] | 언론 브리핑—2009년 2월 6일 | 2009-02-06 | 미분류 | |
+| 1260 | [[https://www.wikileaks.org/plusd/cables/09SEOUL203_a.html| 09SEOUL203 ]]| [[/09SEOUL203]] | 언론 브리핑—2009년 2월 9일 | 2009-02-09 | 미분류 | |
+| 1261 | [[https://www.wikileaks.org/plusd/cables/09SEOUL211_a.html| 09SEOUL211 ]]| [[/09SEOUL211]] | 한국 정부, 2009년 4월 20~22일 열리는 세계핵테러방지구상(GICNT) 모델 지침서(MGD) 후속 워크숍에 관심 | 2009-02-10 | 미분류 | |
+| 1262 | [[https://www.wikileaks.org/plusd/cables/09SEOUL212_a.html| 09SEOUL212 ]]| [[/09SEOUL212]] | 한국의 핵확산금지조약(NPT) 외교문서 반응 | 2009-02-10 | 대외비 | |
+| 1263 | [[https://www.wikileaks.org/plusd/cables/09SEOUL213_a.html| 09SEOUL213 ]]| [[/09SEOUL213]] | 김정일 안전 대책, 내부 불만 증대에 관한 전임 북한 보안국 간부의 언급 | 2009-02-10 | 기밀 | 완료 |
+| 1264 | [[https://www.wikileaks.org/plusd/cables/09SEOUL215_a.html| 09SEOUL215 ]]| [[/09SEOUL215]] | 언론 브리핑—2009년 2월 10일 | 2009-02-10 | 미분류 | |
+| 1265 | [[https://www.wikileaks.org/plusd/cables/09SEOUL216_a.html| 09SEOUL216 ]]| [[/09SEOUL216]] | 정보 유출에 대한 외교문서 한국 정부에 전달 | 2009-02-10 | 비밀/외국전파금지 | 완료 |
+| 1266 | [[https://www.wikileaks.org/plusd/cables/09SEOUL222_a.html| 09SEOUL222 ]]| [[/09SEOUL222]] | 한국 정부, 정보 유출 조사 | 2009-02-11 | 비밀/외국전파금지 | 완료 |
+| 1267 | [[https://www.wikileaks.org/plusd/cables/09SEOUL225_a.html| 09SEOUL225 ]]| [[/09SEOUL225]] | 언론 브리핑—2009년 2월 12일 | 2009-02-12 | 미분류 | |
+| 1268 | [[https://www.wikileaks.org/plusd/cables/09SEOUL227_a.html| 09SEOUL227 ]]| [[/09SEOUL227]] | 한국 정부, 지원 계획 확대 계획 | 2009-02-12 | 대외비 | |
+| 1269 | [[https://www.wikileaks.org/plusd/cables/09SEOUL228_a.html| 09SEOUL228 ]]| [[/09SEOUL228]] | 국무부 장관의 한국 방문을 위한 무대연출 | 2009-02-12 | 기밀 | 완료 |
+| 1270 | [[https://www.wikileaks.org/plusd/cables/09SEOUL232_a.html| 09SEOUL232 ]]| [[/09SEOUL232]] | 한국 언론의 반응 | 2009-02-13 | 미분류 | |
+| 1271 | [[https://www.wikileaks.org/plusd/cables/09SEOUL235_a.html| 09SEOUL235 ]]| [[/09SEOUL235]] | 언론 브리핑—2009년 2월 13일 | 2009-02-13 | 미분류 | |
+| 1272 | [[https://www.wikileaks.org/plusd/cables/09SEOUL240_a.html| 09SEOUL240 ]]| [[/09SEOUL240]] | 언론 브리핑—2009년 2월 17일 | 2009-02-17 | 미분류 | |
+| 1273 | [[https://www.wikileaks.org/plusd/cables/09SEOUL242_a.html| 09SEOUL242 ]]| [[/09SEOUL242]] | 한국 언론의 반응 | 2009-02-17 | 미분류 | |
+| 1274 | [[https://www.wikileaks.org/plusd/cables/09SEOUL246_a.html| 09SEOUL246 ]]| [[/09SEOUL246]] | 한국 언론의 반응 | 2009-02-18 | 미분류 | |
+| 1275 | [[https://www.wikileaks.org/plusd/cables/09SEOUL249_a.html| 09SEOUL249 ]]| [[/09SEOUL249]] | 언론 브리핑—2009년 2월 18일 | 2009-02-18 | 미분류 | |
+| 1276 | [[https://www.wikileaks.org/plusd/cables/09SEOUL250_a.html| 09SEOUL250 ]]| [[/09SEOUL250]] | 세계핵테러방지구상(GICNT) 워크숍 제안에 대한 외교문서 한국 정부에 전달 | 2009-02-19 | 미분류 | |
+| 1277 | [[https://www.wikileaks.org/plusd/cables/09SEOUL256_a.html| 09SEOUL256 ]]| [[/09SEOUL256]] | 한국 언론의 반응 | 2009-02-19 | 미분류 | 완료 |
+| 1278 | [[https://www.wikileaks.org/plusd/cables/09SEOUL258_a.html| 09SEOUL258 ]]| [[/09SEOUL258]] | 언론 브리핑—2009년 2월 19일 | 2009-02-19 | 미분류 | |
+| 1279 | [[https://www.wikileaks.org/plusd/cables/09SEOUL259_a.html| 09SEOUL259 ]]| [[/09SEOUL259]] | 미사일 기술 보증 요청 전달 | 2009-02-19 | 기밀 | |
+| 1280 | [[https://www.wikileaks.org/plusd/cables/09SEOUL265_a.html| 09SEOUL269 ]]| [[/09SEOUL269]] | 언론 브리핑—2009년 2월 23일 | 2009-02-23 | 미분류 | |
+| 1281 | [[https://www.wikileaks.org/plusd/cables/09SEOUL270_a.html| 09SEOUL270 ]]| [[/09SEOUL270]] | 한국 언론의 반응 | 2009-02-23 | 미분류 | |
+| 1282 | [[https://www.wikileaks.org/plusd/cables/09SEOUL276_a.html| 09SEOUL276 ]]| [[/09SEOUL276]] | 언론 브리핑—2009년 2월 24일 | 2009-02-24 | 미분류 | |
+| 1283 | [[https://www.wikileaks.org/plusd/cables/09SEOUL278_a.html| 09SEOUL278 ]]| [[/09SEOUL278]] | 한국 정부, 녹색 성장 일자리 100만 개를 만들기 위해 380억 달러를 투자하는 ‘녹색 뉴딜’ 4개년 계획 발표 | 2009-02-24 | 미분류 | 완료 |
+| 1284 | [[https://www.wikileaks.org/plusd/cables/09SEOUL282_a.html| 09SEOUL282 ]]| [[/09SEOUL282]] | 현대그룹, 북한에 대한 인내와 관용 촉구. 김정일과의 회담에서 언급 | 2009-02-26 | 기밀 | 보완 |
+| 1285 | [[https://www.wikileaks.org/plusd/cables/09SEOUL283_a.html| 09SEOUL283 ]]| [[/09SEOUL283]] | 언론 브리핑—2009년 2월 25일 | 2009-02-26 | 미분류 | |
+| 1286 | [[https://www.wikileaks.org/plusd/cables/09SEOUL284_a.html| 09SEOUL284 ]]| [[/09SEOUL284]] | 한국 언론의 반응 | 2009-02-26 | 미분류 | |
+| 1287 | [[https://www.wikileaks.org/plusd/cables/09SEOUL289_a.html| 09SEOUL289 ]]| [[/09SEOUL289]] | 언론 브리핑—2009년 2월 26일 | 2009-02-26 | 미분류 | |
+| 1288 | [[https://www.wikileaks.org/plusd/cables/09SEOUL290_a.html| 09SEOUL290 ]]| [[/09SEOUL290]] | 장관의 한국 방문 성황리에 끝나 | 2009-02-26 | 기밀 | |
+| 1289 | [[https://www.wikileaks.org/plusd/cables/09SEOUL291_a.html| 09SEOUL291 ]]| [[/09SEOUL291]] | 탈라바니 이라크 대통령, 한국의 경제 협력 기회 창출 노력 보장 | 2009-02-26 | 기밀 | 완료 |
+| 1290 | [[https://www.wikileaks.org/plusd/cables/09SEOUL294_a.html| 09SEOUL294 ]]| [[/09SEOUL294]] | 세계핵테러방지구상(GICNT)/훈련계획그룹(EPG) 외교문서 문구에 대한 한국 반응 | 2009-02-27 | 미분류 | |
+| 1291 | [[https://www.wikileaks.org/plusd/cables/09SEOUL295_a.html| 09SEOUL295 ]]| [[/09SEOUL295]] | 핵확산금지조약(NPT) 외교문서에 대한 한국의 자세한 반응 | 2009-02-27 | 기밀 | |
+| 1292 | [[https://www.wikileaks.org/plusd/cables/09SEOUL307_a.html| 09SEOUL307 ]]| [[/09SEOUL307]] | 언론 브리핑—2009년 2월 27일 | 2009-02-27 | 미분류 | |
+| 1293 | [[https://www.wikileaks.org/plusd/cables/09SEOUL309_a.html| 09SEOUL309 ]]| [[/09SEOUL309]] | 한국 언론의 반응 | 2009-02-27 | 미분류 | |
+| 1294 | [[https://www.wikileaks.org/plusd/cables/09SEOUL311_a.html| 09SEOUL311 ]]| [[/09SEOUL311]] | 한국의 전문가들, 이명박 대통령의 대북 정책이 바뀌지 않을 것 같다고 언급 | 2009-02-27 | 기밀 | 완료 |
+| 1295 | [[https://www.wikileaks.org/plusd/cables/09SEOUL312_a.html| 09SEOUL312 ]]| [[/09SEOUL312]] | 한국 정부, 아프가니스탄/파키스탄 정책 검토에 대해 질문 | 2009-02-27 | 기밀 | |
+| 1296 | [[https://www.wikileaks.org/plusd/cables/09SEOUL313_a.html| 09SEOUL313 ]]| [[/09SEOUL313]] | 핵심 입법 추진 상황에 의문 | 2009-02-27 | 기밀 | 완료 |
+| 1297 | [[https://www.wikileaks.org/plusd/cables/09SEOUL314_a.html| 09SEOUL314 ]]| [[/09SEOUL314]] | 한국 경제 브리핑—2009년 2월 | 2009-02-27 | 미분류 | |
+| 1298 | [[https://www.wikileaks.org/plusd/cables/09SEOUL315_a.html| 09SEOUL315 ]]| [[/09SEOUL315]] | 북한 경제 브리핑—2009년 2월 | 2009-03-01 | 미분류 | |
+| 1299 | [[https://www.wikileaks.org/plusd/cables/09SEOUL318_a.html| 09SEOUL318 ]]| [[/09SEOUL318]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 2월 | 2009-03-02 | 미분류 | |
+| 1300 | [[https://www.wikileaks.org/plusd/cables/09SEOUL324_a.html| 09SEOUL324 ]]| [[/09SEOUL324]] | 언론 브리핑—2009년 3월 3일 | 2009-03-02 | 미분류 | |
+</sortable>

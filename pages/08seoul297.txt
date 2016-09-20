@@ -1,0 +1,144 @@
+^  생성일  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL297  |  2008-02-14 08:01  |  미분류  |  주한미국대사관  |  {{tag>PGOV PREL PINR KN4, KS }}  |
+====== 제 목: 정부 조직개편안 처리 난항 ======
+  * 미분류 SEOUL 000297 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 해당없음((N/A))
+  * 태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)])) 
+  * 제 목: 정부 조직개편안 처리 난항
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/16 19:43//
+===== 요점 =====
+ 
+1. 부처의 수를 18부에서 14부로 축소하는 정부 조직개편안은 국회에서 멈춰 있는 가운데, 인수위원회와 한나라당은 2월 15일 내각 인선 명단을 발표할 계획이다. 인선 명단은 거의 최종 명단이라고 하지만, 대통합민주신당과의 협상이 어떤 결과가 나오느냐에 따라 달라진다. 새 내각 인선의 특징은 관료와 학계, 그리고 기업가가 주축이 될 듯하다; 정치가가 많지 않은 이유는 4월 9일 총선에 도전하길 원하기 때문이다. 어떻게 해서든 이명박의 기세를 꺾고, 도마 위에 오른 부처를 살려내길 바라면서, 대통합민주신당은 정부 조직개편안의 통과를 거부하였다. 이명박은 통일부를 살려두겠다는 전번 합의를 철회하겠다고 협박하며 반격에 나섰다. 새 정부가 정부 조직 간소화 계획을 마무리 지을 것으로 모든 징후가 나타나고 있다.
+===== “치킨 게임” 양상 =====
+
+2. 현재까지 인수위원회와 한나라당은 대통합민주신당과의 협상 타결 노력에서 실패하면서, 정부 조직개편안은 현재 국회에서 답보상태에 있다. 통일부를 살리고자 하는 협상에 더해서, 대통합민주신당은 해양수산부와 여성가족부를 지키려 한다. 이명박 당선인은 꽉막힌 여야 협상을 정면 돌파하려고 2월 12일 손학규 대통합민주신당 대표에 전화해서, //“대화가 잘 안 되면 (통일부까지 폐지하는) 우리의 원안을 그대로 가지고 갈 수밖에 없다.”//((번역 주: 이 당선인의 실재 발언 인용))라고 말하였다. 이 당선인의 후속 제안인 2월 14일 손학규와의 회동 제안은 손학규가 거부하였다.
+
+3. 대통합민주신당을 압박하기 위해서, 이 당선인은 2월 15일에 거의 최종 내각 인선 목록을 발표하였다. 비록 부분적이긴 하지만 인선 명단은 국회 인사청문회 안건으로 제출될 예정이다. 대통합민주신당이 이 대통령 내각 출범을 방해한다는 인상이 가져올 역풍 가능성을 염두에 둔 손학규는 //“4월 총선을 앞두고, 정치적인 부담을 부정할 수가 없다.”//라고 말하였다. 
+<WRAP center round info 80%>
+//**[[http://j.mp/Vtx0ls|미리 흘리고, 공개 압박하고, 최후통첩... 이게 무슨 협상?]]//오마이뉴스//**//애초부터 협상이나 합의는 크게 염두에 두지 않았다. 대불공단 전봇대 제거, 민주노총 방문의 일방적 취소, 영어 공교육 개편 추진 등 모든 일이 그랬다. 원칙과 과정은 그다지 중요치 않다. 실적과 결과가 앞선다. 70년대 건설회사 CEO로 다져진 이명박 대통령 당선인의 '불도저 리더십'이다.
+</WRAP>
+===== 가능한 장관 내정자 =====
+
+4. 인수위원회의 핵심 인사는 가능한 장관 후보자를 아래와 같이 말한 것으로 인용되고 있다: 유명환 외교통상부 장관 내정자는 김영삼 정부 시절에 청와대 외교 참모로 외교 무대 경력이 풍부하며, 현 주일 대사이다, 국방장관 이상희 내정자는 합참의장을 역임했으며 전작권 이양 시기를 2009년에서 2012년으로 연기하자고 미국을 설득한 책임자로 알려졌다; 이윤호 지식경제부 장관 내정자는 전국경제인연합회 부회장이다; 김경환 법무부 장관 내정자는 전 법무부 차관이다; 어윤대 교육과학기술부 장관 내정자는 전 고려대학교 총장이다; 유인촌 문화체육관광부 내정자는 1995년 인기 TV 드라마에서 젊은 이명박 역을 맡은 연기자 출신 교수이며, 지난해 대선에서 이명박 캠프에서 적극적으로 활동하였다. 박은경 환경부 장관 내정자는 한국 YMCA 대표로 비정부기구 활동가이다; 김성이 여성복지부 장관 내정자는 이화여대 교수로 한국청소년학회 회장을 지냈다; 정운찬 농림수산식품부 장관 내정자는 한국농업인CEO연합회 회장을 지냈다; 강만수 기획재정부 장관 내정자는 전 재정경제부 차관이며 현 인수위원회 경제분과 간사이다; 원세훈 행정안전부 장관 내정자는 전 서울 부시장을 지냈다; 정종환 국토해양부 장관 내정자는 철도청장을 지냈다; 이영희 노동부 장관 내정자는 경제정의실천시민연합 상임집행위원장을 지냈으며, 현재 대통령 당선인의 노동현안 참모이다; 그리고 부처가 미정인 남주홍 장관 내정자는 경기대학교 교수이다.
+
+5. 만일 인선 명단이 최종안이 된다면, 대부분 전문가가 예상한 대로, 새 정부는 상대적으로 14명의 내정자 중 10명이 60대로 고령의 노련한 전문가라는 특색을 띤다. 내각은 내정자의 출신 고향 측면에서 한층 지역적 안배를 이루었다. 후보자들의 이력은 공공 부문과 민간 부문을 망라해 다양하지만, 청와대 비서실의 경우와 같이 학계가 주축을 이루고 있다. 14명의 후보 중 5명은 박사학위 보유자이며, 그 중 3명은 미국 대학에서 학위를 받았다. 경륜 있는 정치가가 없다는 게 눈에 띄는 이유는 그들이 다가올 총선 도전을 포기해야 하기 때문이다. 만일 기다린 후 4월에 공천된다면, 그들은 의원직을 확보할 수 있거나, 내각에도 봉직할 수도 있다. 정치가들에게는 어려운 결정이 아닌 이유는 내각 장관직의 평균 임기가 거의 1년도 채 안 되기 때문이다((노무현 정부의 장관 임기가 1년도 채 안 됐지만, MB정부 장관 임기는 평균 1년7개월 이다.)).
+버시바우
+[[https://sites.google.com/site/poirotkr/9/08seoul297|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://shindonga.donga.com/docs/magazine/shin/2008/04/12/200804120500000/200804120500000_1.html|Who’s Who 이명박 파워맨 (상)]] //신동아//
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000833673&PAGE_CD=N0000&BLCK_NO=3&CMPT_CD=M0006&NEW_GB=|미리 흘리고, 공개 압박하고, 최후통첩... 이게 무슨 협상?]]  //오마이뉴스//
+  - [[http://j.mp/YfL4JB|(박근혜) 정부조직개편 전 장관 발표... 민주당 "압박성 폭투"]] //오마이뉴스// 
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000835508|갈팡질팡 이명박... '국무위원 워크숍' 3시간만에 철회]]  //오마이뉴스//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL297.rtf>
+UNCLAS SEOUL 000297 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: CABINET REFORM PLAN AT A STANDSTILL 
+ 
+ 
+¶1. With the Cabinet reform bill set to cut the number of 
+ministries from 18 to 14 stalled at the National Assembly, 
+the Transition Team and the GNP are planning to announce the 
+Cabinet lineup February 15.  The list is said to be almost 
+final, although there may be some additions depending on how 
+final negotiations with the UNDP unfold.  The new Cabinet 
+will likely feature bureaucrats, academics and businessmen; 
+there will not be many politicians because they will want to 
+contest the April 9 National Assembly elections.  Hoping to 
+force Lee to relent and take another ministry off the 
+chopping block, the UNDP has refused to pass the reform bill. 
+ Lee has countered by threatening to recant on the previous 
+agreement to save the Ministry of Unification.  Indications 
+all point to the new government following through with the 
+plan to streamline government.  END SUMMARY. 
+ 
+--------------------------- 
+STATE OF THE "CHICKEN GAME" 
+--------------------------- 
+ 
+¶2. The Cabinet restructuring plan is currently stalled at the 
+National Assembly, with the Transition Team and the GNP 
+efforts to strike a deal with the UNDP failing thus far.  In 
+addition to negotiating to secure the survival of the 
+Ministry of Unification, the UNDP is attempting to keep the 
+Ministry of Maritime Affairs & Fisheries and the Ministry of 
+Gender Equality & Family.  President-elect Lee Myung-bak 
+called UNDP chairman Sohn Hak-kyu February 12 to try to break 
+the deadlock and said, "Should we be unable to strike a deal, 
+we will have no option but to return to our original plan (of 
+scrapping MOU along with other ministries)."  President-elect 
+Lee's subsequent proposal to meet with Sohn on February 14 
+was rejected by Sohn. 
+ 
+¶3. In order to press the UNDP, the President-elect will 
+announce a near-final list of Cabinet appointments on 
+February 15.  The appointment list, albeit partial, will be 
+submitted for a confirmation hearing motion in the National 
+Assembly.  Mindful of a possible backlash if the UNDP is 
+perceived as disrupting the launch of Lee's Cabinet, Sohn 
+said, "I cannot deny feeling politically burdened (to 
+compromise), with the April elections coming up." 
+ 
+----------------------- 
+LIKELY CABINET NOMINEES 
+----------------------- 
+ 
+¶4. Key Transition Team officials have been quoted as citing 
+the following as the likely picks to fill the Cabinet: 
+Foreign Minister Yu Myung-hwan, Ambassador to Japan, a 
+veteran career diplomat, and former Blue House Foreign 
+Advisor during the Kim Young-sam Administration; National 
+Defense Minister Lee Sang-hee, former Joint Chiefs of Staff 
+Chairman and acknowledged as responsible for persuading the 
+U.S. to postpone the OPCON transfer timing from 2009 to 2012; 
+Knowledge & Economy Minister Lee Yoon-ho, current Vice Chair 
+of the Federation of Korean Industries (FKI); Justice 
+Minister Kim Kyung-han, Former Vice Justice Minister; 
+Education & Science Minister Euh Yoon-dae, former Korea 
+University president; Culture Minister Yoo In-chon, 
+actor-turned-professor who played the part of young Lee 
+Myung-bak in a popular TV drama series in 1995 and actively 
+involved himself in Lee's campaign last year; Environment 
+Minister Park Eun-kyung, Korea YWCA Chairwoman who is an NGO 
+activist; Health, Welfare & Women's Affairs Minister Kim 
+Sung-yi, professor at Ewha Women's University and former 
+chair for the Youth Protection Commission; Agriculture, 
+Fisheries & Foods Minister Chung Un-cheon, chairman of the 
+Agricultural CEOs' Association; Budget Planning & Finance 
+Minister Kang Man-soo, former Vice Finance & Economy Minister 
+and current Economic Subcommittee Chief at the Transition 
+Team; Government Administration & Safety Minister Won 
+Se-hoon, former Vice Mayor of Seoul; Homeland & Maritime 
+Affairs Minister Chung Jong-hwan, former Korea Railway 
+Administration Chief; Labor Minister Lee Young-hee, former 
+chairman of the Citizens' Coalition for Economic Justice who 
+currently advises the President-elect on labor issues; and 
+Minister Without Portfolio Nam Joo-hong, professor at Kyunggi 
+University. 
+ 
+¶5. If the list becomes final, as most pundits expect it will, 
+the new Cabinet will feature relatively older and seasoned 
+experts, with ten out of 14 nominees in their 60s.  The 
+Cabinet is also more regionally balanced in terms of 
+appointees' hometown.  While their career backgrounds vary 
+across the public and private sectors, academics still 
+remained a strong force, as was the case with the Blue House 
+senior secretaries.  Five of the 14 candidates are 
+Ph.D.-holders, three of whom earned degrees at U.S. schools. 
+Notably absent are career politicians, because they would 
+have to give up contesting the upcoming National Assembly 
+election.  If they wait and win a seat in April, they will be 
+able to hold to their seats and serve in the Cabinet.  A 
+no-brainer for politicians because the average term of a 
+cabinet official is barely one year. 
+VERSHBOW
+</file>

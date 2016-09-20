@@ -1,0 +1,94 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL693  |  2009-04-30 07:04  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV KS  }}  |
+====== 제 목: 보궐선거 결과 계파 싸움의 전조 ======
+기 밀 SEOUL 000693 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 04/13/2019 
+태그: PGOV (([Internal Governmental Affairs])), KS (([Korea (South)])) 
+제 목: 보궐선거 결과 계파 싸움의 전조 
+참조: [[09seoul636|SEOUL 0636]] (당내 다툼) 
+참조하는 전문: [[09seoul1524|09SEOUL1542]], [[09seoul1550|09SEOUL1550]], [[09seoul790|09SEOUL790]]
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b), (d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/11/30 09:41//
+===== 요점 =====
+1. (민감하지만 미분류) 5개 국회의원 의석의 주인을 놓고 벌린 4월 29일 보궐선거의 결과로 양대 정당인 중도 우파 한나라당과 중도 좌파 민주당 통솔권을 놓고 벌어지는 당내 싸움이 가시화되었다. 한나라당은 단 한 석도 이기지 못하면서 가장 큰 충격을 받았지만, 민주당도 큰 성과를 내지는 못하였다. 실상 유일하게 민주당과 한나라당 간에 맞대결을 펼친 인천시 부평 지역에서만 민주당 홍영표가 49.54% 득표율로 39.09% 득표율을 보인 한나라당 라이벌 이재훈을 무찌르면서 승리하였다. 전주의 2곳에서는 진보 무소속 후보인 정동영(72.3%)과 신건(50.4%)은 민주당 경쟁후보를 손쉽게 따돌렸다. 울산에서는 극좌 후보가 승리하였는데, 진보신당 조승수가(49.2%) 한나라당 경쟁자인 박대동(41.37%)을 놀라울 정도로 간발의 차로 노동자 도시인 울산에서 승리하였다. 보수 무소속 후보의 승리로 돌아간 경주에서는 박근혜의 전 안보 보좌관인 정수성이 10%p 넘는 차이로 한나라당 후보를 무찔렀다. 만일 3명의 무소속 후보 모두가 입당한다면, 정동영과 신건은 민주당, 정수성은 한나라당, 한나라당은 총 한 석의 국회의석을 잃게 되며, 민주당은 총 두 석을 추가하게 된다. 보궐선거로는 40%가 넘어서는 높은 투표율을 보였다.
+
+===== 논평 =====
+
+2. (기밀) 민주당의 인천 승리는 쓰라린 전주 패배를 대신하여 작은 위안이 되었지만, 무소속 정동영 당선인의 당 복귀 투쟁을 대비하는 처지가 되었다. 민주당의 인천 승리로 정동영의 당 복귀 과정이 어려워질 수 있는데, 민주당이 전패했다면, 민주당 지도부가 너무 약화하여 정동영의 당 복귀에 대해 저항할 수 없었을 것이다. 그러나 정동영이 결국에 민주당에 재합류한다는 데 의심할 여지가 거의 없다.
+
+3. (기밀) 한나라당이 3석을 확보할 수도 있었지만―경주와 인천, 울산―결과는 빈손이었다. 인천과 울산은 접전을 펼치는 지역구로, 극좌 단일화 후보에 맞선 결과 예상보다는 한나라당 후보가 선전하였고, 경주는 최다 연패를 기록하게 되었다. 경주에서의 패배로 한나라당 내부 친이명박계와 친박근혜계 사이 더 많은 갈등을 예고하고 있다. 친이 이상득 의원과 박희태 당 대표는 한나라당의 보궐선거 패배에 대한 책임을 져야 할 것이다. 보궐선거 결과로 박근혜의 권한이 막강해지면서, 아마도 당 지도부 자리가 친박계 의원에게 넘어갈 것이 불가피하며, 당내 두 계파 간에 힘의 균형이 한층 동등하게 형성되게 될 것이다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/15/09seoul693|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://www.pn.or.kr/news/articleView.html?idxno=6811|한나라당, 또 '친박'에 무릎꿇다]] //평화뉴스//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL693.rtf>
+C O N F I D E N T I A L SEOUL 000693 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/13/2019 
+TAGS: PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: BY-ELECTION RESULTS HIGHLIGHT LOOMING INTRA-PARTY 
+BATTLES 
+ 
+REF: SEOUL 0636 (INTRA-PARTY FIGHT) 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b), (d). 
+ 
+¶1.  (SBU) Results of the April 29 by-election, in which five 
+National Assembly seats were up for grabs, highlight looming 
+intra-party battles (reftel) for control of both major 
+parties, the right-of-center Grand National Party (GNP) and 
+the left-of-center Democratic Party (DP).  The GNP was 
+hardest hit, not winning a single seat, though the DP did not 
+fare much better.  In fact only in the Bupyeon district in 
+Incheon -- the only head-to-head matchup between the DP and 
+GNP -- did DP candidate Hong Young-pyo (49.54 percent) win, 
+beating his GNP rival Lee Jae-hoon (39.09 percent).  In the 
+two Jeonju races, both liberal independent candidates Chung 
+Dong-young (72.3 percent) and Shin Gunn (50.4 percent) 
+handily beat their DP rivals.  The far-left candidate won in 
+the labor town of Ulsan, where the New Progressive Party's 
+Cho Seung-soo (49.2 percent) won a surprisingly narrow 
+victory over his GNP competitor, Park Dae-dong (41.37 
+percent).  A conservative independent candidate won in 
+Kyeongju, where Park Geun-hye's former security adviser Chung 
+Soo-sung beat the GNP candidate by more than 10 percentage 
+points.  If all three independents join parties -- the DP for 
+Chung Dong-young and Shin and the GNP for Chung Soo-sung -- 
+the GNP will have a net loss in the National Assembly of one 
+seat and the DP a net gain of two.  Turnout exceeded 40 
+percent, high for a by-election. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶2.  (C) The DP's win in Incheon is small consolation for its 
+bitter losses in Jeonju, leaving the DP braced for 
+independent Chung Dong-young's divisive fight to return to 
+the party.  The DP's success in Incheon could make this 
+process more difficult -- had the party failed entirely, the 
+DP leadership would have been too weak to protest.  Still, 
+there is little doubt that Chung Dong-young will ultimately 
+rejoin the DP. 
+ 
+¶3.  (C) The GNP could have won three seats -- Kyeongju, 
+Incheon, and Ulsan -- but came up empty handed.  Incheon and 
+Ulsan are swing seats, and the GNP candidate did better than 
+expected in Ulsan in the face of a united far-left, making 
+Kyeongju the most consequential loss.  The Kyeongju defeat 
+portends more conflict between the pro-Lee Myung-bak and 
+pro-Park Geun-hye factions within the GNP.  Pro-Lee lawmakers 
+Lee Sang-deuk and party Chief Park Hee-tae will have to take 
+responsibility for the GNP's losses in the by-election.  The 
+resulting boost of power to Park will probably necessitate a 
+party leadership position going to a pro-Park lawmaker, 
+forming a more equitable balance of power between the two 
+intra-party factions. 
+STEPHENS
+</file>

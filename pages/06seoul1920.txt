@@ -1,0 +1,108 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06seoul1920  |  2006-06-09 08:30  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV KS }}  |
+====== 제 목: 지방선거 결과로 인한 정치적 후폭풍 ======
+<WRAP center round important 90%>
+아래 내용은 번역이라고 부를 수 없을 만큼 너무 어설픈 내용입니다. 제대로 된 번역을 아래 링크를 이용하세요. 이곳에 번역을 안 올린 이유는 이곳에 번역을 게재하는 순간 구글 검색에 노출되기 때문입니다. [[https://sites.google.com/site/poirotkr/3/06seoul1920|제 목: 지방선거 결과로 인한 정치적 후폭풍]] //포와로 탐정의 번역//
+</WRAP>
+
+* 참고로 괄호안 글씨는 해석이 애매한 부분이나 어색한 부분입니다.
+
+
+VZCZCXYZ0016
+RR RUEHWEB
+
+DE RUEHUL #1920/01 1600830
+ZNY CCCCC ZZH
+R 090830Z JUN 06
+FM AMEMBASSY SEOUL
+TO RUEHBJ/AMEMBASSY BEIJING 0761
+RUEHKO/AMEMBASSY TOKYO 0834
+RUEHC/SECSTATE WASHDC 8335
+INFO RHHJJPI/PACOM IDHS HONOLULU HI
+RHMFISS/COMUSKOREA J2 SEOUL KOR
+RUEKJCS/SECDEF WASHINGTON DC
+RHMFISS/COMUSKOREA SCJS SEOUL KOR
+RHEHNSC/NSC WASHINGTON DC
+C O N F I D E N T I A L SEOUL 001920
+SIPDIS
+
+SIPDIS
+E.O. 12958: DECL: 06/01/2016
+TAGS: PGOV KS
+SUBJECT: POLITICAL FALLOUT FROM LOCAL ELECTIONS
+REF: A. SEOUL 1821
+¶B. SEOUL 1090
+¶C. SEOUL 1713
+Classified By: Amb. Alexander Vershbow. Reasons 1.4 (b/d)
+SUMMARY
+-------
+
+주제 : 지방 선거에서의 정치적 실패
+
+1. (C) The dust is still settling from the Uri Party's catastrophic loss in the May 31 local elections (Ref A). As reflected in post-election polls, voters used the election to send a clear message of dissatisfaction to President Roh. While President Roh has stated that he will continue the administration's current direction, Korean conservatives whisper that he may be tempted to salvage the remainder of his tenure using nationalist policies and inflammatory rhetoric, which could influence his approach to alliance issues and other matters of concern to the United States, including North Korea policy. We are not convinced that is likely, however, given the President's stubborn refusal to fit neatly into the populist box.
+1. (C) 먼지는 여전히 5월 31일 지방 선거에서의 열린우리당의 참패에 머물러 있다(Ref A). 선거 이전의 여론 조사에 비추어 볼 때, 유권자들은 노무현 대통령에의 불만족을 확실하게 전달하기 위해 선거를 이용하였다. 노무현 대통령이 행정부의 현재 방향을 유지할 것이라고 의견을 표현한 와중에, 한국 보수층이 속삭이길(whisper, 밀담을 하다) 노 대통령이 민족주의적인 정책이나 선동적인 웅변을 이용하여 그의 남은 임기를 구제할 의혹이 있다고 하면서, 이는 미국과의 동맹에 관한 문제나, 북핵 문제를 포함한 그 외 다른 문제들에 대한 노 대통령의 접근에 영향을 미칠 수도 있다고 하였다. 그러나 우리는 대통령의 단호한 거부를 포퓰리즘에 해당하는 것으로 봐야 하는 지에 대해서는 확신할 수 없다(stubborn refusal을 미국이나 일본에 대한 단호한 의견으로 보고 해석하였다)
+
+2. (C) Domestically, the loss is causing major rifts between the President and the Uri Party, and within the Party itself. Meanwhile, the Grand National Party's (GNP) Park Geun-hye appears considerably strengthened following her party's landslide victory. She will, however, continue to face challengers within the GNP, including the popular outgoing
+Mayor of Seoul, Lee Myung-bak. With over a year until the Presidential election, it is also too early to tell whether Korea's apparent pendulum swing to the right will be maintained. Finally, former Prime Minister Goh Kun, as the potential leader of a new party, could take advantage of the post-local election confusion to rally a winning coalition of moderates from both the ruling and opposition parties. END SUMMARY.
+2. (C) 국내적으로, 지방 선거에서의 참패는 노 대통령과 열린우리당 사이에, 그리고 정당 그 자체에 생긴 커다란 균열의 원인이 되었다. 한편, 한나라당의 박근혜는 그녀의 당이 압도적으로 승리함에 따라 꽤나 입지가 강화된 것으로 보인다. 그러나 그녀는 한나라당 내에서, 곧 임기가 다하는 유명한 서울시장인 이명박을 비롯한 도전자들과 맞서야 할 것이다. 또한 대선까지 1년이 넘게 남은 상황에서, 현재 명백하게 오른쪽으로 기울어져 있는 한국의 저울추가 유지될 것인지 아닌지에 대하여 말하기는 너무 이른 것으로 보인다. 마지막으로, 전 국무총리이자 새로운 정당의 잠재적인 지도자인 고건은 여당과 야당 모두에서 중도파들을 성공적으로 모으는 데 있어 선거 후의 혼란에서 이익을 얻을 수 있을 것이다. END SUMMARY.
+
+WHY THE URI PARTY LOST
+----------------------
+열린우리당이 패한 이유
+----------------------
+3. (C) Polling conducted in the wake of the May 31 GNP rout of the ruling Uri Party has confirmed that voters used the local elections to give voice to deep dissatisfaction with
+President Roh. According to a June 5 Gallup Korea poll of 1022 people, 49.3 percent of respondents held President Roh "greatly" responsible for the loss. A Korea Times poll of
+1000 people found that 44 percent believed President Roh's "poor management of state affairs and policy failures" were the main reasons for the party's defeat. These numbers
+reflect growing disenchantment with the Roh administration's emphasis on historical revisionism, capital relocation, and other issues that many citizens find peripheral to their real concerns. Also, many are critical of the administration's heavy emphasis on real estate issues, where the government is raising taxes to curb "speculation." Many citizens are finding the government's policies meddlesome, ill-considered or, in the face of continuously rising housing costs, ineffective. Finally, many South Koreans have a notion that there is growing tension in the U.S.-ROK alliance and that President Roh may be responsible. While sympathy for GNP Chairwoman Park Geun-hye, following the May 20 attack, played some role in the outcome of the election, the driving force for the win appeared to be voter discontent with the administration and its failure to address fundamental economic issues.
+3. (C) 여당인 열린우리당의 참패와 한나라당의 부활(wake)이라는 결과를 가져온 5월 31일 투표에서 유권자들이 노 대통령에 대한 깊은 불만을 드러내기 위하여 지방 선거를 이용하였다는 사실을 확인할 수 있었다. 한국갤럽(Gallup Korea-여론조사 전문기관)이 1022명의 사람을 대상으로 6월 5일 실시한 여론조사에 따르면, 응답자의 49.3퍼센트가 이번 선거의 패배에 노 대통령에게 “매우” 책임이 있다고 답하였다. 코리아타임즈의 1000명의 사람을 대상으로 한 여론조사에서도 응답자의 44퍼센트가 노 대통령의 “정부 업무에 대한 서투른 경영과 정치적 실패”(state affairs를 ‘정부 업무’로 번역, 원 문장은 poor management of state affairs and policy failures인데 of를 state affairs까지만 걸리는 것으로 보고 번역)가 열린우리당의 패배의 주요 원인이었다고 생각하는 것으로 나타났다. 이러한 숫자들은 역사 수정주의, 자본 재분배(capital relocation -‘수도 이전’이라 번역할 수도 있음)나 그 외 노 행정부가 강조해오던 현안들에 대하여 많은 국민들이 그들의 진짜 관심사와는 동떨어져 있음을 깨닫게 되었다는 사실을 반영한다. 또한, 많은 사람들은 정부가 “투기”를 억제하기 위해서 세금을 올려 부동산 문제에 큰 비중을 둔 것에 대하여 비판적이다. 많은 국민들은 정부의 정책이 오지랖 넓고 신중하지 않으며, 계속 오르고 있는 집값에 대하여서는, 비효율적이라는 사실을 알게 되었다. 마지막으로, 많은 한국인들은 한미 동맹 내의 긴장이 심화되고 있다는 것을 알고 있고, 그런 사태에 노무현 대통령이 책임이 있다고 생각한다. 한나라당의 의장인 박근혜가 5월 20일에 공격을 당한 데 대한 동정심이 선거의 결과에 어느 정도 영향을 끼쳤으나, 한나라당의 승리의 원동력은 근본적인 경제적 안건을 다루는 데 실패한 정부에 대한 유권자의 불만으로 보인다.
+
+IMPACT ON THE ALLIANCE
+----------------------
+동맹에의 영향
+-----------
+4. (C) President Roh's only public remarks regarding the local elections have been to reaffirm that his administration would continue to pursue its current policies, including the pursuit of a Free Trade Agreement with the United States.
+4. (C) 지방 선거에 관한 노 대통령의 공식적인 발언은, 정부는 미국과의 FTA 추진을 포함한 현재의 정책들을 계속 추진할 것이라고 재차 단언한 것뿐이다.
+
+5. (C) As a one-term leader concerned about his legacy, some believe it is likely that President Roh will redouble his efforts to bring a second North-South Summit to fruition this year. Conservatives worry that he would also be tempted to tap nationalism -- a technique he used with success in the 2002 Presidential campaign -- to regain support. President Roh may wish to cast himself as Korea's savior from American "hegemony" in areas ranging from environmental remediation of USFK bases to rice, the Kaesong Industrial Complex or other FTA issues. Relations with Japan are likely to remain frosty, which could prompt the ROK to push the U.S. to take sides against Japan on the Liancourt Rocks (Dokdo/Takeshima), the Yasukuni Shrine or other charged topics of regional dispute. While we do not expect any drastic changes of direction, conservatives are watching for an embattled President Roh to draw a hard line on issues that touch nationalist sensitivities. Such a strategy, however, would risk backfiring as it would have little resonance among
+Koreans who are tired of rhetoric and would prefer a steadier focus on the economy. In the current climate, if President Roh chooses to exploit a strategy of nationalism, he is more likely to choose Japan than the United States as a target.
+5. (C) 몇몇 사람들은 노 대통령이 단임이기에 그의 업적(legacy)을 고려하여, 두 번째 남북 정상 회담의 올해 안의 성사를 위한 노력을 배가할 것이라고 생각한다. 보수 인사들은 그가 지지를 다시 얻기 위해서 민족주의를 자극-그가 2002년 대선에서 승리하는 데 쓴 기술-할 수 있다며 우려를 표했다. 노 대통령은 그 자신이 미국의 ‘패권’으로부터 한국을 수호하는 수호자로 보이길 원할 것이다. 미군 기지의 환경적 개선(remediation)부터 쌀 문제, 또 개성 공단이나 다른 FTA 현안들에 관해서 말이다. 일본과의 관계는 계속 냉담할 것으로 보인다. 이는 한국이 미국에게, 리앙쿠르 암초(Liancourt Rocks)(독도/다케시마)나 야스쿠니 신사 또는 그 외의 국부적인 논쟁들에 관해 일본에 대립하는 입장을 취하라는 요구를 촉발(prompt)할 수도 있다. 우리는 한일관계에 있어 어떤 급격한 방향의 변화가 일어날 것이라 생각하지 않지만, 보수 인사들은 전투적인 노 대통령이 민족적으로 민감한 부분을 건드리는 안건에 강한 줄을 그을 수도 있다며 주시하고 있다. 그러나 그러한 전략은 역효과가 날 위험이 있다. 한국인들은 웅변(rhetoric)에 지쳐있고, 경제적 안건에 점차적인 초점을 맞추는 것을 선호하는 상태에 있어, 그러한 전략들이 주는 영향이 미미할 것이기 때문이다. 현재 상황에서 만약 노 대통령이 민족주의적인 전략을 사용하기로 선택한다면, 그는 미국보다는 일본을 목표로 선택할 것으로 보인다.
+
+IMPACT ON THE URI PARTY AND DOMESTIC POLICY
+-------------------------------------------
+열린우리당과 국내 정치에의 영향
+--------------------------
+6. (C) Severe rifts have formed within the Uri Party. The first divide is between the President and the Uri Party. Many Uri members see President Roh and his policies as a liability and are hoping that the president will voluntarily depart the party. Rep. Hahn Hwa-gap's June 7 announcement that the Democratic Party (DP) would be willing to form a
+coalition with the Uri Party if President Roh leaves the Party gives further weight to this faction. Others do not wish the President to depart, but would rather he acknowledge voter sentiment and adjust his policies accordingly.
+6. (C) 열린우리당 내에선 큰 균열이 생겼다. 그 첫째는 대통령과 열린우리당 사이의 분열이다. 많은 열린우리당 의원들은 노 대통령과 그의 정책에 책임이 있다고 보고 있고, 대통령이 자발적으로 정당을 떠나기를 바라고 있다. 민주당 대표인 한화갑의 7일 발표에 따르면, 민주당은 만약 대통령이 열린우리당을 떠나면 열린우리당과 민주당의 연합을 형성할 것이라 하였다. 이는 이 사실(열린우리당 의원들이 대통령의 자발적인 정당 탈퇴를 원한다는 사실)에 더욱 무게를 싣는다. 다른 이들은 대통령이 떠나길 원하지는 않지만, 그가 유권자들의 감정을 인식하고 그의 정책을 그에 맞추어 조정하길 바라고 있다.
+
+7. (C) Meanwhile, internal conflict is dividing the ranks of the party. Uri Party Chairman Chung Dong-young resigned last week. Two of the five leadership committee members soon
+followed in disagreement over the appointment of former Health Minister Kim Geun-tae as leader of an interim leadership committee. Many members believe that Kim's activist background and left-wing politics would further tarnish the Uri Party's image. Despite widespread misgivings, Kim is likely to win the post for lack of other suitable candidates. Indeed, having churned through nine chairmen since its inception in 2004, the Uri Party is
+running short of members of leadership caliber. Turmoil in the Uri leadership will make passing its agenda (Ref B) in the National Assembly -- a persistent challenge for this
+Administration -- even more difficult. Thus, we expect little near-term progress on labor, education, or other Uri Party domestic policy initiatives.
+7. (C) 한편, 내부적인 갈등은 열린우리당의 당원들(ranks)을 분열시키고 있다. 열린우리당 의장인 정동영은 지난주에 사임했다. 곧 전 보건부 장관인 김근태를 지도 위원회의 임시 지도자로 임명하는 것에 대해서 지도 위원회 다섯 의원 중의 두 명이 동의하지 않는 일이 이어졌다. 많은 의원들은 김근태의 운동권으로 활동한 내역과 좌익의 정치가 열린우리당의 이미지를 훼손할 수도 있다고 생각한다. 이러한 만연한 우려에도 불구하고, 김근태는 다른 적당한 지원자가 없는 관계로 임시 지도자로 임명되는 데 성공할 것으로 보인다. 참으로, 2004년을 시작으로 하여 아홉 명의 의장이 연이어 나오면서(churn), 열린우리당에선 지도력을 가진 의원이 부족해지고 있다. 열린우리당의 리더십 혼란은 국회에서 이 의제(Ref B) -이 정부의 영구한 변화- 를 통과시키는 것을 더욱 어렵게 할 것이다. 그러므로 우리는, 근일에는 노동이나 교육, 또는 다른 열린우리당의 국내 정책 발의에 진척이 거의 없을 것이라 생각한다.
+
+IMPACT ON THE GRAND NATIONAL PARTY
+----------------------------------
+한나라당에의 영향
+---------------
+8. (C) Recovering from the knife attack (Ref C), GNP Chairwoman Park Geun-hye appears to be in excellent shape following her Phoenix-like rise from the hospital to lead her party to victory on May 31. Park told us on June 6 that, in a change from previous elections, the GNP had attracted votes from across various age groups as well as from Honam voters
+residing outside South Jeolla Province. Critics warn, however, that voters did not necessarily support GNP; rather, they voted against the Uri Party.
+8. (C) 칼로 인한 공격에서 회복된 한나라당 의장 박근혜는 병원에서 봉황과 같이 솟아오르며 완벽한 모습을 보여주었고, 이는 한나라당의 5월 31일의 승리를 이끌어냈다. 박근혜가 6월 6일에 우리에게 말한 바에 따르면, 지난 선거에서의 변화는 한나라당이 다양한 나이층에서, 또 전라남도에 거주하는 호남 유권자들의 지지까지 이끌어낼 수 있다는 점이었다고 한다. 하지만 평론가들은 유권자들이 반드시 한나라당을 지지하는 것은 아니라고 경고했다. 그렇다기보다, 그들은 열린우리당에 반대하여 투표했다는 것이다.  
+
+9. (C) Moreover, for some voters Park remains a polarizing figure with an unproven record of leadership. They complain that they know where she is from and what she stands against,
+but not necessarily what she stands for. Further, she still has a strong rival in outgoing Seoul Mayor Lee Myung-bak, who has a successful career as chairman of Hyundai Engineering
+and Construction and several popular urban renewal projects to show as tangible measures of effectiveness. Gyeonggi Province Governor Sohn Hak-kyu is also a potential contender. Finally, there has long been simmering discontent with Park Geun-hye among the younger GNP members, who are feeling more confident after having orchestrated the election of one of
+their own, Oh Se-hoon, to be the new mayor of Seoul. In general, many observers also point out that with the presidential election still 18 months away, it may be difficult for the GNP to sustain the positive momentum.
+9. (C) 더욱이 몇몇 유권자들에게 박근혜는 그 리더십이 증명되지 않은 편광된(polarizing) 인물로 남아 있다. 그들은 그녀가 어디서 왔고 무엇에 반대하는지는 알지만 그녀가 분명히 무엇을 지지하는지는 알 수 없다고 불평한다. 더욱이 그녀에겐 활동적인 서울 시장 이명박이라는 강한 라이벌이 여전히 존재한다. 이명박은 현대건설 의장으로부터, 또 몇몇의 대중을 위한 도시 개혁 프로젝트들로부터 성공적인 경력을 보유함으로써 그 효율성을 실감할 수 있도록 보여주기 때문이다. 경기도 지사 손학규도 여전히 잠재적인 경쟁자다. 마지막으로, 한나라당의 젊은 의원들 사이에서는 박근혜에 대하여 금방이라도 터질 것 같은 불만이 오랫동안 존재해 왔다. 더군다나 그들은 그들 중 한명인 오세훈이 새 서울시장이 되도록 선거를 획책한 이후에 더욱더 자신감을 가지게 되었다. 대체로 많은 평자들은 대선이 여전히 18달이나 남아 있기에 한나라당이 현재의 긍정적인 여세를 유지하기가 힘들 것이라고 지적하기도 한다. 
+
+THE GOH KUN FACTOR
+------------------
+고건이라는 요인(factor)
+--------------------
+10. (C) Former Seoul Mayor and Prime Minister Goh Kun appears well-positioned to take advantage of the divisions within the Uri Party and the GNP. As a moderate statesman
+associated with a mature leadership style, a Goh candidacy would likely draw support from moderate members of both GNP and Uri parties. Throughout the year, Goh has consistently
+topped polls asking voters about potential presidential contenders. In the June 5 Gallup Poll, for example, Goh placed first with an approval rating of 26.7 percent, followed by Park Geun-hye (24.4 percent) and then Lee Myung-bak (22.8 percent). Various parties have been trying to recruit Goh over the past several months, but Goh remained noncommittal. The local elections seem to have compelled him to break his silence, at least to disavow alleged plans to join an existing party. In a June 4 interview, Goh told reporters that he would rather establish a new political coalition, an "alliance of forces pursuing pragmatic reforms." No one is quite sure what he has in mind, but if his intent is to provide an alternative to President Roh and the flailing Uri Party, the South Korean electorate would
+likely be receptive.
+10. (C) 전 서울 시장이자 국무총리인 고건은 열린우리당과 한나라당 내부의 분열로부터 이득을 얻기에 좋은 위치에 있는 것으로 보인다. 온건 정치가이자 성숙한 리더십 스타일을 지닌 고건 후보는 한나라당과 열린우리당 양측 모두의 온건한 성향을 지닌 의원들로부터 지지를 이끌어낼 것으로 보인다. 일 년 내내 고건은 유권자들에게 잠재적인 대통령 경쟁자를 묻는 여론조사에서 1위를 차지해왔다. 예를 들어 한국 갤럽의 6월 5일의 여론조사에서는 고건이 26.7퍼센트의 찬성표를 얻어 1위를 차지했고, 박근혜가 24.4퍼센트, 이명박이 22.8퍼센트로 그 뒤를 따랐다. 많은 정당들은 지난 몇 달 동안 고건을 끌어들이려 했으나 고건은 여전히 입장 표명을 확실히 하지 않고 있다. 지방 선거는 그의 침묵을 깨게 할 것으로 보인다. 아니면 적어도 현재 존재하는 정당에 들어갈 것이라는 진위가 의심스러운(alleged) 계획을 부인하기라도 할 것이다. 6월 4일 인터뷰에서 고건은 기자들에게 차라리 새로운 정치적 연합, 즉 “실용적인 개혁을 추구하는 세력의 동맹”을 만들 것이라고 말했다. 아무도 그가 무슨 생각을 하는지는 확신할 수 없으나, 그의 의도가 노 대통령과 매타작당한(flailing) 열린우리당에의 대안을 제시하려는 것이라면 한국 유권자들은 그를 잘 받아들일 것이다.
+
+VERSHBOW

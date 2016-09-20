@@ -1,0 +1,303 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1480  |  2008-07-25 06:08  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>EFIN EINV ECON PREL PGOV KS }}  |
+====== 제 목: 론스타와 은행 민영화, 금융 규제 철폐 관련 전광우 금융위원회 위원장 견해 ======
+  * 기 밀 SEOUL 001480  
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국무부 경제국, 경제에너지비지니스국 -고써트((번역 주: 한글이름은 창작, Heather Goethert (EB/IFD/OIA) goetherthg@state.gov (202) 647-8988)),동아시아태평양/한국담당 귀하
+  * 미국무역대표부 웬디 커틀러 및 트릭 귀하
+  * 재무부 국제국/국제안보국, 폿지 및 윈십 귀하((번역 주: POGGI AND WINSHIP ))
+  * 국가안전보장회의 로이 및 프라이스 귀하((번역 주: LOI AND PRICE))
+  * 행정명령 12958: 비밀해제: 7/25/2018 
+  * 태그: EFIN(( [Financial and Monetary Affairs])), EINV (([Foreign Investments])), ECON (([Economic Conditions])), PREL (([External Political Relations])), PGOV (([Internal Governmental Affairs])), KS(( [Korea (South)])) 
+  * 제 목: 론스타와 은행 민영화, 금융 규제 철폐 관련 전광우 금융위원회 위원장 견해
+  * 참 조: [[07SEOUL2695|가. 07SEOUL2695]] 나. 07 SEOUL 1966 다. SEOUL 1227 
+  * 분류자: 버시바우 대사 근거 1.4 B&D. 
+  * 번역자: **PoirotKr** (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/11/23 01:50//
+===== 요약 =====
+요 약: 7월 24일 대사와의 회의에서, 전광우 금융위원회 위원장은 당일 일찍 있었던 언론보도를 확인해 주었는데, 금융위원회가 홍콩상하이 은행(HSBC)이 지배주주 자격이 있는지 심사개시를 고려하고 있다고 했다. 그렇게 함으로써 홍콩상하이 은행이 달라스에 기반을 둔 비공개 기업투자회사인((번역 주: private equity firm, 정식명칭이다,혹은 '사모투자전문회사' 란 용어도 있음, 국내에선 부동산투자 헤지펀드로 알려져있다.)) 론스타가 현재 보유하고 있는 주식을 사들이기 시작할 것이다. 전 위원장은 한국 내에서 이 문제가 계속해서 민감한 문제임을 언급하면서, 만일 심사가 시작되면, 홍콩상하이 은행 심사는 완성하려면 추가적 1~2개월 정도 소요될 것이라고 설명했다. (7월 25일에, 금융위원회는 7월 마지막 주에 홍콩상하이 은행의 승인심사 개시가 결정됐음을 공식적으로 발표했다.) 전 위원장은 오래된 이 문제를 해결할 책임을 언급하면서, 자신은 이 문제가 해외 투자자들에 미치는 부정적 효과를 이해하고 있다고 강조했다. 그는 양 당사자인 론스타와 홍콩상하이 은행이 홍콩상하이 은행 자격심사 결정을 진일보한 긍정적 조치로 받아들이고, 매각계약을 마감일인 7월 31일을 이후로 연장하길 희망한다고 했다. 전 위원장은 자신의 전반적인 정책 목표에 대해 언급을 했는데, 이는 금용부문 개혁, 은행 민영화(한국산업은행, 우리은행 및 기업은행) 및 금융 규제철폐 등을 아우른다. //요약 끝.//
+===== 개 요: 개혁목표 =====
+2.(기밀) 회의 초반에 전광우 금융위원회 의장은 이명박 대통령이 한국의 금융부분이 경제성장의 주 동력으로 인식하고 있다고 강조했다. 전 의장은 이런 대통령의 정책목표를 뒷받침하는 자신의 임무를 다졌는데, (1) 금융 규제철폐, (2) 국가소유의 은행 민영화 그리고 (3) 고객 서비스 강조 및 추가적 민간부문 전문 지식를 보유하는 식으로 금융위원회 산하 금융감독기구 내부의 한층 더 고객친화 접근방식 채택 등이다. (주석: 2월 이명박 정부의 출범할 때, 금융정책 책임이 전 재정경제부((번역 주: MOFE,Ministry of Finance and Economy))에서 금융위원회로 이전됐고, 이 명칭도 금융감독원에서((번역 주:  the Financial Supervisory Commission)) 금융위원회로 변경되면서, 한국정부의 핵심금융정책을 주도하고 있다. //주석 끝.//)
+===== 론스타 =====
+3.(기밀) //“이것이 당신의 방문에 대한 선물이다”//라고(전 주에 잡혔던 방문) 설명하면서, 전 위원장은 홍콩상하이 은행이 외환은행의 대주주 자격여부를 처리하는 심의를 금융위원회가 주중에 발표하기 희망한다며 대사에게 전했다. 전 의장은 국제 금융사회의  한국의 평판을 개선하는데 계속되는 도전에 직면하고 있다고 말했다. 이런 도전의 주요한 이유는 론스타가 외환은행의 주요 지분을 국민은행에게 현재는 홍콩상하이 은행에게 넘기려는 2년 묵은 노력에 장해물적인 몇몇 규제에 당면했다는 널리 퍼진 해외의 인식에 기인한다고 했다. 이런 점에서 전 의장은 론스타 건을 생산적인 방식으로 해결하길 원한다고 말했다. 아직 결정 난 것은 없다고 강조했지만, 전 의장은 한국정부는 금융위원회의 심의절차를 7월 31일 이전에 계시하기로 가닥을 잡고 있다고 말했다. 그는 금융위원회가 최근에 론스타 및 홍콩상하이 은행과 지분매각에 관한 의견을 나누고 있다고 설명했다. 전 의장은 이 문제의 대중적인 민감성을 볼 때, 자격심의에 관한 한국정부 내의 다른 의견들이 여전하다고 언급했지만, //“나는 이 것을 밀어붙일 것인데, 이 나라와 경제 및 금융부문을 위해 올바른 처사이기 때문”//이라고 덧붙였다. 비록 한국정부의 일부 부문에서 여전히 매각이 결국 승인이 될 거란 신호에서 불거질 부정적인 후유증을 어떻게 처리하느냐 여전히 우려가 되고 있지만, 전 의장은 한국 정부의 다수의견은 이젠 더 이상 자격심의를 중단 상태로 나두지 말자는 것이라고 말했다. 전 의장은 //“이 것이 당신에게 반가운 소식이죠, 하지만 내가 위험을 감당할 것임니다”//라고 덧붙였다. 결정이 아직 발표되지 않은 점을 고려해, 전 의장은 대사에게 자신의 발언을 발설하지 말라고 요청했다.
+
+4.(기밀) 대사는 이 소식은 반가운 소식이라고 거들면서, 만일 7월 31일 까지 진전이 없으면 외환은행 거래가 와해될 것이며, 그렇게 되면 국제비즈니스사회에 한국의 평판이 손상을 입을 것이라고 평가했다. 거래가 와해되지 않더라도, 이 건을 끌면 끌수록 한국의 평판은 더욱 손상을 입을 것이라고 했다. 전 의장은 //“저도 확실히 동의합니다”//, 그러면서 대사관의 질의에 답변하길, 홍콩 상하이 은행의 심의 절차가 아마 1-2 개월은 걸릴 것이라고 말했다. 홍콩상하이 은행이 대주주로써 자격승인을 받은 후에도 외환은행을 매입하려면 여전히 금융위원회의 개별적 승인을 받아야 한다. 전 의장은 금융위원회의 공식심의 개시발표는 또한 법적인 불확실성을 해소하려는 열망의 발현이라면서, //“초기 하급 법원에서 자기자본비율의 저평가 소건에 관한 판결이 외환은행 인수승인을 진행하는데 대한 추가적 대의명분으로 판결되는 것이 고무적일 것”//이라고 했다. (주석: 전 의장은 2003년 중반의 론스타의 외환은행 처음 인수 관련 현 소건들을 지칭하는 것이다. 전 의장은 이 소건에 대한 어떤 항소 건이 생기길 기대한다는 언급은 없었고, 또한 개별 소건인 외환은행의 카드 자회사의 2003년 사외주 매입 건을 지칭하는 것이 아니다.)
+
+5.(기밀) 만일 자기자본비율 관련 소건에서 론스타 혹은 홍콩상하이 직원 누구도 유죄판결이 나지 않으면 외환은행매각 및 민심은 어떻게 될지 묻자, 전 의장은 미소지으며, //“최악의 경우는 당사자들이 금융당국에게 바라는 대로 하는 것일 겁니다”// (예로 론스타에게 자신의 외환은행 주식 매각 명령을 내리는 것). 대사는 론스타의 관계자들이 자기자본비율 소건에 연루되지 않은 점을 볼 때 외환은행 매각승인의 모든 과장이 조속히 마무리되길 바란다고 했다. 전 의장은 말 뜻을 파악한 듯 했지만 만일 자기자본비율 소건의 절차와 론스타의 불법행위 협의 사이에 분명한 연관성이 없다 손 처도 대중들은 인식은 변함없다고 지적했다. 전 의장은 론스타가 홍보활동에 더욱 참여해서 론스타의 부정행위 협의관련 한국민의 오해가 없도록 애쓰고 해서 최종적인 외환은행 매각에 대한 대중의 반응에 준비해야 한다고 독려했다.
+
+6.(기밀) 대사는 이 사건의 민감성을 이해한다고 말했지만, 한국정부가 어떤 최종 결정 발표든 언론의 휴일 직전에 계획할 것을 제안했다―모든 신문들이 활동을 멈출 시점인 아마도 추석명절인 11월 중순 저녁 즈음―전 의장은 가능한 빨리 론스타 사건이 해결 되길 자신은 희망한다고 재 언급했다. 전 의장은 현시점에는 론스타 및 홍콩상하이 은행 공히 한국정부의 홍콩상하이 은행의 임박한 자격심사 결정을 진일보한 긍정적인 조치로 보고, 당사자간 매각 계획을 7월 31일 이후로 매각 계획 마감일을 연장하는 것이 중요하다고 했다. (주석: 런던 파이넨셜 타임즈는 7월 24일에 홍콩상하이 은행이 자신의 매입 조건으로 마감일을 이후로 연장할 것이지만, 매입단가를 재협상할 것이라고 보도했다. //주석 끝.//)
+
+7.(기밀) 별도로 7월 25일 금융위원회는 홍콩상하이 은행(HSBC)의 자격심사 착수 결정을 했다고 발표했다. 금융위원회 관계자는 재판소가 자기자본비율 저평가 소건의 판결이 나기 전까지는 실재 외환은행 매각의 자격승인 허가 계획이 없다고 지적했다. (주석: 이 소건은 서울중앙지검 사무소에 의해 2006년 11월에 제기됐고, 전 외환은행 및 한국정부 관리들이 “인위적”으로 외환은행의 가치를 저평가하고 시장가격 이하로 부당한 설정을 했다는 협의이다. //주석 끝.//)
+
+8.(기밀) 주석: 대사는 론스타•홍콩상하이은행 계약의 다가올 7월 31일 마감일과 거래가 깨질 전망에 더해 투자자 사이에서 한국의 평판에 미칠 손상에 대해 이전에도 우려를 표명했었다. 당시 만남을 개요하자면: 청와대 경제수석 박병원 (7월 2일); 사공일 국가경쟁력 위원장(7월 14일); 김종훈 통상교섭본부장(7월 15) 등이다. //주석 끝.//
+===== 은행 민영화 =====
+9.(기밀) 전 의장은 자신의 개혁구상의 가장 성공적인 열쇠는 은행 민영화 임을 재확인했다. 그는 자신이 (100퍼센트 국가지분) 한국산업은행 주식, (73퍼센트 국가지분) 우리은행, (67퍼센트 국가지분) 한국기업은행 등의 상당량 주식을 다가올 4년 간에 걸쳐 매각하려고 국회의 승인을 현재 추진하고 있다고 언급했다. 이런 점을 밀고 나가는 과정에서, 전 의장은 이 정도 양의 금융주를 시장이 흡수할 능력에 대한 걱정이 있고, 이들 주식처분에 대한 복합적 선택사항 및 순서를 계속해서 검토할 것이라고 말했다. 현재로선, 전 의장이 올해 말경에 우리 은행지분의 7퍼센트를 매각할 수 있을 것임을 확신하지만, 이들 지분의 매각이―2010년 즈음에 한국산업은행 지분의 49퍼센트―물론 시장상황에 달려있다. 그는 기업은행에 대한 (현재 중소 규모의 기업의 자금조달을 담당) 민영화는 아직 결정된 바 없지만, 이들 3개의 은행 민영화 노력의 전반적인 순서는 나중에 나올 것이라고 덧붙였다. 전 의장은 //“세계적 성장세 완화 및 에너지 및 물가 상대적으로 높은 가운데 금융시장이 아직 살 어름 판이라고 했다.”// 이런 상황에서 전 의장은 상승효과를 낼 국내 은행 사이의 합병 및 인수를 늦출지 않을 것이지만 현재는 지역 은행들에게 자신의 위험관리수단 개선을 최우선시하라고 촉구하고 있다고 했다.
+
+10(기밀) 전 의장은 대사에 대한 답변으로, 한국정부가 비금융권의 회사가 은행지분의 10퍼센트를 소유를 허락하는 금융위원회의 제안에 대한 국회의 승인을 얻는 것이 //“쉽지 않을 것이다”//라고 인정했다. 그는 비 정부단체, 학계, 그리고 국회의원 등이 이런 제한에 저항하고 있는데, 이들은 재벌(한국의 대기업)들이 합작형태로 규합해서, 은행을 자신들의 공동 소유로 지배할 것이고 그래서 은행의 대출정책을 총괄할 것이라고 두려워하고 있기 때문이라고 했다. 그는 //“촛불 집회”//의 요인도 이런 제안들에 조심스럽게 진행하는 또 다른 이유인 즉 자칫 긍정적으로 보이지 않을 경우 대중의 반발을 자초할 수 있기 때문이라고 했다.
+===== 규제철폐 =====
+11.(기밀) 규제철폐로 넘어와서, 대사는 금융위원회가 서울 인근에 소위 부동산 투기 지역에서의 사설 주택대출 보험업자에((번역 주:  private mortgage insurers)) 대한 국내 시장 개방에 대한 어떤 계획이 있는지 물었다. 그는 규제철폐 조치들이 정부 보유의 서울보증보험에서((번역 주: Seoul Guaranty Insurance Corporation, SGIC)) 야기된 위험부담을 다각화하는데 도움일 될 것임을 지적했다. 전 의장은 젠워스가((번역 주: {{http://www.genworth.co.kr|젠워스모기지인슈어런스}}))(미국 회사로 제너럴일렉트릭에서 분리된 계열사) 그 기업의 최고경영자의 3월 방문에서 이미 자신에게 문제를 재기했다고 대답했다. 전 의장은 시장을 개방하는데 항상 열린 생각을 갖고 있으며, //“원칙적으로 경쟁은 좋은 것이기 때문”//이기도 하지만 금융위원회는 어떠한 신 시장진입업체의 기록 점검이 필요 할 것이라고 했다. 잠시 자신의 보좌관과 협의를 한 후에, 전 의장은 금융위원회가 예정된 되로 시장개방을 진행할 것임을 표명했지만, 이 쟁점은 1997-98년 금융위기 이후 서울보증보험에 투자된 공적 자금이 미화 100억 달러 상당의 회수문제가 걸려 있다고 했다.
+===== 논평 =====
+12.(기밀) 전광우 의장은 인디아나 대학에서 박사학위를 받았으며, 론스타/외환은행 건을 놓고 국제투자사회의 불확실한 평판이 이미 자리하고 있는 문제를 분명하게 이해했다. 더구나 구식 한국 민족주의자들과는 다르게 전 의장은 (홍콩상하이 은행에 팔기 보다는) 한국의 은행 중에 //“최고의 승자”//로 만들기 위한 단계적 구성요소로써  외환은행을 흡입력으로 이용하는 것에 거부감이 없는 것 같았다. 논의 중에 한 시점에, 전 의장은 외환은행에 맛선 몇몇 //“대중의 저항”//이 다른 한국 은행들에 의해서 진두 지휘되고 있는데, 이들 은행이 홍콩상하이 은행의 시도가 좌절되길 바라고 있는데, 결국 대신에 이들이 외환은행을 사들일 수있기 때문이라고 냉소적인 발언을 했다. 현재 정치환경, 즉 쇠고기에 대한 국민적 저항이 여전히 간헐적으로 발생하고, 또한 국회는 여전히 쇠고기 협상의 국정조사로 인해 마비된 상태인 점을 볼 때, 홍콩상하이의 (외환은행) 매수승인이 이명박 정부에게는 험난한 여정일 것이 분명하다. 대사관의 외환은행 접선책도 그렇게 인식하고 있는 것으로 보이며, 이번 달 말에 이 문제가 완전한 해결책이 나오길 바라기 보다는, 단순히 어떠한 진전된 신호가 나오길 희망하고 있다. 모든 것을 감안해서, 전 의장은 이런 과정 속에 해결책을 내는 계획이 있는 것처럼 보였고 대통령 정무수석에게 ( 이이는 분명히 이러한 민감한 문제를 완전히 피하길 바라고 있다)  이를 실행에 옮기도록 하라고 도전장을 던졌다. 더 넓게 보면 쇠고기 사태의 정치적인 후유증에도 불구하고, 한국정부는 해묵은 문제에 관해서 몇 가지 움직임을 보이려는 기미가 있는데, 반가운 신호이다. //논평 끝.//
+//버시바우//
+위키리크스 코리아 ©무단복제나 전재를 금지합니다.
+===== 원본 및 다운로드 =====
+<code - 08SEOUL1480.rtf>
+C O N F I D E N T I A L SEOUL 001480 
+ 
+SIPDIS 
+ 
+STATE FOR E, EEB - GOETHERT, EAP/K 
+USTR FOR CUTLER AND TRICK 
+TREASURY FOR IA/ISA/POGGI AND WINSHIP 
+NSC FOR LOI AND PRICE 
+ 
+E.O. 12958: DECL: 7/25/2018 
+TAGS: EFIN [Financial and Monetary Affairs], EINV [Foreign Investments],
+ECON [Economic Conditions], PREL [External Political Relations],
+PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: FSC CHAIRMAN ON LONE STAR, BANK PRIVATIZATION AND 
+FINANCIAL DEREGULATION 
+ 
+REF: (A) 07 SEOUL 2695 (B) 07 SEOUL 1966 (C) SEOUL 1227 
+ 
+Classified By: AMB. VERSHBOW FOR REASONS 1.4 B&D. 
+ 
+¶1.  (C) SUMMARY: In a July 24 meeting with the Ambassador, 
+Financial Services Commission (FSC) Chairman Jun Kwang-woo 
+confirmed press reports earlier that day that the FSC was 
+considering soon launching its review of Hong Kong Shanghai 
+Banking Corporation (HSBC)'s qualifications as majority 
+shareholder of Korea Exchange Bank (KEB), thereby teeing up 
+HSBC to purchase the stake currently held by Dallas-based 
+private equity firm, Lone Star.  Jun noted the continuing 
+sensitivity of this issue in Korea, and explained that if 
+started, the HSBC review would require an additional 1-2 
+months to complete.  (On July 25, the FSC officially 
+announced that it had decided to begin the regulatory review 
+of HSBC the last week of July.)  Jun noted his commitment to 
+resolving this long-standing issue, stressing he understood 
+the adverse impact it was having on foreign investor's 
+perceptions of Korea.  He hoped both parties -- Lone Star and 
+HSBC -- would view a decision to review HSBC's qualifications 
+as a positive step forward and extend their sales contract 
+beyond the July 31 expiration deadline.  Jun also commented 
+on his overall policy objectives encompassing financial 
+sector reform, bank privatization (of KDB, Woori Bank, and 
+IBK), and financial deregulation.   End Summary. 
+ 
+Introduction: Reform Goals 
+-------------------------------------- 
+¶2.   (C)  At the meeting's outset, FSC Chairman Jun 
+emphasized that President Lee Myung-bak has identified 
+Korea's financial sector as a major engine of economic growth 
+over the coming decades.  Jun was committed to supporting 
+this Presidential policy goal by pursuing (1) financial 
+deregulation, (2) the privatization of state-owned banks, and 
+(3) the adoption of a more client-friendly approach within 
+the Financial Supervisory Service, the FSC's supervisory arm, 
+by stressing customer service and bringing in more private 
+sector expertise.  (Note:  At the start of President Lee's 
+term in February, the financial policy responsibilities of 
+the former Ministry of Finance and Economy were transferred 
+to the FSC, whose name was changed from the Financial 
+Supervisory Commission to the Financial Services Commission, 
+and which then assumed the ROKG lead on key financial policy 
+issues.  End note.) 
+ 
+Lone Star 
+------------- 
+¶3.  (C)  Explaining "this is the gift for your visit" (which 
+was scheduled the preceding week), Jun told the Ambassador 
+that he was hoping to make an announcement within the week of 
+starting the FSC review process to qualify HSBC as a majority 
+owner of KEB.  Jun said he faced a continuing challenge in 
+improving Korea's reputation in the international financial 
+community, chiefly due to a widespread foreign perception 
+that Lone Star has encountered several regulatory roadblocks 
+in its two-year-long attempt to sell a majority stake in KEB 
+first to Kookmin Bank and now HSBC.  In this light, Jun said 
+he wanted to tackle the Lone Star case in a productive way. 
+While stressing that no decision had yet been finalized, he 
+said the ROKG was leaning toward beginning the FSC review 
+process before July 31.  He explained that the FSC had 
+recently begun communicating with Lone Star and HSBC on these 
+deliberations.  Jun noted that different views on the review 
+still existed in the ROKG in light of the public sensitivity 
+of the issue, but added, "I'm going to push this forward 
+because it is "the right thing to do for the country, the 
+economy and the financial sector."  Jun said the ROKG's 
+majority view was not to keep the review process on hold any 
+longer, although some quarters of the ROKG were still 
+concerned about how to deal with negative repercussions 
+stemming from giving a signal that the sale might eventually 
+be approved.  Jun added, "This is encouraging news for you, 
+but I will take a hit."   Given the fact that the decision 
+had not yet been announced, Jun asked the Ambassador to 
+closely hold his comments. 
+ 
+¶4.  (C)  The Ambassador remarked that this was encouraging 
+news, and commented that if lack of progress by July 31 led 
+to the collapse of the KEB deal, it would hurt Korea's 
+reputation in the international business community.  Even 
+ 
+without the deal's collapse, the longer this case dragged on, 
+the more it damaged Korea's image.  Jun replied, "I certainly 
+agree,"  and in response to the Ambassador's query, Jun said 
+that HSBC's review process would probably require 1-2 months. 
+ Once approved as a qualified majority stakeholder, HSBC 
+would still require a separate FSC approval to purchase KEB. 
+Jun noted the FSC's announcement of the start of the formal 
+review might also reference a desire to see legal 
+uncertainties resolved, adding: "It would be nice to have the 
+initial lower court decision on the BIS-ratio understatement 
+case as an added justification for going ahead with the sale 
+approval."  (Note: Jun was referencing the current court 
+cases related to the original Lone Star acquisition of KEB in 
+mid-2003.  Jun did not mention waiting for any appeals to 
+that case to play out, nor did he reference the separate 
+court case on KEB's late 2003 purchase of outstanding shares 
+in its credit card subsidiary.) 
+ 
+¶5.  (C)  Asked what might happen to the KEB sale (and public 
+sentiment) if the defendants in the BIS-ratio case, none of 
+whom are Lone Star (or HSBC) employees, were found guilty, 
+Jun smiled and said, "Well, it seems like the worst we could 
+do is just what they want us to do" (i.e., order Lone Star to 
+sell its KEB shares).  The Ambassador expressed the hope that 
+the entire process of approving KEB's sale would be completed 
+quickly since no Lone Star officials were implicated in the 
+BIS-ratio understatement cases.  Jun took the point but noted 
+that even if there were no clear linkage between the 
+BIS-ratio court proceedings and allegations of wrongdoing by 
+Lone Star, the public perception persisted.  He then asked 
+the Ambassador to encourage Lone Star to undertake more 
+public relations work with the Korean public to help put 
+alleged Lone Star irregularities into a proper context and 
+thus prepare the public for an eventual KEB sale. 
+ 
+¶6.  (C)  The Ambassador said he understood the sensitivity of 
+this case, but suggested the ROKG plan to announce any final 
+decision just before a media holiday -- pehaps on the eve of 
+the mid-September Chuseok thanksgiving holiday, when all 
+newspapers are shut down.  Jun reiterated it was his hope 
+that the Lone Star case be resolved as soon as possible.  Jun 
+added it was also important at the present time that both 
+parties -- Lone Star and HSBC -- view the ROKG's impending 
+decision to review HSBC's qualifications as a positive step 
+forward and extend their sales contract beyond the July 31 
+expiration deadline of their sales contract.  (Note:  The 
+London Financial Times reported July 24 that HSBC is highly 
+likely to extend the terms of its offer beyond the deadline 
+but may seek to renegotiate price.  End note.) 
+ 
+¶7.  (C)  Separately, on July 25, the FSC formally announced 
+that it had decided to start the regulatory review of HSBC 
+during the last week of July.  An FSC official noted his 
+agency does not plan to grant regulatory approval of the 
+actual KEB sale until after the court has ruled on the 
+BIS-ratio understatement cases.  (Note:  These charged were 
+filed by the Seoul Prosecutor's office in November 2006 and 
+allege that former KEB and ROKG officials colluded in 
+"artificially" understating KEB's value and establishing an 
+improper below-market price.  End note.) 
+ 
+¶8.  (C)  Note: Ambassador had previously noted his concerns 
+about the upcoming July 31 deadline for the Lone Star-HSBC 
+contract, the prospects of the deal falling apart, and the 
+damage it would do to Korea's reputation among investors, in 
+tour d'horizon meetings with:  Blue House Senior Secretary 
+for Economic Affairs Bahk Byung-won (July 2); Chairman of the 
+Blue House Council on Competitiveness Sagong Il (July 14); 
+and Trade Minister Kim Jong-hoon (July 15).  End note. 
+ 
+Bank Privatization 
+------------------------- 
+¶9.  (C)  Jun reaffirmed bank privatization as key to the 
+success of his financial reform program.  He noted he is 
+currently pursuing National Assembly approval to sell 
+tranches of stock in Korea Development Bank (KDB - 100 
+percent state-owned), Woori Bank (73 percent state-owned) and 
+Industrial Bank of Korea (67 percent state-owned) over the 
+next four years. While pushing ahead on this front, Jun said 
+he had concerns about the markets' capacity to absorb this 
+much financial equity and continues to review sequencing and 
+ 
+combination options for the sales.  For now, he felt 
+confident he would be able to sell 7 percent of Woori Bank 
+shares later this year, but the sale of those shares -- and 
+49 percent of KDB shares by 2010 -- would depend on market 
+conditions.  He added that privatization plans for the 
+Industrial Bank of Korea (currently handling small- and 
+medium-sized enterprise financing) have yet to be finalized, 
+but will come late in the overall sequencing of the three 
+bank privatization efforts.  Jun added, "Financial markets 
+are still in choppy waters, with global growth softening and 
+energy and commodity prices remaining relatively high." 
+Under these conditions, he was not impeding synergistic 
+mergers and acquisitions among domestic banks but was 
+currently urging local banks to place a higher priority on 
+improving their risk management practices. 
+ 
+¶10.  (C)  In reply to the Ambassador's question, Jun admitted 
+it will "not be easy" for the ROKG to obtain National 
+Assembly approval for the FSC's recent proposal to permit a 
+non-financial company to own up to a 10 percent share of a 
+bank.  He pointed to NGOs, academics, and National Assembly 
+members as resistant to this proposal because they feared 
+chaebol (Korean conglomerates) would band together in 
+consortia to control banks through their joint ownership and 
+thus direct the banks' lending policies.  He acknowledged 
+that the "candlelight vigil" factor was another reason to 
+move forward cautiously on this proposal since it could 
+create a public backlash if not viewed positively. 
+ 
+Deregulation 
+----------------- 
+¶11.  (C)  Moving to deregulation, the Ambassador asked if the 
+FSC had any plans to open up the domestic market for private 
+mortgage insurers in so-called speculative real estate zones 
+in and around Seoul.  He noted this step would help diversify 
+the risk currently borne by the government-owned Seoul 
+Guaranty Insurance Corporation (SGIC).  Jun replied that he 
+believed Genworth (a U.S. company spun off from General 
+Electric's financial arm) had already raised this issue with 
+him during a March visit by that company's CEO.  Jun said he 
+was keeping an open mind on opening up the market, "since 
+competition in principle is good," but the FSC will need to 
+examine the record of any new market entrants.  Briefly 
+consulting his staff at the meeting, Jun noted the FSC will 
+proceed with the market-opening in due course, but the issue 
+also entails the recovery of some $10 billion in public funds 
+invested in SGIC after the 1997-98 financial crisis. 
+ 
+Comment 
+------------- 
+¶12.  (C)  Jun, who received his Ph.D. at Indiana University, 
+clearly understands the problem the Lone Star/KEB case poses 
+for Korea's already uncertain reputation in the international 
+investment community.  Moreover, unlike some old-school 
+Korean nationalists, Jun seems to be immune to the 
+attractions of using KEB as a building block to create a 
+"national champion" among Korean banks (rather than sell to 
+HSBC).  At one point in the discussion, he remarked 
+sardonically that some of the "public protest" against the 
+KEB sale was likely orchestrated by other Korean banks who 
+would like to see the HSBC deal collapse so they could 
+purchase KEB instead.  In the current political environment 
+-- with public protests over beef still occurring 
+intermittently, and with the National Assembly still 
+paralyzed by the parliamentary investigation of the beef 
+negotiations -- it is clear that immediate approval of the 
+HSBC sale would probably be a bridge too far for the Lee 
+government.  Our own contacts at KEB seem to recognize as 
+much, and are simply hoping for some sign of progress, rather 
+than complete resolution of the case, by the end of this 
+month.  On balance, Jun appears to have a plan in mind to 
+move this process to resolution, and has successfully 
+challenged the President's political advisors (who clearly 
+would prefer to avoid this sensitive issue entirely) by 
+beginning to implement it.  More broadly, the ROKG's 
+readiness to show some movement on this long-standing issue, 
+despite the lingering political aftermath of the beef 
+episode, is an encouraging sign.  End comment. 
+VERSHBOW
+</code>

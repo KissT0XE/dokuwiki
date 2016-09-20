@@ -1,0 +1,443 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL4165  |  2006-12-05 08:38  |  2011-08-30 01:44  |  기밀  |  주한미국대사관  |  {{tag>PARM PREL MNUC KNNP KN KS }}  |
+====== 제 목: 남북 화물 검색 강화 ======
+기 밀 SEOUL 004165 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+행정명령 12958: 비밀해제: 12/05/2016 
+태그: PARM(([Arms Controls and Disarmament])), PREL(([External Political Relations])), MNUC(([Military Nuclear Applications])), KNNP(([Nuclear Non-Proliferation])), KN(([Korea (North)])), KS(([Korea (South)]))
+제 목: 남북 화물 검색 강화
+참조: 가. SEOUL 4143    [[06seoul3970| 나.SEOUL 3970]] 
+분류자: 알렉산더 버시바우 대사.  근거 1.4 (b/d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/09/21 19:10//
+===== 요점 =====
+
+1. (기밀) 요점과 행동 요청: 2004년 출범한 동, 서해지구 수송로는 비무장지대를 통과함으로써 남한 시민과 상품이 북한을 오고 가도록 가능해졌지만 감시는 하나의 도전사항이었다. 문제는 북한 핵과 미사일 개발 활동이 계속되는 점에 비추어 더욱 확연해졌다. 한국정부가 유엔안보리 결의안 1718호의 요건을 충분히 집행하도록 마련된 방비조치를 확보했는지 대사관과 주한미군은 우려된다. 대사관은 동, 서해 수송로를 통한 사람과 상품의 이동에 대한 한국정부의 한층 철저한 검사 체제를 모색하는데 국무부의 동의를 구한다. 대사관은 가능한 한 조속히 감시 강화의 수단으로 무선 주파수 식별 장치를 비무장지대에 들여놓도록 수출 승인서를 제공하기 위해서 미국정부의 동의를 요청하는 바이다. 18문단의 행동 요청을 보라 //요점 끝.//
+
+===== 정전 협정 =====
+
+2. (비분류) 비무장지대는 4km 폭의 완충지대로 남북을 분리하는 군사분계선에 의해 중심부가 나누어져 있다. 1953년 정전 협정에 따라서, 북한 인민군이 북쪽 2km의 책임을 지고, 반면 유엔사령부가 남쪽 2km에 대한 관할권을 가지고 있다.
+
+===== 개성까지 서해지구 =====
+
+3. (비분류) 2000년 6월 남북정상회담에서 당시 김대중 한국 대통령과 김정일 북한 지도자는 비무장지대를 가로질러 두 나라를 연결하는 철도연결을 약속하였다. 그 결과 그 해 11월 17일 유엔군 사령부는 (서해지구) 수송로를 설립하고 수송로의 남반부 관리통제를 한국 국방부에 이양하고, 반면에 북한 인민군이 북반부의 통제를 계속 유지하는 정전협정 후속합의서에 서명하였다. 서해지구 지뢰제거 작업은 2002년 크리스마스에 완료되었고, 2003년 6월에 한국은 서해지구과 군사분계선을 연결하는 4차선 포장된 고속도로를 완성하였다. 그 해 10월 즈음에, 한국은 철도를 하나 추가했으나 현재까지 사용되지 않고 있다.
+ 
+4. (비분류) 서해지구은 남북경제협력의 상징적인 사업인 16,000에이커 개성공업지구를 오고 가는 원자재와 상품, 그리고 인력의 수송에 주로 사용된다. 2004년 가을 이래로 가동 중인 서해지구은 주 6일 운영하며 일요일에는 닫힌다.
+<WRAP center round info>
+//**동, 서해지구 수송로?**//남북을 연결하는 도로는 경의선 구간이(서해지구) 통일대교 북단～개성 간 12.1km이고 동해선 구간이(동해지구) 송현리～북고성 간 24.2km 이다. 철도는 경의선 구간이 문산～개성 간 27.3km이고 동해선 구간은 제진～금강산 간 25.5km입니다. 자세한 내용은 [[http://bit.ly/RvTvTI|남북 철도·도로연결사업에 대해 알고 싶어요.]]
+</WRAP>
+
+===== 금강산까지 동해지구 =====
+
+5. (비분류) 2002년 9월 12일에 유엔군 사령부는 두 번째 수송 회랑을 (동해지구) 설립하는 두 번째 정정협정 후속합의서에 합의하였다. 서해지구과 마찬가지로, 동해지구의 남반부는 관리통제는 유엔군 사령부에서 한국 국방부로 이양되었다. 군사분계선까지 지뢰 제거작업은 2003년 5월에 완료되었다. 동해지구은 2004년 가을에 가동되었다. 그 이후로 주로 남한 관광객의 금강산 관광 휴양지 입·출입 수송을 담당하였다. 동해지구은 주 7회 가동된다.
+
+===== 유엔군 사령부 군사 정전 위원회의 역할 =====
+
+6. (민감하지만비분류) 정전 협정에 의하면((번역 주: 후속합의서를 말한다.)), 비무장지대를 통과하는 모든 움직임은 유엔사 군사정전위원회(이하 군정위)의 사법권 하에 속한다. 그러므로 유엔사 군정위는 유엔사 회랑통제관이 동, 서해 수송로를 감시하도록 배치한다. 유엔사 회랑통제관의 의무는:
+  * 정전 준수를 담보하고 감시한다.
+  * 유엔군 사령부의 주재를 유지한다.
+  * 유엔사 사령관의 눈과 귀를 담당한다.
+  * 동, 서해지구 수송로와 유엔사 간에 연락을 담당한다.
+  * 군사분계선의 통과를 감시, 차단하고 직원을 구성한다.
+7. (민감하지만비분류) 유엔사와 국방부 간에 예규 협정은 군사분계선 통과 승인절차를 제시한다. 해당 절차는 아래와 같다:
+  - 국방부는 한국 통일부의 군사분계선 통과 요청을 접수하고 수송 회랑 내부 유엔사 회랑통제관에게 해당 요청을 전달한다.
+  - 유엔사 회랑통제관은 해당 요청을 심사하고 그 요청을 유엔사 정전위 본부에 전달한다.
+  - 유엔사 정전위는 유엔사 회랑통제관에게 승인 또는 불승인 여부를 회신하고 서울 소재의 군사분계선 통제 센터에 임박한 통과를 통지한다.
+  - 북한인민군은 수송 회랑 상황실 소재의 팩스를 통해 회신한다. (주의: 북한인민군은 실상 이러한 절차를 수행한 적이 전혀 없다. 주석 끝.)
+  - 수송 회랑 상황실은 북한의 회신을 유엔사 정전위와 국방부에 모두에 전달하고, 그 뒤에 실재 통과를 관찰한다.
+
+===== 한국 출입국지역 시설물 =====
+
+8. (비분류) 남한 정부는 서해지구에 두 곳의 출입국지역 시설을 운영한다. 한 곳은 사람과 상품, 그리고 차량의 북한 입국을 검사한다; 다른 한 곳은 북한에서 남한으로 입성하는 사람과 상품, 그리고 차량의 검사를 위함이다. 한국정부는 동해지구 수송로 출입구에는 단 하나의 출입국지역을 운용하며, 그곳에서 교통은 대개 금강산을 출입하는 관광객을 수송하는 버스에 한정된다.
+
+9. (기밀) 그러나 법무부 단독으로 운영되는 한국의 다른 곳 출입국지역과는 다르게, 동, 서해지구 출입국지역은 한국 통일부가 공동 운영한다. 세관 당국은 통일부 다음 순번으로 해당 시설에 발령받으며, 법무부가 아닌 통일부가 해당 장소에서 어떻게 검사를 시행할지 전반적인 권한을 분명하게 갖고 있다.
+
+10. (기밀) 유엔사 회랑통제관은 동, 서해지구 수송로를 통과하는 모든 물품 목록사본을 접수한다. 유엔사 회랑통제관과 (미국 관계관) 부통제관(뉴질랜드나 영국 관계관)은 통과목록을 검토하지만, 출입국지역이 비무장지대 밖에 소재해 있기 때문에 화물을 검사하지 않는다. 유엔사 회랑통제관은 출입국지역의 감독 권한이 없어서, 통제관은 출입국지역 검사의 질이나 빈도를 확인할 수 없다.
+<WRAP center round info>
+//**출입국지역(Customs Immigration & Quarantine, CIQ)이란?**//
+세관,출입국관리소 및 검역소에서 통관, 출입국 및 검역업무 등을 집행하는 곳, 보통 그냥 '남북관리구역'으로 통한다.</WRAP>
+
+===== 한국정부의 검사의 특징 =====
+
+11. (기밀) 2004년에, 미국 관세 및 국경보호청팀은 한국정부의 검사 체계를 평가하기 위해 동, 서해지구 수송로를 방문하였다. 2004년 관세 및 국병보호청 보고에 따르면, 한국 세관원은 개성공업지구에서 남한으로 진입하는 모든 물자는 수송 컨테이너에 운송되게 되며 모든 컨테이너는 점검을 받게 된다고 미국 상대역들에게 말하였다. 현장에 통일부 당국자는 어떠한 컨테이너도 점검을 받지 않으며, 모든 컨테이너는 출입국지역을 그냥 //“통과”//할 거라고 이 발언을 반박하였다. 조사에 노출된 컨테이너에 남한 봉인이 부착되었는지 질문을 받자, 한국 세관 당국자는 그렇다고 말하였지만, 통일부 당국자는 그 발언에 반박하면서, //“어떤 컨테이너도 점검하지 않는다.”//라고 관세 및 국경보호청팀에게 확언하였다.
+
+12. (기밀) 미 관세 및 국경보호청 보고는 출입국지역에서 형식적인 검사를 수행한다고 말하고 있다. 이러한 “//검사”//는 운송수단과 화물의 외관을 주로 육안으로 확인하는 과정이다. 한국 세관 직원들은 같은 운전자와 차량을 거의 매일같이 본다고도 보고서는 언급했는데, 그러한 익숙함은 그들의 의무 이행의 경계를 늦추게 될 수도 있다는 우려를 강조하였다.
+
+===== 불충분한 정보 =====
+
+13. (기밀) 관세 및 국경보호청 평가팀은 화물과 승객의 설명 정보가 불충분한 점도 발견하였다. 세관원이 보통 의무적으로 취급되는 정보도 물품목록에 포함되어 있지 않은데, 예로 시간, 방향, 승객 인원수, 차량의 수, 회랑 추적 번호, 그리고 화물의 간단한 설명 등이다.
+
+===== 하루에 300개 차량과 3,000명의 인원 =====
+
+14. (기밀) 유엔사 정전위에 따르면, 2005년 만 1년 동안 수송 회랑 고속도로의 운행은 총 649,290명 인원이 62,223개 차량을 타고 6,273회 국경을 횡단하였다. 동해지구 수송로는 금강산 버스 여행의 편의를 도모하는데 주요 이용되고 있는데, 관세 및 국경보호청은 북한에서 복귀하는 345 여행객의 통관 소요 시간은 대략 15분이 걸린다고 언급했으며, 차량을 따로 떼어 추가 검사를 하지 않거나, 개개인에 대한 추가적 질문을 하지 않는다. 상업적인 화물의 동해지구 수송로 이용은 금지되어 있다. 그러나 수송 회랑과 금강산 휴양지와 관련된 건설과 유지보수를 위한 물자의 운반은 허용된다.
+
+15. (기밀) 유엔사 수송 회랑에 소재한 회랑통제관과 미국 세관, 한국의 출입국지역은 이동형 혹은 고정형 비침입검사(엑스레이) 장비, 방사선 문형 감지기 혹은 다른 형태의 방사선 탐지장비를 갖추고 있지 않다. 게다가 위험 물질을 임시 보관할 지정 구역이 없다. 마약이나 폭발물, 혹은 사람을 탐지를 위한 경찰견이 현장에 없다. 마지막으로 출입국지역에 배치된 한국 세관원은 무기를 보유하지 않았다. 정치적이고 실용적인 이유로 유엔사 정전위는 비무장지대를 통해 남국을 횡단하는 물품을 조사하는 권한을 전혀 행사하지 않았다. 유엔사 정전위가 실용적 수준에서 검사를 하려면 상당한 인력을 증원해야만 한다. 더욱이, 유엔사 정전위는 비무장지대 밖에 있는 출입국지역에 대한 검사를 할 권한이 없으며, 유엔사 정전위 검사는 비무장지대 내부에서만 시행되어야 한다. 더 중요한 점은 만일 그러한 자원이 확보될 수 있더라도, 한국정부는 유엔사 정전위의 그런 검사를 허락하지 않을 것인데, 그 이유는 허락을 한다면 남한의 북한 포용정책을 상징하는 가장 중요한 두 사업에 대한 권한을 양도하는 것으로 인식되기 때문이다. 그러한 이유로 가까운 미래에는 한국정부만이 동, 서해지구 수송로에서 필요한 검사를 수행할 수있을 거라 우리는 믿고 있다.
+
+===== 강화된 검사? =====
+
+16. (기밀) 한국정부가 유엔안보리 결의안 1718호 이행을 위한 단계적 조치를 논의하기 위한 2006년 11월 회동에서 로버트 조셉 군비통제안보담당과 함께한 \\ 국방부망 배포 \\ 박인국 외교정책실장은 동, 서해지구 수송로 출입국지역 모두에서 검사를 강화할 거라고 말하였다(참조 전문 나). 박인국은 해당 장소에 세관원 추가 파견, 그리고 두 번째 검문지역의 설립을 요하는 등 검사 강화에 시간이 꽤 소요될 거라고 했다. 그러나 그는 강화된 검사의 결과가 될 거라고 약속하였다.
+
+17. (기밀) 공관 차석과의 더 최근 회동 중에, 박인국은 동, 서해지구 수송로에 설치할 무선 주파수 식별 장치의 수출 승인서에 대한 미국정부의 승인을 촉구하였다. 그는 미국이 승인하면 자신이 한층 엄격한 통제에 하도록 통일부 동료에게 독촉하는 게 가능해질 거라고 말하였다. 대사는 박인국의 진단에 견해를 같이 하면서, 비무장지대를 횡단하는 수송을 감시하는데 무선 주파수 식별 장치가 도움될 것으로 믿는다고 했다. 게다가 북한을 오고 가는 모든 상품과 사람을 엄격하게 감시할 필요에 대해 한국정부에 불분명한 신호를 보내지 않는 게 필요하다.
+
+===== 논평과 행동 요청 =====
+
+18. (기밀) 현재까지 우리가 검사 강화를 확인된 바 없다. 우리가 외부 압력이 없다면, 변화가 없을 거라고 보는 이유는 개성공단과 금강산 여행지를 출입하는 상품과 사람의 이동에 가하는 어떠한 제약에도 통일부는 강하게 반대하기 때문이다. 그러므로 우리가 고위 외교통상부 당국자들에게 이 문제를 제기하도록 국무부의 동의를 타진한다. 우리는 아래와 같은 논지에 대한 국무부의 동의를 권고한다:
+  * 과거 6개월 동안에 걸쳐, 북한은 미사일과 핵무기를 실험하였다.
+
+  * 한국을 비롯한 국제사회는 북한의 그런 도발적인 행동에 대해 만장일치 비난으로 대응하였다. 유엔안보리 결의안 1718호는 북한의 핵확산 위협에 맞대응하려면 각국이 무엇을 해야만 하는지 요약하고 있다.
+
+  * 유엔안보리결의안 1718호 8항은 모든 회원국은 특정한 군사 장비나 대량살상무기 관리 시스템이나 물자의 직접 혹은 간접적인 제공과 판매 혹은 운반을 방지해야만 한다.
+바로 그것과 관련해서 동, 서해지구 수송로에 소재한 한국정부의 통관, 출입국, 검역서비스의((번역 주: 3가지 의미를 함께 담고 있는 용어가 ‘출입구지역’이다.)) 적합성에 대해 미국은 우려한다.
+
+  *미국 관세 및 국경보호청의 2004년 보고에 따르면, 한국정부의 검사는 운송수단과 화물의 외관을 주로 육안으로 확인하는 과정이다. 우리 팀은 화물과 승객에 대한 설명 정보가 불충분한 점도 발견하였다. 세관원이 보통 의무적으로 취급되는 정보도 물품목록에 포함되어 있지 않은데, 예로 시간, 방향, 승객 인원수, 차량의 수, 회랑 추적 번호, 그리고 화물의 간단한 설명 등이다.
+
+  * 미국 관세 및 국경보호청은 한국 관할인 출입국지역이 이동형 혹은 고정형 비침입검사(엑스레이) 장비, 방사선 문형 감지기 혹은 방사선 탐지장비를 갖추고 않았음을 확인하였다. 또한, 위험 물질의 임시 저장을 위해 지정된 장소가 없다.
+
+  * 한국정부는 동, 서해지구 수송로에서의 출입국지역 검사 체제의 강화를 고려해야만 한다. 우리는 강화된 검사 체제에서는 추가적인 인력과 특히 현대적인 탐지 장치의 사용과 같은 다른 자원을 반드시 포함해야 한다고 믿고 있다.
+
+  * 동, 서해지구 수송로를 통과하는 여객수의 갑작스러운 증가를 볼 때, 한국정부는 출입국지역 출입검사의 개선을 위해서 통일부, 법무부, 국방부, 그리고 유엔사 정전위 등의 참여로 구성되는 여행자분석팀 설립을 역시 고려할 수도 있다.
+
+  * (만일 한국이 제기한다면) 미합중국은 무선 주파수 식별장치에 대한 외교통상부의 요청을 살펴볼 거라. 대사관은 비무장지대를 통과하는 화물 검사에 무선 주파수 식별장치가 도움된다는 외교통상부의 견해를 미국에 전달하였다. //논평 및 행동 요청 끝.//
+//버시바우//
+[[https://sites.google.com/site/poirotkr/5/06seoul4165|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://bit.ly/RvTvTI|남북 철도·도로연결사업에 대해 알고 싶어요.]] //통일부 통일교육권//
+  - [[http://bit.ly/UkiM3G|관세용어사전]] //안산세관//
+===== 원본 및 내려받기 =====
+<file rtf 06SEOUL4165.rtf>
+C O N F I D E N T I A L SEOUL 004165 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/05/2016 
+TAGS: PARM PREL MNUC KNNP KN KS
+SUBJECT: TIGHTENING INSPECTIONS OF NORTH-SOUTH CARGO 
+ 
+REF: A. SEOUL 4143 
+ 
+     ¶B. SEOUL 3970 
+ 
+Classified By: AMB. Alexander Vershbow.  Reasons 1.4 (b/d). 
+ 
+¶1.  (C) SUMMARY and Action Request:  Since their inception in 
+2004, the East and West Transportation Corridors -- allowing 
+goods and South Korean citizens to travel to/from North Korea 
+by passing through the Demilitarized Zone (DMZ) -- have been 
+a monitoring challenge.  The problem has become more acute in 
+light of continuing North Korean nuclear and missile 
+development activities.  Embassy and USFK are concerned that 
+the ROKG does not have adequate safeguards in place to 
+enforce fully the requirements of UNSCR 1718.  Embassy 
+requests Department's concurrence in seeking from the ROKG a 
+more thorough inspection regime for the movement of goods and 
+people through the transportation corridors.  Embassy also 
+requests Washington's agreement as soon as possible to 
+provide export licenses for a radio frequency identification 
+device (RFID) system to be placed on both sides of the DMZ 
+(Ref A) as a means to enhance monitoring.  See action 
+request, para 18.  END SUMMARY. 
+ 
+----------------------- 
+The Armistice Agreement 
+----------------------- 
+ 
+¶2.  (U) The Demilitarized Zone (DMZ) is a 4 kilometer-wide 
+buffer zone divided down the middle by the Military 
+Demarcation Line (MDL) that separates North and South Korea. 
+According to the 1953 Armistice Agreement, the Korean 
+People's Army (KPA) is responsible for the northern two 
+kilometers of the DMZ, while the United Nations Command (UNC) 
+has jurisdiction over the southern two kilometers. 
+ 
+--------------------------- 
+Western Corridor to Kaesong 
+--------------------------- 
+ 
+¶3.  (U) During the North-South summit in June 2000, then ROK 
+President Kim Dae-jung and North Korean leader Kim Jong-il 
+pledged to reconnect a railway connecting the two countries 
+across the DMZ.  As a result, on November 17 of that year, 
+the UNC signed a Subsequent Agreement to the Armistice that 
+established a (Western) Transportation Corridor (TC West) and 
+transferred administrative control of the corridor to the ROK 
+Ministry of National Defense (MND) on the southern half, 
+while the KPA retained control over the northern half.  Mine 
+clearing for TC West was completed on Christmas 2002 and in 
+June 2003, the ROK completed a four-lane paved highway that 
+runs through TC West to the MDL.  By October of that year, 
+the ROK had added a rail line as well, although it has not, 
+as yet, been used. 
+ 
+¶4.  (U) TC West is primarily used to transport raw materials, 
+goods and personnel to and from the 16,000-acre Kaesong 
+Industrial Complex (KIC), which serves as the signature 
+project in North-South economic cooperation.  Operational 
+since the fall of 2004, TC West corridor operates six days a 
+week and is closed on Sundays. 
+ 
+--------------------------------- 
+Eastern Corridor to Mount Kumgang 
+--------------------------------- 
+ 
+¶5.  (U) On September 12, 2002, the UNC signed a second 
+Subsequent Agreement to the Armistice establishing a second 
+transportation corridor (TC East).  As with TC West, 
+administrative control over the southern half of the corridor 
+was transferred from UNC to MND.  Mine clearing along the 
+corridor up to the MDL was completed in May 2003.  TC East 
+became operational in the fall of 2004, and since then has 
+primarily served to transport South Korean tourists to and 
+from the Mt. Kumgang sightseeing resort.  TC East is 
+operational seven days a week. 
+ 
+------------------ 
+The Role of UNCMAC 
+------------------ 
+ 
+¶6.  (SBU) According to the Armistice Agreement, all movements 
+through the DMZ fall under the jurisdiction of the United 
+Nations Command Military Armistice Commission (UNCMAC). 
+UNCMAC has therefore assigned a United Nations Command 
+Corridor Control Officer (UNCCCO) to monitor the 
+transportation corridors.  The UNCCCO's duties are to: 
+ 
+-- Monitor and ensure Armistice compliance 
+-- Maintain UNC presence 
+-- Serve as the eyes and ears of the UNC Commander 
+-- Serve as a liaison between the TC and the UNC 
+-- Screen, staff and monitor MDL crossings 
+ 
+¶7.  (SBU) There is a Standard Operating Procedures Agreement 
+between UNC and MND that outlines the MDL crossing approval 
+process.  That process is as follows: 
+ 
+a. MND receives the MDL crossing request from the ROK 
+Ministry of Unification and forwards the request to the 
+UNCCCOs in the TCs. 
+ 
+b. The UNCCCO screens the request and forwards it to UNCMAC 
+headquarters. 
+ 
+c. UNCMAC sends approval or disapproval back to the UNCCCO 
+and notifies the MDL control center in Seoul of the upcoming 
+crossing. 
+ 
+d. The TC situation room sends the approved crossing request 
+to the KPA via facsimile. 
+ 
+e. The KPA replies via facsimile to the TC situation room 
+(NOTE: The KPA has never, in fact, carried out this 
+procedure.  END NOTE.) 
+ 
+f. The TC situation room forwards the reply to both UNCMAC 
+and MND, then monitors the actual crossings. 
+ 
+------------------ 
+ROK CIQ Facilities 
+------------------ 
+ 
+¶8.  (U) The South Korean government operates two Customs, 
+Immigration and Quarantine (CIQ) facilities at the entrance 
+to TC West.  One is for inspecting people, goods and vehicles 
+headed into North Korea; the other for people, goods and 
+vehicles coming into South Korea from the North.  The ROKG 
+has only one CIQ facility at the entrance to TC East, where 
+the traffic is limited mostly to buses carrying tourists 
+headed to/from Mt. Kumgang. 
+ 
+¶9.  (C) However, unlike CIQ facilities elsewhere in the ROK, 
+which are operated solely by the Ministry of Justice, the TC 
+East and West CIQs are co-operated by the ROK Ministry of 
+Unification (MOU).  Customs officials posted to these 
+facilities are seconded to MOU, and it is that ministry, 
+rather than the Ministry of Justice, which clearly has 
+overall authority over how inspections are conducted at those 
+sites. 
+ 
+¶10.  (C) The UNC Corridor Control Officer receives copies of 
+the manifests of all items transiting through the 
+transportation corridors.  The UNCCCO (a U.S. officer) and/or 
+his deputy (a New Zealand or UK officer) review the transit 
+manifests, but do not inspect the cargo since the CIQ is 
+located outside of the DMZ.  Because the UNCCCO has no 
+oversight of the CIQ, he is unable to confirm the frequency 
+or quality of CIQ inspections. 
+ 
+--------------------------- 
+Quality of ROKG Inspections 
+--------------------------- 
+ 
+¶11.  (C) In 2004, U.S. Customs and Border Protection (CBP) 
+team visited the two transportation corridors to assess the 
+ROKG's inspections regime.  According to the 2004 CBP Report, 
+ROK Customs officials told their U.S. counterparts that all 
+materials entering South Korea from the Kaesong Industrial 
+Complex would be transported in shipping containers and that 
+all containers would be examined.  This statement was refuted 
+by the MOU official on-site who claimed no containers would 
+be examined, and that all containers would simply "pass 
+through" the CIQ.  Asked if a South Korean seal would be 
+affixed to the containers that had been opened for 
+inspection, the ROK customs official said yes, while the MOU 
+official once again refuted that statement and confirmed to 
+the CBP Team that "no containers would be examined." 
+ 
+¶12.  (C) The CBP report went on to state that only cursory 
+inspections were carried out at the CIQ stations.  These 
+"inspections" consisted primarily of a visual screening of 
+the exterior of the conveyance and cargo.  The report also 
+notes that the ROK customs officials see the same drivers and 
+vehicles most every day, highlighting the concern that such 
+familiarity may lead to less vigilance in the performance of 
+their duties. 
+ 
+------------------------ 
+Insufficient Information 
+------------------------ 
+ 
+¶13.  (C) The CBP assessment team also found the cargo and 
+passenger description information insufficient.  The 
+manifests do not contain what customs officials would 
+normally consider to be mandatory information, such as the 
+time, direction, number of passengers, number of vehicles, 
+corridor tracking number, and brief description of cargo. 
+ 
+----------------------------------- 
+300 Vehicles and 3,000 People a Day 
+----------------------------------- 
+ 
+¶14.  (C) According to UNCMAC, a total of 649,290 people made 
+6,273 crossings of the DMZ in 62,223 vehicles during the full 
+year of operation of the TC highways in 2005.  At TC East, 
+which is primarily used to facilitate bus tours to Mt. 
+Kumgang, the CBP Team noted that customs processing time for 
+345 travelers returning from North Korea took approximately 
+fifteen minutes, and that no vehicles were taken aside for 
+further inspection, or individuals for further questioning. 
+Commercial cargo shipments through TC East are prohibited. 
+However, transportation of materials for construction and 
+maintenance related to the corridor and Mt. Kumgang resort 
+are permitted. 
+ 
+¶15.  (C) Also troubling, according to both the UNCCCO and 
+U.S. Customs, the ROK CIQs at the transportation corridors do 
+not have mobile or fixed non-intrusive inspection (X-ray) 
+equipment, radiation portal monitors, or other types of 
+radiation detection machines.  Furthermore, there are no 
+designated areas for the temporary storage of hazardous 
+materials.  There are also no canines on site for the 
+detection of narcotics, explosives, or persons.  Finally, the 
+ROK customs officials assigned to the CIQs are not armed. 
+For political and practical reasons, UNCMAC has never 
+exercised its authority to inspect items crossing between the 
+two Koreas through the DMZ.  At the practical level, UNCMAC 
+would have to acquire a significant increase in manpower to 
+carry out the inspections.  Moreover, since UNCMAC does not 
+have the authority to conduct inspections at the CIQs, which 
+are located outside the DMZ, any UNCMAC inspections would 
+have to be conducted within the DMZ.  But more significantly, 
+even if such resources could be found, the ROKG will not 
+allow such inspections by UNCMAC, because doing so would be 
+perceived as ceding authority over the two most important 
+projects symbolizing South Korea's engagement policy with the 
+North.  For these reasons, for the foreseeable future, we 
+believe only the ROKG can conduct the necessary inspections 
+in the two transportation corridors. 
+ 
+-------------------- 
+Tighter Inspections? 
+-------------------- 
+¶16.  (C) During meetings in November 2006 with visiting Under 
+Secretary of State for Arms Control and International 
+ 
+SIPDIS 
+Security Robert Joseph to discuss steps the ROKG would take 
+to implement UNSCR 1718, Deputy Foreign Minister for Policy 
+Planning and International Organizations, Park In-kook, said 
+the ROK would tighten inspections at both the East and West 
+transportation corridor CIQs (Ref B).  This would take some 
+time, Park said, because additional customs officials would 
+have to be transferred to those sites and secondary 
+inspection areas would need to be established.  He pledged, 
+however, that tighter inspections would result. 
+ 
+¶17.  (C) During a more recent meeting with the DCM, Park 
+urged USG approval of an export license request for a Rapid 
+Frequency Identification Drive (RFID) system at TC West.  He 
+said that our approval would enable him to press his MOU 
+colleagues for more stringent controls (Ref A).  Embassy 
+agrees with Park's assessment and believes that a RFID system 
+will be helpful in monitoring cross-DMZ shipments.  Moreover, 
+we need to avoid sending mixed signals to ROKG on the need to 
+strictly monitor all goods and personnel going in and out of 
+North Korea. 
+ 
+-------------------------- 
+Comment and Action Request 
+-------------------------- 
+ 
+¶18.  (C) To date we have not seen any tightening of 
+inspections.  We also believe that without external pressure, 
+changes are unlikely because of the tough opposition of the 
+Ministry of Unification to any restriction of movement of 
+goods and people to and from the KIC and Mt. Kumgang tourist 
+sites.  We are, therefore, seeking Department's concurrence 
+for us to raise this matter with senior MOFAT officials.  We 
+recommend Department's concurrence with the following talking 
+points: 
+ 
+-- Over the past six months, the DPRK has tested missiles and 
+nuclear devices. 
+ 
+-- The international community including the ROK, has 
+responded with unanimous condemnation to these provocative 
+actions by the DPRK.  UNSCR 1718 outlines what each member 
+nation must do to counter proliferation threats from the 
+DPRK. 
+ 
+-- Paragraph 8 of UNSCR 1718 states that all member states 
+must prevent direct or indirect supply, sale or transfer to 
+the DPRK certain military equipment and WMD related systems 
+and materiel. 
+ 
+-- In this connection the United States is concerned about 
+the adequacy of the ROKG's customs, immigration and 
+quarantine services located in the two Transportation 
+Corridors. 
+ 
+-- We note that according to a 2004 report by U.S. Customs 
+and Border Protection (CBP), the ROKG inspections consisted 
+primarily of a visual screening of the exterior of the 
+conveyance and cargo.  The team also found the cargo and 
+passenger description information insufficient.  The 
+manifests do not contain what customs officials would 
+normally consider to be mandatory information, such as time, 
+direction, number of passengers, number of vehicles, corridor 
+tracking number, and description of cargo. 
+ 
+-- The CBP team also found that your CIQs do not have mobile 
+or fixed non-intrusive inspection (X-ray) equipment or 
+radiation detection monitors.  There were also no designated 
+areas for the temporary storage of hazardous material. 
+ 
+--The ROKG should consider strengthening the CIQ inspections 
+regime at the East and West Transportation Corridors.  We 
+believe an enhanced inspections regime must involve 
+additional manpower and other resources, especially the use 
+of modern detection equipment. 
+ 
+-- Given the sharp increase in the number of passengers 
+passing through the corridors, the ROKG might also consider 
+establishing a Passenger Analysis Unit, consisting of 
+participants from MOU, MOJ, MND, and UNCMAC, for improved CIQ 
+immigration inspection. 
+ 
+-- (If raised) The United States Government is examining your 
+request for RFID.  Embassy has conveyed to Washington your 
+views that RFID systems will assist in your inspections of 
+cross DMZ cargo. END COMMENT AND ACTION REQUEST. 
+VERSHBOW
+</file>

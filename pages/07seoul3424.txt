@@ -1,0 +1,339 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL3424  |  2007-11-30 06:00  |  기밀  |  주한 미국 대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 열기가 느껴진다: 공식 대선 캠페인 개시 ======
+기 밀 SEOUL 003424 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 12/10/2014
+태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+제목: 열기가 느껴진다: 공식 대선 캠페인 개시
+참조: [[07seoul3312| 가. SEOUL 3312]], [[07seoul3225|나. SEOUL 3225]] 
+참조하는 전문: [[07seoul3515|07SEOUL3515]]
+분류자: 정치 참사관 조셉 윤. 근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/12/22 03:37// 
+===== 요점 =====
+1. (기밀) 요점: 23일간의 공식 대선 캠페인 기간이 고함과 춤, 유권자와의 포옹 등으로 구성된 대규모 유세와 더불어 11월 26일 시작되었다. 짧은 선거 기간, 쏟아지는 스캔들, 대선 입후보자의 뒤늦은 출사표, 북한을 둘러싼 흥밋거리, 박근혜의 이명박 지지, 진보진영의 단일화 가능성 등에도 국민 대부분은 선거에 관심이 없다. 여론조사에서 나타난 압도적인 (이명박) 지지에 더해, 심지어 진보 인사 사이에서도 이명박 한나라당 후보의 승리가 불가피함을 체감하고 있다. 이명박은 2위 후보를 거의 20% 앞서는 것도 모자라, 한나라당에 대한 지지율은 55% 지지율을 만끽하고 있어, 15% 미만의 대통합민주신당 지지율과 비교된다. 일부 분석가들은 이명박에 대한 지지율보다 높은 한나라당에 대한 지지율이 이명박에게 승리를 안겨줄 것으로 믿고 있다. 12월 19일 선거일까지 맹렬한 추격전 속에서, “불도저” 이명박 이외에 여타 후보들의 마지막 승부수는 복잡한 BBK 스캔들이 폭발하기를 바라는 데 있지 않고, 자신만의 쟁점이나 설득력 있는 메시지로 생동감을 불어넣는 시도에 있다. 요약 끝.
+===== 진보 진영의 희망은 급속히 사그라져 =====
+
+2. (기밀) 대통합민주신당·민주당의 통합 시도가 좌절되어([[07seoul3312|참조 전문 가]]) 정동영으로선 12월 19일 대선 표심 사냥과 관련해 거의 별다른 선택 사항이 없게 되었다. 정동영은 비한나라당 후보들과의 단일화를 계속 시도하겠지만, 진보 후보자에 대한 지지 열기가 부족하다는 건 단일화가 성사되더라도 단 몇 퍼센트 그 이상으로 정 후보의 지지율을 끌어 올릴 가능성은 크지 않다는 의미이다. 최근 여론조사를 보면 대중들도 진보 단일화 후보의 이점에 대해 의견이 분분함을 보여준다. 40%는 진보 단일화 후보를 선호하고 40.5%는 반대한다. 진보 후보 단일화가 실패한 이후에 정동영은 대선 후보였던 고건 전 총리를 정동영 캠프로 포섭하려고 했다는 소식도 있다.
+
+3. (기밀) 여론조사에서 거의 유의미한 지지율 상승을 제공할 수 있는 유일한 후보 문국현과의 단일화에 정동영은 성공하지 못한 점에 주목한다. 문 후보의 최측근 참모는 양 선거 진영의 상당한 정책 차이 때문에 정 후보와 단일화는 두 정당 어느 쪽이든 확신을 주지 못하는 정치 술수로 비칠 뿐이라고 대사관 정무 직원에게 말하였다. 사실상 정 후보와 단일화하는 유일한 방법은 정 후보가 현 정권의 실책에 대해 충분한 책임을 지고, 공식 사과를 하는 것인데 아무리 봐도 될 성싶지 않은 요구라고 문 후보는 말한 바 있다.
+===== BBK 추문: 중대사안 혹은 침소봉대(針小棒大)? =====
+4. (민감하지만 미분류) BBK 공모자 김경준의 가족 구성원은 계속해서 현재 대선 선두 주자인 이명박과 주가 조작 스캔들과의 유착 관계를 주장하고 있다. 김경준의 모친은 이명박을 김경준과 BBK 추문에 연결 짓는 비지니스 문서를 검찰에 전달하기 위해 11월 23일 일찍 서울에 도착하였다. 언론 보도에서는 이명박의 지지율 하락을―11월 초에 51%에서 현재 41%―BBK 스캔들 탓으로 돌리고 있지만, 실제 이명박의 지지율은 이회창이 출마 당시 겪었던 초반 충격 이후 보합세를 유지하고 있다. 덧붙이자면 이명박 후보는 여전히 2위 후보 보다 거의 20% 차로 앞서고 있다. 이명박 캠프는 11월 5일 예고된 검찰의 중간발표로 손상을 입을 수 있어 숨죽이고 있다. 최근 한국일보 여론조사는 이명박이 주가조작 사기에 연루된 게 입증되면 최하 29.3%까지 이명박의 지지율이 추락할 수 있다고 나타났다.
+
+5. (기밀) 이명박의 경쟁 후보들은 BBK 파문을 지지율로 견인하지 못했고, 격차도 줄이지 못했다. 한국일보 여론조사에 의하면 보수 이회창 무소속 후보가 이명박의 수난으로 최대 수혜를 입을 것으로 보고 있다. 한편 검찰 조사가 이명박과 BBK와의 유착 관계를 파해 친다면 정동영은 2% 미만의 지지율 신장을 예상한다. 가장 큰 지지율 상승의 기대 요인은 부동층 유권자의 숫자에서 찾을 수 있는데, 부동층은 투표율이 저조하거나, 여러 후보자로 표가 갈리는 결과를 낳을 수 있다. 이명박이 유죄를 입증할 명백한 증거가 나온다면 2위와의 폭이 아마도 줄겠지만, 진보, 보수 진영 전문가를 망라해서 12월 19일 이명박이 승자로 부상할 거라는 견해가 여전하다.
+
+6. (기밀) 주요 정치 관측통인 박성민은 <wrap hi>이명박의 지지율이 언론 보도에서는 대략 40%를 밑도는데 자신이 행한 여론조사에선 32~33%라고</wrap> 11월 30일 대사관 정무 직원에게 말했다. 12월 5일의 검찰 발표 결과를 앞두고 현재 결정하지 못한 이명박 지지자가 늘고 있다. 여론조사 조사원은 부동층 유권자에게 누가 됐건 고르라고 계속 요구하는데, 이런 수차례 질문에서 추가되는 이명박 지지자가 5%에 달한다. 이명박 캠프에서 BBK 추문 관리가 형편없는 관계로 이명박이 앞으로 10일 안으로 선두 자리를 놓칠 수도 있겠지만, 12월 19일 즈음에는 당락을 결정하기에 충분할 만큼 이명박의 지지층이 결집할 거라고 박성민은 결론졌다.<WRAP center round tip 90%>//**30% 중후반이라던 이명박의 지지율이 실제론 48.6% 득표했다니 이게 가능한가?**// "12월 19일 대선에서 이명박은 48.6% 득표율로 한국의 대통령으로 당선되었다. 2위는 26.3%를 득표한 정동영에게 돌아간 가운데, 이회창은 15.1%로 3위를 기록했다." [[07seoul3578|제 목: 이명박, 전라도를 제외한 전국에서 압승 거둬]] <- 이 전문에서 보듯 이명박은 48.6% 득표율로 당선되었다. 그러나 본 전문에서 등장하는 리얼미터와 그 밖의 여론조사에서는 대선전 이명박의 지지율은 크게 잡아 30~40%이었다. 그러나 선관위가 발표한 실제 대선결과는 여론조사보다 거의 10% 높은 48.6% 득표율을 기록했다. 부동층이 전부 이명박에게 쏠렸다는 말인가? 동 전문에 상술되어 있듯 부동층은 투표를 안 하거나, 신진 후보에게 표가 가거나, 여러 후보로 표가 갈린다고 [[07seoul3361|여론조사 기관 갤럽 회장을 지낸 최시중이 미 대사관 직원에서 밝힌 바 있다.]] 여론조사 전문가 최시중의 발언이 맞다면 무려 10%의 부동층이 전부 이명박에게 쏠렸다는 사실은 신빙성이 떨어진다. 2007년 대선 결과 믿을 수 있나?
+</WRAP>
+===== 쟁점사안: 뭔 쟁점사안? =====
+7. (민감하지만 미분류) 전문가들과 정치 관측통 사이 전반적인 느낌은 선거 열기의 실종과 또 한 번의 좌절감으로 갈음한다. 한국에서 앞서가는 진보 사상가 중의 한 명인 최장집 고려대 교수는 이번 선거는 정책 현안과는 무관하며, 정당이 대선 과정에서 제 역할을 못 하고 있기 때문에 “최악의 선거”라며 혹평하였다. 많은 접선책들은 선거가 “재미가 없다”며 2002년 당시처럼 유권자가 동기 부여가 될 만한 대표적인 쟁점이 없다고 대사관 정무 직원에게 말하였다. 강원택 교수는 점심 회동 자리에서 2002년 대선에선 특히 젊은 층이 선거 과정에 참여했고, 사회 개혁 욕구와 반미 정서로 동기부여가 됐다고 말했다. 그러나 이번 대선은 어떤 동기부여 요인도 없었고, 대중은 후보자들로 말미암아 좌절감을 겪고 있는 듯 보인다. 2002년에는 성공적으로 보수와 진보 세력 간 정치적 간극을 활용했지만, 올해는 유권자들을 고취하고, 진보 후보를 지원하도록 자극할만한 집단적 고충 사항이 없었다.
+ 
+8. (민감하지만 미분류) BBK 횡령 추문과 ([[07seoul3225|참조 전문 나]]) 여타 정당과 후보가 연루된 그 밖의 추문에 더해 가장 최근에는 한국에서 제일가는 삼성 재벌 스캔들 등에 대게 정신이 팔려있어 정치 논쟁이 완전히 흐트러지면서 국민에게 남은 건 대선에 대한 맥 빠진 태도였다. 12월 6일, 11일, 16일 예고된 TV 토론에서는 외교, 경제, 교육 개혁 등의 쟁점에 초점을 맞추기로 정해져 있다. 이명박은 12월 1~2일 MBC와 KBS에서 중계 예정인 별도의 토론 참가를 거부했는데, 논의가 정책보다는 BBK 혐의에 집중될 거라는 이명박 캠프의 우려 때문이다.
+===== 선거운동 =====
+9. (민감하지만 미분류) 11월 27일 공식 선거 기간이 시작되었다. 후보들은 전국을 돌며 선거 유세전을 펼치면서, 대선 캠프에선 많은 시간과 열정을 TV나 신문, 라디오 광고에 집중하고 있다. 이미 정동영이 이 후보가 “자신을 위장하는데” 능하다고 말하며 이명박을 공격하는 광고로 말미암아 한나라당은 정 후보를 상대로 명예훼손으로 고발하게 되었다. 12월 12일 이후로는 여론조사 결과 발표가 금지된다. 대선 바로 전날인 12월 18일에 갑작스러운 “깜짝” 단일화 가능성에 대한 추측도 분분하지만, 2002년 진보 진영의 단일화 만큼 대단한 잠재적 영향이 있을 공산은 크지 않다.
+
+===== 후보 등록 =====
+
+10. (기밀) 2007년 남한 대선의 공식 등록 기간이 11월 26일에 마감됐고, 12명의 후보들이 대통령 자리를 다툴 예정이다. 이번 남한 대선에서 가장 많은 출마자를 양산했다. 입후보자가 기록적으로 많은 까닭은 2008년 국회의원 선거가 턱 밑에 있기 때문일 것이고, 12월 승리에 가망이 없는 몇몇 후보들은 이번 선거운동이 자신의 경력을 쌓고 4월 총선에서 당선 가능성에 도움이 되길 희망하고 있다. 이명박, 이회창, 정동영 등 3명의 선두권 후보가 대부분의 표를 획득할 것이 유력하다. 나머지는 낮은 지지율이 낮고, 지명도가 낮다.<WRAP center round info 90%>//**9% 앞서던 이회창의 지지율이 실제 대선에선 거꾸로 정동영에게 12% 뒤져**//
+<12월 19일 대선에서 이명박은 48.6% 득표율로 한국의 대통령으로 당선되었다. 2위는 26.3%를 득표한 정동영에게 돌아간 가운데, 이회창은 15.1%로 3위를 기록했다.> [[07seoul3578|제 목: 이명박, 전라도를 제외한 전국에서 압승 거둬]] <- 이 전문 내용에서 보듯 실제 대선 결과와 아래 하이라이트로 표시한 리얼미터 여론조사와 비교하면 무려 9%로 뒤지던 정동영이 실제 대선에선 12% 가량이나 앞섰으니 환산하면 득표율이 21% 차이가 난 셈이다. 여론조사와 선관위가 발표한 대선 결과와의 차이가 너무 크다. 선거결과도 여론조사 어느 쪽도 믿을 수 없다.</WRAP>
+
+  * 이명박: 보수 한나라당 출신으로 현재 선두 주자이며, 13개월 내내 대권 경쟁에서 강력한 우위를 점해왔다. 비록 이회창의 최근 출마와 계속되는 추문에도, 이명박은 이회창과 정동영 후보보다 압도적인 선두를 유지해왔다. <wrap hi>11월 27~28 리얼미터 여론조사에서 그는 39.2%의 지지</wrap>를 받았으며 60.8%의 응답자들은 이명박의 당선을 예상하였다.
+
+  * 이회창: <wrap hi>11월 27~28일 리얼미터 여론조사에 따르면, 현재 20.2%로 2위</wrap>를 달리고 있다. 2002년 대선에서 노무현에게 패배한 이후에 정치계를 떠나겠다는 약속했었지만, 전 한나라당 소속 이회창은 탈당해 무소속 후보로 출마하였다.
+
+  * 정동영: 손학규 전 경기도지사를 물리치고 대통합민주신당 경선에서 승리했지만, 현재까지 그의 선거 캠페인은 추동력을 키우는 데 실패했고, 그의 지지율도 같은 11월 말 <wrap hi>리얼미터 여론조사에서 맥 빠진 11.6%</wrap>에 머물고 있다.
+
+  * 문국현: 문 후보는 합작회사 유한 킴벌리 전 사장이며 8월 대선 출마를 발표했다. 그는 자신의 지지율이 11월 말경에는 20%를 넘어설 거라고 최근 몇 주 전까지 주장했었지만, 문 후보는 아직 한 자릿수를 돌파하지 못하고 있다.
+
+  * 권영길: 민주노동당 후보로 국회의원을 역임했고 단 3% 미만의 지지율을 기록하고 있다.
+
+  * 이인재: 민주당 후보이며 모든 여론조사에서 이 후보의 지지율이 1% 주변에 맴돌고 있다.
+
+  * 심대평: 국민중심당 후보로 전 충청도지사를 역임했었고, 현 국회의원이다; 심 후보는 충청도 이외에 다른 지역에서는 거의 지지를 받지 못하고 있다.
+
+  * 정근모: 독실한 기독교 신자로 미시간대학 출신으로 응용물리학 박사이다; 그는 참주인연합 후보로 출마했는데, 진보 진영은 그가 이명박의 기독교 신자들의 표를 다소간 흡수할 수 있길 희망하고 있다.
+
+  * 허경영: 10년 전 김대중을 상대로 한 대선 도전에서 실패했었다; 그는 경제공화당 대표이다.
+
+  * 전관: 전 보병 9사단장이며 새시대참사람연합을 대표해 입후보했으며, 애국심을 강조하고 있다.
+
+  * 금민: 45세로 투표용지에 이름이 오른 가장 젊은 후보로 한국사회당을 대표하며, 민주노동당과 유사한 좌파 진보정당이다.
+
+  * 이수성: 이 후보는 화합과도약을위한국민연대를 현재 대표하고 있으며, 김영삼 시절 총리를 역임했으며 출신 지역인 경상도표를 다투길 희망하고 있지만, 그의 영향력은 미미할 공산이 크다.
+===== 논평 =====
+11. (기밀) 대선을 둘러싼 전반적인 느낌은 이명박이 결국 승리할 거라는 느낌에 더해 실질적인 정책 토론이 결여된 실망스런 선거라는 점이다. 이회창 진영은 계속 희망을 거는 가운데, 정동영 캠프의 주요 인사들은 사석에서 거의 포기 상태임을 표시하였다; 대통합민주신당 후보가 선거에 출사표를 던진 이후에 맞닥뜨린 고전 양상을 볼 때 놀랄 일도 아니다.
+버시바우
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.hani.co.kr/arti/politics/politics_general/253817.html|정동영·이명박 광고 난타전 …“국밥도 위장”vs“흑색선전 일관”]] //한겨레//
+===== 원본 내려받기 =====
+<file rtf 07SEOUL3424.rtf>
+C O N F I D E N T I A L SEOUL 003424 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs], 
+PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: THE HEAT IS ON: OFFICIAL PRESIDENTIAL CAMPAIGN 
+KICKS OFF 
+ 
+REF: A. SEOUL 3312 
+ 
+     B. SEOUL 3225 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1. (C) Summary: The 23-day official presidential campaign 
+period kicked off November 27 with large rallies consisting 
+mostly of yelling, dancing and hugging of voters.  Despite 
+the compact campaign period, bubbling scandals, late entries 
+of candidates and intrigue surrounding North Korea, Park 
+Geun-hye's support of Lee Myung-bak and possible liberal 
+mergers, most people are not interested in the election.  In 
+addition to overwhelming support in polls, there is a sense 
+of inevitability, even among many liberals, that Grand 
+National Party (GNP) candidate Lee Myung-bak will win.  On 
+top of Lee Myung-bak's almost 20 percent lead over his 
+closest challenger, the GNP enjoys 55 percent support, 
+compared to support in the low teens for the United New 
+Democratic Party (UNDP).  Some analysts believe the support 
+for the party, more than support for Lee Myung-bak, will 
+carry him to victory.  In the mad dash to December 19, the 
+last chance for any candidate other than Lee "bulldozer" 
+Myung-bak is not to hope for the complicated BBK scandal to 
+explode, but rather attempt to gin up a convincing message or 
+issue of their own.  End Summary 
+ 
+---------------------------------- 
+Liberal Alliance Hopes Fading Fast 
+---------------------------------- 
+ 
+¶2.  (C)  The failure of the attempted UNDP-DP merger (reftel 
+A) has left Chung Dong-young with few options in the hunt for 
+votes on December 19.  Chung continues to try to unite 
+non-GNP candidates, but a general lack of support for liberal 
+candidates mean these mergers (if they happen) are not likely 
+to increase Chung's support ratings more than more than a few 
+percentage points.  A recent poll showed that the public 
+itself was split over the benefits of a unified liberal 
+candidate, with 40 percent in favor of fielding a unified 
+progressive candidate and 40.5 percent opposed.  Having 
+failed to unite liberal candidates, Chung is reportedly 
+trying to lure former Prime Minister and former candidate Koh 
+Gun into his camp. 
+ 
+¶3.  (C) Notably, Chung has been unsuccessful in merging with 
+Moon Kuk-hyun, the only candidate who could provide an 
+almost-significant boost in the polls.  A close Moon adviser 
+told poloff that, because of significant policy differences 
+between the two camps, merging with Chung would only been 
+seen as political maneuvering that would not instill 
+confidence in either party.  In fact, Moon has said that the 
+only way he would merge with Chung is if the latter takes 
+full responsibility for the mistakes of the current 
+administration and issues a public apology, a demand that is 
+improbable at best. 
+ 
+----------------------------------- 
+BBK Scandal:  Mountain or Molehill? 
+----------------------------------- 
+ 
+¶4.  (SBU) Alleged BBK conspirator Kim Kyung-joon's family 
+continues to assert linkages between current presidential 
+frontrunner Lee Myung-bak and the stock manipulation scandal. 
+ Kim's mother arrived in Seoul early on November 23 to submit 
+the alleged original business documents linking Lee Myung-bak 
+to Kim Kyung-joon and the BBK scandal to the prosecution. 
+Media reports are attributing the fall in Lee's support rate 
+-- from 51 percent in early November to his current 41 
+percent - to the BBK scandal, however his rates have actually 
+remained steady after the initial hit he took when Lee 
+Hoi-chang entered the race.  Additionally, he still holds 
+almost a 20 percentage lead over the next most popular 
+candidate.  Still, the Lee Myung-bak camp is holding its 
+breath as the Prosecution Office's interim report -- due out 
+December 5 -- could still inflict damage.  A recent Hankook 
+Ilbo poll showed that support for Lee could fall to as low as 
+29.3 percent if he is confirmed to be involved in the stock 
+manipulation scam. 
+ 
+¶5.  (C) Lee Myung-bak's competitors have been unable to 
+leverage the BBK fallout and narrow the gap.  Conservative 
+independent candidate Lee Hoi-chang stands the most to gain 
+from Lee Myung-bak's troubles, according to the same Hankook 
+ 
+Ilbo poll.  Meanwhile, Chung Dong-young would gain less than 
+2 percentage points should the probe connect Lee to BBK.  The 
+largest expected increase would be in the number of undecided 
+voters which could result in low voter turnout and/or a split 
+vote among candidates.  Unequivocal evidence of Lee 
+Myung-bak's guilt will probably diminish his lead, but 
+progressive and conservative pundits alike still opine that 
+Lee Myung-bak will emerge victorious on December 19. 
+ 
+¶6.  (C) Leading political observer Park Song-min told poloff 
+November 30 that in polling he had done, support of Lee 
+Myung-bak was below the roughly 40 percent reported in the 
+press at between 32-33 percent.  A rising number of Lee 
+Myung-bak supporters are now undecided pending the outcome of 
+the December 5 announcement by the Prosecutor's Office. 
+Pollsters continue to ask undecided voters to pick someone 
+and this multiple questioning accounts for an additional 5 
+percent support for Lee.  While Lee, due to his campaign's 
+poor management of the BBK scandal could lose his lead in 
+polls in the next 10 days, by December 19, Lee's support 
+should regroup enough to carry the election, Park concluded. 
+ 
+--------------------- 
+Issues:  What Issues? 
+--------------------- 
+ 
+¶7.  (SBU) The overall feeling among pundits and political 
+observers is one of frustration and a general lack of 
+enthusiasm for the election.  One of Korea's leading liberal 
+thinkers Korea University Professor Choi Jang-jip said 
+recently that this was "the worst election ever" because it 
+was not about the issues and the political parties were not 
+playing a role in the election.  Many contacts have told 
+poloffs that the election is "not fun" and there were no 
+major issues present to motivate voters as in 2002. 
+Professor Kang Won-taek over a recent lunch meeting said that 
+in 2002 people, particularly the youth, were engaged in the 
+campaign process, motivated by a desire for social reform and 
+feelings of anti-Americanism.  This election, however, lacked 
+any motivating factors and the public seem to be generally 
+frustrated by the candidates.  Political cleavages between 
+the liberals and conservatives was successfully exploited in 
+2002, Kang said, but this year, there has been no collective 
+grievance to motivate voters and spur them to support a 
+liberal candidate. 
+ 
+¶8.  (SBU) A general preoccupation with the BBK embezzlement 
+scandal (Reftel B) and other scandals involving the political 
+parties, candidates, and most recently Korea's leading 
+chaebol, Samsung, have almost completely obfuscated the 
+policy debate, and has left the public with a lackluster 
+attitude about the election.  Televised debates scheduled for 
+December 6, 11, and 16 are slated to focus on issues like 
+foreign affairs, economics, and educational reform.  Lee 
+Myung-bak declined to participate in two additional debates 
+that were scheduled to air on MBC and KBS December 1-2 
+because of his camp's concern that the discussion would focus 
+on BBK allegations instead of on policy. 
+ 
+------------ 
+The Campaign 
+------------ 
+ 
+¶9.  (SBU)  The official campaign period began on November 27. 
+ The candidates are touring the country holding rallies and 
+the camps are focusing much energy and money on TV, newspaper 
+and radio ads.  Already, a Chung Dong-young ad that attacked 
+Lee Myung-bak by saying Lee was good at "disguising himself" 
+has caused the GNP to file a libel suit against Chung.  After 
+December 12, the announcement of polling results is banned. 
+There is speculation about the possibility of a sudden 
+"surprise" merger on December 18 just before the election, 
+but the potential for a progressive merger to have major 
+influence as it did in 2002 is unlikely. 
+ 
+------------------- 
+Candidates Register 
+------------------- 
+ 
+¶10.  (C)  Official registration for the 2007 South Korean 
+presidential election closed November 26, yielding twelve 
+candidates who will vie for the presidency -- the most to 
+ever run in a South Korean presidential election.  Many note 
+ 
+the record number of candidates is likely due to the 
+proximity of the April 2008 National Assembly elections -- 
+several of the candidates with no chance to win in December 
+hope their campaigning will increase their profile and help 
+their chances in April.  The top three candidates, Lee 
+Myung-bak, Lee Hoi-chang, and Chung Dong-young, are most 
+likely to receive the bulk of the vote, with the rest having 
+low approval ratings and being widely unknown. 
+ 
+      --Lee Myung-bak:  The current frontrunner from the 
+conservative Grand National Party (GNP) has held a strong 
+lead over the competition for over 13 months.  Despite Lee 
+Hoi-chang's recent entry and continued allegations of 
+scandal, Lee Myung-bak has maintained a commanding lead over 
+Lee Hoi-chang and Chung Dong-young.  In a November 27-8 
+Realmeter poll, he received 39.2 percent support and 60.8 
+percent of respondents said they expected Lee would be 
+elected. 
+ 
+      --Lee Hoi-chang:  Currently in second place with an 
+approval rating of 20.2 percent according to a November 27-28 
+Realmeter poll, the former GNP member quit the party to run 
+as an independent despite his vow to leave politics following 
+his defeat by Roh Moo-hyun in the 2002 presidential race. 
+ 
+      --Chung Dong-young:  Chung toppled former Gyeongi 
+Governor Sohn Hak-kyu to win the United New Democratic Party 
+(UNDP) primary, but thus far his campaign has failed to build 
+momentum and his approval rating languishes at a tepid 11.6 
+percent in the same late November Realmeter Poll. 
+ 
+      --Moon Kook-hyun:  Moon, former head of joint-venture 
+Yuhan-Kimberly, announced his bid for presidency in August. 
+He insisted as recently as a couple weeks ago that his 
+approval ratings would exceed 20 percent by the end of 
+November, but he has yet to break out of the single digits. 
+ 
+      --Kwon Young-ghil:  A National Assembly member and 
+Democratic Labor Party (DLP) candidate registers an approval 
+rating of just under 3 percent. 
+ 
+      --Rhee In-jae:  The Democratic Party candidate, Rhee's 
+approval hovers around one percent in all polls. 
+ 
+      --Shim Dae-pyung:  The candidate for the People's First 
+Party, former governor of Chungcheong province and current 
+National Assembly member; he receives little support from any 
+place outside the Chungcheong region. 
+ 
+      --Chung Keun-mo:  A devout Christian with a PhD in 
+applied physics from the University of Michigan; he is 
+running as the True Sovereignty Alliance candidate and 
+liberals hope he can take some of the Christian vote from Lee 
+Myung-bak. 
+ 
+      --Huh Kyung-young:  Made a failed presidential bid 10 
+years ago against Kim Dae-jung; he represents the Economic 
+Republic Party. 
+ 
+      --Jeon Kwan:  A former ROK Army Ninth Division 
+Commander, Jeon is running for the New Era, New People's 
+Alliance, placing an emphasis on patriotism. 
+ 
+      --Keum Min:  The youngest candidate on the ballot at 
+45, Keum represents the Korea Social Party, a DLP-like 
+leftist, progressive party. 
+ 
+      --Lee Soo-sung:  Lee, now representing the People's 
+Alliance for Unity and Progress, was Prime Minister under Kim 
+Young-sam and hopes to vie for votes in his native Gyeongsang 
+Province, but his influence is likely to remain minimal. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶11.  (C) The overall feeling surrounding the election is one 
+of disappointment at the absence of substantive policy 
+debates, as well as a feeling of the eventuality of a win by 
+Lee Myung-bak.  While members of Lee Hoi-chang's camp 
+continue to hold out hope, key members of Chung Dong-young's 
+camp have indicated privately that they have all but given 
+up; not surprising given the struggles that the UNDP 
+ 
+candidate has faced since entering the race. 
+VERSHBOW
+</file>

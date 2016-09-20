@@ -1,0 +1,57 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1007  |  2008-05-16 04:19  |  기밀  |  주한미국대사관  |  {{tag>PGOV PREL CU KS }}  |
+====== 제 목: 한국정부 쿠바와의 영사관계 모색 ======
+  * 기 밀 SEOUL 001007 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 행정명령 12958: 비밀해제: 05/15/2018 
+  * 태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), CU(([Cuba])), KS(([Korea (South)]))
+  * 제 목: 한국정부 쿠바와의 영사관계 모색
+  * 참조하는 전문: [[08seoul1077|08SEOUL1077]]
+
+  * 분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun.)).   근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/22 04:54//
+
+1. (미분류) 이 전문은 행동 요청이다. 3문단을 보라.
+
+2. (기밀) 두정수 외교통상부 중남미국장은 쿠바와의 영사관계 설립에 대한 한국의 관심사를 논의하기 위해 5월 15일 (미 대사관) 정치 공사 참사관과 회동하였다. 두 국장에 의하면, 4,000명이 넘는 한국인이 매년 쿠바를 방문하고 있지만, 비상시 쿠바에 체류 중인 한국민을 돕기 위한 담당자가 전혀 없다. 추가로 쿠바 소재 한국 사업체의 수가 증가하는 가운데, 사업 관련 분쟁을 돕기 위한 담당자가 쿠바에 있으면 도움이 될 것이다. 두 국장은 외교통상부는 쿠바와 영사관계를 고려하는 예비 단계에 있다면서, 한국은 현시점에 쿠바와의 공식적인 수교를 맺을 의향이 없고/그러지도 않을 거라고 강조하였다. 외교통상부는 주민 서비스와 다른 영사 서비스를 제공하기 위한 한 두 명의 담당 직원의 파견을 고려하고 있다.
+
+3. (기밀) 대사관은 쿠바와의 영사관계를 추구하는 한국과 관련에 미국의 견해와 관련해 국무부의 지침을 요구한다.
+버시바우
+[[https://sites.google.com/site/poirotkr/10/08seoul1007|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08seoul1007.rtf>
+C O N F I D E N T I A L SEOUL 001007 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 05/15/2018 
+TAGS: PGOV, PREL, CU, KS 
+SUBJECT: ROKG SEEKS CONSULAR RELATIONS WITH CUBA 
+ 
+Classified By: POL M/C Joseph Yun.  Reasons 1.4(b/d) 
+ 
+1. (U)  This is an action request.  See para. 3. 
+ 
+2. (C) MOFAT Director General for Latin American and 
+Caribbean Affairs Doo Jung-soo met with POL M/C on May 15 to 
+discuss Korea's interest in establishing consular relations 
+with Cuba.  According to DG Doo, over 4,000 Koreans visit 
+Cuba each year and yet Korea did not have any officials in 
+country to assist Korean nationals in case of an emergency. 
+Additionally, Korean businesses were increasing in number in 
+Cuba and it would be helpful to have officials in country to 
+assist with business related disputes.  DG Doo said that 
+MOFAT was in the preliminary stage of considering consular 
+relations with Cuba and emphasized that Korea did not/not 
+intend to establish formal diplomatic relations with Cuba at 
+this time.  MOFAT was considering sending one or two 
+officials to provide citizen services and other consular 
+services.  DG Doo asked for the US view and support for Korea 
+pursuing consular relations with Cuba. 
+ 
+3. (C) Post requests guidance from the Department on US views 
+on Korea pursuing consular relations with Cuba. 
+VERSHBOW
+</file>

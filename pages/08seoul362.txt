@@ -1,0 +1,124 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL362  |  2008-02-25 08:07  |  비밀/외국전파금지  |  주한미국대사관  |  {{tag>EAIR ETRD ETTC KLIG PREL IR KS UK }}  |
+====== 제 목: 이란행 미국산 사업용 항공기 억류 요청에 대한 한국 반응 ======
+  * 비 밀 SEOUL 000362 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 외국전파금지((NOFORN))
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 국무부 산하 국제에너지사업국/금융제재과, 국제안보비확산국/반핵확산과, 동아시아태평양/한국과((STATE FOR EEB/ESC/TFS, ISN/CPI, EEB/OTF, EAP/K )) 
+  * 국가안전보장회의 팬과 창((NSC FOR PAN AND CHANG ))
+  * 재무부/해외자산통제실((TREASURY FOR OFAC))
+  * 상무부/수출집행실((COMMERCE FOR OEE)) 
+  * 행정명령 12958: 비밀해제: 02/25/2018 
+  * 태그: EAIR(([Civil Aviation])), ETRD(([Foreign Trade])), ETTC(([Trade and Technology Controls])), KLIG(([Foreign Litigation])), PREL(([External Political Relations])), IR(([Iran])), KS(([Korea (South)])), UK(([United Kingdom]))
+  * 제 목: 이란행 미국산 사업용 항공기 억류 요청에 대한 한국 반응
+  * 참조: [[08state18255|STATE 18255]]
+  * 분류자: 공관차석 빌 스탠튼((DCM BILL STANTON))  근거 1.4 (B&D). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/23 00:06//
+1. (미분류) 이 전문은 행동 요청이다. 6문단을 보세요.
+
+2. (비밀/외국전파금지) 2월 23일 참조 전문 외교문서에 대한 후속조치로 외교통상부 군축비확산과와 함께한 한미안보 대테러 협력은 신속한 행동을 취하였다. 이장균 군축비확산과장은 민간 항공산업 관계자와 더불어 대상 항공기의 소재지 파악에 이어, 당일 해당 항공기에 대해 임시 억류 조치를 단행하였음을 확인해 주었다. 이장균은 미국의 외교문서를 공식 정부공한 형태로 제공해 달라고 요청함과 동시에, 밸리 그룹이 불응하는 경우에 어떻게 미국 상무부의 복귀(회항) 명령을 촉진할 것인지 미국정부의 더 구체적인 견해를 타진하였다.
+
+3. (비밀/외국전파금지) 2월 25일 요청했던 정부공한을 수령하자마자, 이 과장은 추가적인 정보를 특정해 요청하였다:
+  * 얼마나 오래 한국정부가 항공기를 억류시켜야만 하는가? ( 단기간의 억류는 안전문제상의 미칠 영향이 수월할 수 있지만, 그런 억류 조치는 무한정 단행될 수 없다고 이 과장은 지적하였다.)
+
+  * 밸리 그룹의 휴스턴 사무소는 상무부의 복귀 명령에 반응을 보였나?
+
+  * 문제의 항공기는 미국에 등록된 항공기인지 확인해 줄 것. (해당 항공기의 기체 번호에는 미국의 유나이티드 항공으로 원래 등록된 걸로 나타났다.)
+
+  * 영국의 본부들 둔 기업체가 소유한 항공기인 관계로 우리가 복귀 명령을 촉진하기 위해서 영국정부의 협력을 구하고 있음을 확인해 줄 것. 만일 그렇다면 영국은 어떤 반응을 보였나?
+4. (비밀/외국전파금지) 이장균은 인천공항에 체류 중인 (기체 번호가 N192UA 와 N106UA) 두 항공기는 2006년 1월과 2007년 9월에 각각 도착하였음을 확인하였고, 최근에 필요한 점검을 마무리한 이후에, 두 항공기는 운항할 준비가 되어 있었다. 부산 김해 공항의 (기체번호가 N185UA) 다른 항공기는 2007년 4월에 한국에 도착하였고, 아직도 수리 중이다. 밸리 그룹은 먼저 언급한 두 항공기의 유지보수 비용을 지급하지 않았으며, 항공기를 임대에 어려움을 겪고 있는 것으로 보인다. 이장균은 지금 현재 해당 항공기에 대해 (이란이 아닌) 그리스 항공 동업자를 물색하고 있다고 알려졌지만, 해당 그리스와의 동업 전망의 실체에 대한 정보는 이용 가능하지 않다.
+
+5. (비밀/외국전파금지) 이장균은 일정 기한 해당 항공기를 억류할 법적 권한을 보유하고 있지만, 미국 상무부의 복귀 명령을 촉진하기에는 제한적인 권한이라고 강조하였다. 한국정부는 항공기를 다른 국가로 회항시킨 사례가 없으므로, 그런 유례없는 조처를 할 법적 근거가 있기는 한지 우려스럽다. 미국이 이번 사안에 대해 현재 고려 중인 “대안적인 법집행”에 대한 미국의 견해를 구하였다.
+
+6. (비밀/외국전파금지) 행동 요청: 대사관은 상기한 3문단의 4가지 질문에 대한 답변, 그리고 밸리 그룹이 상무부의 복귀 명령에 불응하는 경우에 이 사안의 법적인 파장에 대한 한국정부의 판단에 도움이 될 추가적인 지침이 있다면 감사하게 생각할 것이다.
+버시바우
+[[https://sites.google.com/site/poirotkr/9/08seoul362|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL362.rtf>
+S E C R E T SEOUL 000362 
+ 
+SIPDIS 
+ 
+NOFORN 
+SIPDIS 
+ 
+STATE FOR EEB/ESC/TFS, ISN/CPI, EEB/OTF, EAP/K 
+NSC FOR PAN AND CHANG 
+TREASURY FOR OFAC 
+COMMERCE FOR OEE 
+ 
+E.O. 12958: DECL: 02/25/2018 
+TAGS: EAIR [Civil Aviation], ETRD [Foreign Trade], ETTC [Trade and Technology Controls], KLIG [Foreign Litigation], PREL [External Political Relations], IR [Iran], KS [Korea (South)], UK [United Kingdom] 
+SUBJECT: SEOUL RESPONSE: REQUEST TO HOLD U.S.-ORIGIN 
+COMMERCIAL AIRCRAFT BOUND FOR IRAN 
+ 
+REF: STATE 18255 
+ 
+Classified By: DCM BILL STANTON FOR REASONS 1.4 (B&D). 
+ 
+¶1.  (U)  This is an action request.  Please see Para 6. 
+ 
+¶2.  (S/NF)  The Ministry of Foreign Affairs and Trade's 
+(MOFAT) Divisions of Disarmament and Nonproliferation, and 
+Security and Counter-Terrorism Cooperation took immediate 
+action following our reftel demarche on February 23. 
+Non-proliferation Division Director Lee Jang-keun confirmed 
+the location of the subject aircraft with civil aviation 
+officials and placed a temporary hold action on the planes 
+that day.  Subsequently, Lee requested our demarche be 
+formally presented in the form of a diplomatic note and 
+sought more specific USG views on how to facilitate the U.S. 
+Department of Commerce redelivery order in the event of the 
+Balli Group's (BG) non-compliance. 
+ 
+¶3.  (S/NF) Upon receipt of the requested diplomatic note on 
+February 25, Lee requested additional information, 
+specifically: 
+ 
+--How long should the ROKG hold the aircraft?  (A temporary 
+hold can be easily effected on safety grounds, but such a 
+hold cannot be placed indefinitely, Lee noted.) 
+ 
+--Has BG's Houston office responded to the Dept. of 
+Commerce's redelivery order? 
+ 
+--Confirmation that the aircraft in question are 
+U.S.-registered.  (The aircraft tail numbers indicate they 
+were originally registered by United Airlines in the U.S.) 
+ 
+--Confirmation that we are seeking the British Government's 
+ccoperation in facilitating the redelivery order since the 
+aircraft are owned by a British-based company, and, if so, 
+what is the response? 
+ 
+¶4.  (S/NF)  Lee verified the two aircraft at Incheon (tail 
+nos. N192UA and N106UA) arrived in Korea in January 2006 and 
+September 2007, respectively, and, after the recent 
+completion of necessary overhauls, are both ready to fly. 
+The other aircraft at Busan's Kimhae airport (tail no. 
+N185UA) arrived in Korea in April 2007 and is still under 
+repair.  BG has yet to pay the maintenance bills for the 
+first two aircraft and appears to be facing difficulties in 
+leasing them.  Lee said BG is reportedly seeking a Greek 
+airline (and not an Iranian) partner for the aircraft at this 
+time, but no information is available on the identity of 
+these Greek prospects. 
+ 
+¶5.  (S/NF)  Lee stressed that the ROKG had the statutory 
+authority to hold the aircraft for a period of time but had 
+limited authority to facilitate a U.S. Commerce redelivery 
+order.  Lee added that the ROKG had no precedents for 
+redirecting aircraft to another country and thus was 
+concerned whether there was a legal basis for taking such 
+extraordinary action.  He sought our views on the "law 
+enforcement alternatives" that the USG was currently 
+considering in this case. 
+ 
+¶6.  (S/NF)  ACTION REQUESTED: Post would appreciate responses 
+to the four questions in para (3) above and any additional 
+guidance to help the ROKG assess the legal ramifications of 
+this case, in the event of BG's non-compliance with 
+Commerce's redelivery order. 
+VERSHBOW
+</file>

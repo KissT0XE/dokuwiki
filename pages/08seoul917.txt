@@ -1,0 +1,64 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL917  |  2008-05-02 07:31  |  기밀  |  주한미국대사관  |  {{tag>KS PGOV PHUM  BM }}  |
+====== 제 목: 한국, 버마 국민 투표의 문제점에 대해 공개 성명 고려 ======
+
+  * 기 밀 SEOUL 000917 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 국방부망 배포
+
+  * 국무부 산하 동아시아태평양/동아시아본토 애론 코프에 전달하세요((PLEASE PASS TO EAP/MLS FOR AARON COPE)).
+
+  * 행정명령 12958: 비밀해제: 05/02/2018 
+  * 태그: KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PHUM(([Human Rights])), BM(([Burma])) 
+  * 제 목: 한국, 버마 국민 투표의 문제점에 대해 공개 성명 고려
+
+  * 참조: 가. STATE 45471  [[08seoul560|나. SEOUL 560]]
+  * 참조하는 전문: [[08seoul928|08SEOUL928]]
+  
+  * 분류자: 정치 참사관 대리 대사 브라이언 맥피터스((A/POL Brian McFeeters.))  근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/02/24 20:54//
+1. (기밀) 5월 2일 대사관 정무 직원과 함께한 회동에서, 외교통상부 한우용 동남아 심의관은 한국정부가 현재 5월 10일 버마 국민투표의 결함에 대해 현재 논의하고 있다고 말하였다. 이 주제와 관련 //“바람직한 논의”//가 있지만, 아직 어떤 결정도 내리지 않았다.
+
+2. (기밀) 그러나 한우용은 미국이 버마 관련 한국정부의 입장을 세부적으로 관리하려 든다는 이미지를 피하길 원한다고 말하였다. 한우용은 이어서 한국정부가 버마 국민투표에 대한 공개적인 성명 가능성을 적극적으로 고려하고 있다는 점을 재차 확인하였다. 어떤 날짜를 언급하지는 않았다.
+버시바우
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://j.mp/XVzaEK|"버마 군부, 독재중에서도 가장 나쁜 독재"]] //오마이뉴스//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL917.rtf>
+C O N F I D E N T I A L SEOUL 000917 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO EAP/MLS FOR AARON COPE 
+ 
+E.O. 12958: DECL: 05/02/2018 
+TAGS: KS [Korea (South)], PGOV [Internal Governmental Affairs], PHUM [Human Rights], BM [Burma] 
+SUBJECT: ROK CONSIDERING PUBLIC STATEMENT ON FLAWED BURMESE 
+REFERENDUM 
+ 
+REF: A. STATE 45471 
+     B. SEOUL 560 
+ 
+Classified By: A/POL Brian McFeeters. Reasons 1.4(b/d) 
+ 
+¶1. (C) In a May 2 meeting with poloff, Han Woo-young, MOFAT 
+Deputy Director for Southeast Asian Affairs, said that the 
+ROKG was currently discussing the possibility of making a 
+public statement about the flawed nature of the May 10 
+referendum in Burma.  There was "favorable discussion" on the 
+topic, but as of yet no decision had been made. 
+ 
+¶2. (C) Han, however, said that the ROKG wanted to avoid the 
+image that the U.S. was trying to micromanage the ROKG's 
+position on Burma, and stated that it was necessary to 
+"differentiate on pushing too far" on the issue.  Han then 
+reiterated that the ROKG was favorably considering the 
+possibility of a public statement on the Burma referendum, 
+without mentioning a date. 
+VERSHBOW
+</file>

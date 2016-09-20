@@ -1,0 +1,100 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2044  |  2007-07-09 07:53  |  비밀  |  주한미국대사관  |  {{tag>CH ECON ELAB KDEM KIRF KN KS KWMN PGOV PHUM PINR PREF PREL PROP SENV SMIG SNAR SOCI }}  |
+====== 제 목: 탈북자 파일: 손을 타지 않은 정보의 원천 ======
+비 밀 SEOUL 002044 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+국가정보국 세드니 사일러 귀하((번역 주: SIPDIS, Siprnet Distribution ))
+
+행정명령 12958: 비밀해제: 09/14/2014 
+태그: CH (([China (Mainland)])), ECON (([Economic Conditions])), ELAB (([Labor Sector Affairs])), KDEM (([Democratization])), KIRF (([International Religious Freedom])), KN (([Korea (North)])), KS (([Korea (South)])), KWMN (([Women Issues])), PGOV (([Internal Governmental Affairs])), PHUM (([Human Rights])), PINR (([Intelligence])), PREF (([Refugees])), PREL (([External Political Relations])), PROP (([Propaganda and Psychological Operations])), SENV (([Environmental Affairs])), SMIG (([Migration])), SNAR (([Narcotics])), SOCI (([Social Conditions])) 
+제 목: 탈북자 파일: 손을 타지 않은 정보의 원천
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/07/13 02:51//
+===== 소개 및 행동 요청 =====
+1. (비밀) 미국정부는 거의 완전하게 손을 타지 않은 방대한 양의 귀중한 북한 정보를 습득하였다. 1997년부터 현재에 이르기까지 북한을 탈출한 북한 주민을 브리핑한 해당 파일은 9,180개가 넘는 파일자료로써 탈북자의 남한 정착을 목적으로 한국정부가 수락하고 합동신문센터에서 가공되었다. 해당 파일은 국정원 및 한국정부의 유관 기관들에 의해 수집되고, 정기적이고 지속적인 방식으로 미 국방정보국 산하 한국 야전작전기지로((번역 주: 미 국방정보국의 한국지부(한국지원단)라고 불리기도 한다.)) 넘겨졌다.
+
+2. (비밀) 이번 동시대 상의 생생한 증언을 담은 막대한 수집정보는 북한 정권의 안정성을 평가하고, 북한 붕괴시, 또는 여타 비상시를 대비하고, 인권 침해의 책임소재에 대한 기록을 축적하는데 직접적인 의미가 있을 것이다. 한국 야전작전기지는 이미 초기 면담 중 일부에 참여하였고(번역 주: 미 국방정보국 한국지부가 탈북자 첫 대면 면담에 참가했다는 소리), 국방관련 정보에 대한 모든 보고내용은 가려냈다. 대사관은 완전한 파일형태를 사용함으로써 북한에 대한 훨씬 많은 양의 정보를 추출하도록 하는 구상을 제안한다. 예를 들면, 단 4개의 임의 선택된 파일 내용에서 우리는 아래와 같은 증언을 발견하였다:
+  - 성경과 전자기기의 유통 그리고 청진과 평양에서의 기독교인에 대한 기록;
+  - 중국에서 송환된 북한 임산부들에게 낙태 유도
+  - 한국에서 결혼한 나이든 북한여성에 대한 한국 남편의 묻지마 //“축출”//((번역 주: ‘추출’이라고 했는데 통역자가 ‘축출’의 발음을 잘못 들은 결과로 보인다.));
+  - 중국에서 붙잡힌 북한사람에 대한 전기 충격 고문;
+  - 북한 여성 4명을 미화 26 달러에 중국 농부에게 인신매매;
+  - 군사 용도로 원조를 전용(轉用)하기 위한 위장 목적의 차량 허가번호의 개조
+  - 2002년 경제 개혁으로 인한 근로자들의 불만
+  - 석탄광산에서의 강제노역 처분
+  - 평양과 개성 근방 왕릉에서 도굴한 골동품의 매매; 그리고
+  - 해외 라디오 방송을 통한 한국사회에 대한 지식
+3. (비밀) 이러한 파일들은 쓸만한 참고자료로 변모시키려면 주한미국대사관의 업무와는 별개의 자원이 요구될 것이다. 한가지 방식은 관련된 미국정부 기관이 충분한 한국어 능력과 적절한 비밀 정보 사용허가를 갖춘 도급자를 고용해서 본 물건의 번역 그리고 분류를 맡기도록 하는 등 알 카이다 문서에 사용되는 //“하모니”// 데이터베이스와 유사한 데이터베이스를 생각할 수 있다. 대사관은 이와 같은 사업의 추진이 매우 가치가 있다고 믿고 있다. 그러므로, 우리는 ...를((번역 주: 이 부분에서 문서가 잘려져 있다―역자는 이렇게 문서가 중간에 잘려있는 문서를 처음 보았다. 추정해보면, 3가지로 나눨 수있다. 첫째, 위키리크스 누리집이 고의로 누락시킨 경우; 둘째, 위키리크스 누리집의 실수로 누락되었을 경우; 셋째, 미국 병사가 DVD 복사할 때 누락(이는 거의 가능성이 없다) 역자는 남은 내용이 너무 위중해 고의로 누락시킨 첫 번째 경우라고 본다. 통일학연구소 한호석 소장은 두 번째 경우라고 기고한 글에서 설명했는데 무슨 근거로 그런 발언을 했는지 모르겠다.)) 완전히 점검하는데 활용될 수있는 가용 미국정부 자원과 재정을 국무부가 진단할 것을 타진한다.
+[[https://sites.google.com/site/poirotkr/7/07seoul2044|프와로 탐정의 번역]] © 무단복제나 전재를 금지한다.
+===== 뉴스타파N 13회 =====
+{{youtube>fQh83HZY6cw?large}}
+===== 원본 내려받기 =====
+<file rtf 07SEOUL2044.rtf>
+S E C R E T SEOUL 002044 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DNI FOR SYD SEILER 
+ 
+E.O. 12958: DECL: 09/14/2014 
+TAGS: CH [China (Mainland)], ECON [Economic Conditions], ELAB [Labor Sector Affairs], KDEM [Democratization], KIRF [International Religious Freedom], KN [Korea (North)], KS [Korea (South)], KWMN [Women Issues], PGOV [Internal Governmental Affairs], PHUM [Human Rights], 
+PINR [Intelligence], PREF [Refugees], PREL [External Political Relations], PROP [Propaganda and Psychological Operations], SENV [Environmental Affairs], SMIG [Migration], SNAR [Narcotics], SOCI [Social Conditions] 
+SUBJECT: DPRK DEFECTOR FILES: THE UNTAPPED SOURCE 
+ 
+INTRODUCTION AND ACTION REQUEST 
+------------------------------- 
+ 
+¶1.  (S) The USG possesses an enormous trove of information 
+about the DPRK that has been almost entirely untapped.  The 
+files contain over 9,180 Korean-language debriefs, spanning 
+1997 to the present, of North Korean citizens who escaped 
+from the DPRK and were accepted by the ROKG for resettlement 
+and processed at the Combined Military Interrogation Center 
+(CMIC).  The files are collected by the National Intelligence 
+Service and related ROKG agencies and turned over to the 
+Defense Intelligence Agency (DIA)'s Field Operating 
+Base-Korea (FOB-K) on a regular and continuing basis. 
+ 
+¶2.  (S) This massive collection of contemporaneous, 
+first-hand testimony would be directly relevant to assessing 
+DPRK regime stability, planning for collapse or other 
+contingencies, and building a record of accountability for 
+human rights violations.  FOB-K has already participated in 
+some of the initial interviews and has screened all of the 
+reports for defense-related information.  Our proposal 
+envisages using the completed files to extract much more 
+information about the DPRK. For example, in just four 
+randomly selected files, we found testimony about the: 
+ 
+-- distribution of bibles, electronic equipment, and 
+Christian recordings in Chongjin and Pyongyang; 
+-- inducement of abortions among pregnant North Koreans 
+returning from China; 
+-- nonconsensual "extraction" of an elderly North Korean 
+woman by her husband in the ROK; 
+-- torture by electric shock of North Koreans caught in China; 
+-- trafficking of four North Korean women to a Chinese farmer 
+for USD 26; 
+-- altering of vehicle license plates to disguise the 
+diversion of aid for military purposes; 
+-- dissatisfaction of workers with the 2002 economic reforms; 
+-- imposition of forced labor in a coal mine; 
+-- sale of antiquities pillaged from royal tombs near 
+Pyongyang and Kaesong; and 
+-- Knowledge of ROK society through overseas radio 
+broadcasting. 
+ 
+¶3.  (S) Turning these files into a usable reference would 
+require resources beyond anything the U.S. Mission in Seoul 
+could manage.  One approach could be for interested USG 
+agencies to hire contractors, with sufficient Korean language 
+skill and the appropriate security clearances, to undertake 
+translating and cataloging this material, perhaps as a 
+database similar to the "Harmony" database used for Al Qaida 
+documents.  Post believes that this is a project very much 
+worth pursuing.  We are, therefore, seeking the Department's 
+assessment of available USG resources, financial and 
+otherwise, that could be used to fully e
+</file>

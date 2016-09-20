@@ -1,0 +1,109 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  10SEOUL2  |  2010-01-04 04:16  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>ECON ENRG KNNP PGOV EINV ETRD AE KS }}  |
+====== 제 목: 유명환 외무장관, 아랍에미리트와의 포괄적 계약 언급 ======
+기 밀 SEOUL 000002 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국무부 아시아 태평양/한국과((DEPARTMENT FOR EAP/K)),  원자력에너지안보보안과((Office of Nuclear Energy, Safety and Security [ISN/NESS])), 근동국/아라비아반도과((Bureau of Near East Affairs, Office of Arabian Peninsula Affairs [NEA/ARP]))
+ 
+행정명령 12958: 비밀해제: 01/04/2020 
+태그: ECON(([Economic Conditions])), ENRG(([Energy and Power])), KNNP(([Nuclear Non-Proliferation])), PGOV(([Internal Governmental Affairs])), EINV(([Foreign Investments])), ETRD(([Foreign Trade])), AE(([United Arab Emirates])), KS(([Korea (South)]))
+제 목: 유명환 외무장관, 아랍에미리트(UAE)와의 포괄적 계약 언급
+분류자: 캐슬린 스티븐스 대사  근거 1.4 (b/d). 
+서울 문서참조번호((MRN은 ‘message reference number’)) 2020의 사본. 태그 및 추가적인 주소 첨부((DUPLICATE COPY OF SEOUL MRN 2020. TAGS AND ADDITIONAL ADDRESSEES ADDED.))
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/10 11:37//
+
+1. (기밀) 한국 외교통상부 장관 유명환은 12월 30일 스티븐스 대사와 함께한 일대일 조찬을 주재했으며, 한국·아랍에미리트 원자력발전소 계약에 대한 긴 설명으로 말문을 열었다. 조찬에서 다뤄진 다른 주제들은 개별 전문으로 보고될 것이다.
+
+2. (기밀) 한국 외교통상부 장관 유명환은 이번 주초 한국이 수주한 미화 400억 달러 원자력 발전소 계약의 하나로 한국과 아랍에미리트는 경제 및 군사 분야 협력에도 합의했다고 설명했다. 경제 협력은 예로 재생 가능한 에너지 및 교육 분야를 포함하는 광범위한 범위가 될 것이다. 유명환은 군사협력합의안은 기밀이며, 국회의 비준이 필요하지 않다고 말했다.((번역 주: UAE 파병동의안이 국회 예산안 통과에서 함께 통과 되었다.아래의 시사매거진 2580을 보라)) 그러나 합의안에 따라 대부분 한국에서 군사 관련 훈련을 아랍에미리트에 제공하도록 하며, 아랍에미리트에서는 퇴임한 한국군 당국자를 활용하여 제공할 예정이다. 한국·아랍에미리트 계약에서 이런 부분은 현재 공표되지 않았지만, 시간이 갈수록 한국의 군사 분야 활동은 한국민으로 하여금 한국의 글로벌 참여 확대라는 개념에 친숙해지도록 도움을 줄 수 있다.
+
+3. (기밀) <wrap hi>유명환 장관은 한국이 미화 400억 달러의 원자력 발전소 계약을 수주하도록 한 아랍에미리트의 결정은 사실 그의 11월 아랍에미리트 방문 중에 체결되었다고 단언했다; 그러나, 아랍에미리트는 공식적인 발표에 앞서 이명박 대통령이 방문하기까지 기다렸다.</wrap> 유명환은 프랑스의 호가는 한국의 비해 매우 높았으며(거의 두 배), 한국의 작업 품질과 완수 능력에 관해 의구심을 제기하면서 “지저분한 플레이”을 했다고 설명했다. 비록 이란과 아랍에미리트의 관계가 현재 상대적으로 양호하지만, 아랍에미리트는 지속적인 "위기의식"으로 인해 군사협력에 목말라 있었다고 유명환은 말했다.<WRAP center round info 90%>//**MB와 청와대의 대국민 사기극**//…(중략) 청와대 관계자는 "현재까지 한국이 원전을 수주할지는 불투명하다"며 "이 대통령이 UAE를 방문하는 것은 수주전에서 최종 티켓을 따내기 위한 정상외교 일환"이라고 설명했다. …(중략) 이동관 청와대 홍보수석은 "만약 우리나라가 최종 사업자로 선정된다면 기술력뿐 아니라 외교력과 협상력의 총체적 승리로 볼 수 있다"며 "국제사회에 한국형 원전 시대를 여는 새로운 이정표가 될 것"이라고 평가했다. [[http://www.mediatoday.co.kr/news/articleView.html?idxno=85069|'호들갑 세일즈외교'-외신은 이미 한국 수주 점쳐]] //미디어오늘// …이렇게 해서 MB의 대궁민 사기극 맛만 살짝 봤습니다. 그 진수를 만끽하려면… 필독☞ [[http://khross.tistory.com/61|아랍에미리트 원전 수주 이명 계약 논란]] //경향블로그//
+</WRAP>
+
+4. (기밀) 유명환이 설명하듯, (김태영 국방장관의 지난달 아랍에미리트 방문에 이어진) 양국의 군사합의는 의미가 크며, 국방산업기술 교환과 국사 훈련 및 지원에 관한 협력, 고위급 군사 당국자의 교류를 포함될 예정이다. 유명환은 아랍에미리트는 예로 F-16 기종과 같이 이미 무기와 장비를 풍부하게 보유하고 있어 "한국보다 우위에 있지만," 그들은 훈련이 필요하다고 지적하였다. 한국이 아랍에미리트에 소수의 퇴역 한국 관계관을 파견하는 한, 또는 아랍 관계관을 한국에서 훈련을 받도록 불러들이는 한 국회의 관여가 필요가 없을 것이며, 양국의 군사 교류의 기밀성과 절제된 분위기에서 군사교류가 이뤄질 수 있을 것이다.
+
+5. (기밀) 논평: 원자력 발전소 수주는 남한에서 주요 뉴스였고, 한국에 결정적인 석유와 가스 자원의 믿을 만한 공급원 확충에서나 미래 한국 상거래상의 성장 엔진으로 "녹색 성장"을(원자력을 일컬음) 크게 도약시킨다는 측면 모두에서 대표적인 성과로 보고 있는 게 분명하다. 벌써 중동 지역에서의 추가적인 후속 계약이 있을 거라는 기대감이 있다. 한국 정부와 페르시아 걸프 지역의 유대가 깊어짐에 따라서, 우리는 동 지역과 관련 우리 자신도 한국과의 대화를 심화하길 원하고, 그들이 건설적인 역할자가 되도록 장려하길 원한다. 논평 끝.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/10seoul2|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+===== 바깥고리 =====
+  - [[http://www.mediatoday.co.kr/news/articleView.html?idxno=85069|'호들갑 세일즈외교'-외신은 이미 한국 수주 점쳐]] //미디어오늘//
+  - [[http://www.vop.co.kr/A00000360957.html|[단독] UAE원전 수주, 계약도 체결 안됐다?]] //민중의소리//
+  - [[http://www.vop.co.kr/A00000359795.html|MB정부, UAE원전 '이면계약'에 해명도 엉터리]] //민중의소리//
+  - [[http://www.vop.co.kr/A00000359512.html|MB정부, UAE원전 1백억 달러 자금지원 드러나]]  //민중의소리//
+===== 참조 동영상 =====
+{{youtube>KLqWRm5umMI}}
+===== 원본 내려받기 =====
+<file rtf 10SEOUL2.rtf>
+C O N F I D E N T I A L SEOUL 000002 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR EAP/K, ISN/NESS, EEB/CBA AND NEA/ARP 
+ 
+E.O. 12958: DECL: 01/04/2020 
+TAGS: ECON [Economic Conditions], ENRG [Energy and Power], KNNP [Nuclear Non-Proliferation], PGOV [Internal Governmental Affairs], EINV [Foreign Investments], ETRD [Foreign Trade], AE [United Arab Emirates], KS [Korea (South)] 
+SUBJECT: ROK FM YU ON ROK'S COMPREHENSIVE DEAL WITH UAE 
+ 
+Classified By: Ambassador D. Kathleen Stephens.  Reasons 1.4 (b/d). 
+ 
+DUPLICATE COPY OF SEOUL MRN 2020. TAGS AND ADDITIONAL 
+ADDRESSEES ADDED. 
+ 
+¶1.  (C) ROK Foreign Minister Yu Myung-Hwan hosted a 
+one-on-one breakfast with Ambassador Stephens on December 30, 
+and opened with a long description of the ROK-UAE nuclear 
+plant deal.  Other subjects covered in the breakfast will be 
+reported septel. 
+ 
+¶2.  (C) ROK Foreign Minister Yu Myung Hwan explained that as 
+part of the USD 40 billion nuclear power plant contract 
+awarded to Korea earlier this week, the ROK and the UAE have 
+also agreed to cooperate in economic and military areas.  The 
+economic cooperation will include a wide range of areas such 
+as renewable energy and education.  FM Yu said the military 
+cooperation agreement is confidential, and does not need to 
+be ratified by the National Assembly.  It will, however, 
+allow the ROK to provide military-related training to the 
+UAE, mostly in Korea itself, and by the use of retired ROK 
+military officers in the UAE.  While this part of the ROK-UAE 
+is not now public, Yu said over time ROK activities in this 
+arena could help to get the Korean public accustomed to the 
+notion of greater global engagement by the ROK, including 
+militarily. 
+¶3.  (C) Foreign Minister Yu asserted that the UAE,s decision 
+to award the USD 40 billion nuclear plant contract to the ROK 
+was actually sealed during his trip to the country in 
+November; however, the UAE held out for a visit by President 
+Lee Myung Bak before making the official announcement.  Yu 
+explained that the French bid was much higher than (nearly 
+double) Korea, and moreover that France "played dirty" by 
+casting doubt as to Korea,s quality of work and ability to 
+deliver.  Yu said the UAE was eager for military cooperation 
+because of its continued "psychology" of threat; although 
+UAE,s relations with Iran are currently relatively good. 
+¶4.  (C) As Yu described it, the military collaborative 
+agreement (which followed last month,s trip to the UAE by 
+Defense Minister Kim Tae-Young) is significant, and will 
+include defense industry technology exchanges, cooperation on 
+military training and support, and exchanges of high-ranking 
+military officials.  Yu noted that the UAE already has 
+abundant arms and equipment, such as F-16s, that are "more 
+and better than the ROK,s," but they need training.  As long 
+as the ROK sends small numbers of retired ROK officers to the 
+UAE, or brings UAE officers to the ROK for training, there 
+will be no need for involvement by the National Assembly, 
+which will allow the exchanges to remain confidential and 
+low-key, he explained. 
+¶5.  COMMENT:  The contract award has been major news in South 
+Korea, and the Lee Myung-bak Administration clearly views it 
+as a major accomplishment both in further securing the ROK,s 
+critical need for a continued reliable source of oil and gas, 
+and as a huge step in his administration,s goal of making 
+"green growth" (read nuclear power) an engine of future ROK 
+commercial success.  Already there are expectations that more 
+contracts in the Middle East will follow.  As Seoul deepens 
+its ties to the Persian Gulf region, we will want to deepen 
+our own dialogue with the ROKs on the region and encourage 
+them to be constructive players. END COMMENT. 
+STEPHENS
+</file>

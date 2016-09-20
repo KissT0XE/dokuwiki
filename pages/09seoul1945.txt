@@ -1,0 +1,66 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL1945  |  2009-12-14 07:51  |  비밀  |  주한미국대사관  |  {{tag>PGOV PREL MARR MOPS KS AF }}  |
+====== 제 목: 장광일 국방부 정책실장, 아프간 지방재건팀의 준비사항에 대한 도움 요청 ======
+비 밀 SEOUL 001945 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 12/14/2034 
+태그: PGOV (([Internal Governmental Affairs])), PREL (([External Political Relations])), MARR (([Military and Defense Arrangements])), MOPS (([Military Operations])), KS (([Korea (South)])), AF (([Afghanistan])) 
+제 목: 한국 국방부 정책실장 아프간 지방원조팀의 준비사항에 대한 도움 요청 
+분류자: 정치 공사 참사관((번역 주: 미 대사관 홈페이지에서 사용하는 정확한 용어다)) 제임스 웨이만((번역 주:POL M/C James. L. Wayman.))   근거 1.4 (b/d).
+번역자: PoirotKr (번역 주: 트위터 사용자이름) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/12 19:06//
+
+1. (비밀) 2009년 12월 11일 마이클 쉬퍼 국방장관실((번역 주: OSD [Office of Secretary of Defense])) 국방부 부차관보는((번역 주: Deputy Minister of National Defense for Policy)) 새로 임명된 국방부 정책실장(([External Political Relations])) 장광일 준장과((번역 주: Lieutenant Colonel[LTC]는 사전에 보면 중령으로 나오는데 장광일은 준장이 맞다)) 함께 회동하였다. 장실장은 12월 1일 본인의 전화 통화에서 국방부 아시아태평양 보안담당 그렉슨 차관보가((번역 주: Assistant Secretary of Defense for Asian and Pacific Security Affairs [APSA] Gregson)) 오바마 대통령의 아프간 전략에 대해 간단히 설명해줬다며 그렉슨 차관보에 대한 감사를 표하였다. 장광일 준장은 한국정부의 아프간 지방재건팀((번역 주: 한국은 다른 국가의 지방재건팀과 구별하기 위해 [ROK PRT]Provincial Reconstruction Team(지방재건팀)을⇒ Provincial Assistance Team(지방원조팀)이란 말로 구별해 사용한다고 한다.)) 지원에 대한 그렉슨 차관보의 지원에 대해 감사를 표시하였다.
+
+2. (비밀) 장광일 준장은 7월에 파견되기 전에 한국 지방재건팀이 사용할 10개의 이동접근레이더를 미국이 한국에 판매할 필요가 있음을 강조하였다. 그는 한국이 아프간에 파견될 예정인 4구의 다용도 60 블랙호크 헬리콥터를((번역 주: the four UH 60 Blackhawk helicopters)) 보강할 목적으로 추진 중인 추가적인 장비 구매도 역시 언급하였다. 장실장은 파르완 현지 한국 지방재건팀과의 조율과 관련 미국 측의 지원에 대해 감사하였다((번역 주: 파르완 지방에는 미국의 지방재건팀이 이미 상주하고 있었고, 당연히 미국 지방재건팀과의 조율이 긴요했다.)) 그는 12월 11일 워싱턴에서 이용준 외교부 차관보가 홀브룩 미 아프간ㆍ파키스탄 특사를((번역 주:Special Representative for Afghanistan and Pakistan [SRAP])) 만날 예정이라고 언급하였다. 그리고 재차 한국에 지속적인 지원을 해준 미국에 감사하였다.
+
+3. (비밀) 쉬퍼 국방부 부차관보는 한국의 아프간 지방재건팀에 참여에 대해 장 준장에게 감사하였다. 장 준장은 국제치안유지군이((번역 주:International Security Assistance Force [ISAF])) 나토 병력이 7,000명 정도로 증원될 거라는 최근 발표를 언급하면서 한국도 참여할 수 있어 기쁘다고 말하였다. 오늘 12월 11일 한국정부는 아프간 지방재건팀에 대한 국회의 승인을 요청할 것이라고 장준장은 말하였다.
+
+4. (미분류) 국방부 부차관보 쉬퍼는 이 전문을 승인하였다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/09seoul1945|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+
+====== 원본 및 내려받기 ======
+<file rtf 09SEOUL1945.rtf>
+S E C R E T SEOUL 001945 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/14/2034 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], MARR [Military and Defense Arrangements], MOPS [Military Operations], KS [Korea (South)], AF [Afghanistan] 
+ 
+SUBJECT: ROK MND DEPUTY MINISTER FOR POLICY SEEKS US 
+SUPPORT FOR AFGHAN PRT PREPARATIONS 
+ 
+Classified By: POL M/C James L. Wayman.  Reasons 1.4 (b/d). 
+ 
+¶1. (S)  OSD DASD Michael Schiffer met with newly appointed 
+Deputy Minister of National Defense for Policy LTC Gwang Il 
+Chang on December 11, 2009.  Deputy Minister LTG Chang 
+expressed his gratitude to Assistant Secretary of Defense for 
+Asian and Pacific Security Affairs (APSA) Gregson for his 
+December 1 telephone call during which A/S Gregson previewed 
+President Obama's Afghanistan strategy.  LTG Chang 
+appreciated A/S Gregson's support for the Republic of Korea's 
+(ROK) Afghanistan PRT contribution. 
+ 
+¶2. (S) LTG Chang stressed the need for the US to sell ten 
+MRAPs to ROK for use by the PRT before they deploy in July. 
+He also mentioned additional equipment the ROK was seeking to 
+purchase in order to harden the four UH 60 Blackhawk 
+helicopters the ROK would send to Afghanistan.  Chang thanked 
+the US for our assistance in coordinating the ROK PRT in 
+Parwan.  He mentioned that Deputy Foreign Minister Yong Joon 
+Lee would meet with SRAP Holbrooke 11 December in Washington 
+and again thanked the US for our continued support to the ROK. 
+ 
+¶3. (S)  DASD Schiffer thanked LTG Chang for the ROK Afghan 
+PRT participation.  LTG Chang noted the recent announcement 
+that ISAF would be augmented by 7000 NATO troops and said the 
+ROK was pleased it could participate.  LTG Chang said the 
+ROKG would request approval for the Afghan PRT from the 
+National Assembly today, December 11. 
+ 
+¶4. (U)  DASD Schiffer cleared this message. 
+STEPHENS
+</file>

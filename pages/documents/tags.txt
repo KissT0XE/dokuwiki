@@ -1,0 +1,419 @@
+^  Note name  ^  Note text  ^
+^ :tag:SIPDIS | S I P D I S Secret Internet Protocol Distribution |
+^ :tag:NOFORN | No foreign nationals |
+^ :tag:E.O. 12958 | EO 12958 Executive order 12958 relating to state secrets and freedom of information |
+^ :tag:DECL | Declassification date; when the document's classified status comes up for review |
+^ :abbr:reftel | reftel reference telegram |
+^ :abbr:POL M/C | POL M/C political minister counselor |
+^ :abbr:DCM | DCM deputy chief of mission |
+^ :tag:GOI | Government of Italy |
+^ :tag:GoI | Government of Italy |
+^ :tag:AA | Aruba |
+^ :tag:AADP | Automated Data Processing |
+^ :tag:ABLD | Buildings and Grounds |
+^ :tag:ABUD | Budget Services and Financial Systems |
+^ :tag:AC | Antigua and Barbuda  |
+^ :tag:ACKM | COMSEC Key Management |
+^ :tag:ACOA | Communication Operations and Administration |
+^ :tag:ADCO | Diplomatic Courier Operations |
+^ :tag:ADPM | Diplomatic Pouch and Mail |
+^ :tag:AE | United Arab Emirates |
+^ :tag:AEMR | Emergency Planning and Evacuation |
+^ :tag:AF | Afghanistan |
+^ :tag:AFIN | Financial Management |
+^ :tag:AFSI | Foreign Service Institute |
+^ :tag:AFSN | Foreign Service National Personnel |
+^ :tag:AG | Algeria |
+^ :tag:AGAO | General Accounting Office |
+^ :tag:AINF | Information Management Services |
+^ :tag:AINR | INR Program Administration |
+^ :tag:AINT | Internet Administration |
+^ :tag:AJ | Azerbaijan |
+^ :tag:AL | Albania |
+^ :tag:ALOW | Allowances |
+^ :tag:AMED | Medical Services |
+^ :tag:AMGT | Management Operations |
+^ :tag:AMTC | Telecommunications Equipment Maintenance |
+^ :tag:ANET | Communications, Circuits, and Networks |
+^ :tag:AO | Angola |
+^ :tag:AODE | Employees Abroad |
+^ :tag:AOMS | Office Management Specialist Issues |
+^ :tag:AORC | International Organizations and Conferences |
+^ :tag:APCS | Personal Computers |
+^ :tag:APER | Personnel |
+^ :tag:AQ | American Samoa |
+^ :tag:AR | Argentina |
+^ :tag:ASCH | U.S. Sponsored Schools |
+^ :tag:ASEC | Security |
+^ :tag:ASIG | Inspector General Activities |
+^ :tag:ASUP | Supplies and Equipment |
+^ :tag:ATRN | Transportation Services |
+^ :tag:AU | Austria |
+^ :tag:AV | Anguilla |
+^ :tag:AY | Antarctica |
+^ :tag:BA | Bahrain |
+^ :tag:BA | Bahrain |
+^ :tag:BB | Barbados |
+^ :tag:BB | Barbados |
+^ :tag:BC | Botswana |
+^ :tag:BC | Botswana |
+^ :tag:BD | Bermuda |
+^ :tag:BD | Bermuda |
+^ :tag:BF | Bahamas, The |
+^ :tag:BF | Bahamas, The |
+^ :tag:BG | Bangladesh |
+^ :tag:BG | Bangladesh |
+^ :tag:BH | Belize |
+^ :tag:BH | Belize |
+^ :tag:BK | Bosnia and Herzegovina |
+^ :tag:BK | Bosnia and Herzegovina |
+^ :tag:BL | Bolivia |
+^ :tag:BM | Burma |
+^ :tag:BN | Benin |
+^ :tag:BO | Belarus |
+^ :tag:BQ | Navassa Island |
+^ :tag:BR | Brazil |
+^ :tag:BS | Bassas da India |
+^ :tag:BT | Bhutan |
+^ :tag:BU | Bulgaria |
+^ :tag:BV | Bouvet Island |
+^ :tag:BX | Brunei |
+^ :tag:BY | Burundi |
+^ :tag:CA | Canada |
+^ :tag:CASC | Assistance to Citizens |
+^ :tag:CB | Cambodia |
+^ :tag:CD | Chad |
+^ :tag:CE | Sri Lanka |
+^ :tag:CF | Congo (Brazzaville) |
+^ :tag:CFED | Federal Agency Services |
+^ :tag:CG | Congo (Kinshasa) |
+^ :tag:CH | China (Mainland) |
+^ :tag:CI | Chile AO Angola |
+^ :tag:CJ | Cayman Islands |
+^ :tag:CJAN | Judicial Assistance and Notarial Services |
+^ :tag:CK | Cocos (Keeling) Islands |
+^ :tag:CLOK | Visa Lookout |
+^ :tag:CM | Cameroon |
+^ :tag:CMGT | Consular Administration and Management |
+^ :tag:CN | Comoros |
+^ :tag:CO | Colombia |
+^ :tag:CPAS | Passport and Citizenship |
+^ :tag:CQ | Northern Mariana Islands |
+^ :tag:CR | Coral Sea Islands |
+^ :tag:CS | Costa Rica |
+^ :tag:CT | Central African Republic |
+^ :tag:CU | Cuba |
+^ :tag:CV | Cape Verde |
+^ :tag:CVIS | Visas |
+^ :tag:CW | Cook Islands |
+^ :tag:CY | Cyprus |
+^ :tag:DA | Denmark |
+^ :tag:DJ | Djibouti |
+^ :tag:DQ | Jarvis Island |
+^ :tag:EAGR | Agriculture and Forestry |
+^ :tag:EAID | Foreign Economic Assistance |
+^ :tag:EAIR | Civil Aviation |
+^ :tag:EC | Ecuador |
+^ :tag:ECIN | Economic Integration and Cooperation |
+^ :tag:ECON | Economic Conditions |
+^ :tag:ECPS | Communications and Postal Systems |
+^ :tag:EFIN | Financial and Monetary Affairs |
+^ :tag:EFIS | Commercial Fishing and Fish Processing |
+^ :tag:EG | Egypt |
+^ :tag:EI | Ireland |
+^ :tag:EIND | Industry and Manufacturing |
+^ :tag:EINT | Economic and Commercial Internet |
+^ :tag:EINV | Foreign Investments |
+^ :tag:EK | Annobon |
+^ :tag:EK | Equatorial Guinea |
+^ :tag:ELAB | Labor Sector Affairs |
+^ :tag:ELTN | Land Transportation |
+^ :tag:EMIN | Minerals and Metals |
+^ :tag:EN | Estonia |
+^ :tag:ENRG | Energy and Power |
+^ :tag:EPET | Petroleum and Natural Gas |
+^ :tag:ER | Eritrea |
+^ :tag:ES | El Salvador |
+^ :tag:ET | Ethiopia |
+^ :tag:ETRD | Foreign Trade |
+^ :tag:ETTC | Trade and Technology Controls |
+^ :tag:EWWT | Waterborne Transportation |
+^ :tag:EZ | Czech Republic |
+^ :tag:FG | French Guiana |
+^ :tag:FI | Aland Islands |
+^ :tag:FI | Finland |
+^ :tag:FJ | Fiji |
+^ :tag:FK | Falkland Islands (Islas Malvinas) |
+^ :tag:FO | Faroe Islands |
+^ :tag:FP | French Polynesia |
+^ :tag:FQ | Baker Island |
+^ :tag:FR | Corsica |
+^ :tag:FR | France |
+^ :tag:FS | French Southern and Antarctic Lands |
+^ :tag:GA | Gambia (The) |
+^ :tag:GB | GB Gabon |
+^ :tag:GG | Georgia |
+^ :tag:GH | Ghana |
+^ :tag:GI | Gibraltar |
+^ :tag:GJ | Grenada |
+^ :tag:GK | Guernsey |
+^ :tag:GL | Greenland |
+^ :tag:GM | Germany |
+^ :tag:GoP | Government of Pakistan |
+^ :tag:GP | Guadeloupe |
+^ :tag:GQ | Guam |
+^ :tag:GR | Crete |
+^ :tag:GR | Greece |
+^ :tag:GT | Guatemala |
+^ :tag:GV | Guinea |
+^ :tag:GWOT | Global war on terror |
+^ :tag:GY | Guyana |
+^ :tag:GZ | Gaza Strip |
+^ :tag:HA | Haiti |
+^ :tag:HK | Hong Kong |
+^ :tag:HM | Heard Island and McDonald Islands |
+^ :tag:HO | Honduras |
+^ :tag:HQ | Howland Island |
+^ :tag:HR | Croatia |
+^ :tag:HU | Hungary |
+^ :tag:IC | Iceland |
+^ :tag:ID | Indonesia |
+^ :tag:IM | Man, Isle of |
+^ :tag:IO | Diego Garcia |
+^ :tag:IO | British Indian Ocean Territory |
+^ :tag:IO | Chagos Archipelago |
+^ :tag:IP | Clipperton Island |
+^ :tag:IR | Iran |
+^ :tag:ISI | Pakistani secret service |
+^ :tag:IV | Cote D’Ivoire |
+^ :tag:IZ | Iraq |
+^ :tag:JA | Japan |
+^ :tag:JA | Okinawa |
+^ :tag:JA | Ryukyu Islands |
+^ :tag:JE | Jersey |
+^ :tag:JM | Jamaica |
+^ :tag:JN | Jan Mayen |
+^ :tag:JO | Jordan |
+^ :tag:JQ | Johnston Atoll |
+^ :tag:JU | Juan de Nova Island |
+^ :tag:KE | Kenya |
+^ :tag:KG | Kyrgyzstan |
+^ :tag:KN | Korea (North) |
+^ :tag:KQ | Kingman Reef |
+^ :tag:KR | Kiribati |
+^ :tag:KS | Korea (South) |
+^ :tag:KT | Christmas Island |
+^ :tag:KU | Kuwait |
+^ :tag:KV | Kosovo |
+^ :tag:KZ | Kazakhstan |
+^ :tag:LA | Laos |
+^ :tag:LE | Lebanon |
+^ :tag:LG | Latvia |
+^ :tag:LH | Lithuania |
+^ :tag:LI | Liberia |
+^ :tag:LO | Slovakia |
+^ :tag:LQ | Palmyra Atoll |
+^ :tag:LS | Liechtenstein |
+^ :tag:LT | Lesotho |
+^ :tag:LU | Luxembourg |
+^ :tag:LY | Libya |
+^ :tag:MA | Madagascar |
+^ :tag:MARR | Military and Defense Arrangements |
+^ :tag:MASS | Military Assistance and Sales |
+^ :tag:MB | Martinique |
+^ :tag:MC | Macau |
+^ :tag:MCAP | Military Capabilities |
+^ :tag:MD | Moldova |
+^ :tag:MF | Mayotte |
+^ :tag:MG | Mongolia |
+^ :tag:MH | Montserrat |
+^ :tag:MI | Malawi |
+^ :tag:MK | Macedonia, The Former Yugoslav Republic of |
+^ :tag:ML | Mali |
+^ :tag:MN | Monaco |
+^ :tag:MNUC | Military Nuclear Applications |
+^ :tag:MO | Morocco |
+^ :tag:MOPS | Military Operations |
+^ :tag:MP | Mauritius |
+^ :tag:MQ | Midway Islands |
+^ :tag:MR | Mauritania |
+^ :tag:MT | Malta |
+^ :tag:MU | Oman |
+^ :tag:MV | Maldives |
+^ :tag:MW | Montenegro |
+^ :tag:MX | Mexico |
+^ :tag:MZ | Mozambique |
+^ :tag:NA | Netherlands Antilles |
+^ :tag:NC | New Caledonia |
+^ :tag:NE | Niue |
+^ :tag:NF | Norfolk Island |
+^ :tag:NG | Niger |
+^ :tag:NH | Vanuatu |
+^ :tag:NI | Nigeria |
+^ :tag:NL | Netherlands |
+^ :tag:NP | Nepal |
+^ :tag:NR | Nauru |
+^ :tag:NS | Suriname |
+^ :tag:NU | Nicaragua |
+^ :tag:NZ | Antipodes Islands |
+^ :tag:NZ | Auckland Islands |
+^ :tag:NZ | Bounty Islands |
+^ :tag:NZ | Chatham Islands |
+^ :tag:NZ | Kermadec Islands |
+^ :tag:NZ | New Zealand |
+^ :tag:ODIP | U.S. Diplomatic Representation |
+^ :tag:OEXC | Educational and Cultural Exchange Operations |
+^ :tag:OFDP | Foreign Diplomats and Foreign Missions |
+^ :tag:OIIP | International Information Programs |
+^ :tag:OPDC | Diplomatic Correspondence |
+^ :tag:OPRC | Public Relations and Correspondence |
+^ :tag:OREP | U.S. Congressional Travel |
+^ :tag:OREP | U.S. Congressional Travel |
+^ :tag:OSCI | Science Grants |
+^ :tag:OSCI | Science Grants |
+^ :tag:OTRA | Travel |
+^ :tag:OTRA | Travel |
+^ :tag:OVIP | Visits and Travel of Prominent Individuals and Leaders |
+^ :tag:PA | Paraguay |
+^ :tag:PARM | Arms Controls and Disarmament |
+^ :tag:PBTS | National Boundaries, Territories, and Sovereignty |
+^ :tag:PC | Pitcairn Islands |
+^ :tag:PE | Peru |
+^ :tag:PF | Paracel Islands |
+^ :tag:PG | Spratly Islands |
+^ :tag:PGOV | Internal Governmental Affairs |
+^ :tag:PHSA | High Seas Affairs |
+^ :tag:PHUM | Human Rights |
+^ :tag:PINR | Intelligence |
+^ :tag:PINS | National Security |
+^ :tag:PK | Pakistan |
+^ :tag:PL | Poland |
+^ :tag:PNAT | National Independence |
+^ :tag:PO | Azores |
+^ :tag:PO | Portugal |
+^ :tag:PO | Madeira Islands |
+^ :tag:PP | Papua New Guinea |
+^ :tag:PREF | Refugees |
+^ :tag:PREL | External Political Relations |
+^ :tag:PROP | Propaganda and Psychological Operations |
+^ :tag:PS | Palau |
+^ :tag:PTER | Terrorists and Terrorism |
+^ :tag:PU | Guinea-Bissau |
+^ :tag:QA | Qatar |
+^ :tag:RE | Reunion |
+^ :tag:RM | Marshall Islands |
+^ :tag:RO | Romania |
+^ :tag:RP | Philippines |
+^ :tag:RQ | Puerto Rico |
+^ :tag:RS | Russia |
+^ :tag:RS | Wrangel Islands |
+^ :tag:RW | Rwanda |
+^ :tag:SA | Saudi Arabia |
+^ :tag:SB | Saint Pierre and Miquelon |
+^ :tag:SC | Saint Kitts and Nevis |
+^ :tag:SE | Seychelles |
+^ :tag:SF | South Africa |
+^ :tag:SG | Senegal |
+^ :tag:SH | Ascension Island |
+^ :tag:SH | Gough Island |
+^ :tag:SH | Saint Helena |
+^ :tag:SH | Tristan da Cunha |
+^ :tag:SI | Slovenia |
+^ :tag:SL | Sierra Leone |
+^ :tag:SM | San Marino |
+^ :tag:SN | Singapore |
+^ :tag:SP | Balearic Islands |
+^ :tag:SP | Mallorca |
+^ :tag:SP | Canary Islands |
+^ :tag:SP | Spain |
+^ :tag:SR | Serbia |
+^ :tag:ST | Saint Lucia |
+^ :tag:SU | Sudan |
+^ :tag:SV | Svalbard |
+^ :tag:SW | Sweden |
+^ :tag:SY | Syria |
+^ :tag:SZ | Switzerland |
+^ :tag:TAG | S/Terms Handbook |
+^ :tag:TBIO | Biological and Medical Science |
+^ :tag:TD | Trinidad and Tobago |
+^ :tag:TE | Tromelin Island |
+^ :tag:TH | Thailand |
+^ :tag:TI | Tajikistan |
+^ :tag:TINT | Internet Technology |
+^ :tag:TK | Turks and Caicos Islands |
+^ :tag:TL | Tokelau |
+^ :tag:TN | Tonga |
+^ :tag:TNGD | Engineering Research and Development |
+^ :tag:TP Sao | Tome and Principe |
+^ :tag:TPHY | Physical Sciences |
+^ :tag:TRGY | Energy Technology |
+^ :tag:TS | Tunisia |
+^ :tag:TSPA | Space Activities |
+^ :tag:TSPL | Science and Technology Policy |
+^ :tag:TT | East Timor |
+^ :tag:TU | Turkey |
+^ :tag:TV | Tuvalu |
+^ :tag:TW | Taiwan |
+^ :tag:TX | Turkmenistan |
+^ :tag:TZ | Tanzania |
+^ :tag:UG | Uganda |
+^ :tag:UNSC | UN Security Council |
+^ :tag:UK | United Kingdom |
+^ :tag:UP | Ukraine |
+^ :tag:UV | Burkina Faso |
+^ :tag:UY | Uruguay |
+^ :tag:UZ | Uzbekistan |
+^ :tag:VC | Saint Vincent and the Grenadines |
+^ :tag:VE | Venezuela |
+^ :tag:VI | British Virgin Islands |
+^ :tag:VM | Vietnam |
+^ :tag:VQ | US Virgin Islands |
+^ :tag:VT | Vatican City |
+^ :tag:WA | Namibia |
+^ :tag:WF | Wallis and Futuna |
+^ :tag:WI | Western Sahara |
+^ :tag:WQ | Wake Island |
+^ :tag:WS | Samoa |
+^ :tag:WZ | Swaziland |
+^ :tag:XA | Africa |
+^ :tag:XB | East Asia and Pacific (Pacific Basin) |
+^ :tag:XB | East Asia and Pacific |
+^ :tag:XC | Southeast Asia |
+^ :tag:XD | South Asia |
+^ :tag:XE | East Asia |
+^ :tag:XF | Middle East |
+^ :tag:XG | Europe |
+^ :tag:XH | Eastern Europe |
+^ :tag:XI | North Africa |
+^ :tag:XK | Central America |
+^ :tag:XL | Caribbean |
+^ :tag:XM | Latin America |
+^ :tag:XO | Indian Ocean Area |
+^ :tag:XQ | Arctic Ocean Area |
+^ :tag:XR | South America |
+^ :tag:XS | North America |
+^ :tag:XT | Western Europe |
+^ :tag:XU | Australia-New Zealand Region |
+^ :tag:XV | South Pacific Ocean Area |
+^ :tag:XW | East Africa |
+^ :tag:XX | World Wide |
+^ :tag:XY | West Africa |
+^ :tag:XZ | Scandinavia |
+^ :tag:YI | Yugoslavia |
+^ :tag:YM | Yemen |
+^ :tag:ZA | Zambia |
+^ :tag:ZB | Baltic States |
+^ :tag:ZF | Central Africa |
+^ :tag:ZH | North Atlantic Area |
+^ :tag:ZI | Zimbabwe |
+^ :tag:ZJ | Transcaucasus |
+^ :tag:ZK | Central Asia |
+^ :tag:ZL | Balkan States |
+^ :tag:ZM | Mediterranean Sea Area |
+^ :tag:ZN | North Pacific Area |
+^ :tag:ZO | North Asia |
+^ :tag:ZP | Persian Gulf Area |
+^ :tag:ZR | Arabian Peninsula |
+^ :tag:ZS | Southern Europe |
+^ :tag:ZT | South Atlantic Area |
+^ :tag:ZU | Southern Africa |

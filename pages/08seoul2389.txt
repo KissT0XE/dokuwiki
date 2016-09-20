@@ -1,0 +1,137 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  08SEOUL2389  |  2008-12-12 08:11  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 정기국회에서 처리된 법안은 7.5%. 임시국회도 마찬가지일 듯 ======
+기 밀 SEOUL 002389 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+
+행정명령 12958: 비밀해제: 04/10/2018 
+태그: PGOV (([Internal Governmental Affairs])), PREL (([External Political Relations])), PINR (([Intelligence])), KN (([Korea (North)])), KS (([Korea (South)])) 
+제 목: 정기국회에서 처리된 법안은 7.5%. 임시국회도 마찬가지일 듯
+참 조: [[08SEOUL2340| SEOUL 2340 ]]
+분류자: 정치 참사관 조셉 윤((번역 주:POL M/C Joseph Y. Yun.))  근거 1.4 (b,d).
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/17 04:18//
+===== 요점 =====
+1. (기밀) 제18대 국회의 첫 번째 정기국회가 2009년 예산안 통과는커녕, 이렇다 할 법안도 통과되지 않은 채 12월 9일 폐회되고 말았다. 예산안과 여타 계류 법안들을 처리하기 위해 30일간의 임시국회 회기가 12월 10일 열렸으나 여야의 견해차가 심하므로 많은 법안이 통과될 공산이 크지 않다. 상임위 구성을 둘러싼 다툼으로 정기국회가 82일간의 연기사태를 빚은 가운데, 10년 만의 원내 다수당이 된 한나라당의 지위하에 3주간의 국정감사가 18대 첫 회기를 독차지했다. 주요 정당들은 12월 12일까지 본회의에서 예산안을 통과시키기로 합의했었다. 그러나 소수정당인 민주 노동당은 본회의 전체 표결에 앞서 필요한 상임위 표결을 저지하기 위하여 상임위실을 차단하였다. 한나라당은 임시 국회에서 경제 법안을 최우선으로 할 공산이 크지만, 국회 소식통은 많은 법안이 통과되지는 않으리라고 예상한다고 우리에게 말했다. 요약 끝.
+===== 정기국회 회기 비생산적 =====
+2. (기밀) 100일 동안 지속하고 11월 9일 마감된 제18대 정기국회 회기에서 2,239의 계류 중인 법안 중에 167개의 법안이 통과 됐는데(7.5%), 제17대 첫 국회 회기 동안에 통과된 17.6%에 비해 한참 못 미친다. 집권당이 원내 다수당의 지위임에도(299석 중 172석), 한나라당은 야당 대표격인 민주당과 사실상 모든 법안을 두고 싸웠다. 관측통은 야당이 과감하게 여당의 법안을 봉쇄한 이유는 이명박 대통령의 지지율이 나락을 헤어나지 못하고 있기 때문이라고 지적했다.
+
+3. (기밀) 이번 회기 중 단연 "돋보인" 점 몇 가지는 수많은 공무원에게 쌀직불금이 부당하게 제공된 사실을 폭로하고, 종합 부동산세 판결을 앞둔 헌법재판소장과 접촉한 강만수 장관에 대해 십자포화를 퍼부은 일이다. 만일 종부세법 개정안이 통과된다면 부동산세가 줄어들 예정이며, 예산을 둘러싼 다툼은 지금 우리가 말하는 순간에도 계속되고 있다.
+
+4. (기밀) 예산 관련 대표적인 난제는 한나라당이 예산안과 패키지로 묶은 관련 세금 감면법안들이다. 민주당과 소수야당인 자유선진당은 원칙적으로 12월 12일에 예산안 통과에 합의했지만, 단 5명으로 구성된 민주 노동당은 현재 예산안 상정을 못 하도록 해당 상임위를 봉쇄하고 있다. 민노당 의원들은 예산안과 감세 법안이 부유층만을 편애한다고 주장한다. 국회 의장 김형오는 자신은 12월 12일까지 본회의에서 예산이 통과시키도록 하겠다고 발표했고 해서 그렇게 될 수도 있지만, 국회 소식통은 예산안 싸움이 연말까지 계속될 공산이 크다고 지적하였다. 민주당과 한나라당은 12월 11일 밤이 새도록 예산안을 두고 논쟁을 벌였다.―민주당은 현재 예산안에서 8천억 원 상당의 사회간접자본 예산을 삭감할 것을 요구하고 있다.
+===== 임시국회 회기: 별반 다를 것 없어? =====
+5. (기밀) 30일간의 임시국회에서, 한나라당은 "엠비노믹스" 관련 경제 법안을 최우선시할 예정이다. 예를 들면 계열사에 대한 대기업의 투자 제한을 없애는 법안과 산업 자본의 은행 지분보유 제한을 완화하고, 공기업 개혁 법안 등이다. 여타 논란을 사는 법안들도 논의될 예정이지만, 법안이 통과될 것 같지는 않은 법안들은 사이버 모욕죄, <wrap hi> 더 많은 국내 감시권한을 국가정보원에 허용하는 법안,</wrap> 신문과 여타 기업의 방송 제약의 완화, 한미 FTA 등이다.<WRAP center round info 90%>//**18대 국회는 ‘4차원 악법’ 경연장?**// …(중략) 국정원 직무 범위를 ‘국가 안전보장과 국익에 중대한 영향을 미치는 국가정책 결정에 필요한 정보’로 확대하려는 국정원법 일부 개정안은 ‘정치 개입 금지’ 등 정보기관의 활동 범위를 엄격히 제한한 1994년 안기부법 개정을 무력화하는 것이라고 장유식 변호사는 지적했다. 테러방지법 제정안, 통신비밀보호법 개정안 등 관련법 또한 정보기관이 국민 모두를 ‘예비 범죄자’로 보고, 개인의 사생활을 국가가 언제든지 들여다보겠다는 선전포고나 다름없다는 것이다. [[http://www.sisainlive.com/news/articleView.html?idxno=3314|18대 국회는 ‘4차원 악법’ 경연장?]] //시사인//
+</WRAP>
+
+===== 논평 =====
+6. (기밀) 국회란 기구가 불과 몇 가지 법안만 통과시키고, 진척이 이루어질 전망이 희박한 상태를 보이는 등 거의 제구실을 못 하고 있다. 많은 한국인은 현재의 경제 위기에 대한 정부의 대응을 보며 가면 갈수록 미몽에서 깨어나고 있다. 더불어 비생산적인 입법부는 국민의 신뢰를 회복하는 데 전혀 도움을 주지 못할 것이다.
+스티븐스
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[08seoul2340|제 목: 이명박 대통령, 인기가 없지만 야당보다는 나아]] //주한 미국대사관 전문//
+  - [[http://news.kukinews.com/article/print.asp?arcid=0005757165|투자 활성화 차원 출총제 폐지했더니… 대기업, 순대·떡볶이까지 넘봐]] //국민일보//
+  - [[http://news.hankooki.com/lpage/politics/201202/h2012020205281221060.htm|민주, 재벌지배구조에 '메스'… 순환출자 규제]] //한국일보//
+  - [[http://www.pressian.com/article/article_print.asp?article_num=60090304133652| 인권위 "국정원법·사이버모욕죄 추진 신중해야"]] //프레시안//
+  - [[http://www.pressian.com/article/article_print.asp?article_num=30110829112203|'재벌 문어발' 빗장 풀리니 총수 가족이 이익 싹쓸이]] //프레시안//
+===== 원본 내려받기 =====
+<file rtf 08SEOUL2389.rtf>
+C O N F I D E N T I A L SEOUL 002389 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: REGULAR SESSION PASSES 7.5 PERCENT OF BILLS; MORE 
+OF THE SAME EXPECTED IN SPECIAL SESSION 
+ 
+REF: SEOUL 2340 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: The 18th National Assembly's first regular 
+session came to a close on December 9 without passing the 
+2009 budget bill or much legislation at all.  To address the 
+budget and other outstanding bills, a 30-day temporary 
+session opened on December 10 but it is not likely many laws 
+will pass during the session due to the sharp divisions 
+between the ruling and opposition parties.  Along with an 
+82-day delay in starting the session due to fighting over the 
+make-up of committees, a three week national audit dominated 
+the first session under GNP-majority control in 10 years. 
+The major parties agreed to pass the budget in the plenary by 
+December 12, but currently, the minor Democratic Labor Party 
+(DLP) is blocking the committee room, preventing a committee 
+vote that is needed before a full plenary vote.  The GNP will 
+likely prioritize economic bills in the special session but 
+Assembly sources tell us not to expect many laws to pass. 
+End Summary 
+ 
+---------------------------- 
+Regular Session Unproductive 
+---------------------------- 
+ 
+¶2.  (C) During the 18th National Assembly's regular session 
+that lasted 100 days and wrapped up December 9, 167 of 2,239 
+pending bills were passed (7.5 percent), far less than the 
+17.6 percent passed during the first session of the 17th 
+National Assembly.  Despite the ruling party's commanding 
+majority in the National Assembly (172 out of 299), the GNP 
+fought with the main opposition Democratic Party (DP) on 
+virtually every bill.  Observers note the opposition was 
+emboldened to block ruling party legislation because of the 
+persistently abysmal popularity (Reftel) of President Lee 
+Myung-bak. 
+ 
+¶3.  (C) Some of the "highlights" of the session were the 
+revelations that improper rice subsidies were given to 
+thousands of public officials, the grilling of Finance 
+Minister Kang Man-soo over his contact with the 
+Constitutional Court before its ruling on the comprehensive 
+real estate tax which, if passed, would decrease real estate 
+taxes, and fighting over the budget, which continues as we 
+speak. 
+ 
+¶4.  (C) The main sticking point on the budget was the related 
+tax reduction laws the GNP packaged with the budget.  The DP 
+and minor opposition Liberty Forward Party (LFP) agreed, in 
+principle, to pass the budget on December 12 but the 
+Democratic Labor Party, with only five members, is currently 
+blocking the committee from acting on the budget bill.  They 
+claim the budget and tax cut bills favor only the wealthy. 
+Speaker Kim Hyung-o has announced he will work to pass the 
+budget in the plenary by December 12, so it is possible this 
+will happen, but Assembly sources note it is likely the 
+battle over the budget will continue until the end of the 
+year.  The DP and GNP spent all night December 11 arguing 
+over the budget -- the DP now demanding the removal of 800 
+billion won worth of SOC from the budget. 
+ 
+---------------------------------- 
+Special Session: More of the Same? 
+---------------------------------- 
+ 
+¶5.  (C) In the 30-day special session, the GNP will 
+prioritize "MBNomics"-related economic bills such as those 
+aimed to remove restrictions on large companies' investments 
+in their affiliates, ease restrictions on non-financial 
+firms' investment in banks and reform public sector 
+corporations.  Other controversial bills that will be 
+discussed but likely will not pass are laws that would 
+criminalize cyberspace libel and allow more domestic 
+surveillance authority for the NIS, ease restrictions on 
+broadcasting for newspaper and other companies, and the KORUS 
+FTA. 
+ 
+------- 
+Comment 
+------- 
+ 
+ 
+¶6. (C) The National Assembly is a barely functioning unit, 
+passing few laws and with prospects for progress dim.  Many 
+Koreans are growing more and more disillusioned with the 
+government response to the current economic crisis, and the 
+unproductive legislature will certainly do nothing to help 
+the government regain the people's trust. 
+STEPHENS
+</file>

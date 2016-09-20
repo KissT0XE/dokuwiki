@@ -1,0 +1,211 @@
+<WRAP center round info 100%>//**한국 "천안함" 침몰의 심층**//
+이 번역문은 "한국 천안함 침몰의 심층"이라는 다나카 사카이라는 언론인의 일본어 기사를 구글 번역한 내용에 영문번역을 참조하여 수정한 번역이지만, 그 내용은 원본과 거의 오차가 없음을 밝혀둔다. 원본 기사의 링크는 [[http://www.tanakanews.com/100507korea.htm|한국 군함 "천안" 침몰의 심층]]이며, 영어 번역본의 링크는 [[http://japanfocus.org/-Tanaka-Sakai/3361|Who Sank the South Korean Warship Cheonan?]]이다. 영어 번역본에는 미국의 9/11을 언급한 내용을 미국인 배려? 차원에서 생략했는데, 그 부분의 번역과 원본에서 아예 생략한 2문단은 하이라이트로 강조해 두었다. 빠진 부분도 읽어보는 재미가 솔솔할 것이다.
+</WRAP>
+[{{ ::base3.jpg?nolink&380|The stern of the Cheonan docked on a barge off Baengnyeong Island on 7 May, 2010. Lee Jung-hoon. 백령도 근처 바지선에 천안함 선미가 인양되는 모습 2010년 5월 7일 이정훈}}]
+[{{ ::base1.jpg?nolink&380|Map of Baengnyeong Island (1) 백령도 지도 (1) }}]
+[{{ ::base2.jpg?nolink&380|Map of Baengnyeong lsland (2) 백령도 지도 (2) }}]
+====== 한국 "천안함" 침몰의 심층 ======
+~~NOTOC~~
+On 26 March, 2010 near Baengnyeong Island (White Wing, also known as Baekreong) to the South of the northern limit line, the maritime demarcation line between South and North Korea, South Korea’s large patrol boat Cheonan (Heaven’s Peace) exploded and sank. Already, more than one month after the accident, the cause of the sinking has not been confirmed. In early April, the South Korean government announced that either a torpedo struck or an underwater mine exploded, sinking the ship, indicating that it was not destroyed by an explosion or accident inside the boat but by an external cause.
+
+2010년 3월 26일 한국과 북한의 해상 경계선 (북방 한계선, NLL)의 바로 남쪽에 있는 백령도 (백령도, 흰색 날개 섬)의 근처에서, 한국의 대형 초계함 "천안함"(하늘의 평화)이 폭발·침몰한 사건은 발생한 지 1개월 이상이 지났어도 그 침몰 원인이 확실하지 않다. 한국 정부는 4월에 들어서 “어뢰인지 기뢰인지가 배의 외부에서 폭발했다고 생각된다”고 발표해, 군함 내부 폭파나 파괴(고장 등)이 아닌 외부로부터의 어뢰(바닷속으로 온)나 기뢰(사전에 설치되어있는)에 의해 파괴되었을 가능성이 높아졌다.
+
+However, it remains an enigma as to who fired or set off a torpedo or underwater mine. The South Korean right, claiming that a North Korean semi-submersible ship fired a torpedo, demands that the South Korean government launch a revenge attack on the North. The left and pacifists in the South suggest that the warship may have touched off an underwater mine installed in the 1970s by the South Korean military to prevent North Korean infiltration and still left there.
+
+그러나 누가 어뢰나 기뢰를 발사 또는 부설했는지는 수수께끼의 상태이다. 한국의 우파 세력은 북한의 잠수함 (반잠수정)이 어뢰를 쐈다고 주장하고, 한국 정부에 '북을 보복 공격하라'고 요구하고 있다. 좌파나 평화주의자들은 "1970년대의 한국군이 부설한 채 방치된 낡은 기뢰에 부딪힌 것은 아닌가"라고 분석하고 있다. ([[http://www.jrcl.net/frame10053h.html|서해 긴장에 따라 기뢰 136개 설치, 10년 후 10%도 회수되지 않아]])
+
+136 underwater mines were installed in response to the tensions in the Yellow Sea and, ten years later, fewer than ten percent had been removed
+
+Baengnyeong Island is only 20 kilometers from North Korea in an area that the North claims as its maritime territory, except for the South Korean territorial sea around the island.  At present there are two demarcation lines on the sea. South Korea and the US (UN) claim that the Northern Limit Line (NLL), which runs just north of Baengnyeong Island, is the demarcation line between North and South. However, since 1999, North Korea has claimed that the Military Demarcation Line further south is the border between North and South.  About 5,000 South Koreans live on Baengnyeong Island and regular ferries link it from Inchon. In the reconciliation between North and South in the year 2000, North Korea recognized this ferry route and the sea around the island as an area where South Korean and American boats can navigate freely. At the same time, North Korea has regarded American and South Korean boats entering the sea area beyond that as violating the economic zone of North Korea.
+
+백령도는 북한의 본토에서 20킬로밖에 떨어져 있지 않고, 섬 주변의 한국 영해의 외곽은 북조선이 '자국의 영해다'라고 주장하는 해역이다. 현재 북한과 한국의 해상 경계선은 2종류가 있다. 한국과 미국(유엔)은 백령도를 북쪽을 바로 지나는 '북방 한계선'(NLL)이 남북의 경계선이라고 주장해왔다. 하지만 북한은 1999년 이래 좀 더 남쪽의 '군사 경계선'이 남북의 경계선이라고 주장하고 있다. 백령도에는 약 5천 명의 한국인이 살고 있으며, 인천항에서 출항하는 정기 페리가 운행하고 있다. 2000년 남북 화해로 북한이 페리의 항로와 백령도의 주변 영해를 한국과 미군의 배가 자유롭게 항해할 수 있는 영해로서 인정하고, 그 외의 해역에 들어온 미군과 한국의 배는 북한의 경제 수역을 침범한 것으로 간주한다는 자세를 취하고 있다. ([[http://plaza.rakuten.co.jp/yanpa555/diary/201004160000/|천안함 사건을 돌아다 보았다]])
+
+In the vicinity of Baengnyeong Island South Korea constantly confronts the North Korean military. The Cheonan was a patrol boat whose mission was to survey with radar and sonar the enemy’s submarines, torpedoes, and aircraft, and to attack. If North Korean submarines and torpedoes were approaching, the Cheonan should have been able to sense it quickly and take measures to counterattack or evade. Moreover, on the day the Cheonan sank, US and ROK military exercises were under way, so it could be anticipated that North Korean submarines would move south to conduct surveillance. It is hard to imagine that the Cheonan sonar forces were not on alert.
+
+백령도 주변은 북조선군과 항시적으로 대치하는 해역이다. 그리고 천안함은 초계함이라 레이더 나 소나를 사용해 적군의 잠수함과 어뢰, 항공기, 미사일 등을 감지해 공격하는 것이 임무이다. 북한의 잠수함이나 어뢰가 접근해 오면, 조기에 감지해서 요격이나 회피 등의 대책을 취하기 마련이다. 게다가 천암함이 침몰한 당일은 한미 합동 군사 연습이 행해지고 있어 북한의 잠수함이 연습을 정찰하기 위해 남하해올 것을 예상되고 있었다. 천안함 내의 소나 담당자가 주의를 태만히 했다고는 생각하기 어렵다.
+
+South Korean military spokespersons told the media immediately after the incident that the probability of sensing torpedoes two kilometers away with sonar was over 70 percent. Later the probability was reduced to over 50 percent because the water is only 30 meters deep. This reduction, I believe, is for the purpose of theorizing North Korean responsibility for the attack.
+
+한국군 관계자는 미디어에 대해, 애초 소나로 2킬로 앞의 어뢰를 감지할 수 있는 확률은 70% 이상이라고 했다. 그 후 현장 수심이 30미터로 얕아서 감지 확률은 50% 미만이라는 말로 물러섰다. 이런 감지력 축소는 "북한 범인설”을 보강하기 위한 방향 전환이라는 느낌도 든다. ([[http://www.chosunonline.com/news/20100419000034|초계함 침몰 : 수색 해역을 2배로 확대]])
+The patrol boat sinking; doubling the area of the search
+[{{ ::123부표.jpg?nolink&380|A map provided by KBS TV. The third buoy to the East of Baengnyeong Island is where the head of the Cheonan sank, and the rear of the Cheonan sank to the West.
+(KBS 텔레비전이 보도한 지도. 백령도에 가장 근접한 곳이 제3 부표 그 우측(동쪽)의 부표가 천암함의 함수, 왼쪽(서쪽)의 부표가 천암함의 함미 침몰 장소)}}]
+[{{ ::123부표1.jpg?nolink&380|The map of the search generally reported: two black dots to the South of Baengnyong are where the halves of Cheonan reportedly sank. The third buoy is not shown.
+(일반인에게 보도 된 수색 지점에 대한 지도. 백령도의 남쪽에 있는 2개의 검은 둥근 표시가 천안함 함수와 함미의 침몰 지점. 제3 부표는 나타나 있지 않다.)}}]
+[{{ ::123부표2.jpg?nolink&380|}}]
+===== 제3 부표에 침몰한 미 잠수함 =====
+The sinking of the Cheonan remains unsolved. But around the time of this incident another sinking occurred that has hardly been reported in Japan. Near the site of the sinking of the Cheonan, a colossal object, which appears to be a US submarine, was found to have sunk. An ROK underwater team searched for, and on April 7 South Korea’s KBS TV showed, a US helicopter carrying what seems to be the body of a US soldier. KBS is a public broadcasting station with the highest credibility in South Korea. 
+
+천안함 침몰의 수수께끼는 풀리지 않은 채이지만, 이 사건을 둘러싸고, 일본에서 거의 보도되지 않은 "또 하나의 침몰"이 일어났다. 천안함 침몰 현장 인근의 해역에 미군의 잠수함으로 보이는 거대한 물체가 침몰한 게 발견되었다. 한국군 잠수팀이 수색을 맡았으며, 미군 헬리콥터가 미군의 사체로 보이는 물체를 운반해가는 영상을 한국의 KBS 텔레비전이 4월 7일 보도했다. KBS 텔레비전은 공영 방송으로서, 한국 매스컴 중에서 가장 권위가 있다.
+
+Following the sinking of the Cheonan, in the course of conducting an underwater search, a member of the special unit of the ROK Navy, UDT-SEAL (Underwater Demolition Team, Sea Air Land) Han Joo-ho, lost consciousness and later died. This was a secondary disaster. While collecting information on the death of Warrant Officer Han, KBS learned that his memorial took place neither near where the rear of the ship was found (the first buoy), nor near where the head of the ship was found (second buoy). Rather, it was six kilometers away near the third buoy, between the first and second buoy, that is, at a location that had nothing to do with the Cheonan sinking.
+
+천안함 침몰 후 잠수 수색 과정에서 한국 해군 특수 심해잠수대대(UDT, 특수전 여단)의 한주호 준위가 잠수 중에 실신한 후, 사망하는 2차 재해가 발생하였다. KBS는 한 준위의 사망사고를 취재하면서, 한 준위의 위령제가 거행 된 장소가 선미가 발견 된 장소(제1 부표)도, 함수가 발견 된 장소(제2 부표)가 아닌 오히려 약 6킬로 떨어진 제1 부표와 제2 부표의 사이에 존재하는 천안함과 관계없는 //"제3 부표"//인 것을 알았다.
+
+US and ROK troops at work searching the sea several hundred meters from the cliff of the island. The first and second buoys where the Cheonan sank are both separated from the island by about two kilometers, and are not right in front of the cliff as shown in this Yonhap News photo. This is likely to be the place of the third buoy where the US submarine sank. But there South Korean reports claim that this is the location of the search for the Cheonan survivors.
+
+([사진] 백령도의 절벽에서 수백 미터 떨어진 바다에서 미국 한국군이 수색 작업을 하고 있다. 천안함 침몰 장소인 제1 부표와 제2 부표 지점은 양쪽 모두 섬에서 2킬로미터 정도 떨어져 있어, 이 연합 뉴스 사진과 같이 절벽의 바로 근처에는 없다. 이 사진은 미군 잠수함이 가라앉아있는 제3 부표 지점일 가능성이 크지만, 한국에서는 천안함의 수색 모습으로는 보도되고 있다.)
+
+This site is the source of the maps and photo.
+(상기지도와 사진의 원래 인용처. 블로그 "정훈이 좋아")
+
+(When a boat is discovered on the sea bed, divers connect a buoy with a rope to the sunken boat, so that the location can be specified from above. After the explosion split the Cheonan in two, the two halves separated, drifting on the fast tide. They were discovered 6.5 kilometers apart.)
+
+(침몰선을 해저에서 발견하면, 잠수 대원은 침몰선에 로프를 묶은 부표(부표, 낚시찌 구슬)를 묶어 해상에서 침몰 현장을 확정할 수 있도록 해서, 침몰 현장은 "부표"의 이름으로 정했다. 천안함 폭발 후 두 동강 후 빠른 조류에 휩쓸려 붕괴하였기 때문에, 함수와 함미가 6.4㎞나 떨어져 발견되었다.)
+
+Warrant Officer Han, who dove at the third buoy, lost consciousness and later died. KBS, while investigating UDT-SEAL and other sources on the sea bed at the location of the third buoy, learned that something like a large submarine had sunk and that the interior of the submarine was quickly searched under US military jurisdiction.
+
+한 준위는 제3 부표의 해저에 잠수, 수색 활동을 하는 중에 의식을 잃고 사망했다. KBS는 특수 잠수대대 등 관계자를 취재하면서, 제3 부표의 해저에 대형 잠수함으로 여겨지는 물체가 침몰해 있고 미군의 지휘 아래 몰래 잠수함 내부 수색이 신속하게 개시했음을 알았다.
+
+The US military so rushed this search that it did not wait for decompressors necessary for underwater search to arrive before sending ROK troops underwater.  Although the safe duration of the time for diving is as short as fifteen minutes, the US military pushed ahead to make the Koreans search the complex interior of the boat so that even skilled UDT-SEAL personnel lost consciousness one after another. And in that situation, the accident involving Warrant Officer Han occurred. Some UDT-SEAL officers claimed that “US divers declined to carry out such a dangerous operation, so they made our ROK team do the work.”
+
+미군은 수색을 서두른 나머지, 잠수 수색에 필요한 감압 장치가 현장에 운반되는 것을 기다리지 않고 한국의 부대를 잠수 수색시켰다. 잠수 가능한 시간이 15분 정도로 짧은데, 복잡한 선내를 무리하게 수색시켰기 때문에, 숙련된 잠수 대원조차 의식을 잃은 사람이 잇따라 그중 한 준위의 사망 사고가 일어났다. 한국군의 특수잠수대대로부터 '미군 잠수대대는 이러한 위험한 작업을 거부했기 때문에, 한국 부대에 무리하게 시켰다.'라는 견해도 나왔다.
+===== 밀봉된 KBS 텔레비전의 특종 =====
+A Suppressed KBS TV Scoop
+
+ROK and US authorities did their best to hide the fact that a US submarine sank at about the same time as the Cheonan. The ROK authorities did not announce the sinking of the US submarine, nor did they call Warrant Officer Han’s death an accident which occurred while searching inside a US submarine. Instead, they announced that he died while searching for Cheonan survivors’ bodies. Warrant Officer Han was honored as a national hero.
+
+한국과 미국 당국은 천안함과 같은 시간대에, 가장 가까운 곳에서 미군 잠수함이 침몰한 것을 기를 쓰고 감추고 있다. 미 잠수함 침몰 사실을 발표하지 않는 한국 당국은 한 준위의 사망에 대해, 미 잠수함의 수색 중의 사고라고 말하지 않고, 천안함 생존자를 수색하는 중에 사망했다고 발표했다. 한 준위는 국민적인 영웅으로 추대되었다.
+
+However, the memorial for Warrant Officer Han was performed not at the site of the Cheonan, but at the site of the sunk US submarine. US Ambassador Kathleen Stevens and Commander-in-Chief Walter Sharp of US forces in Korea attended. They praised Han and offered solatium to the bereaved family. The attendance by high US officials and monetary payments probably were for the purpose of suppressing anti-American sentiment that might blame the delayed search for Cheonan survivors caused by the precipitous US search for its own victims, resulting in Han falling victim.
+
+하지만 한 준위의 위령제가 열린 곳은 당연히 천안함이 아니라 미 잠수함의 침몰 현장이었고 위령제에는 미국의 스티븐스 주한 미국 대사와 주한 미군 사령관 샤프가 참석해서 한 준위의 영예를 기리고, 한 준위의 유족에게 위로금을 냈다. 미국 고위 관계자의 참석 및 위문금은 한국군에 "미군의 사정으로 천안함 수색이 늦어지고, 미군의 무리한 비밀 수색 작전 탓에 순직자가 나왔다."라는 반미 감정이 들끓는 것을 무마하기 위해서일 것이다.
+
+An object like a corpse pulled up from the sea at the third buoy was taken away not by an ROK helicopter but by a US military helicopter. This too suggests that what sank at the third buoy was not an ROK ship but a US military boat.
+
+제3 부표의 해저에서 인양된 사체로 보이는 물체를 끌어 올려 운반 해 간 것은 한국군의 헬리콥터가 아니고, 미군의 호크 헬기이었다. 이것으로부터도 제3 부표의 해저에 침몰한 것은 한국군의 군함이 아니라 미군의 함선이라고 느껴진다.
+
+The search and recovery of the Cheonan was given to a civilian company and the command of the operation was in the hands of a Korean barge. The search at the third buoy was conducted by a special ROK UDT-SEAL team and the latest ROK light-weight aircraft carrier, the Dokdo, served as the command center. What can be assumed from this disparity is that the US and ROK military prioritized the search for the American submarine at the third buoy over the search and recovery of the Cheonan. This is especially the case for the US military, which commands the ROK military. After the incident, the start of the search and recovery of the Cheonan was delayed, probably because US and ROK authorities prioritized the search for the US submarine.
+
+천안함 수색과 인양은 민간 잠수 회사에 위탁되어 작업 사령탑은 민간 바지선에 맡겨졌지만, 제3 부표의 수색은 한국군의 특수 잠수조였고, 사령탑으로는 한국군 최신의 경량 항공모함 '독도'가 동원되었다. 이러한 격차에서 엿볼 수 있는 것은 한미 군, 특히 한국군의 상위에 있는 미군이 천안함의 수색인양보다도 제3 부표에 가라앉은 미 잠수함의 수색을 중시했던 것이다. 사건 발생 후 천안함에 대한 구조나 수색 개시가 늦었지만, 그 이유도 한미 당국이 미국 잠수함의 수색을 우선했기 때문이었다고 생각된다.
+
+KBS TV in the 9 o’clock news featured this under the title, “The Mysterious Third Buoy. Why?” Subsequently, a number of ROK newspapers and magazines reported on the incident. The ROK authorities vigorously criticized these reports and sued KBS for “false reporting” and maligning the government. After the trial, the KBS website had to stop displaying film and articles about the incident.
+
+KBS 텔레비전은 4월 7일 "9시 뉴스"에서 "수수께끼의 제 3 부표 · 왜?"라는 제목으로 이 건을 방송했다. 그 후, 한국의 일부 신문과 잡지사가 이 건을 보도했다. 한국 당국은 이러한 보도에 대해 사실이 아니라고 강하게 부정하고 '오보'를 한 KBS를 명예 훼손으로 고소했다. 재판을 받아 KBS의 웹 사이트에서는 문제의 기사에 대한 동영상과 기사의 공개가 정지되었다. ([[http://news.kbs.co.kr/tvnews/news9/2010/04/07/2076673.html|수수께끼의 제3 부표·왜?]])
+The Mysterious Third Buoy. Why?
+
+A gag order was issued to the UDT-SEAL team. When it was found that the problem of the third buoy was not about the ROK authorities but about the US military, official pressure increased and KBS and other Korean media stopped reporting on the incident. As in Japan, the Korean media, which is subject to American authority, seems to share an implicit rule not to inquire into US military matters.
+
+특수 잠수 부대에 발설 금지 명령이 내려지고 제3 부표의 문제가 한국 당국에 관한 이야기가 아니라 미군에 관한 이야기로 밝혀졌고, 당국으로부터 탄압이 내려진 시점에서, KBS 등 한국 미디어는 더 이상이 이야기를 취재해 보도하는 것을 그만뒀다고 쓰여 있다. 일본과 마찬가지의 대미 종속의 한국 언론은 미군 문제를 캐지 않겠다는 암시적 규칙이 있는 것 같다.
+
+===== 핵무장 한 원자력 잠수함이 잠항했다? =====
+A Nuclear Submarine Armed with Nuclear Weapons was Underwater?
+
+KBS, which reported on the existence of the third buoy, was criticized for filing a false report. Thereafter, the possibility that the Cheonan was attacked by an American submarine was regarded as a dangerous and groundless rumor, and was virtually suppressed in South Korea.
+
+제3 부표의 존재를 보도한 KBS는 오보 취급되어 그 이후 “천안함은 미 잠수함에 의해 오폭” 되었다는 견해 자체가 “위험한 유언비어”로 간주하여 한국 사회에서 사실상 “금지”되었다.
+
+However, the suspicion that the Cheonan sank as a result of friendly fire surfaced within the South Korean media immediately after the event. On the day of the incident, ROK and US forces were conducting the joint military exercise Foal Eagle to the south of Byaengnyeong Island. According to a joint US-ROK announcement, the exercise was to have been completed on 18 March, but the actual exercise was prolonged to 30 April. On the day of the incident, the exercise was underway. After the incident, the US-ROK authorities made no mention of the fact that the joint military exercise was in progress. But the day after the incident, various ROK media and newspapers reported that the Cheonan might have been sunk by friendly fire during the military exercise. 
+
+그러나 천안함이 아군의 오폭을 받아 침몰했다는 의혹은 (천안함) 침몰 직후부터 한국의 미디어에도 존재하고 있었다. 사건 당일 한국군과 미군은 백령도보다 남쪽 해역에서 한미 합동 군사 연습 '독수리' 연습을 전개하고 있었다. 한미 양국의 사전 발표에서는 군사 연습이 3월 18일에 끝났지만, 실제 연습은 4월 30일까지 비밀리에 연장되어 3월 26일 사건 당일도 연습을 거행하고 있었다. 사건 후에도 한미 당국은 당일 합동 연습이 시행된 것을 전혀 발표하지 않았지만, 사건 다음 날에 정보가 미디어에 누설되어 "천안함은 군사 훈련 중 오폭을 받아 침몰한 것이 아니냐"는 기사를 각 신문이 보도했다. ([[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001353802&PAGE_CD=N0000&BLCK_NO=3&CMPT_CD=M0002|천안함, 한미 합동 훈련 중 오폭 사고 '의혹']])
+
+The Cheonan and the “suspicion” of inadvertent attack during the ROK-US Joint Military Exercise
+
+In response to the report, ROK authorities acknowledged that the military exercise was in progress, but stated that it was not taking place near Byaengnyeong. Rather, it was off the coast of Taeon, Chungchong Namdo, which is about 100 kilometers to the south of Byaengnyeong. ROK authorities announced that the Cheonan did not participate in the military exercise. But a high-speed ship can reach Byaengnyeong from Taeon in two to three hours. Since last year, the DPRK has been criticizing the US and ROK for threatening activity in approaching its maritime area during ROK-US joint military exercises. This time, too, US and ROK ships may have gone north close to Byaengnyeong island. If the Cheonan had sunk during the exercise, the ROK authorities, in order to avoid criticism from North Korea, would not make such an announcement. Although the authorities announced that the Cheonan did not participate in the exercise, it is possible that the announcement deviates from the fact.
+
+보도를 받아 한국 당국은 사건 당일에 한미 합동 연습이 행해지고 있었다는 점을 인정했지만, 연습 해역은 백령도 주변이 아니고, 그보다 100킬로 정도 남쪽의 충청남도 · 태안 앞바다였다고 발표했다. 한국 당국은 천안함은 연습에 참여하지 않았다고 발표했지만, 고속 함정이라면 태안 앞바다에서 백령도까지 2~3 시간이면 도달할 수 있다. 작년 이래 북한은 한미 합동 군사 연습 때에 북조선의 해역 근처까지 와서 위협하고 있다고 한국과 미국을 비난했고, 이번 군사 연습에서도 한미의 군함이 백령도 주변까지 북상했을 가능성이 있다. 혹시, 천안함이 군사 연습 중에 침몰 했다고 해도, 북조선으로부터의 비난을 막고 싶어하는 한국 당국은 그렇게 발표하지 않을 것이기 때문에 “천안함은 연습에 참가하지 않았다.”라고 당국이 발표해도 그것은 사실과 다를 가능성이 있다.
+
+The Jaju Minbo of the ROK (left wing) analysed the KBS News report. What is interesting is the analysis of the geographical environment of the third buoy where the submarine sank. The American submarine sank in the offing several hundred meters off the coast near cliffs that are called Yongteurim Rocks, on the southern side of Byaengnyeong. Around Byaengnyeong Island there are many shoals where submarines can run aground while underwater, but the sea in front of the cliffs is deep. There, the northern and eastern sides are divided by land and if North Koreans tried to watch Byaengnyeong from their territory, they would not be able to locate a US submarine on the south side of the island. North Korea recognizes the sea area around Byaengnyeong as ROK territory. A boat moving underwater near the island would not be attacked by the North Korean military, making this a safe hiding place for a US submarine.
+
+문제의 KBS 뉴스 내용에 대해 한국의 자주민보(좌파계)가 분석을 시도하고 있다. 이 분석에서 흥미로운 점은 미 잠수함이 침몰해 있는 제3 부표의 지리적 환경이다. 미 잠수함은 백령도의 남쪽에 있는 '용트림 바위'라고 불리는 단애 절벽의 근처 수백 미터 앞바다에 침몰해 있다. 백령도의 주변에는 잠수함이 잠함 중 좌초하기 쉬운 얕은 곳이 많지만, 단애 절벽의 해안 앞의 바다는 깊다. 용트림 바위의 주변은 북쪽과 동쪽이 육지로 가로막혀, 섬의 북쪽에 위치한 북조선의 본토에서 백령도 방향을 감시해도, 섬의 남쪽 용트림 바위 주변의 미 잠수함의 움직임을 알 수 없다. 북한은 백령도 주변의 해역을 한국의 영해로 인정하고 있기 때문에 섬 근처를 잠항하는 한, 북조선으로부터 공격받지 않고 미 잠수함의 은신처로도 안전하다.
+
+On the basis of this kind of geographical information, novelist Soo Hyon-o, a specialist in military affairs, told the Jaju Minbo: “Perhaps the American submarine adopted a posture of near war. Meaning that it can send a missile toward North Korea during an emergency while underwater in the sea near Byaengnyeong Island. Using the sea around the rocks as a base, it can intercept DPRK communications from the opposite shore of the island.”
+
+Jaju Minbo: “Did the North Hit and Completely Sink a US Submarine?”
+
+그러한 지리적 상황에 더해, 자주민보가 취재한 군사 문제 소설가 서현우는 침몰한 미 잠수함에 대해 용트림 바위 앞바다를 거점으로 한 백령도의 주변 해역에서 잠행을 계속해 섬 건너편에 있는 북한의 통신을 감청하면서, 유사시 북한에 미사일을 발사 임전 태세를 취하고 있던 것이 아니냐고 분석하고있다. ([[http://www.jajuminbo.net/sub_read.html?uid=5790&section=sc2&section2=|자주민보 "북한이 미 잠수함을 완전히 격침했다?"]])
+
+Byaengnyeong Island is the nearest point in South Korea to Pyongyang . . . about 170 kilometers. For the US-ROK military, it is the best place to counterattack in the event of emergency, and it is also well placed for radio interception. If the US places a submarine near Byaengnyeong Island and it stays for a long time, in the event of a North Korean attack on Seoul, the submarine can fire a missile within minutes.
+
+백령도는 한국에서도 가장 평양에 가까운 장소로 평양까지 170 킬로 정도다. 한미 양군에게 감청이나 유사시 반격의 거점으로서도 최적이다. 미군이 백령도 주변에 미사일을 발사할 수 있는 잠수함을 장기 체재시켜 놓으면, 북조선이 서울을 공격해올 때, 잠수함은 수 분내로 평양에 미사일을 발사할 수 있다.
+
+A submarine employed for such an operation is undoubtedly an atomic submarine, which can stay under water for one month. An atomic submarine extracts oxygen using electric power generated by the atomic reactor on the boat by electrolysis of sea water. Unlike a diesel submarine, such a boat does not have to surface at all. Many US atomic submarines can be loaded with nuclear missiles. In order to counter North Korea, which claims to be armed with nuclear weapons, the US military might maintain a nuclear-armed submarine at all times near Byaengnyeong Island, the closest point to North Korea.
+
+이러한 작전에 사용되는 잠수함은 틀림없이, 1개월 이상 잠항 한 채로 견딜 수 있는 원자력 잠수함이다. 원자력 잠수함은 함 내의 원자로에서 발전한 풍부한 전력을 사용해, 해수를 전기 분해하여 산소를 추출해 선내에 공급한다. 디젤 엔진의 잠수함과 달리 해상에 나갈 필요가 전혀 없다. 미군의 원자력 잠수함 중에는 핵미사일을 탑재할 수 있는 것도 많다. 핵무장을 하고 있다고 자칭하는 북한에 대항하기 위해 미군이 핵무기를 탑재 한 원자력 잠수함을 평양에 가장 가까운 백령도의 주변에 상시 잠항시키고 있을 가능성이 있다.
+
+<wrap hi>[후일담] :이 기사의 모방에 일가견이 있는 //“일간 겐 다이”// 5월 13일자 기사에 따르면, 핵 탑재 가능한 미국 원자력 잠수함 '컬럼비아'(USS Columbia)이 한미 군사 훈련에 참가한 후 하와이에 귀항하지 않았고, 침몰한 것은 원자력 잠수함 컬럼비아라고 볼 수 있다. 컬럼비아는 사건 4일 전, 3월 22일 한국의 항구에 기항하고 있다. ([[http://www.c7f.navy.mil/news/2010/03-march/29.htm|관련 기사]])</wrap>8-)
+
+<wrap hi>[후일담 2] : 미 핵 잠수함 콜롬비아가 하와이에 귀항하지 않았다고, 먼저 지적한 곳도 한국의 자주 민보의 기사 [[http://www.jajuminbo.net/sub_read.html?uid=5838|"미국 원자력 잠수함 컬럼비아 호는 어디로 사라졌나"]]였다. 이 문서에는 사고 다음 날 아침 백령도 용트림 바위 해안에서 자주 민보 기자가 찍은 [[http://www.jajuminbo.net/imgdata/jajuminbo_net/201005/2010050634249227.gif|침몰 함선 (미 원자력 잠수함?)의 일부가 해상에 나와있는 사진]]도 실려있다. (구글의 일본어 기계 번역된 버전)</wrap>
+
+If the US and ROK military installed a missile aimed at North Korea on Byaengnyeong Island, they would be fiercely criticized by North Korea, which would agitate ROK citizens who regard citizens of the North as their brethren, necessitating removal of such a missile. However, a US submarine loaded with atomic missiles underwater near the island would have the same effect as a land-based missile at a time of emergency. It would not be known by the North, nor would there be a need to inform ROK citizens about it. Thought about in this way, the possibility of a US submarine armed with nuclear weapons being near Byaengnyeong Island is almost greater than its not being there.
+　
+만일 미국과 한국군이 백령도 육상에 북한을 겨냥한 미사일을 설치하면, 북한의 격렬한 비난을 받게 된다. 북한을 동포로 간주하는 한국민의 여론도 거스르기 때문에 철거할 수밖에 없게 된다. 하지만 미사일이 실린 미 잠수함을 섬 주변에 잠항시킨다면, 유사시에는 지상의 미사일 기지와 같은 효과를 낳는 데다 북쪽에서 감지되지 않기에, 한국민에게 전혀 알려지지 않는다. 비록 미 원자력 잠수함이 핵병기를 탑재하고 있어도, 한국 측에 알리지 않으면 문제가 되지 않는다. 그렇게 생각하면, 핵탄두의 유무는 차치하고, 백령도 주변에 무장 한 미군의 원자력 잠수함이 없을 공산이 작아질 정도다.
+
+Many US atomic submarines have more than 100 crew members. They operate the submarine by night and day shifts, so the crew is large. If a US submarine sank under the third buoy, there could have been many victims, their number comparable to those who died in the Cheonan incident. There is also the fear of radioactivity leakage. What the US military hastened to recover from the sunken submarine could have been a nuclear warhead. That is why the UDT-SEAL team of the ROK military was made to conduct the search hastily. Warrant Officer Han’s death on duty occurred in the process.
+
+미군의 원자력 잠수함 대부분은 100명이 넘는 승무원을 정원으로 하고 있다. 주야 교대제로 잠수함을 관리하기 때문에 전체 명수가 많아진다. 제3의 부표 아래에 미 원자력 잠수함이 가라앉아 있다면, 천안함 사망자 수와 비교해도 훨씬 많은 사망자가 나왔을 것이다. 방사능 유출의 염려도 있다. 침몰한 잠수함에서 미군이 급하게 꺼내려고 했던 게 핵탄두였을 가능성도 있다. 그런 이유로 한국군 특수 잠수 조의 수색을 재촉하였고 그 과정에서 임무 수행 중인 한주호 준위가 순직했다.
+
+천안함 침몰은 바로 대대적으로 보도되었지만, 미 잠수함의 침몰은 미 정부에 의해 은폐되고, 한국 당국도 은폐 공작을 돕고 있다. 침몰 사실을 은폐하지 않으면 안 되는 이유는 미 잠수함이 유사시에 북조선을 기습으로 공격하기 위해 백령도 주변에 잠항하고 있던 사실을 북한 측이나 한국의 국민에게 알리고 싶지 않기 때문일 것이다. (그런 사실이) 알려진다면, 북한은 화가 나서 어떠한 보복을 걸어올 것이며, 한국민의 반미 감정도 부추기게 될 것이다. 하지만 KBS 등이 오보 취급당했지만, 미 잠수함의 침몰을 보도해 버렸기 때문에 이미 북한은 이번 사고의 경위를 상당히 파악하고 있다고 생각된다. ([[http://news.hankooki.com/lpage/politics/201004/h2010041910182191040.htm|군, 군사기밀 노출 대응책 마련 착수]])8-)
+===== 미 잠수함을 북한 잠수함으로 오인? =====
+
+The discussion so far has not come to the most important question: why did the Cheonan and the American submarine sink? I will address this now. The Jaju Minbo article, which analyzed the report by KBS TV, writes that a North Korean submarine came South, attacked the Cheonan and the US submarine, and may have sunk both boats. However, in my view, the possibility of the North having done this is extremely low.
+
+지금까지의 논의 전개는 가장 중요한 '천안함과 미 잠수함은 왜 침몰했는가'라는 분석에 이르지 않았다. 지금부터 알아보자. KBS 등의 보도를 분석한 앞의 자주민보 기사는 북조선의 잠수함이 남하해 내려와, 천안함과 미 잠수함 모두에 대해 공격하고 두 함선을 침몰시켰을 거라고 쓰여 있다. 그러나 내가 볼 때는, 북한이 했을 가능성은 매우 낮다.
+
+Right after the Cheonan sinking, the US and ROK governments announced that there was little possibility that the Cheonan sank as a result of North Korean attack. If there had been a North Korean submarine attack, the North Korean government, after a few days, might have proudly announced that it had sunk both ROK and US boats. If US and ROK governments announced before then that the sinking was probably not the result of a North Korean attack, both governments would risk being criticized by citizens, and high officials would have had to assume responsibility and resign. If it was truly not an attack from the North, the US and ROK governments would be expected to quickly announce that it was not from the North. Jaju Minbo, a leftwing newspaper close to North Korea, perhaps simply wanted to show the power of North Korean military.
+
+한미 양국 정부는 천안함 침몰 직후 "북한의 공격을 받아 침몰했을 가능성은 낮다."라고 발표했다. 만약 북한의 잠수함 공격으로 침몰했다면, 북조선 정부가 며칠 지나고 나서 "한국과 미국의 군함을 격침했다"고 소리 높여 “전과”를 발표할지도 모른다. 그 전에 한미 양국 정부가 “북조선의 공격은 아닌 것 같다”고 발표해 버리면, 한미 정부는 국민으로부터 비난 받아 고위 관계자가 책임을 지고 사임할 수 밖에 없게 된다. 정말 북의 공격이 아닌 경우에만, 한미 양국 정부가 조속히 "북의 공격은 아니다."라고 발표하는 것은 아니다. 자주민보는 북한 편향의 좌파 신문이기 때문에, 북조선의 군사력의 강력하다는 결론을 짓고 싶었을 뿐이다.
+
+As noted, a US-ROK joint military exercise was in progress that day near Byaengnyeong Island and it is highly probable that the Cheonan was at the site as part of the exercise. If a military exercise was going on, then other US and ROK ships were present. So if a North Korean submarine did attack, the US and ROK would have fiercely counterattacked and sunk it. Even if they failed to sink it and it escaped, if there had been an attack from the North, then the US and ROK could stand in the position of justice for simply having defended themselves, so they would immediately have announced that such a battle had occurred.
+
+이미 말한 대로, 사건 당일에 실시 된 한미 합동 군사 연습이 백령도의 주변에서 전개되어 그 일환으로 천안함이 현장에 있었을 가능성이 높다. 군사 연습이 행해지고 있었다고 하면 한미 군의 다른 함선이 많이 있고, 북조선의 잠수함이 공격해와도 바로 한국과 미국이 맹렬하게 반격해 침몰시켰을 것이다. 침몰하지 않고 달아났다 해도 북측의 공격이 있었다면, 한국과 미국은 방어했을 뿐 정당한 입장에 있기 때문에 교전이 발생한 것을 바로 발표했을 것이다.
+
+The North feared that the US and ROK would use the joint military exercise as a pretext to move north and attack its nuclear facilities. Pretending to conduct a military exercise as a cover for a real attack is a plausible US military strategy. For the North to attack in such a situation would be suicidal as it would give the US and ROK a pretext for war. 
+
+북한은 한미가 합동 연습을 구실로 (한미 양국 군이) 북상해 북의 핵 시설을 향해 실제 공격을 취해 올 것을 두려워했다. 군사 연습을 하는 체해서 진짜 전쟁을 준비하는 것은 미군의 전술로서 있을 수 있는 것이다. 그런 점에 북측에서 공격을 준비하는 것은 미군과 한국군에게 전쟁의 대의명분을 주게 되는 자살 행위이다.
+
+<wrap hi>이미 말한 대로, 천안함과 미 잠수함이 침몰하고 11일 후인 4월 7일 스티븐스 주한 미국 대사와 샤프 주한 미군 사령관이라는 미국의 고위 관리가 백령도 부근의 제3 부표의 수색 활동 현장에서 행해진 한 준위의 위령제에 참석하였다. 만약 3월 26일 북한 잠수함이 천안함과 미 잠수함을 격침했다면, 그것은 한미와 북한은 교전한 것이기에 한미 양국과 북한 사이에 무언가 화이가 이루어지지 않는 한 교전한 지 11일 후에 더구나 전장의 최전선인 백령도 주변에서 미국의 군사령관과 대사 2명이 모여 어슬렁어슬렁 오는 것은 너무 위험한 행위이다. (한미 양국이 북한이 교전하고 수일 내에 비밀리에 화해했다고는 생각할 수 없다). 그래서 천안함과 미 잠수함의 침몰은 북한의 공격에 의한 것이 아닐 것이다.</wrap>
+
+<wrap hi>5월 초순에는 중국이 김정일 위원장을 북경에 초대했는데, 이점도 3월 26일 한미 양국과 북한이 교전하지 않은 것으로 간주하는 근거이다. 후진타오의 중국은 미국의 군산 복합체에 의해, 조선 전쟁 후와 같은 '한미 VS 북중'이라는 구도에 재차 휘말리는 것을 가장 경계하고 있다. 3월 26일 미국 한국과 북한이 교전했고 그 1개월 후에 중국이 김정일 위원장을 북경에 부르면, 그것은 중국이 북한의 편을 들게 되어 “한미 VS 북중” 구도에 접근되어 무덤을 파는 격이 된다. 한미 양국과 북한이 교전했다면 중국은 김정일을 외면했을 것이다.</wrap>
+
+If the boat was not sunk by an attack from the North, the remaining possibility is that an error occurred. I suspect that the US military had not informed the ROK that an American submarine was stationed underwater near Byaengnyeong Island. If the American submarine that sank at the third buoy was underwater for a long time, it follows that it did not participate in the joint exercise that day (it had other duties).
+
+북한의 공격으로 침몰한 게 아니라면, 남는 건 오폭설이 된다. 내가 의심하고 있는 것은 "미군은 잠수함을 백령도 주변에 상시 잠항시키고 있던 것을, 한국군에게 알리지 않았던 것이 아니냐"는 것이다. 제3 부표 위치에 가라앉은 미 잠수함이 장기 잠항하고 있었다면, 당일 한미 합동 연습에도 참가하지 않은 것이 된다 (합동 연습과 별도의 임무가 있다는 말).
+
+I think it likely that the US submarine, which was off the coast to the south of Byaengnyeong, happened to approach closer to the shore than expected and ROK forces, mistaking it for a North Korean submarine, fired. When the US submarine returned fire, both boats sank as a result of a friendly attack due to a misconception. The US submarine must have known of the approach of the Cheonan with the use of a passive sonar used for receiving communication. But if the American military was keeping the presence of the submarine secret from the ROK, then the US submarine could not communicate by radio with the Cheonan.
+
+천안함은 백령도의 남쪽 앞바다를 항해하다가 예상보다 해안에 근접했고 그 결과 한국군에게 존재가 알려지지 않은 미 잠수함의 존재를 탐지해 북한의 잠수함이 잠입해 있다고 착각해 발포하고 공격받은 미 잠수함도 순식간에 반격 2척이 함께 침몰하게 되는 오인 끝에 같은 편끼리 싸워서 일어난 것이 아닐까. 미 잠수함은 수신 전용의 패시브 소나를 사용하여, 천안함의 접근을 탐지했을 것이다. 하지만 미군이 한국군에 대해서도 비밀로 해 미 잠수함을 잠행시키고 있었다면, 미 잠수함으로부터 천안함에 무선 연락을 취할 수는 없다.
+
+The Cheonan was attacked from the port side. The ROK authorities announced that the Cheonan at that time was heading northwest. If that is really the case, then the boat’s port faced the open sea. The American submarine underwater near the shore would have attacked from the island side, the reverse of the open sea side. This contradicts the above hypothesis. Except, in order to hide the friendly attack by the US military ship, the possibility exists that the ROK authorities announced the direction of the Cheonan in reverse. (If they announced that the Cheonan was attacked from the island side, then the North Korea attack theory would not be possible and the suspicion of a friendly attack would become stronger.) 
+
+천안함은 좌현으로부터 공격당하였다. 한국 당국은 당시 천안함은 북서쪽으로 향하고 있었다고 발표했다. 그 말대로라면 좌현은 먼바다 쪽이다. 연안 가깝게 잠항하고 있던 미 잠수함은 섬이 있는 방향에서 쐈기 때문에, 먼바다 쪽과는 정반대 방향이라 위의 가설과 모순된다. 다만, 한국 당국은 미 전함과의 오인 전투의 사실을 숨기기 위해 천안함의 진행 방향을 거꾸로 발표했을 가능성이 있다. (섬 쪽에서 가격 받았다고 발표하면 북한 범행설은 있을 수 없으며 오인 전투라는 의문이 커진다.)
+===== 천안함 사건 이후 중국에 위임된 남북 중재 =====
+
+Following the sinking of the Cheonan, media and political circles in South Korea uniformly expressed condolences. Concerts and entertainment events were canceled one after another. The rightwing suddenly became active, demanding that the government “counterattack North Korea.”  ROK local elections will take place in June. The Cheonan political situation will greatly influence the campaign.
+
+천안함 침몰 이후 한국의 언론과 정치권은 '애도' 일색으로, 한국에서는 콘서트나 오락물이 연이어 취소되었다. 한국 우파의 활동은 갑자기 늘어나 //“북한에 반격하라”//고 정부에 압력을 가하고 있다. 한국에서는 6월에 지방 선거가 있을 텐데, 이 '천안함 정국'은 선거전에 막대한 영향을 주고 있다.
+
+Donald Kirk, an American reporter in South Korea, who is familiar with the American military situation, compares the Cheonan incident to 9/11. Some people say that this is going too far. But the possibility that they wish to conceal, that the Cheonan was sunk by friendly fire from the American submarine, is achieved by casting suspicion that it was sunk by North Korea. The result is that political circles and society are aroused, naturally making Americans want to liken the incident to 9/11.
+
+주한 미군의 내정에 친숙한 한국 주재 미국인 기자 도널드 커크는 천안함 사건을 "미국의 9/11 사건에 필적한다"고 말하고 있다. 그것은 지나친 말이라는 소리도 있지만, 천안함이 미 잠수함과의 오인 전투로 침몰했을 가능성을 감추고, 북조선에 격침된 의혹이 있다고 바꿔 말해, 정계 나 사회가 단숨에 호전적이 되는 사태는 미국인이 보기에 9/11과 비교하고 싶어지는 것도 당연하다. ([[http://japanese.joins.com/article/article.php?aid=128300&servcode=A00&sectcode=A00|원래 NYT 기자 '천안함 침몰, 9/11 테러에 필적하는 비극"]])
+
+An opposition member of the ROK National Assembly challenged the Minister of National Defense, demanding that the truth be revealed and noting that the sinking of the Cheonan may have been a mistake made by the US military. He was criticized by rightwing media as “a foolish congressman trusting conspiracy theorists.” The same label was applied by the mass media to US and Japanese representatives who sought to inquire into the truth of 9/11.
+
+한국 국회의 좌파성향 한 의원은 국방 장관에게 //“천안함은 미군의 핵 잠수함에 의한 오폭으로 침몰 한 것은 아닌가. 진상 규명해 달라"//고 요청해 우파 언론에서 //"음모론을 믿는 얼간이 같은 의원"//이라고 야유로 비판하고 있다. 이것은 9/11의 진상 규명을 호소하는 미국이나 일본 의원을 요 몇 년 미일 언론에서 선동하며 격렬하게 야유하고 비판한 것과 마찬가지이다. ([[http://japanese.donga.com/srv/service.php3?biid=2010042700058|박영선의원, 오보 판명의 “미군 오폭설”로 국방부 장관과 논쟁]])
+
+Following the sinking of the Cheonan, if the US and ROK had announced that the Cheonan was attacked by the North and they would counterattack, the result would have been full-scale war. However, the US military in South Korea is moving toward withdrawal. The command in case of emergencies is scheduled to be transferred from the US to the ROK military in 2012. Moreover, leadership of international politics in the Korean peninsula is in process of transfer from the US to China with the approval of US administrations from Bush to Obama.
+
+천안함 침몰 후 한미가 "북쪽에서 공격했다."고 선언하면, 한미는 "반격한다." 하게 되고 사태는 정말 전면전이 되었을 것이다. 주한 미군은 철수로 방향을 잡았고, 2012년 전시 작전권이 미군에서 한국군으로 이양된다. 한반도의 국제 정치에서의 주도력은 미국에서 중국으로 이양되고 있다. 부시에서 오바마를 거쳐 미 정권은 작전권 이양을 시인하고 있다.
+
+Within the military-industrial complex centered in the Pentagon, there must be opponents of multipolarization who wish to reverse this. They do not wish to sit back and watch East Asia fall under Chinese hegemony in this manner, with US military withdrawal. They naturally seek to take advantage of the Cheonan incident to induce war between South Korea and North Korea, and, as at the time of the Korean war, develop it into war between the US and China so as to reverse multipolarization in East Asia. Although I may be projecting too far, one may even suspect that they provoked the friendly attack by concealing from the ROK military the underwater navigation of the US submarine around Byaengnyeong Island.
+
+미 국방성의 군산 복합체의 세력 중에는 이러한 다극화의 흐름을 멈추고 역행하고 싶다고 생각하는 사람들이 있을 것이다. 그들은 이대로 동아시아가 중국의 패권하에 들어가고, 미군이 철수하는 것을 간과하길 원하지 않는다. 그들이 천안함 사건을 계기로 한국과 북한과의 전쟁을 유발해 한국 전쟁 때처럼, 그것을 미국과 중국과의 전쟁으로까지 발전시켜 동아시아에서의 다극화의 흐름을 역행하고 싶다는 생각은 당연하다. 너무 지나친 생각일지도 모르지만, 그들이 백령도에서 미 잠수함의 잠항을 한국군에게 알리지 않고, 아군끼리의 오폭 사건을 유발했다고 의심할 수도 있다.
+
+If a great war again erupts on the Korean peninsula triggered by the Cheonan Incident, even if Japan does not bribe the US with the “sympathy budget”, the stationing of US forces in Japan would continue, and the US would again view Japan as an unsinkable aircraft carrier. The Japanese economy would thus again benefit from Korean special procurements after sixty years. This would be a desirable outcome for Japanese who favor dependency on the US.
+
+천안함 사건을 계기로 한반도에 큰 전쟁이 재발하는 경우 "배려 예산"으로 뇌물 하지 않아도 주일 미군의 주둔이 계속되게 미국은 다시 일본을 침몰하지 않는 항공모함으로 평가하고, 일본 경제는 60년 만의 '조선 특수'로 부흥하게 되어, 그 결과는 일본의 대미 종속 파에게는 기쁠 따름일 것이다.
+
+However, amidst the strife centered, US multipolarists appear to be stronger than the military-industrial complex (and US-Britain centrists). The result is that the Cheonan Incident has not led to a second US- Korean War. Further, what is regrettable for those in Japan and the ROK who wish to continue dependence on the US, the US has transferred to China the role of mitigating the aggravated North-South relationship.
+ 
+그러나 미국 권력 중심의 암투에서는 군산 복합체(미영 중심주의)보다 숨은 다극주의자들이 강한 것 같아서 천안함 침몰 사건은 한국 전쟁의 재발로 연결되지 않았다. 또한, 한일의 대미 종속 파에게는 아쉽게도, 미국은 사실상 천안함 사건으로 남북 관계의 악화 방지 역할을 중국에 이양하고 말았다.
+
+Chairman Hu Jintao of China, on 30 April, talked with President Lee Myung-bak who attended the opening ceremony of the World Expo in Shanghai. Three days later he hosted a visit from North Korean President Kim Jong-il, making possible a China-North Korea summit. It is unclear whether Six-Party talks will be held subsequently, but China has certainly strengthened its role as mediator between North and South Korea.
+
+후진타오 중국 주석은 4월 30일 상하이 엑스포 개막식에 참석한 한국의 이명박 대통령과 회담하고 3일 후에는 북한의 김정일이 중국을 방문하여 베이징에서 북중 정상 회담을 열었다. 향후 6자 회담이 열리게 될지 불명확하지만, 중국이 한국과 북한의 중개자 역할을 하는 경향이 강해지고 있는 것은 확실하다.
+
+Many South Korean citizens have come to distrust government pronouncements on the Cheonan Incident. In the ROK, the fact that the American submarine sank near the third buoy may change at some future time from “conspiracy theory” to fact. As long as ROK national policy remains one of dependence on the US, the matter of the third buoy will have to be suppressed. But to the extent that the ROK moves toward multipolarization (emphasizing China and coexistence between North and South), the lid will be taken off.
+
+한국의 많은 사람은 이미 천안함 사건에 대한 정부의 발표를 신뢰하지 않으며, 무언가 뒤에 숨겨진 것이 있다고 느끼고 있다. <wrap hi>미국에서는 9/11 사건의 내막을 좀처럼 사실로 간주하지 않지만,</wrap> 한국에서는 백령도의 제3 부표 아래에 미 잠수함이 가라앉아 있다는 점이 향후 어느 시점에서 '음모론'에서 '사실'로 바뀔지도 모른다. 한국이 대미 종속을 국가 정책으로 유지하는 한 제3 부표의 비밀을 은폐할 수밖에 없겠지만, 한국이 다극화 대응(중국 중시, 남북 공존)의 방향으로 바뀌면 그 은폐가 풀릴 것이다.
+
+프와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}

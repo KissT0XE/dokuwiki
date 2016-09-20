@@ -1,0 +1,100 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL222  |  2009-02-11 07:01  |  비밀/외국전파금지  |  주한미국대사관  |  {{tag>PINS PINR PREL KS KN JA }}  |
+====== 제 목: 대한민국 정부, 정보유출 관련 수사 진행 ======
+  * 비 밀 SEOUL 000222 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))  
+  * 외국전파금지((번역 주: NOFORN ,no foreign dissemination allowed))
+  * 행정명령 12958: 비밀해제: 12/11/2019 
+  * 태그: PINS(([National Security])), PINR(([Intelligence])), PREL(([External Political Relations])), KS(([Korea (South)])), KN(([Korea (North)])), JA(([Japan; Okinawa; Ryukyu Islands]))
+  * 제 목: 대한민국 정부, 정보유출 관련 수사 진행
+  * 참조: 가. STATE 11328 [[09seoul216|나. SEOUL 00216]]      
+  * 분류자: 공관차석((번역 주: ‘부대사’ 와 같은 말이지만 대사관 홈페이지엔 ‘공관차석’이란 용어로 공식 사용한다.)) 빌 스탠튼 근거 1.4(b/d)
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/01/05 21:21//
+===== 요점 =====
+1. (비밀/외국전파금지) 요점: 한국정부는 북한 미사일의 움직임을 담고 있는 정보 유출에 대한 미국정부의 우려를 //“매우 심각하게”// 받아들였다. 한국 외교통상부 차관보 이용준은 유출의 근원지를 찾아내기 위해 조사에 착수했다고 2월 11일 공관차석에게 말했다. 이번 유출이 여하한 정책적 결정이 아니며; //“개인적 행동... 정부에 의해 승인되지 않았다.”// 이 차관보는 이 문제로 한미 정보협력에 충격이 없기를 희망했고, 클린턴 국무장관의 다음 주 서울방문 동안에 이 문제가 제기될 것인지를 물었다. 한국정부는 러시아와 중국으로 하여금 북한이 남북관계 긴장을 완화할 것을 촉구하라고 요청하였다. //요점 끝.//
+===== 정보유출 조사 착수 =====
+2. (비밀/외국전파금지) 2월 11일 이용준 한국 외교통상부 부차관보는 한국정부가 정보 유출에 관한 참조전문 외교문서에 대한 응답으로 조치에 나섰다고 공관차석에게 알렸다. 미국정부의 우려를 한국정부 전체에 전달했다고 이 차관보는 말하면서 한국정부가 이 문제를 매우 심각하게 받아들이고 있다고 강조했다. 정부 내부에 누군가가 문제의 정보를 배포했는데, 이미 일본 매체의 보도로 해당 정보가 노출되어 그랬을 가능성이 있다. 이러한 //“개인적인 행동”//은 용납할 수 없으며, 전적으로 //“정부가 승인하지 않은 것”//이다. 심각한 규정 위반이라고 보고 한국정부는 이 문제에 대해 될수 있는 한 철저한 조사에 착수하였으며, 책임자가 드러나면 처벌할 거라고, 이용준은 말하면서 그는 범인이 밝혀질 것으로 확신하였다.
+
+3. (비밀/외국전파금지) 정보유출이 한국정부 혹은 관계 기관에 의한 여타 정책결정의 결과가 아님을 이용준은 계속 견지했다. 정부는 재발방지를 위해 강력한 조처를 할 것이다. 이용준은 이번 사고가 한국과 정보협력에 충격이 없기를 희망하였고, 미 국무부 장관의 서울 방문 중에 이 문제가 제기될지를 물었다. 공관차석은 그럴 가능성이 있지만, 국무부 장관에게 달린 일이라고 말하였다. 이 차관보는 접수된 미 외교문서가 //“강력한 내용”//이었다고 거듭 지적하였는데, 이에 공관차석은 이번 사태에 대한 미국의 우려가 지대함을 반영한다고 응답하였다.
+===== 러시아와 중국을 통한 북한에 메시지 전달 =====
+4. (비밀/외국전파금지) 한국정부는 러시아와 중국 외무부장으로 하여금 북한이 한반도의 긴장을 완화하라고 촉구해 달라고 요청했다고 이 차관보는 말하였다. 여느 때와 같이 베이징은 분명한 답변이 없었다. 공관차석은 주한 러시아 대사인 글렙 이바센초프가 스티븐스 대사에게 이례적으로 전화를 걸어 남북 대치국면에 대해 본인의 불안감을 표명했다고 언급하였다.
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/13/09seoul222|프와로 탐정의 번역]] © 무단복제 및 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://news.donga.com/3/all/20090203/8691411/1|北, 대포동2호 미사일 발사움직임]] //동아일보//
+  - [[http://www.dailynk.com/korean/read.php?cataId=nk00100&num=67072|“대포동 2호 미사일 발사 움직임 포착”]] //데일리NK//
+  - [[http://shindonga.donga.com/docs/magazine/shin/2004/06/30/200406300500011/200406300500011_1.html|위성사진으로 분석한 2004년 5월 중순 대포동 미사일기지]] //신동아//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL222.rtf>
+S E C R E T SEOUL 000222 
+ 
+SIPDIS 
+ 
+NOFORN 
+ 
+E.O. 12958: DECL: 12/11/2019 
+TAGS: PINS [National Security], PINR [Intelligence], PREL [External Political Relations],
+KS [Korea (South)], KN [Korea (North)], JA [Japan; Okinawa; Ryukyu Islands] 
+SUBJECT: ROKG UNDERTAKING INVESTIGATION OF INTELLIGENCE LEAK 
+ 
+REF: A. STATE 11328 
+     B. SEOUL 00216 
+ 
+Classified By: DCM Bill Stanton. Reasons 1.4(b/d) 
+ 
+¶1. (S/NF) SUMMARY: The ROKG took USG concerns about the leak 
+of intelligence pertaining to North Korean missile movements 
+"very seriously," ROK Deputy Foreign Minister Lee Yong-joon 
+told the DCM on February 11, and was initiating an 
+investigation to find its source.  The leakage was not the 
+result of any policy decision; it was a "personal action ... 
+unauthorized by the government."  DFM Lee hoped the matter 
+would not impact U.S.-ROK intelligence cooperation and asked 
+if it would be raised by Secretary Clinton during her visit 
+to Seoul next week.  The ROKG had asked Moscow and Beijing to 
+urge Pyongyang to reduce inter-Korean tensions.  End Summary. 
+ 
+---------------------------- 
+Leak Investigation Initiated 
+---------------------------- 
+ 
+¶2. (S/NF) ROK Deputy Foreign Minister Lee Yong-joon informed 
+the DCM on February 11 of steps the ROKG was taking in 
+response to the reftel demarche on intelligence leaks, 
+delivered February 9.  USG concerns had been conveyed 
+throughout the government, DFM Lee said, emphasizing that the 
+ROKG was taking the matter very seriously.  Someone within 
+the government had released the information in question, 
+possibly because reports had already appeared in the Japanese 
+media.  This "personal action" was unacceptable and totally 
+"unauthorized by the government."  In view of the seriousness 
+of the infraction, the ROKG had initiated what would be a 
+thorough investigation of the matter and punish the person 
+responsible once found, Lee stated, adding that he was 
+confident the perpetrator would be discovered. 
+ 
+¶3. (S/NF) The leakage was not the result of any policy 
+decision by the ROKG or its agencies, Lee continued.  The 
+government would take strong measures to prevent a 
+recurrence.  Lee expressed hope that the incident would not 
+affect intelligence cooperation with the U.S. and asked if 
+the matter would be raised by the Secretary during her 
+upcoming visit to Seoul.  The DCM said it was possible she 
+would, but that would be up to the Secretary.  Lee further 
+noted the "tough language" of the demarche, to which the DCM 
+responded that it reflected the strength of U.S. concern 
+about the issue. 
+ 
+--------------------------------------------- ------------- 
+Conveying Messages to Pyongyang through Moscow and Beijing 
+--------------------------------------------- ------------- 
+ 
+¶4. (S/NF) The ROKG had asked both the Russian and Chinese 
+Foreign Ministries to urge the DPRK to take steps to reduce 
+Korean Peninsula tensions, DFM Lee said.  As usual, there had 
+been no clear feedback from Beijing.  The DCM noted that 
+Russian Ambassador to the ROK Gleb Ivashentsov had, 
+unusually, called on Ambassador Stephens to express his 
+unease with the inter-Korean standoff. 
+STEPHENS
+</file>

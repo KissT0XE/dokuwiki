@@ -1,0 +1,55 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  06SEOUL837  |  2006-03-15 08:13  |  비밀(2급)  |  주한 미국 대사관  |  {{tag>MARR MASS MOPS PINS PREL KS }}  |
+====== 제 목: 이라크와 아프가니스탄 보안군 후원을 위한 요구 사항을 한국에게 전달 ======
+
+비 밀 서울 000937
+
+국방부망 배포
+
+국방부망 배포
+
+행정명령 12958: 비밀해제: 03/14/2016
+태그: MARR MASS MOPS PINS PREL KS
+제 목: 이라크와 아프가니스탄 보안군 후원을 위한 요구 사항을 한국에게 전달
+
+참조: STATE 22896
+
+분류자: 정치 공사 참사관 조셉 윤. 근거 1.4 (b,d).
+
+(비밀) 3월 13일, 미 대사관 정무 직원은 박치영 외교통상부 북미3과 과장 대행에게 이라크와 아프간의 보안군을 위한 <wrap hi>단기적 필요 물품</wrap>((Q. What is the definition of an Unfunded Requirement (UFR)? A. Generally, in DOD, unfunded requirement means identified needs of an agency, program office, etc. that failed to receive funding in the budget.
+
+답: 일반적으로 미 국방부에서 말하는 미책정 기금 요건이란 어떤 기관이나 사업 담당 사무소에서 예산 책정을 받지 못했지만 필요하다고 확인된 요구 사항이다.)) 기부를 요구하는 관련 전문을 전달했다. 박치영은 한국은 이미 이라크와 아프가니스탄 연합 작전에 상당한 지원을 한 바 있다고 언급하면서도 그는 단기적 필요 물품의 항목들을 자세히 살펴보았고, 이를 해당 부서가 검토하도록 배포하였다.
+버시바우
+
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+<WRAP center round info 90%>//** 2009년 지원한 구급차 1백 대, 경찰 순찰용 오토바이 3백대, 총 5백만 달러 상당의 장비?**//
+한국 정부가 보내는 물품과 장비는 대부분 경찰 치안 업무에 쓰였다. 2009년에는 구급차 1백 대, 경찰 순찰용 오토바이 3백 대 등 5백만 달러어치 장비를 지원했다. [[http://www.marx21.or.kr/article/pageView.marx?articleNo=51&pageNo=4| 아프가니스탄 재파병과 지방재건팀의 정치경제학]] //마르크스21//
+</WRAP>
+
+===== 원본 내려받기 =====
+<file rtf 06ESOUL837.rtf>
+S E C R E T SEOUL 000837 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/14/2016 
+TAGS: MARR MASS MOPS PINS PREL KS
+SUBJECT: ROKG DELIVERED: DONATIONS TO IRAQ AND AFGHAN 
+SECURITY FORCES 
+ 
+REF: STATE 22896 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(S) On March 13, poloff delivered reftel demarche, which 
+requested donation of unfunded requirements for Iraq and 
+Afghan security forces, to MOFAT North America Division III 
+Deputy Director Park Chi-young.  While noting that the ROK 
+was already a significant contributor to coalition operations 
+in both Iraq and Afghanistan, Park undertook to study the 
+lists of unfunded requirements and to distribute them to the 
+appropriate agencies for consideration. 
+VERSHBOW
+</file>

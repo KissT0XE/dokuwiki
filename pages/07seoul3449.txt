@@ -1,0 +1,69 @@
+^  참조문서번호  ^  생성일  ^  비밀 등급  ^  출처  ^  태그  ^
+|  07SEOUL3449  |  2007-12-04 07:10  |  비밀  |  주한 미국 대사관  |  {{tag>KS MARR PARM PREL }}  |
+====== 제 목: 한국, 해성-2 순항미사일 시험 비행 시행 ======
+비 밀 서울 003449
+국방부망 배포
+국방부망 배포
+
+행정명령12958: 비밀해제: 12/04/2017
+태그: KS MARR PARM PREL
+제 목: 한국, 해성-2 순항미사일 시험 비행 시행
+분류자: 정치 공사 참사관 조셉 윤. 근거 Reasons 1.4 (b,d).
+참조하는 전문: [[07seoul3513|07SEOUL3513]], [[07seoul3554|07SEOUL3554]], [[07seoul244|08SEOUL244]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/01/06 21:21//
+
+(비밀) 12월 4일 외교통상부 한미안보협력과 이홍업은 해성-2 순항미사일의 비행 시험에 관한 통지를 제공하였다. 해성-2 순항미사일의 첫 비행 시험은 2007년 9월 13일에 시행되었다. 통지 내용의 전문은 아래와 같다:
+
+2001년 1월 17일 채택된 한국의 새 미사일 지침에 따라 한국정부는 아래와 같은 순항미사일 시스템의 계획된 비행 시험에 관한 관련 정보를 미국 정부에 제공하고자 합니다:
+
+(가) 순항미사일의 명칭: 해성-2
+(나) 통보 목록: 미사일 지침 3부
+(다) 2차 시험 비행의 일자 및 장소: 2007년 12월 18일 안흥종합시험장
+
+전문 끝.
+버시바우
+
+[[https://sites.google.com/site/poirotkr/8/07seoul3449|포와로 탐정의 번역]] © 무단 복제나 전재를 금지합니다.
+<WRAP center round tip 80%>//**순항미사일과 탄도미사일의 차이, 새 한미 미사일 지침과의 상관 관계**//
+“새 한미 미사일 지침에 따르면 한국은 사거리 3백㎞ 이상, 탄두 중량 5백㎏ 이상의 미사일을 개발할 수 없도록 돼 있습니다”--- //[[http://andocu.tistory.com/entry/%EB%AF%B8%EC%82%AC%EC%9D%BC%EC%8B%9C%ED%97%98%EB%B0%9C%EC%82%AC%EC%9D%BC%EC%A0%95-%EA%BC%AC%EB%B0%95%EA%BC%AC%EB%B0%95-%EB%AF%B8%EA%B5%AD%ED%86%B5%EB%B3%B4-%EA%B9%80%EC%84%B1%EC%9A%A9-%ED%98%84%EB%8C%80%EC%82%AC%EA%B0%80-%EB%8B%B9%EC%8B%9C-%EC%A3%BC%EB%AC%B4-%EC%9C%84%ED%82%A4%EB%A6%AC%ED%81%AC%EC%8A%A4-%ED%95%9C%EA%B5%AD%EC%A0%84%EB%AC%B8|시크릿 오브 코리아]]// 블로그 발췌 →이 정보는 __잘못된 정보__다. 상기된 두 가지 제한 내용은 탄도미사일에 해당한다. 순항미사일에는 탄두 중량 제한만 있지, 사거리 제한이 없다. 그렇다면 탄두 중량 제한에 따른 파괴력이나 성능에 문제는 발생하지 않나?  이 질문에 답변하고 있는 사이트를 링크한다. [[https://www.evernote.com/shard/s258/sh/dfb918e2-b1f6-45c6-90d3-a72ac7e117b4/e69fb77f82e33f391cc92288dbcf957b|2001년 1월 17일, 미국은 ‘이중족쇄’ 채웠다.]] //한호석//  (주의: 필자는 '한호석'씨의 동 칼럼 내용에 한 가지 의문스러운 내용을 파악했지만, 전반적으로 참고할만한 내용이 있다고 생각되어 링크를 연동합니다.)
+
+//**그 밖의 중요한 질문**//
+  - 미국이 탄두 중량을 제한한 이유가 무얼까?
+  - 킬 체인과 현무-3시리즈와의 상관 관계는?
+  - 한미 미사일 지침의 역사와 경과는?
+</WRAP>
+===== 원본 내려받기 =====
+<file rtf 07SEOUL3449.rtf>
+S E C R E T SEOUL 003449
+ 
+SIPDIS
+ 
+SIPDIS
+ 
+E.O. 12958: DECL: 12/04/2017
+TAGS: KS MARR PARM PREL
+SUBJECT: ROK TO CONDUCT UAV HAESONG-II TEST FLIGHT
+ 
+ 
+Classified By: POL M/C Joseph Y. Yun, Reasons 1.4 (b,d).
+ 
+(S) On December 4, Lee Hong-yup of the ROK-U.S. Security
+Cooperation Division of the Ministry of Foreign Affairs and
+Trade provided notification of the second flight test of the
+Haesong-II UAV.  The first flight test of the Haesong-II UAV
+was conducted on September 13, 2007.  The text of the
+notification is as follows:
+ 
+In accordance with the ROK's New Missile Guidelines adopted
+on January 17, 2001, the ROKG would like to provide the USG
+with the relevant information on the planned flight test of
+the UAV as follows:
+ 
+(a) Name of the UAV: Haesong-II
+(b) Notification Category: Part 3 of the Guidelines
+(c) The 2nd flight test date/place: December 18, 2007/Anheung
+Proving Ground
+ 
+END TEXT.
+VERSHBOW
+</file>

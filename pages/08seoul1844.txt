@@ -1,0 +1,242 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1844  |  2008-09-17 07:13  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>PBTS  PGOV PHSA  PINS MARR KS KN }}  |
+
+====== 제 목: 안보정책구상 비공개 회의: 이라크, 아프간, 방위비분담, 안보협의회의 ======
+
+  *기 밀 SEOUL 001844 
+  *국방부망 배표((번역 주: SIPDIS, Siprnet Distribution))
+  *행정명령 12958: 비밀해제: 09/17/2018 
+  *태그: PBTS (([National Boundaries, Territories, and Sovereignty])), PGOV (([Internal Governmental Affairs])), PHSA (([High Seas Affairs])), PINS (([National Security])), MARR (([Military and Defense Arrangements])), KS (([Korea (South)])), KN (([Korea (North)])) 
+  *제목: 안보정책구상 비공개 회의: 이라크, 아프간, 방위비분담, 안보협의회의 
+  *참조: 가. REF: A)국무장관((SECSTATE)) 96122 (이라크 연합군 변경책)((IRAQ COALITION DEMARCHE) )) 
+  * 나. B) 국무장관((SECSTATE)) 93225 (아프간국군 변경책)((ANA DEMARCHE))
+ 
+  *분류자: 정치 공사 참사관 조셉 윤((번역주: 미 대사관이 사용하는 공식용어 임 POL M/C Joseph Y. Yun)) 근거 1.4 (b/d).
+  *번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/09/30 12:37//
+===== 요 약 =====
+<WRAP column 70% justify>
+1. (기밀) 요점: 국방부 동아시아 부차관보 데이빗 세드니는 9월 10일에 있었던 한미 안보정책구상 비공개회의에서 국방부 국방정책실장을 만났다. 논의된 내용은 다음과 같이 4개의 쟁점이다: 
+
+  * 세드니 부차관보는 전 실장에게 참조 가에서의 결정을 알렸는데, 이 결정 내용은 이라크에 남아 있는 모든 한국부대를 올해 말까지 감축하는 내용이다. 전 실장은 좋은 소식이라고 했다. 
+
+  * 세드니 부차관보는 남한의 2009년 아프간 안정화와 개발 일괄계획의 모습을 갖추기 위한 아프간 현지 조사팀을 보낼 것을 한국정부에 촉구하였다. 그는 한국이 테러범들의 승리를 용납하거나, 방관하지 않겠다는 분명한 신호를 보내는 것이 왜 그렇게 중요한지를 설명을 했다.
+
+  * 전 실장은 연합방위력증강사업((번역 주: the Combined Defense Improvements Project)) 기금 부족 문제에 해결방안을 모색하는 공동의 노력을 칭찬했다. 둘은 만족할만한 해결책을 도출할 경우, 연합방위력증강사업은 방위비 분담 동의안((번역 주: Special Measures Agreement [SMA])) 협상 사안에서 생략할 수 있다고 동의했다. 
+
+  * 전 실장과 세드니는 북한 지도자 김정일이 아프다는 보도 등 상황의 변화 때문에, 10월 17일 워싱턴에서 가질 안보자문회의의 의제 설정은 나중에 하기로 동의했다. //요점 끝.//
+
+2. (기밀) 국방부 동아시아 부차관보 데이빗 세드니는 한국 국방부 국방정책실장 전제국을 만나 정책과 공보업무를 논했는데, 이것은 9월 10일에 안보정책구상 총회의 개회를 앞두고 한미 안보정책구상을 논하는 비공개회의다. 세드니 부차관보는 동아시아태평양 한국과장 커트 통과((번역 주: EAP/K Director Kurt Tong)) 주한미군 기획참모 소장 프랭크 팬터를((번역 주: U.S. Forces Korea (USFK) J5 Major General Frank Panter)) 동반하였다. 그들은 4개의 더욱 민감한 동맹의 쟁점을 회의에서 논의했다: 이라크, 아프간, 연합방위력증강계획((번역 주: the Combined Defense Improvements Project (CDIP))) 기금 쟁점, 10월 17일에 워싱턴에서 열릴 안보협의회의((번역 주: the Security Consultative Meeting [SCM])) 의제 등이다. 전 실장은 이 주제와 관련한 쟁점들이 민감한 이유는 미국과 한국 사이에 어떤 근본적 이견이 있어서가 아니라, 우리가 해당 우려 사안을 어떻게 다루고 해결하는지를 만일에 주의를 기울이지 않는다면, 일부 한국인들이 그 결과에 대해 비판하기 때문이라고 해당 사안에 대해 평했다. 
+</WRAP>
+===== 이라크: 자이툰 부대 복귀 =====
+<WRAP column 70% justify>
+3. (기밀) 이라크 정부가 2009년 다국적군 구성에 대한 결정을 발표할 계획을 하고 있으며, 올해 말부터는 한국의 자이툰 부대의 아빌 주둔을 요청하지 않을 것임을 국무부 아시아태평양 부차관보 크리스 힐이 주미 한국대사에게 통지하였다고 세드니 부차관보가 전 실장에게 알리면서 회의를 시작됐다. 세드니는 참조 가의 논지를 전달하면서 이라크정부에 의한, 또는 이라크 정부와 함께 내부 숙의를 거친 결과임을 설명하면서, 또한 성공적이였던 한국의 이라크 북부 임무를 포함해, 이라크 전역에 걸쳐 커다란 진척을 이루어온 결과라고 설명하였다. 세드니 차관보는 한국의 자이툰 부대에 실적과 용기를 언급하며 찬사를 보내고, 한국정부에 그들에 공헌에 대해 깊은 사의를 표했다. 그는 미국 대통령의 9월 9일 국방대학에서의 연설을 언급했는데, 그 연설에서 미국은 //“성공적 복귀”// 정책에 부응하여, 이라크에 주둔한 미군 부대를 8,000명 인원으로 감축할 것임을 발표하였다.
+
+
+4. (기밀) 전 실장은 이라크의 상황이 개선된 점을 반기면서, 몇몇 미군 병력이 곧 이라크를 나올 수 있는 것은 좋은 소식이라고 말했다. 그는 모든 것이 미국의 평화와 안정에 대한 노력과 열정의 발로라고 말했다. 그는 한국군이 한국으로 복귀하자마자, 한국이 북한에 맞설 연합 방어를 강화하는 것을 포함, 한미동맹에 공헌하기 위한 다른 방법들을 모색할 거라고 덧붙였다. 좋은 소식으로 안보정책구상 회의를 시작할 수 있어 기쁘다고 전 실장은 말했다.  
+</WRAP>
+===== 아프간 현지 한국 조사 팀 =====
+<WRAP column 70% justify>
+5.(기밀) 아프간으로 시선을 돌려 전 실장은 미국정부의 아프간국군 확대에 있어 도움의 필요성을 제기한 참조 나 전환책의 결과로, 한국정부는 2009년에 제공할 일괄 원조의 종합적인 검토 작업 중이라고 세드니 부차관보에 알렸다. 세드니는 한국정부가 모든 관계 부처의 대표단으로 구성된 아프간 조사 팀을 가능한 빨리 보내 줄 것을 요청했는데, 그 목적은 현지 상황에 대한 전문적인 이해력, 그리고 아프간에서 가장 도움이 될 한국의 원조 양상에 대한 분명한 판단을 개발하기 위함이다. 그는 아프간국군 전환책는((번역 주: the ANA demarche)) 재정적 지원에 대한 전 세계적 요구라면서, 한국이 긍정적으로 응답하길 촉구했다. 동시에 미국은 한국정부에게 군병력과 경찰훈련, 그리고 장비 등에 주안점을 둔 현지조사 실시를 장려하였다.
+
+6.(기밀) 세드니 부차관보는 한국정부가 //“아프간으로 돌아오는 것”// 이 매우 중요하다고 설명했다. 그는 만일 한국이 탈레반에 굴복하면 우리 모두 테러와의 전쟁에서 지는 것이라고 말하였다. 세드니는 탈레반이 한국에 보낸 성명은 (참고: 네그로폰테((번역 주: 국무부 부장관)) 전문) 한국정부를 겁주려 한 시도라고 지적했다. 그런 압력에 굴복하면 탈레반이 승리하도록 하는 것이다. 8월에 사르코지 대통령이 아프간에 항공편으로 방문해서, 프랑스군이 아프간에서 계속 주둔하겠다고 발표하면서, 프랑스는 테러범의 승리를 절대 용납하지 않겠다고 말한 점을 지적했다. 세드니 한국정부에게 이와 유사한 성명과 행동을 준비되는 데로 해 달라고 요청했다. 전 실장은 세드니 부차관보의 말에 //“생각//”해 보겠다고 답했고, 외교통상부 북미국 차장 이백순은((번역 주: MOFAT North American Affairs Deputy Director General [DDG])) 한국이 //“한국의 능력의 범위 내에서”// 일을 하겠다고 덧붙였다.</WRAP>
+===== 연합방위력증강사업: 해결책 마련중 =====
+<WRAP column 70% justify>7.(기밀) 전 실장은 지난 연합방위력증강사업에서 한국 기금 부족을 해결을 위한 노력과 관련해 팬터 소장과 그의 한국측 상대역인 국방부 국제정책과 최 차장을 칭송하였다. 그는 상황이 이상적이지는 않지만, 해결책이 가닥을 잡으면서 조망 간 상황이 해소되길 희망한다고 말하였다. (주석: 일찍이 기금 부족분을 출연할 수 없다고 주장했었는데, 그 이후에 국방부는 오산 공군기지에 꼭 필요한 두 번째 활주로를 건설하기 위해 앞으로 3년 동안 미화 9천8백만 달러((번역 주: 1달러 1100원으로 환산하면 한화 1078억 정도)) 제공을 제안하였다.  미국은 또한 한국이 1천6백만 달러를((번역 주: 1달러 1100원으로 환산하면 한화 176억 정도)) 출연해 오산의 전구항공통제본부를((번역 주: HTACC [Hardened Theater Air Control Center])) 개선해 달라고 요청했다.  팬터 소장은 만일 만족스러운 대책이 나오면, 외교통상부 주요 협상자도 요청했던 바대로 주한미군은 방위비 분담 동의안 협상에서 이 문제를 논의 대상에서 생략할 것이라고 했다.  최 차장은 크게 한 걸음을 뗀 상황에서 앞으로 수용할만한 해결안이 나올 것을 확신한다고 했다.
+</WRAP>
+===== 동맹 쟁점의 탈정치화 =====
+<WRAP column 70% justify>
+8. (기밀) 연합방위력증강사업이 조용히 다뤄져야 하며, 미국이 예로 방위비 분담 특별협정과 기지 반환 등 기타 민감한 동맹 쟁점 사안을 언론의 조명에 노출하지 말아야 한다는 전 실장의 요청에 대한 응대로, 세드니 부차관보는 기지 반환 문제와 관련 오늘 아침 한국신문의 1면 표제를 장식한 환경부 언급 내용을 다룬 한국의 신문을 지적하였다.  그는 잘못된 정보를 포함한 해당 기사에 실망하고 놀랐다면서, 잘못을 그냥 둘 것인지, 아니면 공개적으로 불평을 하든지 둘 다 악수가 되기 때문에, 자신이 곤란한 처지가 되었다고 지적하였다. 외교통상부 이 차장은 외교통상부는 정보유출 이후에 환경부와 문제를 논의했지만, 환경부는 한 국회의원이 정보유출에 책임이 있다면서, 잘못된 정보가 기사에 난 것은 환경부의 의도가 아니라고 주장하였다.  이 차장은 외교통상부가 공개적으로 기사내용을 고칠까 고려했지만, 기사에 쏠릴 관심을 피하기 위해서 그렇게 하지 않기로 결정하였다고 말하였다.
+</WRAP>
+===== 안보협의회의 의제:  추후 결정 =====
+<WRAP column 70% justify>
+9. (기밀) 안보정책구상 비공개 회의에 마지막 안건은 10월 17일 워싱턴에서 한미 국방장관 안보협의회의에서의((번역 주 SCM [Security Consultative Meeting])) 의제였다. 그러나 시간의 부족, 북한 지도자 김정일의 건강문제에 대한 소식이 계속되고 있고 기타 문제들도 최종 의제 결정에 큰 영향이 있어, 세드니 부차관보 와 전 실장은 안보협의회의 의제를 나중에 논의하기로 했다.
+
+10. (기밀) 이 보고는 세드니 부차관보가 승인했다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/---11/08seoul1844|프와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.</WRAP>
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1844.rtf>
+C O N F I D E N T I A L SEOUL 001844 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 09/17/2018 
+TAGS: PBTS PGOV PHSA PINS MARR KS KN
+SUBJECT: SPI CLOSED SESSION:  IRAQ, AFGHANISTAN, BURDEN 
+SHARING, SCM AGENDA 
+ 
+REF: A. REF: A) SECSTATE 96122 (IRAQ COALITION DEMARCHE) 
+     ¶B. B) SECSTATE 93225 (ANA DEMARCHE) 
+ 
+Classified By: POL M/C Joseph Y. Yun REASONS 1.4 (b/d). 
+ 
+¶1.  (CO) SUMMARY:  DASD David Sedney met with MND Deputy 
+Minister Jeon on September 10 for a closed meeting of the 
+U.S.-ROK Security Policy Initiative (SPI).  The discussed the 
+following four issues: 
+ 
+-- DASD Sedney informed DM Jeon of the reftel A decision that 
+would result in the drawdown in Iraq of all remaining ROK 
+troops by the end of this year.  Jeon called it good news. 
+ 
+-- Sedney urged the ROKG to send a survey team to Afghanistan 
+to shape South Korea's stabilization and development package 
+for 2009.  He explained why it was so important for the ROK 
+to send a clear signal that it would not stand by and allow 
+the terrorists to win. 
+ 
+-- DM Jeon praised the joint effort to work out a solution to 
+the Combined Defense Improvements Project (CDIP) funding 
+shortfall problem.  They agreed that when a satisfactory 
+solution was reached, the issue could be dropped as an 
+element in the SMA burden-sharing negotiations. 
+ 
+-- Jean and Sedney agreed (partly due to changing 
+circumstances, e.g. the reported illness of DPRK leader Kim 
+Jong-il) to set the agenda for the October 17 Security 
+Consultative Meeting in Washington at a later date.  END 
+SUMMARY 
+ 
+¶2. (CO) David Sedney, Deputy Assistant Secretary of Defense 
+for East Asia, met with Jeon Jei-guk, Republic of Korea 
+Deputy Minister for Policy and Public Affairs, on September 
+10 for a closed meeting of the U.S.-ROK Security Policy 
+Initiative (SPI) prior to the start of the SPI Plenary.  DASD 
+Sedney was also accompanied by EAP/K Director Kurt Tong and 
+U.S. Forces Korea (USFK) J5 Major General Frank Panter. 
+During the meeting they discussed four of the more sensitive 
+Alliance issues:  Iraq, Afghanistan, the Combined Defense 
+Improvements Project (CDIP) funding issue, and the agenda for 
+the Security Consultative Meeting (SCM) to be held in 
+Washington on October 17.  Commenting on those topics, DM 
+Jeon stated that they are sensitive not because of any 
+fundamental differences between the U.S. and ROK, but because 
+a segment of the ROK population would criticize the results 
+if we were not careful as to how we addressed and resolved 
+those concerns. 
+ 
+IRAQ:  ZAYTUN UNIT COMING HOME 
+------------------------------ 
+ 
+¶3. (CO) DASD Sedney began the meeting by informing DM Jeon 
+that EAP Assistant Secretary of State Chris Hill had notified 
+the ROK Ambassador to the U.S. that the Government of Iraq 
+was planning to announce its decision on the composition of 
+Coalition forces for 2009, and that the ROK's Zaytun Unit 
+would not be asked to remain in Irbil beyond the end of this 
+year.  Sedney delivered ref A talking points and explained 
+that the decision was the result of internal deliberations 
+by, and with, the Government of Iraq, and was also due to the 
+fact that there has been great progress throughout Iraq, 
+including in the north where the ROK's mission in Northern 
+Iraq had been successful.  DASD Sedney praised the ROK's 
+Zaytun Unit -- citing their courage and performance -- and 
+expressed the USG's deep appreciation for their contribution. 
+ He cited the President's September 9 speech at the National 
+Defense University in which he announced the U.S. would 
+reduce the level of our own forces in Iraq by 8,000 troops in 
+keeping with our policy of "Return on Success." 
+ 
+¶4. (CO) Deputy Minister Jeon said it was very good news that 
+the situation in Iraq was improving, and that some U.S. 
+troops would be able to leave Iraq soon.  He said that was 
+all due to the passion and effort of the United States toward 
+peace and stability.  He added that once the ROK troops had 
+returned to Korea he was sure the ROKG would be able to find 
+other ways to contribute to the Alliance, including 
+ 
+strengthening our combined defense against the DPRK.  I am 
+glad that we could start off this SPI with good news, Jeon 
+said. 
+ 
+AFGHANISTAN:  ROK SURVEY TEAM 
+----------------------------- 
+ 
+¶5. (CO) Turning to Afghanistan, Deputy Minister Jeon informed 
+DASD Sedney that as a result of the USG ref B demarche on the 
+need for assistance in growing the Afghan National Army 
+(ANA), the ROKG was undertaking a comprehensive review of the 
+assistance package it would provide in 2009.  Sedney urged 
+that the ROKG send a survey team to Afghanistan as soon as 
+possible, comprising representatives of all relevant 
+agencies, for the purpose of developing an expert 
+understanding of the situation on the ground and a  clearer 
+sense of the kinds of ROK assistance that would be most 
+helpful there.  He explained that the ANA demarche was a 
+global call for financial support and urged the ROK respond 
+positively.  At the same time, we encouraged the ROKG to 
+carry out a survey focused on the provision of military 
+forces, police training, and equipment. 
+ 
+¶6. (CO) Mr. Sedney explained it is so important for the ROK 
+to "come back to Afghanistan."  He stated that if the ROK 
+gives in to the Taliban we all lose in the War on Terror. 
+Sedney noted the Taliban message to the ROK (REF: Negroponte 
+cable) trying to intimidate the ROK. Submitting to this 
+pressure lets the Taliban win.  In August, noting that 
+President Sarkozy had flown to Afghanistan, had announced 
+French troops would continue in Afghanistan, and had stated 
+that France would never allow the terrorists to win.  Sedney 
+urged the ROKG to make a similar statement in word and deed 
+as soon as it was ready to do so.  Jeon replied only that he 
+would "reflect" upon what DASD Sedney had said, while MOFAT 
+North American Affairs DDG Lee Baek-soon added that the ROK 
+would do "what was within its capacity." 
+ 
+CDIP:  A SOLUTION IN THE WORKS 
+------------------------------ 
+¶7. (CO) DM Jeon praised General Panter and his ROK 
+counterpart, MND International Policy Bureau DDG Choi, for 
+their efforts to work out a solution to the shortfall in ROK 
+funding for past Combined Defense Improvements Project (CDIP) 
+obligations.  He said he understood that the situation was 
+less than ideal, but that a solution was taking shape that he 
+hoped would soon resolve the situation.  (Note: After earlier 
+claiming it would be unable to fund any portion of the 
+shortfall, MND has proposed to provide USD 98 million over 
+the next three years to build a much needed second runway at 
+Osan Airbase.  The U.S. has requested that the ROK also fund 
+USD 16 million for improvements in the HTACC at Osan). 
+General Panter stated that if a satisfactory solution could 
+be found, USFK would be willing to drop the issue from the 
+Special Measures Agreement (burden-sharing) negotiation as 
+the MOFAT chief negotiator had requested.  DDG Choi stated 
+that big strides had been taken and the he was confident an 
+acceptable solution was forthcoming. 
+ 
+DE-POLITICIZING ALLIANCE ISSUES 
+------------------------------- 
+ 
+¶8. (CO) In response to a request from Jeon that the CDIP 
+issue be handled quietly, and that the U.S. keep other 
+sensitive Alliance issues -- e.g. SMA and camp returns -- out 
+of the media spotlight, DASD Sedney pointed to a quote in the 
+Korean papers from the ROK Ministry of the Environment that 
+had made headlines that very morning on the issue of camp 
+returns.  He said he was surprised and disappointed at the 
+story, which contained false information, and pointed out 
+that it put him in the difficult position of either allowing 
+the falsehoods to remain unchallenged, or publicly disputing 
+them -- both bad choices.  MOFAT DDG Lee stated that MOFAT 
+had discussed the matter with MOE after seeing the leak, but 
+that MOE had claimed a member of the National Assembly was 
+responsible for it, and that it had not been their intention 
+to put out misleading information.  DDG Lee said MOFAT had 
+considered publicly correcting the record, but had elected 
+not to do so in the end to avoid adding to the attention 
+ 
+being given to the story. 
+ 
+SCM AGENDA:  TBD 
+---------------- 
+ 
+¶9. (CO) The final item discussed in the SPI closed session 
+was the agenda for the SECDEF-ROK DEFMIN SCM meeting to be 
+held in Washington on October 17.  However, due to a shortage 
+of time and the fact that developing news over the health of 
+North Korean leader Kim Jong-il and other matters could 
+greatly impact the final agenda, DASD Sedney and DM Jeon both 
+agreed to discuss the agenda later. 
+ 
+¶10. (UN) This report has been cleared by DASD Sedney. 
+VERSHBOW
+</file>

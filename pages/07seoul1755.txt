@@ -1,0 +1,94 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL1755  |  2007-06-08 08:02  |  기밀  |  주한미국대사관  |  {{tag>PREL EAID EAGR WFP KS KN }}  |
+====== 제 목: 한국 정부, 북한 소재 세계식량계획(이하 WFP) 프로그램 지원을 꺼려 ======
+기 밀 SEOUL 001755 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+ 
+행정명령 12958: 비밀해제: 06/08/2017 
+태그: PREL(([External Political Relations])), EAID(([Foreign Economic Assistance])), EAGR(([Agriculture and Forestry])), WFP(([World Food Program])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 한국 정부, 북한 소재 세계식량계획 프로그램 지원을 꺼려 
+참조: 가. STATE 78613 [[07seoul1557|나. SEOUL 1557]] 
+번역자 제공 참조: [[07seoul2158|07SEOUL2158]]
+분류자: 정치 참사관 대리 대사((A/POL Brian McFeeters)).  근거 1.4 (b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/09/09 21:24//
+
+1. (미분류) 행동 요청: 4문단을 보라.<WRAP right round box 30%>//**미국은 대북 지원을 할 생각도 없으면서, 한국에겐 손 벌려?**// 미국정부가 세계식량계획을 통해 어떤 지원을 할 계획인지 묻자, 그 대답을 국무부에 요청하는 장면이 하이라이트 된 부분이다. 다시 말해 미국은 전혀 계획이 없었으면서, [[07seoul1557|제 목: 5월 말 대북 쌀 지원이 시작되지만 6자 회담과의 연계는 유지]]의 7문단에 나오듯이 미국정부는 세계식량계획의 대북 식량 사업의 기금이 곧 동날까 걱정이라며 한국정부의 즉각적인 지원을 권고하는 장면에서 한국에 떠넘기는 듯한 모습을 알 수 있다.---미국은 무슨 이유에서 인지 전혀 대북지원을 할 생각이 없으면서, 한국에 돈 대라고 조르는 장면이다. 또한, 7월 18일 [[07seoul2158|제 목: 로마 주재 대사관에서 북한 식량 부족 관련 실무자 회의 참석]]이라는 전문을 보면, 북한 식량 부족 관련 세계식량계획 회의에 한국정부의 대표단 파견 여부를 확인하고 있다. 즉, 한국정부가 제공할 세계식량계획 기금 문제에 미국이 꽤 신경 썼다는 말이다. </WRAP>
+
+2. (기밀) 6월 8일 정치 참사관 대리 대사는 한국정부가 북한이 세계식량계획을 통한 원조에 대해 열의가 없지만, 이른 시일 내에 세계식량계획의 대북 원조 사업에 한국정부가 지원하라는 권고가 담긴 참조 가의 논지를 조병제 외교통상부 북미국장에게 전달하였다. 조병제의 주된 반응은 한국정부가 세계식량계획을 통한 대북 원조는 북한의 어려운 식량 상황에 대해 주의를 환기해 한국정부 일각에서 즉각적인 대북 쌀 원조를 추진하도록(보류된 40만 톤 할인율 적용된 차관) 압박할 수 있기 때문에 지금 세계식량계획을 통한 지원을 꺼려진다는 말이었다. 그는 세계식량계획이 왜 전 세계적인 긴급 구제요청을 하지 않는지 묻었고 세계식량계획은 한국정부에 직접 접촉해야 한다고 제안하였다.
+
+3. (기밀) 김준환 통일부 지원협력팀장은((번역 주: 이름과 소속이 확인되지 않았다.)) 참조 전문 가의 논지에 대한 응답으로 한국정부는 지금이 세계식량계획을 통한 대북 원조를 제공할 적절한 시기인지 검토하고 있다고 개별적으로 대사관 정무 직원에게 말하였다. 5월 29일~6월 1일 남북 장관급회담에서 한국정부는 미국정부의 메시지와 동일하게 2.13 //“초기조치”// 합의를 북한이 이행할 필요성에 대한 통일된 메시지를 보내기 위해 대북 쌀 지원을 연기하는 등 확고한 태도를 보였다. 긴밀한 조율을 유지하기 위해서 미국정부는 세계식량계획에 어떤 종류의 지원을 하려고 생각하는지 김준환은 물어보았다.
+
+4. (기밀) <wrap hi>대사관은 미국정부가 세계식량계획을 통한 대북 지원을 할 계획인지에 대한 한국정부의 질문에 응답하기 위한 지침을 요청한다</wrap>.
+===== 논평 =====
+
+5. (기밀) 논지를 선명히 하자면, 비록 <wrap hi>외교통상부와 통일부 접선책은</wrap>((번역 주: 조병제와 김준환을 말한다.)) 6월 8일에 세계식량계획 지원 얘기를 꺼내지 않았지만, 다시 말해 세계식량계획을 통한 원조는 대북 지원을 대체하거나 줄이는 게 아닌 추가 지원으로 고려할 거라는 소리다. 5월 18일에 조병제 외교통상부 북미 국장은 세계식량계획을 통한 한국의 지원은 대북 쌀 지원의 대체안이 될 수 없다는 이유로 (1) 한국정부는 2월 27일~3월 2일 남북 장관급회담에서 쌀 40만 톤을 제공한다고 다짐했고, (2) 대북 쌀 지원은 기술적으로 인도적 원조가 아니라 차관이다. (참조 나) 논평 끝.
+스탠튼
+[[https://sites.google.com/site/poirotkr/7/07seoul1755|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL1755.rtf>
+C O N F I D E N T I A L SEOUL 001755 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 06/08/2017 
+TAGS: PREL EAID EAGR WFP KS KN
+SUBJECT: ROKG RELUCTANT TO CONTRIBUTE TO WFP PROGRAM IN DPRK 
+ 
+REF: A. STATE 78613 
+     ¶B. SEOUL 1557 
+ 
+Classified By: A/POL Brian McFeeters.  Reasons 1.4 (b/d) 
+ 
+¶1.  (U) Action Request: See paragraph 4. 
+ 
+¶2.  (C) On June 8, A/POL delivered ref A points recommending 
+that the ROKG contribute to the WFP's DPRK program as soon as 
+possible despite the lack of DPRK enthusiasm for the idea, to 
+Cho Byung-jae, Director-General for North American Affairs at 
+the Ministry of Foreign Affairs and Trade (MOFAT).  Cho's 
+main response was to say that the ROKG was reluctant to 
+contribute to the WFP now because the contribution would call 
+attention to the DPRK's difficult food situation and could 
+lead some in the ROKG to press for immediate bilateral rice 
+assistance (the 400,000 metric tons concessionary loan that 
+is on hold).  He also asked why the WFP was not making an 
+emergency worldwide appeal and suggested that the WFP 
+approach the ROKG directly. 
+ 
+¶3.  (C) Separately, Kim Joon-hwan, Assistance Cooperation 
+Team Director at the Ministry of Unification (MOU), told 
+poloff in response to ref A points that the ROKG was 
+reviewing whether now was the appropriate time to give a 
+contribution to North Korea via the WFP.  At the May 29-June 
+1 inter-Korean ministerial talks, the ROKG had held firm and 
+delayed its bilateral rice assistance to send a unified 
+message on the need for the DPRK to implement the February 13 
+"Initial Actions" agreement, in accord with USG messages.  In 
+order to maintain close coordination, Kim asked what kind of 
+contribution the USG was considering making to the WFP. 
+ 
+¶4.  (C) Post requests guidance on responding to ROKG 
+questions about whether the USG is planning on making a 
+contribution to the WFP for North Korea. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶5.  (C) As a point of clarification, although MOFAT and MOU 
+contacts did not bring up the point on June 8, we believe 
+their earlier comments still stand, namely that WFP aid would 
+be considered in addition to, rather than as a replacement or 
+reduction of, bilateral aid.  On May 18, MOFAT 
+Director-General Cho Byung-jae had told us that any potential 
+ROKG assistance given through the WFP could not be an 
+alternative to bilateral rice aid because (1) the ROKG had 
+committed to providing 400,000 metric tons of rice aid at the 
+February 27-March 2 inter-Korean Ministerial; and (2) 
+bilateral rice aid was technically a loan, rather than 
+(grant) humanitarian assistance (ref B).  END COMMENT. 
+STANTON
+</file>

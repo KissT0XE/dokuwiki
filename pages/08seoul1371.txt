@@ -1,0 +1,96 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1371  |  2008-07-09 08:11  |  기밀  |  주한미국대사관  |  {{tag>PREL PHUM CU SY KS }}  |
+====== 제 목: 한국은 쿠바, 시리아와의 영사관계를 모색 ======
+  * 기 밀 SEOUL 001371 
+
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+
+  * 행정명령 12958: 비밀해제: 07/09/2018 
+  * 태그: PREL(([External Political Relations])), PHUM(([Human Rights])), CU(([Cuba])), SY(([Syria])), KS(([Korea (South)]))
+  * 제 목: 한국은 쿠바, 시리아와의 영사관계를 모색
+
+  * 참조: [[08seoul991|SEOUL 991]]과 [[08seoul1008|SEOUL1008]]
+  *  
+  * 분류자: 공관차석 빌 스탠튼((DCM Bill Stanton.))  근거 1.4 (b/d) 
+  * 번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/22 01:56//
+===== 요점 =====
+
+1. (기밀) 요점: 7월 8일 (미 대사관) 공관차석과 함께한 회동에서, 이용준 외교부 차관보는 한국정부가 쿠바와 시리아와의 영사 관계를 설립하는 협상을 조망 간 시작할 거라고 말하였다. 그러나 이 차관보는 이번 협상이 쿠바와 전면적인 수교 관계로 가는 첫 단계가 아님을 단호히 밝혔다. 요점 끝.
+===== 쿠바 =====
+
+2. (기밀) 이용준 차관보는 한국정부는 오래전부터 쿠바 사무소가 필요함을 절감해왔다고 말하였다. 쿠바 휴가여행은 남한인들 사이에 매우 인기가 높아지고 있다. 작년에만 4,000명의 남한 여행객이 쿠바 여행을 했다; 그 중 일부는 여권을 분실해 상당기간 발이 묶여야만 해야만 했다. 또한 한국의 쿠바 무역은 성장하고 있으며, 현재 연간 총 미화 2억 달러에 달하고 있다. 그래서 외교통상부는 쿠바와 영사관계를 설립하는 협상을 조망한 개시할 것이다. 쿠바와의 협상을 전면적인 수교 관계로 가는 첫 단계로 보지 말아야함을 이 차관보는 강조하였다. 오히려 3,4명의 한국 직원이 근무할 하바나 영사관은 남한 여행객과 사업가 대상으로 커지고 있는 영사 업무의 요구에 부응하는 기능이다. 공관 차석은 이 정보를 미국 정부에 전달하겠다고 이용준에게 말하였다. 
+===== 시리아 =====
+
+3. (기밀) 이 차관보는 과거 시리아 정부는 북한과의 가까운 관계로 말미암아 한국정부와의 외교 관계 설립을 거부해왔다. 남한은 시리아에 전혀 혹은 거의 관심이 없다. 그러나 한국정부는 시리아에 여행 중이거나 근무하는 한국인을 보호하기 위해 영사관을 원한다. 이용준은 최종 결정은 안 났지만, 외교통상부는 협상을 시작하기 위해 조망 간 시리아와 접촉할 공산이 크다고 말하였다. 
+===== 논평 =====
+
+4. (기밀) 우리는 외교통상부가 쿠바와의 영사관계를 설립하길 원함을 오래전부터 알고 있었으며(참조 전문을 보라), 쿠바는 한국이 수교나 영사관계를 설립하지 않은 3개 국가 중 하나다; 나머지 국가는 시리아와 마케도니아이다. 우리는 쿠바 관련해 한국정부의 계획에 대한 미국 정부의 답변이 있다면 감사하게 생각할 것이다. 시리아와 관련해 우리는 남한의 영사관 요구는 레바논 현지 한국 평화유지군의 주둔이 그 이유일 공산이 크다고 추정한다. 시리아의 북한과의 강력한 유대관계를 고려할 때, 한·시리아 협상은 오랜 시일 소요될 수 있다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/11/08seoul1371|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1371.rtf>
+C O N F I D E N T I A L SEOUL 001371 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 07/09/2018 
+TAGS: PREL, PHUM, CU, SY, KS 
+SUBJECT: ROK TO SEEK CONSULAR RELATONS WITH CUBA AND SYRIA 
+ 
+REF: SEOUL 991 AND PREVIOUS 
+ 
+Classified By: DCM Bill Stanton.  Reasons 1.4 (b/d) 
+ 
+1. (C) Summary: In a July 8 meeting with the DCM, ROK Deputy 
+Foreign Minister Lee Yong-joon said that ROKG would soon 
+begin negotiations on establishing consular relations with 
+Cuba and Syria.  DFM Lee was adamant, however, that this was 
+not a first step toward full diplomatic relations with Cuba. 
+End Summary. 
+ 
+CUBA 
+---- 
+ 
+2.  (C) DFM Lee Yong-joon told the DCM that for some time the 
+ROKG had felt an acute need for an office in Cuba.  Vacations 
+in Cuba were becoming quite popular among South Koreans. 
+Last year, some 4000 South Korean tourists had traveled to 
+Cuba; some of them had lost their passports and were stranded 
+for a considerable time.  Also, Korean trade with Cuba was 
+growing, now totaling some USD 200 million a year. 
+Therefore, the Ministry of Foreign Affairs and Trade (MOFAT) 
+would soon begin negotiations on establishing consular 
+relations with Cuba, DFM Lee said.  This should not be seen 
+as a first step toward establishing full diplomatic relations 
+with Cuba, Lee emphasized.  Rather, the consular office in 
+Havana, staffed by 3 or 4 Korean officers, would simply 
+function to meet the growing consular needs of South Korean 
+tourists and businessmen.  DCM told Lee that he would convey 
+this information to Washington. 
+ 
+SYRIA 
+----- 
+ 
+3.  (C) DFM Lee said that Damascus had refused in the past to 
+establish relations with Seoul because of its close relations 
+with North Korea.  South Korea had little or no interest in 
+Syria.  Still, the ROKG wanted a consular office in Syria to 
+protect Koreans traveling or working in Syria.  Lee said that 
+a final decision had not been made, but that it was likely 
+that MOFAT would soon approach Syria to begin negotiations. 
+ 
+COMMENT 
+------- 
+ 
+4.  (C) We have known for a while that MOFAT wanted to 
+establish consular relations with Cuba (see refs), one of 
+three countries with which it has no diplomatic or consular 
+relations; the others are Syria and Macedonia (over its 
+name).  We would appreciate Washington's response, if any, to 
+the ROKG's plan on Cuba.  In regard to Syria, we suspect 
+South Korea's newly felt need for a consular office is likely 
+due to the presence of South Korean peacekeeping troops in 
+Lebanon.  Given Syria's very strong bilateral ties to North 
+Korea, ROK-Syria negotiations could take a long time. 
+VERSHBOW
+</file>

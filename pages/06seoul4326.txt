@@ -1,0 +1,64 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL4326  |  2006-12-20 00:30  |  미분류  |  주한미국대사관  |  {{tag>PARM ENRG KNNP KS RS }}  |
+====== 제 목: 한국, 러시아 플루토늄 원자로 교체를 위한 새로운 지원 ======
+미 분 류 SEOUL 004326  
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+국무부 산하 국제안보·비확산국/협력적위협감축과 파트 및 메스테포드((번역 주: ISN: Bureau of International Security and Non-proliferation/Cooperative Threat Reduction: CTR))
+국무부 산하 동아시아태평양국/한국과
+에너지부 산하 국립 핵안보국---데딕, 터너, 버트, 맥코이, 그리고 쇼터((번역 주: [DOE] FOR [NNSA] ,Department Of Energy For National Nuclear Security Administration ))
+
+행정명령 12958: 해당없음((N/A)) 
+태그: PARM (([Arms Controls and Disarmament])), ENRG (([Energy and Power])), KNNP (([Nuclear Non-Proliferation])), KS (([Korea (South)])), RS (([Russia; Wrangel Islands])) 
+제 목: 한국, 러시아 플루토늄 원자로 교체를 위한 새로운 지원
+ 
+참 조: 가. 05 SEOUL 5286  나. STATE 166965 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/21 01:36//
+
+1. 2005년 12월 한국 외교통상부는 무기급 플루토늄 생산사업의((번역 주: the Elimination of Weapons-Grade Plutonium Production [EWGPP])) 제거에 기여할 수 있도록 미국 에너지부와((번역 주: 영어: United States Department of Energy, DOE)) 양해각서를 체결하였다. (참조 가) 젤레크노고르스크 플루토늄 원자로의 폐쇄하는데 한국은 2005년 미화  25만 달러를((번역 주: 1달러에 1100원으로 환산하면, 2억 7천500만 원)) 지원하였다.
+
+2. 2006년 12월 19일 미국 에너지부를 대표하는 엔드루 퀸 경제 공사 참사관과((번역 주: Economy Minister Counselor Andrew Quinn)) 외교통상부를 대표하는 국제기구국 최성주 국장직무대리는((번역 주:  Acting Director General for International Organizations Choi Sung-joo)) 해당 사업에 대한 추가적인 지원이 가능하도록 2005년 양해각서 수정안에 서명하였다. 2006년이 가기 전에, 한국은 추가로 25만 달러를((번역 주: 1달러에 1100원으로 환산하면, 2억 7천500만 원)) 지원할 계획이다.
+
+3. 수정안의 서명 원안은 //”1번 변경안”//이라고 불리우는데, 국무부 내 국제안보·비확산국((번역 주: ISN: Bureau of International Security and Non-proliferation))/협력적위협감축과((Cooperative Threat Reduction: CTR)) 피터 오트의 [[http://100.naver.com/100.nhn?docid=771126 | 외교행랑]]에 보관되어 있다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/5/06seoul4326|프와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 06SEOUL4326.rtf>
+UNCLAS SEOUL 004326 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR ISN/CTR POTT AND MSTAFFORD 
+STATE ALSO FOR EAP/K 
+DOE FOR NNSA -- DEDIK, TURNER, BURTT, MCCOY, AND SHORTER 
+ 
+E.O. 12958: N/A 
+TAGS: PARM ENRG KNNP KS RS
+SUBJECT: KOREA RENEWS CONTRIBUTION TO HELP REPLACE RUSSIAN 
+PLUTONIUM PLANT 
+ 
+REF: A. 05 SEOUL 5286 
+     ¶B. STATE 166965 
+ 
+¶1.  In December 2005, the Korean Ministry of Foreign Affairs 
+and Trade (MOFAT) signed a Memorandum of Understanding with 
+the U.S. Department of Energy to enable it to contribute to 
+the Elimination of Weapons-Grade Plutonium Production (EWGPP) 
+Program (Ref A).  Korea contribued USD 250,000 in 2005 toward 
+the dismantling of the Zheleznogorsk plutonium reactor. 
+ 
+¶2.  On December 19, 2006, EMIN Andrew Quinn, representing 
+DOE, and Acting Director General for International 
+Organizations Choi Sung-joo, representing MOFAT, signed an 
+amendment to the 2005 MOU to permit additional Korean 
+contributions to the program.  Before the end of calendar 
+2006, Korea plans to make an additional contribution of USD 
+250,000. 
+ 
+¶3.  An original signed copy of the amendment, called 
+"Modification No. 1," is being pouched to Pieter Ott in 
+ISN/CTR. 
+VERSHBOW
+</file>

@@ -1,0 +1,27 @@
+
+====== PlayGround ======
+
+=== 이곳은 위키 문법을 마음놓고 테스트하는 곳입니다. 마음껏! ===
+
+^ 문서번호 ^ 작 성 일 ^ 공 개 일 자	^ 분 류	^ 출 처 ^
+| 08SEOUL1957 | 2008-10-06 10:00 |	2011-08-30 01:44 |	CONFIDENTIAL |	서울대사관 |
+
+===== 이렇게 주제를 적으면 목차가 니다. =====
+
+===== 또 생깁니다. =====
+
+==== 그 하위목차 ====
+
+=== 또 아래 ===
+
+== 또 아래 ==
+
+여기는 박스 테스트입니다. 박스안에도 글을 넣을수가 있어요
+
+<box 80% round orange|이건 제목>박스입니다.</box>
+<box 50% left blue>이렇게 비율도 정할수가 있어요</box|a caption>
+<box 60% round #f99 #fc9 #fcc #f60|title>색깔도 지정할수 있어요</box|caption>
+
+| PonySweetie | [[06SEOUL1622]] | 유엔난민기구 한국 지부, 북한 망명 신청자 문제 이관 중단 요청 | http://wikileaks.org/cable/2006/05/06SEOUL1622.html | | 
+| PoirotKr | [[08SEOUL616]] | 개성공단추방은 북한의 불만의 표시 | https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B1I_hqeGvjj9OTNkNzU5ZWUtMGZiZC00OTcxLWJmMGMtNGY5MzI3ZWQ0Zjlm&hl=en_US ||
+

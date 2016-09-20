@@ -1,0 +1,75 @@
+^  참조문서번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1814  |  2009-11-16 09:39  |  기밀   |  주한 미국 대사관  |  {{tag>PREL PGOV ECON KDEM KN KS }}  |
+
+====== 제 목: 한국전쟁 60주년을 맞아 ‘2+2’ 회의 제안 ======
+기 밀 SEOUL 001814 
+베이징 대사관은 국가안전보장회의 제프리 베이더 선임보좌관에게 전달하세요((번역 주: NSC SENIOR DIRECTOR BADER [Jeffrey Bader]))
+스티븐스 대사가 국무부 동북아시아태평양 커트 캠벨 차관보와((번역 주: EAP ASSISTANT SECRETARY CAMPBELL [Kurt Campbell ])) 국가안전보장회의 베이더 수석국장에게
+
+행정명령 12958: 비밀해제: 11/16/2029 
+태그: PREL (([External Political Relations])), PGOV (([Internal Governmental Affairs])), ECON (([Economic Conditions])), KDEM (([Democratization])), KN (([Korea (North)])), KS (([Korea (South)])) 
+제 목:  한국전쟁 60주년을 맞아 ‘2+2’ 회의 제안
+분류자: 스티븐스 대사 근거: 1.4 (b/d)
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/21 05:25//
+
+1. (기밀) 커트/제프리 귀하: 청와대는 미국 대통령의((번역 주: [POTUS] President of the United States)) 방문의 결과물의 하나로 한국전쟁 60주년을 기념해 2010년에 일회성 "2+2" 장관급회담을 발표하자고 제안하였습니다. 대사는 이 제안은 고려할 가치가 있는 제안이라고 확신합니다. 국무장관, 국방성 장관과 한국 상대역이((번역 주: 외교통상부 장관과 국방부 장관을 말한다)) 등장하는 세간의 이목을 끄는 행사는 대략 200만 명의 생존 한국전 용사에 대한 예우일 뿐만 아니라 60년에 걸친 성공적인 한미동맹을 부각하면서 앞으로 더욱 확대될 양국의 협력관계의 앞날을 뽐낼 수 있는 기회입니다. 젊은 한국인들은 특히 한국전쟁 당시의 우리가 치렀던 희생이나 근대 한국의 성공에 기여한 미국의 공헌에 대해서 접할 기회가 없었습니다. 이번 기회가 그런 문제를 해결할 유일한 기회가 될 것입니다.
+
+2. (기밀) 기념행사에 양측의 고위급이 참여하면, 미국 외교정책의 위대한 성공담으로 국제적인 이목을 끌 수 있습니다. 한국전 이후 한미 동반자 관계와 한국의 발전은 양국 모두에 거대한 업적으로 자리잡고 있습니다. 한국의 경제적 성공은 오랫동안 찬사를 받아왔고, 최근 수년간 번성하는 민주주의 제도와 풍요로운 시민 사회는 아시아에서 민주주의 가치의 기둥으로 확고한 입지를 다졌습니다. 미국정부 고위급 인사가 기념행사에 참여하게 되면 그 무엇보다도 한국이 이룩한 기적적인 르네상스라는 중요한 측면에 대해 주변국의 지대한 관심을 불러올 것입니다.
+
+3. (민감하지만 미분류) 마지막으로 아마도 가장 중요하게는 여전히 생존해 있는 상당수의 한국전 베테랑들을 예우하는 마지막 10년제(祭) 이정표가 될 것입니다. 재향 군인회 통계에 의하면, 50주년 기념일인 2000년에 대충 400만의 한국전쟁 용사들이 생존해 있었다고 합니다; 단 200만 명만이 현재도 생존해 있고, 재향 군인회 통계를 보면 2010년은 한국전 용사의 평균 나이가 79살이 되는 해입니다. 
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/09seoul1814|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1814.rtf>
+C O N F I D E N T I A L SEOUL 001814 
+ 
+ 
+BEIJING PLEASE PASS TO NSC SENIOR DIRECTOR BADER 
+FROM AMBASSADOR STEPHENS FOR EAP ASSISTANT SECRETARY 
+CAMPBELL AND NSC SENIOR DIRECTOR BADER 
+ 
+E.O. 12958: DECL: 11/16/2029 
+TAGS: PREL [External Political Relations], PGOV [Internal Governmental Affairs], ECON [Economic Conditions], KDEM [Democratization], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: 2+2 MEETING TO MARK 60TH ANNIVERSARY OF KOREAN WAR 
+ 
+Classified By: Ambassador Stephens.  Reasons: 1.4 (b/d). 
+ 
+¶1. (C) Kurt/Jeff:  As a deliverable for the POTUS visit, the 
+Blue House has proposed announcing a one-off "2 plus 2" 
+ministerial in 2010 to commemorate the 60th anniversary of 
+the beginning of the Korean War.  I strongly believe this is 
+a proposal worth considering.  A high-profile event featuring 
+the Secretary of State, Secretary of Defense and their ROK 
+counterparts would not only honor the approximately two 
+million living Korean War veterans but also highlight the 
+success of the Alliance over 60 years and showcase the 
+prospects for even greater future cooperation.  Young Koreans 
+especially are not often exposed to the sacrifice we made 
+during the war and its contribution to modern Korea's 
+success.  This would be a unique opportunity to address that 
+problem. 
+ 
+¶2. (C) High-level bilateral participation in commemorative 
+events would call international attention to a great success 
+story for American foreign policy.  The U.S.-ROK partnership 
+and Korea's development since the Korean War stand as 
+enormous achievements for both our countries.  Long hailed 
+for its economic success, in recent years Korea's thriving 
+democratic institutions and rich civil society have 
+solidified its standing as pillar of democratic values in 
+Asia.  Senior USG participation in commemorative events would 
+help bring, among other things, greater regional attention to 
+this important dimension of Korea's miraculous renaissance. 
+ 
+¶3. (SBU) Finally, and perhaps most importantly, the 60th 
+anniversary will be the last decennial milestone to honor 
+Korean War veterans while significant numbers of them are 
+still alive.  According to Veterans Administration 
+statistics, there were roughly four million Korean War 
+veterans alive for the 50th anniversary in 2000; only two 
+million are still with us, and the VA estimates that by 2010 
+the average age of Korean War veterans will be 79. 
+ 
+ 
+STEPHENS
+</file>

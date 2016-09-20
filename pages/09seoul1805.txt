@@ -1,0 +1,86 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL1805  |  2009-11-13 08:20  |  기밀  |  주한미국대사관  |  {{tag>PGOV KS }}  |
+====== 제 목: 정운찬 총리, 한국의 국제적 역할을 이해하지만 국내 문제에 집중  ======
+기 밀 SEOUL 001805 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+행정명령 12958: 비밀해제: 11/13/2029 
+태그: PGOV (([Internal Governmental Affairs])), KS (([Korea (South)])) 
+제 목: 정운찬 총리, 한국의 국제적 역할을 이해하지만 국내 문제에 집중
+참조: [[09SEOUL1548 | SEOUL 1548 ]]
+분류자: 대사 캐슬린 스티븐스 ((번역 주:Ambassador Kathleen Stephens.)) 근거 1.4 (b), (d). 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/21 09:05//
+===== 요점 =====
+1. (기밀) 11월 12일 정운찬 총리는 대사를 정겹게 맞이해 30분간 회동을 하였다. 대사는 새로 취임한 총리에게 축하 인사를 하고, 임기 초 매우 바쁜 일정 가운데도 제임스 스타인 버그 미국 국무부 부장관과 게이츠 국방성 장관을 비롯한 미국 당국자를 접견해준 것에 대해 감사를 표명하였다. 정 총리는 한미 관계의 상태에 관한 대사의 견해를 물었다. 정운찬은 한국이 지방재건팀을 아프간에 보내기로 한 주요한 이유는 그가 보기에 동맹국으로써 미합중국을 도와야 할 필요를 느꼈기 때문이라고 말하였다. 그러나 정운찬은 한국이 세계 무대에서 더욱 적극적인 역할을 해야 할 책무가 있다는 점을 이해하게 되었다고 말하였다.
+
+2. (기밀) 정운찬은 11월 10일 남북 서해교전은((번역 주: 국방부는 이른바 '대청해전'이란 이름을 붙였다.)) 한미 동맹이 한국에 얼마나 중요한지 일깨워 준다고 말했다. 그는 미국이 한국을 위해 그간 해왔던 모든 일에 감사한다고 그는 말하였다. 정운찬의 회동 일정은 미국을 따뜻하게 대하는 그의 성향을 보여준다. 대사와 함께한 이번 회동은 9월 29일에 취임한 이후 미국 당국자와 함께한 그의 3번째 회동이다. 그는 여타 대사와의 접견을 계획하지 않았기 때문에 스티븐스 대사와의 회동을 함구해 주길 요청하였다.
+ 
+3. (기밀) 논평: 현재까지 정운찬의 유일한 임무는 세종시 논란을 해결하는 것이었다. (참조 전문)((번역 주: reference telegram)) 정운찬은 한미 관계의 여타 현안에 대한 대사의 설명을 흥미있게 청취했지만, 우리가 구체적으로 요청하기 전까지는 관여할 의향이 없다고 분명히 하였다. 존경받는 중도 학자라곤 하지만, 검증받지 않은 정치가인 정운찬에겐 세종시가 독배가 될 수도 있고, 또는 정치적 미래의 토대가 되는 문제일 수도 있다. 전임 총리들은 대통령과의 관계나 능력 여하에 따라 다른 역할을 수행해왔다. 이명박 대통령이 정 총리를 선택한 것은 오로지 정부의 절반을 세종시로 이전하는 계획을 수정하기 위한 목적으로 세종시 지역 출신인 정운찬을 인선했다고 여겨지고 있다.
+
+4. (기밀) 인적 사항: 미국에서 수년을 유학생활과 교수생활로 보냈지만, 정운찬은 관리(官吏)의 자격으로 통역자 없이 미국 당국자와 소통하길 꺼리는 모습이었다. 정운찬은 마이애미 대학에서 경제학 석사과정을 마쳤고, 프린스턴에서 박사 학위를 받았다. 그는 1976-1978년 2년간 콜롬비아 대학에서 학생들을 가르쳤다. <wrap hi>정운찬은 총리가 되기 전에 미 대사관 직원들과 영어로 소통하였지만, 그는 대사와 함께한 이번 회동에는 줄 곳 통역자에 의존하였다.</wrap>
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/18/09seoul1805|프와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1805.rtf>
+C O N F I D E N T I A L SEOUL 001805 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 11/13/2029 
+TAGS: PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: PRIME MINISTER SEES GLOBAL ROLE FOR ROK, BUT 
+FOCUSED ON DOMESTIC ISSUES 
+ 
+REF: SEOUL 1548 
+ 
+Classified By: Ambassador Kathleen Stephens. Reasons 1.4 (b), (d). 
+ 
+¶1. (C) In a very friendly 30-minute meeting, Prime Minister 
+Chung Un-chan received Ambassador Stephens on November 12. 
+The Ambassador congratulated the Prime Minister on his new 
+position and expressed appreciation for his readiness to 
+receive American officials, including Deputy Secretary 
+Steinberg and Defense Secretary Gates, in the very busy early 
+days of his tenure.  The Prime Minister asked the 
+Ambassador's views on the state of U.S.-ROK relations.  Chung 
+said in his view the primary reason the ROK was sending a 
+Provincial Reconstruction Team (PRT) to Afghanistan was 
+because of the felt need to support the United States as an 
+ally.  But, Chung said, he was also coming to understand that 
+the ROK had an obligation to play a more active role in the 
+world. 
+ 
+¶2. (C) Chung said the November 10 South-North naval clash was 
+a reminder of how important the U.S.-ROK alliance was to the 
+ROK. He was grateful, he said, for all the U.S. had done for 
+Korea.  His meeting schedule is indicative of his warm 
+disposition to the U.S.  His meeting with the Ambassador was 
+Chung's third meeting with U.S. officials since being sworn 
+in on September 29.  He asked us to keep his meeting with 
+Ambassador Stephens quiet because he does not plan on 
+receiving other Ambassadors. 
+ 
+¶3. (C) Comment:  To date, Chung's sole task has been to 
+resolve the Sejong City controversy (reftel).  Chung listened 
+with interest to the Ambassador's description of other issues 
+in the bilateral relationship but made it clear he did not 
+intend to engage unless we specifically requested it.  Sejong 
+City may be a poisoned chalice, or it may be the issue on 
+which Chung, a respected centrist scholar but an untested 
+politician, builds a political future.  Previous Prime 
+Ministers have played different roles, depending on their 
+abilities and relationship to the President.  It is widely 
+believed that President Lee chose Chung, who is a native of 
+the Sejong City area, solely to revise the plan to relocate 
+half of the government to Sejong City. 
+ 
+¶4. (C) Bio Note:  Despite having spent years in the U.S. 
+studying and teaching, Chung is reluctant in his official 
+capacity to interact with U.S. officials without an 
+interpreter.  Chung completed an MA in Economics at Miami 
+University and a Ph.D. at Princeton.  He taught for two years 
+at Columbia University from 1976-1978.  Before becoming Prime 
+Minister, Chung interacted with Embassy officers in English, 
+but he relied on an interpreter throughout his meeting with 
+the Ambassador. 
+STEPHENS
+</file>

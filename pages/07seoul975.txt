@@ -1,0 +1,106 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL975  |  2007-04-03 09:18  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>PGOV PINR PREL KS }}  |
+====== 제 목: 한나라당 경선 일정—세부 일정 조율 ======
+  * 기 밀 SEOUL 000975 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 국방부망 배포
+  * 행정명령 12958: 비밀해제: 03/20/2027 
+  * 태그: PGOV(([Internal Governmental Affairs])), PINR(([Intelligence])), PREL(([External Political Relations])), KS(([Korea (South)]))
+  * 제 목: 한나라당 경선 일정—세부 일정 조율 
+  * 분류자: 정치 공사 참사관 죠셉 윤. 근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/06 11:07//
+===== 요점 ===== 
+1.(기밀) 요점: 3월 19일 야당인 한나라당은 8월 21일 이전에(8월 19일이 가장 유력) 당내 대선 경선을 열고, 자격이 갖춘 참가자는 한나라당 대의원(40,000명), 당원(60,000명), 국민(60,000명) 그리고 여론 조사 결과(40,000명) 등으로 분배된 20만 명으로 합의했다. 이전 한나라당 경선은 6월 22일 전에 있었지만, 당 관계관들은 집권당인 우리당이 가을까지는 당내 경선을 갖지 않는 이유로 차후 날짜로 합의했다. 어떻게 해당 경선일정이 치를 것인가를 포함한 해결 되야 할 세부 사항들이 여전하다. 요점 끝.
+===== 기본 사항 =====
+2.(기밀) 한나라당 경선의 최종 규칙을 마무리 짓기 위한 첫 단계는 경선 선거관리위원회를 발족하는 것이다. 다음은 후보자들이 4월 중순이나 말께 반드시 등록해야한다. 경선에 참가를 위한 등록이후에는 다른 정당의 대선 후보나 심지어 무소속 후보로도 출마가 허용되지 않는다. //“후보자 검증”//은 4월 말이나 5월에 이루어져야만 한다. 대선 주자 검증위원회는 당 안팎의 7~8명으로 구성될 것이고 2 주간 지속될 것이다.
+
+3.(기밀) 경선과정은 아직은 확정되지 않았다. 7월과 8월 중 4주에서 8주에 걸쳐 경선이 벌어질 수있으며, 8월 19일 경 동시 다발식 또는 (미국과 같이) 순차적으로 경선이 열릴 것이다7. 경선 과정은 선거구 등록, 여론조사, 투표 실행 및 관리 비용을 포함한 50억의 비용이(480만 달러) 들 것이다. 각 후보자의 기금 조성상의 금액에 대한 엄격한 규칙이 있다. 그러나 과거 선거에서 상당한 양의 돈이 보고되지 않아왔고, 불법적인 선거 자금조성으로 인해 결국엔 수 차례의 징역형을 받은 바있다.
+===== 계속되는 논쟁 =====
+4.(기밀) 한나라당 선두 주자인 이명박과 2위인 박근혜의 대변인들은 모두 마지막 경선이 치러질 때 전에 추가적인 치열한 협상이 남아있다고 정치 참사관에게 말한 가운데, 현재 논쟁을 사고 있는 주된 쟁점은 어떻게 여론조사 혹은 인기도가 측정되고 대표될 것인가에 있다. 더 높은 여론 지지율을 보유한 이명박은 4만 표 혹은 자격이 있는 총 20만 표의 20퍼센트를 여론조사 방식으로 원하고 있다. 여론 조사에서 지지율이 훨씬 낮은 박근혜는 전체 유효 득표수의 20퍼센트를 반영하길 원하고 있다. 그렇게 되면 어쩔 수없는 비정형성으로 인해 작은 샘플의 결과로 귀결될 것이고, 당내 투표에 더 큰 비중을 주게 된다((번역 주: 결국엔 강재섭이 중재하면서 이명박에 유리한 방식으로 치러졌다. 자세한 내용은 바깥고리인 한겨레21을 읽어보라)). 
+===== 논평 =====
+5.(기밀) 국회의원들과 당 구성원들은 선두 주자의 후광을 입어 정치적인 미래를 담보하길 바라면서 당내 이명박 지지자들이 급격히 증가해 왔다. 이런 추세가 계속된다면, 이명박이 인기도 조사에서(3월 28일 중앙일보 여론조사 이명박 42.3 대 박근혜 20.7) 두 배 수준의 편안한 선두를 유지할 것이고, 한나라당 대선 후보가 될 것이다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/6/07seoul975|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[http://h21.hani.co.kr/section-021005000/2007/05/021005000200705170660027.html|왜 이명박은 박근혜를 밀어붙이나]] //한겨레21 특집//
+===== 원본 및 내려받기 =====
+<file rtf 07SEOUL975.rtf>
+C O N F I D E N T I A L SEOUL 000975 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/20/2027 
+TAGS: PGOV [Internal Governmental Affairs], PINR [Intelligence], PREL [External Political Relations], KS [Korea (South)] 
+SUBJECT: GNP PRIMARY SCHEDULE - WORKING OUT THE DETAILS 
+ 
+Classified By: POL M/C Joseph Yun. Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY: On March 19, the opposition Grand National 
+Party (GNP) agreed to hold its presidential primary before 
+August 21 (most likely August 19) and the number of eligible 
+participants will be 200,000 split between senior GNP members 
+(40,000), party members (60,000), public voters (60,000) and 
+those representing poll results (40,000).  Previously, the 
+GNP's primary was to occur before June 22, but party 
+officials agreed to the later date since the ruling Uri Party 
+will not have its primary until the fall.  There are still 
+many details to be worked out, including how these primaries 
+should be conducted. END SUMMARY 
+ 
+-------------- 
+NUTS AND BOLTS 
+-------------- 
+ 
+¶2.  (C) The first step toward finalizing the rules for the 
+GNP primary is to establish a party election committee by 
+early April.  Next, candidates must register by mid-to-late 
+April.  After registering to participate in the primary, the 
+candidates are not permitted to run for president with 
+another party or even as independent candidates.  A period of 
+"candidate scrutiny" should occur in late April or May.  The 
+scrutiny committee will comprise 7-8 people from within and 
+outside the GNP and will last for two weeks. 
+ 
+¶3.  (C) The primary election process has yet to be worked 
+out.  It could take place over four to eight weeks in July 
+and August, held sequentially (as in the U.S.) or 
+simultaneously around August 19.  The primary process will 
+cost 5 billion won (about 4.8 million dollars), including the 
+registration of electorate, polling, costs to conduct the 
+voting and election management costs.  There are strict 
+regulations on the amount of money each candidate can raise. 
+However, in all past elections, there have been large sums of 
+unreported and illegal campaign fund-raising and multiple 
+jail terms as a result. 
+ 
+-------------- 
+ONGOING DEBATE 
+-------------- 
+ 
+¶4.  (C) While representatives from both GNP front-runner Lee 
+Myung-bak and number two Park Geun-hye told poloff that 
+further intense negotiations remained before a final primary 
+plan was in place, the main point of contention up for debate 
+now is how polling or popularity will be measured and 
+represented.  Lee, with a much higher public rating, wants 
+40,000 votes, or 20 percent of the 200,000 total eligible to 
+vote allocated for polling.  Park, much lower in the polls, 
+wants 20 percent of the total valid electoral votes counted. 
+Due to inevitable irregularities, this would result in a 
+smaller sample and give greater weight to in-party votes. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶5.  (C) There has been a surge in Lee Myung-bak supporters 
+within the party as lawmakers and party members are hoping to 
+ensure their political future by hopping on the frontrunner's 
+bandwagon.  If this trend continues, Lee, who  maintains a 
+comfortable double-digit lead in popularity polls (42.3 for 
+Lee to 20.7 for Park in a March 28 Joongang Ilbo poll), will 
+be the GNP nominee. 
+VERSHBOW
+</file>

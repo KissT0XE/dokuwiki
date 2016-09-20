@@ -1,0 +1,193 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  07SEOUL2695  |  2007-09-05 08:24  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>EFIN  EINV ECON PGOV  PREL KS }}  |
+====== 제 목: 론스타 무용담은 계속된다: 홍콩상하이은행, 외환은행 입찰 ======
+  * 기 밀 SEOUL 002695 
+  * SIPDIS((번역 주:  SIPDIS, Siprnet Distribution))
+  * SIPDIS
+  * 미국 무역대표부 웬디 커틀러 및 에로우 오거롯에게 전달
+  * 국무부 경제국, 경제에너지비지니스국 -고써트((번역 주: 한글이름은 창작, Heather Goethert (EB/IFD/OIA) goetherthg@state.gov (202) 647-8988)) 동아시아태평양/한국과 -도로시 스터먹((번역 주:  Dorothy Stuehmke, 이 양반은 특이한? 이력이 있다. 송영길이 국회의원시절에 국제인턴비서로 일하다가 현재는 미 국무부 한국과 근무한다. http://bulloger.tistory.com/421)) 귀하
+  * 재무국 국제국/국제안보국((번역 주: International Security Affairs )) 윈십, 크리스트폴로스((번역 주:  CHRISTOPULOS)) 그리고 폿지((번역 주:  POGGI)) 귀하 
+  * 국가안전보장회의 통김((번역 주: Tong, 김동현(통킴) 존스홉킨스대 교수, 자문위원))
+  * 행정명령 12958: 비밀해제: 09/05/2017
+  * TAGS: EFIN (([Financial and Monetary Affairs])), EINV (([Foreign Investments])), ECON (([Economic Conditions])), PGOV (([Internal Governmental Affairs])), PREL (([External Political Relations])), KS (([Korea (South)])) 
+  * 제 목: 론스타 무용담은 계속된다: 홍콩상하이은행, 외환은행 입찰
+  * 참 조: 가 SEOUL 1227 나 SEOUL 1966 
+  * 분류자: 경제 참사관보((번역 주:  A/ECON)) 마이크 스팽글러((번역 주:  MIKE SPANGLER)) 근거 1.4 B&D
+  * 번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/11/24 01:11//
+===== 요점 =====
+1.(기밀) 요 점: 12월 3일 달라스 기반의 비공개 기업투자회사((번역 주:  private equity firm, 정식명칭이다, 국내에선 부동산투자 헤지펀드로 알려져있다)) 론스타 펀드는 자신의 51퍼센트 외환은행지분을 미화 63억 달러에 홍콩상하이은행에 매각하기로 동의했고, 자격심사를 기다리고 있다. 이 매각으로 론스타에게 현재까지 한국내 자신의 최대투자에서 현금화하는 것을 허가하고, 홍콩상하이은행에게는 숙원 이였던 수익성 좋은 한국의 은행시장에 진출을 제공하는 것이다. 이 거래에서 홍콩상하이은행이 세 가지 장애물을 거둬내야 할 필요가 있다; 해당 은행은 (1) 예정된 준수사항을((번역 주:  due diligence, 사전에 나오지 않습니다.)) 10월 15일깨 완성할 것, (2) 2008년 1월 31일깨 금융감독원에 기업인수 신청서를 제출할 것; 그리고 (3) 2008년 4월 30일깨 자격심사를 확보할 것 등이다. 만일 금융감독원이 다음 해 4월 30일깨 기업인수를 승인하지 않는 경우, 입찰동의안이((번역 주:  tender agreement)) 갱신되지 않는 한 위약금없이 만료될 것이다. 많은 참관인들은 금융감독원이 홍콩상하이은행의 신청을 반대할 것으로 예상하는데, 외환은행을 론스타에게 저평가된 금액으로 매각했다는 범죄공모 협의로 진행 중인 소건이 완결될 때까지는 그러할 것이다. 이들 소건이 항소절차 포함해서 3년 정도 걸릴 수 있다. 금융위원회는 이 소건을 언급하면서 이 전에 국민은행 및 싱가포르 개발은행의 외환은행  인수 시도를 거부한 바 있다고 했다. 대사관은 론스타가 매각 자격심사를 확보하기 위한 론스타의 공식적인 요청을 받을 것으로 예상된다. //요점 끝.//
+===== 1999년 이래로 론스타 한국에 상주 =====
+2.(민감하지만비분류) 론스타는 1999년 초에 한국에 상륙했고, 대략 미화 31억 달러를 투자했는데, 사무실용 빌딩인 스타타워, 스타 리싱 및 극동건설과 2003년에 외환은행 등을 포함해 다양한 투자를 했다. 외환은행 투자는 미화 2억 달러 정도로 론스타의 한국내 현재까지 최대 투자로 여겨진다. 2005년 이래로 론스타는 한국에서 다른 새 투자가 확인되지 않고 있지만, 론스타 관계자에 의하면, 부수적으로 저평가되고, 대개 부실자산을 확인해서 //“장기적”//관점으로 관리하고 있다.
+===== 거래 =====
+3.(민감하지만비분류) 9월 3일에 론스타는 외환은행 51퍼센트의 관리지분을 홍콩상하이은행에게 미화 63억 달러에 매각하기로 합의했다. 이 매각으로 현 주식시장 시세에 24퍼센트 할증된 금액을 외환은행에서 현금화하도록 허락하는 것이며, 상당한 이익을 현실화하는 것이다. 이런 잠재적 이익은 감사원, 국세청 그리고 금융감독원 등의 이목을 끌었고, 이들 기관은 과거 2년간 론스타 사무소를 빈번히 압수 수색했고, 론스타가 적절한  거래를 했는지, 이 사업체가 비과세 벨기에의 사무소를 통해 상당한 조세특례를 받는지에 대한 론스타의 주장을 확인하려는 분명한 시도였다. 이러한 공식적인 정밀조사와 부정적 언론의 평가 등의 배경에 두고, 몇몇 론스타 및 이전 외환은행 관리자가 공모를 해서 2003년 4월에 저평가된 매각대금으로 외환은행 인수 그리고 2003년 11월에는 빈번한 주가조작 사기로 외환은행의 신용카드 발행사를 매입했다는 등의 협의로 서울중앙지검이 형사사건을 진행하고 있는 것이다. (참조 가)
+
+===== 세 가지 이정표 =====
+4.(민감하지만비분류) 최근에 서명한 매각동의안은 홍콩상하이 은행에게는 숙원인 한국의 수익성 높은 은행시장에 진입할 기회를 제공하는 것이다. 2004년에 홍콩상하이은행은 한국 제일은행을 매입하려고 시도했지만 스탠다드차타드에게 밀려났다. 홍콩상하이는 현재 외환은행을 매입하기 위한 3가지 장애물을 극복해야 한다. (1) 10월 15일깨 자신의 준수사항을 완수할 것; (2) 2008년 1월 31일깨 금융감독원에 인수신청서를 제출할 것; 그리고 (3) 2008년 4월 30일깨 자격심사를 확보할 것 등이다. 만일 금융감독원이 다음해 1월 31일 경에 인수를 승인하지 않는다면, 홍콩상하이은행은 외환은행을 매입하기 위해 추가적인 미화 1억 3,300만 달러를 반드시 지불해야 한다. 더욱 위태로운 일은, 만일 금융감독원이 4월 30일경 승인에 실패할 경우, 입찰동의안이 위약금 없이 만료될 것이다.
+===== 삼세판할만한 매력 =====
+5.(기밀) 론스타는 이번이 외환은행을 매각하기 위한 지난 과거를 통틀어 3번째 시도에 접어들었다. 2006년 10월 국민은행의 외환은행 66퍼센트 지분 매입시도와 비공개 조건하의 싱가포르개발은행((번역 주: DBS))의 2007년 5월 매입시도에 이어, 11월 중 3번째 홍콩상하이은행의 시도이다. 국민은행의 입찰이 실패한 것은 금융감독원이 론스타에게 외환은행을 매각하려고 범죄 공모를 했다는 협의의 형사재판이 진행 중이라 지분을 허락할 수없다고 주장했기 때문이다. 싱가포르개발은행의 시도가 실패한 것은 싱가포르 국가 소유의 회사인 테마섹이 지배하는 은행에 매각되는 것을 금융감독원이 반대했기 때문이라고 여겨지고 있다. 론스타는 홍콩상하이은행과의 거래를 동시에 진행하고 있고, 금융감독원이 외환은행을 놓고 론스타의 대주주 자격을 지금 재평가하고 있다. 이번 조사는 진행 중인 소건에 법적인 영향력이 있을 것이고, 보통 다음달에 결론이 날 것으로 예상된다.
+
+6.(기밀) 외환은행 대표이사인 리차드 웨커는 최근에 미국정부가 금융감독원을 설득해서 매각을 승인하도록 조만간 공식적으로 론스타가 도움을 요청할 것이라고 통지했다. 웨커는 계류 중인 형사재판과 론스타의 “대주주 자격” 지휘에 대한 금융감독원의 조사가 있는데, 그러나 이런 사항들이 론스타의 (외환은행) 매입을 무효화해선 안되며 혹은 기업은행의 매각에 영향을 줘서도 안됨을 지적했다. 그런 결정들은 단순히 론스타가 6개월 안에 재산을 양도하기 위해 외환은행 주식을 매각하도록 강요하는 것이며, 그 조치를 론스타가 지금 기꺼이 할 것이라고 했다. 웨커는 한국정부가 외국 투자를 장려할 기회로 삼아야 하며, 이유인즉 홍콩상하이의 신용도는 흠결이 없으며 한국이 역내 금융중심지가 되려고 열망하기 때문이라고 했다. 웨커는 주한 영국대사도 비슷하게 금융감독원을 접촉하라는 홍콩상하이은행의 요청받을 것이라고 언급했다.
+===== 논 평 =====
+7.(기밀) 여러 가지 우여곡절 속에서, 론스타의 무용담은 한국인이 비공개 기업투자회사를((번역 주: private equity firm, 정식명칭이다, 국내에선 부동산투자 헤지펀드로 알려져있다.)) 어떻게 인식할지 그리고 외국투자자들이 이 곳의 투자환경을 어떻게 판단할지 도해로 보여주는 학습과정을 형성한다. 현재로선 대부분의 참관인들은 한국이 더욱 (투자계) 추세를 받아들여야 한다면서도, 금융감독원은 소건이 해결될 때 까지는 론스타가 홍콩상하이은행에게 매각하는 것을 계속 막을 것으로 예견하고 있다. 론스타의 법률 자문단은 이번 소건이 상소 과정을 포함해서 3년을 걸릴 것으로 예상하고 있다.
+
+8.(기밀) 대사관은 론스타의 어떠한 공식적인 도움요청이든 미국정부가 검토하도록 전달할 것이다. 한국의 재정경제부 장관이 최근에 자본시장통합법((번역 주:  the Capital Markets Consolidation Act))의 통과 이후에 국내 비공개 기업투자회사, 헤지펀드 및 대규모 투자은행 등을 설립할 것을 요청한 점은 주목할 필요가 있다(참조 나). 규제당국은 역내 금융중심지로 서울을 가일층 변모시킬 주요한 은행 인수거래에 대해 계속 발걸음이 더딘 가운데, 어떻게 이런 목표를 달성할 것인지는 예단하기 어렵다. //논평 끝//.
+//버시바우//
+위키리크스 코리아© 무단복제나 전재를 금지합니다. 
+===== 원본 및 다운로드 =====
+<code - 07SEOUL2695.rtf>
+C O N F I D E N T I A L SEOUL 002695 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+PASS USTR FOR AUSTR CUTLER AND DAUSTR AUGEROT 
+STATE FOR E, EEB - GOEHERT, EAP/K - STUEHMKE 
+TREASURY FOR IA/ISA/WINSHIP, CHRISTOPULOS, AND POGGI 
+NSC FOR TONG 
+ 
+E.O. 12958: DECL: 09/05/2017 
+TAGS: EFIN [Financial and Monetary Affairs], EINV [Foreign Investments], ECON [Economic Conditions],
+PGOV [Internal Governmental Affairs], PREL [External Political Relations], KS [Korea (South)] 
+SUBJECT: THE LONE STAR SAGA CONTINUES: HONG KONG SHANGHAI 
+BANKING CORP. BIDS FOR KOREA EXCHANGE BANK 
+ 
+REF: (A) SEOUL 1227 (B) SEOUL 1966 
+ 
+Classified By: A/ECON MIKE SPANGLER FOR REASONS 1.4 B&D. 
+ 
+¶1.  (C) SUMMARY:  On September 3, Lone Star Funds (LS), a 
+Dallas-based private equity firm, agreed to sell its 
+51-percent management stake in Korea Exchange Bank (KEB) to 
+Hong Kong Shanghai Banking Corporation (HSBC) for USD 6.3 
+billion, pending regulatory approval.  The sale would permit 
+LS to cash out of its largest investment in Korea to date and 
+give HSBC its long-sought entry into Korea's lucrative 
+banking market.  The deal requires HSBC to clear three 
+hurdles; it must (1) complete its due diligence by October 
+15, (2) submit its take-over application to the Financial 
+Supervisory Commission (FSC) by January 31, 2008; and (3) 
+obtain regulatory approval by April 30, 2008.  If the FSC has 
+not approved the take-over by April 30 of next year, the 
+tender agreement will expire without penalty, if not renewed. 
+ Many observers expect the FSC to resist approving the HSBC 
+application until ongoing court cases are decided concerning 
+a criminal conspiracy to sell KEB to LS at an understated 
+price.  These cases could take up to three years including 
+the appelate process.   Citing these cases, the FSC has 
+rejected earlier attempts by Kookmin Bank and Development 
+Bank Singapore to purchase KEB.  We expect to receive a 
+formal LS request soon to assist LS to obtain regulatory 
+approval for the sale.  END SUMMARY. 
+ 
+LONE STAR HERE SINCE 1999 
+------------------------- 
+¶2.  (SBU)  LS arrived in Korea in early 1999 and invested 
+approximately $3.1 billion in various investments including 
+an office building (Star Tower), two firms (Star Leasing and 
+Kukdong Engineering and Construction), and, during 2003, KEB. 
+ The KEB investment totaled about $2 billion and therefore 
+represents LS's largest investment in Korea to date. Since 
+2005, LS has not identified any new investments in Korea but 
+is maintaining a "long-term" perspective to identify 
+additional under-valued, generally distressed assets, 
+according to a LS officer. 
+ 
+THE DEAL 
+-------- 
+¶3.  (C)  LS agreed on September 3 to sell its 51-percent 
+management stake in KEB to HSBC for USD 6.3 billion.  This 
+sale would permit LS to cash out of KEB at a 24-percent 
+premium to the current stock market price and realize a 
+considerable profit.  This potential profit has attracted the 
+attention of the Board of Audit and Inspection, the National 
+Tax Service, and the Financial Supervisory Service, all of 
+which have raided LS offices frequently over the past two 
+years in apparent attempts to challenge LS's claims to having 
+made proper transactions and being due special tax treatment 
+through their tax-exempt Belgian office.  Against the 
+backdrop of this official scrutiny and adverse media comment, 
+the Seoul Prosecutor's Office is pursuing criminal cases 
+against several LS and former KEB officials for allegedly 
+pursuing a conspiracy to buy KEB at an understated price in 
+May 2003 and purchasing KEB's credit car issuer due to 
+fraudulent stock market manipulation in November 2003 (Ref 
+A). 
+ 
+THREE MILESTONES 
+---------------- 
+¶4.  (SBU)  The recently inked agreement offers HSBC a 
+long-sought chance to enter Korea's lucrative banking market. 
+ In 2004, HSBC had tried to buy Korea First Bank but lost out 
+to Standard Chartered.  HSBC must now clear three hurdles to 
+purchase KEB.  It must (1) complete its due diligence by 
+October 15, (2) submit its take-over application to the 
+Financial Supervisory Commission (FSC) by January 31, 2008; 
+and (3) obtain regulatory approval by April 30, 2008.  If the 
+FSC has not approved the take-over by January 31 of next 
+year, HSBC must pay an additional USD 133 million to buy KEB. 
+ More critical, if the FSC fails to approve by April 30, 
+2008, the tender agreement will expire without penalty unless 
+renewed. 
+ 
+THREE TIMES A CHARM? 
+------------------- 
+¶5.  (C)  LS is now into its third serious attempt to sell KEB 
+ 
+over the past year.  The September 3rd agreement with  HSBC 
+follows Kookmin Bank's October 2006 attempt to buy a 
+66-percent stake in KEB and DBS's May 2007 attempt to 
+purchase it at undisclosed terms.  The Kookmin bid failed 
+because the FSC insisted LS could not tender the shares while 
+the criminal trials were proceeding on the alleged criminal 
+conspiracy to sell the bank to LS and the stock manipulation 
+case concerning KEB's credit card issuer.  The DBS attempt 
+purportedly failed because the FSC objected to its sale to a 
+bank controlled by Temasek, a Singapore state-owned 
+enterprise.  At the same time that LS is pursuing the HSBC 
+deal, the FSC is now reassessing whether LS is a qualified 
+majority stakeholder in KEB.  This investigation may have 
+legal implications for the ongoing court cases and is widely 
+expected to be decided next month. 
+ 
+ASKING FOR HELP 
+--------------- 
+¶6.  (C)  KEB President Richard Wacker recently notified us 
+that LS will soon formally request help from the USG to 
+persuade the FSC to approve the deal.  Wacker indicated that 
+the pending criminal cases and the FSC investigation into 
+LS's status as a "qualified majority stakeholder," however 
+they are rendered, should not nullify LS's purchase or 
+otherwise affect KEB's sale.  Such decisions would simply 
+force LS to divest itself of KEB within six months of their 
+disposition, something LS is willing to do now.  Wacker also 
+believes the ROKG should seize the opportunity to encourage 
+foreign investment since HSBC's credentials are impecable and 
+Korea aspires to become a regional financial hub.  Wacker 
+noted that the UK Ambassador to Korea would receive a similar 
+request from HSBC to approach the FSC. 
+ 
+COMMENT 
+------- 
+¶7.  (C)   Through its many twists and turns, the LS saga 
+constitutes a learning curve charting how Koreans perceive 
+private equity firms and how foreign investors see the 
+investment climate here. At the moment, most observers feel 
+Korea should be further along the curve and predict that the 
+FSC will continue to block the LS sale to HSBC until the 
+court cases are settled.  LS's legal advisor predicts these 
+cases could take up to three years including the appelate 
+process. 
+ 
+¶8.  (C)  We will be conveying any formal request from LS for 
+assistance to Washington for review.  It is important to note 
+Korea's Finance Minister has recently called for the 
+establishment of domestic private equity firms, hedge funds, 
+and large investment banks in the wake of the passage of the 
+Capital Markets Consolidation Act (Ref B).  It is difficult 
+to see how this goal can be achieved while regulators 
+continue to drag their feet on this major bank acquisition 
+deal that would further Seoul's transformation into a 
+regional financial hub.  End comment. 
+VERSHBOW
+</code>

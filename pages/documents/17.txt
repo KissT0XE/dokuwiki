@@ -1,0 +1,103 @@
+<sortable 1>
+^ 번호 ^ 원본 ^ 번역 ^ 제목 ^ 작성일 ^ 분류 ^ 상태 ^
+| 1601 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1223_a.html| 09SEOUL1223 ]]| [[/09SEOUL1223]] | 언론 반응 | 2009-08-04 | 미분류 | |
+| 1602 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1224_a.html| 09SEOUL1224 ]]| [[/09SEOUL1224]] | 언론 브리핑—2009년 8월 4일 | 2009-08-04 | 미분류 | |
+| 1603 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1233_a.html| 09SEOUL1233 ]]| [[/09SEOUL1233]] | 언론 반응 | 2009-08-05 | 미분류 | |
+| 1604 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1235_a.html| 09SEOUL1235 ]]| [[/09SEOUL1235]] | 언론 브리핑—2009년 8월 5일 | 2009-08-05 | 미분류 | |
+| 1605 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1236_a.html| 09SEOUL1236 ]]| [[/09SEOUL1236]] | 한·이란 관계 개요: 어제와 오늘 그리고 내일 | 2009-08-05 | 비밀 | 완료 |
+| 1606 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1241_a.html| 09SEOUL1241 ]]| [[/09SEOUL1241]] | 미 의회 대표 버먼 방한 관련 사전 정보 | 2009-08-06 | 기밀 | |
+| 1607 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1243_a.html| 09SEOUL1243 ]]| [[/09SEOUL1243]] | 언론 브리핑—2009년 8월 6일 | 2009-08-06 | 미분류 | |
+| 1608 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1252_a.html| 09SEOUL1252 ]]| [[/09SEOUL1252]] | 언론 브리핑—2009년 8월 7일 | 2009-08-07 | 미분류 | |
+| 1609 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1254_a.html| 09SEOUL1254 ]]| [[/09SEOUL1254]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 6~7월 | 2009-08-10 | 미분류 | |
+| 1610 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1255_a.html| 09SEOUL1255 ]]| [[/09SEOUL1255]] | 언론 브리핑—2009년 8월 10일 | 2009-08-10 | 미분류 | |
+| 1611 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1264_a.html| 09SEOUL1264 ]]| [[/09SEOUL1264]] | 언론 브리핑—2009년 8월 11일 | 2009-08-11 | 미분류 | |
+| 1612 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1273_a.html| 09SEOUL1273 ]]| [[/09SEOUL1273]] | 한국 정부, 소말리아에 약속한 지원 제공하기 시작 | 2009-08-12 | 미분류 | |
+| 1613 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1274_a.html| 09SEOUL1274 ]]| [[/09SEOUL1274]] | 정세균 민주당 대표, 미국에 북한과의 대화 촉구; 야당을 되살릴 방안 모색 | 2009-08-12 | 기밀 | 완료 |
+| 1614 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1277_a.html| 09SEOUL1277 ]]| [[/09SEOUL1277]] | 언론 브리핑—2009년 8월 12일 | 2009-08-12 | 미분류 | |
+| 1615 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1282_a.html| 09SEOUL1282 ]]| [[/09SEOUL1282]] | 쌍용자동차 파업 중단했지만 부도를 막기에는 역부족일 듯 | 2009-08-13 | 기밀 |할당|
+| 1616 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1284_a.html| 09SEOUL1284 ]]| [[/09SEOUL1284]] | 언론 브리핑—2009년 8월 13일 | 2009-08-13 | 미분류 | |
+| 1617 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1285_a.html| 09SEOUL1285 ]]| [[/09SEOUL1285]] | 언론 반응 | 2009-08-13 | 미분류 | |
+| 1618 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1288_a.html| 09SEOUL1288 ]]| [[/09SEOUL1288]] | (이명박 정부와 가까운) 북한 전문가 류길재 교수와 유호렬 교수, 이명박의 대북 정책 비판. 북한 권력 승계 불투명 | 2009-08-13 | 기밀 | 완료 |
+| 1619 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1292_a.html| 09SEOUL1292 ]]| [[/09SEOUL1292]] | 언론 반응 | 2009-08-14 | 미분류 | |
+| 1620 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1293_a.html| 09SEOUL1293 ]]| [[/09SEOUL1293]] | 언론 반응 | 2009-08-14 | 미분류 | |
+| 1621 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1294_a.html| 09SEOUL1294 ]]| [[/09SEOUL1294]] | 언론 반응 | 2009-08-14 | 미분류 | |
+| 1622 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1295_a.html| 09SEOUL1295 ]]| [[/09SEOUL1295]] | 언론 반응 | 2009-08-14 | 미분류 | |
+| 1623 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1296_a.html| 09SEOUL1296 ]]| [[/09SEOUL1296]] | 허가 050025373호에 따른 블루랜턴 3단계 선적 후 최종 사용 검사 | 2009-08-14 | 미분류 | |
+| 1624 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1301_a.html| 09SEOUL1301 ]]| [[/09SEOUL1301]] | 김대중 전 대통령 장례식 때 가족들은 조지프 바이든 미국 부통령과 힐러리 클린턴 국무장관의 조문 기대 | 2009-08-14 | 기밀 | |
+| 1625 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1306_a.html| 09SEOUL1306 ]]| [[/09SEOUL1306]] | 대량살상무기 확산방지구상(PSI) 서울 워크숍—요약 | 2009-08-14 | 대외비 | |
+| 1626 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1308_a.html| 09SEOUL1308 ]]| [[/09SEOUL1308]] | 언론 브리핑—2009년 8월 14일 | 2009-08-14 | 미분류 | |
+| 1627 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1310_a.html| 09SEOUL1310 ]]| [[/09SEOUL1310]] | 제64회 유엔 총회 고위급 참가 외교문서 및 회의 요청에 대한 응답 | 2009-08-16 | 미분류 | |
+| 1628 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1311_a.html| 09SEOUL1311 ]]| [[/09SEOUL1311]] | 유네스코 사무총장 선거 관련 외교문서 전달 | 2009-08-16 | 기밀 | |
+| 1629 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1316_a.html| 09SEOUL1316 ]]| [[/09SEOUL1316]] | 언론 브리핑—2009년 8월 17일 | 2009-08-17 | 미분류 | |
+| 1630 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1318_a.html| 09SEOUL1318 ]]| [[/09SEOUL1318]] | 언론 브리핑—2009년 8월 18일 | 2009-08-18 | 미분류 | |
+| 1631 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1319_a.html| 09SEOUL1319 ]]| [[/09SEOUL1319]] | 김대중 전 대통령 부고 | 2009-08-18 | 기밀 | 완료 |
+| 1632 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1326_a.html| 09SEOUL1326 ]]| [[/09SEOUL1326]] | 언론 브리핑—2009년 8월 19일 | 2009-08-19 | 미분류 | |
+| 1633 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1327_a.html| 09SEOUL1327 ]]| [[/09SEOUL1327]] | 김대중 전 대통령 서거에 대한 침울한 반응 | 2009-08-19 | 기밀 | 완료 |
+| 1634 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1336_a.html| 09SEOUL1336 ]]| [[/09SEOUL1336]] | 언론 브리핑—2009년 8월 20일 | 2009-08-20 | 미분류 | |
+| 1635 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1344_a.html| 09SEOUL1344 ]]| [[/09SEOUL1344]] | 언론 브리핑—2009년 8월 21일 | 2009-08-21 | 미분류 | |
+| 1636 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1347_a.html| 09SEOUL1347 ]]| [[/09SEOUL1347]] | 김대중 전 대통령 서거에 따른 조기 게양 | 2009-08-21 | 미분류 | |
+| 1637 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1348_a.html| 09SEOUL1348 ]]| [[/09SEOUL1348]] | 세계핵테러방지구상(GICNT) 메시지 전달—후속 질문 | 2009-08-21 | 미분류 | |
+| 1638 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1352_a.html| 09SEOUL1352 ]]| [[/09SEOUL1352]] | 조선광선은행 외교문서 전달 | 2009-08-24 | 미분류 | |
+| 1639 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1357_a.html| 09SEOUL1357 ]]| [[/09SEOUL1357]] | 언론 브리핑—2009년 8월 24일 | 2009-08-24 | 미분류 | |
+| 1640 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1358_a.html| 09SEOUL1358 ]]| [[/09SEOUL1358]] | 유명환 외무장관, 올브라이트 전 국무장관에게 비핵화를 최우선 과제로 지목 | 2009-08-24 | 대외비 | 할당 |
+| 1641 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1363_a.html| 09SEOUL1363 ]]| [[/09SEOUL1363]] | 언론 브리핑—2009년 8월 25일 | 2009-08-25 | 미분류 | |
+| 1642 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1364_a.html| 09SEOUL1364 ]]| [[/09SEOUL1364]] | 스티븐 보스워스 대북 특사, 8월 23일에 김성한 외교안보수석 면담 | 2009-08-26 | 기밀 | |
+| 1643 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1371_a.html| 09SEOUL1371 ]]| [[/09SEOUL1371]] | 언론 브리핑—2009년 8월 26일 | 2009-08-26 | 미분류 | |
+| 1644 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1373_a.html| 09SEOUL1373 ]]| [[/09SEOUL1373]] | 남북 해빙 무드에도 청와대는 강경한 방침 고수 | 2009-08-26 | 기밀 | 완료 |
+| 1645 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1374_a.html| 09SEOUL1374 ]]| [[/09SEOUL1374]] | 북한 경제—2008년 대외 교역 통계 | 2009-08-27 | 대외비 | |
+| 1646 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1377_a.html| 09SEOUL1377 ]]| [[/09SEOUL1377]] | 언론 브리핑—2009년 8월 27일 | 2009-08-27 | 미분류 | |
+| 1647 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1379_a.html| 09SEOUL1379 ]]| [[/09SEOUL1379]] | 현정은 현대 회장, 김정일의 건강과 가족 문제 언급 | 2009-08-27 | 기밀 | |
+| 1648 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1380_a.html| 09SEOUL1380 ]]| [[/09SEOUL1380]] | 위성락 한반도평화교섭본부장, 비핵화가 여전히 한국 정부의 최우선 고려 사항이라고 밝혀 | 2009-08-27 | 기밀 | |
+| 1649 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1383_a.html| 09SEOUL1383 ]]| [[/09SEOUL1383]] | 언론 브리핑—2009년 8월 28일 | 2009-08-28 | 미분류 | |
+| 1650 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1384_a.html| 09SEOUL1384 ]]| [[/09SEOUL1384]] | 민주당, 북한 제재 찬성하면서도 대화 촉구 | 2009-08-28 | 기밀 | |
+| 1651 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1385_a.html| 09SEOUL1385 ]]| [[/09SEOUL1385]] | 미 의회 대표 버먼, 8월 18일에 이명박 대통령 면담 | 2009-08-28 | 기밀 | 할당 |
+| 1652 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1386_a.html| 09SEOUL1386 ]]| [[/09SEOUL1386]] | 현정은 현대 회장, 북한 관광과 김정일 언급 | 2009-08-28 | 기밀 | |
+| 1653 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1387_a.html| 09SEOUL1387 ]]| [[/09SEOUL1387]] | 북한의 미국 기자 납치, 사전 계획된 것 | 2009-08-28 | 기밀 |완료 |
+| 1654 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1388_a.html| 09SEOUL1388 ]]| [[/09SEOUL1388]] | 한국 정부, 소말리아연안해적퇴치연락그룹(CGPCS) 메시지 전달—후속 질문 | 2009-08-31 | 미분류 | |
+| 1655 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1389_a.html| 09SEOUL1389 ]]| [[/09SEOUL1389]] | 북한 경제 브리핑—2009년 8월 | 2009-08-31 | 대외비 | |
+| 1656 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1390_a.html| 09SEOUL1390 ]]| [[/09SEOUL1390]] | 언론 반응 | 2009-08-31 | 미분류 | |
+| 1657 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1391_a.html| 09SEOUL1391 ]]| [[/09SEOUL1391]] | 언론 브리핑—2009년 8월 31일 | 2009-08-31 | 미분류 | |
+| 1658 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1393_a.html| 09SEOUL1393 ]]| [[/09SEOUL1393]] | 한국의 온실가스 배출 감축 계획, 열띤 논쟁 불러일으켜 | 2009-08-31 | 대외비 |완료 |
+| 1659 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1399_a.html| 09SEOUL1399 ]]| [[/09SEOUL1399]] | 언론 브리핑—2009년 9월 1일 | 2009-09-01 | 미분류 | |
+| 1660 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1400_a.html| 09SEOUL1400 ]]| [[/09SEOUL1400]] | 이산가족 상봉에 대한 남북적십자회담 | 2009-09-01 | 기밀 | |
+| 1661 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1402_a.html| 09SEOUL1402 ]]| [[/09SEOUL1402]] | 한국 경제 브리핑—2009년 8월 | 2009-09-02 | 대외비 | |
+| 1662 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1404_a.html| 09SEOUL1404 ]]| [[/09SEOUL1404]] | 언론 반응 | 2009-09-02 | 미분류 | |
+| 1663 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1407_a.html| 09SEOUL1407 ]]| [[/09SEOUL1407]] | 국회 개회. 야당은 항의 계속 | 2009-09-02 | 기밀 | |
+| 1664 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1408_a.html| 09SEOUL1408 ]]| [[/09SEOUL1408]] | 언론 브리핑—2009년 9월 2일 | 2009-09-02 | 미분류 | |
+| 1665 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1413_a.html| 09SEOUL1413 ]]| [[/09SEOUL1413]] | 언론 브리핑—2009년 9월 3일 | 2009-09-03 | 미분류 | |
+| 1666 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1418_a.html| 09SEOUL1418 ]]| [[/09SEOUL1418]] | 언론 브리핑—2009년 9월 4일 | 2009-09-04 | 미분류 | |
+| 1667 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1419_a.html| 09SEOUL1419 ]]| [[/09SEOUL1419]] | 한국, 외국인 신부 문제로 골머리 | 2009-09-04 | 기밀 | |
+| 1668 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1420_a.html| 09SEOUL1420 ]]| [[/09SEOUL1420]] | 내각 개편은 중도 선회의 신호. 정계 밖 인사 영입 | 2009-09-04 | 기밀 | |
+| 1669 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1421_a.html| 09SEOUL1421 ]]| [[/09SEOUL1421]] | 탈북자들, 북한의 ‘150일 전투’운동을 ‘150일 착취’라며 조롱 | 2009-09-04 | 기밀 | 완료 |
+| 1670 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1434_a.html| 09SEOUL1434 ]]| [[/09SEOUL1434]] | 언론 반응 | 2009-09-08 | 미분류 | |
+| 1671 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1435_a.html| 09SEOUL1435 ]]| [[/09SEOUL1435]] | 한국의 우즈베키스탄과의 관계: 혈통, 천연가스, 금 그리고 (美)항구적 자유작전 | 2009-09-08 | 기밀 | 완료 |
+| 1672 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1436_a.html| 09SEOUL1436 ]]| [[/09SEOUL1436]] | 언론 브리핑—2009년 9월 8일 | 2009-09-08 | 미분류 | |
+| 1673 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1441_a.html| 09SEOUL1441 ]]| [[/09SEOUL1441]] | 언론 반응 | 2009-09-09 | 미분류 | |
+| 1674 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1442_a.html| 09SEOUL1442 ]]| [[/09SEOUL1442]] | 언론 브리핑—2009년 9월 9일 | 2009-09-09 | 미분류 | |
+| 1675 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1450_a.html| 09SEOUL1450 ]]| [[/09SEOUL1450]] | 언론 브리핑—2009년 9월 10일 | 2009-09-10 | 미분류 | |
+| 1676 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1451_a.html| 09SEOUL1451 ]]| [[/09SEOUL1451]] | 정몽준, 한나라당 대표 선출. 당내 마찰 심해질 듯 | 2009-09-10 | 기밀 | |
+| 1677 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1453_a.html| 09SEOUL1453 ]]| [[/09SEOUL1453]] | 언론 브리핑—2009년 9월 11일 | 2009-09-11 | 미분류 | |
+| 1678 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1455_a.html| 09SEOUL1455 ]]| [[/09SEOUL1455]] | 유엔 인권위원회에서 한국 정부의 우선순위 | 2009-09-11 | 미분류 | |
+| 1679 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1463_a.html| 09SEOUL1463 ]]| [[/09SEOUL1463]] | 언론 브리핑—2009년 9월 14일 | 2009-09-14 | 미분류 | |
+| 1680 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1464_a.html| 09SEOUL1464 ]]| [[/09SEOUL1464]] | 언론 반응 | 2009-09-14 | 미분류 | |
+| 1681 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1465_a.html| 09SEOUL1465 ]]| [[/09SEOUL1465]] | 유엔 총회 식량안보 행사에 대한 외교문서 전달 | 2009-09-14 | 미분류 | |
+| 1682 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1468_a.html| 09SEOUL1468 ]]| [[/09SEOUL1468]] | 북한 전문가 안드레이 란코프 국민대학교 교수, 북한이 굶주리고 있지만 내부 단속이 여전하다고 언급 | 2009-09-14 | 기밀 | |
+| 1683 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1469_a.html| 09SEOUL1469 ]]| [[/09SEOUL1469]] | 한국 환경·과학·기술·건강(ESTH) 브리핑—2009년 8월 | 2009-09-15 | 미분류 | |
+| 1684 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1470_a.html| 09SEOUL1470 ]]| [[/09SEOUL1470]] | 언론 반응 | 2009-09-15 | 미분류 | |
+| 1685 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1471_a.html| 09SEOUL1471 ]]| [[/09SEOUL1471]] | 언론 브리핑—2009년 9월 15일 | 2009-09-15 | 미분류 | |
+| 1686 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1474_a.html| 09SEOUL1474 ]]| [[/09SEOUL1474]] | 언론 브리핑—2009년 9월 16일 | 2009-09-16 | 미분류 | |
+| 1687 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1483_a.html| 09SEOUL1483 ]]| [[/09SEOUL1483]] | 미국 식품의약국(FDA), 고아약(이익이 적어 개발·연구가 거의 되지 않는 약) 개발 보조금 지급에 대한 반응 | 2009-09-17 | 미분류 | |
+| 1688 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1484_a.html| 09SEOUL1484 ]]| [[/09SEOUL1484]] | 한–이란, 공동 보조에 긍정적 | 2009-09-17 | 기밀 | |
+| 1689 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1488_a.html| 09SEOUL1488 ]]| [[/09SEOUL1488]] | 언론 브리핑—2009년 9월 17일 | 2009-09-17 | 미분류 | |
+| 1690 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1495_a.html| 09SEOUL1495 ]]| [[/09SEOUL1495]] | 언론 브리핑—2009년 9월 18일 | 2009-09-18 | 미분류 | |
+| 1691 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1496_a.html| 09SEOUL1496 ]]| [[/09SEOUL1496]] | 이명박 대통령, 9월 24일 파키스탄우방국정상회의 참석하기로 | 2009-09-18 | 미분류 | |
+| 1692 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1497_a.html| 09SEOUL1497 ]]| [[/09SEOUL1497]] | 미국 대통령의 유럽 미사일 방어 결정 관련 외교문서 전달 | 2009-09-20 | 미분류 | |
+| 1693 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1501_a.html| 09SEOUL1501 ]]| [[/09SEOUL1501]] | 언론 브리핑—2009년 9월 21일 | 2009-09-21 | 미분류 | |
+| 1694 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1502_a.html| 09SEOUL1502 ]]| [[/09SEOUL1502]] | 언론 반응 | 2009-09-21 | 미분류 | |
+| 1695 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1503_a.html| 09SEOUL1503 ]]| [[/09SEOUL1503]] | 유엔 총회 표결 불참 지침에 대한 한국 정부 반응 | 2009-09-21 | 기밀 | |
+| 1696 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1507_a.html| 09SEOUL1507 ]]| [[/09SEOUL1507]] | 언론 브리핑—2009년 9월 22일 | 2009-09-22 | 미분류 | |
+| 1697 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1511_a.html| 09SEOUL1511 ]]| [[/09SEOUL1511]] | 과거의 인권 침해 사례를 파헤치려는 노력이 사라지려는가? | 2009-09-23 | 미분류 | 완료 |
+| 1698 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1512_a.html| 09SEOUL1512 ]]| [[/09SEOUL1512]] | 언론 브리핑—2009년 9월 23일 | 2009-09-23 | 미분류 | |
+| 1699 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1513_a.html| 09SEOUL1513 ]]| [[/09SEOUL1513]] | 이용준 외교통상부 차관보, 이란 문제와 인도적 대북 지원 언급 | 2009-09-23 | 기밀 | |
+| 1700 | [[https://www.wikileaks.org/plusd/cables/09SEOUL1527_a.html| 09SEOUL1527 ]]| [[/09SEOUL1527]] | 언론 반응 | 2009-09-24 | 미분류 | |
+</sortable>

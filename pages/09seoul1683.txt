@@ -1,0 +1,195 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL1683  |  2009-10-23 02:41  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>PGOV KS }}  |
+====== 제 목: 재보궐선거에 결과에 당 지도부 향방이 걸려있다 ======
+  * 기 밀 SEOUL 001683 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+  * 행정명령 12958: 비밀해제: 10/23/2029 
+  * 태그: PGOV(([Internal Governmental Affairs])), KS(([Korea (South)]))
+  * 제 목: 재보궐선거에 결과에 당 지도부 향방이 걸려있다
+  * 분류자: 정치 공사 참사관 제임스 웨이만((POL M/C James L. Wayman.)) 근거 1.4 (b), (d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/03/24 06:26//
+===== 요점 =====
+1.(기밀) 요점: 5석의 국회 의석을 채우는 10월 28일 재보궐선거는 중도 우파 집권당 한나라당, 그리고 중도 좌파 주요 야당인 민주당에 대한 국민투표가 될 것이다. 또한 각 당의 지도자, 정몽준(한)과 정세균(민)의 운명을 결정할 듯 하다. 선거 결과는 국회에서 정당간의 세력의 판도에 영향을 미치지는 않을 것이다. 심판을 기다리는 2곳 지역구는 (서울 근처) 경기도 수원시와 안산시 지역구이다. 한 곳은 부산 외곽에 있는 양산이다. 다른 두 곳은 강원도 강릉시와 충청북도 증평군이다. 수원이 가장 중요한 선거인데, 당 대표 자리를 대가로 치러야 할 것 같다. 양산은 한나라당에게 떼어놓은 당상과도 같은 곳인데, 예상보다 박빙을 예고하고 있어, 패배할 경우 한나라당 대표는 최후를 맞이할 수도 있다. //요점 끝.//<blockquote 푸른나무@ifkorea> [D-333] 작년 서울시장 보궐선거 문화일보&디오피니언 여론조사 - 나경원 47.7% vs 박원순 37.6%.표본오차 95% 신뢰수준에 ±3.1%포인트...실제는 박원순 53.40% vs 나경원 46.21%...이것이 우리나라 여론조사의 실체! </blockquote><WRAP right 47%>//**어의없는 중앙일보 여론조사**//
+| <fs smaller>참 희한한 일이다. 중앙일보 여론조사에서 26.9퍼센트 대 31.5퍼센트로 뒤지고 있던 이찬열 후보가 선거 결과에선 49.22퍼센트의 득표율로 승리할 수 있단 말인가? 중앙일보가 뉴스 일간지가 아닌 소설 일간지 임이 드러난 것이다. 이 놈의 여론조사 개판 오분 전이다. 그게 아님 이 놈의 기자들이 개판 오분 전이라고 말해야 하나? 필자가 본이 아니게 위키릭스가 공개한 미 대사관 비밀 문서를 번역하게 되었고, 기자들이 대사관 문서를 번역한다고 하기에 번역한 내용을 //‘구경을 할 수가 있어야지요?’//라고 부축인 끝에 위키리크스 코리아 누리집에 꽤 많은 양이 개시가 되었다. 그 뒤로 기자들의 번역을 일부 읽어 받는데, 좀 심하긴 하지만 번역한 수의 절반 정도는 솔직히 기자로써의 자질이 의심스러울 정도로 시사용어를 오역하는 사례가 너무 많았다. 김어준이 언론상을 받으면서 //‘기자 나부랭이들이 총수를 오라 가라...’//고 한 발언에서 기자 나부랭이란 말이 필자에겐 문자 그대로 다가온다. 기자들은 그 발언에 바보같이 재미있다고 웃긴 했지만. 예기가 길어졌는데, 기자들이 쓰는 기사를 액면 그대로 믿지 말라는 것이다. 특히 ‘조중동문매’ 등의 일간지는 조심해야 한다. 특히 여론조사 문제는 국정조사를 해야 한다. 여론조사를 정치적으로 판단을 하는 것인지 참 이 나라는 정말 어이없다.</fs> |
+</WRAP>
+===== 경기도 수원 =====
+2.(기밀) 수원(장안구)은 서울을 둘러싸고 있는 경기도 지역의 중심지로써, 한나라당과 민주당의 치열한 격전지있다. 박찬숙(한)은 전 경기도지사 손학규의 지원을 받고 있는 민주당 후보 이찬열(26.9)보다 유리한 입장이다(31.5). (주석: 달리 주석을 달지 않는 이상, 모든 여론조사는 중앙일보((옆의 박스를 보라)) 10월 14~17일 내용이다. //주석 끝.//) 민주당은 대선 후보 경선에서 쓴 잔을 마신 이후로 사실상 칩거 중이던 손학규를 수원에 출마시키려 했다. 그러나 그는 거절했는데, 당내부 관계자 말로는 손학규는 민주당 대표로써 교체하고 싶어하는 정세균 민주당 대표의 승리에 자신의 당선이 이바지하는 것을 피한 결과다. 그럼에도 불구하고, 손학규는 민주당 후보인 이찬열을 위해 열심히 선거운동을 했는데, 당내 실세로써 손학규의 장례는 아마 그가 그 곳의 승리를 안길 수있는지에 달려있다. 만일 좌파 소수정당인 민주당 후보가―현재 여론조사에서 5.9퍼센트―민주당 후보를 지원한다면, 손학규의 작업이 수월해 질 것이다. 한나라당 내부 관계자는 한나라당 지역구 의석으로 보는 게 당연하지만 근소한 차로 승리 할 것으로 예상했다.
+===== 경기도 안산 =====
+3.(기밀) 안산의 성패는 진보진영 후보간의 단일화 능력에 달려있는데, 현재까지는 단일화에 성공하지 못했다. 김영환 민주당 후보는 현재 24.9퍼센트로 앞서고 있고, 그 뒤를 송진섭(20.5)  한나라당 후보와 임종인(12.1) 무소속 좌파 후보가 쫒고 있다. 김영환과 임종인은 10월 22일에 후보 통합 발표가 예정되었지만, 협상이 실패로 돌아갔다. 이 지역구는 민주당이 당연히 당선시킬 의석이다.
+===== 경상남도 양산 =====
+4.(기밀) 한나라당 원로 정치인이며, 5선 의원에다 전임 당 대표인 박희태는 양산의 지역구에 출마하기 위해 당 대표 직에서 물러났다. 그는 현재 경쟁자를 앞서고 있지만(29.8퍼센트), 청와대 관계자들은 박희태가 성공하지 못 할 수있음을 우려한다고 대사관에 말했다. 박희태에게 양산은 그가 2008년 4월 선거에서 공천에 실패하고((번역 주: 그가 2008년 당시 공천을 못 받은 데는 이유가 있을 것이다. 공천의 결격사유가 있는 자가 재보궐 선거에 아무 연고도 없이 지역주의 깃발아래 당선된 다는 것은 불행한 일이다. 그가 한미 FTA 날치기를 주도한 자임을 잊지 말아야 한다. 당 대표 선출 전당대회에서 돈을 뿌렸다는 기사로 10.26 부정선거를 물타기 시도를 했는데, 그 전당대회가 언제적 이야기 인가? 굳이 선관위의 부정선거 의혹이 짙은 상황에 Ddos 물타기로도 모자라, 고구려적 전당대회 돈 투척이 왜 이런 상황에서 들먹이는가? 답은 간단하다.)) 국회로 돌아갈 꿈을 쉽게 실현해줄 한나라당 텃밭이 공석이라는 점 이외에 아무 연고가 없다. 보수성향의 무소속 김양수 후보는(11.2퍼센트), 반면에 2004~2008년 국회에서 양산 지역을 대표한 바 있다. 보수 표가 나뉘는 상황과 봉화 마을( 노무현의 고향) 근처 노무현 전 대통령의 지지자들이 송인배(14.9퍼센트)  민주당 후보 선거지원 노력과 결합되면서, 많은 이들이 예상한 것보다 박빙의 투표가 될 것이다. 가장 최근의 지역 신문 여론조사에서 김 후보(무: 25퍼센트) 그리고 송 후보( 민: 21퍼센트)로 격차가 빠르게 좁혀지고 있다. 무소속 김 후보의 승리는 한나라당을 당황시킬 일이며, 반면에 민주당의 승리는 재앙이 될 것이다.
+===== 충청북도 증편군 =====
+5.(기밀) 현재 가장 박빙의 선거전 양상을 띠고 있는 지역으로, 민주당 정범구 후보(20.7퍼센트)는 한나라당 경대수(20.0)와 통계적으로 호각지세 양상이다((번역 주: 정범구 의원과 경대수 후보는 이번 19대 총선에서도 같은 지역구에서 맞붙는다. )). 이 선거전 역시 무소속 보수 김경회(16.1)  후보가 만일 계속 경대수 후보를 밀어주길 거부한다면, 민주당 당선을 이롭게할 위험이 있다. 김 후보는 한나라당 공천을 받는데 실패했으며, 후보 사퇴를 안 할듯하다. 충청도 기반의 자유선진당 후보인 정운헌은 겨우 1.6퍼센트로 한참 뒤쳐져 있다. 눈에 띄는 점은 정 후보가 또 다른 충청북도 정치가인 이용희에 의해 공천됐다는 점인데, 자유선진당 대표인 이회창의 공천이 아니다. 이 지역 선거전은 반반의 승부지만, 내부관계자들은 이 지역구가 민주당으로 기울었다고 말했다.
+===== 강원도 강릉시 =====
+6.(비분류) 한나라당에겐 유일하게 승리가 확실한 곳으로, 권선동 후보가(32퍼센트) 자신의 경쟁자인 송영철(15.9퍼센트)와 심기섭(13.8퍼센트)에게 한참 앞서고 있다.
+===== 당내 파급력 =====
+7.(기밀) 강릉을 제외한 모든 선거전이 박빙이다. 민주당 정책위원회 의장 박지원은 민주당은 강릉과 양산에서의 선거전을 //“포기”//했다고 우리에게 말했다. 양산의 격차는 상당이 좁혀졌는데도 그렇다. 민주당이 예전에 충청북도의 의석을 점유했고 해서, 두 석 이상의 승리는 국회에서 총 의석에 보탬이 될 것이다. 박지원은 민주당이 두 곳에서 승리 할 것을 예견했다―충청북도와 안산. 두 곳의 당선으로 민주당 정세균 대표가 자신의 대표직을 유지할 수있을 것으로 믿었다. 만일 단 한 곳만을 당선시키거나, 또는 많은 분석가들이 믿듯이, 수원에서 패배한다면, 새 지도자를 선출하기 위해 내년 초에 정당대회가 잡힐 공산이 있다.
+
+8.(기밀) 한나라당 지도자이며 대통령 기대주인 정몽준은 유사한 시험을 맞이하고 있다. 양산에서 패배는 특히 피해가 있을 것이지만, 많은 이들은 한나라당이 수원을 포함해서 최소 3석을 당선시켜야, 정 대표가 새로 확보한 대표직을 유지할 것이다―그보다 부족한 결과는 한나라당이 재보궐 선거에 나온 5석 중 3석을 보유했었기에, 한나라당의 총 의석수상에 손실이 될 것이다.
+
+9.(기밀) 당의 대표는 각 소속당의 공천이나 2010년 6월 중요한 지방 선거에 대한 선거 전략상에 중요한 역할을 수행할 것이다. 지방선거는 전국의 기초단체장 그리고 기초의원을 새로 결정한다. 2010년 6월 지방선거의 결과는 2012년 대선으로 가는 길목에 정당간 경쟁의 장을 마련할 것이다. 그래서 각 당에게는 2009년 10월 재보궐 선거의 중요성은 5석의 향방에 비해 훨씬 비중이 있는데, 한국의 차기 대통령 선거로 가는 모든 길목에 뼏친 파급력을 가지고 있다.
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/---18/09seoul1683|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥고리 =====
+  - [[09seoul1726|제 목: 재보선에서 야당이 5석 중 3석 획득. 세력 판도는 여전]]
+  - [[http://ko.wikipedia.org/wiki/2009년_대한민국_재보궐선거| 2009년_대한민국_재보궐선거 ]]  //위키피디아//
+===== 원본 및 다운로드 =====
+<file rtf 09SEOUL1683.rtf>
+C O N F I D E N T I A L SEOUL 001683 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 10/23/2029 
+TAGS: PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: PARTY LEADERSHIP HANGS IN BALANCE OF BY-ELECTION 
+RESULTS 
+ 
+Classified By: POL M/C James L. Wayman. Reasons 1.4 (b), (d). 
+ 
+¶1. (C) Summary:  October 28 by-elections to fill five 
+National Assembly seats will be a referendum on the ruling 
+right-of-center Grand National Party (GNP) and the main 
+opposition left-of-center Democratic Party (DP), and are also 
+likely to determine the fate of party leaders Chung Mong-joon 
+(GNP) and Chung Sye-kyun (DP).  The outcome will not affect 
+the inter-party balance of power in the National Assembly. 
+Two of the contested seats are in the cities of Suwon and 
+Ansan in Gyeonggi Province (near Seoul).  One is outside 
+Busan, in Yangsan.  The other two are in Gangneung, in 
+Gangwon Province, and Jeungpyeong, in North Chungcheong 
+Province.  Suwon is the most important race and will likely 
+cost the losing party's chairman his job.  Yangsan, which 
+ought to be a slam-dunk for the GNP, is proving closer than 
+expected, and a loss there could also doom the GNP chairman. 
+End Summary. 
+ 
+------------------------ 
+Suwon, Gyeonggi Province 
+------------------------ 
+ 
+¶2. (C) Suwon, the capital of Gyeonggi Province which 
+surrounds Seoul, is the site of the fiercest battle between 
+the GNP and DP.  Park Chan-sook (GNP) has an edge (31.5 
+percent) over DP candidate Lee Chan-yeol (26.9), who is 
+backed by the former Gyeonggi Governor Sohn Hak-kyu.  (NOTE: 
+Unless otherwise noted, all polls cited are from the JoongAng 
+Newspaper from October 14-17.  END NOTE.)  The DP tried to 
+recruit Sohn, who has been in virtual seclusion since failing 
+in his bid for the presidency, to run in Suwon.  But he 
+declined, insiders say, to avoid making his election a 
+victory for DP leader Chung Sye-kyun, whom Sohn would like to 
+replace as DP chairman.  Nevertheless, Sohn is campaigning 
+hard for DP candidate Lee, and Sohn's future as a power 
+broker within the party may rest on whether he can deliver 
+this seat.  Sohn's job would be easier if the minor leftist 
+Democratic Labor Party (DLP) candidate -- who is currently 
+polling at 5.9 percent -- would back the DP candidate.  GNP 
+insiders expect the GNP to pull off a narrow win of what 
+should be a GNP seat. 
+ 
+------------------------ 
+Ansan, Gyeonggi Province 
+------------------------ 
+ 
+¶3. (C) The outcome in Ansan will depend on the ability of the 
+liberal candidates to unite, which so far they have failed to 
+do.  DP candidate Kim Young-hwan is currently in the lead 
+(24.9 percent) followed by GNP candidate Song Jin-seop (20.5) 
+and leftist independent candidate Im Jong-in (12.1).  Kim and 
+Im were expected to announce a deal to merge their campaigns 
+on October 22, but negotiations fell through.  It is a seat 
+the DP should win. 
+ 
+---------------------------------- 
+Yangsan, South Gyeongsang Province 
+---------------------------------- 
+ 
+¶4. (C) GNP elder statesman, former five-term lawmaker, and 
+former party chairman Park Hee-tae stepped down from his 
+position as party chief in order to run for the Yangsan seat. 
+ He currently leads his competitors (29.8 percent), but Blue 
+House officials told us they are concerned that Park might 
+not be able to pull it off.  Park has no connection to 
+Yangsan other than that it is an open seat in a GNP 
+stronghold that should easily allow him to fulfill his dream 
+of returning to the National Assembly after failing to gain a 
+nomination for the April 2008 election.  Independent 
+conservative candidate Kim Yang-soo (11.2 percent), on the 
+other hand, represented Yangsan in the 2004-2008 National 
+Assembly.  The split in the conservative vote, combined with 
+the efforts of supporters of former President Roh Moo-hyun in 
+nearby Bonghwa Village (Roh's hometown) to campaign for DP 
+candidate Song In-bae (14.9 percent) make the vote closer 
+than many would have expected.  A more recent local newspaper 
+poll had Kim (Ind: 25 percent) and Song (DP: 21 percent) 
+quickly narrowing the gap.  Kim's independent victory would 
+be an embarrassment for the GNP while a DP win would be a 
+disaster. 
+ 
+--------------------------------------- 
+Jeungpyeong, North Chungcheong Province 
+--------------------------------------- 
+ 
+¶5. (C) In what is currently the closest race, DP candidate 
+Chung Beom-gu (20.7 percent) is in a statistical dead-heat 
+ 
+with GNP candidate Kyung Dae-su (20.0).  In this race too, 
+conservative independent candidate Kim Kyung-hoi (16.1) 
+threatens to facilitate a DP win if he continues to refuse to 
+back Kyung (GNP).  Kim, who tried and failed to get the GNP 
+nomination, is unlikely to withdraw.  The Chungcheong-based 
+Liberty Forward Party (LFP) candidate, Chung Won-hun, is 
+trailing far behind at a meager 1.6 percent.  Notably, Chung 
+was nominated by Lee Yong-hee, another North Chungcheong 
+politician, not by LFP party leader Lee Hoi-chang.  This race 
+is a toss-up, but insiders say the constituency leans toward 
+the DP. 
+ 
+--------------------------- 
+Gangneung, Gangwon Province 
+--------------------------- 
+ 
+¶6. (U) In the only certain victory for the GNP, Kwon Sun-dong 
+(32 percent) is far ahead of his rivals, independent 
+candidates Song Young-chul (15.9 percent) and Shim Gi-seop 
+(13.8 percent). 
+ 
+------------------ 
+Party Consequences 
+------------------ 
+ 
+¶7. (C) With the exception of Gangneung, all the races are too 
+close to call.  DP Chief Policymaker Park Jie-won told us on 
+October 15 that the DP had "given up" on the races in 
+Gangneung and in Yangsan, though the margins in the latter 
+have narrowed considerably.  The party previously occupied 
+the North Chungcheong seat, so two or more wins would give 
+them a net gain in the National Assembly.  Park Jie-won 
+predicted that the DP could only hope to win two seats -- 
+North Chungcheong and Ansan.  With these two, Park believed 
+DP chief Chung Sye-kyun could keep his position.  If the DP 
+wins only one seat or, as many analysts believe, loses Suwon, 
+there will likely be a party convention early next year to 
+pick a new leader. 
+ 
+¶8. (C) GNP leader and presidential hopeful Chung Mong-joon is 
+facing a similar test.  A loss in Yangsan would be 
+particularly damaging, but many say the GNP needs to win at 
+least three seats, including Suwon, for Chung to retain his 
+newly-acquired post -- anything less would be a net loss for 
+the GNP, as the party occupied three of the five seats now up 
+for re-election. 
+ 
+¶9. (C) The party chairmen will play influential roles in 
+their respective parties' nominations and campaign strategies 
+for the important June 2010 regional elections, which will 
+decide new governors, mayors, and local councils across the 
+country.  The outcomes of the June 2010 elections will set 
+the stage for the intra-party contests leading up to the 2012 
+presidential elections.  So, for the parties, the 
+significance of the October 2009 by-elections is much greater 
+than the five seats in play, but has implications extending 
+all the way to the election of the next President of the 
+Republic of Korea. 
+STEPHENS
+</file>

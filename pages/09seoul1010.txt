@@ -1,0 +1,49 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  [[https://www.wikileaks.org/plusd/cables/09SEOUL1010_a.html|09SEOUL1010]]  |  2009 June 24, 23:08  |  미분류  |  주한 미국 대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 001010
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US
+제 목: 서울, 언론 반응
+작성자: PoirotKr (트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/09/24 20:41//
+
+===== 남아시아와 중앙아시아: 이란 대선 이후 경과 =====
+
+**[[http://article.joins.com/news/article/article.asp?total_id=3660108|[사설] 위기에 처한 이란의 시대착오적 신정 통치]]**
+
+중도 우파 중앙일보 사설 6월 24일: "이번 사태는 이슬람의 최고지도자가 실권을 가진 ‘신정(神政)통치’의 한계와 모순을 극적으로 보여주고 있다. …최고 종교지도자의 입맛에 맞지 않는 선거 결과는 얼마든지 조작될 수 있는 것이다. …이번 사태를 평화적으로 해결하는 유일한 길은 전면 재검표나 재선거를 실시하는 것이다. 지금처럼 무력 강경진압으로 일관한다면 일시적으로 시위를 잠재울 순 있어도 영원히 잠재울 순 없다."
+
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL1010.rtf>
+UNCLAS SEOUL 001010 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US 
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+SOUTH AND CENTRAL ASIA: IRANIAN POST ELECTION DEVELOPMENTS 
+ 
+"Iran's Anachronistic Theocracy in Crisis" 
+ 
+Right-of-center JoongAng Ilbo editorialized (06/24): "This Iranian 
+situation has shown us the limitations and discrepancies of a 
+theocratic state controlled by Islam's supreme leader. ... Election 
+results can be manipulated at any time if they are not palatable to 
+the supreme leader. ... The only way to peacefully resolve the 
+current situation is to hold a new election or to conduct a recount 
+of the votes from the June 12 election.  If Tehran continues 
+military crackdowns on protesters, it can temporarily thwart 
+protests but cannot bring them to a permanent end." 
+ 
+ 
+STEPHENS 
+</file>

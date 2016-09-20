@@ -1,0 +1,86 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL1929  |  2009-12-08 08:22  |  기밀  |  주한미국대사관  |  {{tag>PGOV PREL ECON ETRD PINR KN KS }}  |
+====== 제 목: 부산항에서 바라본 ‘비공식적’ 남북 교역 풍경 ======
+기 밀 SEOUL 001929 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+ 
+행정명령 12958: 비밀해제: 12/08/2029 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), ECON(([Economic Conditions])), ETRD(([Foreign Trade])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)])) 
+제 목: 부산항에서 바라본 ‘비공식적’ 남북 교역 풍경
+분류자: 정치 공사 참사관 제임스 웨이만((POL M/C James L. Wayman)).  근거: 1.4 (b/d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/23 14:17//
+===== 요점 =====
+
+1. (기밀) 부산 기반의 화물 업체 대표는 북한의 화물선 단결봉호가 한 달에 2~4차례 부산에 정박해서 수산 식품, 농산물, 의류 등을 하역하고, 중국과 러시아에서 판매할 섬유 원단과 가공식품, 그리고 중고차를 싣고 간다고 우리에게 최근에 말해주었다. 대사관 대화 상대역은 한국정부가 단결봉호가 뭘 하는 지 충분히 인식하고 있으며, 단결봉호의 활동을 예의 주시하고 있다고 우리에게 말하였다.
+===== 수산식품은 내리고 자동차는 싣고 =====
+
+2. (민감하지만 미분류) 국보 물류 박동술 사장은 특히 동북 지역을 비롯해 북한 지방 정부에 현금 수급을 도와주는 소규모 국제 무역에 대한 일부 통찰력을 최근에 부산 영사관에 제공해 주었다. 박동술은 북한 화물선 단결봉호가 한 달에 2~4차례 부산 감천항에 정박해서 수산 식품, 농산물, 그리고 의류를 하역한다고 전해 주었다. 단결봉호의 귀착지는 북한의 동부 쪽 귀퉁이 위치한 나진시이다. 단결봉호는 자체 화물을 하역한 이후에, 폐비닐과 섬유 원단, 가공식품, 그리고 중고차를 싣는다; 화물 대부분은 북한으로 싣고 돌아가 중국이나 러시아에서 판매된다. 박동술에 의하면, 이런 소규모 사업은 이윤의 폭이 크다고 한다.
+===== 남북 상호작용 =====
+
+3. (기밀) 한국정부는 단결봉호가 뭘 하는지 충분히 인식하고 있다고 박동술은 우리에게 말하였다. 한국 해양경찰청은 단결봉호가 동해안 한국 해역으로 넘어오자마자 조우한 뒤 부산항으로 호위해 들어온다. 정박하자 마자 세관출입국관리검역 당국자와 지역 경찰, 해양경찰청, 그리고 국정원 관계자 모두는 하역작업을 관찰한다. 박동술은 북한 승무원은 남한 부두 근로자와의 접촉이 허락되지 않는다고 덧붙였다; 북한 선원은 만일 누가 말을 걸려고 하면, //“그냥 지나쳐버린다.”// 덧붙이자면, 단결봉호는 모든 하역작업을 하루 만에 끝낸다. 만일 선창이 개방되기 이전에 도착하면, 남한 항에서 하룻밤을 보내지 않고, 영업시간이 되어 입항할 수 있기 전까지 바다에서 외박하게 된다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/09seoul1929|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://news.donga.com/Politics/3/00/20100524/28566354/1?dis_box=7|부산∼나진 北 화물선, 3년만에 운항중단]]  //동아일보//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL1929.rtf>
+C O N F I D E N T I A L SEOUL 001929 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/08/2029 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], ECON [Economic Conditions], ETRD [Foreign Trade], PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: A VIEW FROM BUSAN HARBOR ON "UNOFFICIAL" 
+NORTH-SOUTH TRADE 
+ 
+Classified By: POL M/C James L. Wayman.  Reasons: 1.4 (b/d). 
+ 
+Summary 
+------- 
+ 
+¶1. (C) A Busan-based freight company executive recently told 
+us that the Dan Gyol Bong, a DPRK cargo ship, docks in Busan 
+2-4 times a month to offload seafood, agricultural products 
+and clothing and take on fabrics, processed foods and used 
+cars -- which usually get sold in China and Russia.  Our 
+interlocutor told us that the ROKG is fully aware of what the 
+Dan Gyol Bong is doing and monitors the ship's activities 
+closely.  End summary. 
+ 
+Seafood Off, Cars On 
+-------------------- 
+ 
+¶2. (SBU) Kukbo Freight Company CEO Park Dong-sol recently 
+provided APP Busan with some insight into the small-scale 
+international trading that helps provide cash to provincial 
+North Korean governments, especially those in the northeast. 
+Park related that the Dan Gyol Bong, a DPRK cargo ship, docks 
+at Busan's Gamcheon harbor 2-4 times a month to offload 
+seafood, agricultural products and clothing.  The ship's home 
+is Najin, a city in the northeast corner of North Korea, 
+close to the borders with China and Russia.  After unloading 
+its cargo, the Dan Gyol Bong usually loads up with recyclable 
+vinyl plastic, fabrics, processed foods and used cars; the 
+majority of the cargo it carries back to the North is sold in 
+China and Russia.  According to Park, this kind of business, 
+though small-scale, has fat profit margins. 
+ 
+North-South Interaction 
+----------------------- 
+ 
+¶3. (C) Park told us that the ROKG is fully aware of what the 
+Dan Gyol Bong is doing.  The ROK Coast Guard meets the ship 
+once it crosses over into ROK waters off the east coast and 
+escorts it to Busan.  Once docked, Customs, Immigration, and 
+Quarantine officers, local police, the Coast Guard and the 
+NIS all observe the offloading and loading operations.  Park 
+added that the North Korean crewmen are not allowed to 
+interact with the South Korean dock workers; the DPRK sailors 
+"simply walk away" if anyone tries to engage them in 
+conversation.  In addition, the Dan Gyol Bong docks, unloads 
+and reloads all in one day.  If it arrives before the dock is 
+open, it will stay out at sea until it can enter the port 
+during business hours rather than overnighting in a South 
+Korean harbor. 
+STEPHENS
+</file>

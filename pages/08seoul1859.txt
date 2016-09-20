@@ -1,0 +1,46 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1859  |  2008-09-18 06:57  |  기밀  |  주한미국대사관  |  {{tag>PHUM PGOV PREL KDEM KS }}  |
+====== 제 목: 한국, ADPD 개최 합의 ======
+  * 기 밀 SEOUL 001859 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+ 
+  * 행정명령 12958: 비밀해제: 09/17/2018 
+  * 태그: PHUM(([Human Rights])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), KDEM(([Democratization])), KS(([Korea (South)]))
+  * 제 목: 한국, ADPD 개최 합의
+  * 참조: 가. STATE 94545  [[08seoul1757|나. SEOUL 01757]]  다. STATE 98066  라. HALL-CAMPONOVO TELCON  마. 9/16/08  [[08seoul1847| 바. SEOUL 01847 ]]
+  * 분류자: 빌 스탠튼 대사 직무 대행((CDA Bill Stanton.))  근거 1.4(b/d) 
+  * 번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/03 07:14//
+1. (기밀) 유명환 장관은 아시아태평양 민주주의 협의체(이하 APDP)((번역 주:Asia Pacific Democracy Partnership (APDP) )) 고위급 회의의 개최에 동의하였다고(참조 가), 오준 다자외교조약실장은 9월 18일 대사 직무 대행에게 말하였다. 오준은 외교통상부가 9월 19일 초청장을 보내기 시작할 거라고 말하였다. 참조 바는 한국정부의 2008년 10월 31일 회의에 대한 사전 기획에 관한 보고이다. 
+스탠튼
+프와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.mofat.go.kr/mofat/htm/issue/APDP.pdf|아시아태평양 민주주의 협력체의 개요]]  //외교통상부//
+  - [[http://egy.mofat.go.kr/webmodule/htsboard/hbd/hbdread.jsp?typeID=6&boardid=235&seqno=318240&c=&t=&pagenum=1&tableName=TYPE_DATABOARD&pc=&dc=&wc=&lu=&vu=&iu=&du=|제1차 아 · 태 민주주의 협력체 고위급 회의 개최 결과]] //외교통상부//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1859.rtf>
+C O N F I D E N T I A L SEOUL 001859 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 09/17/2018 
+TAGS: PHUM [Human Rights], PGOV [Internal Governmental Affairs], PREL [External Political Relations], KDEM [Democratization], KS [Korea (South)] 
+SUBJECT: ROK AGREES TO HOST APDP 
+ 
+REF: A. STATE 94545 
+     B. SEOUL 01757 
+     C. STATE 98066 
+     D. HALL-CAMPONOVO TELCON 
+     E. 9/16/08 
+     F. SEOUL 01847 
+ 
+Classified By: CDA Bill Stanton. Reasons 1.4(b/d) 
+ 
+(C) Foreign Minister Yu Myung-hwan has agreed to host the 
+Asia Pacific Democracy Partnership (APDP) Senior Officials' 
+Meeting (ref A), Deputy Foreign Minister for Multilateral, 
+Global, and Legal Affairs Oh Joon told the Charge on 
+September 18.  Oh said MOFAT would begin sending out 
+invitations on September 19.  Ref F reports the ROKG's 
+preliminary plans for the October 31, 2008 meeting. 
+STANTON
+</file>

@@ -1,0 +1,260 @@
+====== 한국, 차세대 토커맥 핵융합 실험 장치 공개 =======
+
+  VZCZCXYZ0000
+  RR RUEHWEB
+  
+  DE RUEHUL #3033/01 2800550
+  ZNR UUUUU ZZH
+  R 070550Z OCT 07
+  FM AMEMBASSY SEOUL
+  TO RUEHC/SECSTATE WASHDC 6871
+  INFO RHEHAAA/WHITE HOUSE WASHINGTON DC
+  RUCPDOC/DEPT OF COMMERCE WASHDC 1712
+  RHEBAAA/DEPT OF ENERGY WASHDC
+  RUEHBJ/AMEMBASSY BEIJING 3221
+  RUEHFR/AMEMBASSY PARIS 1562
+  RUEHKO/AMEMBASSY TOKYO 3361
+  RUEHNE/AMEMBASSY NEW DELHI 0617
+  RUEHMO/AMEMBASSY MOSCOW 8296
+  RUEHBS/USEU BRUSSELS
+  RUEHUNV/UNVIE VIENNA
+
+
+===== 요약 =====
+
+¶1.  9월 14일 노대통령은 대전광역시 국가핵융합연구소(National Fusion Research Center, NFRC)에서 한국의 최첨단 핵융합 플라즈마로인 한국 초전도 토카맥 차세대 연구로 (Korea Superconducting Tohamak Advanced Research 혹 KSTAR)를 공개했다. 미화 3억2천9백만 달러를 (한화 3천억원 이상) 들여 만들어진 KSTAR는 세계에서 가장 발전된 토카맥 (장치) 중 하나로 초전도체와 차세대 기술로 플라즈마를 가열하고 조절하는 기계다. KSTAR는 미국과 다른 나라들의 여러 핵융합 연구소의 기술적 도움과 함께 현지 기술로 만들어 졌다. (장치의) 하부시스템 시험 가동을 마친 뒤 KSTAR는 첫 플라즈마를 2008년 6월 쯤 생산 할 것이고 수년 뒤 전면적인 가동 상태를 달성하리라 예상된다. KSTAR는 2016년 프랑스 카다라쉬에서 더 큰 규묘의 국제핵융합실험로가 (International Thermonuclear Experimental Reactor, ITER) 가동 되기 전후로 국제적 핵융합 연구에 중요한 역활을 할 것이다. 지적: KSTAR는 얼마나 한국의 과학이 발전했고 한미간의 과학적 협력이 이런 발전에 한 몪을 하고 있는지를 보여준다. 
+
+
+
+===== KSTAR - 한국의 핵융합 연구의 상징 =====
+
+¶2. KSTAR 토카맥은 한국 핵융합 연구 기획의 상징이다. (토카맥은 러시아어로 '둥근 도넛츠 모양 전자기 코일로 만든 공간'의 약자이다. 이는 강력한 자석을 사용하여 가둔 플라스마의 - 이온 가스 - 조절된 핵융합 반응을 가능케 하는 장치다.) 한국 정부는 KSTAR와 관련된 장치들을 대전 (서울에서 남쪽으로 150 킬로 정도 위치) 대덕 연구 개발 특구에 있는 NFRC에 건설하는데 1995년 부터 미화 3억 2천 9백만 달러를 (한화 3천억원 이상) 들였다. (시설의) 완공을 기념하는 행사가 9월 14일에 열렸다 . 
+
+¶3. 한국 NFRC의 핵융합연구소장 이경수는 NFRC가 아직도 KSTAR 개별 시스템을 점검 하는 중이고 전면적 가동은 2008년 6월 정도에 시작할 계획이라고 ESTH에게 말했다. KSTAR가 가동되면 한국은 다음 18년 동안 매년 미화 3천 7백만 달러를 (한화 400억 원) 핵융합 연구에 쓸 계획이다. (연구) 목표는 (플라스마) 가열, 진단, 제어 기술들에 관한 정보를 모으기 위해 고밀도 그리고 고가열 된 플라스마를 짧아도 300초 동안 유지 하는 것이다. 이 정보는 한국이 창립 참가국인 다국적 ITER 프로젝트에 제공 될 것이다   
+
+¶4. 먼 미래를 바라보는 한국의 핵융합 에너지 개발의 "기획 지도"는 핵융합을 통한 전기 생산의 가능성을 2030년까지 증명 해보이고 핵융합로의 기술적 디자인을 2035년 무렵에 완성시키며 핵융합을 통한 산업적 전기 생산을 2040년전에 시작하는 것이다. 
+
+¶5. 한국 정부가 핵융합 에너지의 가능성에 부여하는 중요성의 증표로 노무현 대통령이 9월 14일 (기념)행사에 참석 했고 한번도 아닌 세번씩이나 연설했다. 그는 이 프로젝트를 완성시키는데 기여한 과학자들과 국내 기업들을 극찬하고 KSTAR가 한국의 에너지 자급자족을 성사시킬 수 있는데 큰 역할을 할 것이라는 그의 기대를 피력했다. (지적: 다가오는 선거를 인식한 듯 노(대통령)은 이 기회를 빌어 그가 NFRC와 다른 국가 연구소들의 과학자들을 공무원 연금에 포함시키는 제안을 국회에 상정 할 것이라고 선언했으며 이 제의는 모여있는 이들에게 흐믓한 웃음을 선사했다. 지적 끝)
+
+
+
+===== KSTAR와 현존하는 토카맥의 비교 =====
+
+¶6. NFRC는 KSTAR가 고효율적인 니오비움-3-주석 (Nb3Sn) 코일을 이용하여 자기장을 만들어내는 세계 최초의 토카맥이라고 말한다. KSTAR 토카맥의 주 설계 규모는: 외반경 1.8 미터, 내반경 0.5 미터, 자기장 3.5 태슬라, 플라스마 전류 2.0 MA, 플라스마 온도 섭시 1-3억도 그리고 자석 무게 270톤. 
+
+¶7. KSTAR를 위해 기술적 조언을 해준 윈컨신 대학교 핵융합 과학자로써 9월 14일 기념 행사에 참석한 조지 맥키는 어떻게 KSTAR가 현존하는 토카맥과 비교되는지 그의 의견을 SETH에게 전했다. 
+
+"KSTAR는 중형 토카맥 실험(로)이다. 현제 세계엔 두 대형 실험(로)가 있고 (일본의 JT-60U 그리고 유럽의 JET) 두개의 비슷한 (중형) 크기의 실험(로)들이 있다 (미국의 DIII-D, 그리고 독일 ASDEX-U). 하지만 KSTAR는 완전히 고전도체 자석을 이용하고 최고로 효율적인 ('차세대 토카맥' 플라스마라고도 불리는) 플라스마를  얻기 위한 최신 발상과 디자인을 갖춘 점이 특별하다. 중국 헤페이에서 막 가동된 EAST 토카맥은 KSTAR와 비교해 비슷한 설계를 가지고 있고 또 초전도체를 이용한다. 하지만 KSTAR는 최신 플라스마 가열, 조작 그리고 전류 운행 능력들을 갖추었고 조금 클 뿐 아니라 최신 통제 시스템과 진단 장치를 가지고 있다. 두 실험(로)는 서로를 잘 보충해 줄 것이다."
+
+
+===== ITER를 위해 만들어 가는 길 그리고 넘어서 ===== 
+
+¶8. 맥키는 "KSTAR는 앞으로 몇년 간 핵융합 플라스마 기능과 우리의 기초 핵융합 플라스마 공정들의 과학적 이해를 발전시킬 세계에서 가장 성과가 많은 실험(로)가 될 가능성이 크다..."고 의견을 전개했다. KSTAR 실험은 "긴 파동, 높은 기능"(을 가진) 융합 플라스마의 물리적 현상을 연구하기 위한 아주 중요한 실험이다. 장래의 ITER과 더 먼 미래를 봤을때 현존하는 핵융합의 가장 큰 불확실성 중 하나는 고온 고압력 플라스마를 유지하는 동안 어떻게 고온 플라스마와 토카맥로가 긴 시간 (몇십초에서 몇분) 동안 상호 작용 하는가이다. 경험에 의하면 고기능 상태는 비교적 짧은 시간 (몇초) 동안 유지 될 수 있지만 긴 파동을 유지하기 위해선 플라스마 불안정성의 되먹임 제어와 플라스마와 벽 사이의 해로운 상호 작용의 방지가 필요하다.
+
+¶9. 맥키는 "KSTAR는 ITER 뿐만 아니라 ITER 훗날의 핵융합로를 위한 고기능 플라스마 개발에 아주 유용한 과학적 지식과 기술을 제공하는 높은 "일반적" 기능 상태를 유지하기 위해 노력할 계획이라고 말을 마쳤다.
+ 
+
+
+===== 미국 과학자들 아주 깊게 기여 ===== 
+
+¶10. 미국 에너지 부와 많은 미국의 연구소들이 KSTAR 디자인과 건설에 깊게 관여했다. 미국의 두 주축 핵융합 센터들이 (뉴저지의 프린스턴 플라스마 물리 실험실과 샌디에고의 제네랄 아톰 사) 주도했으며 이 공동 작업에는 윈컨신 대학, 데이비스의 캘리포니아 대학, 콜럼비아 대학, 오크리지 국립실험실의 과학자들이 포함됬다. 맥키 박사가 세부사항을 제공했다:
+
+"미국과 한국은 KSTAR 실험을 중심으로 플라스마 제어 및 라디오 진동수 그리고 전자기파 바탕의 가열 방식, 플라스마 안정성 그리고 진단 (방법)의 촬영법과 정보 수집과 같은 분야에서 여러 활동적인 공동작업을 전개하고 있다.   미국의 에너지부가 KSTAR 실험을 위해 여러가지 디자인 연구와 제어 시스템 개발에 대해 돈을 대고 있다. 이 협작은 미국 국립 연구소들과 회사들 그리고 대학들에서 진행되고 있다..."
+
+¶11. 미래 지향적인 한미간의 협력 관계를 강조하기 위해 맥키 박사는 KSTAR 실험(로) 디자인이 프린스턴 플라스마 물리 실험실의 주도 하에 미국에서 개발된 토카맥 (토카맥 물리 실험 (TPX)) 디자인에 부분적으로 기반을 두었다고 말했다. 얼마후 한 에너지부 관리는 TPX 디자인은 돈이 부족해 미국에서 지어지지 않았는데 그래서 그 디자인이 KSTAR의 건설에 매우 유용하게 쓰였다는 점이 만족스러웠다고 ESTH에게 말했다. 
+
+===== 지적 =====
+
+¶12. 9월 14일 기념 행사에서 ITER 사무총장 내정자 가나메 이케다를 포함한 여러 연사들이 KSTAR가 한국에게 국제적 핵융합 연구에 대한 주도적 역할을 부여한다고 표현했다. KSTAR가 핵융합을 사용한 전기 생산이 가능하고 경제적인 시대를 제촉하는데 기여할 것이라는 기대가 높다. KSTAR의 건설은 지난 40년 동안 한국 과학의 발전과 한미간 계속되는 역동적 그리고 성과 많은 과학적 협력 관계를 증명한다.  
+
+버시바우
+
+
+
+====== 원문 ======
+
+  UNCLAS SEOUL 003033 
+   
+  SIPDIS  
+   
+  SIPDIS 
+   
+  DEPT FOR STAS, OES/SAT, OES/STC, AND ISN/NESS 
+  DEPT ALSO FOR EAP/K 
+  WHITE HOUSE FOR OSTP 
+  USDOC FOR 4440/IEP/EAP/OPB/WGOLIKE 
+  USDOC ALSO FOR ITA/TA 
+  USDOC ALSO NIST FOR SCARPENTER 
+  USDOE FOR INTERNATIONAL - R. PRICE 
+  USDOE ALSO FOR OFFICE OF SCIENCE - E. OKTAY 
+  DEPT PASS TO NRC FOR INTL PROGRAMS 
+  USMISSION VIENNA FOR IAEA DEL 
+   
+  E.O. 12958: N/A 
+  TAGS: TRGY ENRG KSCA KNNP KS
+  SUBJECT: KOREA UNVEILS ADVANCED TOKAMAK FUSION TEST DEVICE BUILT 
+  WITH U.S. COLLABORATION  
+   
+   
+  SUMMARY 
+  ------- 
+   
+  ¶1.  On September 14, President Roh unveiled Korea's cutting-edge 
+  nuclear fusion plasma chamber, the Korea Superconducting Tokamak 
+  Advanced Research (KSTAR) device, at the National Fusion Research 
+  Center outside Daejeon.  Built at a cost of some USD 329 million, 
+  KSTAR is one of the world's most advanced Tokamaks, using 
+  superconducting coils and advanced techniques to heat and shape 
+  plasma.  KSTAR was built using domestic technology, with technical 
+  assistance from a number of fusion research labs in the United 
+  States and other countries.  Following testing of its subsystems, 
+  KSTAR is expected to produce its first plasma by June 2008, and to 
+  achieve full-scale operations several years later.  KSTAR will play 
+  an important role in international fusion research, both before and 
+  after the start-up of the larger-scale International Thermonuclear 
+  Experimental Reactor (ITER) in Cadarache, France, in 2016.  Comment: 
+  KSTAR demonstrates both how far Korean science has progressed and 
+  the extent to which U.S.-Korean scientific collaboration continues 
+  to play a role in that progress.  End summary. 
+   
+  KSTAR - CENTERPIECE OF KOREAN FUSION RESEARCH 
+  --------------------------------------------- 
+   
+  ¶2.  The KSTAR Tokamak is the centerpiece of Korea's fusion research 
+  program.  (Tokamak is a Russian acronym for Toroidal -- or 
+  doughnut-shaped -- Chamber in Magnetic Coils.  It is a device using 
+  powerful magnets to confine a plasma -- ionized gases -- to permit 
+  controlled fusion reactions.)  The Korean government has spent USD 
+  329 million since 1995 to construct KSTAR and related devices at the 
+  NFRC, located in Daedeok Innopolis, outside of Daejeon (150 
+  kilometers south of Seoul).  A ceremony was held on September 14 to 
+  mark the completion of construction.  
+   
+  ¶3.  Lee Gyeong-su, Director of Fusion Research at Korea's National 
+  Fusion Research Center (NFRC), told ESTH that NFRC is still testing 
+  individual KSTAR systems, and that full-scale operation is planned 
+  to begin by June, 2008.  Once KSTAR is operational, Korea plans to 
+  spend some USD 37 million annually over eighteen years on fusion 
+  research.  The goal is to maintain dense, superheated plasmas for 
+  periods of at least 300 seconds, in order to gather information on 
+  heating, diagnostic and controlling techniques.  This information 
+  will feed into the multinational ITER project, in which Korea is a 
+  founding partner.  
+   
+  ¶4.  Looking further into the future, Korea's "road map" for fusion 
+  energy development aims to demonstrate the feasibility of fusion 
+  power generation by 2030; complete the engineering design of a 
+  fusion reactor by 2035; and begin commercial production of 
+  electricity using fusion by 2040. 
+   
+  ¶5.  As testament to the importance that the Korean government gives 
+  to the prospect of fusion energy, President Roh Moo-hyun attended 
+  the September 14 event, and spoke not once but three times.  He 
+  lauded the scientists and domestic industries responsible for 
+  bringing the project to completion, and expressed his hope that 
+  KSTAR would play a crucial role in allowing Korea to achieve energy 
+  self-reliance.  (Comment:  With an election coming up, Roh also used 
+  the occasion to announce that he would seek legislative approval to 
+  bring scientists from NFRC and other state-run research institutes 
+  into the government pension scheme, a proposal that provoked smiles 
+  of approval among those assembled.  End comment.) 
+   
+  COMPARING KSTAR TO EXISTING TOKAMAKS 
+  ------------------------------------ 
+   
+  ¶6.  NFRC says that KSTAR is the world's first Tokamak to use 
+  highly-efficient niobium-three-tin (Nb3Sn) coils to generate 
+  magnetic fields.  The principal parameters of the KSTAR Tokamak are: 
+  major radius 1.8 meters, minor radius 0.5 meters, toroidal field 3.5 
+  Telsa, plasma current 2.0 MA, plasma temperature range 100-300 
+  million degrees Celsius, and magnet weight 270 tons. 
+    
+  ¶7.  George McKee, a University of Wisconsin fusion scientist who 
+  provided technical assistance for KSTAR and who attended the 
+  September 14 ceremony, provided ESTH with his assessment of how 
+  KSTAR compares to existing Tokamaks: 
+   
+  "KSTAR is a medium-sized Tokamak experiment. Currently, there are 
+  two larger experiments in the world (JT-60U in Japan and JET in 
+  Europe), and two comparably-sized experiments (DIII-D in the United 
+  States, and ASDEX-U in Germany).  But KSTAR will be unique in that 
+  it employs fully superconducting magnets and implements the latest 
+  ideas and designs for obtaining the highest performing plasmas 
+  (so-called "Advanced Tokamak" plasmas).  The EAST Tokamak that has 
+  just begun operations in Hefei, China, has roughly similar 
+  parameters to KSTAR and is also superconducting.  However, KSTAR 
+  employs advanced plasma heating, shaping and current-drive 
+  capabilities, is somewhat larger, and has advanced control systems 
+  and a diagnostics suite. The two experiments should complement each 
+  other quite well." 
+   
+  PREPARING THE WAY FOR ITER -- AND BEYOND 
+  ---------------------------------------- 
+   
+  ¶8.  McKee went on to opine that "KSTAR is poised to be the most 
+  fruitful experiment in the world in several years to further advance 
+  both the performance of fusion plasmas and our scientific 
+  understanding of basic fusion plasma processes....The KSTAR 
+  experiment will be a crucial experiment for investigating the 
+  physics of 'long-pulse, high performance' fusion plasmas.  One of 
+  the major uncertainties in fusion looking forward to ITER and beyond 
+  is how the high-temperature plasma and the Tokamak vessel interact 
+  over long time periods (tens of seconds to minutes) while sustaining 
+  high-temperature, high-pressure plasmas."  Experience shows that 
+  high performance can be maintained for relatively short periods -- 
+  several seconds -- but sustaining for longer pulses requires complex 
+  feedback control of plasma instabilities and the avoidance of 
+  deleterious plasma-wall interactions. 
+   
+  ¶9.  McKee concluded that "KSTAR will seek to maintain high 
+  "normalized" performance that should provide very useful scientific 
+  information and techniques for developing high performance plasmas 
+  for ITER as well as for extrapolating beyond ITER to fusion 
+  reactors.  Thus it will continue to be a very relevant and 
+  pioneering experiment even during the operation of ITER." 
+   
+  U.S. SCIENTISTS DEEPLY INVOLVED 
+  -------------------------------  
+   
+  ¶10.  The U.S. Department Energy and numerous U.S. research 
+  institutions have been deeply involved in the design and 
+  construction of KSTAR.  With two major fusion centers in the U.S. 
+  (Princeton Plasma Physics Laboratory in New Jersey and General 
+  Atomic Company in San Diego) taking the lead, this collaboration has 
+  included scientists from the University of Wisconsin, the University 
+  of California at Davis, Columbia University, and Oak Ridge National 
+  Laboratory, among others.  Dr. McKee provided details: 
+   
+  "The U.S. and Korea are engaged in numerous active collaborations 
+  centered around the KSTAR experiment in the areas of plasma control, 
+  radio-frequency and microwave-based heating systems, plasma 
+  stability, and imaging and profile diagnostics. The U.S. Department 
+  of Energy is providing funding for numerous design studies and 
+  control system development for the KSTAR experiment.  These 
+  collaborations take place with U.S. National Laboratories, 
+  companies, and universities...." 
+   
+  ¶11.   To further emphasize the long-term nature of the U.S.-Korea 
+  collaboration, Dr. McKee remarked that the KSTAR experiment design 
+  is based in part on a Tokamak design (Tokamak Physics Experiment, or 
+  TPX) that was developed in the U.S., with the leadership of   
+   
+  Princeton Plasma Physics Laboratory.  A DOE official later commented 
+  to ESTH that the TPX design was not built in the United States due 
+  to a lack of funding, so it was gratifying to see that the design 
+  proved so useful in the construction of KSTAR. 
+   
+  COMMENT 
+  ------- 
+   
+  ¶12.  Several speakers at the September 14 ceremony, including ITER 
+  Secretary General-designate Kaname Ikeda, described KSTAR as    
+  allowing Korea to assume a leading role in international fusion 
+  research.  Hopes are high that KSTAR will contribute to hastening 
+  the day when electricity generation using fusion is shown to be both 
+  feasible and cost-effective.  Meanwhile, KSTAR's completion 
+  testifies both to the advances of Korean science over the past four 
+  decades, and to the continuing vigor and fruitfulness of U.S.-Korean 
+  scientific collaboration.  
+  
+  VERSHBOW

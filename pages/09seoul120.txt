@@ -1,0 +1,168 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL120  |  2009-01-23 00:48  |  비밀  |  주한미국대사관  |  {{tag>MARR PREL MOPS PGOV  KS AF }}  |
+======제 목: 개념계획 5029, 방위비 분담 동의안, 아프가니스탄 문제 등에 대한 한국 정부의 견해 ======
+  *비 밀 SEOUL 000120 
+  *국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  *행정명령 12958: 비밀해제: 01/16/2019 
+  *태그: MARR (([Military and Defense Arrangements])), PREL (([External Political Relations])), MOPS (([Military Operations])), PGOV (([Internal Governmental Affairs])), KS (([Korea (South)])), AF (([Afghanistan]))  
+  *제목: 개념계획 5029, 방위비 분담 동의안, 아프가니스탄 문제 등에 대한 한국 정부의 견해
+  *분류자: 공관차석 빌 스탠튼((번역 주: 공관차석=부 대사DCM Bill Stanton)) 근거 1.4 (b/d). 
+  *번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/20 03:57//
+===== 요점 =====
+1. (비밀) 한국 외교안보수석 김성환은 주한미군 사령관 사프 장군과 대사관 공관차석이 함께한 1월 15일 청와대에서 가진 30분간의 화기애애한 회의에서, 개념계획 2029, 새로운 방위비 분담 특별협정, 아프간 등의 광범위한 내용에 대한 한국정부의 입장을 논의했다. 김 수석은 개념계획이 잘 준비가 됐지만, 중국에 대한 설정은 //”비현실적”//이라고 했다. 김 수석은 방위비 분담에 관한 특별협정이 좋은 협정으로 생각하지만, 국회의 반응을 예견할 수는 없다고 말하였다. 그렇긴 하지만 그는 2월에 국회가 방위비 분담 특별협정을 비준할 것으로 예상했다. 김 수석은 한국정부는 국내 정치상황이 허락하는 범위 내에서, 그리고 새 미국정부로부터 더 많은 요청 여부와는 상관없이, 여력이 되는 만큼 아프간 지원을 확대할 거라고 말하였다. 김 수석은 백악관 국가안보보좌관 지명자인[[wp>James_L._Jones| 제임스 존스 장군]]과((번역 주: NSA-designate General James Jones)) [[wp>Michele_Flournoy |미셀 플루노이]] 국방정책 차관((번역 주: Under Secretary of Defense for Policy)), 그리고 게이츠 국방장관 등과 함께하는 워싱턴 주재 한국 대사관의 회의 주선해 노력을 도와달라고 요청했다. //요점 끝.//
+===== 파병근무기간 정상화 =====
+2. (미분류) 사프 장군은 미 국방장관이 파병근무기간 정상화를 승인했고, 주한미군 근무자를 모집하기 위한 웹페이지를 개설하고 있다는 언급과 함께 회동을 시작하였다. (주석: 주한미군 대부분의 군복무는 동반자 없는 1년 복무이다. 파병근무기관 정상화와 더불어 군인 가족과 함께 하는 3년 복무가 될 예정이다. 주석 끝.) 김 수석의 질문에 대답으로, 사프 장군은 현재 주한미군 가족은 2,000명 정도이며, 2010년 초에는 두 배가 되길 희망하고 있다고 언급하였다. 군인가족 인원의 최종 목표는 14,000명이다.
+===== 개념계획 5029 =====
+3. (비밀) 김 수석은 개념계획 5029의 준비가 잘 되었지만, 중국에 대한 설정이 //”비현실적”//이라고 말했다. 사프 장군은 미국과 한국의 군사행위에 중국이 반대하는 경우 비상시 계획에 관해서 특히 그렇다고 동의했다. 김 수석은 한국정부의 개념계획은 단지 군대만이 아닌, 전체 정부를 아우르는 것인 만큼, 한국정부는 올여름 이후에나 개념계획을 논의할 준비가 될 거라고 말하였다.<WRAP center round info 80%>
+//**개념개획과 작전계획의 차이**//
+개념계획(Concept Plan)은 개괄적인 성격의 다소 추상적인 계획을 말할때 쓰는 일종의 군사작전 용어다. 개념계획은 병력동원이나 부대 배치등 군사작전에 필요한 구체적인 계획은 포함 돼 있지 않다.반면에 작전계획(Operation Plan)은 병력동원 계획등을 포함하고 있어 개념계획에 비해 즉각 행동 및 실행에 옮길 수 있다. 자세한 내용은 [[http://shindonga.donga.com/docs/magazine/shin/2005/03/23/200503230500042/200503230500042_1.html|한미연합사, 북한 유사시 대비 ‘작전계획 5029-05’ 추진]] //신동아// 기사를 읽어보길 권장한다.
+</WRAP>
+===== 방위비 분담 특별협정 =====
+4. (기밀) 김 수석은 [[09seoul82|방위비 분담 특별협정]]은 잘된 협정으로 생각하지만, 국회가 어떻게 받아들일지 예견할 수는 없다고 했다. 그는 방위비 분담 특별협정이 상임위원회와 본회의 표결에 부쳐지면 통과할 것으로 믿고 있지만, 여려 야당이 상임위원회 심의를 차단할 수도 있다고 걱정했다. 그러나 여야의 국회의원들이 최근 국회 본회위장에서의 싸움 이후에 아마도 더 신중하게 처신을 할 것이라고 하면서, 자신은 2월에 방위비 분담 특별협정이 비준될 수 있다고 생각한다고 했다. 김 수석은 언론 대책으로는 국방장관과 주한미군이 국회가 비준을 마칠 때까지 방위비 분담 특별협정에 대한 언급을 피하는 게 상책이라고 생각하였고, 사프 사령관은 이에 동의하였다.
+===== 기지 반환 =====
+5. (비밀) 샤프 장군은 //”현물거래”// 건설이 방위비 분담 특별협정에 포함돼 있음을 지적하면서, 공사에 문제가 생기면 주한미군의 재배치가 지연되기 때문에 주한 미군의 새 시설물들이 예정기일에, 또 실효적으로 건설되는 것이 //”절대적인 핵심사항”//임을 강조했다. 김 수석은 이에 동의하고, 지방정부가 주한미군 부대가 빠져나가면서 해당 토지를 반환하라고 압력을 가하고 있다고 언급하였다. 사프 장군은 동두천 오세창 시장과 가진 전날 회의를 설명하면서, 지방정부가 토지가 조기 반환됨으로써 생기는 경제적인 계산을 하고 있다며, 그 지역사회에서 벌써 투자를 했다고 언급했다. 사프 장관은 만일 미군이 이동할 시설물들이 건설되었다면, 특정 기지의 부분적인 반환도 가능하다고 말했다. 사프 장관은 동두천에 반환토지 중에서 몇몇 구획을 반환하는 것보다는 2016년에 무든 구획들이 한꺼번에 반환되는 것이 바람직하다고 했는데, 이에 김 수석은 수긍하였다. 김 수석은 사령관이 만일 주한미군의 새 시설물에서 일하는 주택 업자들에게 출연금을 지출하는데 애로사항이 생기면 자신에게 연락하라고 했다. 김 수석에 감사하면서, 사프 장군은 우리가 모두 같은 목적을 추구하는데, 양측 공히 지도력이 필요하다고 언급하였다.
+===== 아프간 =====
+6. (비밀) 아프간으로 화제를 바꿔서, 김 수석은 한국정부는 국내 정치상황이 허락하는 범위 내에서, 그리고 새 미국정부로부터 더 많은 요청 여부와는 상관없이, 여력이 되는 만큼 아프간 지원을 확대할 거라고 말했다. 1월 21일에 (현지에) 도착하는 한국정부 대표단이, 한국정부가 제공할 수있는 모든 원조 가능성에 대해 검토를 할 것이라고 했다. 샤프 장군의 경찰 훈련이 필요하다는 의견개진에 대한 답변으로, 김 수석은 한국정부가 퇴직한 경찰들을 훈련요원으로 보내는 것을 고려하고 있다고 말했다.
+===== 김 수석의 워싱턴 방문 =====
+7. (비밀) 김 수석은 백악관 국가안보보좌관 지명자인[[wp>James_L._Jones| 제임스 존스 장군]]과((번역 주: NSA-designate General James Jones)) [[wp>Michele_Flournoy |미셀 플루노이]] 국방정책 차관((번역 주: Under Secretary of Defense for Policy)), 그리고 게이츠 국방장관 등과 함께하는 워싱턴 주재 한국 대사관의 회의 주선해 노력을 도와달라고 요청했다. 그는 또한 게이츠 국방장관과의 예방과 국무부에서의 적절한 회의를 요청하였다.
+
+8.(비분류) 주한미군은 이 전문을 승인했다.
+//스티븐스//
+프와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://shindonga.donga.com/docs/magazine/shin/2005/03/23/200503230500042/200503230500042_1.html|한미연합사, 북한 유사시 대비 ‘작전계획 5029-05’ 추진]]  //신동아//
+  - [[http://shindonga.donga.com/docs/magazine/shin/2005/06/27/200506270500032/200506270500032_1.html|미군의 세계전략 변화와 ‘작전계획 5029’]] //신동아//
+===== 원본 및 내려 받기 =====
+<file rtf 09SEOUL120.rtf>
+S E C R E T SEOUL 000120 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/16/2019 
+TAGS: MARR [Military and Defense Arrangements], PREL [External Political Relations], MOPS [Military Operations], PGOV [Internal Governmental Affairs], KS [Korea (South)], AF [Afghanistan] 
+SUBJECT: ROKG VIEWS ON CONPLAN 5029, SMA, AND AFGHANISTAN 
+ 
+Classified By: DCM Bill Stanton for reasons 1.4 (b/d). 
+ 
+¶1.  (S)  Summary.  ROK National Security Advisor Kim 
+Sung-hwan discussed the ROKG's positions on Conceptual Plan 
+(CONPLAN) 5029, the new Special Measures Agreement (SMA), and 
+Afghanistan during a cordial and wide-ranging 30-minute 
+meeting at the Blue House on January 15 with United States 
+Forces Korea (USFK) Commander General Sharp and the DCM.  Kim 
+said that CONPLAN was well prepared, but the assumptions 
+about China were "unrealistic."  Kim thought that the new SMA 
+on burden sharing was a good agreement, but could not predict 
+the reception it would receive in the National Assembly. 
+Nonetheless, he expected the National Assembly to ratify the 
+agreement in February.  Kim said that the ROKG would do as 
+much as it could to increase its support of Afghanistan, 
+within the constraints of domestic politics, and irrespective 
+of whether it received a request to do more from the incoming 
+U.S. Administration.  Kim requested help with the ROK 
+Embassy's efforts to arrange meetings with NSA-designate 
+General James Jones, Michele Flournoy (designated for Under 
+Secretary of Defense for Policy), and Defense Secretary 
+Gates.  End summary. 
+ 
+------------------ 
+Tour Normalization 
+------------------ 
+ 
+¶2.  (U)  General Sharp started the meeting by noting that the 
+Defense Secretary had approved tour normalization and that 
+USFK was constructing a website to attract personnel.  (Note: 
+ For most USFK personnel, tours are unaccompanied, one-year 
+assignments.  With normalization, tours will be accompanied, 
+three-year assignments.  End note.)  Responding to an inquiry 
+from Kim, the General stated that currently there were about 
+2,000 USFK families, which USFK hoped to double by the 
+beginning of 2010.  The end goal was 14,000 families. 
+ 
+------------ 
+CONPLAN 5029 
+------------ 
+ 
+¶3.  (S)  Kim said that while Conceptual Plan (CONPLAN) 5029 
+was well prepared, the assumptions about China were 
+"unrealistic."  General Sharp agreed, particularly with 
+regard to contingency plans in the event China opposed U.S. 
+and ROK military action.   Kim said that since the ROKG's own 
+CONPLAN encompassed the entire Government and not just the 
+military, the ROKG would not be ready to discuss it until the 
+summer. 
+ 
+--- 
+SMA 
+--- 
+ 
+¶4.  (C)  Kim thought that the SMA was a good agreement, but 
+could not predict how the National Assembly would receive it. 
+ He believed that the SMA would pass if it were brought to a 
+vote in committee and the plenary, but worried that 
+opposition parties could try to block discussion in 
+committee.  Still, noting that Korean legislators of both 
+parties would probably behave more cautiously following 
+recent fighting on the National Assembly floor, he thought 
+that the SMA could be ratified in February.  In dealing with 
+the media, Kim thought that the best course of action for 
+both the Ministry of National Defense and USFK was to avoid 
+comment on the agreement until after the National Assembly 
+ratified it.  General Sharp agreed. 
+ 
+------------ 
+Base Returns 
+------------ 
+ 
+¶5.  (S)  Noting that "in-kind" construction was a part of the 
+SMA, General Sharp stressed that it was "absolutely key" that 
+the construction of new USFK facilities had to be timely and 
+properly executed, because problems with construction would 
+delay USFK's realignment.  Kim agreed, noting that local 
+governments were pressing for the return of the land from 
+which USFK forces would be withdrawn.  Recounting his own 
+meeting the previous day with Mayor Oh Se-chang of 
+Dongducheon, General Sharp noted that local governments were 
+counting economically on the early return of land in which 
+their communities had already invested.  General Sharp said 
+it was possible some portions of certain bases might even be 
+returned early if there were facilities built to which U.S. 
+forces could go.  Kim concurred with the General that 
+returning some parcels of land around Dongducheon before 2016 
+was preferable to waiting until 2016 to return all the 
+parcels at one time.  Agreeing, Kim said the General should 
+contact him if USFK encountered any impediments with funding 
+disbursements to the housing corporations working on USFK's 
+new facilities.  Thanking Kim, General Sharp noted we were 
+all after the same thing, but leadership on both sides would 
+be required. 
+ 
+----------- 
+Afghanistan 
+----------- 
+ 
+¶6.  (S)  Turning to Afghanistan, Kim said that the ROKG would 
+do as much as it could, within domestic political contraints, 
+and irrespective of whether it received a request to do more 
+from the incoming U.S. Administration.  The ROKG delegation 
+arriving in Kabul January 21 would be reviewing all 
+possibilities for assistance the ROKG might offer.   In 
+response to General Sharp's observation on the need for 
+police trainers, Kim said the ROKG was considering sending 
+retired police as trainers. 
+ 
+------------------------- 
+Kim's Visit to Washington 
+------------------------- 
+ 
+¶7.  (S)  Kim said he was planning to visit Washington in 
+early February and requested help with the Korean Embassy's 
+efforts to arrange meetings with NSA-designate General James 
+Jones and Michele Flournoy, who has been designated for Under 
+Secretary of Defense for Policy.  He also requested a 
+courtesy call with Defense Secretary Gates and appropriate 
+meetings at State. 
+ 
+¶8.  (U)  USFK cleared this cable. 
+STEPHENS
+</file>

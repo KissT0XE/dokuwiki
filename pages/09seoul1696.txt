@@ -1,0 +1,56 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1696  |  2009-10-26  |  미분류  |  주한미국대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 001696
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US
+제 목: 서울, 언론 반응
+작성자: PoirotKr (트위터 사용자명) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2016/02/18 19:37//
+제 목: 언론 반응; 서울
+
+===== 동아시아 태평양: 북한의 새로운 모색과 핵 프로그램, 6자회담 =====
+
+**[[http://news.joins.com/article/3842490|[사설] 첫 북·미 접촉 성사 … 6자회담 복귀로 이어져야]]**
+
+중도 우파 중앙일보 사설 10월 16일: "북한의 의도는 갈수록 강화되는 국제사회의 대북 제재를 완화하고 한·미·일을 중심으로 한 대북 공조체제를 교란하려는 데 초점이 있는 것으로 판단된다. …한·미·일 3국은 북한의 2차 핵실험을 계기로 핵 문제 해결을 위해 ‘압박과 대화’의 투 트랙 접근법을 실행 중이다. 우리는 북한이 핵 포기를 돌이킬 수 없는 상황으로 진전시킬 때까지 이 방식을 계속 고수해야 한다고 믿는다. …북한의 평화공세에 휘말려 성급하게 제재를 푸는 일은 피해야 한다."
+
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL1696.rtf>
+UNCLAS SEOUL 001696 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL, PGOV, MARR, ECON, KPAO, KMDR, KS, US 
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+Subject: Media Reaction; Seoul 
+ 
+East Asia and Pacific: North Korea's new initiatives, nuclear 
+program, Six-Party Talks 
+ 
+"FIRST U.S.- N. KOREA CONTACT SINCE THE LAUNCH OF THE OBAMA 
+ADMINISTRATION SHOULD LEAD TO THE NORTH'S RETURN TO SIX-PARTY 
+TALKS" 
+ 
+Right-of-center JoongAng Ilbo editorialized (10/26): "It appears 
+that North Korea's (recent actions) are aimed at easing 
+international sanctions which have intensified and disrupting 
+cooperation between the ROK, the U.S. and Japan.  Following the 
+North's second nuclear test, the three countries implemented a 
+two-track approach of 'pressure and dialogue' to resolve the nuclear 
+issue.  This approach should be maintained until the North takes 
+irreversible steps toward denuclearization. ...  The North's current 
+flurry of peace overtures should not in any way lead to a hasty 
+lifting of sanctions against the country." 
+ 
+ 
+STEPHENS 
+</file>

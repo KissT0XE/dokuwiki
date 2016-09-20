@@ -1,0 +1,200 @@
+^  문서번호  ^  생성일  ^  배포일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2340  |  2008-12-08 07:28  |  2011-08-30 01:44  |  기밀  |  서울대사관  |  {{tag>PGOV PREL PINR KN KS }}  |
+====== 제 목: 이명박 대통령, 인기가 없지만 야당보다는 나아 ======
+  * 기 밀 SEOUL 002340 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+  * 행정명령 12958: 비밀해제: 04/10/2018 
+  * 태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KN(([Korea (North)])), KS(([Korea (South)])) 
+  * 제 목: 이명박 대통령, 인기가 없지만 야당보다는 나아
+  * 분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d). 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/05/08 08:41//
+===== 요점 ===== 
+1.(기밀) 요점: 이명박 대통령은 고착된 낮은 지지율로 고통을 받고 있는데, 효과적인 국정운영 능력에 영향을 미치고 있다. 심지어 청와대 일부 내부 관계자는 만일 2009년 안에 반전시키지 못한다면, 2010년 지방선거와 2012년 국회의원 선거에서의 공천다툼으로 그늘이 드리워지면서 이명박이 남은 임기를 권력부제 상태로 보낼 수 있다고 걱정하고 있다. 가능한 답은 박근혜와 연대하는 것이지만, 대부분의 관측통들은 이명박이 어떤 식으로든 박근혜를 돕는 것을 꺼리는 걸 볼 때 가능치 않다고 믿고 있다. 이 대통령의 임기 첫 해 역대 최저 수준에 머무르고 있는 맥 빠진 지지도를 고양시키기 위해 내각 개편을 하는 것이 더 있을 법한 수순이다. 이명박의 낮은 지지율은 야당인 민주당의 더 부정적인 지지율로 덮여지고 있어, 만일 국민이 다른 대안이 없다고 계속 느끼게 된다면, 다시 자신을 지지할 것이라고 이명박에게 일말의 희망의 여지를 갖게 해준다. //요점 끝.//
+===== 여론조사―이명박 보다 한나라당이 더 인기 =====
+2.(기밀) 11월 26일 한국사회여론연구소의 여론조사에서 이 대통령의 지지율이 23.7퍼센트에 고정되어 있고, 이는 집권당인 한나라당보다(32.2퍼센트) 8.6퍼센트 낮은 지지율이다. 이명박과 한나라당의 인기는 5월과 6월 미국 쇠고기 반대 시위 중에 인기가 추락했다. 그러나 한나라당은 당 지지율의 대부분을 회복했지만 이명박은 그렇지 않다. 한나라당은 지지율 회복은 한나라당의 가장 큰 계파의 수장이며, 2012년 대선 후보로 점쳐지는 박근혜의 인기 상승에 그 원인을 두는 사람들이 많다. 박근혜와 협력하는 것을 이 대통령이 계속 거부한 점이 그에게 손상을 입힌 것도 분명한데, 이유인즉 대중은 경제 위기나 기타 여러 정책 실패에 대해 청와대를 대개 비난하고 있기 때문이다. 예를 들면, 한국 언론은 이명박·박근혜의 대립구도를 오바마 대통령 당선자가 클린턴 상원의원을 차기 국무부 장관으로 지명한 것과 대조시키며 신나게 떠들어 대고 있다.
+
+3.(기밀) 취임한지 1년도 채 되지 않아서, 이명박은 한국 국민들 사이 고착된 환멸감과 마딲드리고 있는데, 그의 지지율이 가을 내내 모든 여론조사에서 25퍼센트 대에 머무르고 있다. 그러므로 이명박은 대선 중 약속했던 여러 정책구상에 필요한 국민적 성원을 확보하기 어렵게 될 것이다. 심지어 보수 일간지인 조선일보의 가장 영향력있는 컬럼리스트는 대통령과 참모의 무능력에 대해 12월 1일 칼럼에서 꾸짖었다. 이명박의 이념적 지지 모임인 뉴라이트는 전직 시민사회운동가로 구성되어 2007년 이명박의 중도적 한나라당 공약을 형성하는데 핵심 역할을 했는데, 이 단체 역시 스스로 이명박과 거리 두기를 하는 듯하다. 이목을 받는 뉴라이트 두되 집단이 주재한 최근 세미나에서, 주요 연사는 대선 선거운동 중에 이명박을 성원했던 이들에게 단지 국회나 청와대에 입성했다고 해서 //“예스 맨”//이 되지 말며, 한국이 금융위기를 극복하도록 계속해서 새로운 여러 정책을 내놓으라고 촉구했다.
+===== 지금은 예산안 다툼 =====
+4.(기밀) 국회에서는 현재 예산안 심사가 한창인데, 헌법에 의하면 12월 2일 경 의결되도록 해서 예산이 편성되는데 30일이 허용되는 것이다((번역 주: 「헌법 54조 2항」 정부는 회계연도마다 예산안을 편성하여 회계연도 개시 90일전까지 국회에 제출하고, 국회는 회계연도 개시 30일전까지 이를 의결하여야 한다)). 올해는 6년 연속 헌법에 규정된 만기일이 무시된 해로 기억될 것이다. 국민의 압력에 의해서라도, 예산안이 이번 주 즈음에 통과되어야 한다고 보도하고 있다. 예산안 다툼이 끝나면,  계류 중인 법안을 논의하기 위한 임시국회가 개원되어 1월 10일까지 지속될 것이다. 예로 한미 FTA나 여러 경제 조처가 해당 될 것인데, 현재 경제 위기를 한국이 감당하는데 국회가 도움이 못 되고 있다는 비난하는 이들을 달래기 위한 것이다.
+===== 조망간 내각 개편 =====
+5.(기밀) 대사관 국회 접선책은 보고하길 12월에 예산안으로 정신이 없을 것이며―1월 대부분이 휴회될 수있어―내각 개편이 가장 유력한 시점은 2월이다. 그 때가 되면, 이 대통령이 낮은 지지율 탓이 아닌, 자신의 취임 일 년 차 내각 개편을 한다는 주장을 할 수있다―1년은 한국 장관들의 평균 재임기간에 가깝다. 필요한 인사 청문회를 2월 이나 3월 중에 갖도록 하기 쉬워질 것이다. 대사관 접선책들은 이명박이 국회에 현재 입성한 자신의 대선 캠프 협력자 중 일부를 선임하려 들 것이며, 꽤나 논쟁을 살 수있을 것이라고 추정했다.
+
+6.(기밀) 교체될 것으로 보이는 장관들은 통일부, 문화체육부, 기획경제부, 그리고 국정원 등이다.  유명환 외교통상부 장관이 그만 두고 가장 빈번히 거명되고 있는 한나라당 박진 의원으로 교체될 수있다는 소문도 있다. 개각과는 별개로, 청와대 자체 조직 개편도 있을 듯하다고 대사관 청와대 정보통이 언급하고 있습니다. 다수의 전문가들은 청와대가 현직 정정길 보다는 더 강력한 대통령실장으로 쇄신해야 하다고 생각하는데, 정 실장은 항상 행동을 목전에 두고 망설이며, 듣기만 하지 회의를 주제하지 않는 //“그림자”//같은 방식으로 관리를 한다는 평이 있다. 대통령실장으로 거명되는 한 후보자는 권철현((번역 주: ‘권현철’이라고 철자가 뒤 바꿨다. )) 주일 대사이다. 이태식 주미 대사가 권종락 외교통상부 제1차관이나 외교안보수석 김병국 혹은 임성준 한국교류재단 이사장으로 교체될 수있다는 설도 있다.
+===== 야당인 민주당 여전히 표류 =====
+7.(기밀) 한국 정치는 제로섬 게임이 아니다, 그 이유는 야당인 민주당이 이 대통령과 한나라당보다 성적이 더 나쁘다. 민주당이 왜 그렇게 인기가 없는지를 설명해 주는 중앙일보의 최근 여론조사를 보면 29.5 퍼센트의 응답자들이 불만으로 삼은 점은 이 대통령과 그의 계획안을 야당이 맹목적으로 반대한다는 점이다. 24.9퍼센트는 민주당이 지도력이 부족하다고 생각했고, 12.1퍼센트는 그 당에 //“인기 정치인”//이 부족하다는 점을 들었다. 다른 전문가들은 엄청 인기없는 노무현 전 대통령이 언론에 빈번히 등장하는 것이 민주당이 여전히 노무현의 정당이란 이미지를 강화한다고 지적했다. 부정적 측면을 마주한 민주당이 이미지를 제고하고, 현재의 암울한 15퍼센트의 지지율보다 그 이상 얻으려면 수년이 걸릴 수있다고 대사관 접선책들은 지적하고 있다.
+===== 논평 =====
+8.(기밀) 한국에서 대통령 직함은 가장 강력한 권력 기관이며 국회보다 더 막강하다. 현재 국회에서 안정된 다수를 차지하고 있어, 이명박은 상당한 권한을 발휘할 수있다. 그는 자신의 정치세력을 결집시켜 주요 보수 의제를 밀어 붙일 수 있는데, 언론개혁법과 공기업 민영화, 수도권 권역 여러 공장들의 규제완화 및 기타 보수 법안이다. 그러나, 그렇게 호락호락하지 않다. 그 대신 이명박은 암울한 여론의 덫에 걸려 있으며, 한심한 인선, 악화일로의 경제 상황, 망가지는 남북관계, 그리고 무엇보다도 지도력의 부재에 대해 비난을 받고 있습니다.
+
+9.(기밀) 이명박은 자신의 국내 입지를 개선하기 위해서 무엇을 할 수있는가? 현실적으로, 그는 2007년 한나라당 대선 경쟁자인 박근혜와 연합을 이루던지, 적어도 이해를 구해야 한다. 박근혜와의 연합은 예들 들면, 그녀를 총리로 만든다면 행정부를 힘을 실어줄 것인데, 그러나 더 중요한 점은 이명박이 요구되는 지도력을 발휘하기위해 과거를 묻어버릴 능력이 있음을 보여준다. 그러나 그렇게 될 법하지 않는 이유는 이 대통령이 박근혜를 싫어하는 게 과거를 잊어버릴 수없을 정도이기 때문이다. 더 있을 법한 조치는 쇄신의 느낌을 줄만한 내각의 일부 교체를 하는 것인데, 일부 강만수 기획재정부 장관 같은 사람은 이명박 보다 더 인기가 없기 때문이다.
+//스티븐스//
+[[https://sites.google.com/site/poirotkr/---12/08seoul2340|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL2340.rtf>
+C O N F I D E N T I A L SEOUL 002340 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 04/10/2018 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations],
+PINR [Intelligence], KN [Korea (North)], KS [Korea (South)] 
+SUBJECT: PRESIDENT LEE UNPOPULAR, OPPOSITION EVEN MORE SO 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) Summary: President Lee Myung-bak is suffering from 
+entrenched low popularity that is affecting his ability to 
+govern effectively.  Even some Blue House insiders worry that 
+if he does not turn things around in 2009, he could spend the 
+remainder of his term powerless, overshadowed by jockeying 
+for the local elections in 2010 and the National Assembly 
+elections in 2012.  A possible fix is an alliance with Park 
+Geun-hye, but most observers believe this is unlikely given 
+Lee's unwillingness to help Park in any way.  More likely is 
+a cabinet reshuffle to try to boost his sagging popularity, 
+stuck at historically low levels for a president in his first 
+year.  Lee's low ratings are eclipsed only by the even more 
+negative ratings of the opposition Democratic Party, leaving 
+him some room to hope that people may support him again if 
+they continue to feel there is no other option.  End Summary 
+ 
+---------------------------------- 
+Polling - GNP More Popular than MB 
+---------------------------------- 
+ 
+¶2.  (C) A KSOI poll on November 26 pegged President Lee's 
+approval rating at 23.7 percent, 8.6 percent lower than that 
+for the ruling GNP (32.2 percent).  Both Lee and the GNP's 
+popularity dipped during the May and June anti-U.S. beef 
+demonstrations but the GNP has recovered most of its support 
+while Lee has not.  Most attribute the GNP's recovery to the 
+surging popularity of Park Geun-hye, head of a large faction 
+of GNP lawmakers and a likely candidate for president in 
+2012.  It is also clear that President Lee's continued 
+refusal to work with Park Geun-hye has damaged him, because 
+the public largely blames the Blue House for the economic 
+crisis and other policy failures.  For example, the South 
+Korean media has had a field day contrasting the Lee-Park 
+standoff with President-elect Obama's nomination of Senator 
+Clinton to be the next Secretary of State. 
+ 
+¶3.  (C) Less than a year after taking office, Lee Myung-bak 
+faces an entrenched disenchantment among the Korean public, 
+with his support hovering around 25 percent in all polls 
+throughout the fall.  He will, therefore, find it difficult 
+to obtain needed popular support for initiatives promised 
+during the campaign.  Even the conservative Chosun Ilbo's 
+most influential columnist railed against the incompetence of 
+the president and his advisors in a December 1 column.  Some 
+from Lee's core ideological support group, the New Right, 
+composed of former activists who played a key role in forming 
+Lee's centrist Grand National Party (GNP) platform in 2007, 
+also appear to be distancing themselves from him.  At a 
+recent seminar held by a prominent New Right think tank, the 
+main speaker exhorted those who had supported Lee during the 
+campaign not to be "yes men" just because they entered the 
+National Assembly or the Blue House but to continue to push 
+new policies to help Korea overcome the financial crisis. 
+ 
+----------------- 
+Budget Fights Now 
+----------------- 
+ 
+¶4.  (C) The National Assembly is currently dominated by 
+budget deliberations, which, according to the Constitution, 
+should be passed by December 2 to allow 30 days for monies to 
+be allocated accordingly.  This year marks the sixth straight 
+year the constitutionally mandated deadline has been ignored. 
+ Due to pressure from the public, sources report that the 
+budget should pass sometime this week.  Once the budget 
+fights are over, a special session is likely to be opened 
+that would last until January 10 to discuss outstanding bills 
+such as the FTA and several economic measures to mollify 
+those who have criticized the National Assembly for not 
+working to help Korea deal with the current economic crisis. 
+ 
+---------------------- 
+Cabinet Shuffle Later? 
+---------------------- 
+ 
+¶5.  (C) Our National Assembly contacts report that because 
+they will be preoccupied with the budget in December -- and 
+the Assembly could be out of session much of January -- the 
+most likely time for a cabinet reshuffle is February.  At 
+that time, President Lee could claim that he was changing the 
+cabinet after one year in office, which is close to the 
+average length of tenure for ROK ministers, and not due to 
+his low popularity.  Confirmation hearings are required so it 
+would be easier to hold these in February or March.  Our 
+contacts speculate that Lee will try to bring in some of his 
+campaign aides who are now in the Assembly, which could be 
+quite controversial. 
+ 
+¶6.  (C) Cabinet posts most likely to be changed are 
+Unification, Culture, Finance, and the NIS.  There are also 
+rumors that FM Yu Myung-hwan could be on his way out with GNP 
+Rep. Park Jin the most often named possible successor. 
+Outside the cabinet, our Blue House sources note that a 
+shake-up in their organization is also likely.  Many pundits 
+think that the Blue House should be strengthened with a more 
+powerful Chief of Staff than the incumbent Jung Jung-gil, who 
+is said to manage with a "shadow" style, always on the edge 
+of action, listening but not dominating meetings.  One 
+candidate for this job is Kwon Hyun-chul, the current 
+Ambassador to Japan.  There is also speculation that 
+Ambassador Lee Tae-sik could be replaced with VFM Kwon 
+Jong-rak, former NSA Kim Byung-kook or Korea Foundation head 
+Yim Sung-joon. 
+ 
+---------------------------------------- 
+Opposition Democratic Party Still Adrift 
+---------------------------------------- 
+ 
+¶7.  (C) Korean politics is not a zero-sum game, because the 
+opposition Democratic Party is doing even worse than 
+President Lee and the GNP.  According to a recent poll by 
+Joongang Ilbo to explain why the DP was so unpopular, 29.5 
+percent of respondents attributed their dissatisfaction to 
+the party's blind opposition to President Lee and his 
+initiatives.  24.9 percent said they thought the DP lacked 
+leadership and 12.1 percent cited the lack of "star 
+politicians" in the party.  Other pundits note that hugely 
+unpopular former President Roh Moo-hyun's frequent 
+appearances in the press strengthens the image that the DP is 
+still Roh's party.  Facing these negatives, our contacts note 
+that it could take years for the DP to remake its image and 
+to receive anything more than the current dismal 15 percent 
+support rating. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8. (C) Presidency has always been a strong leadership 
+institution in Korea, much more powerful than the National 
+Assembly.  Right now, with a comfortable majority in the 
+Assembly, Lee Myung-bak should be able to exercise 
+considerable authority.  He should be able to rally his 
+political forces to push through key conservative agenda, 
+which include the reform of the media, privatization of 
+public companies, deregulations of factories in the capital 
+area, and other conservative legislation.  However, this is 
+not the case.  Instead, Lee is caught in the web of dismal 
+polls, blamed for poor appointments, worsening economic 
+conditions, deteriorating North-South relations, and, above 
+all, for lack of leadership. 
+ 
+¶9. (C) What can Lee do to improve his domestic position? 
+Practically, he has to forge an alliance or at least an 
+understanding with Park Geun-hye, his 2007 GNP rival for the 
+presidency.  An alliance with Park, for example, by making 
+her prime minister, will energize the Administration, but, 
+more important, show the public that Lee is capable of 
+burying to past to provide the necessary leadership. 
+However, this is unlikely because President Lee's dislike of 
+Park is such that he simply cannot forget the past.  A more 
+likely course of action is some changes to his cabinet to 
+give a sense of a fresh start, which should go some ways in 
+mollifying that public, because some, like Finance Minister 
+Kang Man-soo, are even more unpopular than President Lee. 
+STEPHENS
+</file>

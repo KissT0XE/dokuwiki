@@ -1,0 +1,195 @@
+^  참조문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL1858  |  2006-06-05 09:17  |  미분류/공무외 사용금지  |  주한 미국 대사관  |  {{tag>ETRD EFIN PGOV KS }}  |
+====== 제 목: 한미 FTA: 미 대사, 한덕수 부총리와 회동 ======
+미 분 류 SEOUL 001858 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+민감함
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+미 무역대표부 커틀러, 오거롯, 그리고 키에 전달((PASS USTR FOR CUTLER, AUGEROT AND KI ))
+국무부 경제기업국, 무역정책 및 프로그램, 양자무역과 그리고 동아태/한국과((STATE FOR EB/TPP/BTA AND EAP/K ))
+상무부 4431/시장접근 및 이행감시국/기획예산실/동아태/듀튼((MAC/OPB/EAP/DUTTON ))
+재무부 국제국/국제안보청/버클리((TREASURY FOR IA/ISA/BUCKLEY AND )) 그리고 국제무역과/챙 귀하((ITT/CHANG ))
+
+행정명령 12958: 해당없음
+태그: ETRD(([Foreign Trade])), EFIN(([Financial and Monetary Affairs])), PGOV(([Internal Governmental Affairs])), KS(([Korea (South)]))
+제 목: 한미 FTA: 미 대사, 한덕수 부총리 회동
+참조: 가. [[06seoul1821|SEOUL 1821]] 나. 트릭―커틀러 4월 26일 이메일과 후속 내용
+참조하는 전문: [[06seoul1963|06SEOUL1963]]
+번역자: PoirotKr (트위터 사용자명)   --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/02/15 22:12//   
+===== 요약 =====
+1. (민감하지만 미분류) 부총리 겸 재정경제부 장관인 한덕수는 5월 31일 지방선거의 결과는 아마도 경제는 잘되고 있어 그와는 무관하다고 버시바우 대사에게 말하였다. 그는 열린우리당 후보들의 저조한 성적표는 인물 중심 정치, 지역 언론의 열린우리당과 노무현 대통령에 대한 부당한 대우를 그 원인으로 꼽았다. <wrap hi>버시바우 대사는 정치적으로 평이 나쁜 특정 외국계 기업에 대한 극도로 가혹한 규제와 (검찰) 조사에 대한 미국정부의 우려를 제기하였다. 한덕수는 “공정한 경쟁의 장”에 대한 친숙한 보장성 발언으로 대응하면서, 한국정부는 사법부의 조사에 관여할 수 없다고 했다.</wrap>
+<WRAP center round info 90%>//**외국계 특정기업 론스타를 미국정부가 두둔하는 이유는?**//
+론스타가 외환은행 대주주 적격성 획득작업에 개입했다는 의혹이 제기되면서 2003년 론스타와 외환은행이 맺었던 신주 인수계약은 ‘원인 무효’라는 주장이 점차 설득력을 얻고 있다. 법조계는 론스타의 조작 개입 사실만 확인되면 ‘사기에 의한 계약 취소’가 가능할 것으로 보고 있다. (중략)…김영진 변호사는 "사기행위에 따른 계약취소 사유가 될 수 있을 것"이라며 "이 경우 사기행위가 있었음을 안 날로부터 3년, 사기행위가 있은 날로부터 10년 이내에 주식반환 청구 소송을 내기만 하면 법원 판단에 따라 당시 수출입은행 등 대주주들은 론스타로부터 주식을 돌려받을 수 있다"고 말했다. [[https://www.evernote.com/shard/s258/sh/95dea0be-5fb3-4d16-b71f-48342dd96f2b/f038250a3b080e015cd132e42b8222dd|론스타 '대주주 적격성' 개입 의혹 - 檢 '공모' 확인땐 인수계약 원인무효]] //경향신문// 
+</WRAP>
+<WRAP center round tip 90%>//**한덕수, "정부는 사법부의 조사에 관여 불가"**//…(중략) "론스타 과세와 관련해서는 국제적인 협약과 법령에 따라 모든 조치를 엄정하게 한다는 점에는 변화가 없다"고 말했다.이어 "론스타가 실제 그런 조치를 할지는 우리 정부가 관여할 바가 아니며 정부에서는 국세청 등에서 필요한 조치를 계속 취해나가면 된다",…(중략) "스타타워 세금납부건은 국세심판원에 이의신청을 했고 법원의 최종 결정을 존중하며 수사에 적극적으로 협조하고 론스타 임직원의 탈세 횡령 등 유감이며 엄격한 조치를 취하겠다는 내용 등을 담고 있다" ―한덕수 [[https://www.evernote.com/shard/s258/sh/96b39e9e-c14f-4f35-af08-d7222edf994a/b30ad99aec39d8dfad802aec8cf70e29|韓부총리 "론스타 서한 `무의미`..엄정과세 불변"(상보)]] //이데일리//
+</WRAP>
+
+2. (민감하지만 미분류) 한미 FTA에 관련된 쟁점 사안에 대해서, 한덕수는 “선별 등재 시스템(포지티브 리스트)”라는 약제비 급여방식 도입을 비롯한 보건복지부의 국민건강보험 제도 계획을 위한 약제비 적정화 방안 발표를 재확인해 주었다. 한덕수는 약제비 적정화 방안은 한국정부가 상당 기간 논의해 왔던 안이며, 한국정부가 당면한 재정적 제약으로 불가피하다고 말했다. 버시바우 대사는 약제비 적정화 방안에 대한 미국의 비판을 거듭 강력히 밝히고, 한미 FTA 협상을 복잡하게 만들 수 있다고 지적하였다. 한덕수는 그와 여타 국무위원들이 한미 FTA 지지 목소리를 계속 견지해왔고, 노 대통령도 한미 FTA에 대한 다짐이 확고하다고 했다. 요약 끝.
+===== 선거 결과 =====
+3. (민감하지만 미분류) 한덕수는 5.31 지방선거 결과는(참조 가) 한국 경제정책이나 한미 FTA 상에 어떠한 영향도 없을 거라고 버시바우 대사에게 말했다. 그는 “어떤 경제정책을 우리가 바꿀 수겠습니까?”라며 수사적으로 물었다. 그는 언론 보도와는 반대로 특히 경제는 잘되고 있는 관계로 경제문제가 선거 결과에 어떤 중대한 구실을 했다고는 생각하지 않았다. 한덕수는 그 대신에 한국의 유권자가 후보자 인물이 지닌 상대적인 강점에 따라 표심이 더 많이 요동친다고 제시하였다. 그는 열린우리당의 지방선거 성적 부진에 대한 책임 대부분을 열린우리당과 노무현 정부에 대한 언론의 부당하고 가차없는 비판으로 돌렸다. 그는 노무현 정부 안에서 그의 미래에 대한 추측을 불허하였다.
+===== 의약품 =====
+4. (민감하지만 미분류) 한 부총리는 선별 등재 시스템(포지티브 리스트)의 도입과 A7 조정평균가 삭제를 비롯한 보건복지부가 구상 중인 약제비 산정 및 급여 제도의 개혁안은 보건복지부 장관의 인사청문회에서 언급되는 등 한국정부가 오랫동안 고려해 왔던 사안이라 미국 정부가 놀랄만한 일이 아니라고 버시바우 대사에게 강조했다. 그는 보건복지부가 제안한 내용과 같은 제도 개혁은 정부가 당면한 제한적 재정으로 인해 필수적이라고 말했다. 현재 재정 여건하에서는 비용 절감이 “결정적”이다. 한 부총리는 현 제도가 “급여제외목록(네거티브 리스트)”이지만, 보건복지부는 그 제도를 사실상 선별등재시스템(포지티브 리스트)으로 상당 기간 동안 운영해왔고(주석: 이로써 미국 산업계의 주요 불만사항 중의 하나가 확인되고 있다), 그 말은 이번 개혁이 미국 산업계에 큰 변화를 의미하지 않는다는 의미다.
+
+5. (민감하지만 미분류) 한덕수는 약제비 적정화 방안이 여타 한국정부 부처의 전적인 공감대 형성 없이 유시민 보건복지부 장관이 출범시켰다는 버시바우 대사의 비판을 부인하면서, 약제비 적정화 방안에 대한 충분한 조율과 사전 승인이 있었다고 말했다. 그는 미국 산업계에 대한 처우상의 극적인 변화를 암시하지 않는다고 논거로 미국의 우려 사안들을 누그러뜨리려 했지만, 그는 포지티브 리스트로 인해 “더 비싼” 일부 약제가 제외될 수 있음을 인정하였다. 건강보험제도의 재정상의 어려움은 (약제비 지출의 72%에 상당하는) 국내 복제약의 상대적으로 높은 단가에 더 큰 원인이 있다는 대사의 지적에 대해, 한덕수는 정부가 보험사기나 다른 부패 관행을 근절해서 해당 비용을 절감할 요량이라고 말했다. 그는 대사의 전재에는 견해를 달리하면서, 신약의 높은 단가가 주요한 원가동인(原價動因)이라고 말했다.
+
+6. (민감하지만 미분류) 한 부총리는 한국정부는 국민건강보험이 감당하지 못하는 비용을 감당하기 위해 보완적인 민간건강보험을 역시 도입할 계획이라고 했다. 이런 추가적인 보장성은 포지티브 리스트에 포함되지 않는 약제비를 포괄할 수 있다.
+
+7. (민감하지만 미분류) 버시바우 대사는 보건복지부의 약제비 적정화 방안에 대해 심각한 실망과 이견을 거듭 재기했고, 한 부총리가 그 방안을 재고할 용의가 없는 점에 대해 유감을 표했다. 버시바우 대사는 미합중국은 곧 있을 한미 FTA 협상을 복잡하게 말들 약제비 적정화 방안은 신뢰의 저버리는 행위라고 강조했다. 버시바우 대사는 보건복지부의 제안은 신약과 혁신적인 약제에 대한 접근성을 제한함으로 한국인 환자들의 권익을 해친다고 역시 지적하였다. 한덕수는 그런 주장이 타당성이 있을 수 있으나, 한국민이 스스로 실행에 옮길 필요가 있다고 대응하였다. 한덕수는 한미 FTA가 타결될 전까지 한국이 필요한 개혁을 하기 미룰 수는 없다고 한 부총리는 덧붙였다. 그는 어찌 됐든 종국에 변경될 사안에 대해 협상할게 아니라 약제비 적정화 방안을 마무리 짓고, 새로운 상황에 기초한 협상을 하는 게 실상 더 낫다는 견해를 피력했다.
+===== 넚게 본 FTA 쟁점들 ===== 
+8. (민감하지만 미분류) 한 부총리는 그와 여타 국무 위원들이 지속해서 한미 FTA 찬성 목소리 낼 거라고 버시바우 대사를 안심시켰다. 그는 노 대통령이 한미 FTA 추진한다는 "다짐이 확고"하다고 강조하였다. 그리고 FTA 협정이 한국의 경쟁력 상승에 필요함을 확신한다고 했다. 대사는 한 부총리가 미국의 협정문 초안 상에 특정한 문제를 인지했는지, 한미 FTA 협정문에 대한 한 부총리의 견해를 물었다. 한 부총리는 자동차 관련 특정 세제의 철폐에 관한 미국의 요구는 “과욕”이라고 하면서, 한국정부의 세수가 지나치게 줄어들 것이라고 대답했다. 그는 미국산 자동차가 한국 시장에서 잘 팔리지 않는 진짜 이유가 세제때문인지 물으면서, 전반적으로 최근 몇 년간 자동차 수입은 (판매 대수가 아닌) 총 매출 기준으로 보면 꽤 호조라고 했다.
+버시바우
+[[https://sites.google.com/site/poirotkr/3/06seoul1858|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 참조 링크 =====
+  - [[pharmaceuticals|한미 FTA: 의약품]] //미 의회조사국 보고서//
+===== 원본 내려받기 =====
+<file rtf 06SEOUL1858.rtf>
+UNCLAS SEOUL 001858 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+PASS USTR FOR CUTLER, AUGEROT AND KI 
+STATE FOR EB/TPP/BTA AND EAP/K 
+COMMERCE FOR 4431/MAC/OPB/EAP/DUTTON 
+TREASURY FOR IA/ISA/BUCKLEY AND ITT/CHANG 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD [Foreign Trade], EFIN [Financial and Monetary Affairs],
+PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: KORUS FTA: AMBASSADOR'S MEETING WITH DEPUTY PRIME 
+MINISTER HAN DUCK-SOO 
+ 
+REF: A. SEOUL 1821 
+     B. TRICK-CUTLER APRIL 26 E-MAIL AND SUBSEQUENT 
+ 
+SUMMARY 
+------- 
+ 
+¶1. (SBU) Deputy Prime Minister and Minister of Finance and 
+Economy (MOFE) Han Duck-soo told the Ambassador on June 2 
+that the results of the May 31 local elections were probably 
+unrelated to the economy, which is doing well.  He attributed 
+the poor showing of Uri Party candidates to personality 
+politics and unfair treatment of the Roh Administration and 
+the Uri Party by the local press.  The Ambassador raised USG 
+concerns about excessively harsh regulatory and investigatory 
+treatment of certain politically unpopular foreign firms. 
+Han countered with familiar assurances about a "level playing 
+field," and noted that the Korean government cannot intervene 
+in judicial investigations. 
+ 
+¶2. (SBU) On issues related to the U.S.-Korea Free Trade 
+Agreement (KORUS FTA), Han affirmed the plan announced by the 
+Ministry of Health and Welfare (MHW) to reform the National 
+Health Insurance system, including introducing a "positive 
+list" for reimbursing pharmaceuticals.  Han said the plan had 
+been under discussion by the Korean government for some time, 
+and is necessitated by the fiscal constraints faced by the 
+government.  The Ambassador strongly reiterated our criticism 
+of the plan and noted that it could complicate the KORUS FTA 
+negotiations.  Han stressed that he and other cabinet 
+officials would continue to vocally support the KORUS FTA and 
+that President Roh remains firmly committed to the agreement. 
+ End Summary. 
+ 
+ELECTION RESULTS 
+---------------- 
+ 
+¶3. (SBU) Han told the Ambassador that the results of the May 
+31 local elections (Ref A) would not have any affect on 
+Korean economic policy, or on the KORUS FTA.  He asked 
+rhetorically, "What economic policy could we possibly 
+change?"  Han commented that, contrary to press reports, he 
+does not think that economic issues played any significant 
+role in the election outcome, particularly since the economy 
+is performing well.  Instead, Han suggested that Korean 
+voters are more swayed by the relative strengths of the 
+candidates' personalities.  He laid the most blame for the 
+Uri Party's poor performance, however, on the media's unfair 
+and relentless criticisms of the Roh Administration and the 
+Uri Party.  He declined the opportunity to speculate on his 
+own future in the Administration. 
+ 
+PHARMACEUTICALS 
+--------------- 
+ 
+¶4. (SBU) DPM Han stressed to the Ambassador that MHW's 
+envisioned reforms to the pharmaceutical pricing and 
+reimbursement system, including the introduction of a 
+positive list system and eliminating A7 pricing, had been 
+under consideration by the ROKG for some time, including 
+mention in the Health Minister's confirmation hearings, and 
+could not have come as a surprise to the U.S. Government.  He 
+said that the reform of the system along the lines proposed 
+by MHW is essential due to the fiscal constraints the 
+government is facing.  In current budgetary circumstances, 
+reducing costs is "critical."  Han also noted that even 
+though the current system is a "negative list," MHW has been 
+running it as a de facto positive list for some time (Note: 
+thereby confirming one of U.S. industry's chief complaints), 
+meaning that the reform would not mean a great deal of change 
+for U.S. industry. 
+ 
+¶5. (SBU) Han denied the Ambassador's criticism that the 
+reform plan was launched by Health Minister Rhyu Si-min 
+without full consensus be other ROKG elements, saying that 
+the reform plan had been fully coordinated and approved in 
+advance.  He tried to allay U.S. concerns by commenting that 
+the reform would not imply dramatic changes for treatment of 
+U.S. industry, though he admitted that the positive list 
+would try to exclude some of the "more expensive" drugs. 
+Responding to the Ambassador's point that the health system's 
+financial difficulties are more attributable to the 
+relatively high price of the local generics (which account 
+for 72 percent of drug expenditures), Han said that the 
+government would also seek to cut those costs by eliminating 
+ 
+ 
+insurance fraud and other corrupt practices.  He disagreed 
+with the Ambassador's premise, however, saying that the high 
+costs of new drugs are the primary cost driver. 
+ 
+¶6. (SBU) DPM Han noted that the Korean government also plans 
+to introduce supplementary private health insurance designed 
+to cover costs not covered by the national plan.  This 
+optional coverage could include costs for drugs not included 
+on the positive list. 
+ 
+¶7. (SBU) The Ambassador reiterated our serious disappointment 
+and disagreement with the MHW reform plan, and expressed 
+regret that Han was not willing to reconsider the proposal. 
+He emphasised that the United States views the plan as a 
+breach of faith that will complicate the upcoming KORUS FTA 
+negotiations.  He also noted that the MHW proposal would do a 
+disservice to Korean patients by restricting their access to 
+new and innovative drugs.  Han responded that such an 
+argument may have merit, but needs to be carried out by 
+Koreans amongst themselves.  He added that Korea cannot wait 
+until all its FTAs are completed before making necessary 
+reforms.  He opined that it was in fact better to get the 
+reform over with, and negotiate based on the new situation, 
+rather that negotiate on something that had to change 
+eventually in any case. 
+ 
+BROADER FTA ISSUES 
+------------------ 
+ 
+¶8. (SBU) Han assured the Ambassador that he and other cabinet 
+officials would continue to speak out in favor of KORUS FTA. 
+He emphasized that President Roh remains "firmly committed" 
+to pursuing the FTA, and is convinced that the pact is 
+necessary to raise Korea's competitiveness.  The Ambassador 
+asked about Han's view of the U.S. FTA texts and whether Han 
+saw any particular issues with our drafts.  Han replied that 
+our demand related to the elimination of certain taxes on 
+automobiles is "far too ambitious," and would cut Korean 
+government revenue too much.  He asked if taxes are really 
+the reason why U.S. autos do not sell well in the Korean 
+market, pointing out that, overall, imports are doing quite 
+well in recent years as measured by sales value (rather than 
+number of units). 
+ 
+VERSHBOW
+</file>

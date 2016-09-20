@@ -1,0 +1,223 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL498  |  2009-03-29 22:25  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KS KN PGOV PREL }}  |
+====== 제 목: 뇌물 스캔들에 연루된 여야 거물 정치인 ======
+기 밀 SEOUL 000498 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+행정명령 12958: 비밀해제: 03/27/2019 
+태그: KS(([Korea (South)])) , KN(([Korea (North)])) , PGOV(([Internal Governmental Affairs])) , PREL(([External Political Relations])) 
+제 목: 뇌물 스캔들에 연루된 여야 거물 정치인
+분류자: 정치 참사관 조셉 윤.((번역 주: POL Joseph Y. Yun.))  근거 1.4 (b,d).
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/01/20 21:08//
+===== 요점 =====
+1. (미분류) 요약: 최근 불거진 한국의 정치 부패 스캔들이 몇 달 동안 점차 커지는가 싶더니 수사에 속도가 붙으면서 이광재 민주당 의원이 구속됐고 한나라당 박진 의원을 포함한 다수의 정치인에게도 검찰 소환장이 발부되었다. 이번 의혹의 중심에는 부산 사업가 박연차가 있다. 그가 한국서 최고의 정치 권력가와 세무 및 법 집행 관리에게 뇌물을 공여했다고 알려졌다. 애초 이번 조사는 노무현 전 대통령 측근 정치인들을 겨냥한 듯 보였지만, 조사 대상이 많게는 70명까지 확대되면서 이명박 대통령 측근을 비롯해 여야 정치권을 망라하고 있다. 박진 외교통상통일위원회 위원장을 비롯해 혐의를 받는 여러 당사자들이 어떤 죄과(罪過)가 있는지는 분명하지 않지만, 이번 의혹 사건이 금방 잠잠해지지는 않을 것이며 당분간 국회와 한국 정치를 뒤 흔들 것이다. 요약 끝.
+===== 스캔들 관련 배경 설명 =====
+2. (민감하지만 미분류) 이번 스캔들은 2008년 여름 부산 기반의 신발 제조회사인 태광실업과 박연차 회장에 대한 세무조사에서 시작되었다. 박 회장은 나이키에 운동화를 납품해서 큰 돈을 벌었다. 7월에 세무 조사원이 박 회장의 집무실을 급습했고 기밀 문건과 회계 장부를 압수했다. 박 회장의 비서 중 한 명이 박연차가 만난 한국에서 가장 영향력이 있는 인사 내역과 전화 통화 내용, 비밀 거래 등 자세한 내용을 제공하였다. 또한, 박 회장으로부터 노무현 전 대통령에게 흘러간 15억 원의 대출 내역이 적시된 문건도 발견되었다. 11월에 국세청은 박연차에 대해 탈세 및 내부자 거래 혐의로 공소를 제기하여 이 사건을 검찰에 이관하였다.
+===== 진보진영 먼저 낙마 =====
+3. (민감하지만 미분류) 조사 과정에서 노무현 전 대통령의 측근이 연루되면서 박 회장은 이제 노무현의 주요 재정 후원자 중의 한 명이라고 여겨진다: 두 사람은 부산 출신으로 수십 년 동안 가까운 관계를 맺어 왔다. 3월 25일 검찰은 노무현 정부 전 행정자치부 차관을 지낸 장인태에 대해 8억 원을(미화 587,251 달러) 수수한 혐의로 체포했다. 그가 2004년 경상남도 도지사 출마 당시 박연차로부터 불법 정치자금을 받았다는 혐의다. 박연차는 노무현의 손위 형인 노건평이(역시 체포됐다) 자신에게 전화해서 장인태의 선거 캠페인을 지원해 달라는 청탁을 했다고 주장했다. 3월 23일 노무현 정부 전 청와대 민정수석 박정규는 심문을 받기 위해 검찰에 불려갔으며 그 뒤에 청와대 근무할 당시 일 억 원 상당의 상품권으로 받은 혐의로 구속영장이 발부됐다. 조사를 받고 있는 그 밖의 진보계 정치가는 다음과 같다:
+  * 이광재은 2억 원이(미화 146,842 달러) 넘는 불법 정치자금을 수수한 혐의로 구속되었다. 그는 노무현의 최측근으로 민주당 의원이다;
+  * 서갑원은 불법자금으로 수만 달러를 수수한 혐의를 받고 있다. 그는 민주당 원내수석부대표이다;
+  * 최철국은 민주당 의원으로 불법자금수수 혐의를 받고 있다;
+  * 김현규 전 경상남도 도지사;
+  * 이정욱 불법자금수수 혐의로 구속되었다. 그는 전 한국해양연구소소장을 역임했다.
+===== 보수쪽도 무사하기 힘들다 =====
+4. (기밀) 애초 진보진영을 겨냥한 표적 수사인 듯 보였지만, 곧 바로 의혹의 향방은 한나라당 유력 정치인에게 향했다. 가장 주목이 되는 검찰 소환은 3월 26일 박진 위교통상통일위원회 위원장에 대한 소환이었다. 박진의 수석 보좌관은 검찰청이 현재 진행 중인 뇌물 스캔들과 관련해 심문을 하기 위해 박진을 소환했다는 사실을 3월 27일 확인해 주었다. 박진의 수석보좌관은 박진에 대한 혐의는 근거가 없다고 대사관 정무 직원에게 말했다. 그는 또 박진은 걱정할 것인 전혀 없다고 자신하였다. 외교통상통일위원회 소속 수석 보좌관은 자신이 3월 27일 박진 의원과 예기를 나눴다고 말했다. 그는 박진이 소환 조사를 받게 된 것에 대해 화가 단단히 나있었으며 스캔들 연루 사실을 극구 부인했다고 설명했다. 박진은 명예훼손 혐의로 소송을 제기할 계획이 분명하다. 그러나 외통위 수석보좌관은 박진 상임위 원장이 스캔들에 휘말릴 가능성에 대해 걱정하는 모습이었다.
+
+5. (기밀) 또한 검찰은 전직 한나라당 의원을 지낸 권철현 현 주한 일본 대사를 조사하고 있다고 3월 26일에 발표했다. 권철현은 부산 출신 3선 의원으로 이명박의 강력한 지지자로 알려져 있다. 이명박과 이상득의 전 홍보 수석을 지낸 조부길도 박연차로부터 돈을 받고 세무조사를 막으려 했다는 혐의로 체포됐다. 수사 대상에 오른 보수쪽 정치가는 다음과 같다:
+  * 허태열, 한나라당 의원, 불법자금수수 혐의
+  * 권경석, 한나라당 의원, 불법자금수수 혐의
+  * 송은복, 전 김해시장, 불법자금수수로 구속.
+===== 부산 인맥 =====
+6. (기밀) 박연차 스캔들에 주로 경상남도와 부산 기반의 정치가들이 연루되어 있지만, 이번 조사가 전 현직 검사를 비롯해 많게는 70명이 수사 선상에 올랐다는 미확인 뉴스 보도도 있다. 정두언 한나라당 의원 측근은 당적과 상관없이 부산 지역 모든 인사가 이번 스캔들에 연루되어 있다고 대사관 정무 직원에게 말했다. 동 연락선은(정보원=정 의원 측근) 사실 박연차가 보수쪽과 더 유착 관계가 있지만, 박연차가 권력을 잡고 있던 작년까지만 해도 노무현과 민주당을 지원했다고 언급했다. 또한, 해외 거주자도 연루되어 있다. 검찰은 박진과 이광재를 비롯해 많은 정치가들이 뉴욕 레스토랑 경영자로부터 돈을 받았다는 혐의를 두고 있다. 일부 정치가들은 베트남 소재 자금도 받았다는 혐의를 받고 있다.
+===== 정치적 동기는 아닐 듯 =====
+7. (기밀) 이번 조사가 정치적 동기일 가능성에 대한 추측이 난무하고 있다. 민주당은 청와대가 야당의 친노 세력을 제거하려는 일환으로 이번 조사를 시도했다고 주장했다. 그러나, 그런 의혹은 힘을 얻지 못했다. 왜냐면 검찰이 보수쪽 정치가를 대상으로도 혐의를 제기하기 시작했기 때문이다. 한나라당 내부 일각에서는 청와대가 이 대통령의 보수파 경쟁자인 박근혜의 지지자 기반을 무너뜨리려는 시도라고 생각하고 있다. 그들은 이상득과 김영우((번역 주: ‘Kim Young-ho’는 오타다. 음을 옮기면 ‘김영호’나 ‘김용호’인데 그런 국회의원 사망한 전 국회의원 밖에 없다. 구글에 ‘이상득 김영우’를 쳐보면 둘이 자원외교를 한다면 자주 해외 나들이를 하는 것을 알 수있다.자세한 내용은 [[http://blog.naver.com/PostView.nhn?blogId=realpure77&logNo=90086755154|참조문서를 보라]] 대사관도 모든 국회의원 명단을 영어명단으로 입수 못했음을 알 수있다.)) 역시 (박연차의) 돈을 수뢰했지만, 그들이 이명박 정부의 긴밀히 연결되어 있기 때문에 조사 대상이 되지 않았다고 주장한다. 그러나 다수의 다양한 정치가들이 연루되어 있는 관계로 어느 특정 정당이나 계파가 아무 탈 없이 이번 스캔들을 벗어날지 의문이다. 역시 돈을 수뢰했지만 조사되지 않은 이유는 정부와의 연줄이 닿기 때문이라고 주장하고 있다. 다수의 다양한 정치가들이 연루되어 있어, 어느 특정 정당이나 당파가 아무 탈 없이 이번 스캔들을 벗어날지 의심스럽다.++++☞이상득과 김영우(경기도 포천시 연천군)|[{{::leekim2.jpg?nolink&400| **투르크메니스탄 특사** 우린 자원외교? 함께한 사이 인증샷}}]++++
+===== 논평 =====
+8. (기밀) 한국 정치에서 부패는 전혀 낮 선 광경도 아니지만, 박연차 스캔들은 근래 들어 가장 크고 광범위한 규모의 스캔들이다. 이광재라는 정치가 이미 희생되었고, 앞으로도 추가 희생자가 이어 질 것이다. 이번 감찰 수사가 노무현 측근 수사로 시작되었을 공산이 크지만, 수사가 계속 진행되는 한 그 누구도 심지어 청와대까지도 이번 조사를 통제할 수 없다. 지금 이번 사건이 최고의 뉴스 소재가 된 마당에 검찰은 도리 없이 수사를 완결 지어야 하며 청와대가 개입하는 듯 비춰지면 안 된다. 의심할 여지없이 이번 스캔들은 4월 2일 예고된 다음 국회 회기를 지배할 것이다. 사실상 이번 스캔들과 다가올 보궐선거 사이에서―미디어 개혁법 및 한미 FTA에 대한 계속되는 논의는 말할 것도 없이―정치가들이 어떻게 법안에 집중할 시간을 낼 수 있을지 예상하기 어렵다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/14/09seoul498|포와로 탐정의 번역]]© 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://blog.naver.com/PostView.nhn?blogId=realpure77&logNo=90086755154|이상득 대통령특사 투르크메니스탄, 아제르바이잔 민관협력사절단 방문]]//블로그//
+  - [[http://issue.chosun.com/site/data/html_dir/2010/01/08/2010010800643.html|'박연차 돈 수수' 혐의 장인태 전 차관, 22일 석방]] //뉴시스통신사//
+===== 원본 내려받기 =====
+<file rtf 09SEOUL498.rtf>
+C O N F I D E N T I A L SEOUL 000498 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/27/2019 
+TAGS: KS [Korea (South)], KN [Korea (North)], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations] 
+SUBJECT: BIG NAMES IMPLICATED IN UNFOLDING BIPARTISAN 
+BRIBERY SCANDAL 
+ 
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1.  (C) SUMMARY: Korea's latest political corruption scandal, 
+slowly growing for months, picked up speed this week with the 
+arrest of Democratic Party (DP) lawmaker Lee Kwang-jae and 
+summonses issued for a number of politicians including Grand 
+National Party (GNP) lawmaker Park Jin.  The allegations 
+revolve around a Busan businessman, Park Yeon-cha, and his 
+alleged illegal campaign contributions and bribes to some of 
+Korea's most powerful politicians and tax and law enforcement 
+officials.  At first the investigation appeared to be focused 
+on politicians close to former President Roh Moo-hyun, but 
+the scope of the investigation has expanded to as many as 70 
+politicians from both sides of the political divide, 
+including some close to President Lee Myung-bak.  How 
+culpable many of the accused -- including Foreign Affairs 
+Committee Chair Park Jin -- are remains unclear, but these 
+allegations will not soon be put to rest and will likely 
+unsettle the National Assembly -- and Korean politics -- for 
+some time.  END SUMMARY. 
+ 
+----------------------------- 
+Background Notes on a Scandal 
+----------------------------- 
+ 
+¶2.  (SBU) The scandal started in the summer of 2008 with a 
+tax probe into Busan-based shoe manufacturer Taekwang 
+Industrial and its Chairman Park Yeon-cha, who made his 
+fortune by supplying athletic shoes to Nike.  In July, tax 
+investigators raided Park's office and confiscated 
+confidential documents and account books.  One of Park's 
+secretaries provided details on his meetings, telephone 
+conversations, and secret deals with some of the country's 
+most influential men.  Also uncovered was a document 
+recording a loan of 1.5 billion Korean won from Park to 
+former President Roh Moo-hyun.  In November the National Tax 
+Service handed the case over to prosecutors, asking that Park 
+be indicted for tax evasion and insider trading. 
+ 
+----------------------- 
+Progressives Fall First 
+----------------------- 
+ 
+¶3.  (SBU) As the investigation progressed, aides to former 
+president Roh Moo-hyun were implicated, and Park is now 
+believed to have been one of Roh's major financial sponsors; 
+the two men hail from Busan and have been close associate for 
+decades.  On March 25, prosecutors arrested Roh's former Vice 
+Minister of Public Administration Chang In-tae for allegedly 
+taking 800 million won (USD 587,251) in illegal political 
+funds from Park for Chang's 2004 South Gyeongsang Province 
+gubernatorial bid.  Park claimed that Roh's elder brother, 
+Roh Gun-pyeong (also under arrest), called Park to request 
+assistance with Chang's campaign.  On March 23 Roh's former 
+Senior Secretary for Civil Affairs Park Jung-kyu was detained 
+for questioning and later placed under arrest for accepting 
+100 million won (USD 73,421) in gift certificates while 
+working for President Roh.  Other progressive politicians 
+under investigation include: 
+ 
+--Lee Kwang-jae, DP lawmaker with close ties to Roh Moo-hyun, 
+detained for receiving illegal political funds worth over 200 
+million won (USD 146,842); 
+--Suh Gap-won, DP representative and Senior Vice-Floor 
+Leader, alleged to have received tens of thousands of dollars 
+in illicit funds; 
+--Choi Cheol-kook, DP lawmaker, alleged to have received 
+illicit funds; 
+--Kim Hyuck-kyu, former South Gyeongsang governor; 
+--Lee Jeong-wook, former Korea Maritime Institute head, 
+detained for receiving illicit funds. 
+ 
+----------------------------- 
+Conservatives Far From Immune 
+----------------------------- 
+ 
+¶4.  (C) What originally seemed like a probe targeting only 
+the progressives, soon included allegations directed at a 
+number of high-profile GNP politicians.  Most notably was the 
+prosecutors' summons on March 26 of Park Jin, GNP 
+Representative and Chair of the Foreign Affairs, Trade and 
+ 
+Unification (FATU) Committee.  Park Jin's Chief of Staff 
+(COS) confirmed on March 27 that the prosecutor's office had 
+summoned Park Jin for questioning with regard to the 
+unfolding bribery scandal.  Park's COS told poloff that the 
+allegations against Park Jin were unfounded, and the COS was 
+confident that Park Jin had nothing to worry about.  The FATU 
+Committee's COS said he spoke to Park Jin March 27 and 
+described him as angry at being summoned for questioning but 
+resolute in denying involvement in the scandal. 
+Representative Park apparently plans to file defamation 
+charges.  The FATU COS was, nevertheless, concerned by the 
+potential for the scandal to ensnare the committee's chairman. 
+ 
+¶5.  (SBU) Also on March 26, prosecutors announced that they 
+were investigating former GNP lawmaker and current Ambassador 
+to Japan Kwon Chul-hyeon.  Kwon served three terms 
+representing Busan, and is known to be a strong supporter of 
+President Lee.  Cho Boo-kil, a former public relations 
+secretary for both President Lee and his older brother, 
+Representative Lee Sang-deuk, was arrested on charges of 
+taking money from Park and for trying to halt the tax probe 
+into Park's company.  Other conservative politicians under 
+investigation include: 
+ 
+--Huh Tae-yeol, GNP Representative, alleged to have received 
+illicit funds; 
+--Kwon Kyung-seok, GNP Representative, alleged to have 
+received illicit funds; 
+--Song Eun-bok, former Gimhae Mayor, detained for receiving 
+illicit funds. 
+ 
+---------------- 
+Busan Connection 
+---------------- 
+ 
+¶6.  (C) The scandal primarily involves politicians grounded 
+in South Gyeongsang Province and Busan, but an unconfirmed 
+news report claims the investigation is targeting as many as 
+70 people, including several former and incumbent 
+prosecutors.  An aide to GNP Representative Chung Doo-hwan 
+told poloffs that everyone in Busan, regardless of party 
+affiliation, is involved in this scandal.  In fact, the 
+contact noted, Park was more tied to the conservatives, but 
+supported Roh and the DP when it was in power until last 
+year.  Overseas locations are also involved, and prosecutors 
+allege that many politicians -- including Park Jin and Lee 
+Kwang-jae -- accepted money through a New York restaurateur. 
+Some politicians are alleged to have also received funds in 
+Vietnam. 
+ 
+----------------------------- 
+Political Motivation Unlikely 
+----------------------------- 
+ 
+¶7.  (C) Speculation is swirling about possible political 
+motivations for the investigation.  The DP has claimed that 
+the probe is part of a Blue House effort to eradicate pro-Roh 
+elements of the opposition.  These allegations have failed to 
+gain momentum, however, as prosecutors began to implicate 
+conservative politicians.  Some within the GNP think the Blue 
+House is trying to undermine supporters of the President's 
+conservative rival Park Geun-hye and claim that both Lee 
+Sang-deuk and Kim Young-ho also received money but are not 
+being investigated because of their close ties to the 
+administration.  With the number and range of politicians 
+involved, however, it is doubtful that any one party or 
+faction will emerge from this scandal unscathed. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8.  (C) Korean politics is no stranger to corruption, but the 
+Park Yeon-cha scandal is the largest and most wide-ranging in 
+quite some time.  One politician -- Lee Kwang-jae -- has 
+already fallen victim and more are sure to follow.  While it 
+is likely the probe started with former President Roh's 
+aides, it is also likely that nobody, not even the Blue 
+House, could control the investigation once it was underway. 
+Now that it is the top news story, prosecutors are forced to 
+follow through and the Blue House cannot appear to be 
+ 
+intervening.  Undoubtedly, the scandal will dominate the next 
+National Assembly session set to start on April 2.  In fact, 
+between the scandal and the upcoming by-elections -- not to 
+mention ongoing discussions about media reform and KORUS FTA 
+-- it is difficult to see how politicians will find the time 
+to focus on legislation. 
+STEPHENS
+</file>

@@ -1,0 +1,72 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  10SEOUL192  |  2010-02-09 02:37  |  미분류  |  주한 미국 대사관  | {{tag>ETTC KNNP KS PREL }}  |
+====== 제 목: 한국 정부 메가포트 논의 고려 ======
+
+미 분 류 서울 000192
+
+민감함
+국방부망 배포
+
+국무부는 에너지부 국가원자력안전보안국 DCHONG, SCLARK, WWONSANG, VMVVOY, DROBERTS, BSHORTER에게 전달
+국무부는 국토안보부/연방 세관 국경보호국 RDINUCCI, DSTAJCAR, PDAY에게 전달
+
+행정명령 12958: 해당없음
+태그: ETTC KNNP KS PREL
+제 목: 한국 정부 메가포트 논의 고려
+
+참조: STATE 09579
+번역자: PoirotKr (트위터 사용자명)  --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2014/04/27 13:45//
+
+1. (민감하지만 미분류) 참조 전문과 관련 대사관 경제 직원은 (미)에너지부의 메가포트 계획을 한국에 수립할 수 있을지 가능성을 타진하기 위해 2월 25~26일 회의를 요청하기 위해 군축비확산과 이등 서기관 김혜진과 회동하였다.
+
+2. (민감하지만 미분류) 김혜진은 외교통상부가 아마도 메가포트 계획 논의 시작을 지원하겠지만, 한국 정부의 추가적인 유관 기관 검토가 선행될 필요가 있다고 말했다. 그녀는 미국의 제안을 관련 한국정부 부처에 회람시키고 가능한 한 빨리 공식 응답을 제공하겠다고 했다.
+
+3. (민감하지만 미분류) 그에 앞서 김혜진은 관세청이 초기 논의에 대한 서면 요청을 원할 것 같다고 말했다. 추가로 한국 관세청은 연방 세관 국경보호국으로부터 2010년 3월 중순에 부산 화물안보구상 시범 사업을 종료한다는 의사를 서면 통지를 수령하기 전에는 (미)에너지부와의 회동을 꺼리게 될 것이다. (주석: 2009년 12월 서울 회동에서 연방 세관 국경보호국은 부산 화물안보구상 사업을 종료하고, 시범 사업이 종료되는 3월 중순이 되면 자체 스캐닝 장비를 철수할 예정이라고 한국 관세청에게 통보한 바 있다. <wrap hi>그러나 한국정부는 화물안보구상 설립 원칙에 관한 선언에 따라 장비를 소유한다고 주장한다. (미)에너지부는 메가포트 계획 하에 한국 내 방사능 스캐너를 유지할 예정임을 시사하였다.</wrap>)
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/20/10seoul192|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다. <WRAP center round info 90%>//**부산항 통관 컨테이너 28% 방사능여부 검사 - 미국,2014년 핵탐지장비 한국에 완전 이양:GAO 보고서**//
+미 국가핵안보국과 국토안부보가 지난 2009년 3월부터 화물안보구상((주: 안치용씨는 "화물안전조치시스템"라고 했는데, 잘못된 용어 사용이므로 이미 굳어진 번역 용어를 사용한다.))에 의거 방사능 탐지 장비를 운용하다 2010년 3월 해체한 뒤, 2010년 9월 15일 한미 양국이 워싱턴DC에서 부산항에 대한 '메가포트계획' 양해각서를 체결하고 2011년 3월부터 방사능 탐지장비를 재가동하고 있다고 설명했다. [보고서 48페이지 주석 r] 2010년9월15일 한미 양국 메가포트구상 양해각서체결 [[http://nnsa.energy.gov/mediaroom/pressreleases/uskoreapreventnuclearsmuggling09.16.10|2010년9월15일 한미양국 메가포트구상 양해각서체결]] //미 에너지부// [[http://andocu.tistory.com/entry/%EB%B6%80%EC%82%B0%ED%95%AD-%ED%86%B5%EA%B4%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-28-%EB%B0%A9%EC%82%AC%EB%8A%A5%EC%97%AC%EB%B6%80-%EA%B2%80%EC%82%AC-2014%EB%85%84-%EB%B0%A9%EC%82%AC%EB%8A%A5%ED%83%90%EC%A7%80%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%95%9C%EA%B5%AD%EC%9D%B4%EC%96%91|부산항 통관 컨테이너 28% 방사능여부 검사 - 미국,2014년 핵탐지장비 한국에 완전 이양:GAO 보고서]] //시크릿 오브 코리아//
+</WRAP>
+
+===== 원본 내려받기 =====
+<file ftf 10seoul192.rtf>
+UNCLAS SEOUL 000192 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PASS DOE NNSA FOR DCHONG, SCLARK, WWONSANG, VMVVOY, 
+DROBERTS, BSHORTER 
+STATE PASS DHS/CBP FOR RDINUCCI, DSTAJCAR, PDAY 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KNNP KS PREL
+SUBJECT: ROKG TO CONSIDER MEGAPORTS DISCUSSION 
+ 
+REF: STATE 09579 
+ 
+¶1.  (SBU) Per reftel, Econoff on February 8 met with Second 
+Secretary Kim He-jin in MOFAT's Disarmament and 
+Nonproliferation Division to request meetings on February 
+25-26 to explore the possibility of establishing a DOE 
+Megaports Initiative in the ROK. 
+¶2.  (SBU) Kim thought MOFAT would probably support opening 
+Megaports Initiative discussions, but said additional ROKG 
+interagency review would first be necessary.  She offered to 
+circulate the proposal among relevant ROKG ministries and 
+provide an official response as soon as possible. 
+¶3.  (SBU) Preliminarily, Kim said the Korean Customs 
+Service(KCS) would likely want a written request to initiate 
+discussions.  In addition, KCS would be reluctant to meet 
+with DOE until it receives written notification from Customs 
+Boarder and Protection(CBP) about its intentions to terminate 
+the Secure Freight Initiative (SFI) pilot project in Busan in 
+mid-March 2010.  (Note: At a December 2009 meeting in Seoul, 
+CBP informed KCS that it would terminate the Busan SFI 
+project and remove its scanning equipment when the pilot 
+program expired in mid-March.  The ROKG, however, claimed it 
+owned the equipment pursuant to the Declaration of Principles 
+which established SFI.  DOE indicated it would keep its 
+radiation scanners in the ROK under the Megaports Initiative.) 
+STEPHENS
+</file>

@@ -1,0 +1,87 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1732  |  2009-10-30 07:42  |  기밀  | 주한 미국 대사관  |  {{tag>PGOV KS }}  |
+====== 제 목: 헌법재판소, 미디어법안 옹호 ======
+기 밀 SEOUL 001732 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+행정명령 12958: 비밀해제: 10/30/2029 
+태그: PGOV (([Internal Governmental Affairs])), KS (([Korea (South)])) 
+제 목: 헌법재판소, 미디어법안 옹호
+분류자: 정치 공사 참사관((번역 주: 미 대사관 홈페이지에서 사용하는 정확한 용어다)) 제임스 웨이만((번역 주:POL M/C James. L. Wayman.))  근거 1.4 (b), (d). 
+번역자 제공 참조 전문: [[09seoul1274|09SEOUL1274]], [[06seoul2183|06SEOUL2183]]
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/19 22:25//
+===== =====
+
+----
+
+1. (기밀) 요약: 10월 29일 남한의 헌법재판소는 7월에 통과되어 논란을 빚고 있는 일단의 미디어법안들을 유효하다고 판결했는데 표결 과정에 폭력 사태에도 그렇게 결정이 났다. 입법부의 의제 중에서 이번 쟁점이 일단락되면서 국회가 현재 회기 내에서 다른 법안을 진행할 수 있게 됐다. 이번 판결로 몇몇 민주당 의원들의 운명이 불확실해졌는데, 특히 미디어법안에 대한 항의로 국회의원직을 사임한 당 대표 정세균 의원이 그렇다. 요약 끝.
+
+2. (기밀) 논평: 거의 폭동에 가까운 과정을 통해 지난 7월 국회에서 미디어법안들을 강행처리 하면서 한나라당은 막대한 정치적인 대가를 치렀다. 그리고 미디어 법안의 위헌 결정은 정부 여당에는 상당한 타격을 입힐 것이다. 그런 위헌 결정은 표결에서 패배한 의원들이 국회의 법안 처리 절차가 부적절하다고 판단이 서면 언제든 소송할 길을 열어줄 것이다. 민주당은 미디어법안에 대한 항의 시위를 계속할 것 같고 법안은 11월 1일에 발효될 예정이다. 논평 끝.
+
+3. (민감하지만 미분류) 남한 헌법재판소는 10월 29일 논란이 되고 있는 미디어법안을 옹호하는 판결을 내놓았는데 당해 법안은 6월에 야당이 물리적으로 표결을 봉쇄하려는 시도에도 여당 한나라당이 6월 국회에서 강행통과 시킨 법안들이다(참조 전문 가). 다음 날에 야당 의원 93명이 헌법재판소에 권한쟁의 심판을 청구해서 법안이 발효되지 않도록 금지 명령을 요청했다. 의원들은 방송 법안의 재투표, 즉 첫 투표에서 정족수를 채우지 못해서 다시 한 투표가 법을 위반했다고 불평하였다. 9명 중 2명의 재판관은 이번 표결로 야당의원들의 권리가 침해되었기 때문에 당해 법안에 대해 위헌 결정을 내려야 한다고 말했다. 다수의견은 투표 과정의 폭력성을 인정하면서도 헌법의 다수결의 원칙을 위반했는지 불확실하다고 말했다.
+
+4. (기밀) 당 대표인 정세균 의원을 필두로 3명의 국회의원은 헌법재판소가 당해 법안에 대해 그들의 입장의 정당성을 입증하여 사임을 철회할 수 있도록 위헌 결정을 내리길 희망한다. 국회의장 김형오는 사퇴서를 아직 받아들이지 않았지만, 민주당 정세균 대표는 자신의 국회 사무소를 비웠으며 모든 의사일정 참여를 거부했다. 헌법재판소의 판결로 이들의 신분이 애매한 상태로 남게 되었다. 정세균은 어찌 됐든 민주당 대표 직분을 유지할 것이다. 왜냐면 당 대표는 국회의원의 신분을 요구하지 않기 때문이다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/18/09seoul1732|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1732.rtf>
+C O N F I D E N T I A L SEOUL 001732 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 10/30/2029 
+TAGS: PGOV [Internal Governmental Affairs], KS [Korea (South)] 
+SUBJECT: CONSTITUTIONAL COURT UPHOLDS MEDIA REFORM 
+ 
+Classified By: POL M/C James L. Wayman. Reasons 1.4 (b), (d). 
+ 
+¶1.  (C) SUMMARY: On October 29, South Korea's Constitutional 
+Court ruled that the controversial set of media reform bills 
+the National Assembly passed in July were valid, despite 
+violations in the voting process.  Clearing this issue from 
+the legislative agenda will allow the National Assembly to 
+move forward on other legislation in the current session. 
+The decision leaves uncertain the fate of some DP lawmakers 
+-- notably party leader Chung Sye-kyun -- who resigned from 
+the National Assembly in protest over the media reform 
+legislation.  END SUMMARY. 
+ 
+¶2.  (C) COMMENT: The GNP paid a significant political price 
+to push the media reform bill through the National Assembly 
+last July in a near-riotous session, and a decision 
+overturning the law would have dealt a significant blow to 
+the governing party.  Such a ruling would also have opened 
+the door to losing legislators pursuing litigation whenever 
+they believed the National Assembly had followed improper 
+procedures.  The DP will likely continue to protest the media 
+reform bills, which are scheduled to take effect on November 
+¶1.  END COMMENT. 
+ 
+¶3.  (SBU) The South Korean Constitutional Court on October 29 
+upheld controversial media reform laws that the ruling GNP 
+had pushed through the National Assembly in July despite the 
+opposition's attempts to physically block the vote (reftel 
+A).  The next day, 93 lawmakers from three opposition parties 
+filed petitions with the Constitutional Court seeking 
+injunctions to stop the laws from taking effect.  The 
+lawmakers also complained that the re-vote on the 
+broadcasting bill, which did not get a quorum of votes the 
+first time around, violated the law.  Two of the nine 
+justices issued minority opinions that said the National 
+Assembly should overturn the bills because the voting 
+infringed upon opposition lawmakers' rights.  The majority 
+opinion acknowledged violations in voting procedures, but 
+said it was unclear if the constitutional principle of 
+majority rule had been violated. 
+ 
+¶4.  (C) Three DP lawmakers -- most notably party leader Chung 
+Sye-kyun -- were hoping the court would overturn the 
+legislation, vindicating their position and allowing them to 
+rescind their resignations.  Though National Assembly Speaker 
+Kim Hyung-o has not accepted the resignations, DP Chairman 
+Chung has vacated his office in the National Assembly and 
+boycotted all proceedings.  The court's decision leaves their 
+status ambiguous.  Chung would retain his position as DP 
+Chief either way, as party leaders are not required to be 
+National Assembly members. 
+STEPHENS
+</file>

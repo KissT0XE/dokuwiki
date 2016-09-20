@@ -1,0 +1,1005 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL3515  |  2007-12-12 06:38  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>PGOV  PREL PINR KS KN }}  |
+====== 제 목: 서울대사관 2007년 12월 19일 대통령 선거 관련 전문들 ======
+기 밀 SEOUL 003515 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+행정명령 12958: 비밀해제: 12/10/2014 
+태그: PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence])), KS(([Korea (South)])), KN(([Korea (North)]))
+제 목: 서울대사관 2007년 12월 19일 대통령 선거 관련 전문들
+분류자: 정치 공사 참사관 대사 대행 브라이언 맥피터스((A/POL M/C Brian McFeeters ))  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/06/15 21:53//
+===== =====
+
+1.(미분류) 아래에 제공된 목록은 12월 19일 대통령 선거에 관한 일체의 사항을 담고 있는 대사관의 전문 목록이다. 이 목록은 후보자들과 대선에 관련된 여러 질문에 답을 주는데 유용할 것이다. 2문단은 (개략적 신상정보, 대사/대사관 방문자들―후보자와 회동, 마지막 선거전, 당내 경선, 사전선거 모습, 그리고 그 밖의 다양한 내용들) 등으로 분류한 핵심적인 전문들을 조명하고 있으며, 3문단은 발생 순서에 따른 목록을 제공하고 있다.
+
+2.(기밀) 범주에 따른 핵심 전문
+
+==== 가. 개략적 신상정보 ====
+
+11/06 Seoul 003268 (CO) [[07seoul3268| 이회창 후보: 삼세번 만의 행운?]]
+ 
+10/25 Seoul 003178 [[07SEOUL3178|정동영 참모: 이번 대선 경제가 말한다]]
+ 
+10/19 Seoul 003137 [[07seoul3137| 이명박, 공식 선거대책위원회 공개]]
+ 
+09/07 Seoul 002728 (CO) [[07seoul2728|미 대사, 문정인 교수와 원희룡 한나라당 의원과의 회동]]
+ 
+07/22 Seoul 002189 [[07seoul2189|정동영 대선 예비후보, 달나라 시대 열어야]] 
+ 
+04/04 Seoul 000985 (CO) Potential Presidential Candidate 
+Chung Un-Chan: Is Economic Expertise Enough? 
+ 
+03/05 Seoul 000615 (CO) [[07seoul615| 낙천적인 킹메이커 천정배의 대통합—백일몽인가, 정치적 선견지명인가?]]
+ 
+01/12 Seoul 000112 (CO) [[07seoul112| 2007년 대선 후보들]]
+
+==== 나. 대사/대사관 방문자들―후보자와 회동 ====
+
+11/06 Seoul 003269 (CO) [[07seoul3269|이인제 후보: 아직도 사퇴하지 않아]] 
+ 
+11/05 Seoul 003256 (CO) [[07seoul3256|문국현 대통령 후보, 국제 경쟁력에 치중]] 
+ 
+07/10 Seoul 002063 (CO) Ambassador's Meeting with Former 
+Prime Minister Lee Hae-Chan 
+ 
+02/06 Seoul 000357 (CO) [[07seoul357| 미 대사, 박근혜 한나라당 대통령 후보 면담]] 
+
+==== 다. 마지막 선거전 ====
+
+12/11 Seoul 003511 (Co) [[07seoul3511| 정대철 선대본부장: 정 후보와 대통합민주신당 미래 어두워]] 
+ 
+12/11 Seoul 003510 (CO) [[07seoul3510| 이명박, 자신을 승려 묘청에 비유]]((번역 자: PoirotKr의 번역이 아님니다.)) 
+ 
+12/07 Seoul 003485 (Co) [[07seoul3485| 이명박 지지율 격차 벌려: 핵심접선책 “경기는 끝났다”]]
+
+11/30 Seoul 003424 (CO) [[07seoul3424| 열기가 느껴진다: 공식 대선운동 개시]] 
+ 
+11/21 Seoul 03361 (Co) [[07seoul3361| 운명의 한 주: 대통령 선거까지는 앞으로 한 달]] 
+
+==== 라. 당내 경선 ====
+
+10/12 Seoul 003080 (CO) [[07SEOUL3080|대통합민주신당 경선 미리보기]]
+ 
+10/05 Seoul 003018 (CO) [[07SEOUL3018|대통합민주신당 부정선거 논란 속에 경선 규칙 변경]]
+
+09/19 Seoul 002886 (CO) [[07seoul3515|정동영, 경선 여론 조사에서 손학규 앞서]]
+ 
+09/18 Seoul 002861 (CO) [[07seoul2861| 이명박 경선 승리, 그 다음은?]] 
+ 
+09/17 Seoul 002845 (CO) [[07seoul2845|대통합민주신당의 첫 경선 이후 세 후보로 압축]] 
+ 
+09/06 Seoul 002713 (CO) [[07seoul2713|대통합민주신당, 9명에서 5명으로 후보 압축]]
+ 
+8/31 Seoul 002652 (CO) Lee Myung-Bak Confident After Primary 
+Win 
+ 
+08/27 Seoul 002573 (CO) [[07seoul2573|이명박 10월 남북 정상회담에 반대하고 나서]]
+ 
+08/17 Seoul 002471 (CO) [[07seoul2471|한나라당 경선 선택의 시간 다가와: 이명박이 주도권을 쥐고 있다]] 
+ 
+08/06 Seoul 002356 [[07seoul2356|새 진보정당 : 대통합민주신당 딱히 통합정당이라고 하기가]] 
+ 
+07/09 Seoul 002048 [[07seoul2048|여론 조사 결과 이명박과 박근혜의 격차 좁혀져]]
+ 
+07/09 Seoul 002047 [[07seoul2047|비한나라당 후보들 뭉칠 수있을까?]]
+ 
+07/06 Seoul 002027 A Ray of Sunshine In GNP's New Policy 
+Toward North Korea 
+ 
+06/18 Seoul 001841 [[07seoul1841| 진보연합 종잡을 수가 없다 ]]
+ 
+06/08 Seoul 001756 [[07seoul1756|진보 진영 킹메이커들, 아직 2007년 대선 후보를 결정하지 못해]]
+ 
+06/05 Seoul 001712 (CO) [[07SEOUL1712|박근혜, 자신의 원칙에 대한 확신 변치 않아]]
+ 
+06/05 Seoul 001711 (CO) [[07seoul1711| 이명박 호, 12월까지 순항할 것인가?]] 
+ 
+06/04 Seoul 001686 [[07seoul1686|이명박 운하 사업을 궁리하다]]
+ 
+06/04 Seoul 001684 URI Party Defectors and Democratic Party 
+Create New Party 
+ 
+05/16 Seoul 001479 (CO) [[07seoul1479| 진보진영 통합은 아직 요원]] 
+ 
+05/15 Seoul 001462 Lee Myung-Bak Ends GNP Primary Crisis 
+ 
+05/09 Seoul 001384 (CO) [[07seoul1384| 이명박과 박근혜의 폭로전 가열]]
+ 
+05/08 Seoul (CO) 001361 Sohn Hak-Kyu Plans Trip North to 
+Boost Ratings 
+ 
+04/26 Seoul 001213 (CO) [[07seoul1213| 재보선: 별것 같고 야단법석?]] 
+ 
+04/20  Seoul 001159 (CO) Presidential Candidate Lee 
+Myung-Bak's Polls Take a Dive 
+ 
+04/10 Seoul 001047 [[07seoul1047|정동영 참모들, 외교 정책 방향 설정]]
+ 
+04/03 Seoul 000975 (CO) [[07seoul975| 한나라당 경선 일정—세부 일정 조율]] 
+ 
+03/20 Seoul 000811 (CO) [[07seoul811| 손학규, 한나라당 탈당: 정치적 미래가 끝났나?]] 
+ 
+03/19 Seoul 000794 (CO) [[07seoul794|김근태, 선거에 대해서는 침묵, FTA와 중국에 대해서는 목소리 높여]]
+ 
+03/15 Seoul 000770 (CO) [[07seoul770|이해찬 전 총리 방북: 북은 관계 개선할 준비가 되어 있음]]
+ 
+02/28 Seoul 000516 Sohn Hak-Kyu: New Reform Party 
+Presidential Candidate? 
+ 
+02/15 Seoul 000472 (CO) [[07seoul472|자격을 갖추고 준비된 이명박 지지율 선두]]
+ 
+02/14 Seoul 000449 [[07seoul449|박근혜 대통령 후보: 청와대에 재입성할 수 있을까?]]
+ 
+02/02 Seoul 000333 [[07seoul333|정동영 대통령 후보: 경쟁자인가, 낙오자인가?]]
+ 
+02/02 Seoul 000331 [[07seoul331|이명박 대통령 후보: 보수적 정치인, 진보적 가슴?]]
+==== 마. 사전선거 모습 ==== 
+
+11/28 Seoul 003410 (CO) [[07seoul3410|대통합민주신당 후보 진영, 힘겨운 싸움을 하는 중]]
+ 
+11/23 Seoul 003366 (CO) [[07seoul3366| 대통합민주신당 정 후보 전라도에: 내 사랑 어디에?]] 
+
+11/16 Seoul 003331 (Co) [[07seoul3331|대선 후보들, 아무도 교육 개혁 관련하여 훌륭한 해결책을 내놓지 못해]] 
+ 
+11/14 Seoul 003312 (Co) [[07seoul3312|대통합민주신당과 민주당 합당: 13퍼센트 더하기 1.2퍼센트는 승리일까?]]
+ 
+11/09 Seoul 003285 (Co) [[07seoul3285|이회창 효과]] 
+ 
+10/17 Seoul 003122 (CO) [[07seoul3122|대통합민주신당 새 후보 정동영, 북한 관련 역량에 의존]]
+ 
+10/12 Seoul 003086 (CO) [[07seoul3086|정치적 주요 변수는 한나라당 이명박 후보에게 유리]]
+ 
+10/11 Seoul 003058 (CO) [[07seoul3058|다크호스 후보 문국현에게 기회가 있을까?]]
+ 
+10/05 Seoul 003017 (CO) [[07seoul3017|보수파 후보, 온라인 지지율 상승]]
+ 
+09/28 Seoul 002960 (CO) [[07seoul2960|한나라당 이명박 후보는 분명한 외교 정책 비전이 없다고 참모가 밝혀]]
+ 
+09/19  Seoul 002876 (CO) [[07seoul2876|두 명의 선임 KBS 특파원, 한나라당의 승리가 확실하다고 예상]]
+ 
+09/14 Seoul 002800 (CO) [[07seoul2800|최고의 정치 분석가 “운 좋은 이명박” 12월 대선 승리 예상]]
+ 
+08/30  Seoul 002626 (CO) Moon Kook Hyun: From Paper President 
+to ROK President? 
+ 
+08/22 Seoul 002539 (CO) [[07SEOUL2539|이명박 12월 대선 정조준]] 
+ 
+07/27 Seoul 002269 [[07seoul2269|한국 유권자 사이 종교적 열정]]
+ 
+07/20 Seoul 002178 (CO) [[07seoul2178| 한국 대통령 선거: ‘소용돌이의 정치’는 여전]] 
+ 
+03/12 Seoul 000734 (CO) [[07seoul734| 한국의 대통령 후보자들: 누가 수확체감의 법칙을 쳐다보기나 할까?]]
+==== 그 밖의 다양한 내용들 ==== 
+
+12/07 Seoul 003484 (Co) [[07seoul3484| 경상도: 보수 재집권 기대에 부풀어]] 
+ 
+11/30 Seoul 003426 (CO) [[07seoul3426| 김대중 납치 사건 폭로: 권위주의 시대의 마무리]] 
+ 
+07/20 Seoul 002180 [[07seoul2180|대선 후보의 외교 정책에 대한 학생들의 견해]]
+ 
+07/13 Seoul 002096 [[07seoul2096| 지역주의: 한국 선거에서 여전히 중요한 변수]]
+ 
+07/05 Seoul 002014 [[07seoul2014|대선 후보들의 외교 정책 전망]] 
+ 
+06/29 Seoul 001964(CO) [[07seoul1964|김영삼 전 대통령: 이명박 대통령 당선을 고대한다]]
+ 
+06/27 Seoul 001934 [[07seoul1934|대선 후보들, 비정부 기구 활동에 바짝 긴장]]
+ 
+06/19 Seoul 001848 From Watchdogs to Quasi Political Parties: 
+NGOs in the ROK 
+ 
+06/01 Seoul 001670 [[07seoul1670|이명박 외교 정책 보좌진, 한미 관계와 북한 언급]]
+
+05/14 Seoul 001444 (CO) [[07seoul1444|한명숙 전 총리, 미국의 입장을 이해하려 노력]]
+ 
+05/14 Seoul 001439 (CO) [[07seoul1439|열린우리당 방북 결과: 북한은 자국이 초기조치 합의를 이행한다고 다짐]]
+ 
+05/11 Seoul 001418 (CO) [[07seoul1418| 이명박 참모 남성욱, 경제 문제와 북한 언급]] 
+ 
+04/25 Seoul 001203 (CO) [[07seoul1203| 대선 후보 진영은 어떻게 한국 젊은이들에게 다가서나]] 
+ 
+04/16 Seoul 001088 [[07seoul1088| 광주, 한국 민주주의의 발상지, 2007년 대선 채비에 나서다]] 
+ 
+04/06 Seoul 001012 (CO) [[07seoul1012| 선거전문가들, FTA와 선거에 대해 의견 공유]] 
+ 
+04/06 Seoul 001002 (CO) Elder Statesman Lee Hoi-Chang Warns 
+About North Korea's "Gimmicks" 
+ 
+03/30 Seoul 000935 (CO) [[07seoul935|박근혜 한나라당 후보 참모진, 한미 동맹 강조]] 
+ 
+03/23 Seoul 000851 (CO) [[07seoul851|김영삼 전 대통령, 북한과 국내 정치 언급]]
+ 
+03/02 Seoul 000592 (CO) [[07seoul592|대선 후보 정동영, 정치와 6자 회담, FTA 논의]]
+ 
+02/07 Seoul 000371 (CO) [[07seoul371|대통령 후보들은 대북 관계를 어떻게 규정하는가?]]
+ 
+01/19 Seoul 000167 (CO) [[07seoul167| 열린우리당은 어디로?]] 
+ 
+01/19 Seoul 000166 (CO) [[07seoul166|한나라당, 선두지만 확신할 수는 없어?]] 
+ 
+01/11 Seoul 000083 (CO) [[07seoul83| 정치적 관점에서 바라본 2007년 예산]] 
+ 
+01/03 Seoul 000017 (CO) ROK Presidential Race: End Of Year 
+Polls Show Strong Lead For Former Seoul Mayor Lee Myung-Bak 
+
+3.(기밀) 발생 순서에 따른 목록 
+
+12/11 Seoul 003511 (Co) [[07seoul3511| 정대철 선대본부장: 정 후보와 대통합민주신당 미래 어두워]] 
+ 
+12/11 Seoul 003510 (CO) [[07seoul3510| 이명박, 자신을 승려 묘청에 비유]] 
+ 
+12/07 Seoul 003484 (Co) [[07seoul3484| 경상도: 보수 재집권 기대에 부풀어]] 
+ 
+12/07 Seoul 003485 (Co) [[07seoul3485| 이명박 지지율 격차 벌려: 핵심접선책 “경기는 끝났다”]] 
+ 
+11/30 Seoul 003424 (CO) [[07seoul3424| 열기가 느껴진다: 공식 대선운동 개시]] 
+ 
+11/30 Seoul 003426 (CO) [[07seoul3426| 김대중 납치 사건 폭로: 권위주의 시대의 마무리]] 
+ 
+11/28 Seoul 003410 (CO) [[07seoul3410|대통합민주신당 후보 진영, 힘겨운 싸움을 하는 중]]
+ 
+11/23 Seoul 003366 (CO) [[07seoul3366| 대통합민주신당 정 후보 전라도에: 내 사랑 어디에?]] 
+ 
+11/21 Seoul 03361 (Co) [[07seoul3361| 운명의 한 주: 대통령 선거까지는 앞으로 한 달]] 
+ 
+11/16 Seoul 003331 (Co) [[07seoul3331|대선 후보들, 아무도 교육 개혁 관련하여 훌륭한 해결책을 내놓지 못해]]
+ 
+11/14 Seoul 003312 (Co) [[07seoul3312|대통합민주신당과 민주당 합당: 13퍼센트 더하기 1.2퍼센트는 승리일까?]]
+ 
+11/09 Seoul 003285 (Co) [[07seoul3285|이회창 효과]] 
+ 
+11/06  Seoul 003269 (CO) [[07seoul3269|이인제 후보: 아직도 사퇴하지 않아]] 
+ 
+11/06  Seoul 003268 (CO) [[07seoul3268|이회창 후보: 삼세번 만의 행운?]] 
+ 
+11/05   Seoul 003256 (CO) [[07SEOUL3256|문국현 대통령 후보, 국제 경쟁력에 치중]]
+ 
+10/25  Seoul 003178 [[07seoul3178|정동영 참모: 이번 대선 경제가 말한다]]
+ 
+10/19 Seoul 003137 [[07seoul3137|이명박, 공식 선거대책위원회 공개]] 
+ 
+10/17 Seoul 003122 (CO) [[07seoul3122|대통합민주신당 새 후보 정동영, 북한 관련 역량에 의존]]
+ 
+10/12  Seoul 003086 (CO) [[07seoul3086|정치적 주요 변수는 한나라당 이명박 후보에게 유리]] 
+ 
+10/12 Seoul 003080 (CO) [[07seoul3080|대통합민주신당 경선 미리보기]]
+ 
+10/11 Seoul 003058 (CO) [[07seoul3058|다크호스 후보 문국현에게 기회가 있을까?]]
+ 
+10/05 Seoul 003018 (CO) [[07seoul3018|통합민주신당 부정선거 논란 속에 경선 규칙 변경]]
+ 
+10/05 Seoul 003017 (CO) [[07seoul3017|보수 후보, 온라인 지지율 상승]]
+ 
+09/28 Seoul 002960 (CO) [[07seoul2960|한나라당 이명박 후보는 분명한 외교 정책 비전이 없다고 참모가 밝혀 ]]
+ 
+09/19 Seoul 002886 (CO) [[07seoul3515|정동영, 경선 여론 조사에서 손학규 앞서]]
+ 
+09/19  Seoul 002876 (CO) [[07seoul2876|두 명의 선임 KBS 특파원, 한나라당의 승리가 확실하다고 예상]]
+ 
+09/18 Seoul 002861 (CO) [[07seoul2861|이명박 경선 승리, 그 다음은?]] 
+ 
+09/17 Seoul 002845 (CO) [[07seoul2845|대통합민주신당의 첫 경선 이후 세 후보로 압축]]
+ 
+09/14 Seoul 002800 (CO) [[07seoul2800|최고의 정치 분석가 “운 좋은 이명박” 12월 대선 승리 예상]]
+ 
+09/07 Seoul 002728 (CO) [[07seoul2728|미 대사, 문정인 교수와 원희룡 한나라당 의원과의 회동]]
+ 
+09/06 Seoul 002713 (CO) [[07seoul2713|대통합민주신당, 9명에서 5명으로 후보 압축]]
+ 
+8/31 Seoul 002652 (CO) Lee Myung-Bak Confident After Primary 
+Win 
+ 
+08/30  Seoul 002626 (CO) Moon Kook Hyun: From Paper President 
+to ROK President? 
+ 
+08/27  Seoul 002573 (CO) [[07seoul2573|이명박 10월 남북 정상회담에 반대하고 나서]]
+ 
+08/22 Seoul 002539 (CO) [[07SEOUL2539|이명박 12월 대선 정조준]] 
+ 
+08/17 Seoul 002471 [[07seoul2471| 한나라당 경선 선택의 시간 다가와: 이명박이 주도권을 쥐고 있다]]
+ 
+08/06 Seoul 002356 [[07seoul2356|새 진보정당 : 대통합민주신당 딱히 통합됐다고 하기가]]
+ 
+07/27 Seoul 002269 [[07seoul2269|한국 유권자 사이에 종교적 열정]]
+ 
+07/22 Seoul 002189 [[07seoul2189|정동영 대선 예비후보, 달나라 시대 열어야]]
+ 
+07/20 Seoul 002180 [[07seoul2180|외교 정책에 대한 학생들의 견해]]
+ 
+07/20 Seoul 002178 (CO) [[07seoul2178| 한국 대통령 선거: ‘소용돌이의 정치’는 여전]] 
+ 
+07/13 Seoul 002096 [[07seoul2096| 지역주의: 한국 선거에서 여전히 중요한 변수]] 
+ 
+07/10 Seoul 002063 (CO) Ambassador's Meeting with Former 
+Prime Minister Lee Hae-Chan 
+ 
+07/09 Seoul 002048 [[07seoul2048|여론 조사 결과 이명박과 박근혜의 격차 좁혀져]]
+ 
+07/09 Seoul 002047 [[07seoul2047|비한나라당 후보들 뭉칠 수있을까?]]
+ 
+07/06  Seoul 002027 A Ray of Sunshine In GNP's New Policy 
+Toward North Korea 
+ 
+07/05 Seoul 002014 [[07seoul2014|남한 대통령 후보들의 외교 정책 전망]] 
+ 
+06/29 Seoul 001964(CO) [[07seoul1964|김영삼 전 대통령: 이명박 대통령 당선을 고대한다]]
+ 
+06/27 Seoul 001934 [[07seoul1934|대선 후보들, 비정부 기구 활동에 바짝 긴장]]
+ 
+06/19 Seoul 001848 From Watchdogs to Quasi Political Parties: 
+NGOs in the ROK 
+ 
+06/18 Seoul 001841 [[07seoul1841| 진보연합 종잡을 수가 없다 ]]
+ 
+06/08  Seoul 001756 [[07seoul1756|진보 진영 킹메이커들, 아직 2007년 대선 후보를 결정하지 못해]]
+ 
+06/05 Seoul 001712 (CO) [[07SEOUL1712|박근혜, 자신의 원칙에 대한 확신 변치 않아]]
+ 
+06/05 Seoul 001711 (CO) [[07seoul1711| 이명박 호, 12월까지 순항할 것인가?]] 
+ 
+06/04 Seoul 001686 [[07seoul1686|이명박 운하 사업을 궁리하다]]
+ 
+06/04 Seoul 001684 URI Party Defectors and Democratic Party 
+Create New Party 
+ 
+06/01 Seoul 001670 (CO) [[07seoul1670|이명박 외교 정책 보좌진, 한미 관계와 북한 언급]] 
+ 
+05/16 Seoul 001479 (CO) [[07seoul1479| 진보진영 통합은 아직 요원]] 
+ 
+05/15 Seoul 001462 Lee Myung-Bak Ends GNP Primary Crisis 
+ 
+05/14 Seoul 001444 (CO) [[07seoul1444|한명숙 전 총리, 미국의 입장을 이해하려 노력]]
+ 
+05/14 Seoul 001439 (CO) [[07seoul1439|열린우리당 방북 결과: 북한은 자국이 초기조치 합의를 이행한다고 다짐]]
+ 
+05/11 Seoul 001418 (CO) [[07seoul1418| 이명박 참모 남성욱, 경제 문제와 북한 언급]] 
+ 
+05/09 Seoul 001384 (CO) [[07seoul1384| 이명박과 박근혜의 폭로전 가열]]
+ 
+05/08 Seoul (CO) 001361 Sohn Hak-Kyu Plans Trip North to 
+Boost Ratings 
+ 
+04/26 Seoul 001213 (CO) [[07seoul1213| 재보선: 별것 같고 야단법석?]] 
+ 
+04/25 Seoul 001203 (CO) [[07seoul1203| 대선 후보 진영은 어떻게 한국 젊은이들에게 다가서나]] 
+ 
+04/20  Seoul 001159 (CO) Presidential Candidate Lee 
+Myung-Bak's Polls Take a Dive 
+ 
+04/16 Seoul 001088 [[07seoul1088| 광주, 한국 민주주의의 발상지, 2007년 대선 채비에 나서다]] 
+ 
+04/10 Seoul 001047 Chung Dong-Young's Advisors Set Foreign 
+Policy Direction 
+ 
+04/06 Seoul 001012 (CO) [[07seoul1012| 선거전문가들, FTA와 선거에 대해 의견 공유]] 
+ 
+04/06 Seoul 001002 (CO) Elder Statesman Lee Hoi-Chang Warns 
+About North Korea's "Gimmicks" 
+ 
+04/04 Seoul 000985 (CO) Potential Presidential Candidate 
+Chung Un-Chan: Is Economic Expertise Enough? 
+ 
+04/03 Seoul 000975 (CO) [[07seoul975| 한나라당 경선 일정—세부 일정 조율]] 
+ 
+03/30 Seoul 000935 (CO) [[07seoul935| 박근혜 한나라당 후보 참모진, 한미 동맹 강조]] 
+ 
+03/23 Seoul 000851 (CO) Former President Kim Young-Sam on 
+North Korea and Domestic Politics 
+ 
+03/20 Seoul 000811 (CO) [[07seoul811| 손학규, 한나라당 탈당: 정치적 미래가 끝났나?]] 
+ 
+03/19 Seoul 000794 (CO) [[07seoul794| 김근태, 선거에 대해서는 침묵, FTA와 중국에 대해서는 목소리 높여]]
+ 
+03/15 Seoul 000770 (CO) [[07seoul770|이해찬 전 총리 방북: 북은 관계 개선할 준비가 되어 있음]]
+ 
+03/12 Seoul 000734 (CO) [[07seoul734| 한국의 대통령 후보자들: 누가 수확체감의 법칙을 쳐다보기나 할까?]] 
+ 
+03/05 Seoul 000615 (CO) [[07seoul615| 낙천적인 킹메이커 천정배의 대통합—백일몽인가, 정치적 선견지명인가?]] 
+ 
+03/02 Seoul 000592 [[07seoul592| (CO) 대선 후보 정동영, 정치와 6자 회담, FTA 논의]]
+ 
+02/28 Seoul 000516 Sohn Hak-Kyu: New Reform Party 
+Presidential Candidate? 
+ 
+02/15 Seoul 000472 (CO) [[07seoul472|자격을 갖추고 준비된 이명박 지지율 선두]]
+ 
+02/14  Seoul 000449 [[07seoul449|박근혜 대통령 후보: 청와대에 재입성할 수 있을까?]]
+ 
+02/07 Seoul 000371 (CO) [[07seoul371|대통령 후보들은 대북 관계를 어떻게 규정하는가?]]
+ 
+02/06 Seoul 000357 (CO) [[07seoul357| 미 대사, 박근혜 한나라당 대통령 후보 면담]] 
+ 
+02/02 Seoul 000333 [[07seoul333|정동영 대통령 후보: 경쟁자인가, 낙오자인가?]]
+ 
+02/02 Seoul 000331 [[07seoul331|이명박 대통령 후보: 보수적 정치인, 진보적 가슴?]]
+ 
+01/19 Seoul 000167 (CO) [[07seoul167| 열린우리당은 어디로?]] 
+ 
+01/19 Seoul 000166 (CO) [[07seoul166|한나라당, 선두지만 확신할 수는 없어?]] 
+ 
+01/12 Seoul 000112 (CO) [[07seoul112| 2007년 대선 후보들]] 
+ 
+01/11 Seoul 000083 (CO) [[07seoul83| 정치적 관점에서 바라본 2007년 예산 ]]
+ 
+01/03 Seoul 000017 (CO) ROK Presidential Race: End Of Year 
+Polls Show Strong Lead For Former Seoul Mayor Lee Myung-Bak 
+버시바우
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL3515.rtf>
+C O N F I D E N T I A L SEOUL 003515 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/10/2014 
+TAGS: PGOV [Internal Governmental Affairs], PREL [External Political Relations], PINR [Intelligence], KS [Korea (South)], KN [Korea (North)] 
+SUBJECT: SEOUL 2007 CABLES REGARDING DECEMBER 19 
+PRESIDENTIAL ELECTION 
+ 
+ 
+Classified By: A/POL M/C Brian McFeeters  Reasons 1.4 (b,d). 
+ 
+¶1.  (U) Provided below is a list of post's cables pertaining 
+to the December 17 Presidential election.  This list may be 
+useful in answering questions related to the candidates and 
+the election.  Paragraph 2 highlights key cables by category 
+(Bio Sketches, Ambassador/Embassy Visitors - Candidate 
+Meetings, Final Race, Party Primaries, Pre-Race Posturing, 
+and Miscellaneous) and paragraph 3 provides a chronological 
+listing. 
+ 
+¶2.  (C) Key Cables by category: 
+ 
+A. Biographical Sketches 
+------------------------ 
+11/06 Seoul 003268 (CO) Candidate Lee Hoi-Chang: Third Time's 
+The Charm? 
+ 
+10/25 Seoul 003178 Chung Dong-Young Advisors: It's All About 
+The Economy 
+ 
+10/19 Seoul 003137 Lee Unveils Official Campaign Leadership 
+Team 
+ 
+09/07 Seoul 002728 (CO) Ambassador Meets With Prof. Moon 
+Chung-In, GNP Lawmaker Won Hee-Ryong 
+ 
+07/22 Seoul 002189 Presidential Candidate Chung Dong-Young 
+Reaches for the Moon 
+ 
+04/04 Seoul 000985 (CO) Potential Presidential Candidate 
+Chung Un-Chan: Is Economic Expertise Enough? 
+ 
+03/05 Seoul 000615 (CO) Optimistic Kingmaker Chun Jung-Bae's 
+Great 
+Solidarity - Pipe Dream or Political Vision? 
+ 
+01/12 Seoul 000112 (CO) 2007 ROK Presidential Candidates 
+ 
+ 
+B. Ambassador/Embassy Visitors - Candidates Meetings 
+--------------------------------------------- ------- 
+11/06 Seoul 003269 (CO) Candidate Rhee In-Jae: Still Running 
+ 
+11/05 Seoul 003256 (CO) Presidential Candidate Moon Kuk-Hyun 
+Focuses On International Competitiveness 
+ 
+07/10 Seoul 002063 (CO) Ambassador's Meeting with Former 
+Prime Minister Lee Hae-Chan 
+ 
+02/06 Seoul 000357 (CO) The Ambassador Meets With GNP 
+Presidential 
+Candidate Park Geun-Hye 
+ 
+ 
+C. Final Race 
+------------- 
+12/11 Seoul 003511 (Co) Chung Dong-Young Campaign Manager 
+Chung and UNDP's Future Bleak 
+ 
+12/11 Seoul 003510 (CO) Lee Myung-Bak and Monk Myochung Two 
+Peas from a Pod 
+ 
+12/07 Seoul 003485 (Co) Lee Myung-Bak Stretches His Lead: Key 
+Contacts Say Game Over 
+ 
+11/30 Seoul 003424 (CO) The Heat is on Official Presidential 
+Campaign Kicks Off 
+ 
+11/21 Seoul 03361 (Co) Week of Destiny One Month Till 
+Presidential Election 
+ 
+ 
+D. Party Primaries 
+------------------ 
+10/12 Seoul 003080 (CO) UNDP Primary Preview 
+ 
+10/05 Seoul 003018 (CO)  UNDP Changes Primary Rules Amid 
+Fraud Allegations 
+ 
+09/19 Seoul 002886 (CO) Chung Overtakes Sohn in Polls 
+ 
+09/18 Seoul 002861 (CO) Lee Wins Primary, What Next? 
+ 
+09/17 Seoul 002845 (CO) Three-Man Race Emerges After First 
+Round in UNDP Primary 
+ 
+09/06 Seoul 002713 (CO) UNDP Pre-Primary: Working From Nine 
+to Five 
+ 
+8/31 Seoul 002652 (CO) Lee Myung-Bak Confident After Primary 
+Win 
+ 
+08/27 Seoul 002573 (CO) Lee Myung-Bak Comes Out Against 
+October Summit 
+ 
+08/17 Seoul 002471 (CO) GNP Decision Time Approaches: Lee 
+Myung-Bak in Driver's Seat 
+ 
+08/06 Seoul 002356 New Liberal Party: UNDP Not Quite United 
+ 
+07/09 Seoul 002048 Gap in Polls Closing Between two GNP 
+Heavyweights 
+ 
+07/09 Seoul 002047 Can the Non-GNP Candidates Come Together? 
+ 
+07/06 Seoul 002027 A Ray of Sunshine In GNP's New Policy 
+Toward North Korea 
+ 
+06/18 Seoul 001841 Progressive Coalition: Clear as MUD? 
+ 
+06/08 Seoul 001756 Progressive Kingmakers: Still Undecided on 
+2007 Candidate 
+ 
+06/05 Seoul 001712 (CO) Park Geun-Hye Remains Confident in 
+Her Principles 
+ 
+06/05 Seoul 001711 (CO) Lee Myung-Bak: Smooth Sailing Till 
+December? 
+ 
+06/04 Seoul 001686 Lee Myung-Bak Dreams Up a Canal Project 
+ 
+06/04 Seoul 001684 URI Party Defectors and Democratic Party 
+Create New Party 
+ 
+05/16 Seoul 001479 (CO) Progressives Still Far From United 
+ 
+05/15 Seoul 001462 Lee Myung-Bak Ends GNP Primary Crisis 
+ 
+05/09 Seoul 001384 (CO) Lee and Park Showdown Heats Up 
+ 
+05/08 Seoul (CO) 001361 Sohn Hak-Kyu Plans Trip North to 
+Boost Ratings 
+ 
+04/26 Seoul 001213 (CO) ROK By-Elections: Much Ado About 
+Nothing? 
+ 
+04/20  Seoul 001159 (CO) Presidential Candidate Lee 
+Myung-Bak's Polls Take a Dive 
+ 
+04/10 Seoul 001047 Chung Dong-Young's Advisors Set Foreign 
+Policy Direction 
+ 
+04/03 Seoul 000975 (CO) GNP Primary Schedule - Working Out 
+the Details 
+ 
+03/20 Seoul 000811 (CO) Sohn Hak-Kyu Leaves the GNP: 
+Political Future Over? 
+ 
+03/19 Seoul 000794 (CO) Kim Geun-Tae Silent on Elections, 
+Vocal on FTA and China 
+ 
+03/15 Seoul 000770 (CO) Former PM Lee Hae-Chan's Vist to 
+Pyongyang: North Ready for Improved Relations 
+ 
+02/28 Seoul 000516 Sohn Hak-Kyu: New Reform Party 
+Presidential Candidate? 
+ 
+02/15 Seoul 000472 (CO) Lee Myung-Bak: Qualified, Ready and 
+In First Place 
+ 
+02/14 Seoul 000449 ROK Presidential Candidate Park Geun-Hye: 
+Can She Return Home To The Blue House? 
+ 
+02/02 Seoul 000333 Presidential Hopeful Chung Dong-Young: 
+Contender or Also-Ran? 
+ 
+02/02 Seoul 000331 ROK Presidential Candidate Lee Myung-Bak: 
+Conservative Politics, Progressive Heart? 
+ 
+ 
+E. Pre-Race Posturing 
+--------------------- 
+11/28 Seoul 003410 (CO) UNDP Chung Dong-Young's Camp Facing 
+Uphill Battle 
+ 
+11/23 Seoul 003366 (CO) UNDP Candidate Chung to Jeolla 
+Where's the Love 
+ 
+11/16 Seoul 003331 (Co) Candidates Offer No Good Solution to 
+Education Reform 
+ 
+11/14 Seoul 003312 (Co) UNDP-DP Merger Does 13 Plus 1.2 Equal 
+Victory? 
+ 
+11/09 Seoul 003285 (Co) The Lee Hoi-Chang Effect 
+ 
+10/17 Seoul 003122 (CO) New UNDP Candidate Chung Banks on 
+North Korea Credentials 
+ 
+10/12 Seoul 003086 (CO) All Key Political Factors Favor GNP 
+Candidate Lee Myung-Bak 
+ 
+10/11 Seoul 003058 (CO) Dark Horse Candidate Moon Kuk-Hyun - 
+Does He Have a Chance? 
+ 
+10/05 Seoul 003017 (CO) Conservative Candidate Makes Online 
+Gains 
+ 
+09/28 Seoul 002960 (CO) Advisor Says GNP Candidate Lee Lacks 
+Clear Foreign Policy Vision 
+ 
+09/19  Seoul 002876 (CO) Senior KBS Correspondents See GNP's 
+Victory Inevitable 
+ 
+09/14 Seoul 002800 (CO) Top Political Analyst Says "Lucky 
+Lee" Will Win in December 
+ 
+08/30  Seoul 002626 (CO) Moon Kook Hyun: From Paper President 
+to ROK President? 
+ 
+08/22 Seoul 002539 (CO) GNP Candidate Lee Myung-Bak Takes Aim 
+Toward December 
+ 
+07/27 Seoul 002269 Religious Fervor Among Korean Voters 
+ 
+07/20 Seoul 002178 (CO) ROK Presidential Election: Still the 
+Politics of the Vortex 
+ 
+03/12 Seoul 000734 (CO) ROK Presidential Candidates: Who Is 
+Seeing Diminishing Returns? 
+ 
+ 
+Miscellaneous 
+------------- 
+12/07 Seoul 003484 (Co) Gyeongsang Anticipating the 
+Conservative Revival 
+ 
+11/30 Seoul 003426 (CO) Uncovering the DJ Kidnapping Closing 
+the Door on an Authoritarian Past 
+ 
+07/20 Seoul 002180 Students' Views on Candidates' Foreign 
+Policy 
+ 
+07/13 Seoul 002096 Regionalism: Still a Factor in Korean 
+Elections 
+ 
+07/05 Seoul 002014 Foreign Policy Outlook for South Korean 
+Presidential Candidates 
+ 
+06/29 Seoul 001964(CO) Former President Kim Young-Sam: 
+Looking Forward to Lee Myung-Bak Presidency 
+ 
+06/27 Seoul 001934 NGOs Keep Presidential Candidates on Their 
+Toes 
+ 
+06/19 Seoul 001848 From Watchdogs to Quasi Political Parties: 
+NGOs in the ROK 
+ 
+06/01 Seoul 001670 (CO) Lee Myung-Bak Foreign Policy Advisors 
+on U.S.-ROK Relations and North Korea 
+ 
+05/14Seoul 001444 (CO) Former PM Han Myeong-Sook Seeks to 
+Understand U.S. Position 
+ 
+05/14 Seoul 001439 (CO) URI Party Visit to Pyongyang: DPRK 
+Said it is Committed to Initial Actions Agreement 
+ 
+05/11 Seoul 001418 (CO) Lee Myung-Bak Advisor on Economic 
+Issues and DPRK 
+ 
+04/25 Seoul 001203 (CO) How Presidential Camps are Appealing 
+to Korean Youth 
+ 
+04/16 Seoul 001088 Gwangju: Birthplace of ROK Democracy Gears 
+Up For 2007 Elections 
+ 
+04/06 Seoul 001012 (CO) Election Experts Share Views on FTA 
+and Elections 
+ 
+04/06 Seoul 001002 (CO) Elder Statesman Lee Hoi-Chang Warns 
+About North Korea's "Gimmicks" 
+ 
+03/30 Seoul 000935 (CO) Advisers to GNP Candidate Park 
+Geun-Hye Stress U.S.-ROK Alliance 
+ 
+03/23 Seoul 000851 (CO) Former President Kim Young-Sam on 
+North Korea and Domestic Politics 
+ 
+03/02 Seoul 000592 (CO) Presidential Candidate Chung 
+Dong-Young Discusses Politics, Six Party Talks and FTA 
+ 
+02/07 Seoul 000371 (CO) ROK Presidential Candidates: How They 
+Define Engagement with North Korea 
+ 
+01/19 Seoul 000167 (CO) Whither URI Party? 
+ 
+01/19 Seoul 000166 (CO) GNP: In The Lead, But Not In The Bag? 
+ 
+01/11 Seoul 000083 (CO) Political Perspectives On ROK's 2007 
+Budget 
+ 
+01/03 Seoul 000017 (CO) ROK Presidential Race: End Of Year 
+Polls Show Strong Lead For Former Seoul Mayor Lee Myung-Bak 
+ 
+ 
+¶3. (C) Chronological Listing: 
+ 
+12/11 Seoul 003511 (Co) Chung Dong-Young Campaign Manager 
+Chung and UNDP's Future Bleak 
+ 
+12/11 Seoul 003510 (CO) Lee Myung-Bak and Monk Myochung Two 
+Peas from a Pod 
+ 
+12/07 Seoul 003484 (Co) Gyeongsang Anticipating the 
+Conservative Revival 
+ 
+12/07 Seoul 003485 (Co) Lee Myung-Bak Stretches His Lead: Key 
+Contacts Say Game Over 
+ 
+11/30 Seoul 003424 (CO) The Heat is on Official Presidential 
+Campaign Kicks Off 
+ 
+11/30 Seoul 003426 (CO) Uncovering the DJ Kidnapping Closing 
+the Door on an Authoritarian Past 
+ 
+11/28 Seoul 003410 (CO) UNDP Chung Dong-Young's Camp Facing 
+Uphill Battle 
+ 
+11/23 Seoul 003366 (CO) UNDP Candidate Chung to Jeolla 
+Where's the Love 
+ 
+11/21 Seoul 03361 (Co) Week of Destiny One Month Till 
+Presidential Election 
+ 
+11/16 Seoul 003331 (Co) Candidates Offer No Good Solution to 
+Education Reform 
+ 
+11/14 Seoul 003312 (Co) UNDP-DP Merger Does 13 Plus 1.2 Equal 
+Victory? 
+ 
+11/09 Seoul 003285 (Co) The Lee Hoi-Chang Effect 
+ 
+11/06  Seoul 003269 (CO) Candidate Rhee In-Jae: Still Running 
+ 
+11/06  Seoul 003268 (CO) Candidate Lee Hoi-Chang: Third 
+Time's The Charm? 
+ 
+11/05   Seoul 003256 (CO) Presidential Candidate Moon 
+Kuk-Hyun Focuses On International Competitiveness 
+ 
+10/25  Seoul 003178 Chung Dong-Young Advisors: It's All About 
+The Economy 
+ 
+10/19 Seoul 003137 Lee Unveils Official Campaign Leadership 
+Team 
+ 
+10/17 Seoul 003122 (CO) New UNDP Candidate Chung Banks on 
+North Korea Credentials 
+ 
+10/12  Seoul 003086 (CO) All Key Political Factors Favor GNP 
+Candidate Lee Myung-Bak 
+ 
+10/12 Seoul 003080 (CO) UNDP Primary Preview 
+ 
+10/11 Seoul 003058 (CO) Dark Horse Candidate Moon Kuk-Hyun - 
+Does He Have a Chance? 
+ 
+10/05 Seoul 003018 (CO)  UNDP Changes Primary Rules Amid 
+Fraud Allegations 
+ 
+10/05 Seoul 003017 (CO) Conservative Candidate Makes Online 
+Gains 
+ 
+09/28 Seoul 002960 (CO) Advisor Says GNP Candidate Lee Lacks 
+Clear Foreign Policy Vision 
+ 
+09/19 Seoul 002886 (CO) Chung Overtakes Sohn in Polls 
+ 
+09/19  Seoul 002876 (CO) Senior KBS Correspondents See GNP's 
+Victory Inevitable 
+ 
+09/18 Seoul 002861 (CO) Lee Wins Primary, What Next? 
+ 
+09/17 Seoul 002845 (CO) Three-Man Race Emerges After First 
+Round in UNDP Primary 
+ 
+09/14 Seoul 002800 (CO) Top Political Analyst Says "Lucky 
+Lee" Will Win in December 
+ 
+09/07 Seoul 002728 (CO) Ambassador Meets With Prof. Moon 
+Chung-In, GNP Lawmaker Won Hee-Ryong 
+ 
+09/06 Seoul 002713 (CO) UNDP Pre-Primary: Working From Nine 
+to Five 
+ 
+8/31 Seoul 002652 (CO) Lee Myung-Bak Confident After Primary 
+Win 
+ 
+08/30  Seoul 002626 (CO) Moon Kook Hyun: From Paper President 
+to ROK President? 
+ 
+08/27  Seoul 002573 (CO) Lee Myung-Bak Comes Out Against 
+October Summit 
+ 
+08/22 Seoul 002539 (CO) GNP Candidate Lee Myung-Bak Takes Aim 
+Toward December 
+ 
+08/17 Seoul 002471 (CO) GNP Decision Time Approaches: Lee 
+Myung-Bak in Driver's Seat 
+ 
+08/06 Seoul 002356 New Liberal Party: UNDP Not Quite United 
+ 
+07/27 Seoul 002269 Religious Fervor Among Korean Voters 
+ 
+07/22 Seoul 002189 Presidential Candidate Chung Dong-Young 
+Reaches for the Moon 
+ 
+07/20 Seoul 002180 Students' Views on Candidates' Foreign 
+Policy 
+ 
+ 
+07/20 Seoul 002178 (CO) ROK Presidential Election: Still the 
+Politics of the Vortex 
+ 
+07/13 Seoul 002096 Regionalism: Still a Factor in Korean 
+Elections 
+ 
+07/10 Seoul 002063 (CO) Ambassador's Meeting with Former 
+Prime Minister Lee Hae-Chan 
+ 
+07/09 Seoul 002048 Gap in Polls Closing Between two GNP 
+Heavyweights 
+ 
+07/09  Seoul 002047 Can the Non-GNP Candidates Come Together? 
+ 
+07/06  Seoul 002027 A Ray of Sunshine In GNP's New Policy 
+Toward North Korea 
+ 
+07/05 Seoul 002014 Foreign Policy Outlook for South Korean 
+Presidential Candidates 
+ 
+06/29 Seoul 001964(CO) Former President Kim Young-Sam: 
+Looking Forward to Lee Myung-Bak Presidency 
+ 
+06/27 Seoul 001934 NGOs Keep Presidential Candidates on Their 
+Toes 
+ 
+06/19 Seoul 001848 From Watchdogs to Quasi Political Parties: 
+NGOs in the ROK 
+ 
+06/18 Seoul 001841 Progressive Coalition: Clear as MUD? 
+ 
+06/08  Seoul 001756 Progressive Kingmakers: Still Undecided 
+on 2007 Candidate 
+ 
+06/05 Seoul 001712 (CO) Park Geun-Hye Remains Confident in 
+Her Principles 
+ 
+06/05 Seoul 001711 (CO) Lee Myung-Bak: Smooth Sailing Till 
+December? 
+ 
+06/04 Seoul 001686 Lee Myung-Bak Dreams Up a Canal Project 
+ 
+06/04 Seoul 001684 URI Party Defectors and Democratic Party 
+Create New Party 
+ 
+06/01 Seoul 001670 (CO) Lee Myung-Bak Foreign Policy Advisors 
+on U.S.-ROK Relations and North Korea 
+ 
+05/16 Seoul 001479 (CO) Progressives Still Far From United 
+ 
+05/15 Seoul 001462 Lee Myung-Bak Ends GNP Primary Crisis 
+ 
+05/14 Seoul 001444 (CO) Former PM Han Myeong-Sook Seeks to 
+Understand U.S. Position 
+ 
+05/14 Seoul 001439 (CO) URI Party Visit to Pyongyang: DPRK 
+Said it is Committed to Initial Actions Agreement 
+ 
+05/11 Seoul 001418 (CO) Lee Myung-Bak Advisor on Economic 
+Issues and DPRK 
+ 
+05/09 Seoul 001384 (CO) Lee and Park Showdown Heats Up 
+ 
+05/08 Seoul (CO) 001361 Sohn Hak-Kyu Plans Trip North to 
+Boost Ratings 
+ 
+04/26 Seoul 001213 (CO) ROK By-Elections: Much Ado About 
+Nothing? 
+ 
+04/25 Seoul 001203 (CO) How Presidential Camps are Appealing 
+to Korean Youth 
+ 
+04/20  Seoul 001159 (CO) Presidential Candidate Lee 
+Myung-Bak's Polls Take a Dive 
+ 
+04/16 Seoul 001088 Gwangju: Birthplace of ROK Democracy Gears 
+Up For 2007 Elections 
+ 
+04/10 Seoul 001047 Chung Dong-Young's Advisors Set Foreign 
+Policy Direction 
+ 
+04/06 Seoul 001012 (CO) Election Experts Share Views on FTA 
+and Elections 
+ 
+04/06 Seoul 001002 (CO) Elder Statesman Lee Hoi-Chang Warns 
+About North Korea's "Gimmicks" 
+ 
+04/04 Seoul 000985 (CO) Potential Presidential Candidate 
+Chung Un-Chan: Is Economic Expertise Enough? 
+ 
+04/03 Seoul 000975 (CO) GNP Primary Schedule - Working Out 
+the Details 
+ 
+03/30 Seoul 000935 (CO) Advisers to GNP Candidate Park 
+Geun-Hye Stress U.S.-ROK Alliance 
+ 
+03/23 Seoul 000851 (CO) Former President Kim Young-Sam on 
+North Korea and Domestic Politics 
+ 
+03/20 Seoul 000811 (CO) Sohn Hak-Kyu Leaves the GNP: 
+Political Future Over? 
+ 
+03/19 Seoul 000794 (CO) Kim Geun-Tae Silent on Elections, 
+Vocal on FTA and China 
+ 
+03/15 Seoul 000770 (CO) Former PM Lee Hae-Chan's Vist to 
+Pyongyang: North Ready for Improved Relations 
+ 
+03/12 Seoul 000734 (CO) ROK Presidential Candidates: Who Is 
+Seeing Diminishing Returns? 
+ 
+03/05 Seoul 000615 (CO) Optimistic Kingmaker Chun Jung-Bae's 
+Great Solidarity - Pipe Dream or Political Vision? 
+ 
+03/02 Seoul 000592 (CO) Presidential Candidate Chung 
+Dong-Young Discusses Politics, Six Party Talks and FTA 
+ 
+02/28 Seoul 000516 Sohn Hak-Kyu: New Reform Party 
+Presidential Candidate? 
+ 
+02/15 Seoul 000472 (CO) Lee Myung-Bak: Qualified, Ready and 
+In First Place 
+ 
+02/14  Seoul 000449 ROK Presidential Candidate Park Geun-Hye: 
+Can She Return Home To The Blue House? 
+ 
+02/07 Seoul 000371 (CO) ROK Presidential Candidates: How They 
+Define Engagement with North Korea 
+ 
+02/06 Seoul 000357 (CO) The Ambassador Meets With GNP 
+Presidential Candidate Park Geun-Hye 
+ 
+02/02 Seoul 000333 Presidential Hopeful Chung Dong-Young: 
+Contender or Also-Ran? 
+ 
+02/02 Seoul 000331 ROK Presidential Candidate Lee Myung-Bak: 
+Conservative Politics, Progressive Heart? 
+ 
+01/19 Seoul 000167 (CO) Whither URI Party? 
+ 
+01/19 Seoul 000166 (CO) GNP: In The Lead, But Not In The Bag? 
+ 
+01/12 Seoul 000112 (CO) 2007 ROK Presidential Candidates 
+ 
+01/11 Seoul 000083 (CO) Political Perspectives On ROK's 2007 
+Budget 
+ 
+01/03 Seoul 000017 (CO) ROK Presidential Race: End Of Year 
+Polls Show Strong Lead For Former Seoul Mayor Lee Myung-Bak 
+VERSHBOW
+</file>

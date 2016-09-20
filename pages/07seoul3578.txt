@@ -1,0 +1,258 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  07SEOUL3578  |  2007-12-20 06:37  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KN KS PGOV PREL PINR }}  |
+====== 제 목: 이명박, 전라도를 제외한 전국에서 압승 거둬 ======
+기 밀 SEOUL 003578 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+국방부망 배포
+행정명령 12958: 비밀해제: 12/10/2014 
+태그: KN(([Korea (North)])), KS(([Korea (South)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), PINR(([Intelligence]))
+제 목: 이명박, 전라도를 제외한 전국에서 압승 거둬
+분류자: 정치 참사관 조셉 윤.  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2012/04/09 07:31//
+===== 요점 =====
+1. (민감하지만 미분류) 요점: <wrap hi>12월 19일 이명박이 48.6% 득표율로 한국 대통령에 당선되었다. 2위는 26.3% 득표한 정동영에게 돌아간 가운데, 이회창은 15.1%로 3위에 그쳤다.</wrap> 이명박은 1987년 직선제가 재도입된 이후에 수도권 지역을 석권한 첫 보수 후보이며, 그는 서남부 전라도 지방에서 역대 가장 높은 지지를 받았다. 요약 끝.<WRAP center round info 90%>//**3~5% 앞서던 이회창의 지지율이 실제 대선에선 거꾸로 정동영에게 12% 뒤져**//…(중략) 이회창은 대통합민주신당 정동영 후보가 16.3%의 지지율로 1% 우위를 보이는 SBS-TNS 조사를 제외한 모든 여론조사에서 2위를 고수하고 있다. 이회창은 다른 모든 여론 조사에서 정동영에 3~5% 우위를 점하고 있고 이명박에는 18~21% 뒤처져 있다. [[07seoul3361|제 목: 운명의 한 주: 대통령 선거까지는 앞으로 한 달]] 대선 이전 여론조사에서 3~5%로 뒤지던 정동영이 실제 투표에선 12%나 앞섰으니 환산하면 득료율이 15~17% 차이가 난 셈이다. 또한, 대선을 앞두고 <여론조사에서 보수후보인 이명박이 전라도에서 거의 20%의 지지율이 나오고, 지역 여론조사에서 응답자의 30%가 부동층으로 나타나는 일도 이례적이다>라는 내용의 [[07seoul3366|제 목: 대통합민주신당 정 후보 전라도에: 내 사랑 어디에?]] 전문 3문단에서 보듯 이명박이 전라도에서 거의 20%에 육박했다고 했지만, 실제 대선에선 이명박이 전라도 호남지역에서 10%를 약간 밑돌았다. [[07seoul3574|제 목: 이명박 대선 큰 표차로 승리]] 이 부분도 10% 차이가 난 것이다. 여론 조사는 잊으라, 선거 결과도 믿을 수 없는데 여론조사를 믿는다? 어불성설이다.
+</WRAP>
+===== 수치 곱씹어 보기 =====
+2. (미분류) 비록 12월 19일이 공휴일이었지만, 투표할 자격을 갖춘 총 3,700만 명이 넘는 유권자 가운데, 2,368만 명 혹은 62.9%가 투표하였다. 직선제 대통령 선거 사상 가장 낮은 투표율이다. 투표권자를 수적으로 신장시키기 위해서, 법정투표연령을 20세에서 19세로 낮춘 바 있다. 해외 부재자 투표가 외교관과 군인을 제외하곤 아직 허용되지 않았지만, 2008년에는 재외 국민에게도 투표권을 확대할 계획이 있다.
+
+3. (민감하지만 미분류) 이명박과 정동영 사이에 가장 큰 격차가 난 곳은 경상도 지역이며(경상도 총 투표수 아래 참조), 정동영은 광주와 전라도 지역에서 가장 큰 지지를 받았다(광주 총 투표수 아래 참조). 득표율과 총 투표수로 본 일부 핵심 지역에 투표 현황:
+|    ^  이명박  ^  정동영  ^  이회창  ^
+^  전체  |  48.5  |  26.3  |  15.1  |
+^  :::  |  (10,983,363)  |  (5,965,798)  |  (3,419,149)  |
+^  서울  |  53.2   |  24.6  |  11.8  |
+^  :::  |  (2,424,927  |  (1,119,897)  |  (536,053)  |
+^  광주  |  8.6  |  79.8  |  3.4  |
+^  :::  |  (56,875)  |  (527,588)  |  (22,520)  |
+^  경북  |  72.6  |  6.8  |  13.7  |
+^  :::  |  (1,020,377)  |  (95,422)  |  (192,506)  |
+^  충남  |  34.3  |  21.1  |  33.2  |
+^  :::  |  (313,689)  |  (192,989)  |  (304,246)  |
+^  충북  |  41.6  |  23.8  |  23.4  |
+^  :::  |  (289,453)  |  (165,613)  |  (162,719)  |
+^  부산  |  57.9  |  13.5  |  19.7  |
+^  :::  |  (1,018,715)  |  (236,708)  |  (346,319)  |
+^  경기  |  51.8  |  23.6  |  13.4  |
+^  :::  |  (2,549,399)  |  (1,160,672)  |  (657,767)  |
+===== 지역주의―아직 죽지 않아? =====
+4. (민감하지만 미분류) 이명박은 지역주의를 뛰어 넘는 입후보자라는 상징성으로 10% 득표율을 돌파하기를 희망했지만, 그렇게 하는데 실패했다. 그러나 이명박은 진보 강세 지역에서 보수 후보로써 가장 많은 총 득표수를 얻었다. 또한 정동영은 전라도 지역에서 80% 이상의 지지를 확보하는데 실패했는데, 이 지역은 김대중과 노무현에게 90% 이상의 지지를 보낸 곳이다. 전문가 대부분은 지역주의가 여전히 살아서 건재하지만, 전라도 지역과 가족 관계로 연결되는 대다수 서울 유권자들이 지역주의 구도를 따라 투표하지 않았으므로, 최소한 수도권 지역에서는 지역주의 영향력이 쇠퇴하고 있음을 인정하였다.
+
+5. (민감하지만 미분류)  보수 이명박과 이회창 후보가 경상북도에서 대충 85%의 득표를 했다는 사실은 두 가지를 보여준다: 첫째 지역주의는 죽지 않았고, 다수가 여전히 지역적 구도를 따라 투표하고 있다; 그리고 두 번째 이명박의 많은 득표를 박근혜가 보장해줬다. 이회창이 11월에 처음 대선 경쟁에 뛰어들었을 당시, 대부분의 보수 지역 여론 조사에서 이회창의 그의 극우 정치 기조 덕분에 이명박을 앞서고 있었다. 그러나 11월 말에 경상도 지역에서 박근혜가 선거운동을 시작하자마자, 그 지역 지지의 향방이 이회창에서 이명박으로 넘어갔다.
+
+6. (기밀) 그러나 이회창은 전체 투표에서 15%를 보이면서 꽤 괜찮은 득표율을 보였다. 특히 인상적인 점은 충청도 지역에서 그가 두각을 보인 점인데, 충청도 지역을 거의 승리할 뻔 했다. 이회창은 과거 20년간 김종필이 그랬던 것처럼 충청도와 보수에 뿌리를 둔 자신만의 정치 정당을 출범할 것이 확실하다.
+===== 그 밖의 출마자 =====
+7. (민감하지만 미분류) 문국현 무소속 후보는 총 투표의 5.8%를 획득했고, 권영길 민주노동당 후보는 단 3.0%를 얻었다. 1997년 대선 당시 한나라당에서 탈당한 이후 19.2% 획득했던 이인제는 단 0.7%를 득표하였다. 문국현의 보잘 것 없는 성적으로 말미암아 그가 정당을 구성하여 4월 9일 총선에서 경쟁력있는 후보를 내보낼 전망이 밝지 않다. 그는 대신에 대통합민주당과 힘을 합치는 선택을 할 수도 있다. 또한 권영길의 민주노동당도 현재 국회 의석 중 8석의 비례대표 의석을 유지하기도 버거운 시기가 될 수 있다; 정당은 비례대표 의석을 확보하려면 최소한 5%의 지지를 받아야만 한다. 2007년 가장 많은 12명이 입후보한 선거로 기록되었다. 입후보자는 5억 원을(미화 54만 달러) 지불해야 한다.
+===== 논평 =====
+8. (기밀) 2007년 대선은 거의 모든 지역과 모든 연령과 성별을 망라해서 이명박에 대한 확실한 지지를 보여준 선거 결과였다. 그러나 전라도 지역에서 이명박의 한자리 수 지지율에 더해 경상도 지역에서 양 이씨에 대한 엄청난 지지에서 증명되듯이 지역주의는 살아있고 건재하다. 그래서, 예전처럼 개개인이 어떻게 투표할지 결정하는 가장 중요한 요인은 출생지이다. 서울 시장으로 인기를 구가했던 이명박 전 시장에게 지역적 연고가 없는 대다수의 서울 유권자들이 현재 가장 큰 투표 권역에 속한 점은 행운이다. 이점이 서울에서 지역주의 효과를 상쇄하는데 일조했으며, 그의 압도적인 승리로 이어졌다.
+버시바우
+===== =====
+[[https://sites.google.com/site/poirotkr/9/07seoul3578|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 07SEOUL3578.rtf>
+C O N F I D E N T I A L SEOUL 003578 
+
+SIPDIS 
+
+SIPDIS 
+
+E.O. 12958: DECL: 12/10/2014 
+TAGS: KN [Korea (North)], KS [Korea (South)], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations], PINR [Intelligence] 
+SUBJECT: LEE SWEEPS ALL REGIONS EXCEPT JEOLLA 
+
+
+Classified By: POL Joseph Y. Yun.  Reasons 1.4 (b,d). 
+
+¶1.  (SBU) Summary: December 19, Lee Myung-bak was elected 
+President of Korea with 48.6 percent of the vote.  Second 
+place went to Chung Dong-young with 26.3 percent while Lee 
+Hoi-chang came in third with 15.1 percent.  Lee Myung-bak was 
+the first conservative candidate since direct elections were 
+re-instituted in 1987 to carry the capital region, and he 
+received the highest ever conservative support in the 
+southwest Jeolla Provinces.  End Summary 
+
+---------------- 
+Number Crunching 
+---------------- 
+
+¶2.  (U) Of the over 37 million who were eligible to vote, 
+23.68 million or 62.9 percent voted, despite December 19 
+
+being a national holiday.  It was the lowest turnout for a 
+direct presidential election.  Boosting the number eligible, 
+the legal voting age was lowered from 20 to 19.  Absentee 
+voting for Koreans overseas is not yet allowed for those 
+other than diplomats and soldiers, but there are plans to 
+expand rights for those overseas in 2008. 
+
+¶3.  (SBU) The largest gap between Lee Myung-bak and Chung 
+Dong-young was in the Gyeongsang Provinces (Gyeongsang vote 
+totals below) and Chung received his greatest support in 
+Gwangju and Jeolla Provinces (Gwangju vote totals below). A 
+breakdown of the vote in some key regions, by percentage and 
+vote total: 
+
+LMB           CDY              LHC 
+Overall    48.5           26.3             15.1 
+(10,983,363)   (5,965,798)      (3,419,149) 
+Seoul      53.2           24.6             11.8 
+(2,424,927)    (1,119,897)      (536,053) 
+Gwangju    8.6            79.8             3.4 
+(56,875)       (527,588)        (22,520) 
+Gyeongbuk  72.6           6.8              13.7 
+(1,020,377)    (95,422)         (192,506) 
+Chungnam   34.3           21.1             33.2 
+(313,689)      (192,989)        (304,246) 
+Chungbuk   41.6           23.8             23.4 
+(289,453)      (165,613)        (162,719) 
+Busan      57.9           13.5             19.7 
+(1,018,715)    (236,708)        (346,319) 
+Gyeonggi   51.8           23.6             13.4 
+(2,549,399)    (1,160,672)      (657,767) 
+
+--------------------------- 
+Regionalism - Not Dead Yet? 
+--------------------------- 
+
+¶4.  (SBU) While Lee Myung-bak hoped to break 10 percent in 
+Gwangju and Jeolla Provinces as a symbol that his candidacy 
+was above regionalism, he failed to do so.  However, he did 
+receive the highest vote total ever for a conservative 
+candidate in the liberal stronghold.  Also, Chung failed to 
+receive over 80 percent support in Jeolla, a region that gave 
+Kim Dae-jung and Roh Moo-hyun over 90 percent support.  Most 
+pundits admit that regionalism is still alive and well, but 
+the fact that many voters in Seoul with family ties in Jeolla 
+Provinces did not vote along regional lines shows that 
+regionalism's effect, at least in the capital region, is on 
+the wane. 
+
+¶5.  (SBU) The roughly 85 percent of the vote the two 
+conservative candidates Lee Myung-bak and Lee Hoi-chang 
+received in Gyeongbuk Province showed two things: first that 
+regionalism is not dead and many still vote along regional 
+lines; and second that Park Geun-hye secured many votes for 
+Lee Myung-bak.  When Lee Hoi-chang first entered the race in 
+November, he led Lee Myung-bak in polls in the most 
+conservative province in Korea thanks to his far-right 
+platform.  However, once Park Geun-hye started campaigning 
+for Lee Myung-bak in the region in late November, support 
+swung from Lee Hoi-chang to Lee Myung-bak. 
+
+¶6.  (C) Still, Lee Hoi-chang had a respectable showing at 15 
+percent of the total vote.  Particularly impressive was his 
+strong showing in the Chungcheong region, coming close to 
+winning the province.  Lee Hoi-chang is certain to inaugurate 
+his own political party with Chungcheong and conservative 
+roots, much like Kim Jong-pil did over the past twenty years. 
+
+------------- 
+The Also-Rans 
+------------- 
+
+¶7.  (SBU) Independent candidate Moon Kuk-hyun garnered 5.8 
+percent of the vote and Democratic Labor Party (DLP) 
+candidate Kwon Young-ghil received just 3.0 percent.  Rhee 
+In-je, who won 19.2 percent of the vote in 1997 after 
+splitting from the GNP and forming his own party, received a 
+meager 0.7 percent of the vote.  Moon's paltry showing does 
+not augur well for his chances to form a party and field 
+competitive candidates in the April 9 National Assembly 
+election.  He may instead choose to join forces with the 
+UNDP.  Also, Kwon's DLP could have a difficult time 
+maintaining its 8 proportional seats in the assembly; a party 
+must receive at least 5 percent support to obtain any 
+proportional seats.  There were a record 12 candidates in 
+2007 who paid the 500 million won ( 540,000 USD) to enter the 
+race. 
+
+------- 
+Comment 
+------- 
+
+¶8.  (C) The 2007 election results show clear support for Lee 
+Myung-bak in almost every region and every age or gender 
+category.  However, regionalism remains alive and well as 
+evidenced by his single-digit support in Jeolla Provinces and 
+enormous support for the two Lees in the Gyeongsang 
+Provinces.  So, as before, the place of birth is by far the 
+most important determinant of how one will vote. Lee, as the 
+beloved ex-Mayor, is fortunate that Seoul voters, many of 
+whom have no regional roots, are now the biggest voting bloc. 
+This helped dilute regionalism's effect in Seoul and led to 
+his commanding victory. 
+VERSHBOW
+
+--------------------------- 
+Regionalism - Not Dead Yet? 
+--------------------------- 
+
+¶4.  (SBU) While Lee Myung-bak hoped to break 10 percent in 
+Gwangju and Jeolla Provinces as a symbol that his candidacy 
+was above regionalism, he failed to do so.  However, he did 
+receive the highest vote total ever for a conservative 
+candidate in the liberal stronghold.  Also, Chung failed to 
+receive over 80 percent support in Jeolla, a region that gave 
+Kim Dae-jung and Roh Moo-hyun over 90 percent support.  Most 
+pundits admit that regionalism is still alive and well, but 
+the fact that many voters in Seoul with family ties in Jeolla 
+Provinces did not vote along regional lines shows that 
+regionalism's effect, at least in the capital region, is on 
+the wane. 
+
+¶5.  (SBU) The roughly 85 percent of the vote the two 
+conservative candidates Lee Myung-bak and Lee Hoi-chang 
+received in Gyeongbuk Province showed two things: first that 
+regionalism is not dead and many still vote along regional 
+lines; and second that Park Geun-hye secured many votes for 
+Lee Myung-bak.  When Lee Hoi-chang first entered the race in 
+November, he led Lee Myung-bak in polls in the most 
+conservative province in Korea thanks to his far-right 
+platform.  However, once Park Geun-hye started campaigning 
+for Lee Myung-bak in the region in late November, support 
+swung from Lee Hoi-chang to Lee Myung-bak. 
+
+¶6.  (C) Still, Lee Hoi-chang had a respectable showing at 15 
+percent of the total vote.  Particularly impressive was his 
+strong showing in the Chungcheong region, coming close to 
+winning the province.  Lee Hoi-chang is certain to inaugurate 
+his own political party with Chungcheong and conservative 
+roots, much like Kim Jong-pil did over the past twenty years. 
+
+------------- 
+The Also-Rans 
+------------- 
+
+¶7.  (SBU) Independent candidate Moon Kuk-hyun garnered 5.8 
+percent of the vote and Democratic Labor Party (DLP) 
+candidate Kwon Young-ghil received just 3.0 percent.  Rhee 
+In-je, who won 19.2 percent of the vote in 1997 after 
+splitting from the GNP and forming his own party, received a 
+meager 0.7 percent of the vote.  Moon's paltry showing does 
+not augur well for his chances to form a party and field 
+competitive candidates in the April 9 National Assembly 
+election.  He may instead choose to join forces with the 
+UNDP.  Also, Kwon's DLP could have a difficult time 
+maintaining its 8 proportional seats in the assembly; a party 
+must receive at least 5 percent support to obtain any 
+proportional seats.  There were a record 12 candidates in 
+2007 who paid the 500 million won ( 540,000 USD) to enter the 
+race. 
+
+------- 
+Comment 
+------- 
+
+¶8.  (C) The 2007 election results show clear support for Lee 
+Myung-bak in almost every region and every age or gender 
+category.  However, regionalism remains alive and well as 
+evidenced by his single-digit support in Jeolla Provinces and 
+enormous support for the two Lees in the Gyeongsang 
+Provinces.  So, as before, the place of birth is by far the 
+most important determinant of how one will vote. Lee, as the 
+beloved ex-Mayor, is fortunate that Seoul voters, many of 
+whom have no regional roots, are now the biggest voting bloc. 
+This helped dilute regionalism's effect in Seoul and led to 
+his commanding victory. 
+VERSHBOW
+</file>

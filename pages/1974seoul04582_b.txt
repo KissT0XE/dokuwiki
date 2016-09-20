@@ -1,0 +1,108 @@
+^  문서 고유 번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  1974SEOUL04582_b  |  1974 July 15, 09:13 (Monday)  |  기밀  |  주한 미국 대사관  |  {{tag>PINT PINS KS }}  |
+====== 제 목: 윤보선 공판에 관한 보고 ======
+기 밀 SEOUL 4582
+
+행정명령: 11652: GDS
+태그: PINT((Political Affairs--Internal Security)) PINS((Political Affairs--Internal Political Affairs)) KS((Korea [South]))
+제 목: 윤보선 공판에 관한 보고
+참조하는 전문: [[1974SEOUL04619_b|1974SEOUL04619_b]]
+번역자 제공 참조: [[1974SEOUL04656_b|1974SEOUL04656_b]]
+
+번역자: PoirotKr(트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/11/15 10:30//
+
+1. 주말 통신사들은 7월 13일 윤보선 전 대통령이 본인이 기소되었으며, 그가 7월 16일 예고된 군법회의 공개 심리에 출두할 예정이라고 말했다고 인용해 보도하였다. 7월 15일에 프랑스통신사(AFP)는 반정부 인사로 잘 알려진 <wrap hi>연세대학교 신학대학 학장 김찬국 교수</wrap>, 연세대학교 교수 김동길, 그리고 박형규 목사 등 3명의 지식인이 역시 “//청년동맹에 의한((역주: '민청학련')) 내란을 선동”//했다는 이유로 기소될 예정이라고 추가 보도로 상세히 전했다.<WRAP center round info 80%>//**신학자 故김찬국 연대 교수, 내란선동 혐의 38년만에 무죄**//내란선동 혐의 등으로 징역 5년의 실형을 선고받고 복역한 고(故) 김찬국 연세대학교 교수가 38년만에 명예를 회복했다. 서울고법 형사합의4부(재판장 문용선)는 대통령긴급조치제9호위반과 내란선동 혐의로 기소돼 유죄를 선고받은 김 전 교수의 재심에서 무죄를 선고했다고 3일 밝혔다. 자세한 내용은 [[http://www.newstomato.com/readNews.aspx?no=414926|신학자 故김찬국 연대 교수, 내란선동 혐의 38년만에 무죄]] //뉴스토마토// 일독을 권합니다.
+</WRAP>
+
+2. 대사관 직원이 총리 특별보좌관 한상구에게 이들 외신 보도가 사실인지 묻자, 한상구는 청와대에 전화를 걸더니, 윤보선이 민청학련이 아니라 기소되지 않을 거라고 보고하였다. 윤보선은 다른 3명의 첫 공판에 “참고인” 자격으로 출두 요청을 받고 있다. 그게 무슨 의미인지 묻자, 한상구는 말하길: “//물론 증인 자격이다; 윤보선은 (기소된) 이들과 긴밀한 관계이며, 그들의 활동에 대해 알고 있다.”// 김동길, 박 목사, 김찬국 목사는 [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1974010900099201003&editNo=1&printCount=1&publishDate=1974-01-09&officeId=00009&pageNo=1&printNo=2415&publishType=00020|긴급 조치]] 위반으로 재판을 받고 있다고 한상구는 말하였다.
+
+3. 윤보선이 기소된 이들에 포함되지 않을 거라는 한상구의 단호한 발언에도 다른 3명과 마찬가지로 윤보선의 기소 소식은 7월 15일 미국 선교사 소식통에 의해 확인되었다. G-2 소식통은 기소장 내용을 보았다고 주장한 김대중 씨 부인을 인용하였고, 대사관 접선책도 윤보선의 비서와 사적으로 소식을 확인하였다.
+
+4. 논평: 사실 확인을 위해 공판 기일까지는 기다려 봐야하겠지만, 우리는 윤보선 본인은 기소되지 않는다는 총리 특별보좌관 한상구의 확언을 수용하는 쪽으로 기울었다. 윤보선의 재판 회부와는 관계없이, 다른 3명의 피고인도 본연의 권리 자체로 주요 인사이다. (현재까지 기소된 인사 중 가장 명망이 있다.) 그리고 이들에 대한 공판은 몇몇 비슷한 범주의 인사들도 긴장하게 만들 것이다.
+하비브
+포와로 탐정의 번역 © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.newstomato.com/readNews.aspx?no=414926|신학자 故김찬국 연대 교수, 내란선동 혐의 38 년만에 무죄]] //뉴스토마토//
+  - [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1974071600209201006&editNo=2&printCount=1&publishDate=1974-07-16&officeId=00020&pageNo=1&printNo=16243&publishType=00020|보통군재 윤보선씨 구속]] //동아일보//
+===== 원본 내려받기 =====
+<file rtf 1974SEOUL04582_b.rtf>
+CONFIDENTIAL
+
+PAGE 01  SEOUL 04582  152307Z
+
+72
+ACTION EA-14
+
+INFO  OCT-01  ISO-00  CIAE-00  DODE-00  PM-07  H-03  INR-11  L-03
+
+NSAE-00  NSC-07  PA-04  RSC-01  PRS-01  SP-03  SS-20
+
+USIA-15  DRC-01  /091 W
+---------------------     126138
+R 150913Z JUL 74
+FM AMEMBASSY SEOUL
+TO SECSTATE WASHDC 4861
+INFO AMEMBASSY TOKYO
+CINCPAC
+
+C O N F I D E N T I A L SEOUL 4582
+
+E.O. 11652: GDS
+TAGS: PINT PINS KS
+SUBJECT:  REPORTS ON YUN PO SUN TRIAL
+
+1.  WEEKEND WIRE SERVICE REPORTS ON PRESS CONFERENCE
+GIVEN JULY 13 BY EX-PRESIDENT YUN PO SUN QUOTED YUN
+AS SAYING HE HAD BEEN NOTIFIED OF INDICTMENT AGAINST
+HIM AND THAT HE IS TO APPEAR AT OPEN SESSION COURT-
+MARTIAL TRIAL SET FOR JULY 16.  AGENCE,
+FRANCE PRESS EXPANDS ON STORY JULY 15 INDICATING THREE
+INTELLECTUALS WELL-KNOWN FOR THEIR OPPOSITION TO
+GOVERNMENT, PROF. KIM CHAN KOO, DEAN OF THEOLOGICAL
+COLLEGE YONSEI UNIVERSITY, PROF KIM DONG KIL OF
+YONSEI UNIVERSITY, AND REV. PARK YUONG KYU, ALSO WILL
+BE INDICTED FOR "STIRRING UP RIOT BY THE YOUTH LEAGUE".
+
+2.  WHEN EMBOFF ASKED PRIMIN SECRETARY HAN SANG KUK IF THESE
+REPORTS TRUE LATTER TELEPHONED BLUE HOUSE, THEN REPORTED YUN PO
+SUN WOULD NOT RPT NOT BE INDICTED.  YUN WAS BEING
+REQUESTED TO COME TO FIRST TRIAL SESSION OF OTHER
+THREE "ON REFERENCE."  WHEN ASKED WHAT THIS MEANT,
+HAN SAID:  "AS A WITNESS OF COURSE; YUN WAS CLOSELY
+ASSOCIATED WITH OTHERS AND KNOWS ABOUT THEIR
+ACTIVITIES."  KIM DONG KIL, REV. PARK, AND PROF. KIM
+CONFIDENTIAL
+
+CONFIDENTIAL
+
+PAGE 02  SEOUL 04582  152307Z
+
+CHAN KOO WERE BEING TRIED FOR VIOLATING THE EMERGENCY
+MEASURES HAN SAID.
+
+3.  DESPITE HAN'S FIRM STATEMENT THAT YUN NOT INCLUDED
+AMONG THOSE CHARGED, STORY OF INDICTMENT OF YUN AS WELL
+AS OTHER THREE WAS CONFIRMED JULY 15 BY AMERICAN
+MISSIONARY SOURCE, A G-2 SOURCE QUOTING MRS. KIM
+DAE JUNG WHO CLAIMS TO HAVE SEEN TEXT OF INDICTMENT,
+AND EMBASSY CONTACT WHO CHECKED STORY PERSONALLY WITH
+SECRETARY OF YUN.
+
+4.  COMMENT:  WE INCLINED TO ACCEPT PRIMIN SECRETARY
+HAN'S ASSURANCE THAT YUN PO SUN NOT HIMSELF INDICTED,
+ALTHOUGH WE WILL HAVE TO WAIT UNTIL TRIAL SESSION
+FOR CLARIFICATION.  REGARDLESS WHETHER YUN PO SUN
+TRIED, OTHER THREE DEFENDANTS ARE MAJOR FIGURES
+IN THEIR OWN RIGHT, (THE MOST PRESTIGIOUS TO
+BE INDICTED TO DATE), AND THEIR TRIAL WILL RAISE
+TENSION SEVERAL MORE MOTCHES.
+HABIB
+
+
+CONFIDENTIAL
+
+
+
+
+NNN
+</file>

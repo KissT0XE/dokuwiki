@@ -1,0 +1,80 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  [[https://wikileaks.org/cable/2009/04/09SEOUL634.html|09SEOUL634]]  |  2009-04-17 07:36  |  미분류  |  주한 미국 대사관  |  {{tag>PREL PGOV MARR ECON KPAO KMDR KS US }}  |
+====== 제 목: 서울, 언론 반응 ======
+
+미 분 류 서울 000634
+
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL PGOV MARR ECON KPAO KMDR KS US
+제 목: 서울, 언론 반응
+편집자: PoirotKr (트위터 사용자) --- //[[poirotkr@gmail.com|Micheal H. Rhee]] 2015/08/20 23:31//
+===== 북한 =====
+
+**[사설] 이해타산 쉽지 않은 PSI 전면참여**
+
+중도 한국일보 사설 4월 17일: "노무현 정부가 끝내 기피한 PSI 전면 참여를 '햇볕과의 완전한 결별'인 양 여기는 것은 단순한 시각이다. …더 나아가 한반도 문제에 미국 못지않은 영향력을 지닌 중국이 누구보다 PSI에 민감한 사실을 잘 헤아려야 한다. 이렇듯 미묘한 사안에 정부가 고심을 거듭하는 것은 경위야 어쨌든 비난하기보다 도리어 권장할 일이다."
+
+**[사설]대통령이 나서서 'PSI 혼선' 바로잡아야**
+
+보수 조선일보 사설 4월 17일: "상황이 이 지경에 이른 이상 정부는 PSI 참여 여부에 관한 결정을 졸속(拙速)으로 해선 안 된다. 충분한 시간을 갖고 PSI 참여와 불참에 따라 달라질 각각의 득실(得失)을 따져봐야 하며 각종 시나리오에 대한 만반의 대비책을 세워야 한다. 쫓기듯 결정해서 더 큰 화(禍)를 부르기보다는 한반도 안보 상황 전반을 조망하는 전략적 관점에서 판단하는 게 현명한 방법이다."
+
+**[사설]명분도 실익도 없는 피에스아이 참여**
+
+좌파 성향의 한겨레신문 사설 4월 17일: "정부는 명분도 실익도 없는 피에스아이 전면 참여 방침을 지금이라도 하루빨리 거둬들여야 마땅하다. 일부 강경론에 휩쓸려 계속 밀고 나간다면 북쪽에 대응 카드를 하나 더 안겨주고 남북관계만 더 악화시킬 뿐이다. 이 대통령의 현명한 판단이 필요한 때다."
+
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다
+===== 영문 원본 내려받기 =====
+<file rtf 09SEOUL634.rtf>
+UNCLAS SEOUL 000634 
+ 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PGOV MARR ECON KPAO KMDR KS US
+SUBJECT: SEOUL - MEDIA REACTION 
+ 
+North Korea 
+----------- 
+ 
+ 
+"IT IS NOT EASY TO CALCULATE THE PLUSES AND MINUSES OF PSI 
+PARTICIPATION" 
+ 
+Moderate Hankook Ilbo editorialized (04/17): "It would be too simple 
+to construe the ROK's full participation in the PSI, which the 
+previous Roh Moo-hyun Administration avoided, as a 'complete 
+departure' from the Sunshine Policy... Furthermore, the ROKG should 
+understand that China, which has as much influence on the Korean 
+Peninsula issue as the U.S., is sensitive to the PSI.  It would be 
+desirable, rather than reproachable, for the ROKG to deeply consider 
+this delicate issue." 
+ 
+ 
+"SHOULD WE REALLY RUSH INTO WMD INITIATIVE?" 
+ 
+Conservative Chosun Ilbo editorialized (04/17): "The ROKG should not 
+make a hasty decision on the PSI participation issue.  It should 
+take enough time to calculate the pluses and minuses of full 
+participation and adequately prepare for various scenarios.  Rather 
+than causing more serious damage by racing to decide, it would be 
+wise to consider a strategic point of view that takes into account 
+the overall security situation in the ROK." 
+ 
+ 
+"NO BENEFITS FROM FULL PARTICIPATION IN PSI" 
+ 
+Left-leaning Hankyoreh Shinmun editorialized (04/17): "The ROKG 
+should immediately retract its decision to join the PSI, which is 
+neither justifiable nor beneficial.  If it allows itself to continue 
+to be carried away by calls for a hard-line approach it will only 
+give North Korea one more thing to react to and thereby further hurt 
+inter-Korean relations.  It is time for President Lee to make a wise 
+decision." 
+ 
+ 
+STEPHENS
+</file>

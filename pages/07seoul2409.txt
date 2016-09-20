@@ -1,0 +1,65 @@
+^  문서번호  ^  작성일  ^  공개일자  ^  분류  ^  출처  ^
+| 07SEOUL2409 | 2007-08-10 | 2011-08-30 | 비밀 | 주한 미국 대사관 |
+
+* 비 밀  서울  002409 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR ISN, T, TREASURY, EUR, AND EAP 
+ 
+E.O. 12958: DECL: 08/10/2017 
+태그: KNNP PARM PREL KS IR
+제목: 멜랏 은행의 한국 내 거래 조사 요청
+ 
+참조: SECSTATE 109506 
+ 
+분류자: A/DCM Joseph Y. Yun, 이유 1.4 (b,d). 
+
+====== 멜랏 은행의 한국 내 거래 조사 요청 ======
+1. (S) 8월 6일에 poloff((번역 주: Political Officer))가 함상욱 외교통상부(MOFAT) 군축비확산과 서기관에게 비문서형식으로 참조를 전달하였다. 함상욱은 그것을 공유하고 한국정부의 재정경제부(MOFE)((번역 주: 1998년 정부조직법 개정으로 구 재무부와 재정경제원을 재정경제부로 개편함. 2011년 현재 재정기획부Ministry Of Strategy and Finance(MOSF)로 개편.))에 조사를 요청하는 책임을 맡았다. 후속 회의에서 Econoff((번역 주: Economic Officer))는 그 비문서 전신을 미정부 요청의 후속 조치를 맡은 재정경제부 외환과 과장((번역 주: 재경부 하부의 국제금융국이거나 그 하부 조직으로 보이는데 당시의 정확한 한국어 조직명과 직책명은 모르겠음.)) 김상욱에게 전달하였다.
+스탠턴
+
+====== 원문 ======
+<code>
+Reference ID Created Released Classification Origin
+07SEOUL2409 2007-08-10 07:49 2011-08-30 01:44 SECRET Embassy Seoul
+VZCZCXYZ0009
+PP RUEHWEB
+;
+;DE RUEHUL #2409 2220749
+ZNY SSSSS ZZH
+P 100749Z AUG 07
+FM AMEMBASSY SEOUL
+TO SECSTATE WASHDC PRIORITY 5958
+</code>
+
+<code>
+S E C R E T SEOUL 002409 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR ISN, T, TREASURY, EUR, AND EAP 
+ 
+E.O. 12958: DECL: 08/10/2017 
+TAGS: KNNP PARM PREL KS IR
+SUBJECT: REQUEST TO EXAMINE BANK MELLAT TRANSACTIONS IN SEOUL 
+ 
+REF: SECSTATE 109506 
+ 
+Classified By: A/DCM Joseph Y. Yun, Reasons 1.4 (b,d). 
+
+¶1. (S) On August 6, poloff delivered reftel non-paper and 
+talking points to Ham, Sang-wook, Ministry of Foreign Affairs 
+and Trade (MOFAT), Deputy Director of the Disarmament and 
+Nonproliferation Division.  Ham undertook to share the 
+non-paper and request for investigation with the ROK Ministry 
+of Finance and Economy (MOFE).  In a follow-up meeting, 
+Econoff conveyed the non-paper to MOFE Foreign Exchange Team 
+Deputy Director Kim Kang-suk who also 
+undertook to follow up the USG request. 
+STANTON
+</code>

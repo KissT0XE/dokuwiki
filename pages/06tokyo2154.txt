@@ -1,0 +1,76 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06TOKYO2154  |  2006-04-20 06:45  |  비밀  |  주일미국대사관  |  {{tag>PREL MARR KS JA }}  |
+====== 제 목: 토마스 시퍼 대사 야치 차관과 독도 분쟁 논의 ======
+비 밀 TOKYO 002154 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+국방부망 배포
+국방부 장관은 롤리스 부차관에게 전달((SECDEF PASS TO DUSD LAWLESS, ))
+국가안전보장회의는 국가안전보장보장회의 데니스 와일더, 빅터 차에게 전달((NSC PASS TO D. WILDER AND V. CHA ))
+
+행정명령 12958: 비밀해제: 04/20/2026 
+태그: PREL(([External Political Relations])), MARR(([Military and Defense Arrangements])), KS(([Korea (South)])), JA(([Japan; Okinawa; Ryukyu Islands]))
+제 목: 토마스 시퍼 대사 야치 차관과 독도 분쟁 논의
+참조: [[06tokyo2098|TOKYO 002098]] 
+참조하는 전문: [[06seoul1314|06SEOUL1314]], [[06tokyo2159|06TOKYO2159]], [[06tokyo2221|06TOKYO2221]]
+분류자: 토머스 시퍼 대사((Ambassador J. Thomas Schieffer)). 근거: 1.4 (b)(d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/10/16 16:11//
+
+1. (비밀) 4월 20일 오전 11시에 시퍼 대사는 야치 외무성 사무차관의 요청으로 독도((번역 주: 미국은 '리앙쿠르 암도'라고 부름)) 인근 분쟁 지역에서 일본이 계획 중인 해저지형 조사를 두고 폭발 직전의 긴장 국면과 관련해 야치 차관과 얘기를 나누었다. 야치는 한국이 분쟁 지역 해저지형에 대해 한국 이름을 부여하도록 국제 위원회에((번역 주: 국제수로기구(IHO) 해양지명소위원회)) 제안할 작정이라고 간단히 설명하였다. 일본은 국제 위원회에서 맞불 제안을 하기 위해서 해당 해역을 조사하길 원한다. 한국이 해양 탐사선을 강제력을 동원해 차단할 수 있다고 야치는 말하였다. 야치는 다음날 4월 21일에 이 문제를 평화적으로 해결하기 위해 서울로 이동할 수 있다고 지적하였다((번역 주: 해당 협상☞ [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000325764|한국 "지명 등록 적절한 시기에", 일본 "해저지형 조사 일단 중지"]]  //오마이뉴스//)).
+
+2. (비밀) 시퍼 대사는 미합중국은 일본이 국제법상에 당연한 권리를 보유한다는 점을 이해한다고 말하였다. 한국 사람들이 비이성적으로 행동하고 있으며, 그들이 무슨 미친 짓을 해서 중대한 문제를 야기할까 미합중국은 걱정이다. 문제를 평화롭게 해결하기 위해선 모두가 뒤로 물러설 필요가 있다. 우리는 미국의 동맹국이 서로 총격전을 벌이는 걸 원하지 않는다고 시퍼는 단언하였다. 시퍼 대사는 오늘 중으로 아소 총리와 접촉할 수도 있다고 조언하였다.
+
+3. (기밀) 야치는 시퍼 대사의 우려에 감사하였고, 제 할 일에 성의를 다할 거라고 말하였다. 그는 시퍼 대사가 이 문제에 관한 일본의 견해를 들어보기 위해 외무성에 대사관 대표부를 파견할 것을 요청하였다.
+시퍼
+[[https://sites.google.com/site/poirotkr/tokyo/06tokyo2154|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000325764|한국 "지명 등록 적절한 시기에", 일본 "해저지형 조사 일단 중지"]]  //오마이뉴스//
+  - [[http://legacy.www.hani.co.kr/section-003000000/2005/05/003000000200505261715950.html|‘야치발언’ 파문, 한일 정상회담 변수 부상]]  //한겨레//
+===== 원본 내려받기 =====
+<file rtf 06TOKYO2154.rtf>
+S E C R E T TOKYO 002154 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+SECDEF PASS TO DUSD LAWLESS, 
+NSC PASS TO D. WILDER AND V. CHA 
+ 
+E.O. 12958: DECL: 04/20/2026 
+TAGS: PREL MARR KS JA
+SUBJECT: THE AMBASSADOR AND VFM YACHI DISCUSS LIANCOURT 
+ROCK DISPUTE 
+ 
+REF: TOKYO 002098 
+ 
+Classified By: Ambassador J. Thomas Schieffer.  Reason: 1.4 (b)(d). 
+ 
+ ¶1.  (S)  At 11:00 a.m. on April 20, the Ambassador spoke 
+with VFM Yachi, at Yachi's request, regarding simmering 
+tensions between Japan and the ROK over a planned Japanese 
+maritime survey near the disputed Liancourt Rocks (reftel). 
+He explained, briefly, that the ROK intended to propose to an 
+international commission in June that features on the bottom 
+of the sea in the disputed area be given Korean names.  Japan 
+wants to survey the area in order to make a counter-proposal 
+at the meeting.  Korea, Yachi stated, may use force to block 
+the survey ship.  Yachi further noted that he might travel to 
+Seoul the following day, April 21, to try to resolve the 
+matter peacefully. 
+ 
+¶2.  (S)  The Ambassador stated the United States understands 
+that Japan is within its rights under international law.  The 
+Koreans are behaving irrationally, and the United States is 
+concerned that they may do something crazy, causing a major 
+problem.  Everyone needs to back off, he stressed, to enable 
+the matter to be resolved peacefully.  We do not want our two 
+allies shooting at each other, he asserted.  The Ambassador 
+advised that he might get in touch with FM Aso later in the 
+day. 
+ 
+¶3.  (C)  Yachi thanked the Ambassador for his concern and 
+said he would do his best.  He requested that the Ambassador 
+send an Embassy representative to the Foreign Ministry to 
+hear Japan's position on the issue. 
+SCHIEFFER
+</file>

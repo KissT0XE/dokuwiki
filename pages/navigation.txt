@@ -1,0 +1,74 @@
+^[[start|처음으로]]^
+
+^[[energy_diplomacy|MB '31조 자원외교' 대해부]]^
+
+^세월호 고의 침몰의 증거!^
+| [[http://youtu.be/Mzyi9orcrv8|긴급특보!!! 물헤치며 유유히 전진하는 세월호 괴물 잠수함]] |
+| [[http://j.mp/1tbL7Y6|[김어준의 파파이스#21] 세월호, 지그재그 고의침몰]] |
+| [[http://j.mp/VmvIJq|해경123정이 밧줄로 침몰시키는 영상.-밧줄이미지포함]] |
+| [[sewol_ferry_sinking_accident|▶근조◀ 세월호가 '급변침'으로 침몰? 속임수다!]] |
+
+^레이디가카헌정^
+| [[ladygaka/family|위대한 가계도]] |
+| [[ladygaka/history|과거 의정 활동]] |
+
+^천안함프로젝트^
+| [[cheonan|한국 "천안함" 침몰의 심층]] |
+| [[nytimes|다카키 마사오 뉴욕타임스 진출기]] |
+
+^  한미 FTA 번역 특선  ^
+| [[agriculture| 한미FTA: 농업과 위생, 식물위생(1부)]] |
+| [[agriculture2|한미FTA: 농업과 위생, 식물위생(2부)]] |
+| [[autos|이명박이 붙인 혹 '스냅백'과 자동차]] |
+| [[inanutshell|한미 FTA의 핵심 내용]] |
+| [[investment_ipr_labor|한미 FTA: 외국인 투자, 지적재산권, 노동권 및 노동조건]] |
+| [[procurement| 한미FTA: 정부 조달과 여타 기술 조항]] |
+| [[pharmaceuticals2014|한미 FTA: 의약품과 의료기기]] |
+
+^  위키리크스 18대 대선특집  ^
+| [[07seoul3515|주한미국대사관 2007년 12월 19일 대통령 선거 관련 전문 목록]] |
+
+^  가카헌정페이지  ^
+| [[10_26_ddos|10.26 부정선거 사건]] |
+| [[nakkomsu|나는 꼼수다]] |
+| [[:BBK| 이명박과 BBK ]] |
+| [[:KORUS_FTA| 한미 FTA 재협상까지]] |
+| [[macquarie|맥쿼리그룹의 실체]] |
+| [[08tokyo1985| 독도와 hold back]] |
+
+^ 기본 문서들 ^
+| [[public/intro|소개]] |
+| [[zeitgeist|시대정신 보기]] |
+| [[public/notice|공지사항]] |
+| [[public/links|링크들]] |
+| [[public/howto|번역방법]] |
+| [[wiki/syntax|위키문법]] |
+| [[public/admin|운영진]] |
+| [[public/license|저작권]] |
+| [[public/privacypolicy|개인정보정책]] |
+
+^ 번역 문서들 ^ 
+^ 주한 미국 대사관 ^
+| [[documents/1|1988-03-88~2006-03-06]] |
+| [[documents/2|2006-03-06~2006-05-06]] |
+| [[documents/3|2006-05-06~2006-08-06]] |
+| [[documents/4|2006-08-06~2006-11-06]] |
+| [[documents/5|2006-11-06~2007-02-07]] |
+| [[documents/6|2007-02-07~2007-05-07]] |
+| [[documents/7|2007-05-07~2007-08-07]] |
+| [[documents/8|2007-08-07~2007-12-07]] |
+| [[documents/9|2007-12-07~2008-03-08]] |
+| [[documents/10|2008-03-08~2008-06-08]] | 
+| [[documents/11|2008-06-08~2008-10-08]] |
+| [[documents/12|2008-10-08~2009-01-09]] |
+| [[documents/13|2009-01-09~2009-03-09]] |
+| [[documents/14|2009-03-09~2009-04-09]] |
+| [[documents/15|2009-04-09~2009-05-09]] |
+| [[documents/16|2009-05-09~2009-08-09]] |
+| [[documents/17|2009-08-09~2009-09-09]] |
+| [[documents/18|2009-09-09~2009-11-09]] |
+| [[documents/19|2009-11-09~2010-01-10]] |
+| [[documents/20|2010-01-10~2010-02-10]] |
+^ [[documents/not_embassy_seoul|주한 미국 대사관 외]] ^
+^ [[documents/list|전체 문서]] ^
+{{paypal>-----BEGIN PKCS7-----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-----END PKCS7-----}}

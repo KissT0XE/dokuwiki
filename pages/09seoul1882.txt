@@ -1,0 +1,91 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1882  |  2009-12-01 08:54  |  대외비(4급)  |  주한 미국 대사관  |  {{tag>PREL AF PK KS }}  |
+====== 제 목: 한국 아프가니스탄/파키스탄 전략에 대해 강력한 지지 성명 발표 ======
+
+미 분 류 서울 001882
+
+민감함
+국방부망 배포
+
+행정명령 12958: 해당없음
+태그: PREL AF PK KS
+제 목: 한국 아프가니스탄/파키스탄 전략에 대해 강력한 지지 성명 발표
+
+참조: [[	09STATE122731|STATE 122731]]
+
+민감하되 기밀 분류되지 않았다. 인터넷 배포용도 아니다.
+
+1. (민감하지만 미분류) [[http://www.whitehouse.gov/photos-and-video/video/president-obama-way-forward-afghanistan-and-pakistan|오바마 대통령의 연설]]에 앞서 스티븐스 대사는 한국 외교안보수석 김성환과 미국의 아프가니스탄 정책에 대해 구체적으로 논의했다. 김성환 수석은 오바마 대통령의 연설에 뒤이어 한국 정부가 “지지 성명”을 발표할 거라고 강조하였다.
+
+2. (민감하지만 미분류) 대사관 공관 차석(부대사)은 아프가니스탄/파키스탄 문제를 전담하는 이용준 차관보에게 [[	09STATE122731|참조 전문]]의 정보를 전달하고 그와 함께 후속 논의를 하였다. 이용준은 한국 정부가 미국의 아프간 검토에 대해 사의를 표했으며 특히 병력 인원수와 관련한 자세한 내용을 추가로 받아보길 고대한다고 말했다. 그는 외교통상부가 현지 시각 수요일 오후에 발표할 예정인 성명 전문을 제공했다.
+
+비공식 번역 시작
+
+=== 제 목 : 미국 정부의 아프간 전략 검토 결과 발표 관련 대변인 논평 ===
+
+정부는 미국 정부가 12.1(화) 발표한 「아프간 전략 검토 결과」를 통해 아프간 안정화 및 재건을 가속화하기 위해 병력을 증파하는 등 아프간 지원 노력을 확대키로 한 것을 지지합니다.
+
+정부는 금번 발표 내용을 포함한 미국 정부의 지속적인 노력이 아프간의 조속한 안정화와 재건을 위한 아프간 국민과 국제사회의 노력에 크게 기여할 것이라고 기대합니다.
+
+우리 정부도 국제사회의 아프간 안정화와 재건 지원 노력에 계속 동참해 나갈 것입니다.
+비공식 번역 끝.
+스티븐스
+포와로 탐정의 번역 (c) 무단복제나 전재를 금지합니다.
+
+===== 바깥 고리 =====
+  - [[http://www.mofat.go.kr/webmodule/htsboard/hbd/hbdread.jsp?typeID=6&boardid=235&seqno=325366&c=&t=&pagenum=1&tableName=TYPE_DATABOARD&pc=&dc=&wc=&lu=&vu=&iu=&du=|제목 : 미국 정부의 아프간 전략 검토 결과 발표 관련 대변인 논평 배포일시 : 2009.12.2(수)]] //외교통상부// (본 전문이 타전되고 다음 날인 12.2일 발표된 성명이 같은 내용이다.)
+
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1882.rtf>
+UNCLAS SEOUL 001882 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL AF PK KS
+SUBJECT: ROK TO ISSUE STRONG STATEMENT OF SUPPORT ON 
+AFGHANISTAN/PAKISTAN STRATEGY 
+ 
+REF: STATE 122731 
+ 
+Sensitive but unclassified.  Not for Internet distribution. 
+ 
+¶1. (SBU) In advance of the President's speech, Ambassador 
+discussed U.S. policy on Afghanistan in detail with ROK 
+National Security Advisor Kim Sung-hwan.  Kim stressed that 
+Seoul would issue a "supportive statement" following 
+President Obama's speech. 
+ 
+¶2. (SBU) The DCM followed up with the ROKG's point person on 
+Afghanistan/Pakistan issues, Deputy Foreign Minister Lee 
+Young-joon, delivering the reftel information.  Lee said the 
+ROKG appreciated the preview and looked forward to receiving 
+additional details, particularly on troop numbers.  He 
+provided the text of a statement that MOFAT will release on 
+Wednesday afternoon, local time: 
+ 
+Begin unofficial translation: 
+ 
+Spokesperson's Commentary Regarding the U.S. Government's 
+Announcement of its Afghanistan Strategic Review 
+ 
+The Korean Government supports the expansion of U.S. support 
+for Afghanistan in order to accelerate the stabilization and 
+reconstruction of Afghanistan through the increase of its 
+troops, among others, which was announced on December 1 as 
+the result of the U.S. Government's strategic review. 
+ 
+The Korean Government hopes that the sustained efforts of the 
+U.S. Government, including today's announcement, will 
+contribute greatly to the efforts of the Afghan people and 
+international community for the quick stabilization and 
+reconstruction of Afghanistan. 
+ 
+The Korean Government intends to continue its participation 
+in international efforts to support the stabilization and 
+reconstruction of Afghanistan. 
+ 
+End unofficial translation. 
+STEPHENS
+</file>

@@ -1,0 +1,47 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1830  |  2009-11-18  06:14  |  대외비(4급)  |  주한 미국 대사관  |  {{tag>KNNP EFIN PARM KS  }}  |
+====== 제 목: 연방 행정명령 13382호에 따른 말레이시아 은행과 멜라트 은행장 제재목록 등재 ======
+미 분 류 서울 001830 
+민감함
+국방부망 배포((번역 주: SIPDIS ))  
+국무부 산하 국제안보·비확산국, 전략국, 근동국/이란 동아시아태평양국/한국 귀하
+
+행정명령 12958: 해당없음 
+태그: KNNP EFIN PARM KS
+제 목: 연방 행정명령 13382에 따른 말레이시아 은행과 멜라트 은행 은행장 등재
+참 조: SECSTATE 115135 
+번역자: PoirotKr (번역 주: 트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2011/10/24 08:18//
+
+1. (미분류) 이 전문은 민감하되 미분류이며 인터넷에 배포할 의향도 없다.
+
+2. (민감하지만 미분류) 대사관 경제 공사 참사관은 참조 전문의 외교 문서에 대해 외교통상부 중동1과 과장 여성준과 논의하였다. 여 과장은 해당 정보에 대해 사의를 표했다. 그는 또 한국은 안보리 결의안 1737호, 1747호, 1803호의 이행과 관련해 미국의 목표를 지지한다고 말했다. 여 과장은 동 외교 문서에 대해 어떤 대응이 추가로 생기면 소식을 전해 주겠다고 역시 약속하였다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/19/09seoul1830|포와로 탐정의 번역]] (c) 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 09SEOUL1830.rtf>
+UNCLAS SEOUL 001830 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR ISN, T, NEA/IR AND EAP/K 
+ 
+E.O. 12958: N/A 
+TAGS: KNNP EFIN PARM KS
+SUBJECT: DESIGNATION OF MALAYSIAN BANK AND BANK MELLAT 
+CHAIRMAN UNDER E.O. 13382 
+ 
+REF: SECSTATE 115135 
+ 
+¶1. (U) This cable is sensitive but unclassified and not 
+intended for internet distribution. 
+ 
+¶2. (SBU) Econ M/C discussed reftel demarche with the Director 
+of the Ministry of Foreign Affairs and Trade Middle East 
+Division I, Yeo Sung-Jun.  Director Yeo appreciated the 
+information and said that Korea supports the U.S. objectives 
+with respect to implementation of UNSCRs 1737, 1747, and 
+¶1803.  Yeo also promised to relay any further reaction to the 
+demarche. 
+STEPHENS
+</file>

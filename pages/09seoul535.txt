@@ -1,0 +1,55 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL535  |  2009-04-03 06:00  |  기밀  |  주한미국대사관  |  {{tag>PREL ASEAN KTIA KS }}  |
+====== 제 목: 동남아우호협력조약 가입은 역외국 자격으로 가입 ======
+기 밀 SEOUL 000535 
+국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+동아시아태평양/역내보안정책과, 법률고문/ESA((EAP/RSP, L/ESA ))
+
+행정명령 12958: 비밀해제: 04/03/2019 
+태그: PREL(([External Political Relations])), ASEAN(([Association of Southeast Asian Nations])), KTIA(([Treaties and International Agreements])), KS(([Korea (South)]))
+제 목: 동남아우호협력조약가입은 역외국 자격으로 가입
+참조: STATE 20228 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun)).  근거 1.4 (b), (d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/04 00:04//
+
+1. (기밀) 한국의 동남아우호협력조약 가입 경험과 관련한 참조전문의 질의에 대한 답변으로, 외교통상부 아세안협력과 정병후 과장은 한국이 2004년 11월 동남아우호협력조약에 서명할 당시에 두 가지 유보사항이 있었다고 우리에게 말하였다: 동남아우호협력조약 가입은 한국이 속한 현존하는 조약상의 의무에 영향을 주지 않으며, 한국의 우호협력조약 의무는 동남아시아 역외국과의 관계에 적용되지 않는다. 정병후는 한국은 동남아우호협력조악에 서명한 라오스 비엔티안 2004년 11월 아세안 한·아세안 외무장관 회의에서 이러한 유보사항은 구두로 언급하였고, 해당 유보사항은 장관급 회의록에 기록되어 있다. 정병후에 의하면 한국 국회의 동의는 필요치 않으며, 동남아 우호협력조약과 관련해 가입 이후에 여하한 쟁점이 없었다고 한다.
+스티븐스
+
+[[https://sites.google.com/site/poirotkr/14/09seoul535|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://news.hankooki.com/lpage/world/200411/h2004112807191322510.htm|한국, 동남아 우호협력조약 가입]] //연합뉴스//
+  - [[http://www.aseankorea.org/main/publish/view.jsp?menuID=001003001002001|아세안 분야벌 협력 현황아세안 분야별 협력현황]]  //한·아세안 센터//
+  - [[http://www.mofat.go.kr/webmodule/htsboard/hbd/hbdread.jsp?typeID=6&boardid=235&seqno=289468&c=TITLE&t=&pagenum=590&tableName=TYPE_DATABOARD&pc=&dc=&wc=&lu=&vu=&iu=&du=|동남아우호협력조약 가입]]  //외교통상부//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL535.rtf>
+C O N F I D E N T I A L SEOUL 000535 
+ 
+SIPDIS 
+ 
+EAP/RSP, L/ESA 
+ 
+E.O. 12958: DECL: 04/03/2019 
+TAGS: PREL [External Political Relations], ASEAN [Association of Southeast Asian Nations], KTIA [Treaties and International Agreements], KS [Korea (South)] 
+SUBJECT: ACCESSION TO THE TREATY OF AMITY AND COOPERATION 
+IN SOUTHEAST ASIA:  NON-ASEAN ALLIES' EXPERIENCE 
+ 
+REF: STATE 20228 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b), (d). 
+ 
+(C) In response to reftel's questions regarding the ROK's 
+experience with accession to the Treaty of Amity and 
+Cooperation in Southeast Asia (TAC), MOFAT's ASEAN 
+Cooperation Division Director Jung Byeong-hoo told us April 1 
+that the ROK had two reservations when it signed the TAC in 
+November 2004:  accession to the TAC did not affect the ROK's 
+existing treaty obligations and the ROK's TAC obligations did 
+not apply to relations with states outside of Southeast Asia. 
+ Jung said the ROK voiced these reservations orally at the 
+November 2004 ASEAN Senior Officials' Meeting at which the 
+ROK signed the TAC and that the reservations were recorded in 
+the meeting's minutes.  No ROK parliamentary action was 
+required and there have not been any post-accession issues 
+with regard to the TAC, according to Jung. 
+STEPHENS
+</file>

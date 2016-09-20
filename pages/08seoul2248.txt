@@ -1,0 +1,59 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL2248  |  2008-11-21 04:51  |  기밀  |  주한미국대사관  |  {{tag>PHUM PGOV PREL BM KS }}  |
+====== 제 목: 한국 정부, 최근 버마 군부의 자국민 탄압에 소극적 대처 ======
+  * 기 밀 SEOUL 002248 
+  * 국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+  * 국무부 동아시아태평양/동남아시아본토 (로라 스카입)((DEPARTMENT FOR EAP/MLS {scheibe, laura} ))
+
+  * 행정명령 12958: 비밀해제: 11/20/2018 
+  * 태그: PHUM(([Human Rights])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), BM(([Burma])), KS(([Korea (South)])) 
+  * 제 목: 한국 정부, 최근 버마 군부의 자국민 탄압에 소극적 대처
+  * 참조: STATE 121418 
+  * 번역자 제공 참조: [[09seoul767|09SEOUL767]]
+  * 분류자: 정치 공사 참사관 브라이언 멕피터스((POL M/C Brian D. McFeeters.)).  근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/04/14 13:50//
+1. (기밀) 김영채 외교통상부 동남아과 과장은 참조 전문 외교 문서에 대해 응답하길, 버마와는 비대결적이고 간접적인 접근 방식을 택하는 게 한국정부의 의사라고 말하였다. 버마와((번역 주: 군부가 미얀마로 변경했다.)) 한국의 교류가 제한적이라 한국이 혼자서 버마 정부의 행실에 영향을 줄 거라고는 보지 않는다. 동남아시아국가연합은 버마에 영향력을 행사하는 데 가장 효과적인 포럼이라고 김영채는 말하였다.
+
+2. (기밀) 2010년 선거는 버마 국민이 자국 정부를 개혁할 하나의 기회가 되겠지만, 버마 정부가 야당 지도자들 탄압함으로써 2010년 선거 절차를 훼손시키고 있다는 한국의 진단을 고려하겠다고 김영채는 천명하였다. 그는 랑군((번역 주: 군부가 양곤으로 변경했다.)) 주재 한국 대사관에 서신을 보내서 양국의 우려를 전하고, 더 많은 정보를 요청하겠다고 말하였다.
+
+3. (기밀) 외교통상부 인권사회과는 한국이 버마에 대한 유엔인권위 결의안에 대한 불처리 동의안에 반대할 것이며, 해당 결의안을 한국이 공동 제안하고 지원할 거라고 오늘 확정하였다.
+//스티븐슨//
+[[https://sites.google.com/site/poirotkr/12/08seoul2248|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL2248.rtf>
+C O N F I D E N T I A L SEOUL 002248 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR EAP/MLS (SCHEIBE, LAURA) 
+ 
+E.O. 12958: DECL: 11/20/2018 
+TAGS: PHUM [Human Rights], PGOV [Internal Governmental Affairs], PREL [External Political Relations], BM [Burma], KS [Korea (South)] 
+SUBJECT: PUSHING BACK AGAINST THE JUNTA'S LATEST CRACKDOWN 
+ 
+REF: STATE 121418 
+ 
+Classified By: POL M/C Brian D. McFeeters. Reasons 1.4(b/d) 
+ 
+¶1. (C) MOFAT's Director of the Southeast Asia Division Kim 
+Young-chae said in response to reftel demarche that the 
+ROKG's inclination was to take a non-confrontational, 
+indirect approach with Burma.  Korea's interactions with 
+Burma were so limited, he said, that he did not see how the 
+ROK, acting alone, could influence the government's behavior. 
+ ASEAN, Kim said, was the most effective forum for 
+influencing Burma. 
+ 
+¶2. (C) Kim said the 2010 elections would be an opportunity 
+for the Burmese people to reform the government but pledged 
+to consider our assessment that the government was 
+undermining the 2010 election process by suppressing 
+opposition leaders.  He said he would cable our concerns to 
+the ROK embassy in Rangoon and request more information. 
+ 
+¶3. (C) MOFAT's Human Rights and Social Affairs Division 
+confirmed today that the ROK would oppose a no-action motion 
+on the UN human rights resolution on Burma and support the 
+resolution, co-sponsored by the ROK. 
+STEPHENS
+</file>

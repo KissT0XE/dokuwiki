@@ -1,0 +1,77 @@
+<code>
+VZCZCXYZ0001
+OO RUEHWEB
+
+DE RUEHUL #0822 0730910
+ZNY CCCCC ZZH
+O 140910Z MAR 06
+FM AMEMBASSY SEOUL
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 6585
+INFO RUEHBJ/AMEMBASSY BEIJING PRIORITY 0256
+RUEHKO/AMEMBASSY TOKYO PRIORITY 0340
+RHMFISS/COMUSKOREA J2 SEOUL KOR PRIORITY
+RHMFISS/COMUSKOREA J5 SEOUL KOR PRIORITY
+RHMFISS/COMUSKOREA SCJS SEOUL KOR PRIORITY
+RHEHNSC/NSC WASHINGTON DC PRIORITY
+RUEKJCS/SECDEF WASHINGTON DC//OSD/ISA/EAP// PRIORITY
+</code>
+
+====== 이해찬 총리, 사의 표명 ======
+
+1. (SBU) 여당인 우리당이 이해찬 총리가 물러나야한다는 신호를 명확히 한 후 노대통령은 이 총리의 사임을 수용하겠다는 뜻을 밝혔다. 노무현대통령이 해외순방에서 서울로 돌아온 직후 열린 한 회의에서 이총리는 “망설임이나  분노없이” 그의 “부적절한 골프”(REFTEL 참조)에 대한 책임을 지기위해 사직서를 제출했다. 우리당은 그 후에 열린 정동영 당대표와의 회의에서 노무현대통령이 “당의 뜻을 존중하겠다”고 노대통령이 말했다고 발표했다. 그 말은 노대통령이 사실상 결정을 했다는 것을 나타내주는 것이지만 아직 이총리 사임의 공식적인 수용에는 미치지 못한다.
+
+2. (C) 이총리를 대신할 뚜렷한 선두주자는 아직 나타나지 않았으며 노대통령은 임시총리를 임명하고 5월31일 이후에 정식으로 후임총리를 지명하기로 할 것이라는 보도가 있다. 총리 임명을 중대한 5.31 지방선거 이후로 늦추게 되면 상처를 줄 가능성이 있는  청문회를 연기시킬 수 있을 것이다.     
+
+3. (C) 첨언: 이해찬 총리를 포기하기로 한 여당인 우리당의 결정은 이 총리에 대한 균형을 기울어지게 한 것으로 보인다. 우리당에서는 주말 여론조사에서 60퍼센트의 국민이 이 총리가 사임하기를 원하고, 부정적인 여론이 증가하고 있고, 이총리를 계속 안고 가는 것은 지방선거까지의 기간 동안에 더 큰 부담이 될 것이라는 사실이 밝혀진 후 결정을 내리게 되었다고 보도되고 있다. 하지만 이총리의 사임이 “부적절한 골프”파문을 끝내기는 하겠지만, 그의 사임이 5월 선거에서의 우리당의 전망을 뚜렷하게 호전시킬지는 의심스럽다. 끝.    
+ 
+VERSHBOW 
+
+====== 원문 ======
+
+<code>
+C O N F I D E N T I A L SEOUL 000822 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/14/2016 
+TAGS: PGOV KS
+SUBJECT: PRIME MINISTER OFFERS RESIGNATION 
+ 
+REF: SEOUL 802 
+ 
+Classified By: POL M/C Joseph Y. Yun.  Reasons 1.4 (b/d). 
+ 
+¶1.  (SBU) Following clear signs that the ruling Uri Party 
+believed PM Lee Hae-chan should step down, President Roh has 
+indicated that he will accept Lee's resignation.  In a 
+meeting shortly after Roh's return to Seoul March 14 from an 
+overseas trip, Lee offered his resignation "without 
+reservation or resentment" to take responsibility for his 
+"inappropriate golf" (see REFTEL).  The Uri Party announced 
+that, in a subsequent meeting with party leader Chung 
+Dong-young, Roh had said he would "respect the will of the 
+party."  That statement effectively telegraphs Roh's 
+decision, but is still short of a formal acceptance of Lee's 
+resignation. 
+ 
+¶2.  (C) No clear front-runners have emerged to replace Lee, 
+and we are also hearing reports that Roh might opt to install 
+an interim PM, with a permanent replacement to be named after 
+May 31.  Delaying the nomination would defer a potentially 
+bruising confirmation hearing until after the crucial May 31 
+regional elections. 
+ 
+¶3.  (C) COMMENT:  The ruling Uri Party's decision to abandon 
+Lee Hae-chan appears to have tipped the balance against the 
+PM.  The party was reportedly convinced to act after a 
+weekend poll showed that 60 percent of the public wanted Lee 
+to resign, that negative numbers were going up, and that 
+keeping Lee would create further drag on the Uri Party in the 
+run-up to the regional elections.  Still, although Lee's 
+departure brings an end to the "inappropriate golf" scandal, 
+it is doubtful that Uri's prospects in May will have markedly 
+benefited from the resignation. END COMMENT. 
+VERSHBOW
+</code>

@@ -1,0 +1,154 @@
+^  문서참조번호  ^  생성일  ^  비밀등급  ^  출처  ^  태그  ^
+|  09SEOUL1098  |  2009-07-10 07:20  |  기밀(3급)  |  주한 미국 대사관  |  {{tag>KS KN PGOV PREL }}  |
+====== 제 목: 사이버 공격: 국가정보원이 북한 소행으로 단정한 것은 성급한 처사 ======
+기 밀 SEOUL 001098 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+ 
+행정명령 12958: 비밀해제: 07/10/2019 
+태그: KS(([Korea (South)])), KN(([Korea (North)])), PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations]))
+제 목: 사이버 공격: 국가정보원이 북한 소행으로 단정한 것은 성급한 처사
+분류자: 공관 차석 대리 조셉 윤((A/DCM Joseph Y. Yun)).  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/21 13:48//
+===== 요점 =====
+
+1. (기밀) 요점: 최근 미국과 남한 웹 사이트를 대상으로 한 사이버 디도스(DDoS·분산서비스거부) 공격을 북한의 소행으로 돌린 남한 국정원의 보고서가 국회의원들에 의해 유출된 이후 남한 보수 인쇄 매체는 히스테리적 분위기를 부채질하고 있다. 그러나 북한 또는 “북한 추종세력”들이 사이버 디도스 공격의 배후라는 그 어떤 증거도 국정원이 제시하지 못하면서 결국에 진보 의원들의 비판을 초래하고 말았다. 진보 의원들은 정부가 의도적으로 사이버 디도스 공격의 진원지에 대해 대중을 오도하고 있다고 혐의를 제기하고 있다. 이번 사태로 국정원과 더 나아가 이명박 정부의 모양새가 형편없어지고 있으며, 한국 정부의 강경 정책이 지속적인 남북 대화의 주요한 장애물이라는 북한 정부의 주장에 신빙성을 더해줄 위험의 소지가 있다. 요약 끝.
+===== 배경 =====
+
+2. (민감하지만 미분류) 7월 8일 국정원은 전날 발생해서 남한 정부와 민간 부문 웹 사이트상에 서비스 장애를 초래한 사이버 디도스 공격에 대해 일부 특정 의원들에게 브리핑하였다. 해당 국정원 브리핑은 디도스 공격이 북한 또는 북한에 동조하는 세력의 소행일 수 있다고 보고하고 있다. 구두 및 문건의 형태로 제공된 동 브리핑은 언론에 빠르게 유출되었고 국회의원들은 국정원의 불확실한 주장에 대해 그 의미를 희석하고 있다. 남한 언론 기사는 아직 기술적인 증거는 없다는 "정보 당국"이 디도스 공격의 배후는 북한이 거의 확실하다는 말을 인용하고 있다. 해당 기사들은 폭스 뉴스와 AP 뉴스가 익명의 미 국방부 관리가 같은 주장을 했다고 적시(摘示)하였다. 확실히 이번 국정원 주장의 대부분은 북한의 한국이 미국 주도의 “사이버 스톰” 연습에 참가한다는 계획에 대해 북한이 “고도기술전쟁”에도 대처하겠다고 한 6월 27일 위협에 더해 북한의 예전 해킹 공격에 기초하고 있다.
+===== 미디어 히스테리 증가 =====
+
+3. (기밀) 국정원 브리핑 유출 직후 적어도 한 신문사는 국정원의 문건 전체를 입수해 냈고 보수 언론사들은 기정사실처럼 북한의 개입을 묘사하는 일련의 기사를 신속히 쏟아 내며 불난 데 부채질하고 있다. 한국의 3대 신문사 중 하나인 중앙일보는 이번 사이버 디도스 공격을 미국의 9/11 공격과 비교한 인터넷 보안 업체의 경영자를 인용하였다. 다른 주요 언론사 조선일보는 “북한의 강력한 해킹 부대”라는 제하의 오늘 자 기사에서 남한을 상대로 1990년대 말 사이버 전쟁을 선포한 사이버 전사라고 묘사하고 있다. 또 다른 기사에서 남한 부대와 주한미군 컴퓨터 네트워크를 대상으로 한 해킹 공격이 2008년 대비 15% 증가했다는 “첩보에 정통한 정보 제공자”의 발언을 기사에 실었다.
+===== 새로운 의혹 =====
+
+4. (기밀) 선동적인 오늘 자 기사에서는 사이버 디도스 공격을 북한과 연결할만한 구체적인 증거가 없다는 의혹 보도와 나란히 실리고 있다. 국정원은 오늘 사이버 디도스 공격이 북한이 아닌 남한을 비롯한 미국과 일본, 중국 등 16개국 86개 인터넷 주소로 역추적 되었다고 말하면서 신속히 꽁무니를 빼고 있다. 한국에서는 정부 당국자가 북한의 개입을 배제하지 않았다는 국정원 보고서에 대해 의혹이 제기되고 있고, 야당 의원들로부터 비판을 초래하고 있다. 민주당 대변인은 국정원이 정치적인 목적을 달성하려는 시도임에 더해 계류 중인 국정원 기금과 관할권 확대를 예고한 법안에((역주: ‘사이버 테러 방지법'으로 불리는 ‘국가사이버위기관리법' 제정)) 대해 지지를 얻기 위한 시도일 수 있다고 추정하였다. 야당 대변인은 국정원이 현 정부의 대북 강경 정책을 강화하려는 시도라고 했다.
+===== 논평 =====
+
+5. (기밀) 노무현/김대중 정부 시절에 지나치게 햇볕정책을 수용했다고 보수세력의 비난을 받아온 국정원은 지난 6개월에 걸쳐 대단위 인적 개편을 단행했다. 이 대통령 서울시장 시절 정무부시장을 지낸 원세훈 국정원장은 국정원이 정책 입안이 아닌 첩보 및 안보 기관으로 회귀하라는 청와대의 분명한 지령을 하달받았다. 많은 비평가는 심지어 사이버 디도스 공격 사건 발생 이전부터 청와대의 새 지령을 그 옛날 끔찍했던 중앙정보부 시절로 회귀하라는 뜻으로 국정원이 해석하고 있다고 주장해왔다. 이러한 비판이 또 하나의 구호로 힘이 실리는 까닭은 국정원이 자기들의 정치적 이익을 얻기 위해 북한의 위협을 과장하고 있다는 대중적 인식이 확대되고 있기 때문이다. 현 정부의 대북 정책에 대한 비판 가운데는 국정원의 허위 진술로 인해 꽉 막힌 남북 대화의 진짜 원인은 남한의 대북 강경정책이라는 북한의 주장에 신빙성을 제공해 줄 공산이 켜진다는 비판이 있다. 특히 개성공업지구 관련 가장 최근 대화가 그렇다.
+스티븐스
+[[https://sites.google.com/site/poirotkr/16/09seoul1098|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 바깥 고리 =====
+  - [[http://www.hani.co.kr/arti/society/society_general/365016.html|국정원 ‘북한 배후론’ 증거 못내놓아]] //한겨레// 8-)
+  - [[https://www.evernote.com/shard/s258/sh/b4378358-3ab0-4bf8-ac6d-3833ea75d98c/b40d655525d87c3756e93542251db119|알고도 당한 사이버 공격/국정원 “북한IP 없다”면서도 연일 ‘북한 배후’ 몰고가]] //한겨레//8-)
+  - [[http://www.yonhapnews.co.kr/bulletin/2009/07/08/0200000000AKR20090708223200001.HTML|국정원 "사이버테러 배후 북한 추정"(종합3보)]]  //연합뉴스//:-(
+  - [[http://www.hauri.co.kr/customer/security/boannews_view.html?intSeq=2725&page=207&keyfield=&key=|국정원, DDoS공격 미연에 포착했다면, 왜 막지 못했나?]] //보안뉴스//
+  - [[http://issue.chosun.com/site/data/html_dir/2009/07/13/2009071300690.html|북한 해커조직 IP(인터넷 접속위치) 확인됐다]]  //조선일보//:-/
+  - [[http://srchdb1.chosun.com/pdf/i_archive/read_body.jsp?ID=2009071000148&FV=%C7%D8ŷ&searchPage=simple&collectionName=gisa&INDEX_FV=&INDEX_FV=TI&INDEX_FV=TX&INDEX_FV=KW&AU_FV=&PD_TYPE=false&PD_F0=year&PD_F1=20090709&PD_OP=1&PD_F2=20090710&DATA_SORT=4&LIMIT=20&LIST_TYPE=true&PP_F1=|[韓ㆍ美 핵심기관 사이버 테러]AP·폭스뉴스 ＂美 독립기념일(7월 4일) 맞춰 공격… 북한이 배후 조종＂]]  //조선일보//:-(
+  - [[http://www.chosun.com/site/data/html_dir/2009/07/09/2009070900612.html|미 국방부 관리 "사이버 테러 배후는 북한" …폭스뉴스 보도]]  //조선일보//:-(
+  - [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001174638|국정원, 'DDoS 북한 배후설' 꼬리 내리나]] //오마이뉴스//8-)
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL1098.rtf>
+C O N F I D E N T I A L SEOUL 001098 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 07/10/2019 
+TAGS: KS [Korea (South)], KN [Korea (North)], PGOV [Internal Governmental Affairs], PREL [External Political Relations] 
+SUBJECT: CYBER ATTACKS: NIS PREMATURE IN BLAMING NORTH KOREA 
+ 
+Classified By: A/DCM Joseph Y. Yun.  Reasons 1.4 (b,d). 
+ 
+¶1. (C) Summary:  Reports by South Korea's National 
+Intelligence Service (NIS), leaked by National Assembly 
+lawmakers, that blamed North Korea for the recent spate of 
+Denial of Service cyber attacks against U.S. and South Korean 
+websites quickly fueled hysteria in South Korea's 
+conservative print media.  The inability of the NIS, however, 
+to produce any evidence that North Korea or its 
+"sympathizers" are behind the attacks has subsequently 
+provoked criticism from progressive lawmakers, who accuse the 
+government of purposely misleading the public about the 
+source of the attacks.  The incident reflects poorly on the 
+NIS and, by extension, the Lee Myung-bak Administration, and 
+risks lending credence to Pyongyang's claims that Seoul's 
+hardline policy is the primary obstacle in continuing 
+inter-Korean talks.  END SUMMARY. 
+ 
+---------- 
+Background 
+---------- 
+ 
+¶2.  (SBU) On July 8, the NIS briefed select lawmakers about 
+the cyber attacks that had begun the previous day and 
+disrupted service on South Korean government and private 
+sector websites.  These NIS briefings reported that North 
+Korea or North Korean sympathizers may have been to blame for 
+the attacks.  The brief, provided both verbally and in 
+documentary form, quickly leaked to the press, with lawmakers 
+downplaying the NIS's uncertainty.  South Korean media 
+reports cited "intelligence officials" who said that, while 
+technical proof was not yet available, North Korea was almost 
+certainly behind the attacks.  The articles also referenced 
+Fox News and Associated Press reports citing unnamed Defense 
+Department officials who made the same claims.  Apparently, 
+much of the NIS's case rested on previous North Korea hacking 
+attacks and North Korea's June 27 threats about a "high-tech 
+war" in response to Seoul's plan to participate in the 
+U.S.-led exercise "Cyber Storm," which simulates a federal 
+response to a major cyber attack. 
+ 
+------------------------- 
+Increasing Media Hysteria 
+------------------------- 
+ 
+¶3.  (C) Immediately after the leak of the NIS brief -- at 
+least one newspaper managed to get the entire document -- 
+conservative media outlets quickly fanned the flames by 
+releasing a series of reports representing North Korea's 
+involvement as a foregone conclusion.  The Joongang Daily -- 
+one of Korea's big-three newspapers -- cited the CEO of an 
+internet security company who compared the cyber attacks to 
+the September 11, 2001 attacks in the United States.  Another 
+major newspaper, the Chosun Ilbo, ran a story today titled, 
+"North Korea's Powerful Hacker Army," which describes cyber 
+warriors who are believed to have declared war on the South 
+in the late 1990s.  In still another article, "a source 
+familiar with intelligence matters" said that hacking 
+attempts on South Korean military and USFK computer networks 
+had increased 15 percent compared to 2008. 
+ 
+---------- 
+New doubts 
+---------- 
+ 
+¶4.  (C) Today's inflammatory reports coincided with new 
+doubts about the lack of tangible evidence linking North 
+Korea to the attacks.  Backtracking quickly, the NIS today 
+said the attacks were traced to 86 internet protocol 
+addresses in 16 countries, including South Korea, the United 
+States, Japan, and China but not to North Korea.  These 
+reports, which government officials note does not rule out 
+North Korean involvement, are raising doubts in South Korea 
+and provoking criticism from opposition lawmakers.  The 
+Democratic Party spokesperson accused the NIS of trying to 
+achieve political aims and speculated it might be seeking to 
+build support for a pending bill that would increase the 
+organization's funding and jurisdiction.  The spokesperson 
+also suggested that the NIS was trying to reinforce the 
+hardline North Korean policy of the current administration. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶5.  (C) Blamed by the conservatives for overly accommodating 
+the Sunshine Policy during the Roh Moo-hyun/Kim Dae-jung era, 
+the NIS went through a major personnel reshuffle over the 
+past six months.  The NIS director, Won Sei-hoon, deputy 
+mayor for political affairs when President Lee was Seoul 
+Mayor, received a clear mandate from the Blue House to return 
+the NIS to an intel and security agency, not a policy-making 
+agency.  Many critics have argued, even before the cyber 
+attack incident, that the NIS was interpreting its new 
+mandate to return to the bad old days of the KCIA, especially 
+in dealings with North Korea.  These critics now have another 
+rallying cry, because there is an increasing public 
+perception that the NIS overstated the threat for its own 
+political gain.  Among critics of the current government's 
+policy toward North Korea, the misrepresentation of NIS 
+claims is likely to give credence to North Korea's argument 
+that the real cause for stalled inter-Korean talks -- 
+especially the most recent talks over the Kaesong Industrial 
+Complex (KIC) -- is South Korea's overly hardline policy 
+toward the North. 
+STEPHENS
+</file>

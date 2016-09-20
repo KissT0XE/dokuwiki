@@ -1,0 +1,55 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  09SEOUL767  |  2009-05-14 02:56  |  기밀  |  주한미국대사관  |  {{tag>PHUM PGOV PREL KS BM }}  |
+====== 제 목: 한국 정부, 정치적으로 민감한 버마 문제 회피 ======
+기 밀 SEOUL 000767 <WRAP right>[{{ ::버마장성과이명박.jpg?nolink&250|지난 6월 초에 제주에서 '한-아세안 특별정상회의'가 열렸다. 이 자리에 __버마의 떼인 세인 총리__도 참석했는데, 그는 육군 대장으로 버마에서 네 번째로 높은 고위 장성이다. 게다가 그는 __민주적으로 선출된 총리가 아니라 군부에 의해 임명된 총리__로 서방세계에서는 인정을 받지 못하고 있다. [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001160591|합법적인 정통성을 가진 총리는 바로 1990년 총선에서 압도적인 승리를 거둔 아웅산 수치 여사이기 때문이다.]]//오마이뉴스//}}]</WRAP>
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+동아시아태평양/동남아시아본토 로라 스카입에게 전달하기 바람((PLEASE PASS TO LAURA SCHEIBE IN EAP/MLS.)) 
+ 
+행정명령 12958: 비밀해제: 05/12/2019 
+태그: PHUM(([Human Rights],)) PGOV(([Internal Governmental Affairs])), PREL(([External Political Relations])), KS(([Korea (South)])), BM(([Burma]))
+제 목: 한국 정부, 정치적으로 민감한 버마 문제 회피
+참조: SECSTATE 46562 
+참조하는 전문: [[09seoul828|09SEOUL828]]
+분류자: 공관 차석 대리 요셉 윤((A/DCM Joseph Yun)).   근거 1.4 (b/d).
+번역자 제공 참조: [[08seoul2248|08SEOUL2248]]
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/05/22 06:18// 
+
+1. (기밀) 참조전문 국무부 외교문서에 대한 응답으로, 외교통상부 김영채 동남아과장은 아웅산 수치의 가택연금을 끝내라는 버마 정부에 대한 국제적인 압력을 미국정부가 촉구하고 있다는 점을 자신의 상관에 전달하겠다고 5월 11일에 말하였다. 그러나 김 과장은 한국이 버마의 상황의 개선을 독려하되 간접적인 수단에 한정된 것임을 분명히 하였다. 이는 <wrap hi>버마의 총리</wrap>가 6월 1~2일에 예고된 제주 한·아세안 관계 20주년 기념 특별정상회담에 참석할 예정이라는 게 가장 직접적인 이유라고 했다. 한국정부는 기념행사의 공동 성명과 관련 아세안 정상들과의 논의 //“시작부터”// 민감한 문제를 피할 계획을 세웠다; 아세안 회원국은 비슷한 의향을 피력하였다. 이번 정상회담이 축하 목적의 행사이기 때문에, 버마에 대한 정치적인 문제를 제기하는 게 시기적으로 옳지 않다고 김영채는 말하였다.
+===== 바깥 고리 =====
+  - [[http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001160591|버마의 민주화 요구 외면하는 대한민국]]  //오마이뉴스//
+===== 원본 및 내려받기 =====
+<file rtf 09SEOUL767.rtf>
+C O N F I D E N T I A L SEOUL 000767 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO LAURA SCHEIBE IN EAP/MLS. 
+ 
+E.O. 12958: DECL: 05/12/2019 
+TAGS: PHUM [Human Rights], PGOV [Internal Governmental Affairs],
+PREL [External Political Relations], KS [Korea (South)], BM [Burma] 
+SUBJECT: ROKG STEERING CLEAR OF BURMA POLITICAL 
+SENSITIVITIES 
+ 
+REF: SECSTATE 46562 
+ 
+Classified By: A/DCM Joseph Yun.  Reasons 1.4 (b/d). 
+ 
+¶1. (C) In response to the reftel demarche, ROK Ministry of 
+Foreign Affairs and Trade (MOFAT) Southeast Asia Director Kim 
+Young-chae said on May 11 that he would convey to his 
+superiors that the U.S. was urging international pressure on 
+the Burmese government to end the house arrest of Aung San 
+Suu Kyi.  Director Kim made it very clear, however, that the 
+ROK would encourage improvement in conditions in Burma only 
+by indirect means if at all.  The most immediate reason for 
+this is that the Burmese prime minister will be in attendance 
+at a summit commemorating 20 years of Korea-ASEAN relations 
+scheduled for June 1-2 on Jeju island.  The ROKG had planned 
+to avoid sensitive issues "from the beginning" in discussions 
+with ASEAN on a joint statement for the event; ASEAN members 
+had evinced similar inclinations.  Because the summit is 
+meant to be a celebration, Kim said, the timing is not right 
+for raising political issues with the Burmese. 
+STANTON
+</file>

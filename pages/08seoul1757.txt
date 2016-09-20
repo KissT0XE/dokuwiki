@@ -1,0 +1,49 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1757  |  2008-09-05 06:00  |  기밀  |  주한미국대사관  |  {{tag>PREL KDEM PGOV PHUM KS }}  |
+====== 제 목: 한국, APDP 고위급 회의 개최에 거부 의사 밝혀 ======
+  * 기 밀 SEOUL 001757 
+  * 국방부망 배포((번역 주:  SIPDIS, Siprnet Distribution))
+ 
+  * 행정명령 12958: 비밀해제: 09/05/2018 
+  * 태그: PREL(([External Political Relations])), KDEM(([Democratization])), PGOV(([Internal Governmental Affairs])), PHUM(([Human Rights])), KS(([Korea (South)]))
+  * 제 목: 한국, APDP 고위급 회의 개최에 거부 의사 밝혀
+  * 참조: STATE 94545 
+  * 참조하는 전문: [[08seoul1820|08SEOUL1820]], [[08seoul1847|08SEOUL1847]], [[08seoul1859|08SEOUL1859]], [[08seoul2166|08SEOUL2166]]
+  * 분류자: 정치 참사관 데이비드 울프((POL David J. Wolff))  근거 1.4(b/d) 
+  * 번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/03/27 00:34//
+1. (기밀) 박유리 외교통상부 인권사회과장은 아시아태평양 민주주의 협력체(이하 APDP) 고위급 회의 //“주최가 불가능하게 되었다.”//라고 대사관 정무 직원에게 말하였다(참조 전문). 박유리는 아시아 태평양 지역에 민주주의 증진을 도모하려는 미국정부의 구상에 감사하지만, 이번 APDP의 성격에 대해 일부 국가들의 유보적 태도로 말미암아 이번 회의를 주재할 수 없다고 말하였다. 어떤 국가가 유보적 의사를 표했는지를 묻자, 박유리는 단지 인도네시아만을 거론하면서, 인도네시아가 APDP와 발리 민주주의 포럼 간에 너무 많이 중첩된다고 우려하고 있다. 박유리는 만일 다른 국가들이 고위급 회의를 개최한다면, 한국이 참석할 공산이 크다고 말하였다.
+//버시바우//
+[[https://sites.google.com/site/poirotkr/11/08seoul1757|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다. 
+===== 바깥 고리 =====
+  - [[http://www.mofat.go.kr/mofat/htm/issue/APDP.pdf|아시아태평양 민주주의 협력체의 개요]]  //외교통상부//
+===== 원본 및 내려받기 =====
+<file rtf 08SEOUL1757.rtf>
+C O N F I D E N T I A L SEOUL 001757 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 09/05/2018 
+TAGS: PREL [External Political Relations], KDEM [Democratization], PGOV [Internal Governmental Affairs], PHUM [Human Rights], KS [Korea (South)] 
+SUBJECT: ROK SAYS "NO" TO HOSTING APDP SENIOR OFFICIALS' 
+MEETING 
+ 
+REF: STATE 94545 
+ 
+Classified By: Classified By: POL David J. Wolff. Reasons 1.4(b/d) 
+ 
+(C)  MOFAT Deputy Director of the Human Rights and Social 
+Affairs Division Park Yu-ri told poloff on September 5 that 
+the ROK would "find it impossible to host" an Asia Pacific 
+Democracy Partnership (APDP) senior officials' meeting this 
+year (reftel).   Park said the ROK appreciates the USG's 
+initiative to promote democracy in the Asia Pacific region 
+and wants to play an appropriate role, but cannot host a 
+meeting at this time because of some countries' reservations 
+about the nature of the APDP.  Asked which countries had 
+voiced reservations, Park named only Indonesia, saying 
+Indonesia was concerned there would be too much overlap 
+between the APDP and the Bali Democracy Forum.  Park said 
+that if another country were to host the senior officials' 
+meeting it is likely the ROK would participate. 
+VERSHBOW
+</file>

@@ -1,0 +1,39 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  08SEOUL1314  |  2008-07-01 07:08  |  기밀  |  주한미국대사관  |  {{tag>PREL ARF EAID ASEAN KS }}  |
+====== 제 목: 지역 재난 구호 관련 아세안지역안보포럼 장관 성명은 관망 입장 선호 ======
+기 밀 SEOUL 001314 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution))
+ 
+행정명령 12958: 비밀해제: 07/01/2018 
+태그: PREL(([External Political Relations])), ARF(([ASEAN Regional Forum])), EAID(([Foreign Economic Assistance])), ASEAN(([Association of Southeast Asian Nations])), KS(([Korea (South)]))
+제 목: 지역 재난 구호 관련 아세안지역안보포럼 장관 성명은 관망 입장 선호
+참조: [[08state61440|STATE 61440]]
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Yun)). 근거 1.4(b/d) 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/11/07 08:53//
+
+1. (기밀) 오유진 외교통상부 남아시아대양주지역협력과 과장 직무 대리는 싱가포르 아세안지역안보포럼 외교장관회의에 앞서 지역 재난 구호 관련 장관 성명을 적절히 논의하기에는 시간이 충분치 않다고 말하였다. 오히려 2008년 12월 아세안지역안보포럼 회기간회의 중에 재난 구호에 관한 문서를 배포해야만 한다.
+버시바우
+[[https://sites.google.com/site/poirotkr/11/08seoul1314|포와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+====== 원본 내려받기 ======
+<file rtf 08SEOUL1314.rtf>
+C O N F I D E N T I A L SEOUL 001314 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 07/01/2018 
+TAGS: PREL ARF EAID ASEAN KS
+SUBJECT: ROK PREFERS TO WAIT ON ARF MINISTERIAL STATEMENT 
+ON DISASTER PREPAREDNESS 
+ 
+REF: STATE 61440 
+ 
+Classified By: POL M/C Joseph Yun. Reasons 1.4(b/d) 
+ 
+¶1. (C) Oh You-jin, MOFAT Deputy Director for South Asian and 
+Oceanian Regional Cooperation, said that there was not enough 
+time before the Singapore ARF Ministerial to adequately 
+discuss a Ministerial Statement on Regional Disaster 
+Preparedness.  Rather, such a document on disaster relief 
+should be circulated during the ISM meeting in December 2008. 
+VERSHBOW
+</file>

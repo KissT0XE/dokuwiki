@@ -1,0 +1,122 @@
+^  문서번호  ^  생성일  ^  분류  ^  출처  ^  태그  ^
+|  06SEOUL4297  |  2006-12-18 06:51  |  기밀  |  주한미국대사관  |  {{tag>KVPR PTER PREL PGOV PINR CVIS ASEC KHLS KS }}  |
+====== 제 목: 테러리스트 정보 교환 추진: 한국 ======
+기 밀 SEOUL 004297 
+국방부망 배포((번역 주: SIPDIS, Siprnet Distribution ))
+국방부망 배포
+
+행정명령 12958: 비밀해제: 12/18/2016 
+태그: KVPR(([Visas VIPER Communications])), PTER(([Terrorists and Terrorism])), PREL(([External Political Relations])), PGOV(([Internal Governmental Affairs])), PINR(([Intelligence])), CVIS(([Visas])), ASEC(([Security])), KHLS(([Homeland Security])), KS(([Korea (South)]))
+제 목: 테러리스트 정보 교환 추진: 한국
+참조: STATE 190832 
+분류자: 정치 공사 참사관 조셉 윤((POL M/C Joseph Y. Yun)).  근거 1.4 (b,d). 
+번역자: PoirotKr (트위터 사용자명) --- //[[poirotkr@wikileaks-kr.org|Micheal H. Rhee]] 2013/07/30 08:56//
+
+(미분류) 아래의 응답은 참조 전문의 질문에 장단을 맞추었다: 
+
+가. (민감하지만 미분류) 출입국 데이터베이스: 
+
+  * 법무부 산하 출입국은((번역 주: 2013년 현재 '출입국외국인정책본부'란 칭한다.)) 출입국관리정보시스템이라고 불리는 출입국 추적시스템을 유지하고 있다. 출입국관리정보시스템은 한국의 모든 통관항에서 활용되고 있다.
+
+  * 대사관의 국토안보부 미국 출입국 및 세관국은 출입국관리정보시스템을 효과적이고 대부분의 선진국가에 있는 시스템과 대동소이하다고 평가하고 있다. 한국 출입국은 예산상의 제약으로 향후 소프트웨어와 하드웨어 업그레이드에 여파가 있을 수 있다고 시사하였다.
+
+  * 출입국관리정보시스템 데이터베이스는 매일 정보가 갱신된다.
+나. (민감하지만 미분류) 감시 대상 목록과 정보 공유:
+  * 한국정부와 법집행기관은 출입국관리정보시스템에 통합된 이름을 토대로 한 금지 대상자를 발표하였다.
+
+  * 출입국관리정보시스템은 강제 추방자와 출입국 위반자, 테러리스트 감시 대상자, 그리고 지명 수배자와 체포 영장에 대해 이름을 토대로 한 금지 대상자를 담고 있다.
+
+  * 한국에 출입하고 통과하는 개인 여행자에 관심이 있는 국외 국가들은 적절한 한국 기관으로 하여금 출입국관리정보시스템에서 금지 대상자를 포착할 수 있도록 요청할 수 있다. 예로 인터폴이나 테러리스트 감시센터 비행금지 리스트와 같은 국제 감시 대상명단을 시스템상에 포함하지 않았다. 모든 요청은 사건 별로 검토하고 추가된다.
+
+  * 법무부 출입국에 의하면 현재 감시 대상 명단에 대한 협정은 마련되지 않았다.
+다. (민감하지만 미분류) 생체정보:
+  * 한국은 통관항에 생체정보 시스템을 동원하고 있지 않다. 법무부 출입국은 여권의 신상 기재란 이미지를 스캔할 수 있고, 출입국 기록을 유지관리하고, 신상 정보를 출입국관리정보시스템과 더불어 자동으로 교차점검 할 수 있는 기계 판독 여관 시스템을 최근에 설치하였다.
+
+  * 한국은 현재 전혀 생체 기술을 동원하고 있지 않지만, 앞으로 안면과 지문, 홍채인식 시스템을 사용하는 생체 인식 시스템을 개발할 계획에 있다.
+
+  * 현재 한국은 기계 판독 여권을 사용하고 있다. 2007년 법무부 출입국은 새로운 생체인식 여권에 대한 다중 인식 시스템을 설치할 계획이다. 
+
+라. (기밀) 미 대사관은 한국이 데이터 공유 확대에 적합한 동업자가 되도록 충고하고 있다. 한국이 유지 관리하는 데이터는 종합적이고 매일 정보가 갱신되며, 앞으로 생체 데이터를 포함하도록 확대될 공산이 크다. 현행 임시 방편적인 시스템은 미국과 국제 감시대상 자료를 출입국관리정보시스템에 담아내기가 번거롭다. 한국이 미국의 감시 대상자 목록을 부적절하게 사용하거나 공유한다는 징후는 없다.
+버시바우
+[[https://sites.google.com/site/poirotkr/5/06seoul4297|프와로 탐정의 번역]] © 무단복제나 전재를 금지합니다.
+===== 원본 내려받기 =====
+<file rtf 06SEOUL4297.rtf>
+C O N F I D E N T I A L SEOUL 004297 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/18/2016 
+TAGS: KVPR PTER PREL PGOV PINR CVIS ASEC KHLS KS
+SUBJECT: PURSUIT OF TERRORIST INFORMATION EXCHANGE: ROK 
+ 
+REF: STATE 190832 
+ 
+Classified By: POL M/C Joseph Y. Yun. Reasons 1.4 (b,d). 
+ 
+(U) The following responses are keyed to reftel questions: 
+ 
+¶A. (SBU) Immigration Databases: 
+ 
+-- The Korean Immigration Bureau (KIB) under the Ministry of 
+Justice maintains a computerized entry and exit tracking 
+system called Immigration Control Information System (ICIS). 
+ICIS is available at all ROK ports of entry (POEs). 
+ 
+-- Post's Department of Homeland Security, Immigration and 
+Customs Enforcement (DHS/ICE) evaluates the ICIS system as 
+effective and on par with systems in most industrialized 
+countries.  The KIB has indicated that budgetary constraints 
+could impact future software and hardware upgrades. 
+ 
+-- The ICIS database is updated daily. 
+ 
+¶B. (SBU) Watchlist and Information Sharing: 
+ 
+-- ROK government and law enforcement agencies issue 
+name-based lookouts that are integrated into ICIS. 
+ 
+-- ICIS contains name-based lookouts for deportees and 
+immigration violators, terrorist lookouts, and criminal wants 
+and warrants. 
+ 
+-- Foreign countries that are interested in individuals 
+traveling through, into, or out of the ROK can request that 
+the appropriate ROK agency place a lookout in ICIS.  There is 
+no systematic inclusion of international watchlists such as 
+Interpol or TSA No Fly lists.  All requests are reviewed and 
+included on a case-by-case basis. 
+ 
+-- According to the KIB, there are currently no watchlist 
+agreements in place. 
+ 
+¶C. (SBU) Biometrics: 
+ 
+-- The ROK does not currently employ any biometric systems at 
+its POEs.  The KIB recently installed a Machine Readable 
+Passport system that is capable of scanning the image of the 
+biographic page of the passport, maintaining entry and exit 
+records, and automatically cross-checking the biographic 
+information with ICIS. 
+ 
+-- The ROK does not currently employ any biometric 
+technologies, but has plans to develop biometric systems 
+using face, fingerprint, and iris recognition in the future. 
+ 
+-- Currently, the ROK uses a machine readable passport.  The 
+KIB plans to install a Multi-Identifying System for their new 
+biometric passport in 2007. 
+ 
+¶D. (C) Embassy advises that the ROK would be an appropriate 
+partner for increased data sharing.  The data maintained by 
+the ROK is comprehensive and updated daily and is likely to 
+expand to include biometric data in coming years.  The 
+current ad-hoc system for including U.S. and international 
+watchlist data in ICIS is cumbersome.  At present, Post 
+shares information on an ad-hoc or informal basis with 
+various ROK government entities.  There is no indication that 
+the ROK would inappropriately share or use U.S. watchlist 
+data. 
+VERSHBOW
+</file>
