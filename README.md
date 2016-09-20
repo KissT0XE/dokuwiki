@@ -1,8 +1,8 @@
 # 위키리크스한국
 
-위키리크스한국(http://wikileaks-kr.org) 에서 그간 서비스했던 dokuwiki 디렉토리내의 data/pages, data/media 디렉토리 백업입니다.
+위키리크스한국(http://wikileaks-kr.org) 에서 그간 서비스했던 도쿠위키(https://www.dokuwiki.org/ko:dokuwiki) 디렉토리내의 data/pages, data/media 디렉토리 백업입니다.
 
-웹서비스 중단을 대비하여 데이터 필요로 하는 분들과 차후 새로운 웹사이트를 위해 github 에 공개합니다.
+웹서비스 중단을 대비하여 데이터 필요로 하는 분들과 차후 새로운 웹사이트에 사용될것을 대비하기 위해 github 에 공개합니다.
 
 ## 라이센스 
 
